@@ -4,10 +4,15 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Indianapolis Colts — News</title>
+
+  <!-- Icons / PWA (safe to keep; won’t break anything) -->
   <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
   <link rel="icon" href="static/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16.png" />
   <link rel="manifest" href="static/manifest.webmanifest" />
   <meta name="theme-color" content="#003A70" />
+
   <link rel="stylesheet" href="static/style.css" />
 </head>
 <body>
@@ -15,32 +20,103 @@
     <img id="logo" src="static/logo.png" alt="Colts logo" />
     <h1 id="title">Indianapolis Colts — News</h1>
   </header>
+
+  <!-- Quick links buttons (fed by STATIC_LINKS in items.json) -->
   <nav id="quick-links" class="pills"></nav>
+
   <section class="controls">
-    <div class="left"><label for="sourceFilter">Source:</label>
-      <select id="sourceFilter"><option value="">All sources</option></select>
+    <div class="left">
+      <label for="sourceFilter">Source:</label>
+      <select id="sourceFilter">
+        <option value="">All sources</option>
+      </select>
     </div>
-    <div class="right"><span id="updated">Updated: —</span><span id="newBadge" hidden>New items available — refresh</span></div>
+    <div class="right">
+      <span id="updated">Updated: —</span>
+      <span id="newBadge" hidden>New items available — refresh</span>
+    </div>
   </section>
+
   <main id="grid" class="grid"></main>
+
   <script>
     const state = { data: null, lastCount: 0 };
-    async function loadData(){
-      const res=await fetch("items.json",{cache:"no-store"});
-      const data=await res.json();state.data=data;state.lastCount=(data.items||[]).length;render();}
-    function render(){const d=state.data;if(!d)return;
-      const ql=document.getElementById("quick-links");ql.innerHTML="";
-      (d.static_links||[]).forEach(l=>{const a=document.createElement("a");a.href=l.url;a.target="_blank";a.rel="noopener";a.textContent=l.label;a.className="pill";ql.appendChild(a)});
-      const dd=document.getElementById("sourceFilter");const chosen=dd.value;dd.innerHTML='<option value="">All sources</option>';
-      (d.sources||[]).forEach(s=>{const o=document.createElement("option");o.value=s;o.textContent=s;dd.appendChild(o)});if(chosen)dd.value=chosen;
-      const ts=new Date(d.updated_at||Date.now());document.getElementById("updated").textContent="Updated: "+ts.toLocaleString();
-      const grid=document.getElementById("grid");grid.innerHTML="";let items=d.items||[];if(dd.value)items=items.filter(i=>i.source===dd.value);
-      for(const it of items){const card=document.createElement("article");card.className="card";const a=document.createElement("a");a.className="title";a.href=it.url;a.target="_blank";a.rel="noopener";a.textContent=it.title;
-        const meta=document.createElement("div");meta.className="meta";const dt=new Date(it.published||Date.now());meta.textContent=(it.source||"Source")+" • "+dt.toLocaleString();
-        card.appendChild(a);card.appendChild(meta);grid.appendChild(card);}}
-    async function poll(){try{const res=await fetch("items.json",{cache:"no-store"});const d=await res.json();const n=(d.items||[]).length;if(n>state.lastCount){const b=document.getElementById("newBadge");b.hidden=false;b.onclick=()=>{state.data=d;state.lastCount=n;b.hidden=true;render();};}}catch(e){}}
+
+    async function loadData() {
+      const res = await fetch("items.json", { cache: "no-store" });
+      const data = await res.json();
+      state.data = data;
+      state.lastCount = (data.items || []).length;
+      render();
+    }
+
+    function render() {
+      const d = state.data; if (!d) return;
+
+      // Quick links buttons
+      const ql = document.getElementById("quick-links"); ql.innerHTML = "";
+      (d.static_links || []).forEach(l => {
+        const a = document.createElement("a");
+        a.href = l.url; a.target = "_blank"; a.rel = "noopener";
+        a.textContent = l.label; a.className = "pill";
+        ql.appendChild(a);
+      });
+
+      // Sources dropdown
+      const dd = document.getElementById("sourceFilter"); const chosen = dd.value;
+      dd.innerHTML = '<option value="">All sources</option>';
+      (d.sources || []).forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s; opt.textContent = s;
+        dd.appendChild(opt);
+      });
+      if (chosen) dd.value = chosen;
+
+      // Updated timestamp
+      const ts = new Date(d.updated_at || Date.now());
+      document.getElementById("updated").textContent = "Updated: " + ts.toLocaleString();
+
+      // Article cards
+      const grid = document.getElementById("grid"); grid.innerHTML = "";
+      let items = d.items || [];
+      if (dd.value) items = items.filter(i => i.source === dd.value);
+      for (const it of items) {
+        const card = document.createElement("article"); card.className = "card";
+
+        const a = document.createElement("a");
+        a.className = "title";
+        a.href = it.url; a.target = "_blank"; a.rel = "noopener";
+        a.textContent = it.title;
+
+        const meta = document.createElement("div"); meta.className = "meta";
+        const dt = new Date(it.published || Date.now());
+        meta.textContent = (it.source || "Source") + " • " + dt.toLocaleString();
+
+        card.appendChild(a);
+        card.appendChild(meta);
+        grid.appendChild(card);
+      }
+    }
+
+    // Light polling to detect new items.json
+    async function poll() {
+      try {
+        const res = await fetch("items.json", { cache: "no-store" });
+        const data = await res.json();
+        const newCount = (data.items || []).length;
+        if (newCount > state.lastCount) {
+          const badge = document.getElementById("newBadge");
+          badge.hidden = false;
+          badge.onclick = () => {
+            state.data = data; state.lastCount = newCount; badge.hidden = true; render();
+          };
+        }
+      } catch (e) {}
+    }
+
     document.getElementById("sourceFilter").addEventListener("change", render);
-    loadData();setInterval(poll,5*60*1000);
+    loadData();
+    setInterval(poll, 5 * 60 * 1000);
   </script>
 </body>
 </html>
