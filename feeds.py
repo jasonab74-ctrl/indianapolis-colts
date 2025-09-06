@@ -18,22 +18,20 @@ EXCLUDE_TOKENS = [
     "Pacers", "basketball", "baseball", "softball", "soccer", "volleyball", "hockey",
     "Notre Dame", "Fighting Irish", "Hoosiers", "Boilermakers", "Purdue", "Indiana University",
     "Texans", "Houston Texans", "House of Houston",
+    "Tennessee Titans", "Jacksonville Jaguars",
 ]
 
-# Trusted Colts outlets bypass strict filtering
 FEEDS = [
     {"name": "colts.com", "url": "https://www.colts.com/rss", "trusted": True},
     {"name": "NFL.com — Indianapolis Colts", "url": "https://www.nfl.com/rss/team/ind", "trusted": True},
     {"name": "Colts Wire (USA Today)", "url": "https://coltswire.usatoday.com/feed/", "trusted": True},
     {"name": "Stampede Blue", "url": "https://www.stampedeblue.com/rss/index.xml", "trusted": True},
-    {"name": "The Athletic — Colts", "url": "https://theathletic.com/team/colts/feed/", "trusted": True},
     {"name": "ESPN — Indianapolis Colts", "url": "https://www.espn.com/blog/indianapolis-colts/rss", "trusted": True},
     {"name": "NBC Sports — Colts", "url": "https://www.nbcsports.com/rss/team/indianapolis-colts", "trusted": True},
     {"name": "Bleacher Report — Colts", "url": "https://bleacherreport.com/articles/feed?tag_id=2604", "trusted": True},
     {"name": "Yahoo Sports — Colts", "url": "https://sports.yahoo.com/nfl/teams/ind/rss/", "trusted": True},
     {"name": "Reddit — r/Colts", "url": "https://www.reddit.com/r/Colts/.rss", "trusted": True},
 
-    # Aggregators (filtered, not trusted)
     {"name": "\"Indianapolis Colts\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Indianapolis+Colts%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
