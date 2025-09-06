@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Indianapolis Colts — News</title>
 
-  <!-- Icons / PWA (safe to keep; won’t break anything) -->
   <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
   <link rel="icon" href="static/favicon.ico" />
   <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png" />
@@ -21,7 +20,6 @@
     <h1 id="title">Indianapolis Colts — News</h1>
   </header>
 
-  <!-- Quick links buttons (fed by STATIC_LINKS in items.json) -->
   <nav id="quick-links" class="pills"></nav>
 
   <section class="controls">
@@ -53,7 +51,7 @@
     function render() {
       const d = state.data; if (!d) return;
 
-      // Quick links buttons
+      // Quick links
       const ql = document.getElementById("quick-links"); ql.innerHTML = "";
       (d.static_links || []).forEach(l => {
         const a = document.createElement("a");
@@ -62,61 +60,45 @@
         ql.appendChild(a);
       });
 
-      // Sources dropdown
+      // Sources
       const dd = document.getElementById("sourceFilter"); const chosen = dd.value;
       dd.innerHTML = '<option value="">All sources</option>';
       (d.sources || []).forEach(s => {
-        const opt = document.createElement("option");
-        opt.value = s; opt.textContent = s;
-        dd.appendChild(opt);
+        const o = document.createElement("option"); o.value = s; o.textContent = s; dd.appendChild(o);
       });
       if (chosen) dd.value = chosen;
 
-      // Updated timestamp
+      // Updated
       const ts = new Date(d.updated_at || Date.now());
       document.getElementById("updated").textContent = "Updated: " + ts.toLocaleString();
 
-      // Article cards
+      // Cards
       const grid = document.getElementById("grid"); grid.innerHTML = "";
       let items = d.items || [];
       if (dd.value) items = items.filter(i => i.source === dd.value);
       for (const it of items) {
         const card = document.createElement("article"); card.className = "card";
-
-        const a = document.createElement("a");
-        a.className = "title";
-        a.href = it.url; a.target = "_blank"; a.rel = "noopener";
-        a.textContent = it.title;
-
+        const a = document.createElement("a"); a.className = "title"; a.href = it.url; a.target="_blank"; a.rel="noopener"; a.textContent = it.title;
         const meta = document.createElement("div"); meta.className = "meta";
         const dt = new Date(it.published || Date.now());
         meta.textContent = (it.source || "Source") + " • " + dt.toLocaleString();
-
-        card.appendChild(a);
-        card.appendChild(meta);
-        grid.appendChild(card);
+        card.appendChild(a); card.appendChild(meta); grid.appendChild(card);
       }
     }
 
-    // Light polling to detect new items.json
     async function poll() {
       try {
         const res = await fetch("items.json", { cache: "no-store" });
-        const data = await res.json();
-        const newCount = (data.items || []).length;
-        if (newCount > state.lastCount) {
-          const badge = document.getElementById("newBadge");
-          badge.hidden = false;
-          badge.onclick = () => {
-            state.data = data; state.lastCount = newCount; badge.hidden = true; render();
-          };
+        const d = await res.json(); const n = (d.items || []).length;
+        if (n > state.lastCount) {
+          const b = document.getElementById("newBadge"); b.hidden = false;
+          b.onclick = () => { state.data = d; state.lastCount = n; b.hidden = true; render(); };
         }
       } catch (e) {}
     }
 
     document.getElementById("sourceFilter").addEventListener("change", render);
-    loadData();
-    setInterval(poll, 5 * 60 * 1000);
+    loadData(); setInterval(poll, 5 * 60 * 1000);
   </script>
 </body>
 </html>
