@@ -1,0 +1,23 @@
+{
+  "team": {
+    "name": "Indianapolis Colts Football",
+    "slug": "indianapolis-colts"
+  },
+  "updated_at": "2025-09-06T23:01:23.910149+00:00",
+  "static_links": [
+    {
+      "label": "Schedule",
+      "url": "https://www.colts.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.colts.com/team/players-roster/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/Colts/"
+    }
+  ],
+  "items": [],
+  "sources": []
+}
