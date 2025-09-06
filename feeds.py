@@ -3,10 +3,9 @@
 TEAM_NAME = "Indianapolis Colts Football"
 TEAM_SLUG = "indianapolis-colts"
 
-# UI theme (style.css already uses these)
 TEAM_COLORS = {"primary": "#003A70", "secondary": "#FFFFFF", "text": "#111111"}
 
-# Keywords that should appear in non-trusted aggregator items
+# For non-trusted aggregators, at least one of these must match
 TEAM_KEYWORDS = [
     "Indianapolis Colts", "Indy Colts", "Colts",
     "Lucas Oil Stadium", "Shane Steichen",
@@ -14,24 +13,19 @@ TEAM_KEYWORDS = [
     "Jonathan Taylor", "DeForest Buckner", "Quenton Nelson", "Kenny Moore",
 ]
 
-# Extra sport tokens to reduce non-NFL noise
 SPORT_TOKENS = ["NFL", "football", "National Football League", "Colts"]
 
-# Things to exclude outright
+# Keep exclusions tight. Do NOT exclude opponents (that nukes game stories).
 EXCLUDE_TOKENS = [
-    # non-football / other Indiana sports
     "Pacers", "basketball", "baseball", "softball", "soccer", "volleyball", "hockey",
     "Notre Dame", "Fighting Irish", "Hoosiers", "Boilermakers", "Purdue", "Indiana University",
-    # division/rivals noise showing up in broad searches
-    "Houston Texans", "Texans", "House of Houston",
-    "Tennessee Titans", "Titans",
-    "Jacksonville Jaguars", "Jaguars",
+    # very specific non-Colts site we saw in Rams build:
+    "House of Houston",
 ]
 
-# Trusted = bypass strict keyword filters (prevents empty home page).
-# Keep Google/Bing as non-trusted so the keyword filter still applies.
+# Trusted outlets bypass strict keyword filters (prevents empty page)
 FEEDS = [
-    # Colts-first outlets (trusted)
+    # Official / major team outlets (trusted)
     {"name": "colts.com", "url": "https://www.colts.com/rss", "trusted": True},
     {"name": "NFL.com — Indianapolis Colts", "url": "https://www.nfl.com/rss/team/ind", "trusted": True},
     {"name": "Colts Wire (USA Today)", "url": "https://coltswire.usatoday.com/feed/", "trusted": True},
@@ -41,6 +35,8 @@ FEEDS = [
     {"name": "Bleacher Report — Colts", "url": "https://bleacherreport.com/articles/feed?tag_id=2604", "trusted": True},
     {"name": "Yahoo Sports — Colts", "url": "https://sports.yahoo.com/nfl/teams/ind/rss/", "trusted": True},
     {"name": "Reddit — r/Colts", "url": "https://www.reddit.com/r/Colts/.rss", "trusted": True},
+    {"name": "Sports Illustrated — Horseshoe Huddle", "url": "https://www.si.com/nfl/colts/.rss", "trusted": True},
+    {"name": "ProFootballTalk — Colts", "url": "https://profootballtalk.nbcsports.com/team/indianapolis-colts/feed/", "trusted": True},
 
     # Broad aggregators (filtered, not trusted)
     {"name": "\"Indianapolis Colts\" — Google News",
@@ -51,9 +47,9 @@ FEEDS = [
      "trusted": False},
 ]
 
-# Quick links row (Rams-style: give the fan everything useful, not just 3)
+# Buttons row (Rams-style: give fans lots of useful shortcuts)
 STATIC_LINKS = [
-    # Team
+    # Team / official
     {"label": "Schedule", "url": "https://www.colts.com/schedule/"},
     {"label": "Roster", "url": "https://www.colts.com/team/players-roster/"},
     {"label": "Depth Chart", "url": "https://www.ourlads.com/nfldepthcharts/depthchart/IND"},
@@ -67,7 +63,7 @@ STATIC_LINKS = [
     {"label": "ESPN Team", "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"},
     {"label": "Yahoo Team", "url": "https://sports.yahoo.com/nfl/teams/ind/"},
     {"label": "PFF Team Page", "url": "https://www.pff.com/nfl/teams/indianapolis-colts"},
-    {"label": "Snap Counts", "url": "https://www.pro-football-reference.com/teams/clt/"},
+    {"label": "Pro-Football-Reference", "url": "https://www.pro-football-reference.com/teams/clt/"},
     {"label": "NFL Power Rankings", "url": "https://www.nfl.com/news/power-rankings"},
     {"label": "Stats", "url": "https://www.espn.com/nfl/team/stats/_/name/ind/indianapolis-colts"},
     {"label": "Standings", "url": "https://www.nfl.com/standings/league/2025/REG"},
