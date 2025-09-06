@@ -5,7 +5,6 @@ TEAM_SLUG = "indianapolis-colts"
 
 TEAM_COLORS = {"primary": "#003A70", "secondary": "#FFFFFF", "text": "#111111"}
 
-# For non-trusted aggregators, at least one of these must match
 TEAM_KEYWORDS = [
     "Indianapolis Colts", "Indy Colts", "Colts",
     "Lucas Oil Stadium", "Shane Steichen",
@@ -15,17 +14,15 @@ TEAM_KEYWORDS = [
 
 SPORT_TOKENS = ["NFL", "football", "National Football League", "Colts"]
 
-# Keep exclusions tight. Do NOT exclude opponents (that nukes game stories).
+# Tight exclusions only (do NOT exclude opponents)
 EXCLUDE_TOKENS = [
     "Pacers", "basketball", "baseball", "softball", "soccer", "volleyball", "hockey",
     "Notre Dame", "Fighting Irish", "Hoosiers", "Boilermakers", "Purdue", "Indiana University",
-    # very specific non-Colts site we saw in Rams build:
     "House of Houston",
 ]
 
-# Trusted outlets bypass strict keyword filters (prevents empty page)
+# Trusted outlets bypass strict filters
 FEEDS = [
-    # Official / major team outlets (trusted)
     {"name": "colts.com", "url": "https://www.colts.com/rss", "trusted": True},
     {"name": "NFL.com — Indianapolis Colts", "url": "https://www.nfl.com/rss/team/ind", "trusted": True},
     {"name": "Colts Wire (USA Today)", "url": "https://coltswire.usatoday.com/feed/", "trusted": True},
@@ -38,7 +35,7 @@ FEEDS = [
     {"name": "Sports Illustrated — Horseshoe Huddle", "url": "https://www.si.com/nfl/colts/.rss", "trusted": True},
     {"name": "ProFootballTalk — Colts", "url": "https://profootballtalk.nbcsports.com/team/indianapolis-colts/feed/", "trusted": True},
 
-    # Broad aggregators (filtered, not trusted)
+    # Aggregators (filtered)
     {"name": "\"Indianapolis Colts\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Indianapolis+Colts%22&hl=en-US&gl=US&ceid=US:en",
      "trusted": False},
@@ -47,9 +44,8 @@ FEEDS = [
      "trusted": False},
 ]
 
-# Buttons row (Rams-style: give fans lots of useful shortcuts)
+# Buttons row (Rams-style: many good shortcuts)
 STATIC_LINKS = [
-    # Team / official
     {"label": "Schedule", "url": "https://www.colts.com/schedule/"},
     {"label": "Roster", "url": "https://www.colts.com/team/players-roster/"},
     {"label": "Depth Chart", "url": "https://www.ourlads.com/nfldepthcharts/depthchart/IND"},
@@ -57,7 +53,7 @@ STATIC_LINKS = [
     {"label": "Fan Zone", "url": "https://www.colts.com/fans"},
     {"label": "Team Shop", "url": "https://shop.colts.com/"},
     {"label": "Tickets", "url": "https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805935"},
-    # Media / analysis
+
     {"label": "Reddit", "url": "https://www.reddit.com/r/Colts/"},
     {"label": "Bleacher Report", "url": "https://bleacherreport.com/indianapolis-colts"},
     {"label": "ESPN Team", "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"},
