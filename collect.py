@@ -7,7 +7,7 @@ import feeds
 
 USER_AGENT = "SportsNewsTemplate/1.0"
 TIMEOUT = 12
-MAX_ITEMS = 80  # give a little more headroom
+MAX_ITEMS = 80
 
 def http_head_then_get(url: str) -> str:
     try:
