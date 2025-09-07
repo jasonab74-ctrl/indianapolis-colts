@@ -1,29 +1,31 @@
 #!/usr/bin/env python3
-# Indianapolis Colts — News collector (STRICT, no Google News)
+# Indianapolis Colts — News collector (HARDENED: strict source whitelist + clean labels)
 import json, time, re, hashlib
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from datetime import datetime, timezone
 import feedparser
+
 from feeds import FEEDS, STATIC_LINKS
 
 MAX_ITEMS = 60
 
-# Only these names may appear in the Source menu
+# === Only these may appear in the Source menu ===
 ALLOWED_SOURCES = {
     "Colts.com", "Stampede Blue", "Colts Wire", "IndyStar",
     "ESPN", "Yahoo Sports", "Sports Illustrated", "CBS Sports",
-    "SB Nation", "WTHR", "FOX59", "PFF", "NFL.com", "Bleacher Report",
-    "Reddit — r/Colts"
+    "SB Nation", "WTHR", "FOX59", "PFF", "NFL.com",
+    "Bleacher Report", "Reddit — r/Colts"
 }
 
 def now_iso():
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
 
-def _host(u):
+def _host(u: str) -> str:
     try:
         netloc = urlparse(u).netloc.lower()
         for pat in ("www.", "m.", "amp."):
-            if netloc.startswith(pat): netloc = netloc[len(pat):]
+            if netloc.startswith(pat):
+                netloc = netloc[len(pat):]
         return netloc
     except Exception:
         return ""
@@ -42,6 +44,7 @@ def canonical(u: str) -> str:
 def hid(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
 
+# Host → nice label (must also be in ALLOWED_SOURCES to pass)
 ALIASES = {
     "stampedeblue.com": "Stampede Blue",
     "coltswire.usatoday.com": "Colts Wire",
@@ -60,11 +63,11 @@ ALIASES = {
 }
 
 def source_label(entry_link: str, feed_name: str) -> str:
-    # Reddit is a single clean label
-    if "Reddit — r/Colts" in feed_name:
+    # Reddit always collapses to one label
+    if "Reddit — r/Colts" in feed_name or "reddit.com" in entry_link:
         return "Reddit — r/Colts"
     host = _host(entry_link)
-    return ALIASES.get(host, feed_name)
+    return ALIASES.get(host, "")  # empty means "not allowed"
 
 COLTS_KEEP = [
     r"\bColts\b", r"\bIndianapolis\b", r"\bIndy\b",
@@ -73,7 +76,7 @@ COLTS_KEEP = [
 ]
 COLTS_DROP = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
 
-def allowed(title: str, summary: str) -> bool:
+def allowed_text(title: str, summary: str) -> bool:
     text = f"{title} {summary}"
     if not any(re.search(p, text, re.I) for p in COLTS_KEEP): return False
     if any(re.search(p, text, re.I) for p in COLTS_DROP): return False
@@ -87,26 +90,36 @@ def fetch_all():
             parsed = feedparser.parse(furl)
         except Exception:
             continue
-        for e in parsed.entries[:100]:
-            link = canonical((e.get("link") or e.get("id") or "").strip())
-            if not link: continue
-            key = hid(link)
-            if key in seen: continue
 
+        for e in parsed.entries[:120]:
+            link = canonical((e.get("link") or e.get("id") or "").strip())
+            if not link:
+                continue
+            key = hid(link)
+            if key in seen:
+                continue
+
+            # HARD GATE: label must map to an allowed source (for ALL feeds)
             src = source_label(link, fname)
-            if src not in ALLOWED_SOURCES:  # hard gate
+            if not src or src not in ALLOWED_SOURCES:
                 continue
 
             title = (e.get("title") or "").strip()
             summary = (e.get("summary") or e.get("description") or "").strip()
-            if not allowed(title, summary): continue
+            if not allowed_text(title, summary):
+                continue
 
             pub = e.get("published_parsed") or e.get("updated_parsed")
             ts = time.strftime("%Y-%m-%dT%H:%M:%S%z", pub) if pub else now_iso()
 
             items.append({
-                "id": key, "title": title, "link": link, "source": src,
-                "feed": fname, "published": ts, "summary": summary
+                "id": key,
+                "title": title,
+                "link": link,
+                "source": src,
+                "feed": fname,
+                "published": ts,
+                "summary": summary,
             })
             seen.add(key)
 
