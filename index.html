@@ -1,22 +1,9 @@
-<!-- index.html  (forces correct path + cache-busting so you STOP seeing the old 4) -->
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Indianapolis Colts — News</title>
-
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-
-  <!-- Absolute paths with repo slug -->
-  <link rel="apple-touch-icon" href="/indianapolis-colts/static/apple-touch-icon.png" />
-  <link rel="icon" href="/indianapolis-colts/static/favicon.ico" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/indianapolis-colts/static/favicon-32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/indianapolis-colts/static/favicon-16.png" />
-  <link rel="manifest" href="/indianapolis-colts/static/manifest.webmanifest?v=3" />
-  <meta name="theme-color" content="#003A70" />
-
   <link rel="stylesheet" href="/indianapolis-colts/static/style.css" />
 </head>
 <body>
@@ -30,9 +17,7 @@
   <section class="controls">
     <div class="left">
       <label for="sourceFilter">Source:</label>
-      <select id="sourceFilter">
-        <option value="">All sources</option>
-      </select>
+      <select id="sourceFilter"><option value="">All sources</option></select>
     </div>
     <div class="right">
       <span id="updated">Updated: —</span>
@@ -43,7 +28,7 @@
   <main id="grid" class="grid"></main>
 
   <script>
-    const SLUG = "/indianapolis-colts"; // force correct repo path
+    const SLUG = "/indianapolis-colts";
     const state = { data: null, lastCount: 0 };
 
     async function loadData() {
@@ -56,15 +41,13 @@
 
     function render() {
       const d = state.data; if (!d) return;
-
       const ql = document.getElementById("quick-links"); ql.innerHTML = "";
       (d.static_links || []).forEach(l => {
         const a = document.createElement("a");
-        a.href = l.url; a.target = "_blank"; a.rel = "noopener";
+        a.href = l.url; a.target="_blank"; a.rel="noopener";
         a.textContent = l.label; a.className = "pill";
         ql.appendChild(a);
       });
-
       const dd = document.getElementById("sourceFilter"); const chosen = dd.value;
       dd.innerHTML = '<option value="">All sources</option>';
       (d.sources || []).forEach(s => {
