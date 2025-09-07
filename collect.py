@@ -1,139 +1,207 @@
-# collect.py — resilient collector with trusted-feed fallback
-import re, json, time, html, sys
+#!/usr/bin/env python3
+import json, time, re, hashlib
+from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
+import feedparser
 from datetime import datetime, timezone
-from urllib.parse import urlparse, urlunparse
-import requests, feedparser
-import feeds
 
-USER_AGENT = "TeamNewsCollector/1.1 (+https://github.com/)"
-TIMEOUT = 12
-MAX_ITEMS = 80
-BOOTSTRAP_MIN = 1  # TEMP to force more than 4 items
+from feeds import FEEDS, STATIC_LINKS
 
-SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": USER_AGENT})
+MAX_ITEMS = 60  # write up to this many newest items
 
-def _http_final_url(url: str) -> str:
+TRUSTED_FEEDS = {
+    "Colts.com", "Stampede Blue", "Colts Wire", "ESPN", "Yahoo Sports",
+    "The Athletic", "Sports Illustrated", "CBS Sports", "SB Nation",
+    "WTHR", "FOX59", "IndyStar", "Pro Football Focus", "PFF",
+    "Pro-Football-Reference", "The Sporting News", "USA Today", "NFL.com",
+    "Bleacher Report", "Reddit — r/Colts"
+}
+
+# --- Utilities ---------------------------------------------------------------
+
+def now_iso():
+    return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
+
+HOST_CLEANUP = (
+    (r"^www\.", ""), (r"^m\.", ""), (r"^amp\.", ""), (r"\.amp$", "")
+)
+
+def hostname(url):
     try:
-        r = SESSION.get(url, allow_redirects=True, timeout=TIMEOUT)
-        return r.url or url
+        netloc = urlparse(url).netloc or ""
+        h = netloc.lower()
+        for pat, rep in HOST_CLEANUP:
+            h = re.sub(pat, rep, h)
+        return h
+    except Exception:
+        return ""
+
+def canonicalize_url(url: str) -> str:
+    """Strip tracking params and normalize so dupes collapse."""
+    try:
+        u = urlparse(url)
+        # keep only core params that affect content
+        keep = {"id", "story", "v", "p"}
+        q = parse_qs(u.query)
+        q_keep = {k: v for k, v in q.items() if k in keep}
+        new_q = urlencode(q_keep, doseq=True)
+        # drop fragments
+        clean = u._replace(query=new_q, fragment="")
+        # normalize netloc (remove www., m.)
+        netloc = hostname(url)
+        clean = clean._replace(netloc=netloc)
+        return urlunparse(clean)
     except Exception:
         return url
 
-def canonicalize(u: str) -> str:
-    try:
-        u = _http_final_url(u)
-        p = urlparse(u)
-        path = re.sub(r"/+$", "", (p.path or ""))
-        return urlunparse((p.scheme, p.netloc.lower(), path, "", "", ""))
-    except Exception:
-        return u
+def hash_id(s: str) -> str:
+    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
 
-def normalize_title(t: str) -> str:
-    t = html.unescape(t or "").strip()
-    t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
-    return re.sub(r"\s+", " ", t)
+def is_reddit(feed_url: str, feed_name: str) -> bool:
+    h = hostname(feed_url)
+    return "reddit.com" in h or "redd.it" in h or "r/" in feed_url or "Reddit" in feed_name
 
-def extract_source(entry, feed_name: str) -> str:
-    src = None
-    if getattr(entry, "source", None):
-        src = getattr(entry.source, "title", None) or getattr(entry.source, "href", None)
-    if not src and getattr(entry, "authors", None):
-        src = entry.authors[0].get("name")
-    if not src:
-        src = getattr(entry, "publisher", None)
-    if not src:
-        src = feed_name
-    src = (src or "Unknown").strip()
-    src = re.sub(r"^https?://(www\.)?", "", src)
-    return src[:80]
+def is_google_news(feed_url: str) -> bool:
+    return "news.google.com" in hostname(feed_url)
 
-def ts_from_entry(entry) -> float:
-    for key in ("published_parsed", "updated_parsed", "created_parsed"):
-        val = getattr(entry, key, None)
-        if val:
-            try: return time.mktime(val)
-            except Exception: pass
-    return time.time()
+def normalize_source(entry, feed_name: str, feed_url: str) -> str:
+    """Return a clean publisher name for the UI filter."""
+    # 1) Reddit -> subreddit label
+    if is_reddit(feed_url, feed_name):
+        # try to extract subreddit from link or feed_url
+        sub = None
+        for s in (entry.get("link",""), feed_url, entry.get("id","")):
+            m = re.search(r"/r/([A-Za-z0-9_]+)/", s)
+            if m:
+                sub = m.group(1)
+                break
+        return f"Reddit — r/{sub or 'Colts'}"
 
-def allow_item(item) -> bool:
-    if item.get("trusted"):
+    # 2) Google News -> original source title if present
+    if is_google_news(feed_url):
+        try:
+            src = entry.get("source", {})
+            if isinstance(src, dict):
+                title = src.get("title")
+                if title: return title.strip()
+        except Exception:
+            pass
+        # fallback: host from link
+        site = hostname(entry.get("link",""))
+        return site.title() if site else "Google News"
+
+    # 3) Generic: prefer host of the entry link
+    site = hostname(entry.get("link",""))
+    if site:
+        label = {
+            "stampedeblue.com": "Stampede Blue",
+            "coltswire.usatoday.com": "Colts Wire",
+            "colts.com": "Colts.com",
+            "espn.com": "ESPN",
+            "sports.yahoo.com": "Yahoo Sports",
+            "si.com": "Sports Illustrated",
+            "sbnation.com": "SB Nation",
+            "indystar.com": "IndyStar",
+            "wthr.com": "WTHR",
+            "fox59.com": "FOX59",
+            "pff.com": "PFF",
+        }.get(site)
+        return label or site.title()
+    return feed_name.strip() or "Unknown"
+
+COLTS_KEYWORDS = [
+    r"\bColts\b", r"\bIndianapolis\b", r"\bIndy\b",
+    # key players/coaches (add freely)
+    r"\bAnthony Richardson\b", r"\bJonathan Taylor\b", r"\bMichael Pittman\b",
+    r"\bShane Steichen\b", r"\bQuenton Nelson\b", r"\bDeForest Buckner\b"
+]
+
+COLTS_EXCLUDES = [
+    r"\bPacers\b", r"\bBoilermakers\b", r"\bNotre Dame\b", r"\bwomen'?s\b",
+    r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b",
+]
+
+def allow_item(title: str, summary: str, source_label: str, feed_name: str) -> bool:
+    text = f"{title} {summary}".lower()
+
+    # trusted feeds always allowed
+    if source_label in TRUSTED_FEEDS or feed_name in TRUSTED_FEEDS:
         return True
-    blob = f"{item.get('title','')} {item.get('summary','')}".lower()
-    if getattr(feeds, "TEAM_KEYWORDS", []) and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
+
+    # must mention Colts context
+    if not any(re.search(pat, text, flags=re.I) for pat in COLTS_KEYWORDS):
         return False
-    if getattr(feeds, "SPORT_TOKENS", []) and not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
+
+    # exclude obvious non-football or wrong teams
+    if any(re.search(pat, text, flags=re.I) for pat in COLTS_EXCLUDES):
         return False
-    if any(b.lower() in blob for b in getattr(feeds, 'EXCLUDE_TOKENS', [])):
-        return False
+
     return True
 
-def fetch_feed(fd):
-    url, name, trusted = fd["url"], fd["name"], bool(fd.get("trusted", False))
+# --- Collect ----------------------------------------------------------------
+
+def fetch_all():
     items = []
-    try:
-        d = feedparser.parse(url)
-        for e in d.entries:
-            title = normalize_title(getattr(e, "title", "") or "")
-            link = getattr(e, "link", "") or ""
-            if not title or not link: 
+    seen = set()
+
+    for feed in FEEDS:
+        feed_name = feed["name"].strip()
+        feed_url  = feed["url"].strip()
+        try:
+            parsed = feedparser.parse(feed_url)
+        except Exception:
+            continue
+
+        for e in parsed.entries[:100]:
+            link = canonicalize_url(e.get("link","").strip() or e.get("id","").strip())
+            if not link:
                 continue
+
+            key = hash_id(link)
+            if key in seen:
+                continue
+
+            source = normalize_source(e, feed_name, feed_url)
+            title = (e.get("title") or "").strip()
+            summary = (e.get("summary") or e.get("description") or "").strip()
+
+            if not allow_item(title, summary, source, feed_name):
+                continue
+
+            # published time (fallback to now)
+            pub = e.get("published_parsed") or e.get("updated_parsed")
+            if pub:
+                ts = time.strftime("%Y-%m-%dT%H:%M:%S%z", pub)
+            else:
+                ts = now_iso()
+
             items.append({
+                "id": key,
                 "title": title,
-                "url": canonicalize(link),
-                "source": extract_source(e, name),
-                "summary": html.unescape(getattr(e, "summary", "") or "").strip(),
-                "published": datetime.fromtimestamp(ts_from_entry(e), tz=timezone.utc).isoformat(),
-                "trusted": trusted,
+                "link": link,
+                "source": source,
+                "feed": feed_name,
+                "published": ts,
+                "summary": summary,
             })
-    except Exception as ex:
-        print(f"[WARN] Feed error: {name} -> {ex}", file=sys.stderr)
-    return items
+            seen.add(key)
 
-def dedupe(items):
-    seen, out = set(), []
-    for it in items:
-        k = (it["title"].lower(), it["url"])
-        if k in seen: continue
-        seen.add(k); out.append(it)
-    return out
+    # sort newest first
+    items.sort(key=lambda x: x["published"], reverse=True)
+    return items[:MAX_ITEMS]
 
-def main():
-    all_items, trusted_raw = [], []
-    for fd in getattr(feeds, "FEEDS", []):
-        batch = fetch_feed(fd)
-        all_items.extend(batch)
-        if fd.get("trusted"): trusted_raw.extend(batch)
-
-    filtered = [it for it in all_items if allow_item(it)]
-    filtered = dedupe(filtered)
-    filtered.sort(key=lambda x: x.get("published",""), reverse=True)
-
-    if len(filtered) < BOOTSTRAP_MIN:
-        trusted_raw = dedupe(trusted_raw)
-        trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
-        merged, seen = [], set()
-        for it in trusted_raw + filtered:
-            k = (it["title"].lower(), it["url"])
-            if k in seen: continue
-            seen.add(k); merged.append(it)
-        filtered = merged
-
-    filtered = filtered[:MAX_ITEMS]
-    sources = sorted({it["source"] for it in filtered})
-
+def write_items(items):
     payload = {
-        "team": {"name": getattr(feeds, "TEAM_NAME", "Team"), "slug": getattr(feeds, "TEAM_SLUG", "team")},
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "static_links": getattr(feeds, "STATIC_LINKS", []),
-        "items": filtered,
-        "sources": sources,
+        "updated": now_iso(),
+        "items": items,
+        "links": STATIC_LINKS
     }
-
     with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"[collector] wrote {len(filtered)} items; {len(sources)} sources; updated items.json")
+def main():
+    items = fetch_all()
+    write_items(items)
+    print(f"Wrote {len(items)} items at {now_iso()}")
 
 if __name__ == "__main__":
     main()
