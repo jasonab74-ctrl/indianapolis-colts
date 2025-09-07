@@ -1,15 +1,21 @@
-# Indianapolis Colts — feeds + quick links (tight)
+# Indianapolis Colts — trusted feeds only (no Google News)
 
 FEEDS = [
-    {"name": "Colts.com",       "url": "https://www.colts.com/news/rss"},
-    {"name": "Stampede Blue",   "url": "https://www.stampedeblue.com/rss/index.xml"},
-    {"name": "Colts Wire",      "url": "https://coltswire.usatoday.com/feed/"},
-    {"name": "IndyStar",        "url": "https://www.indystar.com/search/?f=rss&t=article&c=sports%2Fcolts"},
-    {"name": "ESPN",            "url": "https://www.espn.com/espn/rss/nfl/news"},  # collector filters to Colts
-    {"name": "Reddit — r/Colts","url": "https://www.reddit.com/r/Colts/.rss"},
-    # Google News backfill (collector will whitelist sources)
-    {"name": "Google News — Colts",
-     "url": "https://news.google.com/rss/search?q=%22Indianapolis+Colts%22+OR+%22Indy+Colts%22&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Colts.com",         "url": "https://www.colts.com/news/rss"},
+    {"name": "Stampede Blue",     "url": "https://www.stampedeblue.com/rss/index.xml"},
+    {"name": "Colts Wire",        "url": "https://coltswire.usatoday.com/feed/"},
+    {"name": "IndyStar",          "url": "https://www.indystar.com/search/?f=rss&t=article&c=sports%2Fcolts"},
+    {"name": "ESPN",              "url": "https://www.espn.com/espn/rss/nfl/news"},  # filtered by collector
+    {"name": "Yahoo Sports",      "url": "https://sports.yahoo.com/rss/"},
+    {"name": "Sports Illustrated","url": "https://www.si.com/rss"},
+    {"name": "CBS Sports",        "url": "https://www.cbssports.com/rss/headlines/"},
+    {"name": "SB Nation",         "url": "https://www.sbnation.com/rss/index.xml"},
+    {"name": "WTHR",              "url": "https://www.wthr.com/feeds/rssFeed?obfType=story&sectionName=sports"},
+    {"name": "FOX59",             "url": "https://fox59.com/sports/colts/feed/"},
+    {"name": "PFF",               "url": "https://www.pff.com/feed"},
+    {"name": "NFL.com",           "url": "https://www.nfl.com/feeds-rs/news/rss.xml"},
+    {"name": "Bleacher Report",   "url": "https://bleacherreport.com/articles/feed"},
+    {"name": "Reddit — r/Colts",  "url": "https://www.reddit.com/r/Colts/.rss"},
 ]
 
 STATIC_LINKS = [
