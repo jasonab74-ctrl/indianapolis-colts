@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Indianapolis Colts — News</title>
 
-  <!-- Icons + Manifest (relative paths) -->
+  <!-- Icons + Manifest (files already in repo root) -->
   <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
@@ -20,7 +20,6 @@
     <h1>Indianapolis Colts — News</h1>
   </header>
 
-  <!-- Buttons row built from items.json.links -->
   <div id="links" class="pill-row"></div>
 
   <section class="controls">
@@ -56,7 +55,9 @@
     }
 
     function buildSourceDropdown(items) {
-      const sources = Array.from(new Set(items.map(i => i.source).filter(Boolean))).sort();
+      const sources = Array.from(new Set(items.map(i => i.source).filter(Boolean)))
+        .filter(s => s !== 'Google News')  // safety
+        .sort();
       sourceSelect.innerHTML = '';
       const optAll = document.createElement('option');
       optAll.value = '';
@@ -98,14 +99,12 @@
       .then(r => r.json())
       .then(data => {
         updatedEl.textContent = data.updated || '';
-        renderLinks(data.links || []);                 // << buttons fixed
-        buildSourceDropdown(data.items || []);         // << sources fixed
+        renderLinks(data.links || []);
+        buildSourceDropdown(data.items || []);
         renderItems(data.items || []);
         sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
       })
-      .catch(() => {
-        updatedEl.textContent = 'load failed';
-      });
+      .catch(() => { updatedEl.textContent = 'load failed'; });
   </script>
 </body>
 </html>
