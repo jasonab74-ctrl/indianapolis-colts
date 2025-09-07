@@ -1,58 +1,762 @@
 {
-  "team": {"name": "Indianapolis Colts Football", "slug": "indianapolis-colts"},
-  "updated_at": "2025-09-06T21:15:00Z",
+  "team": {
+    "name": "Indianapolis Colts Football",
+    "slug": "indianapolis-colts"
+  },
+  "updated_at": "2025-09-07T04:37:46.545982+00:00",
   "static_links": [
-    {"label":"Schedule","url":"https://www.colts.com/schedule/"},
-    {"label":"Roster","url":"https://www.colts.com/team/players-roster/"},
-    {"label":"Depth Chart","url":"https://www.ourlads.com/nfldepthcharts/depthchart/IND"},
-    {"label":"Injury Report","url":"https://www.colts.com/team/injury-report/"},
-    {"label":"Fan Zone","url":"https://www.colts.com/fans"},
-    {"label":"Team Shop","url":"https://shop.colts.com/"},
-    {"label":"Tickets","url":"https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805935"},
-    {"label":"Reddit","url":"https://www.reddit.com/r/Colts/"},
-    {"label":"Bleacher Report","url":"https://bleacherreport.com/indianapolis-colts"},
-    {"label":"ESPN Team","url":"https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"},
-    {"label":"Yahoo Team","url":"https://sports.yahoo.com/nfl/teams/ind/"},
-    {"label":"PFF Team Page","url":"https://www.pff.com/nfl/teams/indianapolis-colts"},
-    {"label":"Pro-Football-Reference","url":"https://www.pro-football-reference.com/teams/clt/"},
-    {"label":"NFL Power Rankings","url":"https://www.nfl.com/news/power-rankings"},
-    {"label":"Stats","url":"https://www.espn.com/nfl/team/stats/_/name/ind/indianapolis-colts"},
-    {"label":"Standings","url":"https://www.nfl.com/standings/league/2025/REG"}
-  ],
-  "sources": [
-    "colts.com", "NFL.com — Indianapolis Colts", "Colts Wire (USA Today)",
-    "Stampede Blue", "Sports Illustrated — Horseshoe Huddle",
-    "ProFootballTalk — Colts", "Yahoo Sports — Colts", "Bleacher Report — Colts",
-    "Reddit — r/Colts"
+    {
+      "label": "Schedule",
+      "url": "https://www.colts.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.colts.com/team/players-roster/"
+    },
+    {
+      "label": "Depth Chart",
+      "url": "https://www.ourlads.com/nfldepthcharts/depthchart/IND"
+    },
+    {
+      "label": "Injury Report",
+      "url": "https://www.colts.com/team/injury-report/"
+    },
+    {
+      "label": "Fan Zone",
+      "url": "https://www.colts.com/fans"
+    },
+    {
+      "label": "Team Shop",
+      "url": "https://shop.colts.com/"
+    },
+    {
+      "label": "Tickets",
+      "url": "https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805935"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/Colts/"
+    },
+    {
+      "label": "Bleacher Report",
+      "url": "https://bleacherreport.com/indianapolis-colts"
+    },
+    {
+      "label": "ESPN Team",
+      "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"
+    },
+    {
+      "label": "Yahoo Team",
+      "url": "https://sports.yahoo.com/nfl/teams/ind/"
+    },
+    {
+      "label": "PFF Team Page",
+      "url": "https://www.pff.com/nfl/teams/indianapolis-colts"
+    },
+    {
+      "label": "Pro-Football-Reference",
+      "url": "https://www.pro-football-reference.com/teams/clt/"
+    },
+    {
+      "label": "NFL Power Rankings",
+      "url": "https://www.nfl.com/news/power-rankings"
+    },
+    {
+      "label": "Stats",
+      "url": "https://www.espn.com/nfl/team/stats/_/name/ind/indianapolis-colts"
+    },
+    {
+      "label": "Standings",
+      "url": "https://www.nfl.com/standings/league/2025/REG"
+    }
   ],
   "items": [
     {
-      "title": "Colts finalize Week 1 roster; practice squad set",
-      "url": "https://www.colts.com/news/roster-week-1",
-      "source": "colts.com",
-      "summary": "Indianapolis announces 53-man roster and practice squad moves.",
-      "published": "2025-09-05T16:00:00Z"
+      "title": "How to watch the Miami Dolphins at Indianapolis Colts on September 7, 2025",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LcVVGN1JjRXdqSXoza2lzb2UtN2NBWFVMYzJRY1ZHRUVoTW1kLWl2VTFHNm81Yi1QSmEwWHRHeDhLcmVDMFEzQXBkNGcyZlNUYmRYQktWQnpjRHo5VlpyOHU0OXFmMm9ZY2c2ZEhMX0tZTWF1TGNOUQ",
+      "source": "Colts.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9LcVVGN1JjRXdqSXoza2lzb2UtN2NBWFVMYzJRY1ZHRUVoTW1kLWl2VTFHNm81Yi1QSmEwWHRHeDhLcmVDMFEzQXBkNGcyZlNUYmRYQktWQnpjRHo5VlpyOHU0OXFmMm9ZY2c2ZEhMX0tZTWF1TGNOUQ?oc=5\" target=\"_blank\">How to watch the Miami Dolphins at Indianapolis Colts on September 7, 2025</a>  <font color=\"#6f6f6f\">Colts.com</font>",
+      "published": "2025-09-07T04:21:26+00:00",
+      "trusted": false
     },
     {
-      "title": "Anthony Richardson’s health, Year 2 outlook",
-      "url": "https://coltswire.usatoday.com/2025/09/05/anthony-richardson-outlook/",
-      "source": "Colts Wire (USA Today)",
-      "summary": "Why the second-year QB could take a big leap.",
-      "published": "2025-09-05T15:30:00Z"
+      "title": "Today we Stunner the Streak.",
+      "url": "https://www.reddit.com/r/Colts/comments/1najjpf/today_we_stunner_the_streak",
+      "source": "/u/alcatrazhero18",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1najjpf/today_we_stunner_the_streak/\"> <img alt=\"Today we Stunner the Streak.\" src=\"https://preview.redd.it/cgmgrwd43onf1.jpeg?width=640&crop=smart&auto=webp&s=9af707c5d3b22d00a922b0f5e68fca556b7f73a7\" title=\"Today we Stunner the Streak.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><em>AND THATS THE BOTTOM LINE BECAUSE STONE COLT SAID SO.</em></p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/alcatrazhero18\"> /u/alcatrazhero18 </a> <br /> <span><a href=\"https://i.redd.it/cgmgrwd43onf1.jpeg\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1najjpf/today_we_stunner_the_streak/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-07T04:05:41+00:00",
+      "trusted": true
     },
     {
-      "title": "Quenton Nelson returns to full practice",
-      "url": "https://www.stampedeblue.com/2025/9/5/quenton-nelson-practice",
+      "title": "Dolphins vs Colts Week 1 Preview: 2025 Season Opener Betting Odds and Analysis",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmt4R0pyODF0WkxONU01NEVWaTd4RG93QTBIbXZtYU1xUEpPYWtyV3VubzFla3EtVzVZaWszWjhhWUdWdFBHWDFGb2R2bml4cmVkdDllem9sVXg5UVd4YVBRWnlGMkhPQUU0b0VKaWpvSzdKNEJNenFSRGRoeXJ2NDdmbk1XYUxfeGp1eXZUSGZvWWJWeDlIZGFZSGg",
+      "source": "Scores And Stats",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmt4R0pyODF0WkxONU01NEVWaTd4RG93QTBIbXZtYU1xUEpPYWtyV3VubzFla3EtVzVZaWszWjhhWUdWdFBHWDFGb2R2bml4cmVkdDllem9sVXg5UVd4YVBRWnlGMkhPQUU0b0VKaWpvSzdKNEJNenFSRGRoeXJ2NDdmbk1XYUxfeGp1eXZUSGZvWWJWeDlIZGFZSGg?oc=5\" target=\"_blank\">Dolphins vs Colts Week 1 Preview: 2025 Season Opener Betting Odds and Analysis</a>  <font color=\"#6f6f6f\">Scores And Stats</font>",
+      "published": "2025-09-07T03:57:21+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Where should Wayne be ranked?",
+      "url": "https://www.reddit.com/r/Colts/comments/1naj859/where_should_wayne_be_ranked",
+      "source": "/u/HopOnMyArk",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1naj859/where_should_wayne_be_ranked/\"> <img alt=\"Where should Wayne be ranked?\" src=\"https://external-preview.redd.it/8xgWkBvhoqahfoIbYHbF3Z6HYruQiU_wl6ca9P79BY8.jpeg?width=320&crop=smart&auto=webp&s=48656d0bd12815b4cf6dcd0fe8123dca559427d3\" title=\"Where should Wayne be ranked?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Clearly this guy doesn’t know ball but where would you personally rank Reggie Wayne? </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/HopOnMyArk\"> /u/HopOnMyArk </a> <br /> <span><a href=\"https://youtu.be/UKtXHQTXp9Y?si=s0aWhM_SK-0G4MIk\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1naj859/where_should_wayne_be_ranked/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-07T03:48:17+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Daniel Jones gets a new nickname by joining Colts, adding to the Danny Dimes legend",
+      "url": "https://sports.yahoo.com/article/daniel-jones-gets-nickname-joining-033756936.html",
+      "source": "The Sporting News",
+      "summary": "This is too perfect.",
+      "published": "2025-09-07T03:37:56+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Why are you all refusing to call him Indianapolis Jones?",
+      "url": "https://www.reddit.com/r/Colts/comments/1naiy7n/why_are_you_all_refusing_to_call_him_indianapolis",
+      "source": "/u/easily_e",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Danny Dimes is lame as hell. Embrace the suck. </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/easily_e\"> /u/easily_e </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1naiy7n/why_are_you_all_refusing_to_call_him_indianapolis/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1naiy7n/why_are_you_all_refusing_to_call_him_indianapolis/\">[comments]</a></span>",
+      "published": "2025-09-07T03:33:17+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Indianapolis Colts vs. Miami Dolphins prediction, pick for NFL Week 1 on Sunday 9/7/25",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMG1iSUU2eFRSamx1LVlIWnZ6UVF2aWh6SjVVcjE2UGJaVkJSMHJac3pqUzd5MXd6TTM5aEVGaF82cEFZd0NVdHN1RWVmSnlocHY5V3R1U3NjRE5BVkcwVndJekhxTlBYWWRJckt1VXRZYkdhQjFUQWhobTYxM2EtMWhSTUtVb3ZoQ0V1dmd5LTFEX0p1aUdsQUktY3ZUVXpMeW9La09YamZ2dVJnWE9CZ1c2WnJ0dnVnaTJUaVh4TTdoQ3JFckswVg",
+      "source": "DraftKings Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMG1iSUU2eFRSamx1LVlIWnZ6UVF2aWh6SjVVcjE2UGJaVkJSMHJac3pqUzd5MXd6TTM5aEVGaF82cEFZd0NVdHN1RWVmSnlocHY5V3R1U3NjRE5BVkcwVndJekhxTlBYWWRJckt1VXRZYkdhQjFUQWhobTYxM2EtMWhSTUtVb3ZoQ0V1dmd5LTFEX0p1aUdsQUktY3ZUVXpMeW9La09YamZ2dVJnWE9CZ1c2WnJ0dnVnaTJUaVh4TTdoQ3JFckswVg?oc=5\" target=\"_blank\">Indianapolis Colts vs. Miami Dolphins prediction, pick for NFL Week 1 on Sunday 9/7/25</a>  <font color=\"#6f6f6f\">DraftKings Network</font>",
+      "published": "2025-09-07T02:37:15+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Erickson: An NFL quarterback can do everything right off the field",
+      "url": "https://www.reddit.com/r/Colts/comments/1nahsj2/erickson_an_nfl_quarterback_can_do_everything",
+      "source": "/u/icekyuu",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nahsj2/erickson_an_nfl_quarterback_can_do_everything/\"> <img alt=\"Erickson: An NFL quarterback can do everything right off the field — master the offense, make the right calls at the line of scrimmage, become an integral part of the locker room and help his teammates improve through his leadership — and still fall short as a starter in the league.\" src=\"https://external-preview.redd.it/a9jvACnTMpERR7tsNO5vk-0mDsfGcMQyFTs22htb7hc.jpeg?width=640&crop=smart&auto=webp&s=657ac5514f05b67aa31522570debcf8b9115986a\" title=\"Erickson: An NFL quarterback can do everything right off the field — master the offense, make the right calls at the line of scrimmage, become an integral part of the locker room and help his teammates improve through his leadership — and still fall short as a starter in the league.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Great article on the Colts' QB1. </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/icekyuu\"> /u/icekyuu </a> <br /> <span><a href=\"https://www.indystar.com/story/sports/nfl/colts/2025/09/05/colts-daniel-jones-pros-cons-quarterback-anthony-richardson/85879272007/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1nahsj2/erickson_an_nfl_quarterback_can_do_everything/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-07T02:31:45+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Dolphins coach has high praise for Colts' rookie TE Tyler Warren",
+      "url": "https://sports.yahoo.com/article/dolphins-coach-high-praise-colts-013613569.html",
+      "source": "Colts Wire",
+      "summary": "Dolphins' defensive coordinator Anthony Weaver had high praise for Colts' rookie TE Tyler Warren.",
+      "published": "2025-09-07T01:36:13+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Dolphins coach has high praise for Colts' rookie TE Tyler Warren",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYk9NTk1MMzFQc3Nvem1HVDZXcUFha2pqUTZPOTdBbWl3LXBpZVNwbGhBZ0hHUkEwLVdHX0htZEsxVUxyYXl0RWNqRmdsQ1JTcW9saFRjSmJuWkc2SHlSS0UzdzAzZmNyX19Fa004ZHF6a3Utb1k0b1VZX3dja3NCZDBYSlo1QVVCNnBHM3JmVmx2aV9lajhEREFmYzVzWlc4a3VETE1pWVQ0U0VQeHAzZ3Y4Q3Z6c2JKWFNFWktKUjQ",
+      "source": "Colts Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYk9NTk1MMzFQc3Nvem1HVDZXcUFha2pqUTZPOTdBbWl3LXBpZVNwbGhBZ0hHUkEwLVdHX0htZEsxVUxyYXl0RWNqRmdsQ1JTcW9saFRjSmJuWkc2SHlSS0UzdzAzZmNyX19Fa004ZHF6a3Utb1k0b1VZX3dja3NCZDBYSlo1QVVCNnBHM3JmVmx2aV9lajhEREFmYzVzWlc4a3VETE1pWVQ0U0VQeHAzZ3Y4Q3Z6c2JKWFNFWktKUjQ?oc=5\" target=\"_blank\">Dolphins coach has high praise for Colts' rookie TE Tyler Warren</a>  <font color=\"#6f6f6f\">Colts Wire</font>",
+      "published": "2025-09-07T01:36:13+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins at Colts odds, picks and predictions",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1RySVo4eFNYbzBSa3hOckFib1FPZmdrRV9yWGxxSWlReUw5ckVfVnc3N24zVzB5OERCRFprcFh2Yl9TUEdDY25kT3pESjBCa0o5MVBCYnBQYmVmelY1V1NPcWRaZVhoUm56c2lnZFZycDR4djBPaUFnc1RhTVNTZWhxNmo5aXpERDlPXzNPa3NmMzdDcl83RkVwcFEtNHoyOG9QSm9BZXJQOFEzTXdfV1lVbVloZmdOcDRDS1pB",
+      "source": "Sportsbook Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1RySVo4eFNYbzBSa3hOckFib1FPZmdrRV9yWGxxSWlReUw5ckVfVnc3N24zVzB5OERCRFprcFh2Yl9TUEdDY25kT3pESjBCa0o5MVBCYnBQYmVmelY1V1NPcWRaZVhoUm56c2lnZFZycDR4djBPaUFnc1RhTVNTZWhxNmo5aXpERDlPXzNPa3NmMzdDcl83RkVwcFEtNHoyOG9QSm9BZXJQOFEzTXdfV1lVbVloZmdOcDRDS1pB?oc=5\" target=\"_blank\">Dolphins at Colts odds, picks and predictions</a>  <font color=\"#6f6f6f\">Sportsbook Wire</font>",
+      "published": "2025-09-07T01:33:06+00:00",
+      "trusted": false
+    },
+    {
+      "title": "How to Watch Colts vs. Dolphins: Time, TV Channel and Live Stream",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHVHZ0JwWlhHbkltZzB6YVh5anFBa3ZyWlhmbVFIdktpdGJfNENqSlN1ZnlTMGk3UG9EbHduYUhpLUJnRWx0V0FuekJ6ODdYQlEzU0xrVnVVSG9pYTFRaE5DQ2V5M3VyYXhMTGp0aEtUeHotMUF1dFZlLU1JNVlfSENwQXF6c1p0Q0N3NWlYWUpWekd1UEpXRXBGMzc1c1VSWjgwaTNNeHJYTmJDNkVpa2NUNA",
+      "source": "FOX Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHVHZ0JwWlhHbkltZzB6YVh5anFBa3ZyWlhmbVFIdktpdGJfNENqSlN1ZnlTMGk3UG9EbHduYUhpLUJnRWx0V0FuekJ6ODdYQlEzU0xrVnVVSG9pYTFRaE5DQ2V5M3VyYXhMTGp0aEtUeHotMUF1dFZlLU1JNVlfSENwQXF6c1p0Q0N3NWlYWUpWekd1UEpXRXBGMzc1c1VSWjgwaTNNeHJYTmJDNkVpa2NUNA?oc=5\" target=\"_blank\">How to Watch Colts vs. Dolphins: Time, TV Channel and Live Stream – 2025 Week 1</a>  <font color=\"#6f6f6f\">FOX Sports</font>",
+      "published": "2025-09-07T01:12:24+00:00",
+      "trusted": false
+    },
+    {
+      "title": "How Colts LB Zaire Franklin plans to tackle hunger this season",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjhESVJsM1JmczBMMy03UElhaDU2ZVVndm1sRmhhb0Z2YnNiZkJ4SjQ1el9FOHAzYmFQS3pvNkJxd2F1cGQwbmRZM0l1SzRQOHE0ZmJGYlZGWHVJTWEzdkdOSUdUaFRTSWJBck9UOUpyNW42OHU5M0JEMUJNNzBVemVDYlRhZw",
+      "source": "WISH-TV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjhESVJsM1JmczBMMy03UElhaDU2ZVVndm1sRmhhb0Z2YnNiZkJ4SjQ1el9FOHAzYmFQS3pvNkJxd2F1cGQwbmRZM0l1SzRQOHE0ZmJGYlZGWHVJTWEzdkdOSUdUaFRTSWJBck9UOUpyNW42OHU5M0JEMUJNNzBVemVDYlRhZw?oc=5\" target=\"_blank\">How Colts LB Zaire Franklin plans to tackle hunger this season</a>  <font color=\"#6f6f6f\">WISH-TV</font>",
+      "published": "2025-09-07T00:57:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Miami Dolphins vs. Indianapolis Colts live stream, TV channel, start time, odds | Week 1 2025",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGdoOGREZHRCTGVWTU9MaHkwN2Q0MDhMTnlFLWE2bC1xT2c0Z1RRQ2RZOUVNbkEzaVNldzN1MVZMNk9lWGk5QVd3SGNHZzVUTE1TZTd2V1ZpNVEzcl9Lc1BKUUhiR3dYeGJ1WVhhSkpMWGMzeC1JVFBXdnVVcDFnajRPNVJLTXFFQ1p3UXF0a2c4bGNrWjVkUlZfdmlrYlFNWHctSWxGa3pMS292bFJKRzM4UHQ4Wkl6MHZnVHlvOGE1MW9fQXVpbE4yTWFRYVc2QjkwQlo5ZjJFQmo3dFE",
+      "source": "Dolphins Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGdoOGREZHRCTGVWTU9MaHkwN2Q0MDhMTnlFLWE2bC1xT2c0Z1RRQ2RZOUVNbkEzaVNldzN1MVZMNk9lWGk5QVd3SGNHZzVUTE1TZTd2V1ZpNVEzcl9Lc1BKUUhiR3dYeGJ1WVhhSkpMWGMzeC1JVFBXdnVVcDFnajRPNVJLTXFFQ1p3UXF0a2c4bGNrWjVkUlZfdmlrYlFNWHctSWxGa3pMS292bFJKRzM4UHQ4Wkl6MHZnVHlvOGE1MW9fQXVpbE4yTWFRYVc2QjkwQlo5ZjJFQmo3dFE?oc=5\" target=\"_blank\">Miami Dolphins vs. Indianapolis Colts live stream, TV channel, start time, odds | Week 1 2025</a>  <font color=\"#6f6f6f\">Dolphins Wire</font>",
+      "published": "2025-09-07T00:56:15+00:00",
+      "trusted": false
+    },
+    {
+      "title": "TV Coverage Week 1 (CBS Early)",
+      "url": "https://www.reddit.com/r/Colts/comments/1nafnvi/tv_coverage_week_1_cbs_early",
+      "source": "/u/MrHugz30",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nafnvi/tv_coverage_week_1_cbs_early/\"> <img alt=\"TV Coverage Week 1 (CBS Early)\" src=\"https://preview.redd.it/axfhui2a3nnf1.png?width=640&crop=smart&auto=webp&s=d618613313f95a141687a5a3b1ffa7bc07d4fc5a\" title=\"TV Coverage Week 1 (CBS Early)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>506 Sports coverage map for tomorrow.</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/MrHugz30\"> /u/MrHugz30 </a> <br /> <span><a href=\"https://i.redd.it/axfhui2a3nnf1.png\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1nafnvi/tv_coverage_week_1_cbs_early/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-07T00:44:47+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Enter Sandman",
+      "url": "https://www.reddit.com/r/Colts/comments/1nafj4x/enter_sandman",
+      "source": "/u/MmmmBurbank",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nafj4x/enter_sandman/\"> <img alt=\"Enter Sandman\" src=\"https://preview.redd.it/juyo7wu42nnf1.jpeg?width=640&crop=smart&auto=webp&s=e15e32160b317fd18d15916c7ebed064f3607072\" title=\"Enter Sandman\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Every once in a while, I stumble on a Bob Sanders highlight reel on YouTube. $34 later on eBay...</p> <p>That dude was bad motherfucker</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/MmmmBurbank\"> /u/MmmmBurbank </a> <br /> <span><a href=\"https://i.redd.it/juyo7wu42nnf1.jpeg\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1nafj4x/enter_sandman/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-07T00:38:24+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Are we getting $100 for food STM this year?",
+      "url": "https://www.reddit.com/r/Colts/comments/1nafe0m/are_we_getting_100_for_food_stm_this_year",
+      "source": "/u/Adept-Cell-1960",
+      "summary": "submitted by   <a href=\"https://www.reddit.com/user/Adept-Cell-1960\"> /u/Adept-Cell-1960 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nafe0m/are_we_getting_100_for_food_stm_this_year/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1nafe0m/are_we_getting_100_for_food_stm_this_year/\">[comments]</a></span>",
+      "published": "2025-09-07T00:31:23+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Miami Dolphins vs. Indianapolis Colts: live game updates, stats, play-by-play",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE5qUGUxVU9BRFYyS3ZnbVp0aEVJT0dZNHlHSm9YYkFhcEdCZ3otVlBXRXNSYU5SQ2R3anIxN3QxRmVXWDJyWmFvb2U0bjgwMmNNRmR1RklZSTRlMDQ3MTRVVXdDR0x3WGVsV1MwUDhSVWlrMVE0VUJHSzBZU0lTMQ",
+      "source": "Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE5qUGUxVU9BRFYyS3ZnbVp0aEVJT0dZNHlHSm9YYkFhcEdCZ3otVlBXRXNSYU5SQ2R3anIxN3QxRmVXWDJyWmFvb2U0bjgwMmNNRmR1RklZSTRlMDQ3MTRVVXdDR0x3WGVsV1MwUDhSVWlrMVE0VUJHSzBZU0lTMQ?oc=5\" target=\"_blank\">Miami Dolphins vs. Indianapolis Colts: live game updates, stats, play-by-play</a>  <font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "published": "2025-09-07T00:27:50+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Danny Dimes is the Real Deal!!…Hopefully",
+      "url": "https://www.reddit.com/r/Colts/comments/1naf4zv/danny_dimes_is_the_real_dealhopefully",
+      "source": "/u/brmidwest03",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1naf4zv/danny_dimes_is_the_real_dealhopefully/\"> <img alt=\"Danny Dimes is the Real Deal!!…Hopefully\" src=\"https://preview.redd.it/3hebc1bsymnf1.jpeg?width=640&crop=smart&auto=webp&s=a2fef52444df20f2e4dbfe8d5edb9d9faebfe1cb\" title=\"Danny Dimes is the Real Deal!!…Hopefully\" /> </a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/brmidwest03\"> /u/brmidwest03 </a> <br /> <span><a href=\"https://i.redd.it/3hebc1bsymnf1.jpeg\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1naf4zv/danny_dimes_is_the_real_dealhopefully/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-07T00:19:37+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Miami Dolphins @ Indianapolis Colts Predictions/Players You Would Steal",
+      "url": "https://sports.yahoo.com/article/miami-dolphins-indianapolis-colts-predictions-000000476.html",
+      "source": "SB Nation",
+      "summary": "Dolphins fans share their predictions for tomorrow's game against the Colts and give players they would steal.",
+      "published": "2025-09-07T00:00:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "NFL picks: Experts predict Dolphins vs. Colts in Week 1",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnU5SE1KSU4xMFZTZU5EQkctVnZPMHNYc214UlBIV0J5M3MxcjBWX0FnRENsTDU5RERCZkZBU0ZfVWRPemtLVnNHWUZzWnVLaWdzUVM0SVRacWdNMVpxWkdUSnVjYUQzRlV5UGZCdk5YQzZNOF81cHN2RVp3M0hLMVFqMDVJX3JlQm42Yjc2eW9NUlBQaDcteUV1YkQ0TkhuWGZSQzhpUTFwMERQdkhoWGxaQ2w3SHRHWVN3OGJBNWlwTjB0S2pR",
+      "source": "Dolphins Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnU5SE1KSU4xMFZTZU5EQkctVnZPMHNYc214UlBIV0J5M3MxcjBWX0FnRENsTDU5RERCZkZBU0ZfVWRPemtLVnNHWUZzWnVLaWdzUVM0SVRacWdNMVpxWkdUSnVjYUQzRlV5UGZCdk5YQzZNOF81cHN2RVp3M0hLMVFqMDVJX3JlQm42Yjc2eW9NUlBQaDcteUV1YkQ0TkhuWGZSQzhpUTFwMERQdkhoWGxaQ2w3SHRHWVN3OGJBNWlwTjB0S2pR?oc=5\" target=\"_blank\">NFL picks: Experts predict Dolphins vs. Colts in Week 1</a>  <font color=\"#6f6f6f\">Dolphins Wire</font>",
+      "published": "2025-09-06T23:39:46+00:00",
+      "trusted": false
+    },
+    {
+      "title": "2025-26 Indianapolis Colts Odds: Odds to win Super Bowl, NFL Playoffs, Division",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWlPSW1YbWN0THdKRDFKMjdtLXJWZGE2NEJKZ2xVOVlJMnV5VzRfVGU4QlVjeTRCaWg3djBQekkxanMxUXVoRmVrVlhYMlh3Q1Z3amhsZUxnaU5xWEFTUVVfTUdheVNFSkp3UVc3U2RYbXY1V2VOZXhjX3VXWnoxcFM3aUhVX3lNS0gwa2dRRmttcHBwZFFUVGFXU3NZMVdMTlZkYTd0ekVKTnVMa0I1bkNyNXd6Zw",
+      "source": "FOX Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWlPSW1YbWN0THdKRDFKMjdtLXJWZGE2NEJKZ2xVOVlJMnV5VzRfVGU4QlVjeTRCaWg3djBQekkxanMxUXVoRmVrVlhYMlh3Q1Z3amhsZUxnaU5xWEFTUVVfTUdheVNFSkp3UVc3U2RYbXY1V2VOZXhjX3VXWnoxcFM3aUhVX3lNS0gwa2dRRmttcHBwZFFUVGFXU3NZMVdMTlZkYTd0ekVKTnVMa0I1bkNyNXd6Zw?oc=5\" target=\"_blank\">2025-26 Indianapolis Colts Odds: Odds to win Super Bowl, NFL Playoffs, Division</a>  <font color=\"#6f6f6f\">FOX Sports</font>",
+      "published": "2025-09-06T23:30:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "NFL Week 1 Sunday games: Full schedule and key storylines",
+      "url": "https://sports.yahoo.com/article/nfl-week-1-sunday-games-225512318.html",
+      "source": "The Sporting News",
+      "summary": "26 teams in action on Sunday!",
+      "published": "2025-09-06T22:55:12+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Dolphins vs. Colts 2025 odds, prop bets in Week 1",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPclY2WXdDb2NFZTQ0YjE1QUVEZU1RUElIZHBINU15MnFJak5pYWVwcEVyWlpxTnluYnZ6Sk1VbjA5WDIyT2dYNG95VS03eDBWenotYmw1LUR6ODh3UUt5MmFoRWtrNHIxbmtKVjdETGxlTVplcWkzdEkzdGc0QUE4SUFYcDA5YnNJcGlmOU9RSkdINHotZk9DUnhGWGtCQU1nZjZLc09VdWRIZ19wdWtWc2FyM0V6SDJEblhwOGh2S2F0OGJhWXdmbExlN3NKUFl6NzJHS09IZFFabVVLX25v",
+      "source": "The Phinsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPclY2WXdDb2NFZTQ0YjE1QUVEZU1RUElIZHBINU15MnFJak5pYWVwcEVyWlpxTnluYnZ6Sk1VbjA5WDIyT2dYNG95VS03eDBWenotYmw1LUR6ODh3UUt5MmFoRWtrNHIxbmtKVjdETGxlTVplcWkzdEkzdGc0QUE4SUFYcDA5YnNJcGlmOU9RSkdINHotZk9DUnhGWGtCQU1nZjZLc09VdWRIZ19wdWtWc2FyM0V6SDJEblhwOGh2S2F0OGJhWXdmbExlN3NKUFl6NzJHS09IZFFabVVLX25v?oc=5\" target=\"_blank\">Dolphins vs. Colts 2025 odds, prop bets in Week 1</a>  <font color=\"#6f6f6f\">The Phinsider</font>",
+      "published": "2025-09-06T22:54:37+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Experts release new Dolphins vs. Colts Week 1 prediction as Daniel Jones makes Indy debut",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbExlbGNPT1JVX2xMeDlQNThaanNPY0lUUzh5MUtHSGZSSTM1c0Npb24zTEVsNF95VG5fWFJBXzBOVl9TWXJnbHpKRjB6dUpTb0IzSVp4ZjdETVFycnhGdlQ0RlVnZG5VeFJyR1Vtdm4wQzkwQ2Y4TTVrVkJnR0Z3WDA4cVRJc1FfYTRwelVDdEx0cldySzJFWXlEbG9mbVZXV2hiZG5PY1luVXAyQVF2aHBXVHRwbHl1Y1YtazJMYzdib0ozYnRCeVVDMDcyWW8",
+      "source": "Syracuse.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPbExlbGNPT1JVX2xMeDlQNThaanNPY0lUUzh5MUtHSGZSSTM1c0Npb24zTEVsNF95VG5fWFJBXzBOVl9TWXJnbHpKRjB6dUpTb0IzSVp4ZjdETVFycnhGdlQ0RlVnZG5VeFJyR1Vtdm4wQzkwQ2Y4TTVrVkJnR0Z3WDA4cVRJc1FfYTRwelVDdEx0cldySzJFWXlEbG9mbVZXV2hiZG5PY1luVXAyQVF2aHBXVHRwbHl1Y1YtazJMYzdib0ozYnRCeVVDMDcyWW8?oc=5\" target=\"_blank\">Experts release new Dolphins vs. Colts Week 1 prediction as Daniel Jones makes Indy debut</a>  <font color=\"#6f6f6f\">Syracuse.com</font>",
+      "published": "2025-09-06T22:24:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "What to do before game?!",
+      "url": "https://www.reddit.com/r/Colts/comments/1nacjim/what_to_do_before_game",
+      "source": "/u/FunnnyBunny91",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi! Flying in from Jersey for the game tomorrow, unfortunately our flight was canceled tonight due to the thunderstorms here so we won’t have a hotel room or anywhere to go when we land at 8 am. What should we do?! </p> <ul> <li>A girl born into a Giants family who married a Colts fan 🙂</li> </ul> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/FunnnyBunny91\"> /u/FunnnyBunny91 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nacjim/what_to_do_before_game/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1nacjim/what_to_do_before_game/\">[comments]</a></span>",
+      "published": "2025-09-06T22:20:16+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Former Colts' CB has 'boulder' on shoulder facing old team in Week 1",
+      "url": "https://sports.yahoo.com/article/former-colts-cb-boulder-shoulder-221355995.html",
+      "source": "Colts Wire",
+      "summary": "Former Colts' CB JuJu Brents returns to face his old team as a member of the Dolphins.",
+      "published": "2025-09-06T22:13:55+00:00",
+      "trusted": true
+    },
+    {
+      "title": "How to watch Dolphins at Colts: TV channel and streaming options for September 7",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlktODJJM3l4dTA1aVAwTENhdzVqNm8wRkwtRmJDQk54dDA1Ulk4UUlwZW1DU3lkdkpkcGI4OHkyaDJOVGNsV1JSbHMxSV8tZk5zelRwOE9nMG5PU0laWkJLSnU1ZUtUMUxLd2xBZkM0Y1BwUXBrR29acFdzSnZycTdCV0JiZ3B5WkFtVmRjT3NJRkF2cnpKa3F4TXM2QQ",
+      "source": "The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZlktODJJM3l4dTA1aVAwTENhdzVqNm8wRkwtRmJDQk54dDA1Ulk4UUlwZW1DU3lkdkpkcGI4OHkyaDJOVGNsV1JSbHMxSV8tZk5zelRwOE9nMG5PU0laWkJLSnU1ZUtUMUxLd2xBZkM0Y1BwUXBrR29acFdzSnZycTdCV0JiZ3B5WkFtVmRjT3NJRkF2cnpKa3F4TXM2QQ?oc=5\" target=\"_blank\">How to watch Dolphins at Colts: TV channel and streaming options for September 7 - The Athletic</a>  <font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-06T22:12:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Parking advice for arriving super early.",
+      "url": "https://www.reddit.com/r/Colts/comments/1nac5yl/parking_advice_for_arriving_super_early",
+      "source": "/u/killerrazzmazz",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I am attending the game tomorrow and will be arriving super early (hours before game time). Is there any good spots I could take advantage of with parking?</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/killerrazzmazz\"> /u/killerrazzmazz </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nac5yl/parking_advice_for_arriving_super_early/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1nac5yl/parking_advice_for_arriving_super_early/\">[comments]</a></span>",
+      "published": "2025-09-06T22:03:52+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Indianapolis Colts vs. Miami Dolphins 2025 odds, tips and betting trends | Week 1",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYnltcHNaSnRzRlEwT3Vrdy11QUZTR1RGcklpOEtrZHlxODktMm5xZGtOMHRkLUhoNF9Ub0NTbmFuNU9mWnNodHo1UkZPdnBUMmNSY1g1N1lSaDR6NzU1ZWZZcDFWRmRDQ09HUU1qcTdvdVFrNEN1U2J4TE5YRnJVVndHZmtycXZHek9sdGRiZWxYZ1dOMmlLeVlzRzRTTFFQMGZBOVJZaWVVdHVVQ3pkYWxHakNDaUlVNTNxN19PNm15UUNMbU8wdEZyeDc2VXBwR0JOTER0bw",
+      "source": "Colts Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYnltcHNaSnRzRlEwT3Vrdy11QUZTR1RGcklpOEtrZHlxODktMm5xZGtOMHRkLUhoNF9Ub0NTbmFuNU9mWnNodHo1UkZPdnBUMmNSY1g1N1lSaDR6NzU1ZWZZcDFWRmRDQ09HUU1qcTdvdVFrNEN1U2J4TE5YRnJVVndHZmtycXZHek9sdGRiZWxYZ1dOMmlLeVlzRzRTTFFQMGZBOVJZaWVVdHVVQ3pkYWxHakNDaUlVNTNxN19PNm15UUNMbU8wdEZyeDc2VXBwR0JOTER0bw?oc=5\" target=\"_blank\">Indianapolis Colts vs. Miami Dolphins 2025 odds, tips and betting trends | Week 1</a>  <font color=\"#6f6f6f\">Colts Wire</font>",
+      "published": "2025-09-06T21:25:34+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Daniel Jones’ Command Could Ignite Colts’ Fast Start vs. Dolphins",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2xqdXA5NFQwV3lxRmxORXJ4SV9sUW9oek9hRFBRZXVkcjNNY3dCTDAyMUwxTVRoRFY4RlhwTzlaUDd3M3lUZEpBS0E5QnBLcFl3blBiXzVRYzJ0QkRxOE9nUkNHdkJCeXJzbm1CRmRoakV5OHEyTEFmOEhqUGMzNHRiQVJDOHNId0g2Vg",
+      "source": "Heavy Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2xqdXA5NFQwV3lxRmxORXJ4SV9sUW9oek9hRFBRZXVkcjNNY3dCTDAyMUwxTVRoRFY4RlhwTzlaUDd3M3lUZEpBS0E5QnBLcFl3blBiXzVRYzJ0QkRxOE9nUkNHdkJCeXJzbm1CRmRoakV5OHEyTEFmOEhqUGMzNHRiQVJDOHNId0g2Vg?oc=5\" target=\"_blank\">Daniel Jones’ Command Could Ignite Colts’ Fast Start vs. Dolphins</a>  <font color=\"#6f6f6f\">Heavy Sports</font>",
+      "published": "2025-09-06T21:14:44+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Miami Dolphins vs. Indianapolis Colts injury report | Week 1 2025",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3d3UzA2bWRuRmhKaGdkdFpwazc2Ui1sYVVIR2N2S2VXTGVSeWVRUjMyX0Z5enVZamVNT0dvSkxlTzVKMU9qd2F3SEl3MW13UmsxUUZEbGZOQ1V4cGM1QmZTN2x5ekEycm1weE9tX0VHY3dkejYyUEotUzlKOUZvLUJtTEtfdUw5UHRhdXc2dDR4ZFdlWGdyZGF6SGhpdHVXTHo3Z0R0d0MzQkhDZnRDWmlVaWJ0VlY2WXQ2T05ZUG54SVpLZWlHSEdMMFpYSGpM",
+      "source": "Dolphins Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3d3UzA2bWRuRmhKaGdkdFpwazc2Ui1sYVVIR2N2S2VXTGVSeWVRUjMyX0Z5enVZamVNT0dvSkxlTzVKMU9qd2F3SEl3MW13UmsxUUZEbGZOQ1V4cGM1QmZTN2x5ekEycm1weE9tX0VHY3dkejYyUEotUzlKOUZvLUJtTEtfdUw5UHRhdXc2dDR4ZFdlWGdyZGF6SGhpdHVXTHo3Z0R0d0MzQkhDZnRDWmlVaWJ0VlY2WXQ2T05ZUG54SVpLZWlHSEdMMFpYSGpM?oc=5\" target=\"_blank\">Miami Dolphins vs. Indianapolis Colts injury report | Week 1 2025</a>  <font color=\"#6f6f6f\">Dolphins Wire</font>",
+      "published": "2025-09-06T21:05:32+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colts Looked into Blockbuster Trade for Micah Parsons",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjQ2Z0lxTlZnZUhJNnM4cTY2RnQtSV9BOVMyOG1MRzFWQWZZd0E5TjhXVndnVDJNUFBzM21rZzltYUl6ekxHT1VPNTN0UkpFMmxTTU1KUzdrWFpkemFmbWJBZTdhTlcwZ2dqd1RIT3BzdHVqdVMzbjBTeFR5aC04Y09UdjdDV19l",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjQ2Z0lxTlZnZUhJNnM4cTY2RnQtSV9BOVMyOG1MRzFWQWZZd0E5TjhXVndnVDJNUFBzM21rZzltYUl6ekxHT1VPNTN0UkpFMmxTTU1KUzdrWFpkemFmbWJBZTdhTlcwZ2dqd1RIT3BzdHVqdVMzbjBTeFR5aC04Y09UdjdDV19l?oc=5\" target=\"_blank\">Colts Looked into Blockbuster Trade for Micah Parsons</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T21:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Miami Dolphins vs. Indianapolis Colts 2025 odds, tips and betting trends | Week 1",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd1V0c1pfUUtCbEp3ZlExOHM3cUozcU44aWxPQXFKemNGOU9WY050U0Q3bDlGT0IxVDNwWENLMThXUWRkZ3B6dzVUTHNHV3k4V3d6QzBHRHlvblNObmRsaE1ZTExkM2YtYm16dE56OXdwLUVJdFVBeXVDYy1SQlFTclJKS0ZjanVzWkdYcmZjTml0blI5SzlnY1drbGlYYkpSVUxUVWhGN2lfRzZhSk1aVmpMaWQ1RHkxc2hhWUtFN1h3Ni1yYnJaaUpRRE1OSFNzby1DMV9EMURmd2VwYWFz",
+      "source": "Dolphins Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd1V0c1pfUUtCbEp3ZlExOHM3cUozcU44aWxPQXFKemNGOU9WY050U0Q3bDlGT0IxVDNwWENLMThXUWRkZ3B6dzVUTHNHV3k4V3d6QzBHRHlvblNObmRsaE1ZTExkM2YtYm16dE56OXdwLUVJdFVBeXVDYy1SQlFTclJKS0ZjanVzWkdYcmZjTml0blI5SzlnY1drbGlYYkpSVUxUVWhGN2lfRzZhSk1aVmpMaWQ1RHkxc2hhWUtFN1h3Ni1yYnJaaUpRRE1OSFNzby1DMV9EMURmd2VwYWFz?oc=5\" target=\"_blank\">Miami Dolphins vs. Indianapolis Colts 2025 odds, tips and betting trends | Week 1</a>  <font color=\"#6f6f6f\">Dolphins Wire</font>",
+      "published": "2025-09-06T20:55:42+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins at Colts: What to watch for",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40dWVFa05vSU1OQWJ6RTR1QURBWk5QVUsybnY2SGx5RVJuR0R3U1dJQVB6cERuNVZua05zWFE0M0U0WVJ4RWdMWi1HMndnNkFPWmFwRllYWDYxUXh4dkNCc2dnUGh4X1NFUzJMaTh30gFzQVVfeXFMT0l6MS1EOWdiS2o2TmkyLXZkNUp0Ml9hUnZQbDRxLTZTY2VnTk1RTkV4OEV0elhqclU1aEw5LVlDYnM2aW0tbDhETlhzRkVCOUR3Yzh4OWRfbVZlWlRtMjJocWl2enRGU2lLNTdVRUd4TTNtTQ",
+      "source": "Fox 59",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE40dWVFa05vSU1OQWJ6RTR1QURBWk5QVUsybnY2SGx5RVJuR0R3U1dJQVB6cERuNVZua05zWFE0M0U0WVJ4RWdMWi1HMndnNkFPWmFwRllYWDYxUXh4dkNCc2dnUGh4X1NFUzJMaTh30gFzQVVfeXFMT0l6MS1EOWdiS2o2TmkyLXZkNUp0Ml9hUnZQbDRxLTZTY2VnTk1RTkV4OEV0elhqclU1aEw5LVlDYnM2aW0tbDhETlhzRkVCOUR3Yzh4OWRfbVZlWlRtMjJocWl2enRGU2lLNTdVRUd4TTNtTQ?oc=5\" target=\"_blank\">Dolphins at Colts: What to watch for</a>  <font color=\"#6f6f6f\">Fox 59</font>",
+      "published": "2025-09-06T19:54:29+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Wanted AR to be the guy but it’s time to embrace Danny Dimes 🙌🏿",
+      "url": "https://www.reddit.com/r/Colts/comments/1na90zq/wanted_ar_to_be_the_guy_but_its_time_to_embrace",
+      "source": "/u/Embarrassed-Heat-716",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1na90zq/wanted_ar_to_be_the_guy_but_its_time_to_embrace/\"> <img alt=\"Wanted AR to be the guy but it’s time to embrace Danny Dimes 🙌🏿\" src=\"https://preview.redd.it/tjsx5it0nlnf1.jpeg?width=640&crop=smart&auto=webp&s=eecb8c73d879a8696bad42ef7a7fdf1f147fcfb5\" title=\"Wanted AR to be the guy but it’s time to embrace Danny Dimes 🙌🏿\" /> </a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/Embarrassed-Heat-716\"> /u/Embarrassed-Heat-716 </a> <br /> <span><a href=\"https://i.redd.it/tjsx5it0nlnf1.jpeg\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1na90zq/wanted_ar_to_be_the_guy_but_its_time_to_embrace/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-06T19:51:53+00:00",
+      "trusted": true
+    },
+    {
+      "title": "3 bold predictions for Colts in Week 1 game vs. Dolphins",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWRMUXJZdXN5VGZDVkJPUlN4VVh1elJYX19lem5XNUc2SGhHQ0YxYTFqQ3haTnZOb2VDNjd4OEczNmxnRUZZM2RKXzdIVzd0Ulczc29Bcjg5dk5MdXZ2STNRRXlWc0g1OGhzTjZOQ1ZBSEpSSU9NUkJqWWdVZ0ZqM1hWdW5JNExlSGNOcElBWWJRRHRLdlNPcTdjVU81UGdaMXZ0UURZUGh5d2xnXzRvWjRjbzg1Wjl3aXNISTZBanN4Zl9q",
+      "source": "Colts Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWRMUXJZdXN5VGZDVkJPUlN4VVh1elJYX19lem5XNUc2SGhHQ0YxYTFqQ3haTnZOb2VDNjd4OEczNmxnRUZZM2RKXzdIVzd0Ulczc29Bcjg5dk5MdXZ2STNRRXlWc0g1OGhzTjZOQ1ZBSEpSSU9NUkJqWWdVZ0ZqM1hWdW5JNExlSGNOcElBWWJRRHRLdlNPcTdjVU81UGdaMXZ0UURZUGh5d2xnXzRvWjRjbzg1Wjl3aXNISTZBanN4Zl9q?oc=5\" target=\"_blank\">3 bold predictions for Colts in Week 1 game vs. Dolphins</a>  <font color=\"#6f6f6f\">Colts Wire</font>",
+      "published": "2025-09-06T19:09:11+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Minnesota Vikings have yet to address cornerback depth and there's a good reason why",
+      "url": "https://sports.yahoo.com/article/minnesota-vikings-yet-address-cornerback-190355248.html",
+      "source": "AtoZ Sports",
+      "summary": "The weakest position for the Minnesota Vikings is far and away the cornerback position. Going into training camp, there were questions about the group as a whole, especially with Jeff Okudah solidifying himself as the third cornerback early on during training camp. They were so confident in him ...",
+      "published": "2025-09-06T19:03:55+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Where to Watch: Dolphins at Colts for 2025 season opener",
+      "url": "https://www.stampedeblue.com/indianapolis-colts-news/114284/where-to-watch-dolphins-at-colts-for-2025-season-opener",
+      "source": "Luke Schultheis",
+      "summary": "The Indianapolis Colts (0-0) (-1.5) host the Miami Dolphins (0-0) for the 2025 regular season opener at 1 PM EST, at Lucas Oil Stadium, which the Horseshoe shockingly hasn’t won a Week 1 game since 2013. Indianapolis will be looking to snap that embarrassingly long franchise streak, and perhaps they’ll get some help from up […]",
+      "published": "2025-09-06T19:01:57+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Where to Watch: Dolphins at Colts for 2025 season opener",
+      "url": "https://sports.yahoo.com/article/where-watch-dolphins-colts-2025-190157283.html",
+      "source": "SB Nation",
+      "summary": "Here’s what you need to know to successfully follow Dolphins at Colts for the Week 1 opener!",
+      "published": "2025-09-06T19:01:57+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Dolphins finalize expected Week 1 elevations",
+      "url": "https://sports.yahoo.com/article/dolphins-finalize-expected-week-1-185744287.html",
+      "source": "AtoZ Sports",
+      "summary": "The formal dominoes appear to be in place for the Miami Dolphins entering into Week 1 against the Indianapolis Colts. There were indeed two moves made by the Dolphins on Saturday afternoon, both of which were tipped off by head coach Mike McDaniel and general manager Chris Grier in the window ...",
+      "published": "2025-09-06T18:57:44+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Indianapolis Colts Elevate Running Back, Linebacker for Week 1 Clash",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjl5STJONEFsX0NhVzBLcTVZMWgxbHZzdEFaMEFVLUdFaDNZdTFzQUJIVmVhU2htTVo0TUQxTy1sRzF3U0lZUWRPQ1RvejhVVGJjQ1pqbURiTHpCdmZlRUFzMEQ0bGNmYzk2SzMwTFotVlBXZjR3dTludlpGbi1mRmNsT1NEc1NHU3c",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjl5STJONEFsX0NhVzBLcTVZMWgxbHZzdEFaMEFVLUdFaDNZdTFzQUJIVmVhU2htTVo0TUQxTy1sRzF3U0lZUWRPQ1RvejhVVGJjQ1pqbURiTHpCdmZlRUFzMEQ0bGNmYzk2SzMwTFotVlBXZjR3dTludlpGbi1mRmNsT1NEc1NHU3c?oc=5\" target=\"_blank\">Indianapolis Colts Elevate Running Back, Linebacker for Week 1 Clash</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T18:36:53+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Play a special Indianapolis Colts version of Connections: Sports Edition",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVk1vUnM2OGhRTy03c2loSEhDUkFwVU5sVzhHalNma3VmNjhua1VoUTN4SXNfUXpXN0JGWF80THJyeklfOHJ5WGpFdFlRbXZWbGtSTmF3NlpvVFNwME1LSkdyODB5QmZBUjdPTkI1ME10UjdGazRZSUNLbVNUSXNaaGZwaHk5RHhqbW1XV3dKVC02N3ZOSHFUOUVR",
+      "source": "The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVk1vUnM2OGhRTy03c2loSEhDUkFwVU5sVzhHalNma3VmNjhua1VoUTN4SXNfUXpXN0JGWF80THJyeklfOHJ5WGpFdFlRbXZWbGtSTmF3NlpvVFNwME1LSkdyODB5QmZBUjdPTkI1ME10UjdGazRZSUNLbVNUSXNaaGZwaHk5RHhqbW1XV3dKVC02N3ZOSHFUOUVR?oc=5\" target=\"_blank\">Play a special Indianapolis Colts version of Connections: Sports Edition</a>  <font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-06T18:30:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Report: Colts among teams that made initial trade inquiry to Cowboys on Micah Parsons",
+      "url": "https://www.stampedeblue.com/indianapolis-colts-rumors/114276/colts-among-teams-that-made-initial-trade-inquiry-to-cowboys-on-micah-parsons",
+      "source": "Luke Schultheis",
+      "summary": "According to The Athletic’s Dianna Russini, the Indianapolis Colts were among the interested initial suitors that called the Dallas Cowboys on potentially acquiring their former star pass rusher, Micah Parsons, prior to him surprisingly being traded to the Green Bay Packers last week: “About a week before the deal was finalized, word spread that the […]",
+      "published": "2025-09-06T18:24:56+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Report: Colts among teams that made initial trade inquiry to Cowboys on Micah Parsons",
+      "url": "https://sports.yahoo.com/article/report-colts-among-teams-made-182456233.html",
+      "source": "SB Nation",
+      "summary": "Even if their initial trade talks didn’t get very far, it makes sense that the Colts called the Cowboys regarding one of the best pass rushers in the game.",
+      "published": "2025-09-06T18:24:56+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Report: Colts among teams that made initial trade inquiry to Cowboys on Micah Parsons",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVdUbFFQejhGS0EwV3VSUk5pOWVldTRWZHkwNWlaU3N2Z0w3Sk40T1RTVUlfSzRhREtCcFE4Ni1SbF9MeFdpa1BSQjVxMnZnallFZFYxeV9VZnpCM1lIck42MWwtZ1dybXNUcklHVzVlSUY4WkhTbFc3VmZUc2tPZ3l2WlZqMHNpNWhHbXBxNG82ZExrWnhVYmdiV1R1Z21vYllBVGUyUE9FT1haUk4ydVZKR29VdTRIdS1meDkyUFM2aWphekdHTUNzb1ZBNUtDNjZRUGdB",
       "source": "Stampede Blue",
-      "summary": "All-Pro guard trending toward playing in Week 1.",
-      "published": "2025-09-05T14:15:00Z"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVdUbFFQejhGS0EwV3VSUk5pOWVldTRWZHkwNWlaU3N2Z0w3Sk40T1RTVUlfSzRhREtCcFE4Ni1SbF9MeFdpa1BSQjVxMnZnallFZFYxeV9VZnpCM1lIck42MWwtZ1dybXNUcklHVzVlSUY4WkhTbFc3VmZUc2tPZ3l2WlZqMHNpNWhHbXBxNG82ZExrWnhVYmdiV1R1Z21vYllBVGUyUE9FT1haUk4ydVZKR29VdTRIdS1meDkyUFM2aWphekdHTUNzb1ZBNUtDNjZRUGdB?oc=5\" target=\"_blank\">Report: Colts among teams that made initial trade inquiry to Cowboys on Micah Parsons</a>  <font color=\"#6f6f6f\">Stampede Blue</font>",
+      "published": "2025-09-06T18:24:56+00:00",
+      "trusted": false
     },
     {
-      "title": "Colts sign veteran cornerback to bolster secondary",
-      "url": "https://www.nfl.com/news/colts-sign-veteran-cb",
-      "source": "NFL.com — Indianapolis Colts",
-      "summary": "Depth move ahead of season opener.",
-      "published": "2025-09-05T13:00:00Z"
+      "title": "Dolphins’ Darren Waller avoids IR after hip setback; Miami elevates kicker, RB for Colts",
+      "url": "https://sports.yahoo.com/article/dolphins-darren-waller-avoids-ir-180900840.html",
+      "source": "South Florida Sun Sentinel",
+      "summary": "Darren Waller’s hip strain setback, revealed Friday, won’t land him on injured reserve ahead of the Miami Dolphins’ opener Sunday against the Indianapolis Colts. Waller was not placed on IR Saturday, as the team traveled to Indianapolis for its Week 1 game at Lucas Oil Stadium. The Dolphins instead merely announced they elevated kicker Riley Patterson and running back Jeff Wilson Jr. from the ...",
+      "published": "2025-09-06T18:09:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Colts fans rank as least optimistic, and it’s important to understand why",
+      "url": "https://www.stampedeblue.com/analysis/114250/colts-fans-rank-as-least-optimistic-and-its-important-to-understand-why",
+      "source": "Jon Spradley",
+      "summary": "We’re number one! We’re number one! Hey, we are… The Indianapolis Colts rank dead last in an Athletic article ranking fans’ optimism heading into the season. That is a place no fan wants to be, but at least based on the people who participated in the poll, that is the reality of the situation. Should […]",
+      "published": "2025-09-06T18:04:23+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Colts fans rank as least optimistic, and it’s important to understand why",
+      "url": "https://sports.yahoo.com/article/colts-fans-rank-least-optimistic-180423917.html",
+      "source": "SB Nation",
+      "summary": "We’re number one! We’re number one! Hey, we are… The Indianapolis Colts rank dead last in an Athletic article ranking fans’ optimism heading into the season. That is a place no fan wants to be, but at least based on the people who participated in the poll, that is the reality of the situation. Should […]",
+      "published": "2025-09-06T18:04:23+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Colts fans rank as least optimistic, and it’s important to understand why",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZ4QV95Qng5aUpBdUlFdjRMR3BYdlRpVjhCT3VoOFJqVU1RaHh5RUxiRWJwdzRfdF8yNDQ0MjRDZmVubkthMGdMQzM1cV85WXZvai1fdnJBR3FaVkNrNkNYUUIwSWxBMUVOTUN6UVk5T0h2SU56MGdwNjFveVNiXzZxTXRydlF2WkVRSlR0VXZTbkl2aENpTGJ2aFZhTjJuYk84VUZzZ0R6WHU4RUZpQUcxZThRRTA",
+      "source": "Stampede Blue",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZ4QV95Qng5aUpBdUlFdjRMR3BYdlRpVjhCT3VoOFJqVU1RaHh5RUxiRWJwdzRfdF8yNDQ0MjRDZmVubkthMGdMQzM1cV85WXZvai1fdnJBR3FaVkNrNkNYUUIwSWxBMUVOTUN6UVk5T0h2SU56MGdwNjFveVNiXzZxTXRydlF2WkVRSlR0VXZTbkl2aENpTGJ2aFZhTjJuYk84VUZzZ0R6WHU4RUZpQUcxZThRRTA?oc=5\" target=\"_blank\">Colts fans rank as least optimistic, and it’s important to understand why</a>  <font color=\"#6f6f6f\">Stampede Blue</font>",
+      "published": "2025-09-06T18:04:23+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins and QB Tua Tagovailoa to start season against Colts",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbkt4bEdZSkN0M0MxaGxyNlVqNmJObzU4VE5sZmdQdXIzc01tc0VseG03bjRnNnFzWWdfTDRBaWRETWpPMTF4YzB1RFktT3l0bDNaeGlWbGpHMDdLZU5wZ1VyNUprdkZuNEZGaThVdVJFcF9IQml3OXdGTnJ6ZlVMMWlqanhucUlCRXFMRWFvel85dHNxZUhyRXJJeld4bi1YMnUtRzdfX0duSVk",
+      "source": "Honolulu Star-Advertiser",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbkt4bEdZSkN0M0MxaGxyNlVqNmJObzU4VE5sZmdQdXIzc01tc0VseG03bjRnNnFzWWdfTDRBaWRETWpPMTF4YzB1RFktT3l0bDNaeGlWbGpHMDdLZU5wZ1VyNUprdkZuNEZGaThVdVJFcF9IQml3OXdGTnJ6ZlVMMWlqanhucUlCRXFMRWFvel85dHNxZUhyRXJJeld4bi1YMnUtRzdfX0duSVk?oc=5\" target=\"_blank\">Dolphins and QB Tua Tagovailoa to start season against Colts</a>  <font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+      "published": "2025-09-06T18:02:10+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins elevate two from practice squad for Week 1 at Indianapolis Colts",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUzR1bEk4eG1uYVRZN0FFZnlPQno3emppR0VKR05RSk4yY3FSNFYwell4NXZObk5Lc2pkd2tYekNSYVNKdXltMFp3Q2psNDhTQkhoWEJBdmg1U1lLenAtcWgwS1gwTmZ5WG4zQUEwOFRDX29ZNDZHVjlOeGw2SF9kX3hlSlEzcFI0WUphNEVpLXRua2tETU1OYnRlcFN4T18tSWYxUVhfRnpBNzRXTUZGVDA0dkpicTdVMlpzbldnWnZkNE0xUkJ1M2JxZ3FjMTBkbloyQ203dXozZw",
+      "source": "The Phinsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUzR1bEk4eG1uYVRZN0FFZnlPQno3emppR0VKR05RSk4yY3FSNFYwell4NXZObk5Lc2pkd2tYekNSYVNKdXltMFp3Q2psNDhTQkhoWEJBdmg1U1lLenAtcWgwS1gwTmZ5WG4zQUEwOFRDX29ZNDZHVjlOeGw2SF9kX3hlSlEzcFI0WUphNEVpLXRua2tETU1OYnRlcFN4T18tSWYxUVhfRnpBNzRXTUZGVDA0dkpicTdVMlpzbldnWnZkNE0xUkJ1M2JxZ3FjMTBkbloyQ203dXozZw?oc=5\" target=\"_blank\">Dolphins elevate two from practice squad for Week 1 at Indianapolis Colts</a>  <font color=\"#6f6f6f\">The Phinsider</font>",
+      "published": "2025-09-06T18:02:04+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colts Had Reported Interest in Micah Parsons",
+      "url": "https://www.msn.com",
+      "source": "Bing News — Indianapolis Colts",
+      "summary": "According to a report from The Athletic's Dianna Russini, the Colts, among a few other interested teams, had called the Cowboys ahead of their move to send Parsons to the Packers to check in on what a deal would look like, learning that the framework would likely look similar to what the eventual trade would be to send him to Green Bay.",
+      "published": "2025-09-06T18:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Where to watch today's Indianapolis Colts vs Miami Dolphins NFL Game: Livestream, TV channels and start time",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZySnZkUmctU0dNTXJ3eDFkXzNha3VHM0M5LUlvN3p0NU4waFNOdU83MFBnZzZWZjRwMDFWdHE1ZFpIN0FzQnp1eWI5SVhyWlBxMmZ1S0ZDR2FfRG1fWmRHQU1Yajc5N3dmZFNoU19VcFUycTd3ZTdxVHptUFB2Y1VvV0ZjeFFFcDlqeEUyTk9zdw",
+      "source": "Goal.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZySnZkUmctU0dNTXJ3eDFkXzNha3VHM0M5LUlvN3p0NU4waFNOdU83MFBnZzZWZjRwMDFWdHE1ZFpIN0FzQnp1eWI5SVhyWlBxMmZ1S0ZDR2FfRG1fWmRHQU1Yajc5N3dmZFNoU19VcFUycTd3ZTdxVHptUFB2Y1VvV0ZjeFFFcDlqeEUyTk9zdw?oc=5\" target=\"_blank\">Where to watch today's Indianapolis Colts vs Miami Dolphins NFL Game: Livestream, TV channels and start time</a>  <font color=\"#6f6f6f\">Goal.com</font>",
+      "published": "2025-09-06T17:53:57+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Who is Ulysses Bentley IV? Meet Colts RB depth chart addition with the most royal name in the NFL",
+      "url": "https://sports.yahoo.com/article/ulysses-bentley-iv-meet-colts-174658935.html",
+      "source": "The Sporting News",
+      "summary": "You can't overlook a guy with this name.",
+      "published": "2025-09-06T17:46:58+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Colts’ Matchups to Watch: Week 1 vs. Dolphins",
+      "url": "https://www.stampedeblue.com/analysis/114268/colts-matchups-to-watch-week-1-vs-dolphins",
+      "source": "Mateo Caliz",
+      "summary": "And we are now back for yet another NFL season together following our beloved Indianapolis Colts. Let me kick things off by saying that this is probably the least optimistic start of the year I have been a part of since following the team. From every single standpoint, this seems like just a wasted year […]",
+      "published": "2025-09-06T17:44:39+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Colts’ Matchups to Watch: Week 1 vs. Dolphins",
+      "url": "https://sports.yahoo.com/article/colts-matchups-watch-week-1-174439091.html",
+      "source": "SB Nation",
+      "summary": "And we are now back for yet another NFL season together following our beloved Indianapolis Colts. Let me kick things off by saying that this is probably the least optimistic start of the year I have been a part of since following the team. From every single standpoint, this seems like just a wasted year […]",
+      "published": "2025-09-06T17:44:39+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Colts’ Matchups to Watch: Week 1 vs. Dolphins",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaW51WXFaQVEzVlpEVi1XVGtTT0h0cHgxd0dNcjR5b0tTSmJ2V2p4N0EwWEhSdFlEdG5Yc2F6TV9FWkFTd19TdU90R2g4VzBiejNieFoxLUQ1TjI1LVBBOFdxekg2LVJRRlZWalNaYUZ5TmYxSUwwMXREQ1M2S3Azbw",
+      "source": "Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaW51WXFaQVEzVlpEVi1XVGtTT0h0cHgxd0dNcjR5b0tTSmJ2V2p4N0EwWEhSdFlEdG5Yc2F6TV9FWkFTd19TdU90R2g4VzBiejNieFoxLUQ1TjI1LVBBOFdxekg2LVJRRlZWalNaYUZ5TmYxSUwwMXREQ1M2S3Azbw?oc=5\" target=\"_blank\">Colts’ Matchups to Watch: Week 1 vs. Dolphins</a>  <font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "published": "2025-09-06T17:44:39+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Indianapolis Colts vs. Miami Dolphins injury report | Week 1 2025",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmxaV3JWcGpLUzA4U1dwMzBiZUVhb2dmQlJ5dThlaXlSTUxDaF9KSDlMMVdRV3l1aEdWN3BPN1Vjd0Rtc2tWbUFkZ3RCdlJnV1RNSGNkNkUtNUhCN0t0Um1HUTRDS18tWkNDb2RLYm94WktnZnc5X3lDVDA0emNCbXJmMjNDc3hCX0dsMFZsMFpwUHFwaXROUVVDY3ZyTmpZMmFPek9PRVRyYVl4YTRqYTl1RGxlRV9hVWtKbmNfdEpzckxZOS1HTA",
+      "source": "Colts Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmxaV3JWcGpLUzA4U1dwMzBiZUVhb2dmQlJ5dThlaXlSTUxDaF9KSDlMMVdRV3l1aEdWN3BPN1Vjd0Rtc2tWbUFkZ3RCdlJnV1RNSGNkNkUtNUhCN0t0Um1HUTRDS18tWkNDb2RLYm94WktnZnc5X3lDVDA0emNCbXJmMjNDc3hCX0dsMFZsMFpwUHFwaXROUVVDY3ZyTmpZMmFPek9PRVRyYVl4YTRqYTl1RGxlRV9hVWtKbmNfdEpzckxZOS1HTA?oc=5\" target=\"_blank\">Indianapolis Colts vs. Miami Dolphins injury report | Week 1 2025</a>  <font color=\"#6f6f6f\">Colts Wire</font>",
+      "published": "2025-09-06T17:26:47+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Indianapolis Colts Week 1 Injury Report",
+      "url": "https://www.stampedeblue.com/general/114259/indianapolis-colts-week-1-injury-report",
+      "source": "Elliot Denton-Singh",
+      "summary": "The Indianapolis Colts today released their Friday injury report for Week 1 of the NFL season ahead of their season finale Sunday game against the Miami Dolphins. Running back Tyler Goodson is QUESTIONABLE for Sunday’s game against the Jaguars due to a knee injury. Goodson was limited at practice all week due to the elbow injury that he […]",
+      "published": "2025-09-06T17:11:29+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Indianapolis Colts Week 1 Injury Report",
+      "url": "https://sports.yahoo.com/article/indianapolis-colts-week-1-injury-171129322.html",
+      "source": "SB Nation",
+      "summary": "The Indianapolis Colts today released their Friday injury report for Week 1 of the NFL season ahead of their season finale Sunday game against the Miami Dolphins. Running back Tyler Goodson is QUESTIONABLE for Sunday’s game against the Jaguars due to a knee injury. Goodson was limited at practice all week due to the elbow injury that he […]",
+      "published": "2025-09-06T17:11:29+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Indianapolis Colts Week 1 Injury Report",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalRWQWVHT0ZsSmNuSnExOXNJbFJVN3MyYlFXOC14OTJCT00zXzJYT3VrQWItcjF3dFoyc21ucnJVN1Bxdk84UDVUc1BKSlhZUG5sNkg1SEUwbUl4MzEtNjJ0azRmcTZub0F0Vk9WTlZnOGQ4NERvemRvNGtGRVd6MHJxZTFOblpuQ0hN",
+      "source": "Stampede Blue",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalRWQWVHT0ZsSmNuSnExOXNJbFJVN3MyYlFXOC14OTJCT00zXzJYT3VrQWItcjF3dFoyc21ucnJVN1Bxdk84UDVUc1BKSlhZUG5sNkg1SEUwbUl4MzEtNjJ0azRmcTZub0F0Vk9WTlZnOGQ4NERvemRvNGtGRVd6MHJxZTFOblpuQ0hN?oc=5\" target=\"_blank\">Indianapolis Colts Week 1 Injury Report</a>  <font color=\"#6f6f6f\">Stampede Blue</font>",
+      "published": "2025-09-06T17:11:29+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colts make pair of roster moves before Week 1 game vs. Dolphins",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXhQaVFOV294QzJSR01zRTU4SmxONmowbGpsUm1XWGFhTFR5OUptQmJMWUZHRU14c2p5amFuQmJuSzdFdFBzV3Axb2VFME16dTM1TmtmOEE1bGo1eWpMYnN6Sjd1VWktQktjQWdHX1Z3OC01eTVzNEJDT0JiLXlkV054Q3FZdllkZDVjaUVzRHltVWtBSTZBVmxxYjFjYkw0T3hNdC03d2gxREZ5MldEUVF4ZGdLRTFRNTlBc28wdV9iOGljZlNXRl96UEt0UQ",
+      "source": "Colts Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXhQaVFOV294QzJSR01zRTU4SmxONmowbGpsUm1XWGFhTFR5OUptQmJMWUZHRU14c2p5amFuQmJuSzdFdFBzV3Axb2VFME16dTM1TmtmOEE1bGo1eWpMYnN6Sjd1VWktQktjQWdHX1Z3OC01eTVzNEJDT0JiLXlkV054Q3FZdllkZDVjaUVzRHltVWtBSTZBVmxxYjFjYkw0T3hNdC03d2gxREZ5MldEUVF4ZGdLRTFRNTlBc28wdV9iOGljZlNXRl96UEt0UQ?oc=5\" target=\"_blank\">Colts make pair of roster moves before Week 1 game vs. Dolphins</a>  <font color=\"#6f6f6f\">Colts Wire</font>",
+      "published": "2025-09-06T16:44:35+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins vs. Colts odds, predictions, bets: Proven model reveals free 2025 NFL Week 1 picks for Sunday",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGQ4UkZPQmFDNm9MRGM2RlJJd2NwazR6YWU2dHJWQmg0eEc3YjY4aktsVzR5R1NzMXVuTER4UHFTWUZMb0szT2xhSjUyWTYyMGxuc09HTTdIbVlpT3JnTm9UVVR0VUlUZzRjX1VDWFdRdkRIV0xiTWV1YmVhX0dwVDRRNnNIeU5uRTdJcXI3VVQzS0daNEx4dS1yb0Rpd1RLbmhfOV9QNllmQ1B2OHZDLURwbUFFWU1qZXZ3X281T3RTdTVhMWhtYmc4ck5SYzA",
+      "source": "CBS Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGQ4UkZPQmFDNm9MRGM2RlJJd2NwazR6YWU2dHJWQmg0eEc3YjY4aktsVzR5R1NzMXVuTER4UHFTWUZMb0szT2xhSjUyWTYyMGxuc09HTTdIbVlpT3JnTm9UVVR0VUlUZzRjX1VDWFdRdkRIV0xiTWV1YmVhX0dwVDRRNnNIeU5uRTdJcXI3VVQzS0daNEx4dS1yb0Rpd1RLbmhfOV9QNllmQ1B2OHZDLURwbUFFWU1qZXZ3X281T3RTdTVhMWhtYmc4ck5SYzA?oc=5\" target=\"_blank\">Dolphins vs. Colts odds, predictions, bets: Proven model reveals free 2025 NFL Week 1 picks for Sunday</a>  <font color=\"#6f6f6f\">CBS Sports</font>",
+      "published": "2025-09-06T16:37:31+00:00",
+      "trusted": false
+    },
+    {
+      "title": "[Colts] We have elevated LB Austin Ajiake and RB Ulysses Bentley IV to the active roster from the practice squad for #MIAvsIND.",
+      "url": "https://www.reddit.com/r/Colts/comments/1na3rkt/colts_we_have_elevated_lb_austin_ajiake_and_rb",
+      "source": "/u/hayternal",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1na3rkt/colts_we_have_elevated_lb_austin_ajiake_and_rb/\"> <img alt=\"[Colts] We have elevated LB Austin Ajiake and RB Ulysses Bentley IV to the active roster from the practice squad for #MIAvsIND.\" src=\"https://external-preview.redd.it/hki3nzG6n_wk0vBxIsto8prRFlk6SKtQBKRnSsZZK1I.jpeg?width=640&crop=smart&auto=webp&s=9d71412b52d330a622256602199415506f489c9f\" title=\"[Colts] We have elevated LB Austin Ajiake and RB Ulysses Bentley IV to the active roster from the practice squad for #MIAvsIND.\" /> </a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/hayternal\"> /u/hayternal </a> <br /> <span><a href=\"https://www.colts.com/news/colts-elevate-lb-austin-ajiake-rb-ulysses-bentley-iv-to-active-roster-from-practice-squad-for-week-1\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1na3rkt/colts_we_have_elevated_lb_austin_ajiake_and_rb/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-06T16:22:45+00:00",
+      "trusted": true
+    },
+    {
+      "title": "How Andrew Luck became Stanford football's general manager, 'came around to loving the game'",
+      "url": "https://sports.yahoo.com/article/andrew-luck-became-stanford-footballs-160251424.html",
+      "source": "IndyStar | The Indianapolis Star",
+      "summary": "An abrupt retirement meant Andrew Luck and his family left the Indianapolis Colts. They landed back at Stanford, and now he tries to lead the Cardinal back to prominence.",
+      "published": "2025-09-06T16:02:51+00:00",
+      "trusted": true
+    },
+    {
+      "title": "3 reasons the Dolphins will cover the spread vs. the Colts in Week 1",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDR6ODJObm1tTWJnVXZISEE2cko5ajBxMU9JYVYzMm1TelRGWi1Id1RlM19xNGM2dTY2aDhLTjc3UWRhWTRtNFp1YkJwcDNqa09PTm04aWlBVTVMOUFtTVdMZG5mLVpQY3JKSmNZYk9CTWpDUUZNNVhTZlpKcGo3NldOakM0aFlXbG5YalFsTVFVN0dZZTVDSHkxYnlJTUwxbFdjUXF2UGR5Y3BId1Z3SXEyWWdRb3NFLVZoSWg0Z3pLQXczR2N1Y2c3cVJiMm1jc1E",
+      "source": "Dolphins Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDR6ODJObm1tTWJnVXZISEE2cko5ajBxMU9JYVYzMm1TelRGWi1Id1RlM19xNGM2dTY2aDhLTjc3UWRhWTRtNFp1YkJwcDNqa09PTm04aWlBVTVMOUFtTVdMZG5mLVpQY3JKSmNZYk9CTWpDUUZNNVhTZlpKcGo3NldOakM0aFlXbG5YalFsTVFVN0dZZTVDSHkxYnlJTUwxbFdjUXF2UGR5Y3BId1Z3SXEyWWdRb3NFLVZoSWg0Z3pLQXczR2N1Y2c3cVJiMm1jc1E?oc=5\" target=\"_blank\">3 reasons the Dolphins will cover the spread vs. the Colts in Week 1</a>  <font color=\"#6f6f6f\">Dolphins Wire</font>",
+      "published": "2025-09-06T16:00:05+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins-Colts Week 1 National Predictions Roundup",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUtHNTBBTVg4MzNDWEotT2wtWk9mYTFuUml5azlvNVdncVNMb2NGUm04dTh5Qi1CbXEtNllhd21ZSWtlS2E2OXJqRmU2SkJHbEMtV1pYczd5MW1HYk9KNXRvU3lGQWVpbkR2RlRiblFoaUJIMEptOHlrVTg4NVR2SlhxTHZTSnBfY2Y2d3BpX2tVZmVzdHgwakZOLWVpVGhaTEE",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUtHNTBBTVg4MzNDWEotT2wtWk9mYTFuUml5azlvNVdncVNMb2NGUm04dTh5Qi1CbXEtNllhd21ZSWtlS2E2OXJqRmU2SkJHbEMtV1pYczd5MW1HYk9KNXRvU3lGQWVpbkR2RlRiblFoaUJIMEptOHlrVTg4NVR2SlhxTHZTSnBfY2Y2d3BpX2tVZmVzdHgwakZOLWVpVGhaTEE?oc=5\" target=\"_blank\">Dolphins-Colts Week 1 National Predictions Roundup</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T16:00:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colts receive bulletin board material after disrespect in latest power rankings",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW01Qk9HVVJYQkNCTzZ2YmNMdUp2TDFnMmVUR0NJQnlBbzk3cXJKS1JoQzFiNE1MZWlqWEVtajl4ckJYY3czTUNQQW96Mm5XMmZvSEF4Uzg1WmRqbk4wdHhXcmZPa09BejB3c1B2eWZQZnZQeUFPYXVfQkVDRThYQUhfeUNIQnI0enNtY3hWdktyMjE2YURwdk1qXzJvQUp5bUNOV2FKMU83MjR1S2cyXw",
+      "source": "Horseshoe Heroes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW01Qk9HVVJYQkNCTzZ2YmNMdUp2TDFnMmVUR0NJQnlBbzk3cXJKS1JoQzFiNE1MZWlqWEVtajl4ckJYY3czTUNQQW96Mm5XMmZvSEF4Uzg1WmRqbk4wdHhXcmZPa09BejB3c1B2eWZQZnZQeUFPYXVfQkVDRThYQUhfeUNIQnI0enNtY3hWdktyMjE2YURwdk1qXzJvQUp5bUNOV2FKMU83MjR1S2cyXw?oc=5\" target=\"_blank\">Colts receive bulletin board material after disrespect in latest power rankings</a>  <font color=\"#6f6f6f\">Horseshoe Heroes</font>",
+      "published": "2025-09-06T16:00:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colts elevate LB Austin Ajiake, RB Ulysses Bentley IV to active roster from practice squad for Week 1",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHMwSlpqbUJkY0ZZbXJiemVsc011SE9CR2IyTExZN3V3ZUwwams1a2V6WGE3NVJkUC1WMm84VkstdEZaZVVmelpWaUhFNTNrQ2Zkck95RVZOSU8xbHhjV1ItTkg2dGNVTVFSLTRVQ1V1Y1ZYb2xQU0l4Ql90NjMyU2l0LXMwSWItNVBTXzFZUllfYmhENzFOYnBDS0JKVWZXQmNZREktVXo1alFHZmd6Rzc5X0NCNDdtcHpOc2VoLVFQUGFkMGc",
+      "source": "Colts.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHMwSlpqbUJkY0ZZbXJiemVsc011SE9CR2IyTExZN3V3ZUwwams1a2V6WGE3NVJkUC1WMm84VkstdEZaZVVmelpWaUhFNTNrQ2Zkck95RVZOSU8xbHhjV1ItTkg2dGNVTVFSLTRVQ1V1Y1ZYb2xQU0l4Ql90NjMyU2l0LXMwSWItNVBTXzFZUllfYmhENzFOYnBDS0JKVWZXQmNZREktVXo1alFHZmd6Rzc5X0NCNDdtcHpOc2VoLVFQUGFkMGc?oc=5\" target=\"_blank\">Colts elevate LB Austin Ajiake, RB Ulysses Bentley IV to active roster from practice squad for Week 1</a>  <font color=\"#6f6f6f\">Colts.com</font>",
+      "published": "2025-09-06T15:57:26+00:00",
+      "trusted": false
+    },
+    {
+      "title": "The Colts get good news ahead of kickoff, while the Dolphins have some things to figure out ahead of their Week 1 matchup",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcUZtQ2NMRExGZDZKOGtxdEJEeDd2RVdmWF96emlnY0I1WHNCTTZ5X0padW9nSUpqWlV1am4yUlVIS3NtcUhQOU04bzkwcVpTUjA1YWRnUVFtWVFOMHlleGhFeEdULVFBekxBU2JLYXRRVWNPQjNqNzA4Q0pTcHFVdHdwZWNUeHROajdPVDRQS1k4MlNGb1dwS0ZiNmR1RlVidkVHeDRlbDRjbERDRnAzSU5tazhNb1gwVEtIRnlDNkNSRFRudjlXV3QzRlhtVWNVdmNZTFZic0lQRHppZkJhTEdDcVJfdVUtM1c1M1FyM0dCNWRBeGlkRzVjVFZ0MEtuNW90TmpHbmR3dw",
+      "source": "A to Z Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNcUZtQ2NMRExGZDZKOGtxdEJEeDd2RVdmWF96emlnY0I1WHNCTTZ5X0padW9nSUpqWlV1am4yUlVIS3NtcUhQOU04bzkwcVpTUjA1YWRnUVFtWVFOMHlleGhFeEdULVFBekxBU2JLYXRRVWNPQjNqNzA4Q0pTcHFVdHdwZWNUeHROajdPVDRQS1k4MlNGb1dwS0ZiNmR1RlVidkVHeDRlbDRjbERDRnAzSU5tazhNb1gwVEtIRnlDNkNSRFRudjlXV3QzRlhtVWNVdmNZTFZic0lQRHppZkJhTEdDcVJfdVUtM1c1M1FyM0dCNWRBeGlkRzVjVFZ0MEtuNW90TmpHbmR3dw?oc=5\" target=\"_blank\">The Colts get good news ahead of kickoff, while the Dolphins have some things to figure out ahead of their Week 1 matchup</a>  <font color=\"#6f6f6f\">A to Z Sports</font>",
+      "published": "2025-09-06T15:54:42+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colts Fans are Down Bad",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVNJMGEtdGZCZWpxX2s1SXVLRWNvejJHQ01DcHZjQm50VFRsYVpVMXhieGxaSURTQjI0M3VBdG5udDNDWUVVc3ppaFUwWU54N3hMWXduSkk3LVNMR3dMbHlhN2FZUDdQU3lPeGw4Yy1vLXVvSVY1RWRCSEtUV2xkRTRiS3pSTHhHSjg4T1dzZklsS2s",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVNJMGEtdGZCZWpxX2s1SXVLRWNvejJHQ01DcHZjQm50VFRsYVpVMXhieGxaSURTQjI0M3VBdG5udDNDWUVVc3ppaFUwWU54N3hMWXduSkk3LVNMR3dMbHlhN2FZUDdQU3lPeGw4Yy1vLXVvSVY1RWRCSEtUV2xkRTRiS3pSTHhHSjg4T1dzZklsS2s?oc=5\" target=\"_blank\">Colts Fans are Down Bad</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T15:32:35+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Week 1 Prediction",
+      "url": "https://www.reddit.com/r/Colts/comments/1na1j5a/week_1_prediction_the_hoof_of_destiny_starring",
+      "source": "/u/TreeTrillion",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Hoof of Destiny: Daniel Jones and the Week 1 Triumph</p> <p>Canto I – The Call to Arms</p> <p>In summer's wane, when rosters formed, And hope through gridirons brightly stormed, There came a tale of might and bones — The rise of Indy’s Daniel Jones.</p> <p>Cast off from Gotham’s doubting throne, He rode westward to make his own. A Colt reborn in blue and white, Prepared to charge and prove his might.</p> <p>The Dolphins came with fins held high, Their eyes on victory, dreams in sky. But fate had spun a different thread— The hoof would trample, not the fin instead.</p> <p>Canto II – The Clash in Lucas Oil</p> <p>The sun shone down on turf and steel, As Colts and Dolphins clashed with zeal. Tua slung spirals fast and true, But Indy’s line — they barreled through.</p> <p>The Colts defense, like wild storm, Broke every Miami blocking form. A strip, a sack, the crowd did roar — And Jones, now called, would write his lore.</p> <p>With eyes like fire and poise like stone, He took the snap — he stood alone. A flick, a fake, then down he flew, Past linebackers, the angle slew.</p> <p>Canto III – The Drive of Legend</p> <p>The clock grew thin — the score was tied, As tension thickened every stride. From his own twenty, Jones began, A mortal man, yet forged like Pan.</p> <p>He hit Pittman with laser flare, Then found Downs streaking through the air. The crowd arose in unified breath, As Colts charged onward, courting death.</p> <p>A bootleg left — defenders bit. Jones turned the edge, his path was lit. He thundered down the sideline wide, And dove with grace — the pylon’s pride!</p> <p>Touchdown! rang the Hoosier sky, And blue-clad fans let spirits fly.</p> <p>Canto IV – The Afterglow</p> <p>The Dolphins wept on locker floors, Their comeback dashed on Indy’s shores. Reporters swarmed with pens and glee, Yet Jones just smiled — stoic, free.</p> <p>“No crown is won in one short night, But I have found my sword, my fight.” A leader forged through pain and flame, Now etched in horseshoe, not in shame.</p> <p>So sing, ye fans, of Week 1’s day, When Daniel Jones led Colts to play— And carved his name with arm and speed, A quarterback of myth and deed.</p> <p>And thus the tale in helmets writ, Where legacy and gridiron split. Should doubt again on him be thrown— Recall the day he made Colts home. </p> <p>Colts 24 - Dolphins 17</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/TreeTrillion\"> /u/TreeTrillion </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1na1j5a/week_1_prediction_the_hoof_of_destiny_starring/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1na1j5a/week_1_prediction_the_hoof_of_destiny_starring/\">[comments]</a></span>",
+      "published": "2025-09-06T14:52:58+00:00",
+      "trusted": true
+    },
+    {
+      "title": "That's right!!",
+      "url": "https://www.reddit.com/r/Colts/comments/1na1cx3/thats_right",
+      "source": "/u/brmidwest03",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1na1cx3/thats_right/\"> <img alt=\"That's right!!\" src=\"https://preview.redd.it/bnrrnrpf4knf1.jpeg?width=640&crop=smart&auto=webp&s=11347273c3faf7f1d3ecccf1eb419c1bcb920060\" title=\"That's right!!\" /> </a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/brmidwest03\"> /u/brmidwest03 </a> <br /> <span><a href=\"https://i.redd.it/bnrrnrpf4knf1.jpeg\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1na1cx3/thats_right/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-06T14:45:55+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Report: Colts made phone call to Cowboys to inquire about Micah Parsons",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV21BQXAzQVJ1d2tRQVQ5Z2xzN293allmc2QzSFRQY2xlR2ZJb3BhQXVxQmVXV1NMNVA3Q0dKRzk0dlVrdlBnUW9oTWt1UnIxNjN1QUNqTHloV2RvUmt5QW0wcUxxZi1ESlQtR283M2dPaWJtWWRBTXFMUEdZcTdWRGFQWVMyM1ctSG5BUDQ0NExtaGZKdnZua1V0V291R2ZqYmRqZXRCcVhNWnFNeUhGNFFUWm5ZV1dSZnlEdy1DTDJla3NicENwcWJpSFczYWNyY0RjSDhqNEdvUQ",
+      "source": "Colts Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV21BQXAzQVJ1d2tRQVQ5Z2xzN293allmc2QzSFRQY2xlR2ZJb3BhQXVxQmVXV1NMNVA3Q0dKRzk0dlVrdlBnUW9oTWt1UnIxNjN1QUNqTHloV2RvUmt5QW0wcUxxZi1ESlQtR283M2dPaWJtWWRBTXFMUEdZcTdWRGFQWVMyM1ctSG5BUDQ0NExtaGZKdnZua1V0V291R2ZqYmRqZXRCcVhNWnFNeUhGNFFUWm5ZV1dSZnlEdy1DTDJla3NicENwcWJpSFczYWNyY0RjSDhqNEdvUQ?oc=5\" target=\"_blank\">Report: Colts made phone call to Cowboys to inquire about Micah Parsons</a>  <font color=\"#6f6f6f\">Colts Wire</font>",
+      "published": "2025-09-06T14:33:41+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Report: Colts made phone call to Cowboys to inquire about Micah Parsons",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakdibEV0Z0JNRzhucGZlMG9RYTdFNFdLdHZFV3lVekdsR0Nnd2o1bmZGajFfMS0xd04zcDI5WFdQSjhxdGxxRVBrZktvMG80YjdwNlN4WU1pRUhvalRaZHRXUUxQd2hCemlaQmFTS1BkNTJkTXpHSXJ3M2o1bHl6Ymdn",
+      "source": "Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNakdibEV0Z0JNRzhucGZlMG9RYTdFNFdLdHZFV3lVekdsR0Nnd2o1bmZGajFfMS0xd04zcDI5WFdQSjhxdGxxRVBrZktvMG80YjdwNlN4WU1pRUhvalRaZHRXUUxQd2hCemlaQmFTS1BkNTJkTXpHSXJ3M2o1bHl6Ymdn?oc=5\" target=\"_blank\">Report: Colts made phone call to Cowboys to inquire about Micah Parsons</a>  <font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "published": "2025-09-06T14:31:26+00:00",
+      "trusted": false
+    },
+    {
+      "title": "ISO Lions vs Colts Gameday Pin 11/24/2024",
+      "url": "https://www.reddit.com/r/Colts/comments/1na0x2b/iso_lions_vs_colts_gameday_pin_11242024",
+      "source": "/u/Hyzer19",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello all, looking for a game day pin from last season when the Detroit Lions played the Colts. Cannot seem to find one on ebay or marketplace. Hoping Reddit can do me right.</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/Hyzer19\"> /u/Hyzer19 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1na0x2b/iso_lions_vs_colts_gameday_pin_11242024/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/Colts/comments/1na0x2b/iso_lions_vs_colts_gameday_pin_11242024/\">[comments]</a></span>",
+      "published": "2025-09-06T14:27:12+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Dolphins vs. Colts TV broadcast coverage plan for Week 1",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZnNPcC1lcUNLcUNBVmMyUE5lOF9ENFhhd3RIdnA4V3VMV2xZZklVU2tUUk9GVmNIYjNDRDRvVjUyX1V2UmpibUZBelhsR2M5RjNYTTNiOTBQT2R1NDVibDJ6V2JYQno1SGN5U1ZmVk5ycnc3WS1zQnNUM2poeWVWQXU4RDBnTEtmc3dvQW1Fa215M0FSMDJxdzFaekpMdDBaaXBqSHFfNzFfRDViS3p2Y2Z1MlRBRzZkTXVnR2phdFg0Nnc",
+      "source": "The Phinsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZnNPcC1lcUNLcUNBVmMyUE5lOF9ENFhhd3RIdnA4V3VMV2xZZklVU2tUUk9GVmNIYjNDRDRvVjUyX1V2UmpibUZBelhsR2M5RjNYTTNiOTBQT2R1NDVibDJ6V2JYQno1SGN5U1ZmVk5ycnc3WS1zQnNUM2poeWVWQXU4RDBnTEtmc3dvQW1Fa215M0FSMDJxdzFaekpMdDBaaXBqSHFfNzFfRDViS3p2Y2Z1MlRBRzZkTXVnR2phdFg0Nnc?oc=5\" target=\"_blank\">Dolphins vs. Colts TV broadcast coverage plan for Week 1</a>  <font color=\"#6f6f6f\">The Phinsider</font>",
+      "published": "2025-09-06T14:17:31+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Dolphins vs. Colts Best NFL Prop Bets and Anytime Touchdown Scorer Picks for NFL Week 1",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUJiX09yYWZqd3VvTTVlVGV2NWpDdXRHYWVHSkNwbGIxbFAyMVhFM3MybktxaktxNmRENWM0OU11MTJsajVSZFhmQVI0MHlORmw0NTRKSUs4RzlsRkJ2bUpFeFN2TEtwQVZiVE1Fb0pHdDNYV2NlT0tObDBxZ3l0WUZzSk9wUG15YVZQbnBNT24zZENRUTFlV0hZWHp6b2xLWG1TamZHeFZBMzZyN2dKNmRiVVFUY19nZWJkamhBUXA3ZGNO",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUJiX09yYWZqd3VvTTVlVGV2NWpDdXRHYWVHSkNwbGIxbFAyMVhFM3MybktxaktxNmRENWM0OU11MTJsajVSZFhmQVI0MHlORmw0NTRKSUs4RzlsRkJ2bUpFeFN2TEtwQVZiVE1Fb0pHdDNYV2NlT0tObDBxZ3l0WUZzSk9wUG15YVZQbnBNT24zZENRUTFlV0hZWHp6b2xLWG1TamZHeFZBMzZyN2dKNmRiVVFUY19nZWJkamhBUXA3ZGNO?oc=5\" target=\"_blank\">Dolphins vs. Colts Best NFL Prop Bets and Anytime Touchdown Scorer Picks for NFL Week 1</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T14:00:02+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Former NFL QB delivers harsh truth Colts can’t ignore about quarterback situation",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTndtRXN1Nkt3QWVrdVN4eTRTSDRlR016ZElFUmhoNHVRTWxpZGxzbXU1Y2hMTEVNaFJzN2JhaEZHd1k2TkFxZEl1a2lnekVYZnlwcTNXNjQ4MFhybVgxczV0NWh1SVVkR3lFLV9aNHV2Q3B3N0VyYXpPc3NiV2hGeGE5eXFpY0QtM3oycjF2WWx6N2NJaTZrZGVOUTEtWm1OTDRvcmRZTTNhTE0tR3duX0NTRFNyUQ",
+      "source": "Horseshoe Heroes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTndtRXN1Nkt3QWVrdVN4eTRTSDRlR016ZElFUmhoNHVRTWxpZGxzbXU1Y2hMTEVNaFJzN2JhaEZHd1k2TkFxZEl1a2lnekVYZnlwcTNXNjQ4MFhybVgxczV0NWh1SVVkR3lFLV9aNHV2Q3B3N0VyYXpPc3NiV2hGeGE5eXFpY0QtM3oycjF2WWx6N2NJaTZrZGVOUTEtWm1OTDRvcmRZTTNhTE0tR3duX0NTRFNyUQ?oc=5\" target=\"_blank\">Former NFL QB delivers harsh truth Colts can’t ignore about quarterback situation</a>  <font color=\"#6f6f6f\">Horseshoe Heroes</font>",
+      "published": "2025-09-06T14:00:00+00:00",
+      "trusted": false
     }
+  ],
+  "sources": [
+    "/u/Adept-Cell-1960",
+    "/u/Embarrassed-Heat-716",
+    "/u/FunnnyBunny91",
+    "/u/HopOnMyArk",
+    "/u/Hyzer19",
+    "/u/MmmmBurbank",
+    "/u/MrHugz30",
+    "/u/TreeTrillion",
+    "/u/alcatrazhero18",
+    "/u/brmidwest03",
+    "/u/easily_e",
+    "/u/hayternal",
+    "/u/icekyuu",
+    "/u/killerrazzmazz",
+    "A to Z Sports",
+    "AtoZ Sports",
+    "Bing News — Indianapolis Colts",
+    "CBS Sports",
+    "Colts Wire",
+    "Colts.com",
+    "Dolphins Wire",
+    "DraftKings Network",
+    "Elliot Denton-Singh",
+    "FOX Sports",
+    "Fox 59",
+    "Goal.com",
+    "Heavy Sports",
+    "Honolulu Star-Advertiser",
+    "Horseshoe Heroes",
+    "IndyStar | The Indianapolis Star",
+    "Jon Spradley",
+    "Luke Schultheis",
+    "Mateo Caliz",
+    "SB Nation",
+    "Scores And Stats",
+    "South Florida Sun Sentinel",
+    "Sports Illustrated",
+    "Sportsbook Wire",
+    "Stampede Blue",
+    "Syracuse.com",
+    "The New York Times",
+    "The Phinsider",
+    "The Sporting News",
+    "WISH-TV",
+    "Yahoo Sports"
   ]
 }
