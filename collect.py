@@ -1,123 +1,181 @@
-# collect.py — robust collector (trusted bypass + fallback)
-import re, json, time, html, sys
+# collect.py — resilient collector with "never empty" fallback
+# Drop this in repo root. Requires feeds.py next to it.
+
+import re
+import json
+import time
+import html
+import sys
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse
-import requests, feedparser
+
+import requests
+import feedparser
 import feeds
 
-USER_AGENT = "SportsNewsTemplate/1.0"
+# ------------ Tunables ------------
+USER_AGENT = "TeamNewsCollector/1.1 (+https://github.com/)"
 TIMEOUT = 12
 MAX_ITEMS = 80
+# If after filtering we have fewer than this, we fall back to trusted items
 BOOTSTRAP_MIN = 18
+# ----------------------------------
 
-def http_get_final(url: str) -> str:
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": USER_AGENT})
+
+
+def _http_final_url(url: str) -> str:
     try:
-        r = requests.get(url, allow_redirects=True, timeout=TIMEOUT,
-                         headers={"User-Agent": USER_AGENT})
-        return r.url
+        r = SESSION.get(url, allow_redirects=True, timeout=TIMEOUT)
+        return r.url or url
     except Exception:
         return url
 
+
 def canonicalize(u: str) -> str:
     try:
-        u = http_get_final(u)
+        u = _http_final_url(u)
         p = urlparse(u)
-        path = re.sub(r"/+$", "", p.path)
+        path = re.sub(r"/+$", "", p.path or "")
         return urlunparse((p.scheme, p.netloc.lower(), path, "", "", ""))
     except Exception:
         return u
 
+
 def normalize_title(t: str) -> str:
     t = html.unescape(t or "").strip()
-    t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)  # strip trailing "— Outlet"
+    # Strip trailing "— Outlet" / " - Outlet"
+    t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
     return re.sub(r"\s+", " ", t)
+
 
 def extract_source(entry, feed_name: str) -> str:
     src = None
-    if "source" in entry and entry.source:
+    if getattr(entry, "source", None):
         src = getattr(entry.source, "title", None) or getattr(entry.source, "href", None)
-    if not src: src = feed_name
+    if not src:
+        src = getattr(entry, "authors", [{}])[0].get("name") if getattr(entry, "authors", None) else None
+    if not src:
+        src = getattr(entry, "publisher", None)
+    if not src:
+        src = feed_name
     src = (src or "Unknown").strip()
     src = re.sub(r"^https?://(www\.)?", "", src)
-    return src[:60]
+    return src[:80]
+
 
 def ts_from_entry(entry) -> float:
-    for key in ("published_parsed", "updated_parsed"):
+    for key in ("published_parsed", "updated_parsed", "created_parsed"):
         val = getattr(entry, key, None)
         if val:
-            try: return time.mktime(val)
-            except Exception: pass
+            try:
+                return time.mktime(val)
+            except Exception:
+                pass
     return time.time()
 
+
 def allow_item(item) -> bool:
-    if item.get("trusted"):  # trusted feeds bypass filters
+    """Trusted feeds bypass all filters. Aggregators must match team + sport and avoid excludes."""
+    if item.get("trusted"):
         return True
-    blob = (item.get("title","") + " " + item.get("summary","")).lower()
-    if not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS): return False
-    if not any(s.lower() in blob for s in feeds.SPORT_TOKENS): return False
-    if any(b.lower() in blob for b in feeds.EXCLUDE_TOKENS): return False
+    blob = f"{item.get('title','')} {item.get('summary','')}".lower()
+    if feeds.TEAM_KEYWORDS and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
+        return False
+    if feeds.SPORT_TOKENS and not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
+        return False
+    if any(b.lower() in blob for b in feeds.EXCLUDE_TOKENS):
+        return False
     return True
 
+
 def fetch_feed(fd):
-    d = feedparser.parse(fd["url"])
+    """Return list of normalized items from a single feed descriptor."""
+    url = fd["url"]
+    name = fd["name"]
+    trusted = bool(fd.get("trusted", False))
     items = []
-    for e in d.entries:
-        title = normalize_title(getattr(e, "title", "") or "")
-        link  = getattr(e, "link", "") or ""
-        if not title or not link: 
-            continue
-        items.append({
-            "title": title,
-            "url": canonicalize(link),
-            "source": extract_source(e, fd["name"]),
-            "summary": html.unescape(getattr(e, "summary", "") or "").strip(),
-            "published": datetime.fromtimestamp(ts_from_entry(e), tz=timezone.utc).isoformat(),
-            "trusted": bool(fd.get("trusted", False)),
-        })
+
+    try:
+        # Use feedparser directly; it handles most formats.
+        d = feedparser.parse(url)
+        for e in d.entries:
+            title = normalize_title(getattr(e, "title", "") or "")
+            link = getattr(e, "link", "") or ""
+            if not title or not link:
+                continue
+            items.append(
+                {
+                    "title": title,
+                    "url": canonicalize(link),
+                    "source": extract_source(e, name),
+                    "summary": html.unescape(getattr(e, "summary", "") or "").strip(),
+                    "published": datetime.fromtimestamp(ts_from_entry(e), tz=timezone.utc).isoformat(),
+                    "trusted": trusted,
+                }
+            )
+    except Exception as ex:
+        print(f"[WARN] Feed error: {name} -> {ex}", file=sys.stderr)
+
     return items
+
 
 def dedupe(items):
     seen, out = set(), []
     for it in items:
         k = (it["title"].lower(), it["url"])
-        if k in seen: continue
-        seen.add(k); out.append(it)
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(it)
     return out
+
 
 def main():
     all_items, trusted_raw = [], []
-    for fd in feeds.FEEDS:
-        try:
-            batch = fetch_feed(fd)
-            all_items.extend(batch)
-            if fd.get("trusted"): trusted_raw.extend(batch)
-        except Exception as e:
-            print(f"[WARN] {fd['name']}: {e}", file=sys.stderr)
 
+    for fd in getattr(feeds, "FEEDS", []):
+        batch = fetch_feed(fd)
+        all_items.extend(batch)
+        if fd.get("trusted"):
+            trusted_raw.extend(batch)
+
+    # Primary filter
     filtered = [it for it in all_items if allow_item(it)]
     filtered = dedupe(filtered)
-    filtered.sort(key=lambda x: x.get("published",""), reverse=True)
+    filtered.sort(key=lambda x: x.get("published", ""), reverse=True)
 
+    # Never-empty fallback: if too few, blend in trusted items first
     if len(filtered) < BOOTSTRAP_MIN:
         trusted_raw = dedupe(trusted_raw)
-        trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
-        merged = trusted_raw + [it for it in filtered if it not in trusted_raw]
+        trusted_raw.sort(key=lambda x: x.get("published", ""), reverse=True)
+        merged = []
+        seen = set()
+        for it in trusted_raw + filtered:
+            k = (it["title"].lower(), it["url"])
+            if k in seen:
+                continue
+            seen.add(k)
+            merged.append(it)
         filtered = merged
 
     filtered = filtered[:MAX_ITEMS]
     sources = sorted({it["source"] for it in filtered})
 
     payload = {
-        "team": {"name": feeds.TEAM_NAME, "slug": feeds.TEAM_SLUG},
+        "team": {"name": getattr(feeds, "TEAM_NAME", "Team"), "slug": getattr(feeds, "TEAM_SLUG", "team")},
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "static_links": feeds.STATIC_LINKS,
+        "static_links": getattr(feeds, "STATIC_LINKS", []),
         "items": filtered,
         "sources": sources,
     }
-    with open("items.json","w",encoding="utf-8") as f:
+
+    with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"[collector] wrote {len(filtered)} items; {len(sources)} sources")
+    print(f"[collector] wrote {len(filtered)} items; {len(sources)} sources; updated items.json")
+
 
 if __name__ == "__main__":
     main()
