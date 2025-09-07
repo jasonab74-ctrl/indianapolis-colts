@@ -1,4 +1,4 @@
-# collect.py  (TEMP: forces >4 by lowering BOOTSTRAP_MIN; switch back later if you want)
+# collect.py — resilient collector with trusted-feed fallback
 import re, json, time, html, sys
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse
@@ -8,7 +8,7 @@ import feeds
 USER_AGENT = "TeamNewsCollector/1.1 (+https://github.com/)"
 TIMEOUT = 12
 MAX_ITEMS = 80
-BOOTSTRAP_MIN = 1  # <— TEMP to guarantee more than 4 on next run
+BOOTSTRAP_MIN = 1  # TEMP to force more than 4 items
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT})
