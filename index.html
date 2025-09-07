@@ -1,91 +1,29 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Indianapolis Colts — News</title>
-  <link rel="stylesheet" href="/indianapolis-colts/static/style.css" />
-</head>
-<body>
-  <header class="site-header">
-    <img id="logo" src="/indianapolis-colts/static/logo.png" alt="Colts logo" />
-    <h1 id="title">Indianapolis Colts — News</h1>
-  </header>
+# Indianapolis Colts — feeds + quick links
 
-  <nav id="quick-links" class="pills"></nav>
+FEEDS = [
+    {"name": "Colts.com",       "url": "https://www.colts.com/news/rss"},
+    {"name": "Stampede Blue",   "url": "https://www.stampedeblue.com/rss/index.xml"},
+    {"name": "Colts Wire",      "url": "https://coltswire.usatoday.com/feed/"},
+    {"name": "Google News — Colts",
+     "url": "https://news.google.com/rss/search?q=%22Indianapolis+Colts%22+OR+%22Indy+Colts%22&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Reddit — r/Colts","url": "https://www.reddit.com/r/Colts/.rss"},
+]
 
-  <section class="controls">
-    <div class="left">
-      <label for="sourceFilter">Source:</label>
-      <select id="sourceFilter"><option value="">All sources</option></select>
-    </div>
-    <div class="right">
-      <span id="updated">Updated: —</span>
-      <span id="newBadge" hidden>New items available — refresh</span>
-    </div>
-  </section>
-
-  <main id="grid" class="grid"></main>
-
-  <script>
-    const SLUG = "/indianapolis-colts";
-    const state = { data: null, lastCount: 0 };
-
-    async function loadData() {
-      const res = await fetch(`${SLUG}/items.json?v=${Date.now()}`, { cache: "no-store" });
-      const data = await res.json();
-      state.data = data;
-      state.lastCount = (data.items || []).length;
-      render();
-    }
-
-    function render() {
-      const d = state.data; if (!d) return;
-      const ql = document.getElementById("quick-links"); ql.innerHTML = "";
-      (d.static_links || []).forEach(l => {
-        const a = document.createElement("a");
-        a.href = l.url; a.target="_blank"; a.rel="noopener";
-        a.textContent = l.label; a.className = "pill";
-        ql.appendChild(a);
-      });
-      const dd = document.getElementById("sourceFilter"); const chosen = dd.value;
-      dd.innerHTML = '<option value="">All sources</option>';
-      (d.sources || []).forEach(s => {
-        const opt = document.createElement("option");
-        opt.value = s; opt.textContent = s;
-        dd.appendChild(opt);
-      });
-      if (chosen) dd.value = chosen;
-
-      const ts = new Date(d.updated_at || Date.now());
-      document.getElementById("updated").textContent = "Updated: " + ts.toLocaleString();
-
-      const grid = document.getElementById("grid"); grid.innerHTML = "";
-      let items = d.items || [];
-      if (dd.value) items = items.filter(i => i.source === dd.value);
-      for (const it of items) {
-        const card = document.createElement("article"); card.className = "card";
-        const a = document.createElement("a"); a.className = "title"; a.href = it.url; a.target="_blank"; a.rel="noopener"; a.textContent = it.title;
-        const meta = document.createElement("div"); meta.className = "meta";
-        const dt = new Date(it.published || Date.now());
-        meta.textContent = (it.source || "Source") + " • " + dt.toLocaleString();
-        card.appendChild(a); card.appendChild(meta); grid.appendChild(card);
-      }
-    }
-
-    async function poll() {
-      try {
-        const res = await fetch(`${SLUG}/items.json?v=${Date.now()}`, { cache: "no-store" });
-        const d = await res.json(); const n = (d.items || []).length;
-        if (n > state.lastCount) {
-          const b = document.getElementById("newBadge"); b.hidden = false;
-          b.onclick = () => { state.data = d; state.lastCount = n; b.hidden = true; render(); };
-        }
-      } catch (e) {}
-    }
-
-    document.getElementById("sourceFilter").addEventListener("change", render);
-    loadData(); setInterval(poll, 5 * 60 * 1000);
-  </script>
-</body>
-</html>
+STATIC_LINKS = [
+    {"label": "Schedule",               "url": "https://www.colts.com/schedule/"},
+    {"label": "Roster",                 "url": "https://www.colts.com/team/players-roster/"},
+    {"label": "Depth Chart",            "url": "https://www.espn.com/nfl/team/depth/_/name/ind/indianapolis-colts"},
+    {"label": "Injury Report",          "url": "https://www.colts.com/team/injury-report/"},
+    {"label": "Fan Zone",               "url": "https://www.colts.com/fans/"},
+    {"label": "Team Shop",              "url": "https://shop.colts.com/"},
+    {"label": "Tickets",                "url": "https://www.colts.com/tickets/"},
+    {"label": "Reddit",                 "url": "https://www.reddit.com/r/Colts/"},
+    {"label": "Bleacher Report",        "url": "https://bleacherreport.com/indianapolis-colts"},
+    {"label": "ESPN Team",              "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"},
+    {"label": "Yahoo Team",             "url": "https://sports.yahoo.com/nfl/teams/ind/"},
+    {"label": "PFF Team Page",          "url": "https://www.pff.com/nfl/teams/indianapolis-colts"},
+    {"label": "Pro-Football-Reference", "url": "https://www.pro-football-reference.com/teams/clt/"},
+    {"label": "NFL Power Rankings",     "url": "https://www.nfl.com/news/power-rankings"},
+    {"label": "Stats",                  "url": "https://www.teamrankings.com/nfl/team/indianapolis-colts"},
+    {"label": "Standings",              "url": "https://www.nfl.com/standings/league/2025/REG"}
+]
