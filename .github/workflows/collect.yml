@@ -28,14 +28,14 @@ jobs:
         run: |
           python collect.py
           echo "---- items.json summary ----"
-          python - << 'PY'
-import json, pathlib
-p = pathlib.Path("items.json")
-d = json.loads(p.read_text(encoding="utf-8"))
-print("items:", len(d.get("items", [])))
-print("sources:", len(d.get("sources", [])))
-print("updated_at:", d.get("updated_at"))
-PY
+          python <<EOF
+          import json, pathlib
+          p = pathlib.Path("items.json")
+          d = json.loads(p.read_text(encoding="utf-8"))
+          print("items:", len(d.get("items", [])))
+          print("sources:", len(d.get("sources", [])))
+          print("updated_at:", d.get("updated_at"))
+          EOF
 
       - name: Commit items.json
         run: |
