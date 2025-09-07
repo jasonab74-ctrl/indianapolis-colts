@@ -13,11 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - run: pip install -r requirements.txt || true
-      - run: python collect.py
+
+      # Install deps directly (no requirements.txt needed)
+      - run: pipx run pip install feedparser==6.0.11 requests==2.31.0
+
+      - name: Run collector
+        run: python collect.py
+
       - name: Commit items.json
         run: |
           git config user.name "github-actions[bot]"
