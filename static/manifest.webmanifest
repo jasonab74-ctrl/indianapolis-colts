@@ -1,20 +1,26 @@
 {
-  "name": "Indianapolis Colts \u2014 News",
+  "name": "Indianapolis Colts — News",
   "short_name": "Colts News",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#002C5F",
   "icons": [
     {
-      "src": "static/icon-192.png",
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "static/icon-512.png",
+      "src": "favicon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#003A70",
-  "theme_color": "#003A70"
+  ]
 }
