@@ -27,15 +27,20 @@ jobs:
       - name: Run collector
         run: |
           python collect.py
-          echo "---- items.json summary ----"
-          python <<EOF
+          echo "---- items.json summary (after collect.py) ----"
+          python <<'EOF'
           import json, pathlib
           p = pathlib.Path("items.json")
-          d = json.loads(p.read_text(encoding="utf-8"))
+          print("exists:", p.exists(), "size:", p.stat().st_size if p.exists() else 0)
+          d = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
           print("items:", len(d.get("items", [])))
           print("sources:", len(d.get("sources", [])))
           print("updated_at:", d.get("updated_at"))
           EOF
+          echo "---- git status ----"
+          git status --porcelain
+          echo "---- last commit touching items.json (before push) ----"
+          git log -1 -- items.json || true
 
       - name: Commit items.json
         run: |
@@ -45,3 +50,5 @@ jobs:
           git commit -m "Auto update items.json" || echo "No changes"
           git pull --rebase || true
           git push || true
+          echo "---- last commit touching items.json (after push) ----"
+          git log -1 -- items.json || true
