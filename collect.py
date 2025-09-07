@@ -1,4 +1,4 @@
-# collect.py — resilient collector with trusted-feed fallback
+# collect.py  (TEMP: forces >4 by lowering BOOTSTRAP_MIN; switch back later if you want)
 import re, json, time, html, sys
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse
@@ -8,7 +8,7 @@ import feeds
 USER_AGENT = "TeamNewsCollector/1.1 (+https://github.com/)"
 TIMEOUT = 12
 MAX_ITEMS = 80
-BOOTSTRAP_MIN = 18  # if fewer than this after filtering, fill from trusted items
+BOOTSTRAP_MIN = 1  # <— TEMP to guarantee more than 4 on next run
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT})
@@ -31,7 +31,6 @@ def canonicalize(u: str) -> str:
 
 def normalize_title(t: str) -> str:
     t = html.unescape(t or "").strip()
-    # strip trailing "— Outlet" / " - Outlet"
     t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
     return re.sub(r"\s+", " ", t)
 
@@ -58,7 +57,7 @@ def ts_from_entry(entry) -> float:
     return time.time()
 
 def allow_item(item) -> bool:
-    if item.get("trusted"):  # trusted feeds bypass filters
+    if item.get("trusted"):
         return True
     blob = f"{item.get('title','')} {item.get('summary','')}".lower()
     if getattr(feeds, "TEAM_KEYWORDS", []) and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
