@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Indianapolis Colts — News collector
+# Indianapolis Colts — News collector (tight sources + proper logo/icons already in repo)
 import json, time, re, hashlib
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from datetime import datetime, timezone
@@ -9,13 +9,14 @@ from feeds import FEEDS, STATIC_LINKS
 
 MAX_ITEMS = 60
 
-TRUSTED_FEEDS = {
-    "Colts.com", "Stampede Blue", "Colts Wire", "ESPN", "Yahoo Sports",
-    "The Athletic", "Sports Illustrated", "CBS Sports", "SB Nation",
-    "WTHR", "FOX59", "IndyStar", "PFF", "Pro Football Focus",
-    "Pro-Football-Reference", "USA Today", "NFL.com",
+# Show up in Source dropdown and allowed from Google News
+ALLOWED_SOURCES = {
+    "Colts.com", "Stampede Blue", "Colts Wire", "IndyStar",
+    "ESPN", "Yahoo Sports", "Sports Illustrated", "CBS Sports",
+    "SB Nation", "WTHR", "FOX59", "PFF", "USA Today", "NFL.com",
     "Bleacher Report", "Reddit — r/Colts"
 }
+TRUSTED_FEEDS = set(ALLOWED_SOURCES)
 
 def now_iso():
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
@@ -83,6 +84,10 @@ def normalize_source(entry, feed_name: str, feed_url: str) -> str:
             "wthr.com": "WTHR",
             "fox59.com": "FOX59",
             "pff.com": "PFF",
+            "nfl.com": "NFL.com",
+            "bleacherreport.com": "Bleacher Report",
+            "usatoday.com": "USA Today",
+            "cbssports.com": "CBS Sports",
         }.get(site)
         return alias or site.title()
     return feed_name.strip() or "Unknown"
@@ -96,8 +101,11 @@ COLTS_EXCLUDES = [
     r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"
 ]
 
-def allow_item(title: str, summary: str, source_label: str, feed_name: str) -> bool:
-    # trusted feeds always in
+def allow_item(title: str, summary: str, source_label: str, feed_name: str, from_google: bool) -> bool:
+    # Only allow whitelisted outlets from Google News
+    if from_google and source_label not in ALLOWED_SOURCES:
+        return False
+    # Trusted feeds always in
     if source_label in TRUSTED_FEEDS or feed_name in TRUSTED_FEEDS:
         return True
     text = f"{title} {summary}"
@@ -124,7 +132,9 @@ def fetch_all():
             source = normalize_source(e, feed_name, feed_url)
             title = (e.get("title") or "").strip()
             summary = (e.get("summary") or e.get("description") or "").strip()
-            if not allow_item(title, summary, source, feed_name): continue
+
+            if not allow_item(title, summary, source, feed_name, is_google_news(feed_url)):
+                continue
 
             pub = e.get("published_parsed") or e.get("updated_parsed")
             ts = time.strftime("%Y-%m-%dT%H:%M:%S%z", pub) if pub else now_iso()
@@ -144,7 +154,7 @@ def fetch_all():
     return items[:MAX_ITEMS]
 
 def write_items(items):
-    payload = { "updated": now_iso(), "items": items, "links": STATIC_LINKS }
+    payload = {"updated": now_iso(), "items": items, "links": STATIC_LINKS}
     with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
