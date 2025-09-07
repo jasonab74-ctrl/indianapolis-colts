@@ -1,29 +1,111 @@
-# Indianapolis Colts — feeds + quick links
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Indianapolis Colts — News</title>
 
-FEEDS = [
-    {"name": "Colts.com",       "url": "https://www.colts.com/news/rss"},
-    {"name": "Stampede Blue",   "url": "https://www.stampedeblue.com/rss/index.xml"},
-    {"name": "Colts Wire",      "url": "https://coltswire.usatoday.com/feed/"},
-    {"name": "Google News — Colts",
-     "url": "https://news.google.com/rss/search?q=%22Indianapolis+Colts%22+OR+%22Indy+Colts%22&hl=en-US&gl=US&ceid=US:en"},
-    {"name": "Reddit — r/Colts","url": "https://www.reddit.com/r/Colts/.rss"},
-]
+  <!-- Icons + Manifest (relative paths) -->
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#002C5F">
 
-STATIC_LINKS = [
-    {"label": "Schedule",               "url": "https://www.colts.com/schedule/"},
-    {"label": "Roster",                 "url": "https://www.colts.com/team/players-roster/"},
-    {"label": "Depth Chart",            "url": "https://www.espn.com/nfl/team/depth/_/name/ind/indianapolis-colts"},
-    {"label": "Injury Report",          "url": "https://www.colts.com/team/injury-report/"},
-    {"label": "Fan Zone",               "url": "https://www.colts.com/fans/"},
-    {"label": "Team Shop",              "url": "https://shop.colts.com/"},
-    {"label": "Tickets",                "url": "https://www.colts.com/tickets/"},
-    {"label": "Reddit",                 "url": "https://www.reddit.com/r/Colts/"},
-    {"label": "Bleacher Report",        "url": "https://bleacherreport.com/indianapolis-colts"},
-    {"label": "ESPN Team",              "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"},
-    {"label": "Yahoo Team",             "url": "https://sports.yahoo.com/nfl/teams/ind/"},
-    {"label": "PFF Team Page",          "url": "https://www.pff.com/nfl/teams/indianapolis-colts"},
-    {"label": "Pro-Football-Reference", "url": "https://www.pro-football-reference.com/teams/clt/"},
-    {"label": "NFL Power Rankings",     "url": "https://www.nfl.com/news/power-rankings"},
-    {"label": "Stats",                  "url": "https://www.teamrankings.com/nfl/team/indianapolis-colts"},
-    {"label": "Standings",              "url": "https://www.nfl.com/standings/league/2025/REG"}
-]
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <img src="static/colts-logo.png" alt="Colts" class="logo">
+    <h1>Indianapolis Colts — News</h1>
+  </header>
+
+  <!-- Buttons row built from items.json.links -->
+  <div id="links" class="pill-row"></div>
+
+  <section class="controls">
+    <div class="control">
+      <label>Source:</label>
+      <select id="sourceSelect"></select>
+    </div>
+    <div class="control right">
+      <label>Updated:</label>
+      <span id="updated">--</span>
+    </div>
+  </section>
+
+  <main id="feed"></main>
+
+  <script>
+    const feedEl = document.getElementById('feed');
+    const updatedEl = document.getElementById('updated');
+    const sourceSelect = document.getElementById('sourceSelect');
+    const linksEl = document.getElementById('links');
+
+    function renderLinks(links) {
+      linksEl.innerHTML = '';
+      (links || []).forEach(l => {
+        const a = document.createElement('a');
+        a.className = 'pill';
+        a.href = l.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.textContent = l.label;
+        linksEl.appendChild(a);
+      });
+    }
+
+    function buildSourceDropdown(items) {
+      const sources = Array.from(new Set(items.map(i => i.source).filter(Boolean))).sort();
+      sourceSelect.innerHTML = '';
+      const optAll = document.createElement('option');
+      optAll.value = '';
+      optAll.textContent = 'All sources';
+      sourceSelect.appendChild(optAll);
+      sources.forEach(s => {
+        const o = document.createElement('option');
+        o.value = s;
+        o.textContent = s;
+        sourceSelect.appendChild(o);
+      });
+    }
+
+    function renderItems(items) {
+      feedEl.innerHTML = '';
+      items.forEach(it => {
+        const card = document.createElement('article');
+        card.className = 'card';
+        const a = document.createElement('a');
+        a.href = it.link; a.target = '_blank'; a.rel = 'noopener noreferrer';
+        a.className = 'title';
+        a.textContent = it.title || '(no title)';
+        const meta = document.createElement('div');
+        meta.className = 'meta';
+        const when = (it.published || '').replace('T',' ').replace('+00:00','');
+        meta.textContent = `${it.source || it.feed || ''} · ${when}`;
+        card.appendChild(a); card.appendChild(meta);
+        feedEl.appendChild(card);
+      });
+    }
+
+    function applyFilter(all) {
+      const src = sourceSelect.value;
+      const filtered = src ? all.filter(i => i.source === src) : all;
+      renderItems(filtered);
+    }
+
+    fetch('items.json', {cache: 'no-cache'})
+      .then(r => r.json())
+      .then(data => {
+        updatedEl.textContent = data.updated || '';
+        renderLinks(data.links || []);                 // << buttons fixed
+        buildSourceDropdown(data.items || []);         // << sources fixed
+        renderItems(data.items || []);
+        sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
+      })
+      .catch(() => {
+        updatedEl.textContent = 'load failed';
+      });
+  </script>
+</body>
+</html>
