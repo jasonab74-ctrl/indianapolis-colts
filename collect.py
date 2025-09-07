@@ -1,29 +1,17 @@
-# collect.py — resilient collector with "never empty" fallback
-# Drop this in repo root. Requires feeds.py next to it.
-
-import re
-import json
-import time
-import html
-import sys
+# collect.py — resilient collector with trusted-feed fallback
+import re, json, time, html, sys
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse
-
-import requests
-import feedparser
+import requests, feedparser
 import feeds
 
-# ------------ Tunables ------------
 USER_AGENT = "TeamNewsCollector/1.1 (+https://github.com/)"
 TIMEOUT = 12
 MAX_ITEMS = 80
-# If after filtering we have fewer than this, we fall back to trusted items
-BOOTSTRAP_MIN = 18
-# ----------------------------------
+BOOTSTRAP_MIN = 18  # if fewer than this after filtering, fill from trusted items
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT})
-
 
 def _http_final_url(url: str) -> str:
     try:
@@ -32,30 +20,27 @@ def _http_final_url(url: str) -> str:
     except Exception:
         return url
 
-
 def canonicalize(u: str) -> str:
     try:
         u = _http_final_url(u)
         p = urlparse(u)
-        path = re.sub(r"/+$", "", p.path or "")
+        path = re.sub(r"/+$", "", (p.path or ""))
         return urlunparse((p.scheme, p.netloc.lower(), path, "", "", ""))
     except Exception:
         return u
 
-
 def normalize_title(t: str) -> str:
     t = html.unescape(t or "").strip()
-    # Strip trailing "— Outlet" / " - Outlet"
+    # strip trailing "— Outlet" / " - Outlet"
     t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
     return re.sub(r"\s+", " ", t)
-
 
 def extract_source(entry, feed_name: str) -> str:
     src = None
     if getattr(entry, "source", None):
         src = getattr(entry.source, "title", None) or getattr(entry.source, "href", None)
-    if not src:
-        src = getattr(entry, "authors", [{}])[0].get("name") if getattr(entry, "authors", None) else None
+    if not src and getattr(entry, "authors", None):
+        src = entry.authors[0].get("name")
     if not src:
         src = getattr(entry, "publisher", None)
     if not src:
@@ -64,100 +49,75 @@ def extract_source(entry, feed_name: str) -> str:
     src = re.sub(r"^https?://(www\.)?", "", src)
     return src[:80]
 
-
 def ts_from_entry(entry) -> float:
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         val = getattr(entry, key, None)
         if val:
-            try:
-                return time.mktime(val)
-            except Exception:
-                pass
+            try: return time.mktime(val)
+            except Exception: pass
     return time.time()
 
-
 def allow_item(item) -> bool:
-    """Trusted feeds bypass all filters. Aggregators must match team + sport and avoid excludes."""
-    if item.get("trusted"):
+    if item.get("trusted"):  # trusted feeds bypass filters
         return True
     blob = f"{item.get('title','')} {item.get('summary','')}".lower()
-    if feeds.TEAM_KEYWORDS and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
+    if getattr(feeds, "TEAM_KEYWORDS", []) and not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
         return False
-    if feeds.SPORT_TOKENS and not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
+    if getattr(feeds, "SPORT_TOKENS", []) and not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
         return False
-    if any(b.lower() in blob for b in feeds.EXCLUDE_TOKENS):
+    if any(b.lower() in blob for b in getattr(feeds, 'EXCLUDE_TOKENS', [])):
         return False
     return True
 
-
 def fetch_feed(fd):
-    """Return list of normalized items from a single feed descriptor."""
-    url = fd["url"]
-    name = fd["name"]
-    trusted = bool(fd.get("trusted", False))
+    url, name, trusted = fd["url"], fd["name"], bool(fd.get("trusted", False))
     items = []
-
     try:
-        # Use feedparser directly; it handles most formats.
         d = feedparser.parse(url)
         for e in d.entries:
             title = normalize_title(getattr(e, "title", "") or "")
             link = getattr(e, "link", "") or ""
-            if not title or not link:
+            if not title or not link: 
                 continue
-            items.append(
-                {
-                    "title": title,
-                    "url": canonicalize(link),
-                    "source": extract_source(e, name),
-                    "summary": html.unescape(getattr(e, "summary", "") or "").strip(),
-                    "published": datetime.fromtimestamp(ts_from_entry(e), tz=timezone.utc).isoformat(),
-                    "trusted": trusted,
-                }
-            )
+            items.append({
+                "title": title,
+                "url": canonicalize(link),
+                "source": extract_source(e, name),
+                "summary": html.unescape(getattr(e, "summary", "") or "").strip(),
+                "published": datetime.fromtimestamp(ts_from_entry(e), tz=timezone.utc).isoformat(),
+                "trusted": trusted,
+            })
     except Exception as ex:
         print(f"[WARN] Feed error: {name} -> {ex}", file=sys.stderr)
-
     return items
-
 
 def dedupe(items):
     seen, out = set(), []
     for it in items:
         k = (it["title"].lower(), it["url"])
-        if k in seen:
-            continue
-        seen.add(k)
-        out.append(it)
+        if k in seen: continue
+        seen.add(k); out.append(it)
     return out
-
 
 def main():
     all_items, trusted_raw = [], []
-
     for fd in getattr(feeds, "FEEDS", []):
         batch = fetch_feed(fd)
         all_items.extend(batch)
-        if fd.get("trusted"):
-            trusted_raw.extend(batch)
+        if fd.get("trusted"): trusted_raw.extend(batch)
 
-    # Primary filter
     filtered = [it for it in all_items if allow_item(it)]
     filtered = dedupe(filtered)
-    filtered.sort(key=lambda x: x.get("published", ""), reverse=True)
+    filtered.sort(key=lambda x: x.get("published",""), reverse=True)
 
-    # Never-empty fallback: if too few, blend in trusted items first
     if len(filtered) < BOOTSTRAP_MIN:
         trusted_raw = dedupe(trusted_raw)
-        trusted_raw.sort(key=lambda x: x.get("published", ""), reverse=True)
-        merged = []
-        seen = set()
+        trusted_raw.sort(key=lambda x: x.get("published",""), reverse=True)
+        merged, seen = [], set()
         for it in trusted_raw + filtered:
             k = (it["title"].lower(), it["url"])
-            if k in seen:
-                continue
-            seen.add(k)
-            merged.append(it)
+            if k in seen: continue
+            seen.add(k); merged.append(it)
         filtered = merged
 
     filtered = filtered[:MAX_ITEMS]
@@ -175,7 +135,6 @@ def main():
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
     print(f"[collector] wrote {len(filtered)} items; {len(sources)} sources; updated items.json")
-
 
 if __name__ == "__main__":
     main()
