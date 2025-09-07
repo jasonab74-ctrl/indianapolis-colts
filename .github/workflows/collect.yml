@@ -1,42 +1,49 @@
-# .github/workflows/sentinel.yml
-name: Sentinel Overwrite
+# .github/workflows/collect.yml
+name: Update Feeds
 
 on:
+  schedule:
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  overwrite:
+  collect:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Write sentinel items.json
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
         run: |
-          cat > items.json <<'JSON'
-          {
-            "team": {"name": "Indianapolis Colts", "slug": "indianapolis-colts"},
-            "updated_at": "SENTINEL",
-            "static_links": [],
-            "sources": ["SENTINEL"],
-            "items": [
-              {
-                "title": "SENTINEL CHECK — if you see this, the pipeline works",
-                "url": "https://example.com/sentinel",
-                "source": "SENTINEL",
-                "published": "2025-01-01T00:00:00Z"
-              }
-            ]
-          }
-          JSON
+          python -m pip install --upgrade pip
+          python -m pip install feedparser==6.0.11 requests==2.31.0
+
+      - name: Run collector
+        run: |
+          python collect.py
+          echo "---- items.json summary (after collect.py) ----"
+          python <<'EOF'
+          import json, pathlib
+          p = pathlib.Path("items.json")
+          print("exists:", p.exists(), "size:", p.stat().st_size if p.exists() else 0)
+          d = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+          print("items:", len(d.get("items", [])))
+          print("sources:", len(d.get("sources", [])))
+          print("updated_at:", d.get("updated_at"))
+          EOF
 
       - name: Commit items.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add items.json
-          git commit -m "Sentinel overwrite items.json" || echo "No changes"
+          git commit -m "Auto update items.json" || echo "No changes"
           git pull --rebase || true
           git push || true
