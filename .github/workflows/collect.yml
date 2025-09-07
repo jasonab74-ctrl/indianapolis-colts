@@ -14,11 +14,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Install deps directly (no requirements.txt needed)
-      - run: pipx run pip install feedparser==6.0.11 requests==2.31.0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install feedparser==6.0.11 requests==2.31.0
 
       - name: Run collector
-        run: python collect.py
+        run: |
+          python collect.py
+          echo "---- items.json summary ----"
+          python - << 'PY'
+import json, pathlib
+p = pathlib.Path("items.json")
+d = json.loads(p.read_text(encoding="utf-8"))
+print("items:", len(d.get("items", [])))
+print("sources:", len(d.get("sources", [])))
+print("updated_at:", d.get("updated_at"))
+PY
 
       - name: Commit items.json
         run: |
