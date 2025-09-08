@@ -1,564 +1,623 @@
 {
-  "updated_at": "2025-09-08T14:42:17Z",
-  "sources": [
-    "ESPN — Colts",
-    "Reddit — r/Colts",
-    "Stampede Blue",
-    "Yahoo Sports — Colts"
-  ],
+  "updated": "2025-09-08T16:45:27+00:00",
   "items": [
     {
-      "id": "0c4d1ab672a7dfdd722712cfa8e03a72",
-      "title": "Bills score 16 unanswered late to shock Ravens",
-      "link": "https://www.espn.com/nfl/story/_/id/46193990/josh-allen-bills-stun-ravens-41-40-sunday-night-thriller",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
+      "id": "6ed79dbfce653c72",
+      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
+      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-08T16:52:10+0000",
+      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
     },
     {
-      "id": "a5e0637388a6428f08de163fb33755c5",
-      "title": "Jackson shoves fan in retaliation in Ravens' loss",
-      "link": "https://www.espn.com/nfl/story/_/id/46194624/lamar-jackson-shoves-fan-retaliation-ravens-loss",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
+      "id": "ded6bf54671c0bb7",
+      "title": "5 snap count takeaways from Colts Week 1 win vs. Dolphins",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/08/colts-dolphins-5-snap-count-takeaways-week-1-win/86042626007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-08T16:23:45+0000",
+      "summary": "Here are five snap count takeaways from the Indianapolis Colts' Week 1 win over the Dolphins."
     },
     {
-      "id": "3b483a2a1bbdfe368a6f510a5becade7",
-      "title": "Vrabel says Belichick welcome at Patriots facility",
-      "link": "https://www.espn.com/nfl/story/_/id/46196836/mike-vrabel-says-bill-belichick-welcome-patriots-facility",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
+      "id": "fffd11c5d73826f2",
+      "title": "A Look Around the AFC South: Jaguars win big, Texans and Titans struggle in Week 1",
+      "link": "https://colts.com/news/afc-south-jaguars-travis-hunter-texans-cj-stroud-offensive-line-titans-broncos-bo-nix-cam-ward",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-08T16:07:46+0000",
+      "summary": "The Colts and Jaguars won in Week 1, while the Texans and Titans lost."
     },
     {
-      "id": "0e35e1abfa1ba899554ba0a4d2316f98",
-      "title": "49ers extend RT McKivitz with 3-year, $45M deal",
-      "link": "https://www.espn.com/nfl/story/_/id/46196887/49ers-extend-rt-colton-mckivitz-3-year-45m-contract",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
+      "id": "1390b318ef42e653",
+      "title": "Colts beat Dolphins for first season-opening win since 2013",
+      "link": "https://cbs4indy.com/sports/colts/colts-beat-dolphins-for-first-season-opening-win-since-2013/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-08T15:34:47+0000",
+      "summary": "INDIANAPOLIS — The Colts honored late owner Jim Irsay the best way they could — with a win. They dominated the Miami Dolphins, 33-8, in the season-opener Sunday afternoon at Lucas Oil Stadium. The win is their first in week 1 since quarterback Andrew Luck led them to victory against the Oakland Raiders in 2013. [...]"
     },
     {
-      "id": "52e4d8f5bcb930c9abd3c11af0ce120d",
-      "title": "Parsons gets sack, brings heat in Packers debut",
-      "link": "https://www.espn.com/nfl/story/_/id/46193087/micah-parsons-quickly-makes-impact-packers-debut",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "b1b24e81161c4483021ae2d213e80ce7",
-      "title": "Steelers' Rodgers shows Jets he still has it in win",
-      "link": "https://www.espn.com/nfl/story/_/id/46190687/aaron-rodgers-wins-steelers-debut-shows-jets-play",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "b9a01bc55f19b453296aad9dc64ca3d0",
-      "title": "Daboll noncommittal on Giants QB for Week 2",
-      "link": "https://www.espn.com/nfl/story/_/id/46191005/giants-daboll-passes-starting-qb-questions-loss",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "864654d73f00dcad552e0c214bd81eea",
-      "title": "Backup Tonges keys 49ers' win after Kittle injury",
-      "link": "https://www.espn.com/nfl/story/_/id/46192941/jake-tonges-clutch-niners-await-george-kittle-mri",
-      "iso_date": "2025-09-08T15:10:17Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "2498cdfbe85249b6ad51ab5df9a96d5d",
-      "title": "👀 Judging top overreactions for Week 1 games",
-      "link": "https://www.espn.com/nfl/story/_/id/46138257/nfl-week-1-overreactions-surprises-takeaways-chiefs-jaxson-dart-packers",
-      "iso_date": "2025-09-08T15:10:16Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "b7b0c4c3aa6e66e8f440ebe678dab5e9",
-      "title": "From math wiz to offensive innovator, why Bears coach Ben Johnson seemed destined for this moment",
-      "link": "https://www.espn.com/nfl/story/_/id/46158350/nfl-chicago-bears-ben-johnson-mnf-minnesota-vikings-caleb-williams",
-      "iso_date": "2025-09-08T15:04:39Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "4f3c8c919be67714ea3632d6a6288201",
-      "title": "Game-day rituals: How eye black, meditation and Bob Marley get J.J. McCarthy ready",
-      "link": "https://www.espn.com/nfl/story/_/id/46185800/nfl-minnesota-vikings-jj-mccarthy-chicago-bears-monday-night-football",
-      "iso_date": "2025-09-08T15:04:39Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "cb3ef50d330666146d7e73a47f8918bd",
-      "title": "Barnwell separates fact from fiction off NFL Week 1: Is it too early to worry about the Lions?",
-      "link": "https://www.espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
-      "iso_date": "2025-09-08T14:58:38Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "2d7e2f6c3c7468836e48697397e8751a",
-      "title": "Ranking Week 1 fantasy football winners and losers and injury impacts from Sunday",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-46188663/nfl-week-1-fantasy-football-winners-losers-injuries-rankings-more",
-      "iso_date": "2025-09-08T14:35:30Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "4ccfebc7d326822d248d10634ee06c86",
-      "title": "Breece Hall, Travis Etienne Jr. roles come into focus and other Week 1 notes",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "iso_date": "2025-09-08T14:35:29Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "440d223337a94e816511ec280ff68251",
-      "title": "Colts' Daniel Jones looked like a star, but there are 3 reasons to doubt",
-      "link": "https://sports.yahoo.com/article/colts-daniel-jones-looked-star-142545502.html",
-      "iso_date": "2025-09-08T14:25:45Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "752747d19897ef8ca556c76dcaeff376",
-      "title": "Tua Tagovailoa: Dolphins can't overreact or underreact to Week 1 blowout loss",
-      "link": "https://sports.yahoo.com/article/tua-tagovailoa-dolphins-cant-overreact-142422215.html",
-      "iso_date": "2025-09-08T14:24:22Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "b284f385601d7306033cfc60d5aa1c1a",
-      "title": "Shane Steichen evaluates Colts' TE Tyler Warren's NFL debut",
-      "link": "https://sports.yahoo.com/article/shane-steichen-evaluates-colts-te-141922310.html",
-      "iso_date": "2025-09-08T14:19:22Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "8a9ff56bc547d6e303b5cf823d5f33a0",
+      "id": "166eb61c9e0bb389",
       "title": "What If He’s Good?",
-      "link": "https://www.stampedeblue.com/indianapolis-colts-news/114106/what-if-hes-good",
-      "iso_date": "2025-09-08T14:08:45Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114106/what-if-hes-good",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-08T14:08:45+0000",
+      "summary": "With games that count on our doorstep, it is really hard to find optimistic prognostications for our Colts.&#160; I know that I have seen a reference to an NFL.com poll that had zero of their 31 “experts” predict the Colts to win the AFC South.&#160; I heard Michelle Smallmon of the morning Unsportsmanlike broadcast include [&#8230;]"
     },
     {
-      "id": "c7202e244498de8704cbbe909100b6d5",
-      "title": "PFF Wk1 grades",
-      "link": "https://www.reddit.com/r/Colts/comments/1nboq0j/pff_wk1_grades/",
-      "iso_date": "2025-09-08T14:08:05Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "b06fb40b8131af102037f2545958afdb",
+      "id": "a72aca57bb601894",
       "title": "Colts’ Monday Morning Awards: Week 1 vs. Dolphins",
-      "link": "https://www.stampedeblue.com/analysis/114312/colts-monday-morning-awards-week-1-vs-dolphins",
-      "iso_date": "2025-09-08T14:00:00Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/analysis/114312/colts-monday-morning-awards-week-1-vs-dolphins",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-08T14:00:00+0000",
+      "summary": "Week 1 is in the books for the Indianapolis Colts, and what a way to come out and make a statement. After not winning on their first game in what seems like forever, the team not only won, but obliterated the Miami Dolphins on all three phases of the game. MVP of the Game: Daniel [&#8230;]"
     },
     {
-      "id": "dad6bb7dc861917eb28fae2f472546e1",
-      "title": "Colts’ Monday Morning Awards: Week 1 vs. Dolphins",
-      "link": "https://sports.yahoo.com/article/colts-monday-morning-awards-week-140000905.html",
-      "iso_date": "2025-09-08T14:00:00Z",
-      "source": "Yahoo Sports — Colts"
+      "id": "d1209b4c8539f158",
+      "title": "Colts Blue Zone Podcast 422: Streak Busters! Colts Top Dolphins in Season Opener",
+      "link": "https://cbs4indy.com/sports/colts/colts-blue-zone-podcast-422-streak-busters-colts-top-dolphins-in-season-opener/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-08T13:39:53+0000",
+      "summary": "The Indianapolis Colts put together a complete performance in Week 1 to snap their streak of futility in season openers. Standout performances from Daniel Jones, Tyler Warren and multiple defenders highlighted the 33-8 win. In this episode of the Colts Blue Zone Podcast, we look back at the game and how the team honored late [...]"
     },
     {
-      "id": "6aba9e9dfd7412ff8fb14d861d91c97c",
-      "title": "How it feels this Monday morning being 1-0",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbny77/how_it_feels_this_monday_morning_being_10/",
-      "iso_date": "2025-09-08T13:36:48Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "133df37ad764b71154375796665fdecc",
-      "title": "What does this say to you?",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbntu1/what_does_this_say_to_you/",
-      "iso_date": "2025-09-08T13:31:34Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "911f30cb576c14ece3978c5f50ee155b",
-      "title": "NFL Week 1 scores: Eagles start Super Bowl defense strong, Daniel Jones surprises",
-      "link": "https://www.foxnews.com/sports/nfl-week-1-scores-eagles-start-super-bowl-defense-strong-daniel-jones-surprises",
-      "iso_date": "2025-09-08T13:23:17Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "10ed877416e7e376192b5568d21a5f66",
-      "title": "Colts Honor Late Owner Jim Irsay with Ring of Honor Induction",
-      "link": "https://wibc.com/725213/colts-honor-late-owner-jim-irsay-with-ring-of-honor-induction/?itm_source=wibc.com&itm_medium=in_post&itm_campaign=see_also_section&itm_content=well",
-      "iso_date": "2025-09-08T13:04:55Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "d249e06f7c455a954875c5e6d79da072",
-      "title": "'No moral victories' for Cowboys in Brian Schottenheimer's head coaching debut",
-      "link": "https://www.espn.com/nfl/story/_/id/46185166/nfl-dallas-cowboys-brian-schottenheimer-ceedee-lamb-dak-prescott",
-      "iso_date": "2025-09-08T13:01:37Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "8e1f65747c3ca3d9a9b8a67fcffe27a5",
+      "id": "d5f4eb18415d9889",
       "title": "Breaking down Daniel Jones’ stellar performance vs Miami",
-      "link": "https://www.stampedeblue.com/colts-film-analysis/114339/breaking-down-daniel-jones-stellar-performance-vs-miami",
-      "iso_date": "2025-09-08T13:00:00Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/colts-film-analysis/114339/breaking-down-daniel-jones-stellar-performance-vs-miami",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-08T13:00:00+0000",
+      "summary": "The Indianapolis Colts finally snapped their Week 1 curse—and they did it in emphatic fashion against the Miami Dolphins. The defense suffocated Tua Tagovailoa and never let Miami find a rhythm, but in my opinion the real story was the surprising stellar play of Daniel Jones. From the opening drive, Jones looked decisive, in sync [&#8230;]"
     },
     {
-      "id": "f2b2fb027775949db7d9a511ad138776",
-      "title": "Wow 🤯",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbn2yk/wow/",
-      "iso_date": "2025-09-08T12:59:56Z",
-      "source": "Reddit — r/Colts"
+      "id": "7e20c7d20194018f",
+      "title": "Trans-Siberian Orchestra to rock Indianapolis with 2025 winter tour",
+      "link": "https://wishtv.com/news/local-news/tso-winter-tour-2025-indianapolis/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T12:45:28+0000",
+      "summary": "Trans-Siberian Orchestra is returning to Indianapolis for one night only this December, performing a reimagined presentation of \"The Ghosts of Christmas Eve\" and a second set of hits, with tickets going on sale Friday and a portion of the proceeds benefiting Sheltering Wings and the Indianapolis Zoo."
     },
     {
-      "id": "973131fc051d58f4ad205653ca29e206",
-      "title": "'I've got to be smarter': Despite win, Bo Nix vows to improve from three-turnover opener",
-      "link": "https://www.espn.com/nfl/story/_/id/46192581/denver-broncos-quarterback-bo-nix-inconsistent-two-interceptions-fumble",
-      "iso_date": "2025-09-08T12:59:31Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "1c4206fdb5cf0c60d0da0ab69f08e648",
-      "title": "Can the Raiders keep up defensive dominance as schedule gets tougher?",
-      "link": "https://www.espn.com/nfl/story/_/id/46192394/las-vegas-raiders-defensive-dominance-week-1-win-new-england-patriots",
-      "iso_date": "2025-09-08T12:59:31Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "39089309e6bf560b6791cc9f792746bf",
-      "title": "Could Danny Dimes have a redemption arc here in Indy?",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbmysi/could_danny_dimes_have_a_redemption_arc_here_in/",
-      "iso_date": "2025-09-08T12:54:53Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "826af963518f47a3dc313b0bdae6c951",
-      "title": "Now that we've had a night to sleep on it and let the hype and exuberance die down..",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbmpue/now_that_weve_had_a_night_to_sleep_on_it_and_let/",
-      "iso_date": "2025-09-08T12:43:53Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "d586a8d045b06b4ecb7bb6f00e0115ba",
-      "title": "Colts' Tyler Warren, Browns' Harold Fannin broke the same NFL tight end record at the same time in Week 1",
-      "link": "https://www.sportingnews.com/us/nfl/indianapolis-colts/news/colts-tyler-warren-browns-harold-fannin-broke-same-nfl-tight-end-record-week-1/b7d5d568908a8c85a6322369",
-      "iso_date": "2025-09-08T12:22:19Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "84df0ec09eb8e5336d7d391868efdf94",
-      "title": "Danny Dimes is The Man!!",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbm0gz/danny_dimes_is_the_man/",
-      "iso_date": "2025-09-08T12:11:09Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "28cdd006f0d821e16f52d473e90fdf99",
-      "title": "Peyton Manning and his son, Marshall, star in NBC's funny 'Sunday Night Football' promo",
-      "link": "https://sports.yahoo.com/article/peyton-manning-son-marshall-star-120245276.html",
-      "iso_date": "2025-09-08T12:02:45Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "d9028048e95565373377af1bdb840db8",
-      "title": "6 NFL overreactions from Week 1, including 1 young QB thriving and 1 struggling",
-      "link": "https://sports.yahoo.com/article/6-nfl-overreactions-week-1-120000684.html",
-      "iso_date": "2025-09-08T12:00:00Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "02b348e34d757e5359e10ffd2f255cff",
-      "title": "Daniel Jones, AFC Player of the Week",
-      "link": "https://www.reddit.com/r/Colts/comments/1nblfof/daniel_jones_afc_player_of_the_week/",
-      "iso_date": "2025-09-08T11:42:41Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "6a16b3b747afe23360339c066b8e7a8b",
-      "title": "Tyreek Hill kicked in the balls",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbl8ys/tyreek_hill_kicked_in_the_balls/",
-      "iso_date": "2025-09-08T11:32:58Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "e2b36fdc9f533bcde3ebdc52cacc12e8",
-      "title": "tf are we doing here?",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbl7f2/tf_are_we_doing_here/",
-      "iso_date": "2025-09-08T11:30:50Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "9c37e3cdf2d35356105e50a5a59f9ac8",
+      "id": "2652ad764e995082",
       "title": "Colts rookie tight end Tyler Warren exactly as advertised in pro debut",
-      "link": "https://www.stampedeblue.com/indianapolis-colts-news/114344/colts-rookie-tight-end-tyler-warren-exactly-as-advertised-in-pro-debut",
-      "iso_date": "2025-09-08T11:00:00Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114344/colts-rookie-tight-end-tyler-warren-exactly-as-advertised-in-pro-debut",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-08T11:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts had been longing for a floor-raising pass catcher at tight end since Jack Doyle’s retirement following the 2022 season. After just missing out on eventual rookie phenom Brock Bowers in the 2024 NFL Draft, the clock reset, and fans continued their clamoring for a worthwhile product. As fate would [&#8230;]"
     },
     {
-      "id": "5ab650f6244debf61b6842745223d0fc",
-      "title": "Biggest Week 1 Miami Dolphins overreactions… or not? Let’s talk Tua, Tyreek, pass D, depth",
-      "link": "https://sports.yahoo.com/article/biggest-week-1-miami-dolphins-105326883.html",
-      "iso_date": "2025-09-08T10:53:26Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "f14e3f4bfa6b69e3e82c46be0a3f1a20",
+      "id": "982a79e3172472c2",
       "title": "Colts-Broncos opening odds: No time to horse around",
-      "link": "https://www.stampedeblue.com/analysis/114319/colts-broncos-opening-odds-no-time-to-horse-around",
-      "iso_date": "2025-09-08T10:23:06Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/analysis/114319/colts-broncos-opening-odds-no-time-to-horse-around",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-08T10:23:06+0000",
+      "summary": "The Indianapolis Colts are riding high after ending their 11-game opening week skid, knocking off the Miami Dolphins at home. The home stand continues this week against the Denver Broncos. These two teams met last year in which the Broncos effectively ended the postseason hopes of the Colts. This time around, the Colts are looking [&#8230;]"
     },
     {
-      "id": "c69ff3370df3664fc1cc109321d9ed5e",
-      "title": "Could Arch Manning, Quinn Ewers end up Dolphins teammates next year in Miami?",
-      "link": "https://sports.yahoo.com/article/could-arch-manning-quinn-ewers-100446328.html",
-      "iso_date": "2025-09-08T10:04:46Z",
-      "source": "Yahoo Sports — Colts"
+      "id": "7a91d60cabcfaff7",
+      "title": "Juvenile shot in Martindale-Brightwood, IMPD says",
+      "link": "https://wishtv.com/news/crime-watch-8/juvenile-shot-indianapolis-martindale-brightwood/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T09:46:46+0000",
+      "summary": "A juvenile male was shot in the Martindale-Brightwood neighborhood on the near northeast side of Indianapolis, and was transported to a hospital in stable condition."
     },
     {
-      "id": "125d101ee3446491c4a1909aff802fa3",
-      "title": "Highlights from the Broncos' Week 1 win vs. Titans",
-      "link": "https://sports.yahoo.com/article/highlights-broncos-week-1-win-080415120.html",
-      "iso_date": "2025-09-08T08:04:15Z",
-      "source": "Yahoo Sports — Colts"
+      "id": "f356353ab1d19fbd",
+      "title": "Manning, Dungy and other Colts stars talk honoring Jim Irsay’s legacy",
+      "link": "https://wishtv.com/sports/indianapolis-colts/manning-dungy-and-other-colts-stars-talk-honoring-jim-irsays-legacy/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T03:24:21+0000",
+      "summary": "INDIANAPOLIS (WISH) &#8212; &#8220;Jim, we love you. We miss you.&#8221; Pro Football Hall of Fame quarterback Peyton Manning took the podium at the 50-yard line of Lucas Oil Stadium. His former team &#8211; the Indianapolis Colts &#8211; were holding on to a 20-point halftime lead, but the momentary excitement faded as Colts legends &#8211; like [&#8230;]"
     },
     {
-      "id": "c84dc501344d8a13991e441104891a98",
-      "title": "NFL Hawaii Tracker: Buckner, Colts defense dominate as season kicks off",
-      "link": "https://www.yahoo.com/news/articles/nfl-hawaii-tracker-buckner-colts-070844724.html",
-      "iso_date": "2025-09-08T07:08:44Z",
-      "source": "Yahoo Sports — Colts"
+      "id": "8094ffbd1173ae71",
+      "title": "Colts honor late owner with 'win for Jim' mantra, Ring of Honor induction",
+      "link": "https://cbs4indy.com/news/colts-honor-late-owner-with-win-for-jim-mantra-ring-of-honor-induction/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-08T02:30:28+0000",
+      "summary": "INDIANAPOLIS — Leading up to Week 1, the message around Horseshoe Headquarters was simple — win for Jim. The Colts did exactly that on Sunday afternoon with a dominant victory over the Miami Dolphins. With the roof and window open at Lucas Oil Stadium, the Colts snapped a 12-year winless streak of season-openers, and everyone felt [...]"
     },
     {
-      "id": "983132c9af14888052570d3205ab223b",
-      "title": "Answering the biggest questions of Week 1: What's more jarring, the Bills' comeback or Baltimore's collapse?",
-      "link": "https://www.espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "iso_date": "2025-09-08T06:17:01Z",
-      "source": "ESPN — Colts"
+      "id": "f3170c9a42120c5f",
+      "title": "Colts fans excited after first Week 1 win since 2013",
+      "link": "https://wishtv.com/sports/indianapolis-colts/colts-fans-excited-after-first-week-1-win-since-2013/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T01:14:58+0000",
+      "summary": "Colts fans celebrated outside Lucas Oil Stadium as the Colts defeated the Miami Dolphins 33-8 in their first home opener since 2013, with a halftime ceremony honoring the late owner Jim Irsay."
     },
     {
-      "id": "bccad5c76638f8c59ff357acf14aa214",
-      "title": "Allen shines as Bills stun Ravens in wild comeback",
-      "link": "https://sports.yahoo.com/article/allen-shines-bills-stun-ravens-054138748.html",
-      "iso_date": "2025-09-08T05:41:38Z",
-      "source": "Yahoo Sports — Colts"
+      "id": "ae9eed08f92da524",
+      "title": "‘Lights of Hope’ illuminates Indiana Statehouse for cancer survivors",
+      "link": "https://wishtv.com/news/indiana-news/lights-of-hope-illuminates-indiana-statehouse-for-cancer-survivors/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T00:14:55+0000",
+      "summary": "The American Cancer Society Cancer Action Network's 'Lights of Hope' event in Indianapolis honored cancer survivors and those affected by the disease with a message of hope, while also raising awareness about the need for increased funding for cancer research."
     },
     {
-      "id": "58f21eb9058f62687f36cf2b77df232c",
-      "title": "Guys. 🥹 This game was so nice to watch!",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbfb46/guys_this_game_was_so_nice_to_watch/",
-      "iso_date": "2025-09-08T05:25:56Z",
-      "source": "Reddit — r/Colts"
+      "id": "0beb730f03dac233",
+      "title": "8 must-read quotes from the Colts impressive Week 1 win",
+      "link": "https://wishtv.com/sports/indianapolis-colts/8-quotes-colts-week-1-win-2025/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-07T23:54:12+0000",
+      "summary": "The Colts dominated the Dolphins 33-8 in their Week 1 victory, with Daniel Jones making an impressive debut and Shane Steichen awarding game balls to the Irsay daughters in honor of their late father."
     },
     {
-      "id": "c99673dba1ebf87bd2633de69a489416",
-      "title": "The Midnight Move: How the Colts Left Baltimore and Transformed Indianapolis",
-      "link": "https://wibc.com/724875/the-midnight-move-how-the-colts-left-baltimore-and-transformed-indianapolis/",
-      "iso_date": "2025-09-08T04:56:57Z",
-      "source": "Yahoo Sports — Colts"
+      "id": "5e669e386a31cedd",
+      "title": "Colts' defense makes statement in Week 1 win over Dolphins: 'New big dogs in town'",
+      "link": "https://colts.com/news/colt-defense-statement-week-1-cam-bynum-laiatu-latu-interceptions-lou-anarumo-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T23:39:15+0000",
+      "summary": "The Colts had three sacks and two interceptions in their 33-8 win over the Dolphins on Sunday."
     },
     {
-      "id": "21db5bcbf71d3454f0c2a1c925cd44a3",
-      "title": "Best of NFL Week 1 tunnel fits, featuring a buffalo wing necklace from the Bills",
-      "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
-      "iso_date": "2025-09-08T04:06:16Z",
-      "source": "ESPN — Colts"
+      "id": "9630b5055c26b1db",
+      "title": "'Win For Jim' mantra inspires Colts in Week 1 win: 'We're playing for a bigger purpose'",
+      "link": "https://colts.com/news/jim-irsay-ring-of-honor-win-for-mantra-shane-steichen-week-1-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T23:26:42+0000",
+      "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
     },
     {
-      "id": "1998fabef23d457d9fdb0f9b4e9d6bb7",
-      "title": "'Nothing beats a Jet2 Holiday': Steelers' virtual jab at Jets tops Week 1 NFL trolls",
-      "link": "https://www.espn.com/nfl/story/_/id/46189810/nfl-week-1-trolls",
-      "iso_date": "2025-09-08T04:06:16Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "3ad2b241166e0de6d4dd074a08c509fc",
-      "title": "The week 1 curse is broken",
-      "link": "https://www.reddit.com/r/Colts/comments/1nbdp23/the_week_1_curse_is_broken/",
-      "iso_date": "2025-09-08T03:55:36Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "7f318eb1a3457728139a2c15510641f4",
-      "title": "Browns’ Joe Flacco gets brutally honest on backbreaking drops-to-INTs",
-      "link": "https://sports.yahoo.com/article/browns-joe-flacco-gets-brutally-013204745.html",
-      "iso_date": "2025-09-08T01:32:04Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "7a7f96837f717b333b9802c3e2441a98",
-      "title": "Lou. Lou. Lou.",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb99u6/lou_lou_lou/",
-      "iso_date": "2025-09-08T00:16:33Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "7bdb8dd21ad81834b7a6da81c2436f38",
-      "title": "Stafford -- along with Calvin Johnson and Cooper Kupp -- recalls incredible passes from the playmaker",
-      "link": "https://www.espn.com/nfl/story/_/id/45965511/rams-matthew-stafford-pass-60000-yards-best-plays",
-      "iso_date": "2025-09-08T00:04:00Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "a48aaeaab2a3abdf2fb7e17d661c3d5c",
-      "title": "POV : Watching Tyler Warren play like Dallas Clark from game one.",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb81ou/pov_watching_tyler_warren_play_like_dallas_clark/",
-      "iso_date": "2025-09-07T23:20:36Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "8c3af83a5c73823918cac5bf9a38ecaa",
-      "title": "Indiana Jones even set good Colts offensive stats, for a change...",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb80zu/indiana_jones_even_set_good_colts_offensive_stats/",
-      "iso_date": "2025-09-07T23:19:48Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "dac227b984dcfb7b1e42d94ac0b1d916",
-      "title": "'Little more special': Colts dedicate win to Irsays",
-      "link": "https://www.espn.com/nfl/story/_/id/46191424/colts-dedicate-daniel-jones-led-win-late-owner-jim-irsay-family",
-      "iso_date": "2025-09-07T23:14:46Z",
-      "source": "Yahoo Sports — Colts"
-    },
-    {
-      "id": "4b77185513a5773a7032dabd97f4e17c",
+      "id": "e8c20aa381a75680",
       "title": "Shane Steichen resurrected Daniel Jones in Colts season opener",
-      "link": "https://www.stampedeblue.com/analysis/114298/shane-steichen-resurrected-daniel-jones-in-colts-season-opener",
-      "iso_date": "2025-09-07T23:12:54Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/analysis/114298/shane-steichen-resurrected-daniel-jones-in-colts-season-opener",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-07T23:12:54+0000",
+      "summary": "Indianapolis, IN — For the first time since Andrew Luck’s second year in the NFL, the Indianapolis Colts start their season with a 1-0 record after besting the Miami Dolphins 33-8 at Lucas Oil Stadium. It was both an important and monumental day for the organization. Not only has the aforementioned curse finally been lifted, [&#8230;]"
     },
     {
-      "id": "b96627c48134e7aa16cb754ba1cfb7fc",
+      "id": "ab12f9468d1bb05e",
+      "title": "How Daniel Jones, Shane Steichen and the Colts' offense threw a near-perfect game in Week 1 blowout win over Dolphins",
+      "link": "https://colts.com/news/how-daniel-jones-shane-steichen-and-the-colts-offense-threw-a-near-perfect-game-in-week-1-blowout-win-over-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T22:57:28+0000",
+      "summary": "The Colts became the first team since 1977 to score on all seven of their possessions in their 33-8 trouncing of the Miami Dolphins on Sunday at Lucas Oil Stadium."
+    },
+    {
+      "id": "ea1fb65207d2f01a",
+      "title": "Tyler Warren's NFL debut shows why he's not a typical rookie",
+      "link": "https://colts.com/news/tyler-warren-nfl-rookie-debut-receptions-colts-daniel-jones-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T22:17:52+0000",
+      "summary": "Warren had seven receptions for 76 yards in the Colts' victory over the Miami Dolphins on Sunday."
+    },
+    {
+      "id": "dd91a135f259f427",
       "title": "Colts obliterate Dolphins 33-8 to snap decade-long drought in season opener",
-      "link": "https://www.stampedeblue.com/indianapolis-colts-scores-results/114315/colts-obliterate-dolphins-33-8-to-snap-decade-long-drought-in-season-opener",
-      "iso_date": "2025-09-07T22:05:38Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/114315/colts-obliterate-dolphins-33-8-to-snap-decade-long-drought-in-season-opener",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-07T22:05:38+0000",
+      "summary": "The Indianapolis Colts obliterated the Miami Dolphins 33-8 in Sunday’s season opener at Lucas Oil Stadium to snap what was the NFL’s longest Week 1 drought.&#160;Indianapolis scored on all seven possessions to become the first NFL team in at least 47 years to score on every possession of a game. The stampede sporting blue had [&#8230;]"
     },
     {
-      "id": "b9a080cc90cd5c75e81b835dc3149551",
-      "title": "Grateful",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb5u3r/grateful/",
-      "iso_date": "2025-09-07T21:45:33Z",
-      "source": "Reddit — r/Colts"
+      "id": "0692afe316593704",
+      "title": "Colts legends return for Jim Irsay’s Ring of Honor induction ceremony",
+      "link": "https://wishtv.com/sports/indianapolis-colts/colts-legends-return-to-honor-jim-irsay/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-07T22:04:54+0000",
+      "summary": "The Colts inducted their late owner Jim Irsay to the Ring of Honor on Sunday, with Colts legends in attendance, and the Colts won the game against the Dolphins, 33-8."
     },
     {
-      "id": "95aa265e25b2b9679944379a60313c97",
-      "title": "The @Colts scored on all seven of their offensive possessions in today's victory, becoming the first team since at least 1978 to score on every offensive possession of a game",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb4rkb/the_colts_scored_on_all_seven_of_their_offensive/",
-      "iso_date": "2025-09-07T21:02:22Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "cd9ae941a07fb52de72e9dffef5db5c8",
-      "title": "Just here to remind you all that Tyler Warren is a Colt.",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb3799/just_here_to_remind_you_all_that_tyler_warren_is/",
-      "iso_date": "2025-09-07T20:00:31Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "ae60c23e9b09cd605b7cf7cf647383d0",
+      "id": "ca03569b8d909d38",
       "title": "Are you not entertained, Colts fans?",
-      "link": "https://www.stampedeblue.com/analysis/114300/are-you-not-entertained-colts-fans",
-      "iso_date": "2025-09-07T19:58:40Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/analysis/114300/are-you-not-entertained-colts-fans",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-07T19:58:40+0000",
+      "summary": "The drought is finally over. Not only is the eleven year winless streak finally behind the Indianapolis Colts but they ended it convincingly by beating the brakes off the Miami Dolphins. Who knew that all it would take was Daniel Jones. After all the quarterbacks that have suited up for the season opener during this [&#8230;]"
     },
     {
-      "id": "d26d8edc310317d9dd74ad7615972978",
-      "title": "First opening day win in 11 years",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb3247/first_opening_day_win_in_11_years/",
-      "iso_date": "2025-09-07T19:55:05Z",
-      "source": "Reddit — r/Colts"
+      "id": "5f8abc5e15c98b4c",
+      "title": "Colts dominate Dolphins for first week 1 win since 2013",
+      "link": "https://cbs4indy.com/sports/colts/colts-dominate-dolphins-for-first-week-1-win-since-2013/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-07T19:48:40+0000",
+      "summary": "INDIANAPOLIS — The Colts honored late owner Jim Irsay the best way they could — with a win. They dominated the Miami Dolphins, 33-8, in the season-opener Sunday afternoon at Lucas Oil Stadium. The win is their first in week 1 since quarterback Andrew Luck led them to victory against the Oakland Raiders in 2013. [...]"
     },
     {
-      "id": "5f339aba6e35cb1e2b0c8ed9db8b7b3b",
-      "title": "We are so back boys",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb2wxt/we_are_so_back_boys/",
-      "iso_date": "2025-09-07T19:49:28Z",
-      "source": "Reddit — r/Colts"
+      "id": "1d8bd82c15c8f651",
+      "title": "Colts dominate Dolphins, win first season opener in 11 years",
+      "link": "https://colts.com/news/colts-dolphins-win-season-opener-daniel-jones-cam-bynum-touchdown-interception-kenny-moore-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T19:48:37+0000",
+      "summary": "Daniel Jones was 22-of-29 for 272 yards and a touchdown, with two rushing touchdowns of his own, in the Colts' 33-8 win."
     },
     {
-      "id": "1af498b9c5ae315fce065d81a38821f6",
-      "title": "Post Game Thread: Miami Dolphins at Indianapolis Colts",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb2wun/post_game_thread_miami_dolphins_at_indianapolis/",
-      "iso_date": "2025-09-07T19:49:21Z",
-      "source": "Reddit — r/Colts"
+      "id": "09d36a43581f1bf9",
+      "title": "Colts dominate Dolphins, snap Week 1 winless streak",
+      "link": "https://wishtv.com/sports/indianapolis-colts/colts-dominate-dolphins-snap-week-1-winless-streak/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-07T19:48:21+0000",
+      "summary": "The Indianapolis Colts dominated the Miami Dolphins 33-8 in Week 1, with quarterback Daniel Jones leading the way with 272 passing yards, 26 rushing yards, and two touchdowns."
     },
     {
-      "id": "367a4395ed48e7ed7d7a81481d41e099",
-      "title": "New Boss",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb28gl/new_boss/",
-      "iso_date": "2025-09-07T19:22:45Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "23817ac427eece225c93edcb65b4d608",
-      "title": "The apology must be as loud as the disrespect",
-      "link": "https://www.reddit.com/r/Colts/comments/1nb238a/the_apology_must_be_as_loud_as_the_disrespect/",
-      "iso_date": "2025-09-07T19:17:10Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "a0b55768ffb1b7ac081da168a9c8b37d",
-      "title": "NFL draft risers, questions and notes from Kiper, Miller and Reid: Early concerns around top QBs?",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
-      "iso_date": "2025-09-07T18:34:42Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "b9be8049f2131a1a2c9389feba52407f",
-      "title": "2026 NFL draft rankings: Top prospects at every position from Miller, Reid and Yates",
-      "link": "https://www.espn.com/nfl/draft2026/story/_/id/46149416/2026-nfl-draft-rankings-top-prospects-position",
-      "iso_date": "2025-09-07T18:34:42Z",
-      "source": "ESPN — Colts"
-    },
-    {
-      "id": "f5b10036e2e76dcc67b952151e3462a9",
-      "title": "Shaq Leonard still cheering on his former Colts teammates 🥹",
-      "link": "https://www.reddit.com/r/Colts/comments/1nazwj6/shaq_leonard_still_cheering_on_his_former_colts/",
-      "iso_date": "2025-09-07T17:53:47Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "f921fa7d3705c18891e33b0b7d1eaf9e",
-      "title": "Danny Dimes making me realize how bad AR was",
-      "link": "https://www.reddit.com/r/Colts/comments/1nazky2/danny_dimes_making_me_realize_how_bad_ar_was/",
-      "iso_date": "2025-09-07T17:41:18Z",
-      "source": "Reddit — r/Colts"
-    },
-    {
-      "id": "5f378e991c173bcaabe1b67f7f0e42e9",
+      "id": "11cde46da33bda2c",
       "title": "Week 1 Colts vs. Dolphins Game Thread",
-      "link": "https://www.stampedeblue.com/gamethreads/114290/week-1-colts-vs-dolphins-game-thread-anthony-richardson-daniel-jones-tyler-warren-laiatu-latu",
-      "iso_date": "2025-09-07T16:55:00Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/gamethreads/114290/week-1-colts-vs-dolphins-game-thread-anthony-richardson-daniel-jones-tyler-warren-laiatu-latu",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-07T16:55:00+0000",
+      "summary": "The Indianapolis Colts are at home to take on the Miami Dolphins in week 1 of the 2025 season, kickoff is at 1:00 p.m. EST. There’s a new starting quarterback in Indianapolis (I’m sure you’ve heard about it) and this will be Daniel Jones’ first crack at leading the 2025 Colts. Enough digital ink has been spilled [&#8230;]"
     },
     {
-      "id": "170f937f416df9dc66c180f4cf6ba80d",
-      "title": "The Sheriff is IN THE HAUSS",
-      "link": "https://www.reddit.com/r/Colts/comments/1naxkbs/the_sheriff_is_in_the_hauss/",
-      "iso_date": "2025-09-07T16:23:17Z",
-      "source": "Reddit — r/Colts"
+      "id": "2157f81a9d57b557",
+      "title": "Sideline to Sideline: Jim Irsay Memories",
+      "link": "https://cbs4indy.com/sports/colts/sideline-to-sideline-jim-irsay-memories/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-07T16:27:02+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic goes sideline to sideline with the Colts trying to give fans more insight to their favorite players. With Jim Irsay going into the franchise's Ring of Honor today, Chris asks players what their favorite memory is of the team's late owner."
     },
     {
-      "id": "d988c251b048ac8a3fed1da293550ba3",
-      "title": "Cleveland Browns fans know how to keep the faith",
-      "link": "https://www.espn.com/nfl/story/_/id/46168604/cleveland-browns-fans-dedication-nfl-season-opener-2025",
-      "iso_date": "2025-09-07T13:10:00Z",
-      "source": "ESPN — Colts"
+      "id": "a7e4b45da3e96f46",
+      "title": "Keys to the Game: Colts vs. Dophins",
+      "link": "https://cbs4indy.com/sports/colts/keys-to-the-game-colts-vs-dophins/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-07T16:16:49+0000",
+      "summary": "INDIANAPOLIS - The Colts are looking for their first win in week one of the NFL season since Andrew Luck led the team to victory over the Oakland Raiders in 2013. IndyStar Colts insider Joel A. Erickson gives his keys to snapping that skid in today's season opener against the Miami Dolphins."
     },
     {
-      "id": "a8da706da29ff106e81e18fb64cad7bb",
+      "id": "481d2c2275f52bb0",
+      "title": "Colts announce 7 inactive players for Week 1 game vs. Miami Dolphins",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-1-game-vs-miami-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T15:30:42+0000",
+      "summary": "Tyler Goodson (elbow) was listed as questionable on Friday's practice report."
+    },
+    {
+      "id": "df3aa9cc00019beb",
+      "title": "Shane Steichen, Colts to honor Jim Irsay during 2025 season with custom guitar presented before each game",
+      "link": "https://colts.com/news/jim-irsay-guitar-shane-steichen-deforest-buckner-week-1-purdue-lab",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T13:20:22+0000",
+      "summary": "Steichen worked with the Purdue University Guitar Lab to build a custom \"Win For Jim\" guitar, which a select player will carry into the stadium prior to each Colts game this season."
+    },
+    {
+      "id": "19405c86498d23bf",
+      "title": "How to watch the Miami Dolphins at Indianapolis Colts on September 7, 2025",
+      "link": "https://colts.com/news/how-to-watch-dolphins-at-colts-week-1-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T12:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Miami Dolphins at Indianapolis Colts on Sunday, September 7 at 1:00 p.m. ET (Week 1)."
+    },
+    {
+      "id": "2c022e12c36e8801",
+      "title": "Driver dies after SUV collides with house in north Indianapolis",
+      "link": "https://wishtv.com/news/local-news/driver-dies-when-suv-collides-with-house-in-north-indianapolis/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-07T10:10:03+0000",
+      "summary": "A man died at a hospital after the SUV he was driving crashed into a house on the north side of Indianapolis early Sunday morning."
+    },
+    {
+      "id": "814682c94ce29b9d",
+      "title": "MY GUIDE TO GAMEDAY…know this before you go. Pls.",
+      "link": "https://colts.com/news/colts-mobile-tickets-gameday-lucas-oil-stadium-blue-mascot-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T10:00:00+0000",
+      "summary": "What’s up, Colts fans! Come along with me as I show you how to scan your tickets to get into gameday. Because you don’t want to miss out on seeing me perform, because I’m the whole show."
+    },
+    {
+      "id": "90b57d0dfb1c358b",
+      "title": "Coming to Lucas Oil Stadium? Here is everything NEW you need to know about Colts home games in 2025.",
+      "link": "https://colts.com/news/colts-gameday-information-lucas-oil-stadium-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T09:00:00+0000",
+      "summary": "New amenities and fan information for the 2025 Colts home schedule"
+    },
+    {
+      "id": "79fda8f3c3c52ff2",
+      "title": "Dolphins at Colts: What to watch for",
+      "link": "https://cbs4indy.com/sports/colts/dolphins-at-colts-what-to-watch-for/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-06T19:55:45+0000",
+      "summary": "INDIANAPOLIS – Areas of interest as the Indianapolis Colts open the season against the Miami Dolphins Sunday at Lucas Oil Stadium: Kickoff: 1 p.m. Broadcast: CBS4. Spread: Colts by 1½. History lesson, Part I The Colts will induct Jim Irsay into their Ring of Honor at halftime. The late owner established the tradition in September 1996 when he [...]"
+    },
+    {
+      "id": "5792f10823b70151",
       "title": "Where to Watch: Dolphins at Colts for 2025 season opener",
-      "link": "https://www.stampedeblue.com/indianapolis-colts-news/114284/where-to-watch-dolphins-at-colts-for-2025-season-opener",
-      "iso_date": "2025-09-06T19:01:57Z",
-      "source": "Stampede Blue"
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114284/where-to-watch-dolphins-at-colts-for-2025-season-opener",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-06T19:01:57+0000",
+      "summary": "The Indianapolis Colts (0-0) (-1.5) host the Miami Dolphins (0-0) for the 2025 regular season opener at 1 PM EST, at Lucas Oil Stadium, which the Horseshoe shockingly hasn’t won a Week 1 game since 2013. Indianapolis will be looking to snap that embarrassingly long franchise streak, and perhaps they’ll get some help from up [&#8230;]"
     },
     {
-      "id": "1d017f589a82fbd92e7c0723d2014a5c",
-      "title": "NFL's youngest head coach hopes to follow in his father's winning footsteps",
-      "link": "https://www.espn.com/nfl/story/_/id/46137573/new-orleans-saints-coach-kellen-moore-leans-experience-father-revamp-offense",
-      "iso_date": "2025-09-05T12:00:00Z",
-      "source": "ESPN — Colts"
+      "id": "67d65469a150bb2e",
+      "title": "Colts elevate LB Austin Ajiake, RB Ulysses Bentley IV to active roster from practice squad for Week 1",
+      "link": "https://colts.com/news/colts-elevate-lb-austin-ajiake-rb-ulysses-bentley-iv-to-active-roster-from-practice-squad-for-week-1",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-06T15:53:40+0000",
+      "summary": "The Colts made the roster moves on Saturday."
     },
     {
-      "id": "5ea5c7a12f914fb1a09c65882f58c1ba",
-      "title": "Free Talk Friday",
-      "link": "https://www.reddit.com/r/Colts/comments/1n925ck/free_talk_friday/",
-      "iso_date": "2025-09-05T11:00:40Z",
-      "source": "Reddit — r/Colts"
+      "id": "af14a22228c3edf5",
+      "title": "Daniel Jones could be a factor as Colts lean on Jonathan Taylor-led run game in '25",
+      "link": "https://cbs4indy.com/sports/colts/daniel-jones-could-be-a-factor-as-colts-lean-on-jonathan-taylor-led-run-game-in-25/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-05T22:18:04+0000",
+      "summary": "INDIANAPOLIS – The message has been the same as the Indianapolis Colts prepare to follow yet another starting quarterback into a season. Daniel Jones is the 11th different starter since Andrew Luck’s retirement prior to the 2019 season, and the sixth who’ll lead the offense into the opener. He’s cerebral, a great communicator, has command [...]"
+    },
+    {
+      "id": "cf6676c9b79b9e7f",
+      "title": "Colts do not rule out any players for Week 1 game vs. Miami Dolphins",
+      "link": "https://colts.com/news/colts-do-not-rule-out-any-players-for-week-1-game-vs-miami-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-05T16:57:11+0000",
+      "summary": "Running back Tyler Goodson (elbow) was a limited participant in practice this week."
+    },
+    {
+      "id": "1766dc836811a08a",
+      "title": "Garrett's Chris DePew named Girls 'Flag Coach of the Week' for Week 2",
+      "link": "https://colts.com/news/garretts-chris-depew-named-girls-flag-coach-of-the-week-for-week-2-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-05T16:24:32+0000",
+      "summary": "The first coach in Indiana history to be named Colts “Coach of the Week” in both tackle and girls flag football"
+    },
+    {
+      "id": "52947c34d99ad780",
+      "title": "Colts vs. Dolphins preview: Lou Anarumo's defense faces first test against Tua Tagovailoa and Miami's speedy, explosive offense",
+      "link": "https://colts.com/news/week-1-preview-lou-anarumo-defense-miami-dolphins-offense-tua-tagovailoa-tyreek-hill-jaylen-waddle",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-05T14:47:08+0000",
+      "summary": "The Colts kick off the 2025 regular season on Sunday at 1 p.m. against the Miami Dolphins at Lucas Oil Stadium."
+    },
+    {
+      "id": "71fc3fb036ed6034",
+      "title": "Shane Steichen, Reggie Wayne and Colts players reflect on life and legacy of Jim Irsay ahead of Ring of Honor induction",
+      "link": "https://colts.com/news/shane-steichen-reggie-wayne-jim-irsay-ring-of-honor-colts-lucas-oil-stadium-week-one-horseshoe",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-05T14:15:26+0000",
+      "summary": "Jim Irsay will become the 20th member of the Colts Ring of Honor on Sunday, when the Colts start the 2025 season against the Miami Dolphins at Lucas Oil Stadium."
+    },
+    {
+      "id": "aa01759f6d8cb579",
+      "title": "Indianapolis recalls charitable side of Jim Irsay",
+      "link": "https://cbs4indy.com/sports/colts/indianapolis-recalls-charitable-side-of-jim-irsay/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-05T14:03:45+0000",
+      "summary": "INDIANAPOLIS -- When the late Jim Irsay’s name is added to the Colts Ring of Honor at Lucas Oil Stadium during the team’s season opener against the Miami Dolphins on Sunday, his role as one of the leading owners of the NFL will be recalled. But more importantly, to the people and organizations of his [...]"
+    },
+    {
+      "id": "63fbb08c8d83f556",
+      "title": "Laiatu Latu’s impact critical to Colts’ retooled defense",
+      "link": "https://cbs4indy.com/sports/colts/laiatu-latus-impact-critical-to-colts-retooled-defense/",
+      "source": "CBS4Indy",
+      "feed": "CBS4Indy",
+      "published": "2025-09-04T22:34:57+0000",
+      "summary": "INDIANAPOLIS — The makeover has been extensive and expensive. But whether the Indianapolis Colts are able to re-establish their defense as a formidable unit might well hinge more on a high-profile returnee than the slew of additions. That would be Laiatu Latu. General manager Chris Ballard has given first-year coordinator Lou Anarumo: The renovation of the [...]"
+    },
+    {
+      "id": "05b1c8cba9671931",
+      "title": "Versatility, aggressiveness and Shane Steichen's 'genius:' Why Daniel Jones enters 2025 confident as QB1 of Colts' offense",
+      "link": "https://colts.com/news/versatility-aggressiveness-and-shane-steichen-s-genius-why-daniel-jones-enters-2025-confident-as-qb1-of-colts-offense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-04T21:42:17+0000",
+      "summary": "Check out this week's episode of The Colts Show podcast for a wide-ranging one-on-one interview with quarterback Daniel Jones."
+    },
+    {
+      "id": "bdf8e793578b605b",
+      "title": "The Colts Show Mailbag: Downfield throws, Week 1 winless streak, Tanor Bortolini and Matt Goncalves, slot cornerback depth",
+      "link": "https://colts.com/news/the-colts-show-mailbag-downfield-throws-week-1-winless-streak-tanor-bortolini-and-matt-goncalves-slot-cornerback-depth",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-04T20:19:53+0000",
+      "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "d264c6cc1fdaab2a",
+      "title": "Practice Notebook: Jonathan Taylor on what Daniel Jones brings to Colts offense",
+      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-daniel-jones-rushing-colts-offense-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-04T19:39:57+0000",
+      "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
+    },
+    {
+      "id": "a2717b183e5c131e",
+      "title": "How Daniel Jones is approaching debut as Colts QB1",
+      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:29:10+0000",
+      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
+    },
+    {
+      "id": "ff99558e4e508cac",
+      "title": "Practice Notebook: Injury updates ahead of Colts' Week 1 game vs. Dolphins",
+      "link": "https://colts.com/news/practice-notebook-injury-updates-ahead-of-colts-week-1-game-vs-dolphins-tyler-goodson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:11:22+0000",
+      "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
+    },
+    {
+      "id": "c128cd6a580ecc93",
+      "title": "Colts launch 'The Jack Doyle Podcast' with debut episode ahead of Week 1",
+      "link": "https://colts.com/news/colts-launch-the-jack-doyle-podcast-with-debut-episode-ahead-of-week-1",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T18:50:07+0000",
+      "summary": "Former Colts Pro Bowl tight end Jack Doyle will bring his unique perspective and analysis to the Indianapolis Colts Podcasts lineup every Wednesday during the regular season."
+    },
+    {
+      "id": "1673ef0524954269",
+      "title": "Lou Anarumo sets expectations for Xavien Howard's Colts debut",
+      "link": "https://colts.com/news/lou-anarumo-expectations-xavien-howard-colts-debut-cornerback-miami-dolphins-week-one",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-02T18:46:21+0000",
+      "summary": "Howard has been practicing alongside the Colts' first-team defense since joining the team mid-August."
+    },
+    {
+      "id": "aa6a3bf322cbe58b",
+      "title": "Colts release unofficial depth chart for Week 1 game vs. Miami Dolphins",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-1-game-vs-miami-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-02T14:58:42+0000",
+      "summary": "The Colts released their Week 1 unofficial depth chart ahead of their game against the Miami Dolphins Sunday at Lucas Oil Stadium. Check it out below:"
+    },
+    {
+      "id": "f51105501377ec69",
+      "title": "Colts' emphasis on competition, physicality in preseason inspiring confidence ahead of Week 1 matchup vs Dolphins",
+      "link": "https://colts.com/news/colts-competition-daniel-jones-jonathan-taylor-shane-steichen-week-one-miami-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-01T20:35:32+0000",
+      "summary": "The Colts benefited from intense competition up and down the roster throughout preseason, and are quickly coming up on their first opportunity to show their growth as a team."
+    },
+    {
+      "id": "1e6c9fbf3c232fb1",
+      "title": "Colts sign LB Anthony Walker Jr. to practice squad, release DT Josh Tupou from practice squad",
+      "link": "https://colts.com/news/colts-sign-lb-anthony-walker-jr-to-practice-squad-release-dt-josh-tupou-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-01T13:33:40+0000",
+      "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "b24ef94fcbdb159c",
+      "title": "Colts to honor Lucas Oil founder Forrest Lucas at week two game vs. Denver",
+      "link": "https://colts.com/news/colts-to-honor-lucas-oil-founder-forrest-lucas-week-2-denver-broncos-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-08-29T14:00:00+0000",
+      "summary": "The Indianapolis Colts will pay special tribute to Forrest Lucas, the founder of Lucas Oil Products, during their Week 2 matchup vs. the Denver Broncos on Sun., Sept. 14."
+    },
+    {
+      "id": "c1e6ce3380dffef0",
+      "title": "10 Colts Things: Daniel Jones & Colts' offense seeking consistency and explosiveness, Tyler Warren makes strong impression before rookie year, Lou Anarumo's defense comes into focus, Laiatu Latu showing signs of Year 2 jump",
+      "link": "https://colts.com/news/10-colts-things-daniel-jones-colts-offense-seeking-consistency-and-explosiveness-tyler-warren-makes-strong-impression-before-rookie-year-lou-anarumo-s-defense-comes-into-focus-laiatu-latu-showing-signs-of-year-2-jump",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-08-29T11:00:02+0000",
+      "summary": "The Colts' preseason came to a close on Thursday, and Labor Day weekend will be this team's last break until after they return from Berlin in November. Here are the 10 biggest takeaways from everything that happened from the start of training camp to the end of the preseason, starting with several observations on the kind of offense Shane Steichen could run with Daniel Jones."
+    },
+    {
+      "id": "8a708030a46489d5",
+      "title": "Colts sign DT Tim Smith to practice squad",
+      "link": "https://colts.com/news/colts-sign-dt-tim-smith-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-08-28T21:24:36+0000",
+      "summary": "The Colts made the roster move on Thursday."
     }
+  ],
+  "links": [
+    {
+      "label": "Schedule",
+      "url": "https://www.colts.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.colts.com/team/players-roster/"
+    },
+    {
+      "label": "Depth Chart",
+      "url": "https://www.espn.com/nfl/team/depth/_/name/ind/indianapolis-colts"
+    },
+    {
+      "label": "Injury Report",
+      "url": "https://www.colts.com/team/injury-report/"
+    },
+    {
+      "label": "Fan Zone",
+      "url": "https://www.colts.com/fans/"
+    },
+    {
+      "label": "Team Shop",
+      "url": "https://shop.colts.com/"
+    },
+    {
+      "label": "Tickets",
+      "url": "https://www.colts.com/tickets/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/Colts/"
+    },
+    {
+      "label": "Bleacher Report",
+      "url": "https://bleacherreport.com/indianapolis-colts"
+    },
+    {
+      "label": "ESPN Team",
+      "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"
+    },
+    {
+      "label": "Yahoo Team",
+      "url": "https://sports.yahoo.com/nfl/teams/ind/"
+    },
+    {
+      "label": "PFF Team Page",
+      "url": "https://www.pff.com/nfl/teams/indianapolis-colts"
+    },
+    {
+      "label": "Pro-Football-Reference",
+      "url": "https://www.pro-football-reference.com/teams/clt/"
+    },
+    {
+      "label": "NFL Power Rankings",
+      "url": "https://www.nfl.com/news/nfl-power-rankings"
+    },
+    {
+      "label": "Stats",
+      "url": "https://www.teamrankings.com/nfl/team/indianapolis-colts"
+    },
+    {
+      "label": "Standings",
+      "url": "https://www.nfl.com/standings/league/2025/REG"
+    }
+  ],
+  "sources": [
+    "Colts.com",
+    "IndyStar",
+    "Stampede Blue",
+    "Colts Wire",
+    "WTHR",
+    "WISH-TV",
+    "CBS4Indy",
+    "ESPN",
+    "Yahoo Sports",
+    "Sports Illustrated"
   ]
 }
