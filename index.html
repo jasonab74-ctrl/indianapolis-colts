@@ -1,141 +1,158 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Indianapolis Colts — News</title>
 
-  <!-- Icons + Manifest (files already present in repo root) -->
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
-  <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#002C5F">
+  <!-- iOS / favicon / PWA icons -->
+  <link rel="icon" href="static/favicon.ico">
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png" sizes="180x180">
+  <link rel="manifest" href="static/manifest.webmanifest">
+  <meta name="theme-color" content="#0A2342">
 
-  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="static/style.css" />
 </head>
 <body>
-  <header class="site-header">
-    <!-- Hardened logo: try several common filenames, else inline SVG fallback -->
-    <div class="logo-wrap">
-      <img id="logo" alt="Colts logo" decoding="async" width="28" height="28" />
-      <svg id="logoFallback" viewBox="0 0 64 64" aria-hidden="true" style="display:none">
-        <!-- generic horseshoe (fallback) -->
-        <path fill="#002C5F" d="M20 6c-2 8-6 14-6 26a18 18 0 0 0 36 0c0-12-4-18-6-26h-8c2 7 6 13 6 26a10 10 0 0 1-20 0c0-13 4-19 6-26zM18 50a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm28 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
-      </svg>
+  <header class="hero">
+    <div class="brand">
+      <img class="badge" src="static/logo.png" alt="Colts logo" />
+      <div>
+        <h1>Indianapolis Colts — News</h1>
+        <p class="sub">Live team feed • auto-updates</p>
+      </div>
     </div>
-    <h1>Indianapolis Colts — News</h1>
   </header>
 
-  <div id="links" class="pill-row"></div>
+  <main class="wrap">
+    <!-- quick links -->
+    <section class="chips">
+      <a class="chip" href="https://www.colts.com/schedule/" target="_blank" rel="noopener">Schedule</a>
+      <a class="chip" href="https://www.colts.com/team/players-roster/" target="_blank" rel="noopener">Roster</a>
+      <a class="chip" href="https://www.ourlads.com/nfldepthcharts/depthchart/IND" target="_blank" rel="noopener">Depth Chart</a>
+      <a class="chip" href="https://www.foxsports.com/nfl/indianapolis-colts-player-injuries" target="_blank" rel="noopener">Injury Report</a>
+      <a class="chip" href="https://shop.colts.com/" target="_blank" rel="noopener">Team Shop</a>
+      <a class="chip" href="https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805936" target="_blank" rel="noopener">Tickets</a>
+      <a class="chip" href="https://www.reddit.com/r/Colts/" target="_blank" rel="noopener">Reddit</a>
+      <a class="chip" href="https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts" target="_blank" rel="noopener">ESPN Team</a>
+      <a class="chip" href="https://sports.yahoo.com/nfl/teams/ind/" target="_blank" rel="noopener">Yahoo Team</a>
+      <a class="chip" href="https://www.pff.com/nfl/teams/indianapolis-colts" target="_blank" rel="noopener">PFF Team Page</a>
+      <a class="chip" href="https://www.pro-football-reference.com/teams/clt/" target="_blank" rel="noopener">Pro-Football-Reference</a>
+      <a class="chip" href="https://www.espn.com/nfl/powerrankings" target="_blank" rel="noopener">NFL Power Rankings</a>
+      <a class="chip" href="https://www.teamrankings.com/nfl/team/indianapolis-colts" target="_blank" rel="noopener">Stats</a>
+      <a class="chip" href="https://www.espn.com/nfl/standings" target="_blank" rel="noopener">Standings</a>
+    </section>
 
-  <section class="controls">
-    <div class="control">
-      <label>Source:</label>
-      <select id="sourceSelect"></select>
-    </div>
-    <div class="control right">
-      <label>Updated:</label>
-      <span id="updated">--</span>
-    </div>
-  </section>
+    <!-- toolbar -->
+    <section class="toolbar">
+      <div class="control">
+        <label for="sourceSel">Source:</label>
+        <select id="sourceSel"></select>
+      </div>
+      <div class="stamp">
+        <span>Updated:</span>
+        <time id="updatedAt">—</time>
+      </div>
+    </section>
 
-  <main id="feed"></main>
+    <!-- feed -->
+    <section id="feed" class="feed">
+      <p id="emptyMsg" class="empty">No articles yet — the collector will populate shortly.</p>
+    </section>
+  </main>
 
   <script>
-    // --- Hardened logo loader: probes common filenames, falls back to inline SVG
-    (function loadLogo() {
-      const paths = [
-        "static/colts-logo.png",
-        "static/colts_logo.png",
-        "static/logo-colts.png",
-        "static/logo.png"
-      ];
-      const img = document.getElementById("logo");
-      const fb  = document.getElementById("logoFallback");
-
-      function setSrc(p){ img.src = p; img.style.display="block"; fb.style.display="none"; }
-
-      (async () => {
-        for (const p of paths) {
-          try {
-            const r = await fetch(p, { method: "HEAD" });
-            if (r.ok) { setSrc(p); return; }
-          } catch(e){}
-        }
-        // fallback if none exist
-        img.style.display="none";
-        fb.style.display="block";
-      })();
-    })();
-
-    const feedEl = document.getElementById('feed');
-    const updatedEl = document.getElementById('updated');
-    const sourceSelect = document.getElementById('sourceSelect');
-    const linksEl = document.getElementById('links');
-
-    function renderLinks(links) {
-      linksEl.innerHTML = '';
-      (links || []).forEach(l => {
-        const a = document.createElement('a');
-        a.className = 'pill';
-        a.href = l.url;
-        a.target = '_blank';
-        a.rel = 'noopener noreferrer';
-        a.textContent = l.label;
-        linksEl.appendChild(a);
+    // ---- helpers -----------------------------------------------------------
+    const fmtDate = (iso) => {
+      // Show like: Sep 8, 2025, 4:41 AM
+      const d = (iso instanceof Date) ? iso : new Date(iso);
+      return d.toLocaleString('en-US', {
+        month: 'short', day: 'numeric', year: 'numeric',
+        hour: 'numeric', minute: '2-digit'
       });
+    };
+
+    // ---- state -------------------------------------------------------------
+    let allItems = [];
+    let allSources = [];
+
+    // ---- renderers ---------------------------------------------------------
+    function renderUpdated(ts) {
+      const el = document.getElementById('updatedAt');
+      el.textContent = ts ? fmtDate(ts) : '—';
     }
 
-    function buildSourceDropdown(items) {
-      const sources = Array.from(new Set(items.map(i => i.source).filter(Boolean))).sort();
-      sourceSelect.innerHTML = '';
+    function renderSources() {
+      const sel = document.getElementById('sourceSel');
+      sel.innerHTML = '';
       const optAll = document.createElement('option');
       optAll.value = '';
       optAll.textContent = 'All sources';
-      sourceSelect.appendChild(optAll);
-      sources.forEach(s => {
-        const o = document.createElement('option');
-        o.value = s;
-        o.textContent = s;
-        sourceSelect.appendChild(o);
+      sel.appendChild(optAll);
+
+      allSources.forEach(name => {
+        const opt = document.createElement('option');
+        opt.value = name;
+        opt.textContent = name;
+        sel.appendChild(opt);
       });
+
+      sel.addEventListener('change', () => renderFeed(sel.value));
     }
 
-    function renderItems(items) {
-      feedEl.innerHTML = '';
-      items.forEach(it => {
+    function renderFeed(filterSource = '') {
+      const list = document.getElementById('feed');
+      const empty = document.getElementById('emptyMsg');
+      list.innerHTML = '';
+      const items = filterSource
+        ? allItems.filter(i => i.source_name === filterSource)
+        : allItems;
+
+      if (!items.length) {
+        empty.style.display = 'block';
+        return;
+      }
+      empty.style.display = 'none';
+
+      items.forEach(i => {
         const card = document.createElement('article');
         card.className = 'card';
         const a = document.createElement('a');
-        a.href = it.link; a.target = '_blank'; a.rel = 'noopener noreferrer';
-        a.className = 'title';
-        a.textContent = it.title || '(no title)';
-        const meta = document.createElement('div');
+        a.href = i.link;
+        a.target = '_blank';
+        a.rel = 'noopener';
+
+        const h3 = document.createElement('h3');
+        h3.textContent = i.title;
+        a.appendChild(h3);
+
+        const meta = document.createElement('p');
         meta.className = 'meta';
-        const when = (it.published || '').replace('T',' ').replace('+00:00','');
-        meta.textContent = `${it.source || it.feed || ''} · ${when}`;
-        card.appendChild(a); card.appendChild(meta);
-        feedEl.appendChild(card);
+        meta.textContent = `${i.source_name} • ${fmtDate(i.published)}`;
+
+        card.appendChild(a);
+        card.appendChild(meta);
+        list.appendChild(card);
       });
     }
 
-    function applyFilter(all) {
-      const src = sourceSelect.value;
-      const filtered = src ? all.filter(i => i.source === src) : all;
-      renderItems(filtered);
-    }
+    // ---- boot --------------------------------------------------------------
+    async function init() {
+      try {
+        const r = await fetch('items.json', { cache: 'no-store' });
+        const data = await r.json();
 
-    fetch('items.json', {cache: 'no-cache'})
-      .then(r => r.json())
-      .then(data => {
-        updatedEl.textContent = data.updated || '';
-        renderLinks(data.links || []);
-        buildSourceDropdown(data.items || []);
-        renderItems(data.items || []);
-        sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
-      })
-      .catch(() => { updatedEl.textContent = 'load failed'; });
+        allItems = (data.items || []).slice(0, 50);          // cap to 50
+        allSources = data.sources || [];
+        renderSources();
+        renderUpdated(data.updated_at || Date.now());
+        renderFeed('');
+      } catch (e) {
+        console.error(e);
+        renderUpdated(null);
+      }
+    }
+    init();
   </script>
 </body>
 </html>
