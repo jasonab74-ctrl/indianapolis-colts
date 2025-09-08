@@ -1,12 +1,13 @@
 {
   "name": "Indianapolis Colts — News",
   "short_name": "Colts News",
-  "start_url": ".",
+  "theme_color": "#003A70",
+  "background_color": "#F6F9FD",
   "display": "standalone",
-  "background_color": "#0A2342",
-  "theme_color": "#0A2342",
+  "start_url": "/indianapolis-colts/",
   "icons": [
-    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
-    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+    { "src": "/static/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/static/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/static/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any maskable" }
   ]
 }
