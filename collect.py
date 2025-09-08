@@ -1,30 +1,31 @@
 #!/usr/bin/env python3
-# Sports App Project — collector (HARDENED)
-# - Always writes links (buttons), items, and updated timestamp
-# - Normalizes sources and dates
-# - Safe even if a feed entry is missing fields
+# Indianapolis Colts — collector (HARDENED: curated sources + guaranteed links/dates)
 
 import json, time, re, hashlib
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from datetime import datetime, timezone
 import feedparser
-
-from feeds import FEEDS, STATIC_LINKS  # your team-specific feeds + buttons
+from feeds import FEEDS, STATIC_LINKS
 
 MAX_ITEMS = 60
 
-# Allow-list of publishers shown in the Source dropdown.
-ALLOWED_SOURCES = {
-    "ESPN","Yahoo Sports","Sports Illustrated","CBS Sports","SB Nation",
-    "Bleacher Report","The Athletic","NFL.com","PFF","Pro Football Focus",
-    "Pro-Football-Reference","IndyStar","Colts.com","ArizonaSports.com",
-    "AZ Cardinals Official","Stampede Blue","Colts Wire","Yahoo Team",
-    "WTHR","FOX59","Reddit — r/Colts","Reddit — r/azcardinals",
-    "Philadelphia Inquirer","PhillyVoice","NBC Sports","NBC Sports Philadelphia"
-}
+# ---- Curated dropdown (10 high-quality sources) ----
+CURATED_SOURCES = [
+    "Colts.com",
+    "IndyStar",
+    "Stampede Blue",
+    "Colts Wire",
+    "WTHR",
+    "WISH-TV",
+    "CBS4Indy",
+    "ESPN",
+    "Yahoo Sports",
+    "Sports Illustrated",
+]
 
-# --- utilities ---------------------------------------------------------------
+ALLOWED_SOURCES = set(CURATED_SOURCES)
 
+# ---------------- utils ----------------
 def now_iso():
     return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
 
@@ -52,48 +53,27 @@ def hid(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
 
 ALIASES = {
-    # team sites / locals
-    "colts.com":"Colts.com",
-    "azcardinals.com":"AZ Cardinals Official",
-    "arizonasports.com":"ArizonaSports.com",
-    "indystar.com":"IndyStar",
-    # nat'l
-    "espn.com":"ESPN",
-    "sports.yahoo.com":"Yahoo Sports",
-    "si.com":"Sports Illustrated",
-    "cbssports.com":"CBS Sports",
-    "sbnation.com":"SB Nation",
-    "bleacherreport.com":"Bleacher Report",
-    "theathletic.com":"The Athletic",
-    "nfl.com":"NFL.com",
-    "pff.com":"PFF",
-    "pro-football-reference.com":"Pro-Football-Reference",
-    "nbcsports.com":"NBC Sports",
-    "nbcsportsphiladelphia.com":"NBC Sports Philadelphia",
-    "fox59.com":"FOX59",
-    "wthr.com":"WTHR",
+    # locals
+    "colts.com": "Colts.com",
+    "indystar.com": "IndyStar",
+    "stampedeblue.com": "Stampede Blue",
+    "coltswire.usatoday.com": "Colts Wire",
+    "wthr.com": "WTHR",
+    "wishtv.com": "WISH-TV",
+    "cbs4indy.com": "CBS4Indy",
+    # nationals
+    "espn.com": "ESPN",
+    "sports.yahoo.com": "Yahoo Sports",
+    "si.com": "Sports Illustrated",
 }
 
-def source_label(link: str, feed_name: str) -> str:
-    # collapse subreddits into stable labels
-    if "reddit.com/r/colts" in link or "Reddit — r/Colts" in feed_name:
-        return "Reddit — r/Colts"
-    if "reddit.com/r/azcardinals" in link or "Reddit — r/azcardinals" in feed_name:
-        return "Reddit — r/azcardinals"
-    host = _host(link)
-    return ALIASES.get(host, feed_name.strip())
-
-KEEP_PATTERNS = [
-    r"\bColts\b", r"\bIndianapolis\b", r"\bIndy\b",
-    r"\bCardinals\b", r"\bArizona\b", r"\bAZ\b",
-    r"\bEagles\b", r"\bPhiladelphia\b", r"\bPhilly\b"
-]
-DROP_PATTERNS = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
+KEEP = [r"\bColts\b", r"\bIndianapolis\b"]
+DROP = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
 
 def text_ok(title: str, summary: str) -> bool:
     t = f"{title} {summary}"
-    if not any(re.search(p, t, re.I) for p in KEEP_PATTERNS): return False
-    if any(re.search(p, t, re.I) for p in DROP_PATTERNS): return False
+    if not any(re.search(p, t, re.I) for p in KEEP): return False
+    if any(re.search(p, t, re.I) for p in DROP): return False
     return True
 
 def parse_time(entry):
@@ -103,10 +83,12 @@ def parse_time(entry):
                 return time.strftime("%Y-%m-%dT%H:%M:%S%z", entry[key])
             except Exception:
                 pass
-    return now_iso()
+    return now_iso()  # fallback → dates always render
 
-# --- pipeline ----------------------------------------------------------------
+def source_label(link: str, feed_name: str) -> str:
+    return ALIASES.get(_host(link), feed_name.strip())
 
+# ---------------- pipeline ----------------
 def fetch_all():
     items, seen = [], set()
     for f in FEEDS:
@@ -122,7 +104,7 @@ def fetch_all():
             if key in seen: continue
 
             src = source_label(link, fname)
-            if src not in ALLOWED_SOURCES:  # hard whitelist keeps Source menu clean
+            if src not in ALLOWED_SOURCES:
                 continue
 
             title = (e.get("title") or "").strip()
@@ -135,7 +117,7 @@ def fetch_all():
                 "link": link,
                 "source": src,
                 "feed": fname,
-                "published": parse_time(e),  # ISO string
+                "published": parse_time(e),
                 "summary": summary,
             })
             seen.add(key)
@@ -147,10 +129,14 @@ def write_items(items):
     payload = {
         "updated": now_iso(),
         "items": items,
-        "links": STATIC_LINKS  # ALWAYS write buttons so UI never "loses" them
+        "links": STATIC_LINKS,       # buttons always present
+        "sources": CURATED_SOURCES,  # dropdown never disappears
     }
     with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-if __name__ == "__main__":
+def main():
     write_items(fetch_all())
+
+if __name__ == "__main__":
+    main()
