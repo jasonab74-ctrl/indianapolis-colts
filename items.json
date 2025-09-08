@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-08T03:56:30+00:00",
+  "updated": "2025-09-08T04:41:33+00:00",
   "items": [
+    {
+      "id": "ce12a3aaa378e406",
+      "title": "'Little more special': Colts dedicate win to Irsays",
+      "link": "https://espn.com/nfl/story/_/id/46191424/colts-dedicate-daniel-jones-led-win-late-owner-jim-irsay-family",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-08T05:01:57+0000",
+      "summary": "Daniel Jones had a historic debut for the Colts, but the team's emotional rout of the Dolphins was \"a little more special\" on a day it honored late owner Jim Irsay."
+    },
     {
       "id": "4cb44380755b6b67",
       "title": "Colts vs. Dolphins: Highlights from Indianapolis' Week 1 win",
@@ -11,40 +20,13 @@
       "summary": "Here are the best highlights from the Colts' Week 1 win over the Dolphins."
     },
     {
-      "id": "fd7c57489d429e35",
-      "title": "Questions, takeaways off every NFL Week 1 game: How good was Micah Parsons' debut? Have the Colts found their QB?",
-      "link": "https://espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-08T03:21:39+0000",
-      "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 1."
-    },
-    {
-      "id": "ce12a3aaa378e406",
-      "title": "'Little more special': Colts dedicate win to Irsays",
-      "link": "https://espn.com/nfl/story/_/id/46191424/colts-dedicate-daniel-jones-led-win-late-owner-jim-irsay-family",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-08T03:08:06+0000",
-      "summary": "Daniel Jones had a historic debut for the Colts, but the team's emotional rout of the Dolphins was \"a little more special\" on a day it honored late owner Jim Irsay."
-    },
-    {
-      "id": "874b7de8309c8cd7",
-      "title": "McDaniel: Dolphins' woes in opener not all on Tua",
-      "link": "https://espn.com/nfl/story/_/id/46189727/mike-mcdaniel-too-many-dolphins-failed-execute-vs-colts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-08T03:08:05+0000",
-      "summary": "Tua Tagovailoa wasn't good enough in the Dolphins' season-opening 33-8 loss Sunday to the Colts, but in his defense, no Dolphins player was. \"Like the rest of the team, [his performance] wasn't good enough,\" coach Mike McDaniel said."
-    },
-    {
       "id": "e39e1e9b203a1e61",
       "title": "Colts honor late owner with 'win for Jim' mantra, Ring of Honor induction",
       "link": "https://fox59.com/sports/colts/colts-honor-late-owner-with-win-for-jim-mantra-ring-of-honor-induction/",
       "source": "FOX59",
       "feed": "FOX59",
       "published": "2025-09-08T02:30:32+0000",
-      "summary": "INDIANAPOLIS — Leading up to Week 1, the message around Horseshoe Headquarters was simple — win for Jim. The Colts did exactly that on Sunday afternoon with a dominant victory over the Miami Dolphins. With the roof and window open at Lucas Oil Stadium, the Colts snapped a 12-year winless streak of season-openers, and everyone felt [...]"
+      "summary": "INDIANAPOLIS — Leading up to Week 1, the message around Horseshoe Headquarters was simple — win for Jim. The Colts did exactly that on Sunday afternoon with a dominant victory over the Miami Dolphins. With the roof and window open at Lucas Oil Stadium, the Colts snapped a 12-year winless streak of season-openers, and everyone felt [...]"
     },
     {
       "id": "68ff40fb0cb73cd7",
@@ -540,6 +522,24 @@
       "feed": "FOX59",
       "published": "2025-09-01T13:09:15+0000",
       "summary": "INDIANAPOLIS – A former Colt is coming home. Anthony Walker Jr., a member of general manager Chris Ballard’s first draft class in 2017, has been signed to Indy’s practice squad. He went through a workout last week. Walker, 30, was a fifth-round pick in ’17 out of Northwestern who would develop from a special teams [...]"
+    },
+    {
+      "id": "27df9d7adfd6d917",
+      "title": "Colts giving Joe Bachie an opportunity to return to linebacker roots",
+      "link": "https://fox59.com/sports/colts/colts-giving-joe-bachie-an-opportunity-to-return-to-linebacker-roots/",
+      "source": "FOX59",
+      "feed": "FOX59",
+      "published": "2025-08-28T21:04:57+0000",
+      "summary": "INDIANAPOLIS – Joe Bachie’s cell phone sprang to life in early May. Opportunity was calling. First and foremost, it was an opportunity to extend and perhaps expand his NFL career. Bachie had spent four of his five seasons with the Cincinnati Bengals but was an unrestricted free agent. “I had something else lined up,’’ he [...]"
+    },
+    {
+      "id": "44f6a783e1204de9",
+      "title": "Chris Ballard on benched Anthony Richardson Sr.: ‘We’re not trading him’",
+      "link": "https://fox59.com/sports/colts/chris-ballard-on-benched-anthony-richardson-sr-were-not-trading-him/",
+      "source": "FOX59",
+      "feed": "FOX59",
+      "published": "2025-08-27T22:13:32+0000",
+      "summary": "INDIANAPOLIS – Despite the team’s actions to the contrary, Chris Ballard remains bullish on the 20-year-old quarterback he selected with the No. 4 overall pick in the 2023 draft. You know, the one Shane Steichen and the Indianapolis Colts have benched twice in less than 10 months. That would be Anthony Richardson Sr., now 23. [...]"
     }
   ],
   "links": [
