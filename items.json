@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-08T23:28:55+00:00",
+  "updated": "2025-09-08T23:41:40+00:00",
   "items": [
     {
       "id": "5c6d29fee584ff1e",
@@ -18,6 +18,15 @@
       "feed": "ESPN",
       "published": "2025-09-08T23:45:36+0000",
       "summary": "NFL stars didn't just show up to play -- they showed up in style. From Joe Burrow to Jayden Daniels, here are the best looks from the first Sunday of the season."
+    },
+    {
+      "id": "6ada8e6b5fa5d08a",
+      "title": "Michigan national champions JJ McCarthy, Colston Loveland set for NFL debuts on Monday Night Football",
+      "link": "https://sportingnews.com/us/ncaa-football/michigan/news/michigan-national-champions-jj-mccarthy-colston-loveland-set-nfl-debuts-monday-night-football/20e97557953f3d236f9b09be",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-08T23:29:53+0000",
+      "summary": "Vikings' JJ McCarthy and Bears' Colston Loveland were national champion teammates at Michigan, and now they'll face each other in their NFL debuts on Monday Night Football."
     },
     {
       "id": "41be5f9d98842b51",
@@ -63,24 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-08T23:00:56+0000",
       "summary": "Does Shai Gilgeous-Alexander believe he could've made the NFL?"
-    },
-    {
-      "id": "411b46d8368ed8bf",
-      "title": "NFL Inactive Report",
-      "link": "https://sports.yahoo.com/article/nfl-inactive-report-224821601.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T22:48:21+0000",
-      "summary": ""
-    },
-    {
-      "id": "a8b0d0cb8aad6436",
-      "title": "'Our future home in Arlington Heights': Chicago Bears president writes letter to fans. Read it here",
-      "link": "https://pjstar.com/story/sports/nfl/2025/09/08/chicago-bears-stadium-kevin-warren-full-letter-to-fans/86049527007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T22:45:29+0000",
-      "summary": "Chicago Bears boss Kevin Warren says the team's future home will be in Arlington Heights. Read his entire letter to the NFL team's fan base."
     },
     {
       "id": "e5d0917f822ac089",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-01T20:35:32+0000",
       "summary": "The Colts benefited from intense competition up and down the roster throughout preseason, and are quickly coming up on their first opportunity to show their growth as a team."
+    },
+    {
+      "id": "1e6c9fbf3c232fb1",
+      "title": "Colts sign LB Anthony Walker Jr. to practice squad, release DT Josh Tupou from practice squad",
+      "link": "https://colts.com/news/colts-sign-lb-anthony-walker-jr-to-practice-squad-release-dt-josh-tupou-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-01T13:33:40+0000",
+      "summary": "The Colts made the roster move on Monday."
     }
   ],
   "links": [
