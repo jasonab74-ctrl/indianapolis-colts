@@ -1,23 +1,239 @@
+/* ==========================================================================
+   Indianapolis Colts — UI Theme (style-only)
+   File: /static/style.css
+   --------------------------------------------------------------------------
+   Goals
+   - Keep your current HTML/JS exactly the same (no markup edits needed)
+   - Sharper Colts branding, better spacing, stronger hierarchy
+   - Carded article list with subtle depth
+   - Clean “pill” buttons row with hover/active states
+   - Works in light & dark, respects system preference
+   - Mobile-first, looks crisp on iOS “Add to Home Screen”
+   ========================================================================== */
+
+/* ----------------------------- Theme tokens ------------------------------ */
 :root{
-  --blue:#002C5F;
-  --light:#f6f8fb;
-  --pill:#eef2f7;
-  --text:#0b1320;
+  /* Colts brand */
+  --colts-blue: #003A70;         /* speed blue */
+  --colts-blue-600:#0b4a85;
+  --colts-blue-700:#083764;
+  --colts-gray: #A2AAAD;         /* silver/gray */
+  --colts-gray-700:#5b6165;
+
+  /* UI neutrals */
+  --bg: #ffffff;
+  --bg-soft: #f7f8fa;
+  --text: #101318;
+  --text-muted:#616770;
+  --border:#E5E7EB;
+  --shadow: 0 1px 2px rgba(0,0,0,.06), 0 8px 24px rgba(0,0,0,.06);
+
+  /* Pills + cards */
+  --pill-bg:#f0f3f6;
+  --pill-text:#0b2745;
+  --pill-hover:#e5ebf2;
+  --pill-active: #dce7f7;
+
+  --card-bg:#ffffff;
+  --card-title:#0a2540;
+  --card-meta:#5b6675;
+
+  /* Accent for focus rings */
+  --ring: 0 0 0 .15rem rgba(0,58,112,.25);
+
+  /* Radii */
+  --r-pill: 48px;
+  --r-regular: 16px;
+
+  /* Rhythm */
+  --space-1: .25rem;
+  --space-2: .5rem;
+  --space-3: .75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
 }
+
+/* Auto dark mode */
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0f141a;
+    --bg-soft:#121a22;
+    --text:#eef3f8;
+    --text-muted:#a8b0ba;
+    --border:#1e2a36;
+    --shadow: 0 1px 2px rgba(0,0,0,.35), 0 14px 34px rgba(0,0,0,.45);
+
+    --pill-bg:#182231;
+    --pill-text:#d7e4f6;
+    --pill-hover:#1b2a3d;
+    --pill-active:#1e3552;
+
+    --card-bg:#121a22;
+    --card-title:#eaf1f9;
+    --card-meta:#9fb0c2;
+  }
+}
+
+/* ------------------------------ Base reset ------------------------------- */
 *{box-sizing:border-box}
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,sans-serif;background:#fff;color:var(--text)}
-.site-header{display:flex;align-items:center;gap:.6rem;padding:14px 16px;border-bottom:3px solid var(--blue);background:var(--light)}
-.logo{height:28px;width:auto}
-h1{font-size:1.4rem;margin:0}
-.pill-row{display:flex;flex-wrap:wrap;gap:.6rem;padding:12px 12px 4px}
-.pill{display:inline-block;padding:.55rem .9rem;border-radius:999px;background:var(--pill);text-decoration:none;color:var(--text);font-weight:600}
-.controls{display:flex;align-items:center;justify-content:space-between;padding:10px 12px}
-.control label{font-weight:700;margin-right:.4rem}
-#sourceSelect{padding:.45rem .6rem;border-radius:.6rem;border:1px solid #ccd3e0;background:#fff}
-main{padding:8px 12px 40px}
-.card{background:var(--light);border-radius:14px;padding:14px;margin:10px 0}
-.card .title{font-weight:800;text-decoration:none;color:var(--text);display:block}
-.card .meta{opacity:.7;margin-top:6px;font-size:.9rem}
-@media (min-width:768px){
-  main{max-width:860px;margin:0 auto}
+html,body{height:100%}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font: 400 16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
+
+/* ------------------------------ Header band ------------------------------ */
+.header,
+.banner,
+.topbar{
+  /* bind to whatever your header container is named */
+  background: linear-gradient(180deg, var(--colts-blue) 0%, var(--colts-blue-700) 100%);
+  color:#fff;
+  padding: calc(env(safe-area-inset-top) + var(--space-5)) var(--space-5) var(--space-5);
+}
+.header h1,.banner h1,.topbar h1{
+  margin:.2rem 0 0;
+  font-size: clamp(1.6rem, 4.8vw, 2.25rem);
+  line-height:1.1;
+  letter-spacing:.2px;
+}
+.subhead{
+  color: rgba(255,255,255,.85);
+  font-size:.95rem;
+  margin-top:.25rem;
+}
+
+/* ------------------------------ Controls row ----------------------------- */
+.controls, .filters, .toolbar{
+  display:flex;
+  flex-wrap:wrap;
+  gap: var(--space-3) var(--space-4);
+  align-items:center;
+  padding: var(--space-5) var(--space-5) 0;
+}
+
+/* Source dropdown + timestamp */
+select, .select{
+  appearance:none;
+  background:var(--pill-bg);
+  color:var(--pill-text);
+  border:1px solid var(--border);
+  border-radius: var(--r-pill);
+  padding:.65rem 2.25rem .65rem .95rem;
+  font-weight:600;
+  outline:none;
+  transition: .18s ease border-color, .18s ease background;
+}
+select:focus{ box-shadow: var(--ring); border-color: var(--colts-blue); }
+.label{
+  font-weight:700;
+  color:var(--text-muted);
+  margin-right:.4rem;
+}
+.updated{
+  color:var(--text-muted);
+  font-size:.95rem;
+}
+
+/* ------------------------------- Pills row ------------------------------- */
+.pills, .links, .quick-actions{
+  padding: var(--space-5);
+  display:grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--space-4);
+}
+
+a.pill, .pill, .btn, .chip{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:.5ch;
+  padding:.70rem 1.05rem;
+  background:var(--pill-bg);
+  color:var(--pill-text);
+  font-weight:700;
+  border:1px solid var(--border);
+  border-radius: var(--r-pill);
+  text-decoration:none;
+  white-space:nowrap;
+  transition: .18s ease transform, .18s ease background, .18s ease border-color, .18s ease color;
+}
+a.pill:hover, .pill:hover, .btn:hover, .chip:hover{
+  background:var(--pill-hover);
+  transform: translateY(-1px);
+}
+a.pill:active, .pill:active, .btn:active{ background:var(--pill-active); transform:none; }
+a.pill:focus-visible, .pill:focus-visible, .btn:focus-visible{ outline:none; box-shadow: var(--ring); }
+
+/* Primary variant (use by adding .primary to any pill/button) */
+.pill.primary, .btn.primary{
+  background: linear-gradient(180deg, #0e56a0, var(--colts-blue));
+  color:#fff;
+  border-color: transparent;
+}
+.pill.primary:hover, .btn.primary:hover{ filter: brightness(1.06); }
+
+/* ------------------------------ Article list ----------------------------- */
+.list, .feed, .items{ padding: 0 var(--space-5) var(--space-6); }
+.card, .item{
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--r-regular);
+  box-shadow: var(--shadow);
+  padding: var(--space-5);
+  margin: var(--space-4) 0;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.card:hover, .item:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 2px 6px rgba(0,0,0,.08), 0 16px 28px rgba(0,0,0,.10);
+}
+.item-title, .title, .card h3{
+  margin:0 0 .35rem;
+  font-weight: 800;
+  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  line-height:1.25;
+  color: var(--card-title);
+}
+.item-title a{ color: inherit; text-decoration: none; }
+.item-title a:hover{ text-decoration: underline; }
+
+.meta, .item-meta{
+  display:flex; flex-wrap:wrap; gap:.6rem 1rem;
+  color: var(--card-meta);
+  font-size:.93rem;
+}
+
+/* ------------------------------ Utilities -------------------------------- */
+.container{ max-width:980px; margin-inline:auto; }
+.section{ padding: var(--space-5) 0; }
+.hidden{ display:none !important; }
+
+/* Small helper for “Powered by …” footer line */
+.footer{
+  padding: var(--space-6) var(--space-5);
+  color: var(--text-muted);
+  font-size:.95rem;
+}
+
+/* ------------------------------ Animations ------------------------------- */
+@media (prefers-reduced-motion: no-preference){
+  .fade-in{ animation: fade .3s ease-out both; }
+  @keyframes fade{ from{opacity:0; transform:translateY(4px)} to{opacity:1; transform:none} }
+}
+
+/* ------------------------------ iOS tweaks --------------------------------
+   Ensures full-bleed header & safe area spacing when saved to Home Screen */
+@supports(padding: max(0px)){
+  body{ padding-bottom: max(env(safe-area-inset-bottom), 0px); }
+  .header,.banner,.topbar{ padding-left: max(env(safe-area-inset-left), var(--space-5)); padding-right:max(env(safe-area-inset-right), var(--space-5)); }
+}
+
+/* ------------------------------ Brand accents ---------------------------- */
+/* Optional: tiny vertical brand bar (if you have a top divider element) */
+.brand-divider{ height:3px; background: linear-gradient(90deg, var(--colts-blue) 0%, var(--colts-gray) 100%); border:none; }
