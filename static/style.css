@@ -1,95 +1,65 @@
-/* Base */
 :root{
-  --blue-900:#002c5f;      /* Colts dark */
-  --blue-800:#003b75;
-  --blue-700:#0058a0;
-  --blue-600:#0072ce;
-  --ink:#0b1a2b;           /* body text */
-  --muted:#6b7a90;
-  --bg:#f4f7fb;            /* page bg */
-  --card:#ffffff;          /* card bg */
-  --ring:rgba(0,44,95,.12);
+  --primary:#003A70;      /* Colts blue */
+  --accent:#A5ACAF;       /* silver/gray accent */
+  --bg:#0b0f14;
+  --card:#111823;
+  --pill:#e8edf4;
+  --text:#f2f6fb;
+  --muted:#c8d2df;
 }
-
 *{box-sizing:border-box}
-html,body{margin:0;padding:0}
 body{
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  margin:0;
+  font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   background:var(--bg);
-  color:var(--ink);
+  color:var(--text);
 }
 
-/* Hero */
+/* ----- HEADER ----- */
 .hero{
-  background:linear-gradient(180deg, var(--blue-800), var(--blue-700));
-  color:#fff;
-  padding:18px 16px;
+  display:flex; align-items:center; gap:14px;
+  padding:16px; background:var(--primary);
+  border-bottom:4px solid var(--accent);
 }
-.hero__row{display:flex;gap:14px;align-items:center;max-width:980px;margin:0 auto}
-.hero__logo{width:56px;height:56px;object-fit:contain;border-radius:8px;background:#fff;padding:6px}
-.hero__titles h1{font-size:28px;line-height:1.15;margin:0 0 4px}
-.hero__tag{margin:0;opacity:.9}
+.logo-box{
+  width:64px; height:64px; border-radius:12px; background:#fff;
+  display:flex; align-items:center; justify-content:center; overflow:hidden;
+  box-shadow:0 1px 4px rgba(0,0,0,.35);
+}
+.logo-box img{max-width:100%;max-height:100%;display:block}
 
-/* Chips */
-.chips{max-width:980px;margin:12px auto;display:flex;flex-wrap:wrap;gap:10px;padding:0 12px}
-.chip{
-  display:inline-block;
-  padding:10px 14px;
-  border-radius:999px;
-  background:#e6eef7;
-  color:var(--blue-900);
-  text-decoration:none;
-  font-weight:600;
-  box-shadow:0 1px 0 var(--ring);
-  transition:transform .05s ease, background .15s ease;
-}
-.chip:active{transform:translateY(1px)}
-.chip:hover{background:#d9e7f6}
+.hero-titles h1{margin:0;font-size:1.8rem;color:#fff;line-height:1.05}
+.hero-titles .sub{color:#eaf2ff;opacity:.9;font-size:.92rem}
 
-/* Toolbar */
-.toolbar{max-width:980px;margin:12px auto 0;padding:0 12px;display:flex;justify-content:space-between;align-items:center;gap:10px}
-.toolbar__group{display:flex;align-items:center;gap:8px}
-#source-select{
-  appearance:none;
-  padding:.55rem .9rem;
-  border-radius:12px;
-  border:1px solid #d5dee9;
-  background:#fff;
-  color:var(--ink);
-  font-weight:600;
+/* Fight song button with play icon */
+.fight-btn{
+  margin-left:auto; display:inline-flex; align-items:center; gap:.5rem;
+  background:#ffffff; color:var(--primary);
+  text-decoration:none; padding:.6rem 1rem; border-radius:999px;
+  font-weight:800; font-size:.95rem; border:1px solid rgba(0,0,0,.06);
+  box-shadow:0 1px 4px rgba(0,0,0,.28);
+  transition:transform .06s ease, background .2s ease, color .2s ease;
 }
+.fight-btn .icon{width:18px;height:18px;fill:var(--primary);flex:0 0 auto}
+.fight-btn:hover{background:var(--accent);color:#0c0f13}
+.fight-btn:hover .icon{fill:#0c0f13}
+.fight-btn:active{transform:translateY(1px)}
 
-/* Articles */
-.articles{max-width:980px;margin:10px auto 32px;padding:0 12px}
-.article{
-  background:var(--card);
-  border-radius:14px;
-  padding:14px 16px;
-  margin:12px 0;
-  box-shadow:0 1px 2px rgba(0,0,0,.06),0 6px 18px rgba(0,44,95,.06);
-}
-.article h2{
-  margin:0 0 6px;
-  font-size:18px;
-  line-height:1.25;
-}
-.article h2 a{
-  color:var(--blue-900);
-  text-decoration:none;
-}
-.article h2 a:hover{text-decoration:underline}
-.meta{
-  color:var(--muted);
-  font-size:14px;
-  display:flex;
-  gap:8px;
-  flex-wrap:wrap;
-}
+/* ----- QUICK LINKS ----- */
+.pill-row{display:flex;flex-wrap:wrap;gap:.6rem;padding:12px}
+.pill{display:inline-block;padding:.55rem .9rem;border-radius:999px;background:var(--pill);color:#0c1420;text-decoration:none;font-weight:800}
 
-/* Footer */
-.footer{
-  color:var(--muted);
-  font-size:13px;
-  text-align:center;
-  padding:24px 0 40px;
+/* ----- CONTROLS ----- */
+.controls{display:flex;justify-content:space-between;align-items:center;padding:8px 12px}
+.controls label{font-weight:800;margin-right:.4rem}
+#sourceSelect{padding:.45rem .6rem;border-radius:.6rem;border:1px solid #b6c3d1;background:#fff;color:#0c1420}
+
+/* ----- CARDS ----- */
+main{padding:6px 12px 40px}
+.card{background:var(--card);border-radius:16px;padding:14px;margin:10px 0}
+.title{font-weight:900;text-decoration:none;color:var(--text);display:block}
+.meta{color:var(--muted);margin-top:6px;font-size:.92rem}
+
+@media(min-width:768px){
+  main{max-width:860px;margin:0 auto}
 }
