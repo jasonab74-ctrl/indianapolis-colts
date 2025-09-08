@@ -1,62 +1,171 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Indianapolis Colts — News</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Team News — Sports App</title>
 
-  <!-- PWA / icons (optional but nice) -->
-  <link rel="icon" href="static/logo.png" />
-  <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
+  <!-- icons/manifest (relative → safe for GitHub Pages subfolders) -->
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#004c54">
 
-  <!-- Styles -->
-  <link rel="stylesheet" href="static/style.css" />
+  <link rel="stylesheet" href="static/style.css">
+  <style>
+    /* minimal resilient styling to ensure buttons/dates show even if CSS fails to load */
+    .pill-row{display:flex;flex-wrap:wrap;gap:.6rem;padding:12px}
+    .pill{padding:.55rem .9rem;border-radius:999px;background:#e7edf1;color:#0b1320;text-decoration:none;font-weight:600}
+    .controls{display:flex;justify-content:space-between;align-items:center;padding:8px 12px}
+    .card{background:#0f1c20;border-radius:14px;padding:14px;margin:10px 12px;color:#e8f0f3}
+    .title{font-weight:800;text-decoration:none;color:#e8f0f3;display:block}
+    .meta{opacity:.8;margin-top:6px;font-size:.9rem}
+    header.hero{display:flex;gap:12px;align-items:center;padding:14px 12px;background:#0a3a3f}
+    .logo-box{width:64px;height:64px;border-radius:12px;background:#123;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .logo-box img{max-width:100%;max-height:100%}
+    .badge{background:#e7edf1;color:#0b1320;border-radius:999px;padding:.4rem .8rem;font-weight:700}
+    select{padding:.45rem .6rem;border-radius:.6rem;border:1px solid #c5d2db}
+  </style>
 </head>
 <body>
   <header class="hero">
-    <div class="hero__row">
-      <img class="hero__logo" src="static/logo.png" alt="Indianapolis Colts logo" />
-      <div class="hero__titles">
-        <h1>Indianapolis Colts — News</h1>
-        <p class="hero__tag">Live team feed • auto-updates</p>
-      </div>
+    <div class="logo-box">
+      <img id="teamLogo" alt="Team logo" />
     </div>
+    <div style="flex:1">
+      <h1 id="pageTitle" style="margin:0;font-size:1.6rem">Team — News</h1>
+      <div style="opacity:.85;margin-top:4px">Live team feed · auto-updates</div>
+    </div>
+    <a id="fightBtn" class="badge" href="#" target="_blank" rel="noopener">Fight Song</a>
   </header>
 
-  <nav class="chips" id="quick-links">
-    <a class="chip" href="https://www.colts.com/schedule" target="_blank" rel="noopener">Schedule</a>
-    <a class="chip" href="https://www.colts.com/team/players-roster/" target="_blank" rel="noopener">Roster</a>
-    <a class="chip" href="https://www.colts.com/team/depth-chart" target="_blank" rel="noopener">Depth Chart</a>
-    <a class="chip" href="https://www.colts.com/team/injury-report/" target="_blank" rel="noopener">Injury Report</a>
-    <a class="chip" href="https://www.colts.com/tickets/" target="_blank" rel="noopener">Tickets</a>
-    <a class="chip" href="https://shop.colts.com/" target="_blank" rel="noopener">Team Shop</a>
-    <a class="chip" href="https://www.reddit.com/r/Colts/" target="_blank" rel="noopener">Reddit</a>
-    <a class="chip" href="https://bleacherreport.com/indianapolis-colts" target="_blank" rel="noopener">Bleacher Report</a>
-    <a class="chip" href="https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts" target="_blank" rel="noopener">ESPN Team</a>
-    <a class="chip" href="https://sports.yahoo.com/nfl/teams/ind/" target="_blank" rel="noopener">Yahoo Team</a>
-    <a class="chip" href="https://www.pff.com/nfl/teams/colts" target="_blank" rel="noopener">PFF Team Page</a>
-    <a class="chip" href="https://www.pro-football-reference.com/teams/clt/" target="_blank" rel="noopener">Pro-Football-Reference</a>
-    <a class="chip" href="https://www.nfl.com/standings/" target="_blank" rel="noopener">NFL Power Rankings</a>
-    <a class="chip" href="https://www.espn.com/nfl/stats/team" target="_blank" rel="noopener">Stats</a>
-    <a class="chip" href="https://www.nfl.com/standings/" target="_blank" rel="noopener">Standings</a>
-  </nav>
+  <!-- Buttons row (ALWAYS rendered from items.json.links) -->
+  <div id="links" class="pill-row"></div>
 
-  <section class="toolbar">
-    <div class="toolbar__group">
-      <label for="source-select">Source:</label>
-      <select id="source-select"></select>
+  <section class="controls">
+    <div>
+      <label><strong>Source:</strong></label>
+      <select id="sourceSelect"></select>
     </div>
-    <div class="toolbar__group">
-      <span id="updated-label">Updated: —</span>
+    <div>
+      <label><strong>Updated:</strong></label>
+      <span id="updated">—</span>
     </div>
   </section>
 
-  <main id="articles" class="articles"></main>
+  <main id="feed"></main>
 
-  <footer class="footer">
-    Powered by GitHub Pages
-  </footer>
+  <script>
+    // --- Team skinning (works across Eagles/Colts/Cardinals etc.)
+    const TEAM = (function(){
+      const path = location.pathname.toLowerCase();
+      if (path.includes("eagles")) return {name:"Philadelphia Eagles", color:"#004c54", logo:"static/eagles.png", song:"/fightsong"};
+      if (path.includes("colts"))  return {name:"Indianapolis Colts",   color:"#002c5f", logo:"static/colts-logo.png", song:"/fightsong"};
+      if (path.includes("cardinals")) return {name:"Arizona Cardinals", color:"#97233f", logo:"static/cardinals.png", song:"/fightsong"};
+      return {name:"Team", color:"#0a3a3f", logo:"static/logo.png", song:"/fightsong"};
+    })();
 
-  <script src="static/app.js"></script>
+    document.querySelector('meta[name="theme-color"]').setAttribute('content', TEAM.color);
+    document.querySelector('header.hero').style.background = TEAM.color;
+    document.getElementById('pageTitle').textContent = `${TEAM.name} — News`;
+    (async()=>{
+      // load logo if present; otherwise leave blank gracefully
+      try{
+        const r = await fetch(TEAM.logo, {method:"HEAD"});
+        if(r.ok) document.getElementById('teamLogo').src = TEAM.logo;
+      }catch(_){}
+    })();
+    document.getElementById('fightBtn').href = TEAM.song;
+    document.getElementById('fightBtn').textContent = TEAM.name.includes("Eagles") ? "Fly Eagles Fly" :
+                                                      TEAM.name.includes("Colts") ? "Fight" :
+                                                      TEAM.name.includes("Cardinals") ? "Rise Up Red Sea" : "Fight Song";
+
+    const feedEl = document.getElementById('feed');
+    const updatedEl = document.getElementById('updated');
+    const sourceSelect = document.getElementById('sourceSelect');
+    const linksEl = document.getElementById('links');
+
+    function fmtLocal(iso){
+      try{
+        const d = new Date(iso);
+        return d.toLocaleString([], {year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
+      }catch(_){ return iso || ''; }
+    }
+
+    function renderLinks(links) {
+      linksEl.innerHTML = '';
+      (links || []).forEach(l => {
+        const a = document.createElement('a');
+        a.className = 'pill';
+        a.href = l.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.textContent = l.label;
+        linksEl.appendChild(a);
+      });
+    }
+
+    function buildSourceDropdown(items) {
+      const sources = Array.from(new Set((items||[]).map(i => i.source).filter(Boolean))).sort();
+      sourceSelect.innerHTML = '';
+      const all = document.createElement('option');
+      all.value = '';
+      all.textContent = 'All sources';
+      sourceSelect.appendChild(all);
+      sources.forEach(s => {
+        const o = document.createElement('option');
+        o.value = s; o.textContent = s;
+        sourceSelect.appendChild(o);
+      });
+    }
+
+    function renderItems(items) {
+      feedEl.innerHTML = '';
+      (items||[]).forEach(it => {
+        const card = document.createElement('article');
+        card.className = 'card';
+        const link = document.createElement('a');
+        link.className = 'title';
+        link.href = it.link; link.target = '_blank'; link.rel = 'noopener';
+        link.textContent = it.title || '(no title)';
+        const meta = document.createElement('div');
+        meta.className = 'meta';
+        meta.textContent = `${it.source || it.feed || ''} • ${fmtLocal(it.published)}`;
+        card.appendChild(link);
+        card.appendChild(meta);
+        feedEl.appendChild(card);
+      });
+    }
+
+    function applyFilter(all) {
+      const src = sourceSelect.value;
+      renderItems(src ? all.filter(i => i.source === src) : all);
+    }
+
+    // --- Robust auto-refresh: always re-render links + sources + dates
+    async function loadAndRender(initial=false){
+      try{
+        const r = await fetch('items.json', {cache:'no-cache'});
+        const data = await r.json();
+        updatedEl.textContent = fmtLocal(data.updated || '');
+        renderLinks(data.links || []);                  // buttons restored every load
+        buildSourceDropdown(data.items || []);          // dropdown rebuilt every load
+        renderItems(data.items || []);
+        if (initial){
+          sourceSelect.addEventListener('change', () => applyFilter(data.items || []));
+        } else {
+          // if user has a source selected, preserve it after refresh
+          applyFilter(data.items || []);
+        }
+      }catch(e){
+        updatedEl.textContent = 'load failed';
+      }
+    }
+
+    loadAndRender(true);
+    // every 5 minutes
+    setInterval(() => loadAndRender(false), 5 * 60 * 1000);
+  </script>
 </body>
 </html>
