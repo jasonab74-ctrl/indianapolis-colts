@@ -1,6 +1,24 @@
 {
-  "updated": "2025-09-08T16:45:27+00:00",
+  "updated": "2025-09-08T17:32:55+00:00",
   "items": [
+    {
+      "id": "af970f84ef4ecee5",
+      "title": "Harlem Globetrotters bringing gravity-defying 100 Year tour to Gainbridge Fieldhouse",
+      "link": "https://wishtv.com/news/local-news/harlem-globetrotters-indianapolis-tour/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T17:26:02+0000",
+      "summary": "The Harlem Globetrotters are coming to Indianapolis as part of their 100 Year Tour, with two games scheduled at Gainbridge Fieldhouse on January 17th, featuring gravity-defying dunks, game-changing tricks, and a free 5th Quarter Autograph session."
+    },
+    {
+      "id": "4c63abad6db5fd3e",
+      "title": "Heather Lloyd’s Colts victory blazer shines after Week 1 win",
+      "link": "https://wishtv.com/news/local-news/daniel-jones-leads-colts-victory/",
+      "source": "WISH-TV",
+      "feed": "WISH-TV",
+      "published": "2025-09-08T16:52:50+0000",
+      "summary": "The Indianapolis Colts snapped their Week 1 winless drought, dominating the Miami Dolphins 33-8 at Lucas Oil Stadium, with Daniel Jones leading the offense and the defense making a major impact."
+    },
     {
       "id": "6ed79dbfce653c72",
       "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
@@ -9,15 +27,6 @@
       "feed": "ESPN",
       "published": "2025-09-08T16:52:10+0000",
       "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
-    },
-    {
-      "id": "ded6bf54671c0bb7",
-      "title": "5 snap count takeaways from Colts Week 1 win vs. Dolphins",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/08/colts-dolphins-5-snap-count-takeaways-week-1-win/86042626007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-08T16:23:45+0000",
-      "summary": "Here are five snap count takeaways from the Indianapolis Colts' Week 1 win over the Dolphins."
     },
     {
       "id": "fffd11c5d73826f2",
@@ -135,24 +144,6 @@
       "feed": "WISH-TV",
       "published": "2025-09-08T01:14:58+0000",
       "summary": "Colts fans celebrated outside Lucas Oil Stadium as the Colts defeated the Miami Dolphins 33-8 in their first home opener since 2013, with a halftime ceremony honoring the late owner Jim Irsay."
-    },
-    {
-      "id": "ae9eed08f92da524",
-      "title": "‘Lights of Hope’ illuminates Indiana Statehouse for cancer survivors",
-      "link": "https://wishtv.com/news/indiana-news/lights-of-hope-illuminates-indiana-statehouse-for-cancer-survivors/",
-      "source": "WISH-TV",
-      "feed": "WISH-TV",
-      "published": "2025-09-08T00:14:55+0000",
-      "summary": "The American Cancer Society Cancer Action Network's 'Lights of Hope' event in Indianapolis honored cancer survivors and those affected by the disease with a message of hope, while also raising awareness about the need for increased funding for cancer research."
-    },
-    {
-      "id": "0beb730f03dac233",
-      "title": "8 must-read quotes from the Colts impressive Week 1 win",
-      "link": "https://wishtv.com/sports/indianapolis-colts/8-quotes-colts-week-1-win-2025/",
-      "source": "WISH-TV",
-      "feed": "WISH-TV",
-      "published": "2025-09-07T23:54:12+0000",
-      "summary": "The Colts dominated the Dolphins 33-8 in their Week 1 victory, with Daniel Jones making an impressive debut and Shane Steichen awarding game balls to the Irsay daughters in honor of their late father."
     },
     {
       "id": "5e669e386a31cedd",
@@ -539,6 +530,15 @@
       "source": "Colts.com",
       "feed": "Colts.com",
       "published": "2025-08-28T21:24:36+0000",
+      "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "02b7e30d2ef09a41",
+      "title": "Colts sign WR Laquon Treadwell to practice squad",
+      "link": "https://colts.com/news/colts-sign-wr-laquon-treadwell-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-08-28T18:58:44+0000",
       "summary": "The Colts made the roster move on Thursday."
     }
   ],
