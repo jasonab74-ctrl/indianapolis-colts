@@ -5,175 +5,204 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Indianapolis Colts — News</title>
 
-  <!-- PWA / icons (make sure these files exist in /static) -->
-  <link rel="icon" href="/indianapolis-colts/static/favicon.ico">
-  <link rel="apple-touch-icon" href="/indianapolis-colts/static/apple-touch-icon.png">
-  <link rel="manifest" href="/indianapolis-colts/static/manifest.webmanifest">
-  <meta name="theme-color" content="#0b3a79">
+  <!-- PWA / icons (use your existing files) -->
+  <link rel="manifest" href="/static/manifest.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16.png">
 
-  <link rel="stylesheet" href="/indianapolis-colts/static/style.css">
+  <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-<header class="hero">
-  <div class="hero__brand">
-    <img class="hero__logo" src="/indianapolis-colts/static/icon-192.png" alt="Colts logo" width="64" height="64">
-    <div>
-      <h1>Indianapolis Colts — News</h1>
+
+  <header class="site-header">
+    <img class="brand-mark" src="/static/logo.png" alt="Colts logo" width="60" height="60" />
+    <div class="title-block">
+      <h1>Indianapolis Colts — <span>News</span></h1>
       <p class="tagline">Live team feed • auto-updates</p>
     </div>
-  </div>
+  </header>
 
-  <nav class="quicklinks" aria-label="Quick links">
-    <a class="chip" target="_blank" href="https://www.colts.com/schedule/">Schedule</a>
-    <a class="chip" target="_blank" href="https://www.colts.com/team/players-roster/">Roster</a>
-    <a class="chip" target="_blank" href="https://www.colts.com/team/depth-chart">Depth Chart</a>
-    <a class="chip" target="_blank" href="https://www.colts.com/team/injury-report/">Injury Report</a>
-    <a class="chip" target="_blank" href="https://shop.colts.com/">Team Shop</a>
-    <a class="chip" target="_blank" href="https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805944">Tickets</a>
-    <a class="chip" target="_blank" href="https://www.reddit.com/r/Colts/">Reddit</a>
-
-    <a class="chip" target="_blank" href="https://bleacherreport.com/indianapolis-colts">Bleacher Report</a>
-    <a class="chip" target="_blank" href="https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts">ESPN Team</a>
-    <a class="chip" target="_blank" href="https://sports.yahoo.com/nfl/teams/ind/">Yahoo Team</a>
-    <a class="chip" target="_blank" href="https://www.pff.com/nfl/teams/indianapolis-colts">PFF Team Page</a>
-    <a class="chip" target="_blank" href="https://www.pro-football-reference.com/teams/clt/">Pro-Football-Reference</a>
-    <a class="chip" target="_blank" href="https://www.espn.com/nfl/powerrankings">NFL Power Rankings</a>
-    <a class="chip" target="_blank" href="https://www.teamrankings.com/nfl/teams/indianapolis-colts">Stats</a>
-    <a class="chip" target="_blank" href="https://www.espn.com/nfl/standings">Standings</a>
+  <nav class="pill-grid">
+    <a class="pill" href="https://www.colts.com/schedule/" target="_blank" rel="noopener">Schedule</a>
+    <a class="pill" href="https://www.colts.com/team/players-roster/" target="_blank" rel="noopener">Roster</a>
+    <a class="pill" href="https://www.colts.com/team/depth-chart" target="_blank" rel="noopener">Depth Chart</a>
+    <a class="pill" href="https://www.colts.com/team/injury-report" target="_blank" rel="noopener">Injury Report</a>
+    <a class="pill" href="https://shop.colts.com/" target="_blank" rel="noopener">Team Shop</a>
+    <a class="pill" href="https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805911" target="_blank" rel="noopener">Tickets</a>
+    <a class="pill" href="https://www.reddit.com/r/Colts/" target="_blank" rel="noopener">Reddit</a>
+    <a class="pill" href="https://bleacherreport.com/indianapolis-colts" target="_blank" rel="noopener">Bleacher Report</a>
+    <a class="pill" href="https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts" target="_blank" rel="noopener">ESPN Team</a>
+    <a class="pill" href="https://sports.yahoo.com/nfl/teams/ind/" target="_blank" rel="noopener">Yahoo Team</a>
+    <a class="pill" href="https://www.pff.com/nfl/teams/indianapolis-colts" target="_blank" rel="noopener">PFF Team Page</a>
+    <a class="pill" href="https://www.pro-football-reference.com/teams/clt/" target="_blank" rel="noopener">Pro-Football-Reference</a>
+    <a class="pill" href="https://www.nfl.com/news/power-rankings" target="_blank" rel="noopener">NFL Power Rankings</a>
+    <a class="pill" href="https://www.nfl.com/teams/indianapolis-colts/stats" target="_blank" rel="noopener">Stats</a>
+    <a class="pill" href="https://www.nfl.com/standings/league/2025/REG" target="_blank" rel="noopener">Standings</a>
   </nav>
-</header>
 
-<main class="content">
-  <section class="controls">
-    <div class="control-row">
-      <label class="label" for="sourceSelect">Source:</label>
-      <div class="select-wrap">
-        <select id="sourceSelect" aria-label="Filter by source"></select>
-      </div>
-
-      <div class="updated">
-        <span class="label">Updated:</span>
-        <time id="updatedAt" aria-live="polite">—</time>
-      </div>
+  <section class="toolbar">
+    <label for="sourceSelect">Source:</label>
+    <select id="sourceSelect" class="select"></select>
+    <div class="updated">
+      <span>Updated:</span> <time id="updatedAt">—</time>
     </div>
   </section>
 
-  <section id="feed" class="feed" aria-live="polite" aria-busy="true">
-    <!-- cards go here -->
-  </section>
+  <main id="feed" class="feed"></main>
 
   <footer class="footer">
-    Powered by GitHub Pages
+    <small>Powered by GitHub Pages</small>
   </footer>
-</main>
 
-<script>
-(async function () {
-  const FEED_URL = "/indianapolis-colts/items.json"; // must be at the repo root (Pages)
-  const feedEl   = document.getElementById('feed');
-  const selectEl = document.getElementById('sourceSelect');
-  const updatedEl= document.getElementById('updatedAt');
+  <script>
+    // ---- Utilities ---------------------------------------------------------
+    const PRETTY_LABEL = new Map(Object.entries({
+      "colts.com": "colts.com",
+      "nfl.com": "NFL.com — Indianapolis Colts",
+      "coltswire.usatoday.com": "Colts Wire (USA Today)",
+      "stampedeBlue.com": "Stampede Blue",
+      "stampedeblue.com": "Stampede Blue",
+      "sportsillustrated.com": "SI — Horseshoe Huddle",
+      "si.com": "SI — Horseshoe Huddle",
+      "profootballtalk.nbcsports.com": "ProFootballTalk — Colts",
+      "yahoo.com": "Yahoo Sports — Colts",
+      "bleacherreport.com": "Bleacher Report — Colts",
+      "reddit.com": "Reddit — r/Colts",
+      "fox59.com": "FOX59 — Colts",
+      "espn.com": "ESPN — Colts",
+      "cbsports.com": "CBS Sports — Colts",
+      "cbssports.com": "CBS Sports — Colts"
+    }));
 
-  function fmtDate(d) {
-    try {
-      const date = (d instanceof Date) ? d : new Date(d);
-      // Example: Sep 8, 2025, 4:41 AM
-      return date.toLocaleString(undefined, {
-        month: 'short', day: 'numeric', year: 'numeric',
-        hour: 'numeric', minute: '2-digit',
-        hour12: true
+    function hostnameFromUrl(u) {
+      try { return new URL(u).hostname.replace(/^www\./,'').toLowerCase(); }
+      catch { return ""; }
+    }
+
+    function labelFromItem(item) {
+      // Prefer explicit 'source' if present; otherwise derive from URL
+      const candidate = (item.source || "").toString().trim();
+      const lowered = candidate.toLowerCase();
+      if (PRETTY_LABEL.has(lowered)) return PRETTY_LABEL.get(lowered);
+      const host = hostnameFromUrl(item.link || item.url || "");
+      return PRETTY_LABEL.get(host) || (host || "Unknown");
+    }
+
+    function formatDate(s) {
+      if (!s) return "";
+      const d = new Date(s);
+      if (isNaN(d)) return "";
+      // Example: Sep 8, 2025, 10:14 AM
+      return d.toLocaleString("en-US", {
+        month: "short", day: "numeric", year: "numeric",
+        hour: "numeric", minute: "2-digit"
       });
-    } catch {
-      return '—';
-    }
-  }
-
-  function domainOf(url) {
-    try { return new URL(url).hostname.replace(/^www\./,''); }
-    catch { return ''; }
-  }
-
-  function unique(arr) { return [...new Set(arr)]; }
-
-  function renderCards(items) {
-    feedEl.innerHTML = '';
-    if (!items.length) {
-      feedEl.innerHTML = `<p class="empty">No articles yet — the collector will populate shortly.</p>`;
-      feedEl.setAttribute('aria-busy', 'false');
-      return;
     }
 
-    for (const it of items) {
-      const title = it.title || 'Untitled';
-      const href  = it.link  || '#';
-      const src   = it.source_name || domainOf(it.link) || 'Unknown';
-      const when  = it.published_at || it.date || it.pubDate || '';
-
-      const card = document.createElement('a');
-      card.className = 'card';
-      card.href = href;
-      card.target = "_blank";
-      card.rel = "noopener";
-
-      card.innerHTML = `
-        <h3 class="card__title">${title}</h3>
-        <div class="meta">
-          <span class="meta__source">${src}</span>
-          <span aria-hidden="true">•</span>
-          <time class="meta__date">${fmtDate(when)}</time>
-        </div>
-      `;
-      feedEl.appendChild(card);
+    function byDateDesc(a, b) {
+      const da = Date.parse(a.date || a.published || a.updated || 0) || 0;
+      const db = Date.parse(b.date || b.published || b.updated || 0) || 0;
+      return db - da;
     }
-    feedEl.setAttribute('aria-busy', 'false');
-  }
 
-  function buildSourceList(items) {
-    const names = unique(items
-      .map(i => i.source_name || domainOf(i.link))
-      .filter(Boolean))
-      .sort((a,b) => a.localeCompare(b));
-    selectEl.innerHTML = '';
-    const allOpt = new Option('All sources', '');
-    selectEl.appendChild(allOpt);
-    for (const n of names) {
-      selectEl.appendChild(new Option(n, n));
+    // ---- State -------------------------------------------------------------
+    let allItems = [];
+    let sources = [];
+
+    // ---- Render ------------------------------------------------------------
+    function renderDropdown() {
+      const sel = document.getElementById("sourceSelect");
+      sel.innerHTML = ""; // reset
+
+      const optAll = document.createElement("option");
+      optAll.value = "";
+      optAll.textContent = "All sources";
+      sel.appendChild(optAll);
+
+      sources.forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s.value;
+        opt.textContent = s.label;
+        sel.appendChild(opt);
+      });
+
+      sel.onchange = renderFeed;
     }
-  }
 
-  try {
-    const res = await fetch(FEED_URL, {cache: 'no-store'});
-    const json = await res.json();
+    function renderFeed() {
+      const sel = document.getElementById("sourceSelect");
+      const selected = sel.value;
+      const feed = document.getElementById("feed");
+      feed.innerHTML = "";
 
-    // items.json can be { items: [...], sources: {...}, updated_at: "..." }
-    const items = Array.isArray(json) ? json :
-                  (Array.isArray(json.items) ? json.items : []);
-    const updated = json.updated_at || new Date();
+      const items = (selected)
+        ? allItems.filter(it => (labelFromItem(it).toLowerCase() === selected))
+        : allItems;
 
-    updatedEl.textContent = fmtDate(updated);
-    buildSourceList(items);
+      items.slice(0, 50).forEach(it => {
+        const card = document.createElement("a");
+        card.className = "card";
+        card.href = it.link || it.url || "#";
+        card.target = "_blank";
+        card.rel = "noopener";
 
-    // filter behavior
-    function applyFilter() {
-      const sel = selectEl.value.trim();
-      if (!sel) {
-        renderCards(items.slice(0, 50)); // cap at 50
-      } else {
-        const filtered = items.filter(i =>
-          (i.source_name && i.source_name === sel) ||
-          (!i.source_name && domainOf(i.link) === sel)
-        );
-        renderCards(filtered.slice(0, 50));
+        const h = document.createElement("h3");
+        h.className = "card-title";
+        h.textContent = it.title || "(untitled)";
+        card.appendChild(h);
+
+        const meta = document.createElement("div");
+        meta.className = "card-meta";
+
+        const src = document.createElement("span");
+        src.textContent = labelFromItem(it);
+        meta.appendChild(src);
+
+        const d = document.createElement("span");
+        const stamp = it.date || it.published || it.updated || "";
+        const nice = formatDate(stamp);
+        if (nice) {
+          d.textContent = " • " + nice;
+          meta.appendChild(d);
+        }
+        card.appendChild(meta);
+
+        feed.appendChild(card);
+      });
+    }
+
+    // ---- Boot --------------------------------------------------------------
+    (async function init() {
+      try {
+        const res = await fetch("./items.json", { cache: "no-store" });
+        const payload = await res.json();
+
+        const items = Array.isArray(payload?.items) ? payload.items : [];
+        const updatedAt = payload?.updated_at || payload?.updatedAt || "";
+
+        // Normalize/derive sources
+        const labels = new Set();
+        items.forEach(it => labels.add(labelFromItem(it).toLowerCase()));
+
+        sources = Array.from(labels).sort().map(v => ({
+          value: v, label: (PRETTY_LABEL.get(v) || v).replace(/\b\w/g, c => c.toUpperCase())
+        }));
+
+        allItems = items.sort(byDateDesc);
+
+        // Updated time
+        const t = document.getElementById("updatedAt");
+        const prettyUpdated = formatDate(updatedAt);
+        t.textContent = prettyUpdated || "—";
+
+        renderDropdown();
+        renderFeed();
+      } catch (e) {
+        console.error("Failed to load items.json", e);
+        document.getElementById("updatedAt").textContent = "—";
       }
-    }
-    selectEl.addEventListener('change', applyFilter);
-    applyFilter();
-  } catch (e) {
-    feedEl.innerHTML = `<p class="empty">Couldn’t load feed (items.json). Check that GitHub Actions updated it.</p>`;
-    feedEl.setAttribute('aria-busy', 'false');
-    console.error(e);
-  }
-})();
-</script>
+    })();
+  </script>
 </body>
 </html>
