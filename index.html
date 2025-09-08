@@ -3,78 +3,63 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
   <title>Indianapolis Colts — News</title>
-  <meta name="description" content="Live Indianapolis Colts news feed with auto-updates." />
-  <meta name="theme-color" content="#003A70" />
 
-  <!-- PWA / icons -->
-  <link rel="manifest" href="/static/manifest.webmanifest">
-  <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/static/icon-192.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+  <!-- App icons / PWA -->
+  <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="static/icon-192.png">
+  <link rel="apple-touch-icon" href="static/apple-touch-icon.png">
+  <link rel="manifest" href="static/manifest.webmanifest">
+  <meta name="theme-color" content="#1553b7">
 
-  <link rel="preload" href="/static/style.css" as="style" />
-  <link rel="stylesheet" href="/static/style.css" />
+  <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="brand">
-      <img class="logo" src="/static/logo.png" alt="Colts logo">
-      <div class="titles">
+      <img class="brand-logo" src="static/logo.png" alt="Colts" width="56" height="56">
+      <div class="brand-text">
         <h1>Indianapolis Colts — News</h1>
-        <p class="subtitle">Live team feed • auto-updates</p>
+        <p class="tagline">Live team feed • auto-updates</p>
       </div>
     </div>
   </header>
 
-  <main class="container">
-    <!-- Quick links -->
-    <nav class="chips">
-      <a class="chip" href="https://www.colts.com/schedule" target="_blank" rel="noopener">Schedule</a>
-      <a class="chip" href="https://www.colts.com/team/players-roster" target="_blank" rel="noopener">Roster</a>
-      <a class="chip" href="https://www.ourlads.com/nfldepthcharts/depthchart/IND" target="_blank" rel="noopener">Depth Chart</a>
-      <a class="chip" href="https://www.colts.com/injuries" target="_blank" rel="noopener">Injury Report</a>
-      <a class="chip" href="https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805983" target="_blank" rel="noopener">Tickets</a>
-      <a class="chip" href="https://shop.colts.com" target="_blank" rel="noopener">Team Shop</a>
-      <a class="chip" href="https://www.reddit.com/r/Colts/" target="_blank" rel="noopener">Reddit</a>
-      <a class="chip" href="https://bleacherreport.com/indianapolis-colts" target="_blank" rel="noopener">Bleacher Report</a>
-      <a class="chip" href="https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts" target="_blank" rel="noopener">ESPN Team</a>
-      <a class="chip" href="https://sports.yahoo.com/nfl/teams/ind" target="_blank" rel="noopener">Yahoo Team</a>
-      <a class="chip" href="https://www.pff.com/nfl/teams/indianapolis-colts" target="_blank" rel="noopener">PFF Team Page</a>
-      <a class="chip" href="https://www.pro-football-reference.com/teams/clt/" target="_blank" rel="noopener">Pro-Football-Reference</a>
-      <a class="chip" href="https://www.espn.com/nfl/powerrankings" target="_blank" rel="noopener">NFL Power Rankings</a>
-      <a class="chip" href="https://www.espn.com/nfl/team/stats/_/name/ind" target="_blank" rel="noopener">Stats</a>
-      <a class="chip" href="https://www.espn.com/nfl/standings" target="_blank" rel="noopener">Standings</a>
-    </nav>
+  <main class="page">
+    <section class="quick-links" id="quick-links">
+      <!-- top buttons -->
+      <a class="pill" href="https://www.colts.com/schedule/" target="_blank" rel="noopener">Schedule</a>
+      <a class="pill" href="https://www.colts.com/team/players-roster/" target="_blank" rel="noopener">Roster</a>
+      <a class="pill" href="https://www.ourlads.com/nfldepthcharts/depthchart/IND" target="_blank" rel="noopener">Depth Chart</a>
+      <a class="pill" href="https://www.espn.com/nfl/team/injuries/_/name/ind" target="_blank" rel="noopener">Injury Report</a>
+      <a class="pill" href="https://shop.colts.com/" target="_blank" rel="noopener">Team Shop</a>
+      <a class="pill" href="https://www.ticketmaster.com/indianapolis-colts-tickets/artist/805955" target="_blank" rel="noopener">Tickets</a>
+      <a class="pill" href="https://www.reddit.com/r/Colts/" target="_blank" rel="noopener">Reddit</a>
+      <a class="pill" href="https://bleacherreport.com/indianapolis-colts" target="_blank" rel="noopener">Bleacher Report</a>
+      <a class="pill" href="https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts" target="_blank" rel="noopener">ESPN Team</a>
+      <a class="pill" href="https://sports.yahoo.com/nfl/teams/ind/" target="_blank" rel="noopener">Yahoo Team</a>
+      <a class="pill" href="https://www.pff.com/nfl/teams/indianapolis-colts" target="_blank" rel="noopener">PFF Team Page</a>
+      <a class="pill" href="https://www.pro-football-reference.com/teams/clt/" target="_blank" rel="noopener">Pro-Football-Reference</a>
+      <a class="pill" href="https://www.espn.com/nfl/powerrankings" target="_blank" rel="noopener">NFL Power Rankings</a>
+      <a class="pill" href="https://www.espn.com/nfl/team/stats/_/name/ind" target="_blank" rel="noopener">Stats</a>
+      <a class="pill" href="https://www.nfl.com/standings/league/2025/REG" target="_blank" rel="noopener">Standings</a>
+    </section>
 
-    <!-- Controls -->
-    <section class="controls card">
-      <div class="control-row">
-        <label for="sourceSel">Source:</label>
-        <select id="sourceSel" class="pill"></select>
+    <section class="toolbar">
+      <div class="toolbar-col">
+        <label for="sourceSelect">Source:</label>
+        <select id="sourceSelect" class="select"></select>
       </div>
-      <div class="control-row">
-        <span>Updated:</span>
-        <time id="updatedAt" aria-live="polite">—</time>
+      <div class="toolbar-col">
+        <label>Updated:</label>
+        <span id="updatedAt" class="updated"></span>
       </div>
     </section>
 
-    <!-- Articles -->
-    <section id="feed" class="feed"></section>
-
-    <template id="itemTpl">
-      <article class="item card">
-        <a class="item-link" target="_blank" rel="noopener">
-          <h3 class="title"></h3>
-          <div class="meta">
-            <span class="source-pill"></span>
-            <span class="dot">•</span>
-            <time class="pubtime"></time>
-          </div>
-        </a>
-      </article>
-    </template>
+    <section id="feed" class="feed">
+      <div class="empty" id="emptyMsg">Loading…</div>
+    </section>
   </main>
 
   <footer class="site-footer">
@@ -82,100 +67,97 @@
   </footer>
 
   <script>
-    const sourceSel = document.getElementById('sourceSel');
-    const feedEl = document.getElementById('feed');
-    const updatedAtEl = document.getElementById('updatedAt');
-    const itemTpl = document.getElementById('itemTpl');
-
-    // US-friendly date format (e.g., "Sep 8, 2025, 4:41 AM")
-    const fmtDateTime = (iso) => {
+    // ---- Helpers -----------------------------------------------------------
+    const fmtDate = (iso) => {
+      if (!iso) return "";
       try {
         const d = new Date(iso);
-        return d.toLocaleString('en-US', {
-          year: 'numeric', month: 'short', day: 'numeric',
-          hour: 'numeric', minute: '2-digit'
+        return d.toLocaleString("en-US", {
+          month: "short", day: "numeric", year: "numeric",
+          hour: "numeric", minute: "2-digit"
         });
-      } catch { return iso || ''; }
+      } catch { return ""; }
     };
 
-    // Render helpers
-    const renderDropdown = (sources=[]) => {
-      sourceSel.innerHTML = '';
-      const optAll = document.createElement('option');
-      optAll.value = '';
-      optAll.textContent = 'All sources';
-      sourceSel.appendChild(optAll);
-
-      sources.forEach(s => {
-        const o = document.createElement('option');
-        o.value = s.id || s.name || s.url || '';
-        o.textContent = s.name || s.title || new URL(s.url||'#').hostname;
-        sourceSel.appendChild(o);
-      });
+    // If a feed item is missing a friendly source name, fallback to domain.
+    const fallbackSource = (item) => {
+      if (item.source && item.source.trim() !== "") return item.source;
+      try { return new URL(item.link).hostname.replace(/^www\./,""); }
+      catch { return "News"; }
     };
 
-    const renderItems = (items=[], srcMap={}) => {
-      feedEl.innerHTML = '';
-      const chosen = sourceSel.value;
+    // ---- Render ------------------------------------------------------------
+    const sourceSelect = document.getElementById("sourceSelect");
+    const feedEl = document.getElementById("feed");
+    const emptyMsg = document.getElementById("emptyMsg");
+    const updatedAtEl = document.getElementById("updatedAt");
 
-      items
-        .filter(it => !chosen || (it.source === chosen || it.source_id === chosen || it.source_name === chosen))
-        .slice(0, 50) // cap to 50 most recent
-        .forEach(it => {
-          const clone = itemTpl.content.cloneNode(true);
-          const a = clone.querySelector('.item-link');
-          const h3 = clone.querySelector('.title');
-          const pill = clone.querySelector('.source-pill');
-          const t = clone.querySelector('.pubtime');
+    async function load() {
+      try {
+        const res = await fetch("items.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("items.json not found");
+        const data = await res.json();
 
-          a.href = it.link || it.url || '#';
-          h3.textContent = it.title || '(Untitled)';
+        // UPDATED TIME
+        updatedAtEl.textContent = fmtDate(data.updated_at) || "—";
 
-          // Robust source name resolution (prevents "undefined")
-          const srcName =
-            it.source_name ||
-            (it.source && srcMap[it.source]) ||
-            (it.source_id && srcMap[it.source_id]) ||
-            it.source ||
-            (() => { try { return new URL(it.link||it.url).hostname.replace(/^www\./,''); } catch { return 'Source'; }})();
+        // SOURCES (All sources first)
+        const sources = (data.sources || []).slice().sort((a,b)=> a.name.localeCompare(b.name));
+        sourceSelect.innerHTML = "";
+        const optAll = document.createElement("option");
+        optAll.value = "__ALL__";
+        optAll.textContent = "All sources";
+        sourceSelect.appendChild(optAll);
+        for (const s of sources) {
+          const o = document.createElement("option");
+          o.value = s.id || s.name || s.url || s.domain || "";
+          o.textContent = s.name || s.domain || s.url || "Source";
+          sourceSelect.appendChild(o);
+        }
 
-          pill.textContent = srcName;
-          t.textContent = fmtDateTime(it.published || it.pubDate || it.date || it.updated);
-          feedEl.appendChild(clone);
+        // FEED
+        const items = (data.items || []).slice(0, 50); // cap at 50 most recent
+        render(items);
+
+        sourceSelect.addEventListener("change", () => {
+          const sel = sourceSelect.value;
+          const filtered = sel === "__ALL__" ? items
+            : items.filter(it => (it.source_id || it.source || "").toString() === sel);
+          render(filtered);
         });
-
-      if (!feedEl.children.length) {
-        feedEl.innerHTML = '<p class="muted">No articles yet — the collector will populate shortly.</p>';
+      } catch (e) {
+        emptyMsg.textContent = "No articles yet — the collector will populate shortly.";
+        console.error(e);
       }
-    };
+    }
 
-    // Load and wire up
-    fetch('items.json', { cache: 'no-store' })
-      .then(r => r.json())
-      .then(data => {
-        const items = data.items || [];
-        const sources = data.sources || [];
+    function render(items) {
+      feedEl.innerHTML = "";
+      if (!items.length) {
+        emptyMsg.style.display = "block";
+        emptyMsg.textContent = "No articles yet — the collector will populate shortly.";
+        return;
+      }
+      emptyMsg.style.display = "none";
+      for (const it of items) {
+        const a = document.createElement("a");
+        a.className = "card";
+        a.href = it.link;
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.innerHTML = `
+          <h3 class="card-title">${it.title}</h3>
+          <div class="meta">
+            <span class="source">${fallbackSource(it)}</span>
+            <span class="dot">•</span>
+            <time>${fmtDate(it.date)}</time>
+          </div>
+        `;
+        feedEl.appendChild(a);
+      }
+    }
 
-        // build a quick source map for resolving names
-        const srcMap = {};
-        sources.forEach(s => { srcMap[s.id] = s.name; srcMap[s.name] = s.name; });
-
-        renderDropdown(sources);
-        (function setUpdated() {
-          const u = data.updated_at || data.updated || '';
-          updatedAtEl.textContent = u ? fmtDateTime(u) : '—';
-        })();
-
-        // Initial render
-        renderItems(items, srcMap);
-
-        // Filter change
-        sourceSel.addEventListener('change', () => renderItems(items, srcMap));
-      })
-      .catch(() => {
-        updatedAtEl.textContent = '—';
-        feedEl.innerHTML = '<p class="muted">Could not load items.json</p>';
-      });
+    load();
   </script>
 </body>
 </html>
