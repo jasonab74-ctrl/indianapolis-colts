@@ -1,611 +1,571 @@
 {
-  "updated": "2025-09-08T11:41:43+00:00",
+  "updated_at": "2025-09-08T13:38:24Z",
+  "sources": [
+    "ESPN — Colts",
+    "Reddit — r/Colts",
+    "Stampede Blue",
+    "Yahoo Sports — Colts"
+  ],
   "items": [
     {
-      "id": "2652ad764e995082",
+      "id": "0c4d1ab672a7dfdd722712cfa8e03a72",
+      "title": "Bills score 16 unanswered late to shock Ravens",
+      "link": "https://www.espn.com/nfl/story/_/id/46193990/josh-allen-bills-stun-ravens-41-40-sunday-night-thriller",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "a5e0637388a6428f08de163fb33755c5",
+      "title": "Jackson shoves fan in retaliation in Ravens' loss",
+      "link": "https://www.espn.com/nfl/story/_/id/46194624/lamar-jackson-shoves-fan-retaliation-ravens-loss",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "3b483a2a1bbdfe368a6f510a5becade7",
+      "title": "Vrabel says Belichick welcome at Patriots facility",
+      "link": "https://www.espn.com/nfl/story/_/id/46196836/mike-vrabel-says-bill-belichick-welcome-patriots-facility",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "0e35e1abfa1ba899554ba0a4d2316f98",
+      "title": "49ers extend RT McKivitz with 3-year, $45M deal",
+      "link": "https://www.espn.com/nfl/story/_/id/46196887/49ers-extend-rt-colton-mckivitz-3-year-45m-contract",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "52e4d8f5bcb930c9abd3c11af0ce120d",
+      "title": "Parsons gets sack, brings heat in Packers debut",
+      "link": "https://www.espn.com/nfl/story/_/id/46193087/micah-parsons-quickly-makes-impact-packers-debut",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "b1b24e81161c4483021ae2d213e80ce7",
+      "title": "Steelers' Rodgers shows Jets he still has it in win",
+      "link": "https://www.espn.com/nfl/story/_/id/46190687/aaron-rodgers-wins-steelers-debut-shows-jets-play",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "b9a01bc55f19b453296aad9dc64ca3d0",
+      "title": "Daboll noncommittal on Giants QB for Week 2",
+      "link": "https://www.espn.com/nfl/story/_/id/46191005/giants-daboll-passes-starting-qb-questions-loss",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "864654d73f00dcad552e0c214bd81eea",
+      "title": "Backup Tonges keys 49ers' win after Kittle injury",
+      "link": "https://www.espn.com/nfl/story/_/id/46192941/jake-tonges-clutch-niners-await-george-kittle-mri",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "21db5bcbf71d3454f0c2a1c925cd44a3",
+      "title": "👀 Best of NFL Week 1 arrivals and tunnel fits",
+      "link": "https://www.espn.com/nfl/story/_/id/46185345/nfl-week-1-fashionable-player-arrivals-outfits",
+      "iso_date": "2025-09-08T14:29:07Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "b7b0c4c3aa6e66e8f440ebe678dab5e9",
+      "title": "From math wiz to offensive innovator, why Bears coach Ben Johnson seemed destined for this moment",
+      "link": "https://www.espn.com/nfl/story/_/id/46158350/nfl-chicago-bears-ben-johnson-mnf-minnesota-vikings-caleb-williams",
+      "iso_date": "2025-09-08T14:22:12Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "4f3c8c919be67714ea3632d6a6288201",
+      "title": "Game-day rituals: How eye black, meditation and Bob Marley get J.J. McCarthy ready",
+      "link": "https://www.espn.com/nfl/story/_/id/46185800/nfl-minnesota-vikings-jj-mccarthy-chicago-bears-monday-night-football",
+      "iso_date": "2025-09-08T14:22:12Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "cb3ef50d330666146d7e73a47f8918bd",
+      "title": "Barnwell separates fact from fiction off NFL Week 1: Is it too early to worry about the Lions?",
+      "link": "https://www.espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
+      "iso_date": "2025-09-08T14:20:52Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "d249e06f7c455a954875c5e6d79da072",
+      "title": "'No moral victories' for Cowboys in Brian Schottenheimer's head coaching debut",
+      "link": "https://www.espn.com/nfl/story/_/id/46185166/nfl-dallas-cowboys-brian-schottenheimer-ceedee-lamb-dak-prescott",
+      "iso_date": "2025-09-08T13:01:37Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "1d0da81f397851b411e97e9da75bffb2",
+      "title": "Breaking down Daniel Jones’ stellar performance vs Miami",
+      "link": "https://sports.yahoo.com/article/breaking-down-daniel-jones-stellar-130000808.html",
+      "iso_date": "2025-09-08T13:00:00Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "f2b2fb027775949db7d9a511ad138776",
+      "title": "Wow 🤯",
+      "link": "https://www.reddit.com/r/Colts/comments/1nbn2yk/wow/",
+      "iso_date": "2025-09-08T12:59:56Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "973131fc051d58f4ad205653ca29e206",
+      "title": "'I've got to be smarter': Despite win, Bo Nix vows to improve from three-turnover opener",
+      "link": "https://www.espn.com/nfl/story/_/id/46192581/denver-broncos-quarterback-bo-nix-inconsistent-two-interceptions-fumble",
+      "iso_date": "2025-09-08T12:59:31Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "1c4206fdb5cf0c60d0da0ab69f08e648",
+      "title": "Can the Raiders keep up defensive dominance as schedule gets tougher?",
+      "link": "https://www.espn.com/nfl/story/_/id/46192394/las-vegas-raiders-defensive-dominance-week-1-win-new-england-patriots",
+      "iso_date": "2025-09-08T12:59:31Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "98080cf35826971ce55d47f775093a9f",
+      "title": "The Good, Bad & Ugly from the Miami Dolphins Week 1 loss to the Indianapolis Colts",
+      "link": "https://sports.yahoo.com/article/good-bad-ugly-miami-dolphins-123000166.html",
+      "iso_date": "2025-09-08T12:30:00Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "d586a8d045b06b4ecb7bb6f00e0115ba",
+      "title": "Colts' Tyler Warren, Browns' Harold Fannin broke the same NFL tight end record at the same time in Week 1",
+      "link": "https://www.sportingnews.com/us/nfl/indianapolis-colts/news/colts-tyler-warren-browns-harold-fannin-broke-same-nfl-tight-end-record-week-1/b7d5d568908a8c85a6322369",
+      "iso_date": "2025-09-08T12:22:19Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "84df0ec09eb8e5336d7d391868efdf94",
+      "title": "Danny Dimes is The Man!!",
+      "link": "https://www.reddit.com/r/Colts/comments/1nbm0gz/danny_dimes_is_the_man/",
+      "iso_date": "2025-09-08T12:11:09Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "28cdd006f0d821e16f52d473e90fdf99",
+      "title": "Peyton Manning and his son, Marshall, star in NBC's funny 'Sunday Night Football' promo",
+      "link": "https://sports.yahoo.com/article/peyton-manning-son-marshall-star-120245276.html",
+      "iso_date": "2025-09-08T12:02:45Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "d9028048e95565373377af1bdb840db8",
+      "title": "6 NFL overreactions from Week 1, including 1 young QB thriving and 1 struggling",
+      "link": "https://sports.yahoo.com/article/6-nfl-overreactions-week-1-120000684.html",
+      "iso_date": "2025-09-08T12:00:00Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "02b348e34d757e5359e10ffd2f255cff",
+      "title": "Daniel Jones, AFC Player of the Week",
+      "link": "https://www.reddit.com/r/Colts/comments/1nblfof/daniel_jones_afc_player_of_the_week/",
+      "iso_date": "2025-09-08T11:42:41Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "6a16b3b747afe23360339c066b8e7a8b",
+      "title": "Tyreek Hill kicked in the balls",
+      "link": "https://www.reddit.com/r/Colts/comments/1nbl8ys/tyreek_hill_kicked_in_the_balls/",
+      "iso_date": "2025-09-08T11:32:58Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "e2b36fdc9f533bcde3ebdc52cacc12e8",
+      "title": "tf are we doing here?",
+      "link": "https://www.reddit.com/r/Colts/comments/1nbl7f2/tf_are_we_doing_here/",
+      "iso_date": "2025-09-08T11:30:50Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "9c37e3cdf2d35356105e50a5a59f9ac8",
       "title": "Colts rookie tight end Tyler Warren exactly as advertised in pro debut",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/114344/colts-rookie-tight-end-tyler-warren-exactly-as-advertised-in-pro-debut",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-08T11:00:00+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts had been longing for a floor-raising pass catcher at tight end since Jack Doyle’s retirement following the 2022 season. After just missing out on eventual rookie phenom Brock Bowers in the 2024 NFL Draft, the clock reset, and fans continued their clamoring for a worthwhile product. As fate would [&#8230;]"
+      "link": "https://www.stampedeblue.com/indianapolis-colts-news/114344/colts-rookie-tight-end-tyler-warren-exactly-as-advertised-in-pro-debut",
+      "iso_date": "2025-09-08T11:00:00Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "982a79e3172472c2",
+      "id": "0d9e87a0719977cbc6a28668465f2989",
+      "title": "Colts rookie tight end Tyler Warren exactly as advertised in pro debut",
+      "link": "https://sports.yahoo.com/article/colts-rookie-tight-end-tyler-110000470.html",
+      "iso_date": "2025-09-08T11:00:00Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "9757624d0c6fd3ccc940cd1dd132fd81",
+      "title": "Daniel Jones Has A Sensational Debut For The Colts",
+      "link": "https://sports.yahoo.com/article/daniel-jones-sensational-debut-colts-105400955.html",
+      "iso_date": "2025-09-08T10:54:00Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "5ab650f6244debf61b6842745223d0fc",
+      "title": "Biggest Week 1 Miami Dolphins overreactions… or not? Let’s talk Tua, Tyreek, pass D, depth",
+      "link": "https://sports.yahoo.com/article/biggest-week-1-miami-dolphins-105326883.html",
+      "iso_date": "2025-09-08T10:53:26Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "1e748580cced07163ff6df4b6a37c3b9",
+      "title": "Colts felt \"bigger purpose\" in first game since Jim Irsay's death",
+      "link": "https://sports.yahoo.com/article/colts-felt-bigger-purpose-first-105015361.html",
+      "iso_date": "2025-09-08T10:50:15Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "f14e3f4bfa6b69e3e82c46be0a3f1a20",
       "title": "Colts-Broncos opening odds: No time to horse around",
-      "link": "https://stampedeblue.com/analysis/114319/colts-broncos-opening-odds-no-time-to-horse-around",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-08T10:23:06+0000",
-      "summary": "The Indianapolis Colts are riding high after ending their 11-game opening week skid, knocking off the Miami Dolphins at home. The home stand continues this week against the Denver Broncos. These two teams met last year in which the Broncos effectively ended the postseason hopes of the Colts. This time around, the Colts are looking [&#8230;]"
+      "link": "https://www.stampedeblue.com/analysis/114319/colts-broncos-opening-odds-no-time-to-horse-around",
+      "iso_date": "2025-09-08T10:23:06Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "1241e6901a2b499a",
+      "id": "c69ff3370df3664fc1cc109321d9ed5e",
+      "title": "Could Arch Manning, Quinn Ewers end up Dolphins teammates next year in Miami?",
+      "link": "https://sports.yahoo.com/article/could-arch-manning-quinn-ewers-100446328.html",
+      "iso_date": "2025-09-08T10:04:46Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "2758e1649bf49a1aaff6816c400d321c",
+      "title": "Aren't these all the same things?",
+      "link": "https://www.reddit.com/r/Colts/comments/1nbj852/arent_these_all_the_same_things/",
+      "iso_date": "2025-09-08T09:35:46Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "125d101ee3446491c4a1909aff802fa3",
+      "title": "Highlights from the Broncos' Week 1 win vs. Titans",
+      "link": "https://sports.yahoo.com/article/highlights-broncos-week-1-win-080415120.html",
+      "iso_date": "2025-09-08T08:04:15Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "c84dc501344d8a13991e441104891a98",
+      "title": "NFL Hawaii Tracker: Buckner, Colts defense dominate as season kicks off",
+      "link": "https://www.yahoo.com/news/articles/nfl-hawaii-tracker-buckner-colts-070844724.html",
+      "iso_date": "2025-09-08T07:08:44Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "983132c9af14888052570d3205ab223b",
+      "title": "Answering the biggest questions of Week 1: What's more jarring, the Bills' comeback or Baltimore's collapse?",
+      "link": "https://www.espn.com/nfl/story/_/id/46139954/nfl-week-1-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "iso_date": "2025-09-08T06:17:01Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "2498cdfbe85249b6ad51ab5df9a96d5d",
+      "title": "Let's overreact to NFL Week 1: Which QB situations are most messy",
+      "link": "https://www.espn.com/nfl/story/_/id/46138257/nfl-week-1-overreactions-surprises-takeaways-chiefs-jaxson-dart-packers",
+      "iso_date": "2025-09-08T06:17:01Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "bccad5c76638f8c59ff357acf14aa214",
+      "title": "Allen shines as Bills stun Ravens in wild comeback",
+      "link": "https://sports.yahoo.com/article/allen-shines-bills-stun-ravens-054138748.html",
+      "iso_date": "2025-09-08T05:41:38Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "58f21eb9058f62687f36cf2b77df232c",
+      "title": "Guys. 🥹 This game was so nice to watch!",
+      "link": "https://www.reddit.com/r/Colts/comments/1nbfb46/guys_this_game_was_so_nice_to_watch/",
+      "iso_date": "2025-09-08T05:25:56Z",
+      "source": "Reddit — r/Colts"
+    },
+    {
+      "id": "c99673dba1ebf87bd2633de69a489416",
+      "title": "The Midnight Move: How the Colts Left Baltimore and Transformed Indianapolis",
+      "link": "https://wibc.com/724875/the-midnight-move-how-the-colts-left-baltimore-and-transformed-indianapolis/",
+      "iso_date": "2025-09-08T04:56:57Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "1998fabef23d457d9fdb0f9b4e9d6bb7",
+      "title": "'Nothing beats a Jet2 Holiday': Steelers' virtual jab at Jets tops Week 1 NFL trolls",
+      "link": "https://www.espn.com/nfl/story/_/id/46189810/nfl-week-1-trolls",
+      "iso_date": "2025-09-08T04:06:16Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "3ad2b241166e0de6d4dd074a08c509fc",
       "title": "The week 1 curse is broken",
-      "link": "https://reddit.com/r/Colts/comments/1nbdp23/the_week_1_curse_is_broken/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-08T03:55:36+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nbdp23/the_week_1_curse_is_broken/\"> <img alt=\"The week 1 curse is broken\" src=\"https://preview.redd.it/s3ecuqi66vnf1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1fe7cfbd276d26dd23177790a7cb711ff4984699\" title=\"The week 1 curse is broken\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sea_Bad_5331\"> /u/Sea_Bad_5331 </a> <br /> <span><a href=\"https://i.redd.it/s3ecuqi66vnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nbdp23/the_week_1_curse_is_broken/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nbdp23/the_week_1_curse_is_broken/",
+      "iso_date": "2025-09-08T03:55:36Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "e39e1e9b203a1e61",
-      "title": "Colts honor late owner with 'win for Jim' mantra, Ring of Honor induction",
-      "link": "https://fox59.com/sports/colts/colts-honor-late-owner-with-win-for-jim-mantra-ring-of-honor-induction/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-08T02:30:32+0000",
-      "summary": "INDIANAPOLIS — Leading up to Week 1, the message around Horseshoe Headquarters was simple — win for Jim. The Colts did exactly that on Sunday afternoon with a dominant victory over the Miami Dolphins. With the roof and window open at Lucas Oil Stadium, the Colts snapped a 12-year winless streak of season-openers, and everyone felt [...]"
+      "id": "237c95353c20dd4b62d08000d0d72d48",
+      "title": "Colts vs. Dolphins: Highlights from Indianapolis' Week 1 win",
+      "link": "https://sports.yahoo.com/article/colts-vs-dolphins-highlights-indianapolis-034054478.html",
+      "iso_date": "2025-09-08T03:40:54Z",
+      "source": "Yahoo Sports — Colts"
     },
     {
-      "id": "d8d7f6a6e6ead585",
-      "title": "Most of Ring of Honor Speech!",
-      "link": "https://reddit.com/r/Colts/comments/1nbajgb/most_of_ring_of_honor_speech/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-08T01:17:39+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nbajgb/most_of_ring_of_honor_speech/\"> <img alt=\"Most of Ring of Honor Speech!\" src=\"https://external-preview.redd.it/ZHh3NDFqMXNkdW5mMR-zq7S0QXYeRsfcjfoD3d9W11NzIUllfLEULeNAALsb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5ae55faf63dec46455b51b2158857a0ed422e7a\" title=\"Most of Ring of Honor Speech!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Patient-Evening6416\"> /u/Patient-Evening6416 </a> <br /> <span><a href=\"https://v.redd.it/nigirposdunf1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nbajgb/most_of_ring_of_honor_speech/\">[comments]</a></span> </td></tr></table>"
+      "id": "ca45d18962b1b7127fffc4ed5476875c",
+      "title": "32 things we learned in NFL Week 1: Relocated stars Micah Parsons, Aaron Rodgers shine",
+      "link": "https://sports.yahoo.com/article/32-things-learned-nfl-week-014041829.html",
+      "iso_date": "2025-09-08T01:40:41Z",
+      "source": "Yahoo Sports — Colts"
     },
     {
-      "id": "68ff40fb0cb73cd7",
-      "title": "Dolphins' Week 1 disaster 'definitely not all on' Tua Tagovailoa despite two interceptions, Mike McDaniel says",
-      "link": "https://cbssports.com/nfl/news/dolphins-week-1-disaster-definitely-not-all-on-tua-tagovailoa-despite-two-interceptions-mike-mcdaniel-says/",
-      "source": "CBS Sports",
-      "feed": "CBS Sports",
-      "published": "2025-09-08T00:27:04+0000",
-      "summary": "Miami scored just eight points in a season-opening debacle against the Colts"
+      "id": "7f318eb1a3457728139a2c15510641f4",
+      "title": "Browns’ Joe Flacco gets brutally honest on backbreaking drops-to-INTs",
+      "link": "https://sports.yahoo.com/article/browns-joe-flacco-gets-brutally-013204745.html",
+      "iso_date": "2025-09-08T01:32:04Z",
+      "source": "Yahoo Sports — Colts"
     },
     {
-      "id": "c5ed83af864ba162",
+      "id": "4ccfebc7d326822d248d10634ee06c86",
+      "title": "Early-game headlines: Fields-Wilson combo shines",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "iso_date": "2025-09-08T01:02:34Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "2d7e2f6c3c7468836e48697397e8751a",
+      "title": "Ranking Week 1 fantasy football winners and losers and injury impacts from Sunday",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-46188663/nfl-week-1-fantasy-football-winners-losers-injuries-rankings-more",
+      "iso_date": "2025-09-08T01:02:14Z",
+      "source": "ESPN — Colts"
+    },
+    {
+      "id": "21e16957bccaa4042930096d8d7e01a4",
       "title": "That was one of the best Colts games I've ever been to.",
-      "link": "https://reddit.com/r/Colts/comments/1nb9heo/that_was_one_of_the_best_colts_games_ive_ever/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-08T00:26:21+0000",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For those of you that were able to attend, congratulations. For those of you that weren't, it felt like a playoff type atmosphere. The crowd was all in and it is as loud as fuck. Having Peyton, Harrison, Dwight and company come out at halftime was something we'll probably never get to see again and it was just down right incredible. Maybe it was the nostalgia kicking in but seriously holy fucking shit. The team is in good hands and the future is bright. RIP Jim, thank you for everything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tomorrowtoday9\"> /u/tomorrowtoday9 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb9heo/that_was_one_of_the_best_colts_games_ive_ever/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb9heo/that_was_one_of_the_best_colts_games_ive_ever/\">[comments]</a></span>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb9heo/that_was_one_of_the_best_colts_games_ive_ever/",
+      "iso_date": "2025-09-08T00:26:21Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "70d7bf34d6a33339",
+      "id": "7a7f96837f717b333b9802c3e2441a98",
       "title": "Lou. Lou. Lou.",
-      "link": "https://reddit.com/r/Colts/comments/1nb99u6/lou_lou_lou/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-08T00:16:33+0000",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A defensive coordinator who actually knows how to neutralize the opposition’s strengths? Say it isn’t so. To take a rhythm passer like Tua (who can carve you up if you let him) and make him uncomfortable from the beginning had me hooting and hollering at the TV, man. </p> <p>I’m very encouraged. Hopefully the days of letting QBs have career days against us are over, plus a relatively healthy season from the secondary 🤞</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/StatusCookie761\"> /u/StatusCookie761 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb99u6/lou_lou_lou/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb99u6/lou_lou_lou/\">[comments]</a></span>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb99u6/lou_lou_lou/",
+      "iso_date": "2025-09-08T00:16:33Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "07366fb30637ffc0",
-      "title": "Our Offensive Line deserves their flowers",
-      "link": "https://reddit.com/r/Colts/comments/1nb8ysy/our_offensive_line_deserves_their_flowers/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-08T00:02:29+0000",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>DJ had so much time in the pocket. JT had lanes to drive in. You could tell that the Oline was in sync and loving their effort. Fins are not bad up front and we kept them in check. We are a playoff team if they can keep it up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/smalllaxplaya44\"> /u/smalllaxplaya44 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb8ysy/our_offensive_line_deserves_their_flowers/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb8ysy/our_offensive_line_deserves_their_flowers/\">[comments]</a></span>"
+      "id": "7bdb8dd21ad81834b7a6da81c2436f38",
+      "title": "Stafford -- along with Calvin Johnson and Cooper Kupp -- recalls incredible passes from the playmaker",
+      "link": "https://www.espn.com/nfl/story/_/id/45965511/rams-matthew-stafford-pass-60000-yards-best-plays",
+      "iso_date": "2025-09-08T00:04:00Z",
+      "source": "ESPN — Colts"
     },
     {
-      "id": "84df9d4063f82568",
+      "id": "a48aaeaab2a3abdf2fb7e17d661c3d5c",
       "title": "POV : Watching Tyler Warren play like Dallas Clark from game one.",
-      "link": "https://reddit.com/r/Colts/comments/1nb81ou/pov_watching_tyler_warren_play_like_dallas_clark/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T23:20:36+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb81ou/pov_watching_tyler_warren_play_like_dallas_clark/\"> <img alt=\"POV : Watching Tyler Warren play like Dallas Clark from game one.\" src=\"https://preview.redd.it/ll2xyp76ttnf1.gif?width=320&amp;crop=smart&amp;s=e3171f509afc05a0d541a7ab68bdbb5aaeee0625\" title=\"POV : Watching Tyler Warren play like Dallas Clark from game one.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/boopsquigshorterly\"> /u/boopsquigshorterly </a> <br /> <span><a href=\"https://i.redd.it/ll2xyp76ttnf1.gif\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb81ou/pov_watching_tyler_warren_play_like_dallas_clark/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb81ou/pov_watching_tyler_warren_play_like_dallas_clark/",
+      "iso_date": "2025-09-07T23:20:36Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "9ccf09822c9a4dae",
+      "id": "8c3af83a5c73823918cac5bf9a38ecaa",
       "title": "Indiana Jones even set good Colts offensive stats, for a change...",
-      "link": "https://reddit.com/r/Colts/comments/1nb80zu/indiana_jones_even_set_good_colts_offensive_stats/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T23:19:48+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb80zu/indiana_jones_even_set_good_colts_offensive_stats/\"> <img alt=\"Indiana Jones even set good Colts offensive stats, for a change...\" src=\"https://preview.redd.it/o74ny2ajstnf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48274af4344b6a82a2a90686c28753461b740189\" title=\"Indiana Jones even set good Colts offensive stats, for a change...\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Peetie-Peete\"> /u/Peetie-Peete </a> <br /> <span><a href=\"https://i.redd.it/o74ny2ajstnf1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb80zu/indiana_jones_even_set_good_colts_offensive_stats/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb80zu/indiana_jones_even_set_good_colts_offensive_stats/",
+      "iso_date": "2025-09-07T23:19:48Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "e8c20aa381a75680",
+      "id": "4b77185513a5773a7032dabd97f4e17c",
       "title": "Shane Steichen resurrected Daniel Jones in Colts season opener",
-      "link": "https://stampedeblue.com/analysis/114298/shane-steichen-resurrected-daniel-jones-in-colts-season-opener",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-07T23:12:54+0000",
-      "summary": "Indianapolis, IN — For the first time since Andrew Luck’s second year in the NFL, the Indianapolis Colts start their season with a 1-0 record after besting the Miami Dolphins 33-8 at Lucas Oil Stadium. It was both an important and monumental day for the organization. Not only has the aforementioned curse finally been lifted, [&#8230;]"
+      "link": "https://www.stampedeblue.com/analysis/114298/shane-steichen-resurrected-daniel-jones-in-colts-season-opener",
+      "iso_date": "2025-09-07T23:12:54Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "dd91a135f259f427",
+      "id": "b96627c48134e7aa16cb754ba1cfb7fc",
       "title": "Colts obliterate Dolphins 33-8 to snap decade-long drought in season opener",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/114315/colts-obliterate-dolphins-33-8-to-snap-decade-long-drought-in-season-opener",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-07T22:05:38+0000",
-      "summary": "The Indianapolis Colts obliterated the Miami Dolphins 33-8 in Sunday’s season opener at Lucas Oil Stadium to snap what was the NFL’s longest Week 1 drought.&#160;Indianapolis scored on all seven possessions to become the first NFL team in at least 47 years to score on every possession of a game. The stampede sporting blue had [&#8230;]"
+      "link": "https://www.stampedeblue.com/indianapolis-colts-scores-results/114315/colts-obliterate-dolphins-33-8-to-snap-decade-long-drought-in-season-opener",
+      "iso_date": "2025-09-07T22:05:38Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "2edd0dbba14d7b8e",
+      "id": "92ccee782df9a2d8b7996b5c80ebe401",
+      "title": "Dolphins embarrassed by Colts in season opener",
+      "link": "https://www.local10.com/sports/local/2025/09/07/dolphins-embarrassed-by-colts-in-season-opener/",
+      "iso_date": "2025-09-07T21:45:50Z",
+      "source": "Yahoo Sports — Colts"
+    },
+    {
+      "id": "b9a080cc90cd5c75e81b835dc3149551",
       "title": "Grateful",
-      "link": "https://reddit.com/r/Colts/comments/1nb5u3r/grateful/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T21:45:33+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb5u3r/grateful/\"> <img alt=\"Grateful\" src=\"https://b.thumbs.redditmedia.com/REFwsrlKNFx1OcVco7wACny2ZLgy0qNKzac54TwGvZo.jpg\" title=\"Grateful\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After 20 years of being a fan, I finally made it to LOS from Houston for the first time. This game was an incredible experience and this town is amazing.</p> <p>Indianapolis, I love you, and lets continue this already great start to a season!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dp517\"> /u/dp517 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1nb5u3r\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb5u3r/grateful/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb5u3r/grateful/",
+      "iso_date": "2025-09-07T21:45:33Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "02d0cfa657ac8d83",
-      "title": "Cam Bynum&#8217;s wild NFL celebration is actually a TikTok hit",
-      "link": "https://sbnation.com/nfl/1078917/cam-bynums-wild-nfl-celebration-is-actually-a-tiktok-hit",
-      "source": "SB Nation",
-      "feed": "SB Nation",
-      "published": "2025-09-07T21:21:51+0000",
-      "summary": "Cam Bynum loves a viral celebration. The safety had several creative and hilarious dances after big plays during his first four seasons with the Minnesota Vikings. As he moved to the Indianapolis Colts this offseason, Bynum didn’t have to wait very long to bust out his best celebration yet. The Colts embarrassed the Miami Dolphins, [&#8230;]"
-    },
-    {
-      "id": "759a43825c24bfa5",
+      "id": "95aa265e25b2b9679944379a60313c97",
       "title": "The @Colts scored on all seven of their offensive possessions in today's victory, becoming the first team since at least 1978 to score on every offensive possession of a game",
-      "link": "https://reddit.com/r/Colts/comments/1nb4rkb/the_colts_scored_on_all_seven_of_their_offensive/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T21:02:22+0000",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Let's do this again sometime.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/prancingpony777\"> /u/prancingpony777 </a> <br /> <span><a href=\"https://x.com/NFL345/status/1964792425773490276?s=19\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb4rkb/the_colts_scored_on_all_seven_of_their_offensive/\">[comments]</a></span>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb4rkb/the_colts_scored_on_all_seven_of_their_offensive/",
+      "iso_date": "2025-09-07T21:02:22Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "11b19b08afcaa0aa",
-      "title": "NFL Week 1 Recap: Indianapolis Colts 33, Miami Dolphins 8",
-      "link": "https://pff.com/news/nfl-week-1-recap-indianapolis-colts-33-miami-dolphins-8/",
-      "source": "PFF",
-      "feed": "PFF",
-      "published": "2025-09-07T20:30:31+0000",
-      "summary": "The Colts took down the Miami Dolphins 33–8 in Week 1, securing their first season-opening win since 2013 behind a strong debut from Daniel Jones."
-    },
-    {
-      "id": "cbe273a85a33b941",
+      "id": "cd9ae941a07fb52de72e9dffef5db5c8",
       "title": "Just here to remind you all that Tyler Warren is a Colt.",
-      "link": "https://reddit.com/r/Colts/comments/1nb3799/just_here_to_remind_you_all_that_tyler_warren_is/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T20:00:31+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb3799/just_here_to_remind_you_all_that_tyler_warren_is/\"> <img alt=\"Just here to remind you all that Tyler Warren is a Colt.\" src=\"https://preview.redd.it/arv68y5htsnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f26491fda9fe1209babdefbffeabe95603e2a1f\" title=\"Just here to remind you all that Tyler Warren is a Colt.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I can't believe it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/prancingpony777\"> /u/prancingpony777 </a> <br /> <span><a href=\"https://i.redd.it/arv68y5htsnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb3799/just_here_to_remind_you_all_that_tyler_warren_is/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb3799/just_here_to_remind_you_all_that_tyler_warren_is/",
+      "iso_date": "2025-09-07T20:00:31Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "ca03569b8d909d38",
+      "id": "ae60c23e9b09cd605b7cf7cf647383d0",
       "title": "Are you not entertained, Colts fans?",
-      "link": "https://stampedeblue.com/analysis/114300/are-you-not-entertained-colts-fans",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-07T19:58:40+0000",
-      "summary": "The drought is finally over. Not only is the eleven year winless streak finally behind the Indianapolis Colts but they ended it convincingly by beating the brakes off the Miami Dolphins. Who knew that all it would take was Daniel Jones. After all the quarterbacks that have suited up for the season opener during this [&#8230;]"
+      "link": "https://www.stampedeblue.com/analysis/114300/are-you-not-entertained-colts-fans",
+      "iso_date": "2025-09-07T19:58:40Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "8a914ed966993bb2",
+      "id": "d26d8edc310317d9dd74ad7615972978",
       "title": "First opening day win in 11 years",
-      "link": "https://reddit.com/r/Colts/comments/1nb3247/first_opening_day_win_in_11_years/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:55:05+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb3247/first_opening_day_win_in_11_years/\"> <img alt=\"First opening day win in 11 years\" src=\"https://preview.redd.it/cvj4487issnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=159fa0043412222ed5ce62ba318864c86514df59\" title=\"First opening day win in 11 years\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mwjulian14\"> /u/mwjulian14 </a> <br /> <span><a href=\"https://i.redd.it/cvj4487issnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb3247/first_opening_day_win_in_11_years/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb3247/first_opening_day_win_in_11_years/",
+      "iso_date": "2025-09-07T19:55:05Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "186cf7221b4aca57",
+      "id": "9a519767bc35d102802752254ecf1d08",
       "title": "End of an Era",
-      "link": "https://reddit.com/r/Colts/comments/1nb2xp7/end_of_an_era/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:50:16+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb2xp7/end_of_an_era/\"> <img alt=\"End of an Era\" src=\"https://preview.redd.it/xboak2bnrsnf1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27957d8075669f0bf40c3f23d0c305cc7d67c9c6\" title=\"End of an Era\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/InUrFaceSpaceCoyote\"> /u/InUrFaceSpaceCoyote </a> <br /> <span><a href=\"https://i.redd.it/xboak2bnrsnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb2xp7/end_of_an_era/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb2xp7/end_of_an_era/",
+      "iso_date": "2025-09-07T19:50:16Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "b22c4d59801b7673",
+      "id": "5f339aba6e35cb1e2b0c8ed9db8b7b3b",
       "title": "We are so back boys",
-      "link": "https://reddit.com/r/Colts/comments/1nb2wxt/we_are_so_back_boys/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:49:28+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb2wxt/we_are_so_back_boys/\"> <img alt=\"We are so back boys\" src=\"https://preview.redd.it/zxsp945irsnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae8406338df029a9d8d9fc826d5836236fe17b0a\" title=\"We are so back boys\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ComplaintMore2312\"> /u/ComplaintMore2312 </a> <br /> <span><a href=\"https://i.redd.it/zxsp945irsnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb2wxt/we_are_so_back_boys/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb2wxt/we_are_so_back_boys/",
+      "iso_date": "2025-09-07T19:49:28Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "17786661647f1f80",
+      "id": "1af498b9c5ae315fce065d81a38821f6",
       "title": "Post Game Thread: Miami Dolphins at Indianapolis Colts",
-      "link": "https://reddit.com/r/Colts/comments/1nb2wun/post_game_thread_miami_dolphins_at_indianapolis/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:49:21+0000",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Miami Dolphins at Indianapolis Colts</h1> <p><a href=\"https://www.espn.com/nfl/game/_/gameId/401772719/dolphins-colts\">ESPN Gamecast</a></p> <p>Lucas Oil Stadium- Indianapolis, IN</p> <p>Network(s): CBS </p> <hr /> <table><thead> <tr> <th align=\"center\">Time Clock</th> </tr> </thead><tbody> <tr> <td align=\"center\">Final</td> </tr> </tbody></table> <p><strong>Scoreboard</strong></p> <table><thead> <tr> <th align=\"center\"></th> <th align=\"center\">Q1</th> <th align=\"center\">Q2</th> <th align=\"center\">Q3</th> <th align=\"center\">Q4</th> <th align=\"center\">Total</th> </tr> </thead><tbody> <tr> <td align=\"center\">MIA</td> <td align=\"center\">0</td> <td align=\"center\">0</td> <td align=\"center\">0</td> <td align=\"center\">8</td> <td align=\"center\">8</td> </tr> <tr> <td align=\"center\">IND</td> <td align=\"center\">3</td> <td align=\"center\">17</td> <td align=\"center\">3</td> <td align=\"center\">10</td> <td align=\"center\">33</td> </tr> </tbody></table> <p><strong>Scoring Plays</strong></p> <table><thead> <tr> <th align=\"left\">Team</th> <th align=\"left\">Quarter</th> <th align=\"left\">Type</th> <th align=\"left\">Description</th> </tr> </thead><tbody> <tr> <td align=\"left\">IND</td> <td align=\"left\">1</td> <td align=\"left\">FG</td> <td align=\"left\">Spencer Shrader 24 Yd Field Goal</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">2</td> <td align=\"left\">TD</td> <td align=\"left\">Michael Pittman Jr. 27 Yd pass from Daniel Jones (Spencer Shrader Kick)</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">2</td> <td align=\"left\">TD</td> <td align=\"left\">Daniel Jones 1 Yd Rush (Spencer Shrader Kick)</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">2</td> <td align=\"left\">FG</td> <td align=\"left\">Spencer Shrader 35 Yd Field Goal</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">3</td> <td align=\"left\">FG</td> <td align=\"left\">Spencer Shrader 28 Yd Field Goal</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">4</td> <td align=\"left\">TD</td> <td align=\"left\">Daniel Jones 1 Yd Rush (Spencer Shrader Kick)</td> </tr> <tr> <td align=\"left\">MIA</td> <td align=\"left\">4</td> <td align=\"left\">TD</td> <td align=\"left\">De'Von Achane 11 Yd pass from Tua Tagovailoa (Tua Tagovailoa Pass to Julian Hill for Two-Point Conversion)</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">4</td> <td align=\"left\">FG</td> <td align=\"left\">Spencer Shrader 48 Yd Field Goal</td> </tr> </tbody></table> <p><strong>Highlights from ESPN.com (Note: These links may expire in a few days)</strong></p> <ol> <li><a href=\"https://media.video-cdn.espn.com/motion/wsc/2025/0907/16af8977-e416-4cf4-a9ed-5628ec1ef012/16af8977-e416-4cf4-a9ed-5628ec1ef012_720p30_2896k.mp4\">Colts punish Tua INT with Pittman TD</a></li> <li><a href=\"https://media.video-cdn.espn.com/motion/wsc/2025/0907/636b5b24-2d5d-4b1c-af6b-70d0b64dd4d4/636b5b24-2d5d-4b1c-af6b-70d0b64dd4d4_720p30_2896k.mp4\">tua throws another int</a></li> <li><a href=\"https://media.video-cdn.espn.com/motion/wsc/2025/0907/09eeaad6-ffc4-4915-a282-8679450571ed/09eeaad6-ffc4-4915-a282-8679450571ed_720p30_2896k.mp4\">daniel jones td 1</a></li> <li><a href=\"https://media.video-cdn.espn.com/motion/wsc/2025/0907/f4e5e71c-1fd1-4b57-98ab-4f4efc3d87f7/f4e5e71c-1fd1-4b57-98ab-4f4efc3d87f7_720p30_2896k.mp4\">achane touchdown</a></li> <li><a href=\"https://media.video-cdn.espn.com/motion/wsc/2025/0907/f55b0132-b890-4ae8-976b-2792a5908f0a/f55b0132-b890-4ae8-976b-2792a5908f0a_720p30_2896k.mp4\">Daniel Jones powers in a rushing TD for the Colts. </a></li> </ol> <p><strong>Passing Leaders</strong></p> <table><thead> <tr> <th align=\"left\">Team</th> <th align=\"left\">Player</th> <th align=\"right\">C/ATT</th> <th align=\"right\">YDS</th> <th align=\"right\">TD</th> <th align=\"right\">INT</th> <th align=\"right\">SACKS</th> </tr> </thead><tbody> <tr> <td align=\"left\">MIA</td> <td align=\"left\">Tua Tagovailoa</td> <td align=\"right\">14/23</td> <td align=\"right\">114</td> <td align=\"right\">1</td> <td align=\"right\">2</td> <td align=\"right\">3-13</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">Daniel Jones</td> <td align=\"right\">22/29</td> <td align=\"right\">272</td> <td align=\"right\">1</td> <td align=\"right\">0</td> <td align=\"right\">1-10</td> </tr> </tbody></table> <p><strong>Rushing Leaders</strong></p> <table><thead> <tr> <th align=\"left\">Team</th> <th align=\"left\">Player</th> <th align=\"right\">CAR</th> <th align=\"right\">YDS</th> <th align=\"right\">AVG</th> <th align=\"right\">TD</th> <th align=\"right\">LONG</th> </tr> </thead><tbody> <tr> <td align=\"left\">MIA</td> <td align=\"left\">De'Von Achane</td> <td align=\"right\">7</td> <td align=\"right\">55</td> <td align=\"right\">7.9</td> <td align=\"right\">0</td> <td align=\"right\">26</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">Jonathan Taylor</td> <td align=\"right\">18</td> <td align=\"right\">71</td> <td align=\"right\">3.9</td> <td align=\"right\">0</td> <td align=\"right\">15</td> </tr> </tbody></table> <p><strong>Receiving Leaders</strong></p> <table><thead> <tr> <th align=\"left\">Team</th> <th align=\"left\">Player</th> <th align=\"right\">REC</th> <th align=\"right\">YDS</th> <th align=\"right\">AVG</th> <th align=\"right\">TD</th> <th align=\"right\">LONG</th> <th align=\"right\">TGTS</th> </tr> </thead><tbody> <tr> <td align=\"left\">MIA</td> <td align=\"left\">Tyreek Hill</td> <td align=\"right\">4</td> <td align=\"right\">40</td> <td align=\"right\">10.0</td> <td align=\"right\">0</td> <td align=\"right\">21</td> <td align=\"right\">6</td> </tr> <tr> <td align=\"left\">IND</td> <td align=\"left\">Michael Pittman Jr.</td> <td align=\"right\">6</td> <td align=\"right\">80</td> <td align=\"right\">13.3</td> <td align=\"right\">1</td> <td align=\"right\">27</td> <td align=\"right\">8</td> </tr> </tbody></table> <hr /> <p>Use <a href=\"https://reddit-stream.com/comments/auto\">reddit-stream.com</a> to get an autorefreshing version of this page</p> <p><sup>This</sup> <sup>was</sup> <sup>created</sup> <sup>by</sup> <sup>a</sup> <sup>bot.</sup> <sup>For</sup> <sup>issues</sup> <sup>or</sup> <sup>suggestions</sup> <sup>please</sup> <sup>message</sup> <sup>nfl_gdt_bot.</sup></p> <p><sup>Last</sup> <sup>updated:</sup> <sup>2025-09-07_16:19:42.764709-04:00</sup></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nfl_gdt_bot\"> /u/nfl_gdt_bot </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb2wun/post_game_thread_miami_dolphins_at_indianapolis/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb2wun/post_game_thread_miami_dolphins_at_indianapolis/\">[comments]</a></span>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb2wun/post_game_thread_miami_dolphins_at_indianapolis/",
+      "iso_date": "2025-09-07T19:49:21Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "4bdcf8a6ff54debe",
-      "title": "Colts beat Dolphins for first season-opening win since 2013",
-      "link": "https://fox59.com/sports/colts/colts-beat-dolphins-for-first-season-opening-win-since-2013/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-07T19:48:33+0000",
-      "summary": "INDIANAPOLIS — The Colts honored late owner Jim Irsay the best way they could — with a win. They dominated the Miami Dolphins, 33-8, in the season-opener Sunday afternoon at Lucas Oil Stadium. The win is their first in week 1 since quarterback Andrew Luck led them to victory against the Oakland Raiders in 2013. [...]"
-    },
-    {
-      "id": "4ea904dc31a4b48b",
-      "title": "FOR THE SHOE",
-      "link": "https://reddit.com/r/Colts/comments/1nb2cj0/for_the_shoe/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:27:10+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb2cj0/for_the_shoe/\"> <img alt=\"FOR THE SHOE\" src=\"https://preview.redd.it/y4rckquinsnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=932a2582ee48cd49c0edb292e3fa70f42829b319\" title=\"FOR THE SHOE\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rouxls__Kaard\"> /u/Rouxls__Kaard </a> <br /> <span><a href=\"https://i.redd.it/y4rckquinsnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb2cj0/for_the_shoe/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "id": "c5698d8d7ab3996b",
+      "id": "367a4395ed48e7ed7d7a81481d41e099",
       "title": "New Boss",
-      "link": "https://reddit.com/r/Colts/comments/1nb28gl/new_boss/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:22:45+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb28gl/new_boss/\"> <img alt=\"New Boss\" src=\"https://preview.redd.it/gioqnzkqmsnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d29b8771f9a5a73d08539cd572d83d013662e6a3\" title=\"New Boss\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker46112\"> /u/lurker46112 </a> <br /> <span><a href=\"https://i.redd.it/gioqnzkqmsnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb28gl/new_boss/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb28gl/new_boss/",
+      "iso_date": "2025-09-07T19:22:45Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "3010b51fa6071b24",
+      "id": "23817ac427eece225c93edcb65b4d608",
       "title": "The apology must be as loud as the disrespect",
-      "link": "https://reddit.com/r/Colts/comments/1nb238a/the_apology_must_be_as_loud_as_the_disrespect/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:17:10+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb238a/the_apology_must_be_as_loud_as_the_disrespect/\"> <img alt=\"The apology must be as loud as the disrespect\" src=\"https://preview.redd.it/zyshto8mlsnf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e4d9d6ab10645b5d3d6a7a766a8bb00e5a29a951\" title=\"The apology must be as loud as the disrespect\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kpbshiggy\"> /u/kpbshiggy </a> <br /> <span><a href=\"https://i.redd.it/zyshto8mlsnf1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb238a/the_apology_must_be_as_loud_as_the_disrespect/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb238a/the_apology_must_be_as_loud_as_the_disrespect/",
+      "iso_date": "2025-09-07T19:17:10Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "1751dfbb85beab60",
-      "title": "WE GOT A GREEN DILDO!",
-      "link": "https://reddit.com/r/Colts/comments/1nb1wd0/we_got_a_green_dildo/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T19:09:45+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb1wd0/we_got_a_green_dildo/\"> <img alt=\"WE GOT A GREEN DILDO!\" src=\"https://preview.redd.it/co22oureksnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d89097cb930b5abf9692bfebdbae60bf3076502\" title=\"WE GOT A GREEN DILDO!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MrSoxo\"> /u/MrSoxo </a> <br /> <span><a href=\"https://i.redd.it/co22oureksnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb1wd0/we_got_a_green_dildo/\">[comments]</a></span> </td></tr></table>"
+      "id": "a0b55768ffb1b7ac081da168a9c8b37d",
+      "title": "NFL draft risers, questions and notes from Kiper, Miller and Reid: Early concerns around top QBs?",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "iso_date": "2025-09-07T18:34:42Z",
+      "source": "ESPN — Colts"
     },
     {
-      "id": "1fb76dcd68c385c0",
-      "title": "Fill it out",
-      "link": "https://reddit.com/r/Colts/comments/1nb11nm/fill_it_out/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T18:36:50+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb11nm/fill_it_out/\"> <img alt=\"Fill it out\" src=\"https://preview.redd.it/b3xpv0iiesnf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cdc2302f41ea9046ebfc372b6daede90cbded627\" title=\"Fill it out\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BitwiseBastiat\"> /u/BitwiseBastiat </a> <br /> <span><a href=\"https://i.redd.it/b3xpv0iiesnf1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb11nm/fill_it_out/\">[comments]</a></span> </td></tr></table>"
+      "id": "b9be8049f2131a1a2c9389feba52407f",
+      "title": "2026 NFL draft rankings: Top prospects at every position from Miller, Reid and Yates",
+      "link": "https://www.espn.com/nfl/draft2026/story/_/id/46149416/2026-nfl-draft-rankings-top-prospects-position",
+      "iso_date": "2025-09-07T18:34:42Z",
+      "source": "ESPN — Colts"
     },
     {
-      "id": "578eaf610c21d795",
-      "title": "WE'VE BEEN FOOLED BEFORE, FAM!",
-      "link": "https://reddit.com/r/Colts/comments/1nb0q6r/weve_been_fooled_before_fam/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T18:24:59+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb0q6r/weve_been_fooled_before_fam/\"> <img alt=\"WE'VE BEEN FOOLED BEFORE, FAM!\" src=\"https://preview.redd.it/mhrc7e2fcsnf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=652afc785ed2983790a5eb38d82ec7dab54844a3\" title=\"WE'VE BEEN FOOLED BEFORE, FAM!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>:,)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WombatKiddo\"> /u/WombatKiddo </a> <br /> <span><a href=\"https://i.redd.it/mhrc7e2fcsnf1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb0q6r/weve_been_fooled_before_fam/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "id": "33a4db3b323717fe",
+      "id": "b07dcea41b6995fbbbebf88de67925bd",
       "title": "How many of us are feeling…",
-      "link": "https://reddit.com/r/Colts/comments/1nb0gos/how_many_of_us_are_feeling/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T18:14:55+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nb0gos/how_many_of_us_are_feeling/\"> <img alt=\"How many of us are feeling…\" src=\"https://preview.redd.it/tqtp5ovmasnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f92aa14ee01854cc38c7044b3fdda6f5cddca26\" title=\"How many of us are feeling…\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EcstaticTangelo6670\"> /u/EcstaticTangelo6670 </a> <br /> <span><a href=\"https://i.redd.it/tqtp5ovmasnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nb0gos/how_many_of_us_are_feeling/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nb0gos/how_many_of_us_are_feeling/",
+      "iso_date": "2025-09-07T18:14:55Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "a183c61f47cee4f1",
+      "id": "f5b10036e2e76dcc67b952151e3462a9",
       "title": "Shaq Leonard still cheering on his former Colts teammates 🥹",
-      "link": "https://reddit.com/r/Colts/comments/1nazwj6/shaq_leonard_still_cheering_on_his_former_colts/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T17:53:47+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nazwj6/shaq_leonard_still_cheering_on_his_former_colts/\"> <img alt=\"Shaq Leonard still cheering on his former Colts teammates 🥹\" src=\"https://preview.redd.it/4o6tqe4v6snf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69b87dd091f80683fadf4de1d1f4e6c662a6f414\" title=\"Shaq Leonard still cheering on his former Colts teammates 🥹\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LCV1997\"> /u/LCV1997 </a> <br /> <span><a href=\"https://i.redd.it/4o6tqe4v6snf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nazwj6/shaq_leonard_still_cheering_on_his_former_colts/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nazwj6/shaq_leonard_still_cheering_on_his_former_colts/",
+      "iso_date": "2025-09-07T17:53:47Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "4cb122772fb33c65",
-      "title": "This is what happens when you have a good WR core, welcome to Indiana Jones",
-      "link": "https://reddit.com/r/Colts/comments/1nazvcy/this_is_what_happens_when_you_have_a_good_wr_core/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T17:52:33+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nazvcy/this_is_what_happens_when_you_have_a_good_wr_core/\"> <img alt=\"This is what happens when you have a good WR core, welcome to Indiana Jones\" src=\"https://preview.redd.it/hfbo7m9n6snf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d265fdef2aabd3b1d0cfcbd24c071366fb5664ea\" title=\"This is what happens when you have a good WR core, welcome to Indiana Jones\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ComplaintMore2312\"> /u/ComplaintMore2312 </a> <br /> <span><a href=\"https://i.redd.it/hfbo7m9n6snf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nazvcy/this_is_what_happens_when_you_have_a_good_wr_core/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "id": "66c75096d28f1d18",
+      "id": "f921fa7d3705c18891e33b0b7d1eaf9e",
       "title": "Danny Dimes making me realize how bad AR was",
-      "link": "https://reddit.com/r/Colts/comments/1nazky2/danny_dimes_making_me_realize_how_bad_ar_was/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T17:41:18+0000",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hear me out. I know he won’t win us a Super Bowl but Daniel Jones looks leagues better than AR.</p> <p>I was a huge supporter of AR but this is night and day difference. Now I will pump the brakes and say that I know the bad side of Danny Dimes is awful when he’s bad.</p> <p>All I’m saying is that, unfortunately, as much as I want AR to work out. I don’t think that it’s a possibility that AR develops with us. I wish him the best of luck with a new team. Daniel Jones isn’t the answer but it shows how good the team is outside of QB.</p> <p>Overreaction to week one before halftime: Ride the season out. Trade some of the old players and swing for the fences with a early top 3 QB in 2026 draft</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Impressive-Focus-905\"> /u/Impressive-Focus-905 </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1nazky2/danny_dimes_making_me_realize_how_bad_ar_was/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nazky2/danny_dimes_making_me_realize_how_bad_ar_was/\">[comments]</a></span>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nazky2/danny_dimes_making_me_realize_how_bad_ar_was/",
+      "iso_date": "2025-09-07T17:41:18Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "7429e6e5b733f627",
+      "id": "961aed51f191dcd3589515b9c686bf23",
       "title": "When Daniel Jones does the bare minimum",
-      "link": "https://reddit.com/r/Colts/comments/1nazagi/when_daniel_jones_does_the_bare_minimum/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T17:30:06+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1nazagi/when_daniel_jones_does_the_bare_minimum/\"> <img alt=\"When Daniel Jones does the bare minimum\" src=\"https://preview.redd.it/wk2hzw4i2snf1.gif?width=320&amp;crop=smart&amp;s=b44748d9906dc5f2d0932e9e1ebab47b0bdf0a31\" title=\"When Daniel Jones does the bare minimum\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mishymashyman\"> /u/mishymashyman </a> <br /> <span><a href=\"https://i.redd.it/wk2hzw4i2snf1.gif\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1nazagi/when_daniel_jones_does_the_bare_minimum/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1nazagi/when_daniel_jones_does_the_bare_minimum/",
+      "iso_date": "2025-09-07T17:30:06Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "11cde46da33bda2c",
+      "id": "5f378e991c173bcaabe1b67f7f0e42e9",
       "title": "Week 1 Colts vs. Dolphins Game Thread",
-      "link": "https://stampedeblue.com/gamethreads/114290/week-1-colts-vs-dolphins-game-thread-anthony-richardson-daniel-jones-tyler-warren-laiatu-latu",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-07T16:55:00+0000",
-      "summary": "The Indianapolis Colts are at home to take on the Miami Dolphins in week 1 of the 2025 season, kickoff is at 1:00 p.m. EST. There’s a new starting quarterback in Indianapolis (I’m sure you’ve heard about it) and this will be Daniel Jones’ first crack at leading the 2025 Colts. Enough digital ink has been spilled [&#8230;]"
+      "link": "https://www.stampedeblue.com/gamethreads/114290/week-1-colts-vs-dolphins-game-thread-anthony-richardson-daniel-jones-tyler-warren-laiatu-latu",
+      "iso_date": "2025-09-07T16:55:00Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "1b880a67a18dca99",
-      "title": "Sideline to Sideline: Jim Irsay Memories",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-jim-irsay-memories/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-07T16:25:18+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic goes sideline to sideline with the Colts trying to give fans more insight to their favorite players. With Jim Irsay going into the franchise's Ring of Honor today, Chris asks players what their favorite memory is of the team's late owner."
-    },
-    {
-      "id": "b5afabe3f8b88b71",
+      "id": "170f937f416df9dc66c180f4cf6ba80d",
       "title": "The Sheriff is IN THE HAUSS",
-      "link": "https://reddit.com/r/Colts/comments/1naxkbs/the_sheriff_is_in_the_hauss/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-07T16:23:17+0000",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Colts/comments/1naxkbs/the_sheriff_is_in_the_hauss/\"> <img alt=\"The Sheriff is IN THE HAUSS\" src=\"https://preview.redd.it/qzf2e4qpqrnf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=302fb9aa529d411e1f9ebbc4619bfc1cda2b8d21\" title=\"The Sheriff is IN THE HAUSS\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/iseedeadpeople1973\"> /u/iseedeadpeople1973 </a> <br /> <span><a href=\"https://i.redd.it/qzf2e4qpqrnf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1naxkbs/the_sheriff_is_in_the_hauss/\">[comments]</a></span> </td></tr></table>"
+      "link": "https://www.reddit.com/r/Colts/comments/1naxkbs/the_sheriff_is_in_the_hauss/",
+      "iso_date": "2025-09-07T16:23:17Z",
+      "source": "Reddit — r/Colts"
     },
     {
-      "id": "36a0f88e4997eddf",
-      "title": "Keys to the Game: Colts vs. Dophins",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-dophins/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-07T16:15:34+0000",
-      "summary": "INDIANAPOLIS - The Colts are looking for their first win in week one of the NFL season since Andrew Luck led the team to victory over the Oakland Raiders in 2013. IndyStar Colts insider Joel A. Erickson gives his keys to snapping that skid in today's season opener against the Miami Dolphins."
+      "id": "d988c251b048ac8a3fed1da293550ba3",
+      "title": "Cleveland Browns fans know how to keep the faith",
+      "link": "https://www.espn.com/nfl/story/_/id/46168604/cleveland-browns-fans-dedication-nfl-season-opener-2025",
+      "iso_date": "2025-09-07T13:10:00Z",
+      "source": "ESPN — Colts"
     },
     {
-      "id": "b564654923c76f43",
-      "title": "Dolphins at Colts: What to watch for",
-      "link": "https://fox59.com/sports/colts/dolphins-at-colts-what-to-watch-for/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-06T19:54:29+0000",
-      "summary": "INDIANAPOLIS – Areas of interest as the Indianapolis Colts open the season against the Miami Dolphins Sunday at Lucas Oil Stadium: Kickoff: 1 p.m. Broadcast: CBS4. Spread: Colts by 1½. History lesson, Part I The Colts will induct Jim Irsay into their Ring of Honor at halftime. The late owner established the tradition in September 1996 when he [...]"
-    },
-    {
-      "id": "5792f10823b70151",
+      "id": "a8da706da29ff106e81e18fb64cad7bb",
       "title": "Where to Watch: Dolphins at Colts for 2025 season opener",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/114284/where-to-watch-dolphins-at-colts-for-2025-season-opener",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-06T19:01:57+0000",
-      "summary": "The Indianapolis Colts (0-0) (-1.5) host the Miami Dolphins (0-0) for the 2025 regular season opener at 1 PM EST, at Lucas Oil Stadium, which the Horseshoe shockingly hasn’t won a Week 1 game since 2013. Indianapolis will be looking to snap that embarrassingly long franchise streak, and perhaps they’ll get some help from up [&#8230;]"
+      "link": "https://www.stampedeblue.com/indianapolis-colts-news/114284/where-to-watch-dolphins-at-colts-for-2025-season-opener",
+      "iso_date": "2025-09-06T19:01:57Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "85f474cfcf149744",
+      "id": "74cbe080df72e9ef036034c17955d658",
       "title": "Report: Colts among teams that made initial trade inquiry to Cowboys on Micah Parsons",
-      "link": "https://stampedeblue.com/indianapolis-colts-rumors/114276/colts-among-teams-that-made-initial-trade-inquiry-to-cowboys-on-micah-parsons",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-06T18:24:56+0000",
-      "summary": "According to The Athletic’s Dianna Russini, the Indianapolis Colts were among the interested initial suitors that called the Dallas Cowboys on potentially acquiring their former star pass rusher, Micah Parsons, prior to him surprisingly being traded to the Green Bay Packers last week: “About a week before the deal was finalized, word spread that the [&#8230;]"
+      "link": "https://www.stampedeblue.com/indianapolis-colts-rumors/114276/colts-among-teams-that-made-initial-trade-inquiry-to-cowboys-on-micah-parsons",
+      "iso_date": "2025-09-06T18:24:56Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "e4ba887e3603c58b",
+      "id": "487cb6b4d9bc1a9e6297306b471cfed8",
       "title": "Colts fans rank as least optimistic, and it’s important to understand why",
-      "link": "https://stampedeblue.com/analysis/114250/colts-fans-rank-as-least-optimistic-and-its-important-to-understand-why",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-06T18:04:23+0000",
-      "summary": "We’re number one! We’re number one! Hey, we are… The Indianapolis Colts rank dead last in an Athletic article ranking fans’ optimism heading into the season. That is a place no fan wants to be, but at least based on the people who participated in the poll, that is the reality of the situation. Should [&#8230;]"
+      "link": "https://www.stampedeblue.com/analysis/114250/colts-fans-rank-as-least-optimistic-and-its-important-to-understand-why",
+      "iso_date": "2025-09-06T18:04:23Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "c4af3c40996eebac",
+      "id": "c5bde8314cf153eba979693d53fc8b2a",
       "title": "Colts’ Matchups to Watch: Week 1 vs. Dolphins",
-      "link": "https://stampedeblue.com/analysis/114268/colts-matchups-to-watch-week-1-vs-dolphins",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-06T17:44:39+0000",
-      "summary": "And we are now back for yet another NFL season together following our beloved Indianapolis Colts. Let me kick things off by saying that this is probably the least optimistic start of the year I have been a part of since following the team. From every single standpoint, this seems like just a wasted year [&#8230;]"
+      "link": "https://www.stampedeblue.com/analysis/114268/colts-matchups-to-watch-week-1-vs-dolphins",
+      "iso_date": "2025-09-06T17:44:39Z",
+      "source": "Stampede Blue"
     },
     {
-      "id": "e04c8f32180afc99",
-      "title": "Daniel Jones could be a factor as Colts lean on Jonathan Taylor-led run game in '25",
-      "link": "https://fox59.com/sports/colts/daniel-jones-could-be-a-factor-as-colts-lean-on-jonathan-taylor-led-run-game-in-25/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-05T22:18:01+0000",
-      "summary": "INDIANAPOLIS – The message has been the same as the Indianapolis Colts prepare to follow yet another starting quarterback into a season. Daniel Jones is the 11th different starter since Andrew Luck’s retirement prior to the 2019 season, and the sixth who’ll lead the offense into the opener. He’s cerebral, a great communicator, has command [...]"
+      "id": "1d017f589a82fbd92e7c0723d2014a5c",
+      "title": "NFL's youngest head coach hopes to follow in his father's winning footsteps",
+      "link": "https://www.espn.com/nfl/story/_/id/46137573/new-orleans-saints-coach-kellen-moore-leans-experience-father-revamp-offense",
+      "iso_date": "2025-09-05T12:00:00Z",
+      "source": "ESPN — Colts"
     },
     {
-      "id": "f3c74d716ab407ad",
-      "title": "Indianapolis recalls charitable side of Jim Irsay",
-      "link": "https://fox59.com/sports/colts/indianapolis-recalls-charitable-side-of-jim-irsay/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-05T14:02:59+0000",
-      "summary": "INDIANAPOLIS -- When the late Jim Irsay’s name is added to the Colts Ring of Honor at Lucas Oil Stadium during the team’s season opener against the Miami Dolphins on Sunday, his role as one of the leading owners of the NFL will be recalled. But more importantly, to the people and organizations of his [...]"
-    },
-    {
-      "id": "332ddc7efec2423d",
+      "id": "5ea5c7a12f914fb1a09c65882f58c1ba",
       "title": "Free Talk Friday",
-      "link": "https://reddit.com/r/Colts/comments/1n925ck/free_talk_friday/",
-      "source": "Reddit — r/Colts",
-      "feed": "Reddit — r/Colts",
-      "published": "2025-09-05T11:00:40+0000",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/Colts/comments/1n925ck/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Colts/comments/1n925ck/free_talk_friday/\">[comments]</a></span>"
-    },
-    {
-      "id": "4ce034883e3b7368",
-      "title": "Laiatu Latu’s impact critical to Colts’ retooled defense",
-      "link": "https://fox59.com/sports/colts/laiatu-latus-impact-critical-to-colts-retooled-defense/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-04T22:34:54+0000",
-      "summary": "INDIANAPOLIS — The makeover has been extensive and expensive. But whether the Indianapolis Colts are able to re-establish their defense as a formidable unit might well hinge more on a high-profile returnee than the slew of additions. That would be Laiatu Latu. General manager Chris Ballard has given first-year coordinator Lou Anarumo: The renovation of the [...]"
-    },
-    {
-      "id": "9a8e45be8bc62c34",
-      "title": "Colts ready for gameday with new amenities, ceremony to honor Irsay",
-      "link": "https://fox59.com/sports/colts/colts-ready-for-gameday-with-new-amenities-ceremony-to-honor-irsay/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-04T21:00:34+0000",
-      "summary": "INDIANAPOLIS -- Football season is officially back in the Circle City. The Indianapolis Colts are taking on the Miami Dolphins for the 42nd regular-season home opener at Lucas Oil Stadium. As folks make their way up the stadium steps, enhanced security screening technology should improve the wait times getting in. “We're going to have better [...]"
-    },
-    {
-      "id": "f9a0204e39191944",
-      "title": "Colts Blue Zone Podcast 421: Colts Look to Stop Season-Opening Trend",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-421-colts-look-to-stop-season-opening-trend/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-04T18:50:11+0000",
-      "summary": "In this episode of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams break down the team's Week 1 showdown against the Miami Dolphins. What are the Colts' strengths and areas of concern? Can the revamped secondary keep up with Tyreek Hill and the Dolphins' playmakers? We'll explore those questions, discuss some [...]"
-    },
-    {
-      "id": "a77865e661097c8f",
-      "title": "Construction continues around Lucas Oil ahead of Colts game day",
-      "link": "https://fox59.com/indiana-news/construction-continues-around-lucas-oil-ahead-of-colts-game-day/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-04T14:56:19+0000",
-      "summary": "INDIANAPOLIS - The Colts have their first regular-season game against the Miami Dolphins this Sunday! However, for fans attending this weekend's first game, there are several construction projects surrounding the stadium. Along with constructing the Signia Hotel and making Georgia Street pedestrian friendly, the Indianapolis Department of Metropolitan Development is working on Illinois Street and [...]"
-    },
-    {
-      "id": "fd8f1d2f1a3d7e23",
-      "title": "Colts’ Daniel Jones: New opportunity to go out and prove it",
-      "link": "https://fox59.com/sports/colts/colts-daniel-jones-new-opportunity-to-go-out-and-prove-it/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-03T22:20:44+0000",
-      "summary": "INDIANAPOLIS — There will be spin and deflection in the coming days, but a few issues are undeniable. Issue 1 The Indianapolis Colts are Daniel Jones’ team. Shane Steichen made that clear Aug. 19. “Daniel Jones will be our starting quarterback this season,’’ he said. For the season. “I don’t want to have a quick leash [...]"
-    },
-    {
-      "id": "5aa56f313e2cef27",
-      "title": "Indianapolis Colts ready to kick off new season",
-      "link": "https://fox59.com/sports/colts/indianapolis-colts-ready-to-kick-off-new-season/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-03T10:50:55+0000",
-      "summary": "The countdown to kickoff is on! The Indianapolis Colts are just about ready to start their new season. Hayden Barnack, director of marketing for the Colts, joined FOX59 Morning News (with Blue!) to talk about the upcoming game and what fans can expect. Learn more here."
-    },
-    {
-      "id": "bbe91ec67520376a",
-      "title": "Jim Irsay next for Colts’ Ring of Honor: ‘He lived large in every aspect of his life’",
-      "link": "https://fox59.com/sports/colts/jim-irsay-next-for-colts-ring-of-honor-he-lived-large-in-every-aspect-of-his-life/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-02T23:23:57+0000",
-      "summary": "INDIANAPOLIS – It’s always been a vote of one. Pete Ward always came up with a short list of candidates to be considered, but in the end, Jim Irsay’s was the only voice that mattered when the discussion turned to the Indianapolis Colts’ Ring of Honor. A voice of one. “He got the final say,’’ [...]"
-    },
-    {
-      "id": "c1f329a30d3cebfe",
-      "title": "Daniel Jones next in line as Colts look to snap 11-year winless streak in openers",
-      "link": "https://fox59.com/sports/colts/daniel-jones-next-in-line-as-colts-look-to-snap-11-year-winless-streak-in-openers/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-01T22:22:29+0000",
-      "summary": "INDIANAPOLIS — Yes, it’s been a minute. The last time the Indianapolis Colts won a season-opener, the quarterback who’ll lead them into their next season-opener was a junior at Charlotte Latin School in North Carolina who would pass for 2,398 yards and 27 touchdowns. That would be Daniel Jones, who’ll play a pivotal role in [...]"
-    },
-    {
-      "id": "06f980217f1c8174",
-      "title": "Colts signing LB Anthony Walker to practice squad",
-      "link": "https://fox59.com/sports/colts/colts-signing-lb-anthony-walker-to-practice-squad/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-09-01T13:09:15+0000",
-      "summary": "INDIANAPOLIS – A former Colt is coming home. Anthony Walker Jr., a member of general manager Chris Ballard’s first draft class in 2017, has been signed to Indy’s practice squad. He went through a workout last week. Walker, 30, was a fifth-round pick in ’17 out of Northwestern who would develop from a special teams [...]"
-    },
-    {
-      "id": "27df9d7adfd6d917",
-      "title": "Colts giving Joe Bachie an opportunity to return to linebacker roots",
-      "link": "https://fox59.com/sports/colts/colts-giving-joe-bachie-an-opportunity-to-return-to-linebacker-roots/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-08-28T21:04:57+0000",
-      "summary": "INDIANAPOLIS – Joe Bachie’s cell phone sprang to life in early May. Opportunity was calling. First and foremost, it was an opportunity to extend and perhaps expand his NFL career. Bachie had spent four of his five seasons with the Cincinnati Bengals but was an unrestricted free agent. “I had something else lined up,’’ he [...]"
-    },
-    {
-      "id": "44f6a783e1204de9",
-      "title": "Chris Ballard on benched Anthony Richardson Sr.: ‘We’re not trading him’",
-      "link": "https://fox59.com/sports/colts/chris-ballard-on-benched-anthony-richardson-sr-were-not-trading-him/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-08-27T22:13:32+0000",
-      "summary": "INDIANAPOLIS – Despite the team’s actions to the contrary, Chris Ballard remains bullish on the 20-year-old quarterback he selected with the No. 4 overall pick in the 2023 draft. You know, the one Shane Steichen and the Indianapolis Colts have benched twice in less than 10 months. That would be Anthony Richardson Sr., now 23. [...]"
-    },
-    {
-      "id": "f1d104245d610c5d",
-      "title": "Waiver claim Chad Muma boosts Colts’ LB room",
-      "link": "https://fox59.com/sports/colts/waiver-claim-chad-muma-boosts-colts-lb-room/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-08-27T20:25:27+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts didn’t rest once they reached the NFL-mandated 53-player limit. On Wednesday, they were awarded linebacker Chad Muma, who was waived by Jacksonville. The 6-foot-3, 239-pounder was a 2022 third-round draft pick of the Jaguars. He appeared in 50 games with seven starts. Muma is viewed as a ‘backer capable of [...]"
-    },
-    {
-      "id": "0320bd583d4e532a",
-      "title": "Colts Blue Zone Podcast 420: Ballard on QB Situation, Roster Cuts",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-420-ballard-on-qb-situation-roster-cuts/",
-      "source": "FOX59",
-      "feed": "FOX59",
-      "published": "2025-08-27T19:24:20+0000",
-      "summary": "The Colts cut their roster down to 53, but the work is far from done. In this episode of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams react to Chris Ballard's preseason news conference, his comments on the Daniel Jones-Anthony Richardson Sr. quarterback battle and his take on AR's future in [...]"
-    }
-  ],
-  "links": [
-    {
-      "label": "Schedule",
-      "url": "https://www.colts.com/schedule/"
-    },
-    {
-      "label": "Roster",
-      "url": "https://www.colts.com/team/players-roster/"
-    },
-    {
-      "label": "Depth Chart",
-      "url": "https://www.espn.com/nfl/team/depth/_/name/ind/indianapolis-colts"
-    },
-    {
-      "label": "Injury Report",
-      "url": "https://www.colts.com/team/injury-report/"
-    },
-    {
-      "label": "Fan Zone",
-      "url": "https://www.colts.com/fans/"
-    },
-    {
-      "label": "Team Shop",
-      "url": "https://shop.colts.com/"
-    },
-    {
-      "label": "Tickets",
-      "url": "https://www.colts.com/tickets/"
-    },
-    {
-      "label": "Reddit",
-      "url": "https://www.reddit.com/r/Colts/"
-    },
-    {
-      "label": "Bleacher Report",
-      "url": "https://bleacherreport.com/indianapolis-colts"
-    },
-    {
-      "label": "ESPN Team",
-      "url": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts"
-    },
-    {
-      "label": "Yahoo Team",
-      "url": "https://sports.yahoo.com/nfl/teams/ind/"
-    },
-    {
-      "label": "PFF Team Page",
-      "url": "https://www.pff.com/nfl/teams/indianapolis-colts"
-    },
-    {
-      "label": "Pro-Football-Reference",
-      "url": "https://www.pro-football-reference.com/teams/clt/"
-    },
-    {
-      "label": "NFL Power Rankings",
-      "url": "https://www.nfl.com/news/power-rankings"
-    },
-    {
-      "label": "Stats",
-      "url": "https://www.teamrankings.com/nfl/team/indianapolis-colts"
-    },
-    {
-      "label": "Standings",
-      "url": "https://www.nfl.com/standings/league/2025/REG"
+      "link": "https://www.reddit.com/r/Colts/comments/1n925ck/free_talk_friday/",
+      "iso_date": "2025-09-05T11:00:40Z",
+      "source": "Reddit — r/Colts"
     }
   ]
 }
