@@ -1,134 +1,99 @@
-#!/usr/bin/env python3
-# Indianapolis Colts — News collector (HARDENED: strict source whitelist + clean labels)
-import json, time, re, hashlib
-from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
-from datetime import datetime, timezone
+import json, time, hashlib, pathlib, concurrent.futures
+from urllib.parse import urlparse
 import feedparser
 
-from feeds import FEEDS, STATIC_LINKS
+# ---- config
+from feeds import FEEDS
 
-MAX_ITEMS = 60
+OUT = pathlib.Path("items.json")
+MAX_PER_FEED = 60         # collect extra, we’ll trim globally
+MAX_TOTAL = 200           # keep recent across all (frontend trims to 50)
+TIMEOUT = 15
 
-# === Only these may appear in the Source menu ===
-ALLOWED_SOURCES = {
-    "Colts.com", "Stampede Blue", "Colts Wire", "IndyStar",
-    "ESPN", "Yahoo Sports", "Sports Illustrated", "CBS Sports",
-    "SB Nation", "WTHR", "FOX59", "PFF", "NFL.com",
-    "Bleacher Report", "Reddit — r/Colts"
-}
+def norm_item(feed_name, e, feed_href):
+    # Prefer entry link; some feeds use "id" or "link"
+    link = e.get("link") or e.get("id") or ""
+    title = (e.get("title") or "").strip()
+    # published parsed
+    t = None
+    for k in ("published_parsed", "updated_parsed", "created_parsed"):
+        if e.get(k):
+            t = e[k]
+            break
 
-def now_iso():
-    return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
-
-def _host(u: str) -> str:
-    try:
-        netloc = urlparse(u).netloc.lower()
-        for pat in ("www.", "m.", "amp."):
-            if netloc.startswith(pat):
-                netloc = netloc[len(pat):]
-        return netloc
-    except Exception:
-        return ""
-
-def canonical(u: str) -> str:
-    try:
-        p = urlparse(u)
-        keep = {"id","story","v","p"}
-        q = parse_qs(p.query)
-        q = {k:v for k,v in q.items() if k in keep}
-        p = p._replace(query=urlencode(q, doseq=True), fragment="", netloc=_host(u))
-        return urlunparse(p)
-    except Exception:
-        return u
-
-def hid(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
-
-# Host → nice label (must also be in ALLOWED_SOURCES to pass)
-ALIASES = {
-    "stampedeblue.com": "Stampede Blue",
-    "coltswire.usatoday.com": "Colts Wire",
-    "colts.com": "Colts.com",
-    "espn.com": "ESPN",
-    "sports.yahoo.com": "Yahoo Sports",
-    "si.com": "Sports Illustrated",
-    "sbnation.com": "SB Nation",
-    "indystar.com": "IndyStar",
-    "wthr.com": "WTHR",
-    "fox59.com": "FOX59",
-    "pff.com": "PFF",
-    "nfl.com": "NFL.com",
-    "bleacherreport.com": "Bleacher Report",
-    "cbssports.com": "CBS Sports",
-}
-
-def source_label(entry_link: str, feed_name: str) -> str:
-    # Reddit always collapses to one label
-    if "Reddit — r/Colts" in feed_name or "reddit.com" in entry_link:
-        return "Reddit — r/Colts"
-    host = _host(entry_link)
-    return ALIASES.get(host, "")  # empty means "not allowed"
-
-COLTS_KEEP = [
-    r"\bColts\b", r"\bIndianapolis\b", r"\bIndy\b",
-    r"\bAnthony Richardson\b", r"\bJonathan Taylor\b", r"\bMichael Pittman\b",
-    r"\bShane Steichen\b", r"\bQuenton Nelson\b", r"\bDeForest Buckner\b",
-]
-COLTS_DROP = [r"\bwomen'?s\b", r"\bWBB\b", r"\bvolleyball\b", r"\bbasketball\b", r"\bbaseball\b"]
-
-def allowed_text(title: str, summary: str) -> bool:
-    text = f"{title} {summary}"
-    if not any(re.search(p, text, re.I) for p in COLTS_KEEP): return False
-    if any(re.search(p, text, re.I) for p in COLTS_DROP): return False
-    return True
-
-def fetch_all():
-    items, seen = [], set()
-    for f in FEEDS:
-        fname, furl = f["name"].strip(), f["url"].strip()
+    # Build ISO if we have struct_time
+    iso_date = ""
+    if t:
         try:
-            parsed = feedparser.parse(furl)
+            iso_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", t)
         except Exception:
-            continue
+            iso_date = ""
+    # Fallback: raw strings (let frontend parse if possible)
+    if not iso_date:
+        for k in ("published", "updated", "created"):
+            if e.get(k):
+                iso_date = e[k]
+                break
 
-        for e in parsed.entries[:120]:
-            link = canonical((e.get("link") or e.get("id") or "").strip())
-            if not link:
-                continue
-            key = hid(link)
-            if key in seen:
-                continue
+    # Source: explicit feed name; fallback to host
+    src = feed_name or (urlparse(feed_href).netloc if feed_href else "")
 
-            # HARD GATE: label must map to an allowed source (for ALL feeds)
-            src = source_label(link, fname)
-            if not src or src not in ALLOWED_SOURCES:
-                continue
+    return {
+        "id": hashlib.md5((link or title).encode("utf-8","ignore")).hexdigest(),
+        "title": title,
+        "link": link,
+        "iso_date": iso_date,
+        "source": src
+    }
 
-            title = (e.get("title") or "").strip()
-            summary = (e.get("summary") or e.get("description") or "").strip()
-            if not allowed_text(title, summary):
-                continue
+def fetch(feed):
+    name = feed["name"]
+    url = feed["url"]
+    try:
+        d = feedparser.parse(url, request_headers={"User-Agent":"news-bot/1.0"})
+        items = []
+        for e in d.entries[:MAX_PER_FEED]:
+            it = norm_item(name, e, d.feed.get("link") or url)
+            if it["title"] and it["link"]:
+                items.append(it)
+        return items
+    except Exception:
+        return []
 
-            pub = e.get("published_parsed") or e.get("updated_parsed")
-            ts = time.strftime("%Y-%m-%dT%H:%M:%S%z", pub) if pub else now_iso()
+def main():
+    start = time.time()
+    items = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=min(8, len(FEEDS))) as ex:
+        for batch in ex.map(fetch, FEEDS):
+            if batch:
+                items.extend(batch)
 
-            items.append({
-                "id": key,
-                "title": title,
-                "link": link,
-                "source": src,
-                "feed": fname,
-                "published": ts,
-                "summary": summary,
-            })
-            seen.add(key)
+    # Sort by iso_date (best effort) newest first
+    def sort_key(i):
+        # try to parse yyyy-mm-dd first; else last 20 chars timestamp-ish
+        s = i.get("iso_date") or ""
+        try:
+            # fast path for %Y-%m-%dT%H:%M:%S
+            if len(s) >= 19 and s[4] == "-" and s[7] == "-" and s[10] in " T":
+                # rough rank: remove non-digits
+                return int("".join(ch for ch in s if ch.isdigit())[:14])
+        except Exception:
+            pass
+        return 0
 
-    items.sort(key=lambda x: x["published"], reverse=True)
-    return items[:MAX_ITEMS]
+    items.sort(key=sort_key, reverse=True)
+    items = items[:MAX_TOTAL]
 
-def write_items(items):
-    with open("items.json", "w", encoding="utf-8") as f:
-        json.dump({"updated": now_iso(), "items": items, "links": STATIC_LINKS}, f, ensure_ascii=False, indent=2)
+    # Build sources list for dropdown
+    sources = sorted({i["source"] for i in items if i.get("source")})
+
+    out = {
+        "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "sources": sources,
+        "items": items
+    }
+    OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Wrote {len(items)} items from {len(FEEDS)} feeds in {time.time()-start:.1f}s")
 
 if __name__ == "__main__":
-    write_items(fetch_all())
+    main()
