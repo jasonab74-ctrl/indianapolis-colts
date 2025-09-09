@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T07:30:58+00:00",
+  "updated": "2025-09-09T07:42:51+00:00",
   "items": [
     {
       "id": "d36f5169e190d109",
@@ -63,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T06:14:36+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 1."
-    },
-    {
-      "id": "98e2a2422aa96246",
-      "title": "Tank Bigsby trade means Bengals will see plenty of Travis Etienne vs Jaguars in NFL Week 2",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/09/09/tank-bigsby-trade-means-bengals-get-travis-etienne-running-back-vs-jaguars/86052450007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T06:13:36+0000",
-      "summary": "Travis Etienne, who had the second-highest rushing total in NFL Week 1, was a teammate of Bengals receiver Tee Higgins at Clemson."
     },
     {
       "id": "6ed79dbfce653c72",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-01T13:33:40+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "b24ef94fcbdb159c",
+      "title": "Colts to honor Lucas Oil founder Forrest Lucas at week two game vs. Denver",
+      "link": "https://colts.com/news/colts-to-honor-lucas-oil-founder-forrest-lucas-week-2-denver-broncos-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-08-29T14:00:00+0000",
+      "summary": "The Indianapolis Colts will pay special tribute to Forrest Lucas, the founder of Lucas Oil Products, during their Week 2 matchup vs. the Denver Broncos on Sun., Sept. 14."
     }
   ],
   "links": [
