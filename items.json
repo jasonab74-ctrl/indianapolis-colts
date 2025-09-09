@@ -1,6 +1,177 @@
 {
-  "updated": "2025-09-09T03:53:06+00:00",
+  "updated": "2025-09-09T04:40:09+00:00",
   "items": [
+    {
+      "id": "f8dee1af207226f4",
+      "title": "✍ NFL trade grades: Who won Bigsby deal?",
+      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T05:04:33+0000",
+      "summary": "The Eagles added some running back depth behind Saquon Barkley, but did they give up too much for Bigsby? We sized up the deal from both sides."
+    },
+    {
+      "id": "5c6d29fee584ff1e",
+      "title": "Ex-Fins CB says Colts forced Tua into 'panic mode'",
+      "link": "https://espn.com/nfl/story/_/id/46199974/xavien-howard-says-colts-forced-tagovailoa-panic-mode",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T05:04:32+0000",
+      "summary": "Former Dolphins and current Colts corner Xavien Howard said the game plan Sunday was to take away QB Tua Tagovailoa's first read and get him into \"panic mode.\""
+    },
+    {
+      "id": "6ed79dbfce653c72",
+      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
+      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T05:03:29+0000",
+      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
+    },
+    {
+      "id": "5d32a4c9eed151b6",
+      "title": "NFL world reacts to Bears frustrating Week 1 loss vs. Vikings",
+      "link": "https://bearswire.usatoday.com/story/sports/nfl/bears/2025/09/08/social-media-reacts-bears-frustrating-week-1-loss-vs-vikings/86051974007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:27:17+0000",
+      "summary": "The Bears blew a double-digit lead against the Vikings in Week 1 to lose 27-24 and fans are already going through it."
+    },
+    {
+      "id": "9e1cc598d0950701",
+      "title": "Bills' Josh Allen holds incredible NFL record that other QBs can only dream of",
+      "link": "https://sportingnews.com/us/nfl/buffalo-bills/news/bills-josh-allen-holds-incredible-nfl-record-other-qbs-dream/76b02f13c6320a204ec4bcf7",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:27:03+0000",
+      "summary": "There's no one quite like Josh."
+    },
+    {
+      "id": "af15382687a4742c",
+      "title": "Colts' Daniel Jones is 2nd QB in NFL history with these wild debut doubles, joining Daunte Culpepper",
+      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/colts-daniel-jones-2nd-qb-nfl-history-wild-debut-doubles-daunte-culpepper/2e147e420ff32d14b937f4c0",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:18:59+0000",
+      "summary": "This is quite the duo."
+    },
+    {
+      "id": "96353bac2a529689",
+      "title": "NFL standings: 49ers take NFC West lead as division goes 3-1 in Week 1",
+      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/09/08/nfl-standings-49ers-take-nfc-west-lead-as-division-goes-3-1-in-week-1/86051792007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:11:44+0000",
+      "summary": "The 49ers take the early lead in the NFC West with a division win over the Seahawks."
+    },
+    {
+      "id": "7696f23db9a72fe7",
+      "title": "Colts’ Week 1 QB Analysis: Ummm . . Wow!",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/114408/colts-week-1-qb-analysis-ummm-wow",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-09T04:11:42+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the upcoming opponent QB has performed. Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably [&#8230;]"
+    },
+    {
+      "id": "ff4466640990991e",
+      "title": "Commanders' Jacory Croskey-Merritt is 1st player in NFL history with these stats in his debut",
+      "link": "https://sportingnews.com/us/nfl/washington-commanders/news/commanders-jacory-croskey-merritt-1st-player-nfl-history-stats-debut/b4aa94faf5be31775982dc9a",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:08:31+0000",
+      "summary": "JCM had a special start."
+    },
+    {
+      "id": "a46f0a9e348a1804",
+      "title": "JJ McCarthy stats today: Vikings QB stars in fourth quarter of NFL debut",
+      "link": "https://usatoday.com/story/sports/nfl/2025/09/09/jj-mccarthy-stats-today-vikings-bears/86051320007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:00:13+0000",
+      "summary": "J.J. McCarthy got off to a slow start in his NFL debut against the Bears, but the Vikings QB put together an elite fourth quarter to earn a win."
+    },
+    {
+      "id": "9c4faf2536439a4c",
+      "title": "J.J. McCarthy makes NFL history after complete 180 in Vikings debut",
+      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/vikings-jj-mccarthy-makes-nfl-history-complete-180-vikings-debut/ec7c1fd5436f8cbeabc00fe6",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T04:00:06+0000",
+      "summary": "Minnesota Vikings quarterback J.J. McCarthy's impressive turnaround in the Week 1 win over the Chicago Bears was historic. Here's how the second-year signal-caller made history in his NFL debut."
+    },
+    {
+      "id": "55a5955ede4827cb",
+      "title": "McCarthy sparks late rally as Vikings edge Bears in NFL opener",
+      "link": "https://sports.yahoo.com/article/mccarthy-sparks-rally-vikings-edge-035959706.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:59:59+0000",
+      "summary": "Minnesota quarterback J.J. McCarthy, making his NFL debut in his hometown, rallied the Vikings past the Chicago Bears 27-24 on Monday in the NFL season opener for both clubs.McCarthy was the first quarterback to rally from more than 10 points down in the fourth quarter and win his NFL debut since Steve Young in 1985."
+    },
+    {
+      "id": "2d8d12c415b8cf16",
+      "title": "Vikings' J.J. McCarthy just played the best debut 4th quarter in NFL history",
+      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/vikings-jj-mccarthy-played-best-debut-4th-quarter-nfl-history/d91e378a1380e00fc505c0ed",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:58:04+0000",
+      "summary": "No one has ever done this before."
+    },
+    {
+      "id": "93c804d260eef021",
+      "title": "Winners, Losers from Minnesota Vikings Stifling Chicago Bears 27-24",
+      "link": "https://sportsnaut.com/nfl/minnesota-vikings-vs-chicago-bears-recap-winners-losers/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:54:18+0000",
+      "summary": "The NFL decided to schedule a pair of NFC North divisional matchups right away in Week 1. After the Green"
+    },
+    {
+      "id": "494e17351dcc2b57",
+      "title": "Watch: Vikings' J.J. McCarthy throws his first touchdown pass in the NFL",
+      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/09/08/j-j-mccarthy-first-touchdown-pass-bears/86051902007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:54:12+0000",
+      "summary": "It took over a year but Vikings fans finally saw J.J. McCarthy throw a touchdown pass."
+    },
+    {
+      "id": "e66cd7b7df459720",
+      "title": "NFL Power Rankings entering Week 2: Chiefs won't walk through AFC West this season",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-2-chiefs-wont-walk-through-afc-west-this-season-035319955.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:53:19+0000",
+      "summary": "The Chiefs are in an unusual position: last place of the AFC West. There will be urgency for the Chiefs in September, which is rare."
+    },
+    {
+      "id": "d21c68b003775bbb",
+      "title": "49ers’ coach Kyle Shanahan might be about to get the Mac Jones moment he always wanted",
+      "link": "https://sportingnews.com/us/nfl/san-francisco-49ers/news/49ers-coach-kyle-shanahan-mac-jones-moment-always-wanted/dbb0695c94b6e8cd25befbdd",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:50:28+0000",
+      "summary": "Ah, the NFL is a weird, goofy, always changing league."
+    },
+    {
+      "id": "1acde303d25c7eb5",
+      "title": "NFL power rankings: Packers, Steelers, Chargers surge with Week 1 wins; Chiefs, Lions fall hard for Week 2",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-steelers-chargers-chiefs-bills/3148169da51d85fd1e17a0ff",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:45:04+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other going into Week 2 of the 2025 NFL regular season? Here's an updated look from best to worst."
+    },
+    {
+      "id": "75b79fc3e9be4b99",
+      "title": "Houston Texans QB C.J. Stroud on Austin, faith, mentorship and this NFL season",
+      "link": "https://kxan.com/news/local/houston-texans-qb-c-j-stroud-on-austin-faith-mentorship-and-this-nfl-season/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T03:37:55+0000",
+      "summary": "AUSTIN (KXAN) – Houston Texans quarterback C.J. Stroud made a stop in Austin during the offseason at the C4 Nutrabolt headquarters, where he filmed a video for C4 Energy. The 23-year-old, who played college football at Ohio State and now stands as one of the NFL’s most promising young quarterbacks, said his partnership with the […]"
+    },
     {
       "id": "ac73ebafccc29273",
       "title": "Ben Johnson commits first major coaching blunder in Bears' loss to Vikings",
@@ -11,31 +182,13 @@
       "summary": "Chicago Bears head coach Ben Johnson just made his first coaching blunder in the Week 1 loss to the Minnesota Vikings, which was also his NFL debut as a head coach."
     },
     {
-      "id": "cb2c0ae40699d5d9",
-      "title": "JJ McCarthy rallies Vikings to primetime victory in first NFL start",
-      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/jj-mccarthy-leads-vikings-victory-first-nfl-start/7775afd1769210e73b284de4",
+      "id": "c8548af588e63d91",
+      "title": "Born in the 4th: J.J. McCarthy leads Vikings to comeback win over Bears",
+      "link": "https://twincities.com/2025/09/08/j-j-mccarthys-nfl-debut-minnesota-vikings-chicago-bears-monday-night-football/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:34:28+0000",
-      "summary": "In his first NFL start, JJ McCarthy showed resilience and poise, overcoming early turnovers to orchestrate three fourth-quarter touchdowns and secure a road win over the Chicago Bears."
-    },
-    {
-      "id": "02e9c0f3a5285b31",
-      "title": "NFL Power Rankings entering Week 2",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/09/08/nfl-power-rankings-week-2-bills-packer-ravens-eagles/86032375007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:33:55+0000",
-      "summary": "After a wild NFL Week 1, which team takes the top spot in the Power Rankings?"
-    },
-    {
-      "id": "98794e07193d3109",
-      "title": "JJ McCarthy picks up first NFL win in stunning come from behind fashion",
-      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/jj-mccarthy-picks-first-nfl-win-stunning-come-behind-fashion/0f053db7937e0a4ff41e52cd",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T03:32:54+0000",
-      "summary": "It was all Minnesota in the fourth quarter."
+      "published": "2025-09-09T03:36:00+0000",
+      "summary": "CHICAGO — The stage was set for young quarterback J.J. McCarthy to make the Chicago Bears pay for passing on him twice in the 2024 NFL draft. After cheering for them as a kid growing up in La Grange Park, Ill., McCarthy had a chance to beat them in front of a national television audience in primetime. It looked like any chance of that went up in flames shortly after halftime when McCarthy ..."
     },
     {
       "id": "32c5bf18e33fca9f",
@@ -47,33 +200,6 @@
       "summary": "Fans weighed in on Week 1's top players, casting their votes for the 'Himmy' Award between Josh Allen, Aaron Rodgers, Emeka Egbuka and Daniel Jones."
     },
     {
-      "id": "f8dee1af207226f4",
-      "title": "NFL trade grades: Did the Eagles give up too much for Tank Bigsby?",
-      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T02:49:10+0000",
-      "summary": "The Eagles added some running back depth behind Saquon Barkley, but did they give up too much for Bigsby? We sized up the deal from both sides."
-    },
-    {
-      "id": "a2b8ff20816845a5",
-      "title": "How did Penn State's 2025 NFL draft picks perform in their debuts?",
-      "link": "https://sportingnews.com/us/ncaa-football/penn-state/news/how-did-penn-states-2025-nfl-draft-picks-perform-their-debuts/a9766b9d263a000bad345f98",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T02:40:56+0000",
-      "summary": "Tyler Warren and Adbul Carter shine in NFL debuts."
-    },
-    {
-      "id": "5a25dcc5a60326d9",
-      "title": "Colts’ Charvarius Ward enters concussion protocol after Week 1 win over Dolphins",
-      "link": "https://clutchpoints.com/nfl/indianapolis-colts/colts-news-charvarius-ward-concussion-protocol-week-1-win-dolphins",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T02:34:29+0000",
-      "summary": "Colts defensive back Charvarius Ward could be in danger of missing Indianapolis' Week 2 game against the Broncos."
-    },
-    {
       "id": "cf2f3cb1741d0650",
       "title": "Colts’ rookie Tyler Warren earns significant PFF Week 1 honors; Joins Matt Goncalves on star-studded squad",
       "link": "https://stampedeblue.com/indianapolis-colts-news/114404/colts-rookie-tyler-warren-earns-some-significant-pff-honors-joins-matt-goncalves-on-star-studded-squad",
@@ -81,24 +207,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-09T02:10:09+0000",
       "summary": "According to PFF, both Indianapolis Colts rookie tight end Tyler Warren and 2nd-year offensive guard Matt Goncalves were named to their ‘PFF Week 1: Team of the Week’: Offense Not only this, but Warren was named PFF’s ‘Rookie of the Week,’ while Goncalves was part of a Colts unit that was named ‘Offensive Line of [&#8230;]"
-    },
-    {
-      "id": "5c6d29fee584ff1e",
-      "title": "Ex-Fins CB says Colts forced Tua into 'panic mode'",
-      "link": "https://espn.com/nfl/story/_/id/46199974/xavien-howard-says-colts-forced-tagovailoa-panic-mode",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T01:02:48+0000",
-      "summary": "Former Dolphins and current Colts corner Xavien Howard said the game plan Sunday was to take away QB Tua Tagovailoa's first read and get him into \"panic mode.\""
-    },
-    {
-      "id": "6ed79dbfce653c72",
-      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
-      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-08T23:01:12+0000",
-      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
     },
     {
       "id": "e5d0917f822ac089",
@@ -272,15 +380,6 @@
       "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
     },
     {
-      "id": "e8c20aa381a75680",
-      "title": "Shane Steichen resurrected Daniel Jones in Colts season opener",
-      "link": "https://stampedeblue.com/analysis/114298/shane-steichen-resurrected-daniel-jones-in-colts-season-opener",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-07T23:12:54+0000",
-      "summary": "Indianapolis, IN — For the first time since Andrew Luck’s second year in the NFL, the Indianapolis Colts start their season with a 1-0 record after besting the Miami Dolphins 33-8 at Lucas Oil Stadium. It was both an important and monumental day for the organization. Not only has the aforementioned curse finally been lifted, [&#8230;]"
-    },
-    {
       "id": "ab12f9468d1bb05e",
       "title": "How Daniel Jones, Shane Steichen and the Colts' offense threw a near-perfect game in Week 1 blowout win over Dolphins",
       "link": "https://colts.com/news/how-daniel-jones-shane-steichen-and-the-colts-offense-threw-a-near-perfect-game-in-week-1-blowout-win-over-dolphins",
@@ -441,105 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-05T14:47:08+0000",
       "summary": "The Colts kick off the 2025 regular season on Sunday at 1 p.m. against the Miami Dolphins at Lucas Oil Stadium."
-    },
-    {
-      "id": "71fc3fb036ed6034",
-      "title": "Shane Steichen, Reggie Wayne and Colts players reflect on life and legacy of Jim Irsay ahead of Ring of Honor induction",
-      "link": "https://colts.com/news/shane-steichen-reggie-wayne-jim-irsay-ring-of-honor-colts-lucas-oil-stadium-week-one-horseshoe",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-05T14:15:26+0000",
-      "summary": "Jim Irsay will become the 20th member of the Colts Ring of Honor on Sunday, when the Colts start the 2025 season against the Miami Dolphins at Lucas Oil Stadium."
-    },
-    {
-      "id": "aa01759f6d8cb579",
-      "title": "Indianapolis recalls charitable side of Jim Irsay",
-      "link": "https://cbs4indy.com/sports/colts/indianapolis-recalls-charitable-side-of-jim-irsay/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-05T14:03:45+0000",
-      "summary": "INDIANAPOLIS -- When the late Jim Irsay’s name is added to the Colts Ring of Honor at Lucas Oil Stadium during the team’s season opener against the Miami Dolphins on Sunday, his role as one of the leading owners of the NFL will be recalled. But more importantly, to the people and organizations of his [...]"
-    },
-    {
-      "id": "05b1c8cba9671931",
-      "title": "Versatility, aggressiveness and Shane Steichen's 'genius:' Why Daniel Jones enters 2025 confident as QB1 of Colts' offense",
-      "link": "https://colts.com/news/versatility-aggressiveness-and-shane-steichen-s-genius-why-daniel-jones-enters-2025-confident-as-qb1-of-colts-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T21:42:17+0000",
-      "summary": "Check out this week's episode of The Colts Show podcast for a wide-ranging one-on-one interview with quarterback Daniel Jones."
-    },
-    {
-      "id": "bdf8e793578b605b",
-      "title": "The Colts Show Mailbag: Downfield throws, Week 1 winless streak, Tanor Bortolini and Matt Goncalves, slot cornerback depth",
-      "link": "https://colts.com/news/the-colts-show-mailbag-downfield-throws-week-1-winless-streak-tanor-bortolini-and-matt-goncalves-slot-cornerback-depth",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T20:19:53+0000",
-      "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
-    },
-    {
-      "id": "d264c6cc1fdaab2a",
-      "title": "Practice Notebook: Jonathan Taylor on what Daniel Jones brings to Colts offense",
-      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-daniel-jones-rushing-colts-offense-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T19:39:57+0000",
-      "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
-    },
-    {
-      "id": "a2717b183e5c131e",
-      "title": "How Daniel Jones is approaching debut as Colts QB1",
-      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:29:10+0000",
-      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "ff99558e4e508cac",
-      "title": "Practice Notebook: Injury updates ahead of Colts' Week 1 game vs. Dolphins",
-      "link": "https://colts.com/news/practice-notebook-injury-updates-ahead-of-colts-week-1-game-vs-dolphins-tyler-goodson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:11:22+0000",
-      "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
-    },
-    {
-      "id": "c128cd6a580ecc93",
-      "title": "Colts launch 'The Jack Doyle Podcast' with debut episode ahead of Week 1",
-      "link": "https://colts.com/news/colts-launch-the-jack-doyle-podcast-with-debut-episode-ahead-of-week-1",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T18:50:07+0000",
-      "summary": "Former Colts Pro Bowl tight end Jack Doyle will bring his unique perspective and analysis to the Indianapolis Colts Podcasts lineup every Wednesday during the regular season."
-    },
-    {
-      "id": "1673ef0524954269",
-      "title": "Lou Anarumo sets expectations for Xavien Howard's Colts debut",
-      "link": "https://colts.com/news/lou-anarumo-expectations-xavien-howard-colts-debut-cornerback-miami-dolphins-week-one",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-02T18:46:21+0000",
-      "summary": "Howard has been practicing alongside the Colts' first-team defense since joining the team mid-August."
-    },
-    {
-      "id": "aa6a3bf322cbe58b",
-      "title": "Colts release unofficial depth chart for Week 1 game vs. Miami Dolphins",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-1-game-vs-miami-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-02T14:58:42+0000",
-      "summary": "The Colts released their Week 1 unofficial depth chart ahead of their game against the Miami Dolphins Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "f51105501377ec69",
-      "title": "Colts' emphasis on competition, physicality in preseason inspiring confidence ahead of Week 1 matchup vs Dolphins",
-      "link": "https://colts.com/news/colts-competition-daniel-jones-jonathan-taylor-shane-steichen-week-one-miami-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-01T20:35:32+0000",
-      "summary": "The Colts benefited from intense competition up and down the roster throughout preseason, and are quickly coming up on their first opportunity to show their growth as a team."
     }
   ],
   "links": [
