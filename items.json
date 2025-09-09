@@ -1,23 +1,86 @@
 {
-  "updated": "2025-09-09T10:41:18+00:00",
+  "updated": "2025-09-09T11:27:33+00:00",
   "items": [
     {
-      "id": "d7c594e67390eb6c",
-      "title": "New Study Reveals Which NFL Fans Drink the Most – Where Does Your Team Rank?",
-      "link": "https://sportsnaut.com/nfl/new-study-reveals-which-nfl-fans-drink-the-most-where-does-your-team-rank/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-09T10:07:27+0000",
-      "summary": "NFL fans are known for their passionate tailgating traditions, and a recent survey of over 3,000 enthusiasts reveals just how"
+      "id": "97f47973b4e4bcbe",
+      "title": "Dolphins' defense, secondary faced nightmare scenario vs. Colts",
+      "link": "https://espn.com/nfl/story/_/id/46194010/miami-dolphins-defense-exposed-indianapolis-colts-new-england-patriots",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T12:18:31+0000",
+      "summary": "With the pass rush stymied, the Dolphins' patchwork secondary struggled mightily against the Colts."
     },
     {
-      "id": "55c5234d9187be06",
-      "title": "Miami Dolphins mailbag: Are Mike McDaniel, Tua Tagovailoa jobs in jeopardy?",
-      "link": "https://palmbeachpost.com/story/sports/nfl/dolphins/2025/09/09/miami-dolphins-mailbag-tua-tagovailoa-mike-mcdaniel-chris-grier/86048552007/",
+      "id": "4edc2387795d6ed2",
+      "title": "NFL Week 2 Power Rankings: How all 32 teams stack up, plus top non-QB newcomer performances",
+      "link": "https://espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T12:12:02+0000",
+      "summary": "We're through Week 1, and NFL Power Rankings are back! We stacked the best teams and named the best non-QB newcomer for each roster."
+    },
+    {
+      "id": "6ed79dbfce653c72",
+      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
+      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T12:10:06+0000",
+      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
+    },
+    {
+      "id": "078512e5330791fb",
+      "title": "Philadelphia Eagles' updated list of 2026 NFL draft picks after Tank Bigsby trade",
+      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/philadelphia-eagles-list-2026-nfl-draft-picks-tank-bigsby-trade/ec0fc3ca85383a784eaf83ee",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-09T10:03:50+0000",
-      "summary": "Miami Dolphins fans are hot following the 33-8 thrashing by the Indianapolis Colts. And in this week's mailbag, they're not holding back."
+      "published": "2025-09-09T11:20:39+0000",
+      "summary": "The Philadelphia Eagles traded away two 2026 NFL draft picks in order to acquire running back Tank Bigsby from the Jacksonville Jaguars. Here's what the Eagles' list of 2026 NFL draft picks looks like now."
+    },
+    {
+      "id": "43ef3567e419321d",
+      "title": "NFL picks, predictions for Week 2: Lions drop Bears to 0-2, Cowboys get first win and Patriots slip again",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-picks-predictions-week-2/0b7fa48b624d0d671c388691",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:13:40+0000",
+      "summary": "NFL expert Bill Bender makes his picks for every game in Week 2."
+    },
+    {
+      "id": "1acde303d25c7eb5",
+      "title": "NFL power rankings: Packers, Steelers, Chargers surge with Week 1 wins; Chiefs, Lions fall hard for Week 2",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-steelers-chargers-chiefs-bills/3148169da51d85fd1e17a0ff",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:06:04+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other going into Week 2 of the 2025 NFL regular season? Here's an updated look from best to worst."
+    },
+    {
+      "id": "274d819c4db521bc",
+      "title": "NFL winners, Week 1: Packers pass rush, Rams' relentless pressure shine",
+      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/09/09/nfl-winners-week-1-packers-pass-rush-rams-pressure-jets-tetairoa-mcmillan/86032740007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-09T11:02:34+0000",
+      "summary": "Green Bay fixed its biggest problem. Los Angeles plugged more young studs into a rising defense. The Jets? Actually watchable!"
+    },
+    {
+      "id": "8065b88c101e1ba1",
+      "title": "Is this version of Colts QB ‘Danny Dimes’ here to stay?",
+      "link": "https://stampedeblue.com/analysis/114415/is-this-version-of-colts-qb-danny-dimes-here-to-stay",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-09T11:00:00+0000",
+      "summary": "It’s time to give rightful credit when it is definitely due. Indianapolis Colts quarterback Daniel Jones, who had to listen to his fair share of naysaying (myself included!) since being newly named the starter, clearly answered the call during his debut game in Horseshoe blue. ‘Danny Dimes’ was nothing short of magnificent, completing 22 of [&#8230;]"
+    },
+    {
+      "id": "de0ccb4357c598b6",
+      "title": "What to know on all 32 NFL playcallers: From veterans to first-year coaches, here is what to expect in 2025",
+      "link": "https://espn.com/nfl/story/_/id/46137832/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-brian-schottenheimer",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-09T11:00:00+0000",
+      "summary": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2025."
     },
     {
       "id": "d36f5169e190d109",
@@ -54,15 +117,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T06:14:36+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 1."
-    },
-    {
-      "id": "6ed79dbfce653c72",
-      "title": "What is real -- and what isn't -- from NFL Week 1: Barnwell on the Lions, Colts, Dolphins and Jets",
-      "link": "https://espn.com/nfl/story/_/id/46187060/2025-nfl-week-1-real-fake-lions-colts-dolphins-ravens-steelers-jets-commanders-bengals-broncos",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T05:03:29+0000",
-      "summary": "Let's size up the legitimacy of the Lions' offensive woes, two run-game surges, Aaron Rodgers' big day and the Dolphins' ineptitude."
     },
     {
       "id": "7696f23db9a72fe7",
@@ -216,15 +270,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-08T11:00:00+0000",
       "summary": "Indianapolis, IN — The Indianapolis Colts had been longing for a floor-raising pass catcher at tight end since Jack Doyle’s retirement following the 2022 season. After just missing out on eventual rookie phenom Brock Bowers in the 2024 NFL Draft, the clock reset, and fans continued their clamoring for a worthwhile product. As fate would [&#8230;]"
-    },
-    {
-      "id": "982a79e3172472c2",
-      "title": "Colts-Broncos opening odds: No time to horse around",
-      "link": "https://stampedeblue.com/analysis/114319/colts-broncos-opening-odds-no-time-to-horse-around",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-08T10:23:06+0000",
-      "summary": "The Indianapolis Colts are riding high after ending their 11-game opening week skid, knocking off the Miami Dolphins at home. The home stand continues this week against the Denver Broncos. These two teams met last year in which the Broncos effectively ended the postseason hopes of the Colts. This time around, the Colts are looking [&#8230;]"
     },
     {
       "id": "73d913f378e9e0f0",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-02T18:46:21+0000",
       "summary": "Howard has been practicing alongside the Colts' first-team defense since joining the team mid-August."
-    },
-    {
-      "id": "aa6a3bf322cbe58b",
-      "title": "Colts release unofficial depth chart for Week 1 game vs. Miami Dolphins",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-1-game-vs-miami-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-02T14:58:42+0000",
-      "summary": "The Colts released their Week 1 unofficial depth chart ahead of their game against the Miami Dolphins Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "f51105501377ec69",
-      "title": "Colts' emphasis on competition, physicality in preseason inspiring confidence ahead of Week 1 matchup vs Dolphins",
-      "link": "https://colts.com/news/colts-competition-daniel-jones-jonathan-taylor-shane-steichen-week-one-miami-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-01T20:35:32+0000",
-      "summary": "The Colts benefited from intense competition up and down the roster throughout preseason, and are quickly coming up on their first opportunity to show their growth as a team."
-    },
-    {
-      "id": "1e6c9fbf3c232fb1",
-      "title": "Colts sign LB Anthony Walker Jr. to practice squad, release DT Josh Tupou from practice squad",
-      "link": "https://colts.com/news/colts-sign-lb-anthony-walker-jr-to-practice-squad-release-dt-josh-tupou-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-01T13:33:40+0000",
-      "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "b24ef94fcbdb159c",
-      "title": "Colts to honor Lucas Oil founder Forrest Lucas at week two game vs. Denver",
-      "link": "https://colts.com/news/colts-to-honor-lucas-oil-founder-forrest-lucas-week-2-denver-broncos-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-08-29T14:00:00+0000",
-      "summary": "The Indianapolis Colts will pay special tribute to Forrest Lucas, the founder of Lucas Oil Products, during their Week 2 matchup vs. the Denver Broncos on Sun., Sept. 14."
-    },
-    {
-      "id": "c1e6ce3380dffef0",
-      "title": "10 Colts Things: Daniel Jones & Colts' offense seeking consistency and explosiveness, Tyler Warren makes strong impression before rookie year, Lou Anarumo's defense comes into focus, Laiatu Latu showing signs of Year 2 jump",
-      "link": "https://colts.com/news/10-colts-things-daniel-jones-colts-offense-seeking-consistency-and-explosiveness-tyler-warren-makes-strong-impression-before-rookie-year-lou-anarumo-s-defense-comes-into-focus-laiatu-latu-showing-signs-of-year-2-jump",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-08-29T11:00:02+0000",
-      "summary": "The Colts' preseason came to a close on Thursday, and Labor Day weekend will be this team's last break until after they return from Berlin in November. Here are the 10 biggest takeaways from everything that happened from the start of training camp to the end of the preseason, starting with several observations on the kind of offense Shane Steichen could run with Daniel Jones."
     }
   ],
   "links": [
