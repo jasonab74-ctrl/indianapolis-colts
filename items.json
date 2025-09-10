@@ -1,15 +1,6 @@
 {
-  "updated": "2025-09-10T03:49:08+00:00",
+  "updated": "2025-09-10T04:36:46+00:00",
   "items": [
-    {
-      "id": "d4df8669f544144a",
-      "title": "NFL Week 1 winners: Aaron Rodgers turns back the clock, Packers make a statement",
-      "link": "https://clutchpoints.com/nfl/nfl-stories/nfl-week-1-winners-aaron-rodgers-turns-back-clock-packers-statement",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-10T02:35:41+0000",
-      "summary": "Aaron Rodgers, Josh Allen and the Packers crushing the Lions are among the biggest winners of Week 1 in 2025."
-    },
     {
       "id": "d8b4b16711cb40d8",
       "title": "NFL says Carter's ejection serves as suspension",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-01T13:33:40+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "b24ef94fcbdb159c",
+      "title": "Colts to honor Lucas Oil founder Forrest Lucas at week two game vs. Denver",
+      "link": "https://colts.com/news/colts-to-honor-lucas-oil-founder-forrest-lucas-week-2-denver-broncos-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-08-29T14:00:00+0000",
+      "summary": "The Indianapolis Colts will pay special tribute to Forrest Lucas, the founder of Lucas Oil Products, during their Week 2 matchup vs. the Denver Broncos on Sun., Sept. 14."
     }
   ],
   "links": [
