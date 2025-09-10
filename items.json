@@ -1,23 +1,23 @@
 {
-  "updated": "2025-09-10T11:41:27+00:00",
+  "updated": "2025-09-10T13:18:40+00:00",
   "items": [
-    {
-      "id": "b829ac0c70140282",
-      "title": "Everything we're hearing for NFL Week 2: Panic for the Dolphins? Big decision for the Giants?",
-      "link": "https://espn.com/nfl/story/_/id/46208962/nfl-week-2-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T12:26:59+0000",
-      "summary": "Our insiders dove in on the aftermath of the Dolphins' disastrous opener, both New York QB situations and some RB fantasy nuggets ahead of Week 2."
-    },
     {
       "id": "3ea2d0aa85bba43b",
       "title": "'I felt alive again': Taking a look at No. 1 pick Cam Ward's NFL debut",
       "link": "https://espn.com/nfl/story/_/id/46206539/tennessee-titans-no-1-pick-cam-ward-assessing-nfl-debut",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-10T12:09:31+0000",
+      "published": "2025-09-10T13:47:59+0000",
       "summary": "Tennessee quarterback Cam Ward's debut didn't go as planned, but there were positives to take away from it."
+    },
+    {
+      "id": "cbc0b40ec974334a",
+      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
+      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-10T13:46:58+0000",
+      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
     },
     {
       "id": "7a7e9c1780ac191b",
@@ -25,26 +25,44 @@
       "link": "https://espn.com/nfl/story/_/id/46208174/nfl-executives-pick-award-winners-2025-predicting-mvp-top-rookies-player-year-honors-comeback-stars-breakouts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-10T12:08:52+0000",
+      "published": "2025-09-10T13:45:23+0000",
       "summary": "Who will win MVP? Who will be the NFL's top rookies? Who is primed for a breakout? We asked execs and scouts for their picks."
     },
     {
-      "id": "fada8374379652bd",
-      "title": "NFL Power Rankings: Are the Washington Commanders a Top-5 team?",
-      "link": "https://hogshaven.com/373717/nfl-power-rankings-are-the-washington-commanders-a-top-5-team",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-10T11:30:00+0000",
-      "summary": "Washington Commanders are 1-0"
+      "id": "d8b4b16711cb40d8",
+      "title": "NFL says Carter's ejection serves as suspension",
+      "link": "https://espn.com/nfl/story/_/id/46209167/nfl-says-jalen-carter-ejection-serves-suspension-spitting",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-10T13:42:34+0000",
+      "summary": "Eagles star Jalen Carter will not miss any future games after spitting on Cowboys QB Dak Prescott."
     },
     {
-      "id": "12b2c039f59d332d",
-      "title": "Eagles like Tank Bigsby's &quot;natural vision and feel&quot; as a kickoff returner",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-like-tank-bigsbys-natural-vision-and-feel-as-a-kickoff-returner",
+      "id": "b49115934891e632",
+      "title": "NFL analyst highlights how good Thomas Booker was in Raiders debut",
+      "link": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2025/09/10/nfl-analyst-highlights-how-good-thomas-booker-was-in-raiders-debut/86072090007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-10T11:12:10+0000",
-      "summary": "The NFL saw a dramatic increase in kickoff returns in the first week of action under this year's revised rules and that change appears to have helped convince the Eagles to trade for running back Tank Bigsby this week."
+      "published": "2025-09-10T13:01:14+0000",
+      "summary": "Brian Baldinger puts a spotlight on how effective Las Vegas Raiders DT Thomas Booker IV was in Week 1."
+    },
+    {
+      "id": "22c957eb3fedca88",
+      "title": "Broncos release updated depth chart for Week 2",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/10/denver-broncos-updated-depth-chart-week-2/86064376007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T13:00:58+0000",
+      "summary": "The Broncos have released an updated depth chart ahead of their Week 2 showdown with the Colts."
+    },
+    {
+      "id": "86f6855bf6eca68b",
+      "title": "Continuity keeps Atlanta’s offensive line coming back strong",
+      "link": "https://thefalcoholic.com/atlanta-falcons-injuries/86230/continuity-keeps-atlantas-offensive-line-coming-back-strong",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-10T13:00:00+0000",
+      "summary": "The Falcons offensive line overcame injuries, poor play to become one of the NFL’s best units in 2022, 2023 and 2024."
     },
     {
       "id": "556bc91ecae909fc",
@@ -56,24 +74,6 @@
       "summary": "Recent times have been inconsistent at best for the Indianapolis Colts. There have been quite a few downs, but there have also been some ups in there as well. What we witnessed Sunday against the Dolphins was encouraging, exciting, and simply remarkable. Across the board, the Colts dominated, and they did it week one. That [&#8230;]"
     },
     {
-      "id": "d8b4b16711cb40d8",
-      "title": "NFL says Carter's ejection serves as suspension",
-      "link": "https://espn.com/nfl/story/_/id/46209167/nfl-says-jalen-carter-ejection-serves-suspension-spitting",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T01:37:45+0000",
-      "summary": "Eagles star Jalen Carter will not miss any future games after spitting on Cowboys QB Dak Prescott."
-    },
-    {
-      "id": "db732ccf9b9f2f73",
-      "title": "Massive uptick in NFL kickoff returns in Week 1",
-      "link": "https://espn.com/nfl/story/_/id/46207142/nfl-kickoff-return-rate-increases-dramatically-week-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T01:37:45+0000",
-      "summary": "A modest change to the NFL's kickoff rules made a massive impact on Week 1, producing the highest single-week return rate in 15 years."
-    },
-    {
       "id": "e5d0917f822ac089",
       "title": "Week 2: Odds, lines and totals for every game",
       "link": "https://espn.com/espn/betting/story/_/id/46198325/2025-nfl-week-2-schedule-odds-betting-point-spreads",
@@ -81,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-09-09T23:16:49+0000",
       "summary": "Odds, spreads, totals and FPI predictions for all 16 NFL games in Week 2."
-    },
-    {
-      "id": "cbc0b40ec974334a",
-      "title": "Solak's weekly NFL thoughts and lessons: The five best QB debuts of Week 1, plus what the Giants should do",
-      "link": "https://espn.com/nfl/story/_/id/46197095/nfl-week-1-qb-debut-rankings-rodgers-jones-fields-ward-geno-wilson-dart-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T22:54:38+0000",
-      "summary": "Can Justin Fields and Aaron Rodgers sustain their great Week 1 play? Ben Solak stacks the top QB newcomers -- and begs the Giants to hold off on Jaxson Dart."
     },
     {
       "id": "8111232ccf5b38ae",
@@ -117,15 +108,6 @@
       "feed": "Colts.com",
       "published": "2025-09-09T17:05:16+0000",
       "summary": "The Colts released their Week 2 unofficial depth chart ahead of their game against the Denver Broncos Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "806e2f65e9ac777e",
-      "title": "From celebrations to frustration, guess who said what in NFL Week 1",
-      "link": "https://espn.com/nfl/story/_/id/46201499/who-said-nfl-week-1-2025-best-quotes-quiz",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T16:42:47+0000",
-      "summary": "The opening week of the 2025 NFL season came with a side of one-liners, blunt assessments and heartfelt reflections. Put your knowledge to the test with our Week 1 quote quiz."
     },
     {
       "id": "9f3fb2f6ea752917",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-02T18:46:21+0000",
       "summary": "Howard has been practicing alongside the Colts' first-team defense since joining the team mid-August."
+    },
+    {
+      "id": "aa6a3bf322cbe58b",
+      "title": "Colts release unofficial depth chart for Week 1 game vs. Miami Dolphins",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-1-game-vs-miami-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-02T14:58:42+0000",
+      "summary": "The Colts released their Week 1 unofficial depth chart ahead of their game against the Miami Dolphins Sunday at Lucas Oil Stadium. Check it out below:"
+    },
+    {
+      "id": "f51105501377ec69",
+      "title": "Colts' emphasis on competition, physicality in preseason inspiring confidence ahead of Week 1 matchup vs Dolphins",
+      "link": "https://colts.com/news/colts-competition-daniel-jones-jonathan-taylor-shane-steichen-week-one-miami-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-01T20:35:32+0000",
+      "summary": "The Colts benefited from intense competition up and down the roster throughout preseason, and are quickly coming up on their first opportunity to show their growth as a team."
     }
   ],
   "links": [
