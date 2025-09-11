@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-11T13:42:57+00:00",
+  "updated": "2025-09-11T14:37:08+00:00",
   "items": [
+    {
+      "id": "e970eb54de193f3c",
+      "title": "NFL investigating allegations against Fins' Hill",
+      "link": "https://espn.com/nfl/story/_/id/46223976/nfl-investigating-tyreek-hill-domestic-violence-allegations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-11T15:12:27+0000",
+      "summary": "The NFL is investigating recent accusations of domestic violence involving Dolphins wide receiver Tyreek Hill."
+    },
     {
       "id": "791e8049a4305172",
       "title": "Sit or play? Why Jordan Love's path to Packers starter remains unique in the NFL",
@@ -11,13 +20,49 @@
       "summary": "Like Aaron Rodgers before him, Love sat for three years prior to taking over as the starting QB in Green Bay."
     },
     {
-      "id": "e0873a276aa05262",
-      "title": "What Week 1 in the NFL taught us about the season ahead",
-      "link": "https://espn.com/nfl/story/_/id/46212169/2025-nfl-season-afc-top-seed-race-bills-ravens-chiefs-chargers-contenders-barnwell",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-11T14:15:39+0000",
-      "summary": "Are the Chiefs vulnerable? Will the Bills or Ravens take control? Or could another team emerge? Let's sort through a wide-open race to the AFC's No. 1 seed."
+      "id": "8fdea41d0500e189",
+      "title": "Scarlet Knights in the NFL 2025: Week 1 Performances",
+      "link": "https://onthebanks.com/rutgers-football/46295/scarlet-knights-in-the-nfl-2025-week-1-performances",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-11T14:29:28+0000",
+      "summary": "How did former Knights look in game 1 of the 2025 NFL season?"
+    },
+    {
+      "id": "f47e73bbb7ca4037",
+      "title": "The Colts are leaning into versatility on offense in 2025 with a sneaky undercurrent to it",
+      "link": "https://colts.com/news/versatility-offense-fantasy-football-josh-downs-michael-pittman-jonathan-taylor-denver-broncos-week-2",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-11T14:26:12+0000",
+      "summary": "In Week 1, seven Colts players caught a pass – but 17 of Daniel Jones' 29 targets went to tight end Tyler Warren and Michael Pittman Jr."
+    },
+    {
+      "id": "b03fde1c41069d6e",
+      "title": "Eagles' Jalen Carter, after spitting incident, is now poster child for NFL discipline",
+      "link": "https://usatoday.com/story/sports/nfl/columnist/bell/2025/09/11/jalen-carter-philadelphia-eagles-spitting-discipline/86090072007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-11T14:25:21+0000",
+      "summary": "Philadelphia Eagles star defensive lineman Jalen Carter is becoming the current face for the NFL's campaign on sportsmanship."
+    },
+    {
+      "id": "e39bf473ee05a119",
+      "title": "Steelers' QB Aaron Rodgers on verge of passing Packers legend Brett Favre on historic NFL record list",
+      "link": "https://sportingnews.com/us/nfl/green-bay-packers/news/steelers-qb-aaron-rodgers-passing-packers-legend-brett-favre-historic-nfl-record-list/d24ed20df405558a76e17a18",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-11T14:19:05+0000",
+      "summary": "This would be a fitting leapfrog."
+    },
+    {
+      "id": "c4829a0e2c2b266e",
+      "title": "Raiders Wire lists former USC safety Isaiah Pola-Mao as 'baller' for Week 1 performance",
+      "link": "https://trojanswire.usatoday.com/story/sports/2025/09/11/raiders-wire-praises-usc-isaiah-pola-mao-week-1/86088288007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-11T14:17:29+0000",
+      "summary": "Former USC safety Isaiah Pola-Mao impressed NFL analysts in his 2025 season debut. He helped Pete Carroll win. It's a Trojan success story"
     },
     {
       "id": "5612b15377bf770c",
@@ -29,22 +74,13 @@
       "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
     },
     {
-      "id": "18f3c374c9846f0f",
-      "title": "NFL picks, predictions for Week 2: Green Bay Packers vs. Washington Commanders",
-      "link": "https://sportingnews.com/us/nfl/green-bay-packers/news/nfl-picks-predictions-week-2-green-bay-packers-vs-washington-commanders/4fb897c55aaca9da9300c4ec",
+      "id": "2e07a57388ab8ca2",
+      "title": "Tennessee Titans vs. Los Angeles Rams: NFL experts make Week 2 picks",
+      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/09/11/titans-vs-rams-nfl-experts-make-week-2-picks/86089547007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-11T13:31:02+0000",
-      "summary": "A look at some expert picks and predictions for the Week 2 game between the Washington Commanders and Green Bay Packers, both of whom started the campaign 1-0 with victories in Week 1."
-    },
-    {
-      "id": "0c42bc108e3787f1",
-      "title": "New York Jets' Justin Fields leads all NFL quarterbacks in key stat after Week 1",
-      "link": "https://jetswire.usatoday.com/story/sports/nfl/jets/2025/09/11/new-york-jets-justin-fields-leads-all-nfl-quarterbacks-key-stat-week-1-steelers-bills/86074425007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-11T13:27:53+0000",
-      "summary": "New York Jets QB Justin Fields leads all NFL quarterbacks in this key stat after Week 1."
+      "published": "2025-09-11T14:11:27+0000",
+      "summary": "NFL experts around the league predict who will win the Week 2 matchup between the Tennessee Titans and Los Angeles Rams."
     },
     {
       "id": "3283ea25e9e215f0",
@@ -54,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-09-11T13:22:43+0000",
       "summary": "The InSideOut Initiative, in partnership with the Indianapolis Colts, IHSAA Foundation and the NFL Foundation, is set to re-launch in Indiana on September 17"
-    },
-    {
-      "id": "eafef2cfde0b61ed",
-      "title": "NFL Week 2 power rankings: Bills, Ravens remain near top, Chiefs fall",
-      "link": "https://bearswire.usatoday.com/story/sports/nfl/bears/2025/09/11/nfl-week-2-power-rankings-bills-ravens-top-chiefs-fall/86049218007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-11T13:21:38+0000",
-      "summary": "Here's a look at where our latest NFL power rankings stand heading into Week 2."
     },
     {
       "id": "2ca31675e238a2dc",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-04T21:42:17+0000",
       "summary": "Check out this week's episode of The Colts Show podcast for a wide-ranging one-on-one interview with quarterback Daniel Jones."
-    },
-    {
-      "id": "bdf8e793578b605b",
-      "title": "The Colts Show Mailbag: Downfield throws, Week 1 winless streak, Tanor Bortolini and Matt Goncalves, slot cornerback depth",
-      "link": "https://colts.com/news/the-colts-show-mailbag-downfield-throws-week-1-winless-streak-tanor-bortolini-and-matt-goncalves-slot-cornerback-depth",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T20:19:53+0000",
-      "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
-    },
-    {
-      "id": "d264c6cc1fdaab2a",
-      "title": "Practice Notebook: Jonathan Taylor on what Daniel Jones brings to Colts offense",
-      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-daniel-jones-rushing-colts-offense-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T19:39:57+0000",
-      "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
-    },
-    {
-      "id": "a2717b183e5c131e",
-      "title": "How Daniel Jones is approaching debut as Colts QB1",
-      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:29:10+0000",
-      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
     }
   ],
   "links": [
