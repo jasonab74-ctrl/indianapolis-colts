@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T18:43:39+00:00",
+  "updated": "2025-09-11T19:23:35+00:00",
   "items": [
     {
       "id": "086a89b01f1d9add",
@@ -29,13 +29,22 @@
       "summary": "Who will win MVP? Who will be the NFL's top rookies? Who is primed for a breakout? We asked execs and scouts for their picks."
     },
     {
-      "id": "1aa3af485ab9def1",
-      "title": "49ers' Brock Purdy 'week to week' with toe injury; Mac Jones likely to start Sunday",
-      "link": "https://sports.yahoo.com/article/49ers-brock-purdy-week-week-183209744.html",
+      "id": "6c6af15ed7868f63",
+      "title": "LISTEN: NFL MVP Josh Allen talks comeback, leadership and marriage",
+      "link": "https://sports.yahoo.com/article/listen-nfl-mvp-josh-allen-190657958.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-11T18:32:09+0000",
-      "summary": "San Francisco 49ers quarterback Brock Purdy is “week to week\" with a toe injury and Mac Jones is expected to start on Sunday against the New Orleans Saints.  General manager John Lynch told the team's flagship radio station KNBR on Thursday that the team reached the diagnosis after consulting with team trainers and doctors, along with foot and ankle specialist Dr. Robert Anderson.  NFL Network reported Thursday that Purdy would miss between two and five weeks."
+      "published": "2025-09-11T19:06:57+0000",
+      "summary": ""
+    },
+    {
+      "id": "5ad955f618927f91",
+      "title": "Boilers in the NFL: Week 1",
+      "link": "https://hammerandrails.com/football/55094/boilers-in-the-nfl-week-1",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-11T19:00:00+0000",
+      "summary": "How did former Boilermakers perform in week 1 of the NFL season?"
     },
     {
       "id": "db398d6c8b738981",
@@ -45,33 +54,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-11T18:30:06+0000",
       "summary": "In this episode of the Colts Blue Zone Podcast, Dave Griffiths and Matt Adams give their key takeaways from Indy's Week 1 win over Miami and look ahead to their Week 2 showdown against the visiting Denver Broncos. Plus: injury concerns in the secondary, Daniel Jones' command at the line of scrimmage, the impact of [...]"
-    },
-    {
-      "id": "f3513d76b75d3a49",
-      "title": "NFL Week 2 Odds: Can Rams beat Titans on the road?",
-      "link": "https://turfshowtimes.com/los-angeles-rams-odds/126200/rams-week-2-betting-odds",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-11T18:26:35+0000",
-      "summary": "Rams are favorites on the road against the Titans"
-    },
-    {
-      "id": "e20b651446cc3efd",
-      "title": "Ravens avoid major power rankings hit with slight PFF drop",
-      "link": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2025/09/11/ravens-spared-from-steep-drop-in-pff-power-rankings/86096042007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-11T18:23:13+0000",
-      "summary": "An epic collapse didn't damage the Ravens too much on PFF's NFL power ranking."
-    },
-    {
-      "id": "24ec7c7db2bb6922",
-      "title": "Cam Bynum on challenges Colts defense presents for quarterbacks",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/11/cam-bynum-challenges-colts-defense-quarterbacks/86096902007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-11T18:17:17+0000",
-      "summary": "Cam Bynum recently highlighted the challenges that the Colts' defense presents for quarterbacks."
     },
     {
       "id": "cbc0b40ec974334a",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-04T20:19:53+0000",
       "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "d264c6cc1fdaab2a",
+      "title": "Practice Notebook: Jonathan Taylor on what Daniel Jones brings to Colts offense",
+      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-daniel-jones-rushing-colts-offense-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-04T19:39:57+0000",
+      "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
+    },
+    {
+      "id": "a2717b183e5c131e",
+      "title": "How Daniel Jones is approaching debut as Colts QB1",
+      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:29:10+0000",
+      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
     }
   ],
   "links": [
