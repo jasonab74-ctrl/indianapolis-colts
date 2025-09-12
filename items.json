@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-12T11:25:14+00:00",
+  "updated": "2025-09-12T11:39:36+00:00",
   "items": [
     {
       "id": "cf1b705a8af35012",
@@ -18,33 +18,6 @@
       "feed": "ESPN",
       "published": "2025-09-12T11:59:13+0000",
       "summary": "Here's everything you need to know for Week 2 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
-    },
-    {
-      "id": "09486a4d35ce7cdd",
-      "title": "Broncos aim to contain Colts' 'very dynamic' weapon",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/12/nfl-tyler-warren-vs-broncos-defense/86097277007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-12T11:02:41+0000",
-      "summary": "&quot;He’s very dynamic,&quot; Broncos CB Pat Surtain said of Colts rookie TE Tyler Warren."
-    },
-    {
-      "id": "5ab0c04b0095ef9b",
-      "title": "Rams vs. Titans picks: Who do experts like in this Week 2 matchup?",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/12/rams-vs-titans-picks-who-do-experts-like-in-this-week-2-matchup/86082413007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-12T11:02:18+0000",
-      "summary": "The Rams are the overwhelming favorite among NFL experts, but weren't unanimously picked to win."
-    },
-    {
-      "id": "fd1e9e1b7c72b338",
-      "title": "Jayden Daniels: Nothing to dwell about, we faced a good team and came up short",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-nothing-to-dwell-about-we-faced-a-good-team-and-came-up-short",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-12T11:00:29+0000",
-      "summary": "It's been rare to see defenses have a handle on Commanders quarterback Jayden Daniels since he entered the NFL as the second overall pick in 2024, but that's just what the Packers were able to do on Thursday night."
     },
     {
       "id": "6288fa15b55a9b4a",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-04T20:19:53+0000",
       "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "d264c6cc1fdaab2a",
+      "title": "Practice Notebook: Jonathan Taylor on what Daniel Jones brings to Colts offense",
+      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-daniel-jones-rushing-colts-offense-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-04T19:39:57+0000",
+      "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
+    },
+    {
+      "id": "a2717b183e5c131e",
+      "title": "How Daniel Jones is approaching debut as Colts QB1",
+      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:29:10+0000",
+      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
+    },
+    {
+      "id": "ff99558e4e508cac",
+      "title": "Practice Notebook: Injury updates ahead of Colts' Week 1 game vs. Dolphins",
+      "link": "https://colts.com/news/practice-notebook-injury-updates-ahead-of-colts-week-1-game-vs-dolphins-tyler-goodson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:11:22+0000",
+      "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
     }
   ],
   "links": [
