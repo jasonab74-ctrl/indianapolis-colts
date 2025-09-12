@@ -1,13 +1,22 @@
 {
-  "updated": "2025-09-12T13:45:15+00:00",
+  "updated": "2025-09-12T14:38:44+00:00",
   "items": [
+    {
+      "id": "cf1b705a8af35012",
+      "title": "'Yeah, this guy is a gamer': Vikings not surprised by J.J. McCarthy's eye-opening NFL debut",
+      "link": "https://espn.com/nfl/story/_/id/46224693/nfl-minnesota-vikings-jj-mccarthy",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-12T15:12:23+0000",
+      "summary": "McCarthy said his performance in Sunday's comeback win over Chicago was \"more proving it to myself.\""
+    },
     {
       "id": "086a89b01f1d9add",
       "title": "NFL won't discipline Lamar for shoving Bills fan",
       "link": "https://espn.com/nfl/story/_/id/46225675/nfl-discipline-ravens-lamar-jackson-shoving-bills-fan",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-12T14:19:28+0000",
+      "published": "2025-09-12T15:06:18+0000",
       "summary": "Ravens quarterback Lamar Jackson will not face discipline from the NFL for his altercation with a Buffalo Bills fan during a season-opening 41-40 loss."
     },
     {
@@ -16,26 +25,53 @@
       "link": "https://espn.com/nfl/story/_/id/46227637/dolphins-held-players-only-meeting-blowout-loss-colts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-12T14:19:28+0000",
+      "published": "2025-09-12T15:06:18+0000",
       "summary": "The Dolphins held a players-only meeting Tuesday, two days after their 33-8 blowout loss to the Colts, to make sure the team remained \"on the same page.\""
     },
     {
-      "id": "cf1b705a8af35012",
-      "title": "'Yeah, this guy is a gamer': Vikings not surprised by J.J. McCarthy's eye-opening NFL debut",
-      "link": "https://espn.com/nfl/story/_/id/46224693/nfl-minnesota-vikings-jj-mccarthy",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-12T13:31:51+0000",
-      "summary": "McCarthy said his performance in Sunday's comeback win over Chicago was \"more proving it to myself.\""
+      "id": "398d012486c4cec0",
+      "title": "On key second-quarter call, replay assistance wasn't much help for the Packers",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-key-second-quarter-call-replay-assistance-wasnt-much-help-for-the-packers",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-12T14:31:45+0000",
+      "summary": "As replay assistance becomes more common in NFL games, it's fair to wonder where the line resides between a quick fix and a full-blown replay challenge."
     },
     {
-      "id": "ea7647f1e279a4db",
-      "title": "Our guide to every Week 2 game: Matchup previews, predictions, picks and nuggets",
-      "link": "https://espn.com/nfl/story/_/id/46215166/nfl-week-2-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-12T11:59:13+0000",
-      "summary": "Here's everything you need to know for Week 2 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
+      "id": "725dab3b19bd6656",
+      "title": "NFL experts predict winner of Jaguars vs. Bengals Week 2 game",
+      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/09/12/jaguars-bengals-experts-predict-week-2-winner/86111250007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-12T14:27:40+0000",
+      "summary": "Can the Jaguars get to 2-0 to start the season with a win over the Bengals? Let's see who the experts are picking."
+    },
+    {
+      "id": "0a4564c0aa3d3ee6",
+      "title": "Colts vs. Broncos preview: Shane Steichen, Daniel Jones face stiff challenge against Vance Joseph, Pat Surtain II and Denver defense",
+      "link": "https://colts.com/news/colts-vs-broncos-preview-shane-steichen-daniel-jones-face-stiff-challenge-against-vance-joseph-pat-surtain-ii-and-denver-defense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-12T14:26:40+0000",
+      "summary": "The Colts won their season opener for the first time since 2013, but quickly moved past their 33-8 thumping of the Dolphins to prepare for the challenge of facing the Broncos, who made the playoffs in 2024."
+    },
+    {
+      "id": "3243e1be8bfdf6e2",
+      "title": "NFL experts predict winner of Colts vs. Broncos Week 2 game",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/12/colts-broncos-nfl-experts-predict-week-2-winner/86111122007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-12T14:21:28+0000",
+      "summary": "Can the Colts get to 2-0 to start the season with a win over the Broncos? Let's see who the experts are picking."
+    },
+    {
+      "id": "45f69645669f1951",
+      "title": "Week 2 NFL best bets, picks, predictions: Our favorite Week 2 NFL wagers",
+      "link": "https://sports.yahoo.com/nfl/betting/article/week-2-nfl-best-bets-picks-predictions-our-favorite-week-2-nfl-wagers-141737388.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-12T14:17:37+0000",
+      "summary": "Our NFL handicappers give their best bets for Week 2 of the season."
     },
     {
       "id": "6288fa15b55a9b4a",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-04T21:42:17+0000",
       "summary": "Check out this week's episode of The Colts Show podcast for a wide-ranging one-on-one interview with quarterback Daniel Jones."
-    },
-    {
-      "id": "bdf8e793578b605b",
-      "title": "The Colts Show Mailbag: Downfield throws, Week 1 winless streak, Tanor Bortolini and Matt Goncalves, slot cornerback depth",
-      "link": "https://colts.com/news/the-colts-show-mailbag-downfield-throws-week-1-winless-streak-tanor-bortolini-and-matt-goncalves-slot-cornerback-depth",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T20:19:53+0000",
-      "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
-    },
-    {
-      "id": "d264c6cc1fdaab2a",
-      "title": "Practice Notebook: Jonathan Taylor on what Daniel Jones brings to Colts offense",
-      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-daniel-jones-rushing-colts-offense-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-04T19:39:57+0000",
-      "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
-    },
-    {
-      "id": "a2717b183e5c131e",
-      "title": "How Daniel Jones is approaching debut as Colts QB1",
-      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:29:10+0000",
-      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "ff99558e4e508cac",
-      "title": "Practice Notebook: Injury updates ahead of Colts' Week 1 game vs. Dolphins",
-      "link": "https://colts.com/news/practice-notebook-injury-updates-ahead-of-colts-week-1-game-vs-dolphins-tyler-goodson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:11:22+0000",
-      "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
     }
   ],
   "links": [
