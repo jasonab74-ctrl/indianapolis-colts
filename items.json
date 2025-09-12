@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-12T11:39:36+00:00",
+  "updated": "2025-09-12T13:15:39+00:00",
   "items": [
     {
       "id": "cf1b705a8af35012",
@@ -7,8 +7,26 @@
       "link": "https://espn.com/nfl/story/_/id/46224693/nfl-minnesota-vikings-jj-mccarthy",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-12T12:09:58+0000",
+      "published": "2025-09-12T13:31:51+0000",
       "summary": "McCarthy said his performance in Sunday's comeback win over Chicago was \"more proving it to myself.\""
+    },
+    {
+      "id": "27dc3601649a9769",
+      "title": "When will the Broncos open their new stadium?",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/12/nfl-when-will-broncos-new-stadium-be-ready/86081623007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-12T13:00:28+0000",
+      "summary": "When will the Broncos open their new stadium? The initial goal is to have it ready for the 2031 NFL season."
+    },
+    {
+      "id": "57615ad714d516fe",
+      "title": "Syracuse football: Orange in the NFL week one update",
+      "link": "https://nunesmagician.com/syracuse-football/97986/syracuse-football-orange-in-the-nfl-week-one-update",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-12T13:00:00+0000",
+      "summary": "Recapping week one for the former Orange"
     },
     {
       "id": "ea7647f1e279a4db",
@@ -18,15 +36,6 @@
       "feed": "ESPN",
       "published": "2025-09-12T11:59:13+0000",
       "summary": "Here's everything you need to know for Week 2 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
-    },
-    {
-      "id": "6288fa15b55a9b4a",
-      "title": "Three keys to victory for the Colts against the Broncos",
-      "link": "https://stampedeblue.com/analysis/114602/three-keys-to-victory-for-the-colts-against-the-broncos",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-12T10:58:33+0000",
-      "summary": "The Indianapolis Colts are 1-0 after week one. That sentence has been in the works for a long time, but it is finally here. Now is the time for the Colts to build on their new found momentum to start a season and beat the Denver Broncos at home. The Broncos are coming off a [&#8230;]"
     },
     {
       "id": "3908b26ee54cfa41",
@@ -54,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-09-12T06:50:16+0000",
       "summary": "Who will win MVP? Who will be the NFL's top rookies? Who is primed for a breakout? We asked execs and scouts for their picks."
-    },
-    {
-      "id": "1232df3c4418c538",
-      "title": "Week 1 Colts Defensive Rankings and Analysis:",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/114513/week-1-colts-defensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-12T06:04:58+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Football Outsiders, [&#8230;]"
     },
     {
       "id": "78460aade41d439f",
@@ -263,6 +263,15 @@
       "summary": "TV broadcast, radio and streaming information for Denver Broncos at Indianapolis Colts on Sunday, September 8 at 4:05 p.m. ET (Week 2)."
     },
     {
+      "id": "8111232ccf5b38ae",
+      "title": "Colts make some secondary moves to revamp practice squad",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114454/colts-make-some-secondary-moves-to-revamp-practice-squad",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-09T20:44:16+0000",
+      "summary": "The Indianapolis Colts announced on Tuesday that the team signed cornerback Keydrain Calligan and safety Darrick Forrest to their practice squad, while waiving both center Mose Vavao and safety Trey Washington in corresponding roster moves: Regarding Calligan, the 6,‘0”, 200 pound cornerback spent this past offseason with both the Seattle Seahawks and Houston Texans. The [&#8230;]"
+    },
+    {
       "id": "8eb988d9f3d089ed",
       "title": "Colts sign DB Keydrain Calligan, S Darrick Forrest to practice squad; release C Mose Vavao, S Trey Washington from practice squad",
       "link": "https://colts.com/news/colts-roster-moves-keydrain-calligan-darrick-forrest-defensive-backs-mose-vavao-trey-washington-practice-squad",
@@ -279,6 +288,15 @@
       "feed": "Colts.com",
       "published": "2025-09-09T17:05:16+0000",
       "summary": "The Colts released their Week 2 unofficial depth chart ahead of their game against the Denver Broncos Sunday at Lucas Oil Stadium. Check it out below:"
+    },
+    {
+      "id": "9f3fb2f6ea752917",
+      "title": "Colts’ Stats of the Game: Week 1 vs. Dolphins",
+      "link": "https://stampedeblue.com/analysis/114386/colts-stats-of-the-game-week-1-vs-dolphins",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-09T16:30:00+0000",
+      "summary": "Tua Tagovailoa held to a 2.7 QBR Some fans are already downplaying what the pass-defense managed to do yesterday, which is baffling to me. Mike McDaniel is a good offensive head-coach, Tua is at the very least an average quarterback, and Tyreek Hill / Jaylen Waddle form one of the most dangerous wide receiver duos [&#8230;]"
     },
     {
       "id": "676b30f2b0ebbb16",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-04T19:39:57+0000",
       "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
-    },
-    {
-      "id": "a2717b183e5c131e",
-      "title": "How Daniel Jones is approaching debut as Colts QB1",
-      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:29:10+0000",
-      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "ff99558e4e508cac",
-      "title": "Practice Notebook: Injury updates ahead of Colts' Week 1 game vs. Dolphins",
-      "link": "https://colts.com/news/practice-notebook-injury-updates-ahead-of-colts-week-1-game-vs-dolphins-tyler-goodson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:11:22+0000",
-      "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
     }
   ],
   "links": [
