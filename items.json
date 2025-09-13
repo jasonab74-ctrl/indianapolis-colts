@@ -1,6 +1,24 @@
 {
-  "updated": "2025-09-12T23:40:06+00:00",
+  "updated": "2025-09-13T02:41:03+00:00",
   "items": [
+    {
+      "id": "fb4ca5aa4eebc1f3",
+      "title": "Steelers home opener also drumming up excitement for NFL Draft in Pittsburgh",
+      "link": "https://sports.yahoo.com/article/steelers-home-opener-drumming-excitement-020830208.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-13T02:08:30+0000",
+      "summary": "The Steelers are back in Pittsburgh for the home opener and fans will be flocking to Acrisure Stadium."
+    },
+    {
+      "id": "4d17e6074c8d0cce",
+      "title": "Is Last Week’s Playbook This Week’s Answer?",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114498/is-last-weeks-playbook-this-weeks-answer",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-13T00:49:29+0000",
+      "summary": "If you can’t bask and dream after a performance like last week&#8217;s, you may be more interested in being proven right, than being a die-hard Colt fan.&#160; You still may end up being right, as it is hard to imagine looking better next week, but what would your opinion be with a less aesthetic win?&#160; [&#8230;]"
+    },
     {
       "id": "447f00e6b5927c44",
       "title": "Source: Chargers' Tart fined for slapping Kelce",
@@ -9,24 +27,6 @@
       "feed": "ESPN",
       "published": "2025-09-12T23:34:38+0000",
       "summary": "Chargers defensive tackle Teair Tart has been fined by the NFL for slapping Chiefs tight end Travis Kelce in their Week 1 game, a source told ESPN."
-    },
-    {
-      "id": "08ce1e016cefe199",
-      "title": "Kansas City Chiefs vs. Philadelphia Eagles: How to Watch 2025 Super Bowl Rematch Online",
-      "link": "https://billboard.com/culture/product-recommendations/kansas-city-chiefs-philadelphia-eagles-watch-online-1236065916/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-12T23:04:50+0000",
-      "summary": "The NFL game kicks off this Sunday at 4:25 p.m. ET/1:25 p.m. PT."
-    },
-    {
-      "id": "3105f39ae992472b",
-      "title": "‘Always organized’ Harold Landry setting the tone for Patriots’ pass rush",
-      "link": "https://patspulpit.com/new-england-patriots-media-transcripts-statements-interviews/109002/harold-landry-setting-the-tone-patriots-pass-rush",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-12T23:04:43+0000",
-      "summary": "The offseason addition is the current NFL leader in sacks."
     },
     {
       "id": "632fdd84df6b00c3",
@@ -207,15 +207,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-11T12:00:00+0000",
       "summary": "Following the Indianapolis Colts’ monumental collapse to close out the 2021-22 NFL season, the pressure mounted on general manager Chris Ballard’s shoulders. It had concluded three seasons of band-aids applied to the sport’s most important position — quarterback — as the organization attempted to rebound from an unprecedented situation. That situation, of course, is that [&#8230;]"
-    },
-    {
-      "id": "2889e015bd85a6c6",
-      "title": "Week 1 Colts Offensive Rankings and Analysis:",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/114482/week-1-colts-offensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-11T04:45:49+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Football Outsiders, [&#8230;]"
     },
     {
       "id": "7a7e9c1780ac191b",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-04T19:39:57+0000",
       "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
+    },
+    {
+      "id": "a2717b183e5c131e",
+      "title": "How Daniel Jones is approaching debut as Colts QB1",
+      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:29:10+0000",
+      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
     }
   ],
   "links": [
