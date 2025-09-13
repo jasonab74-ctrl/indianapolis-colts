@@ -1,14 +1,23 @@
 {
-  "updated": "2025-09-13T02:41:03+00:00",
+  "updated": "2025-09-13T03:35:01+00:00",
   "items": [
     {
-      "id": "fb4ca5aa4eebc1f3",
-      "title": "Steelers home opener also drumming up excitement for NFL Draft in Pittsburgh",
-      "link": "https://sports.yahoo.com/article/steelers-home-opener-drumming-excitement-020830208.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-13T02:08:30+0000",
-      "summary": "The Steelers are back in Pittsburgh for the home opener and fans will be flocking to Acrisure Stadium."
+      "id": "447f00e6b5927c44",
+      "title": "Source: Chargers' Tart fined for slapping Kelce",
+      "link": "https://espn.com/nfl/story/_/id/46237382/chargers-teair-tart-fined-slapping-travis-kelce",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-13T04:19:25+0000",
+      "summary": "Chargers defensive tackle Teair Tart has been fined by the NFL for slapping Chiefs tight end Travis Kelce in their Week 1 game, a source told ESPN."
+    },
+    {
+      "id": "030c88909ee97e2d",
+      "title": "Indianapolis Colts Injury Report: Week 2",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114629/indianapolis-colts-injury-report-week-2",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-13T02:44:24+0000",
+      "summary": "The Indianapolis Colts today released their Friday injury report for Week 2 of the NFL season ahead of their Sunday game against the Denver Broncos. Cornerback Charvarius Ward had been ruled OUT for Sunday’s game against the Broncos with a concussion. Ward appeared in the injury report early in the week after being placed into [&#8230;]"
     },
     {
       "id": "4d17e6074c8d0cce",
@@ -18,15 +27,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-13T00:49:29+0000",
       "summary": "If you can’t bask and dream after a performance like last week&#8217;s, you may be more interested in being proven right, than being a die-hard Colt fan.&#160; You still may end up being right, as it is hard to imagine looking better next week, but what would your opinion be with a less aesthetic win?&#160; [&#8230;]"
-    },
-    {
-      "id": "447f00e6b5927c44",
-      "title": "Source: Chargers' Tart fined for slapping Kelce",
-      "link": "https://espn.com/nfl/story/_/id/46237382/chargers-teair-tart-fined-slapping-travis-kelce",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-12T23:34:38+0000",
-      "summary": "Chargers defensive tackle Teair Tart has been fined by the NFL for slapping Chiefs tight end Travis Kelce in their Week 1 game, a source told ESPN."
     },
     {
       "id": "632fdd84df6b00c3",
@@ -198,15 +198,6 @@
       "feed": "Colts.com",
       "published": "2025-09-11T13:22:43+0000",
       "summary": "The InSideOut Initiative, in partnership with the Indianapolis Colts, IHSAA Foundation and the NFL Foundation, is set to re-launch in Indiana on September 17"
-    },
-    {
-      "id": "2ca31675e238a2dc",
-      "title": "Lou Anarumo’s Colts defense is a breath of fresh air",
-      "link": "https://stampedeblue.com/colts-film-analysis/114296/lou-anarumos-colts-defense-is-a-breath-of-fresh-air",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-11T12:00:00+0000",
-      "summary": "Following the Indianapolis Colts’ monumental collapse to close out the 2021-22 NFL season, the pressure mounted on general manager Chris Ballard’s shoulders. It had concluded three seasons of band-aids applied to the sport’s most important position — quarterback — as the organization attempted to rebound from an unprecedented situation. That situation, of course, is that [&#8230;]"
     },
     {
       "id": "7a7e9c1780ac191b",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-03T20:29:10+0000",
       "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
+    },
+    {
+      "id": "ff99558e4e508cac",
+      "title": "Practice Notebook: Injury updates ahead of Colts' Week 1 game vs. Dolphins",
+      "link": "https://colts.com/news/practice-notebook-injury-updates-ahead-of-colts-week-1-game-vs-dolphins-tyler-goodson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T20:11:22+0000",
+      "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
     }
   ],
   "links": [
