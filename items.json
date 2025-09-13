@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-13T11:38:36+00:00",
+  "updated": "2025-09-13T13:05:57+00:00",
   "items": [
+    {
+      "id": "1eb4965225fb6738",
+      "title": "Trade interest lingers in Tyreek Hill, with one key caveat",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/trade-interest-lingers-in-tyreek-hill-with-one-key-caveat",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-13T12:44:27+0000",
+      "summary": "In the aftermath of Miami's embarrassing Week 1 loss to the Colts, chatter quickly started regarding potential trade interest in receiver Tyreek Hill — if the first game is a sign of things to come in South Florida."
+    },
     {
       "id": "447f00e6b5927c44",
       "title": "Source: Chargers' Tart fined for slapping Kelce",
@@ -72,15 +81,6 @@
       "feed": "Colts.com",
       "published": "2025-09-12T16:58:02+0000",
       "summary": "Ward (concussion) did not participate in practice this week."
-    },
-    {
-      "id": "cf1b705a8af35012",
-      "title": "'Yeah, this guy is a gamer': Vikings not surprised by J.J. McCarthy's eye-opening NFL debut",
-      "link": "https://espn.com/nfl/story/_/id/46224693/nfl-minnesota-vikings-jj-mccarthy",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-12T15:12:23+0000",
-      "summary": "McCarthy said his performance in Sunday's comeback win over Chicago was \"more proving it to myself.\""
     },
     {
       "id": "727fde5d2ec7f17d",
@@ -200,15 +200,6 @@
       "summary": "The InSideOut Initiative, in partnership with the Indianapolis Colts, IHSAA Foundation and the NFL Foundation, is set to re-launch in Indiana on September 17"
     },
     {
-      "id": "7a7e9c1780ac191b",
-      "title": "NFL execs predict the biggest award winners: Picks for MVP, best rookies, top comeback player, breakouts",
-      "link": "https://espn.com/nfl/story/_/id/46208174/nfl-executives-pick-award-winners-2025-predicting-mvp-top-rookies-player-year-honors-comeback-stars-breakouts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-10T22:29:17+0000",
-      "summary": "Who will win MVP? Who will be the NFL's top rookies? Who is primed for a breakout? We asked execs and scouts for their picks."
-    },
-    {
       "id": "090ccde3481e9257",
       "title": "Tyler Warren makes strong first impression with Colts",
       "link": "https://cbs4indy.com/sports/colts/tyler-warren-makes-strong-first-impression-with-colts/",
@@ -306,15 +297,6 @@
       "feed": "Colts.com",
       "published": "2025-09-09T14:22:03+0000",
       "summary": "Warren had seven receptions for 76 yards in the Colts' 33-8 win over the Miami Dolphins on Sunday."
-    },
-    {
-      "id": "de0ccb4357c598b6",
-      "title": "What to know on all 32 NFL playcallers: From veterans to first-year coaches, here is what to expect in 2025",
-      "link": "https://espn.com/nfl/story/_/id/46137832/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-brian-schottenheimer",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-09T11:00:00+0000",
-      "summary": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2025."
     },
     {
       "id": "0ddb5d516afbbca9",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-03T20:11:22+0000",
       "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
+    },
+    {
+      "id": "c128cd6a580ecc93",
+      "title": "Colts launch 'The Jack Doyle Podcast' with debut episode ahead of Week 1",
+      "link": "https://colts.com/news/colts-launch-the-jack-doyle-podcast-with-debut-episode-ahead-of-week-1",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T18:50:07+0000",
+      "summary": "Former Colts Pro Bowl tight end Jack Doyle will bring his unique perspective and analysis to the Indianapolis Colts Podcasts lineup every Wednesday during the regular season."
+    },
+    {
+      "id": "1673ef0524954269",
+      "title": "Lou Anarumo sets expectations for Xavien Howard's Colts debut",
+      "link": "https://colts.com/news/lou-anarumo-expectations-xavien-howard-colts-debut-cornerback-miami-dolphins-week-one",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-02T18:46:21+0000",
+      "summary": "Howard has been practicing alongside the Colts' first-team defense since joining the team mid-August."
     }
   ],
   "links": [
