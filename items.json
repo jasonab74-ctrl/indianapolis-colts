@@ -1,6 +1,51 @@
 {
-  "updated": "2025-09-14T11:37:41+00:00",
+  "updated": "2025-09-14T13:00:30+00:00",
   "items": [
+    {
+      "id": "c4834de772e5fa46",
+      "title": "Sources: Cowboys OL Smith gets $96M extension",
+      "link": "https://espn.com/nfl/story/_/id/46246530/sources-cowboys-make-tyler-smith-nfl-highest-paid-interior-offensive-lineman",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-14T12:35:28+0000",
+      "summary": "The Dallas Cowboys have made left guard Tyler Smith the highest-paid interior offensive lineman in the NFL."
+    },
+    {
+      "id": "ca9721410ebc7e29",
+      "title": "J.J. McCarthy becomes a dad days after stunning NFL debut with Vikings",
+      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/jj-mccarthy-becomes-dad-days-after-stunning-nfl-debut-vikings/3c355856c3b63e2de5639dc1",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T12:34:43+0000",
+      "summary": "What a week!"
+    },
+    {
+      "id": "45ff953a99c7bfda",
+      "title": "Ahkello Witherspoon leads NFL in key defensive stat since Week 15 of last season",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/14/rams-ahkello-witherspoon-leads-nfl-in-this-stat-since-2024/86145023007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T12:30:25+0000",
+      "summary": "Ahkello Witherspoon finds himself with the most pass breakups since Week 15 of last season, making a major impact with the Rams"
+    },
+    {
+      "id": "28a58b70639c7064",
+      "title": "Daily Slop – 14 Sep 25 – Eagles play in Kansas City; Giants & Cowboys face off in Dallas",
+      "link": "https://hogshaven.com/daily-slop/376211/daily-slop-14-sep-25-eagles-play-in-kansas-city-giants-cowboys-face-off-in-dallas",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T12:30:00+0000",
+      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
+    },
+    {
+      "id": "5b840f7c4f2c1829",
+      "title": "Week 1 drama: NFL fines Will McDonald after sack celebration on Aaron Rodgers",
+      "link": "https://sportingnews.com/us/nfl/new-york-jets/news/week-1-drama-nfl-fines-will-mcdonald-after-sack-celebration-aaron-rodgers/00729079e1a398373a8e36c1",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T12:28:45+0000",
+      "summary": "Ya can't do that..."
+    },
     {
       "id": "14a82df304b85661",
       "title": "How to watch the Denver Broncos at Indianapolis Colts on September 14, 2025",
@@ -9,42 +54,6 @@
       "feed": "Colts.com",
       "published": "2025-09-14T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Denver Broncos at Indianapolis Colts on Sunday, September 8 at 4:05 p.m. ET (Week 2)."
-    },
-    {
-      "id": "8d0a2a1f7bc748ee",
-      "title": "Daniel Jones start or sit: Week 2 fantasy football advice",
-      "link": "https://sbnation.com/fantasy/1079985/daniel-jones-start-sit-week-2-fantasy-football-advice-vs-broncos",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T11:27:00+0000",
-      "summary": "We break down the fantasy football outlook of Daniel Jones ahead of the Colts’ Week 2 matchup against the Broncos."
-    },
-    {
-      "id": "4c7bb31b388f8b0a",
-      "title": "R.J. Harvey start or sit: Week 2 fantasy football advice",
-      "link": "https://sbnation.com/fantasy/1079980/rj-harvey-start-sit-week-2-fantasy-football-advice-vs-colts",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T11:26:00+0000",
-      "summary": "We break down the fantasy football outlook of R.J. Harvey ahead of the Broncos’ Week 2 matchup against the Colts."
-    },
-    {
-      "id": "64211a6b2a545249",
-      "title": "What TV channel is Jaguars vs. Bengals on today? Time, TV schedule for NFL Week 2 game",
-      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/09/14/jaguars-game-today-bengals-week-2-tv-channel-live-stream/86149355007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T11:23:29+0000",
-      "summary": "The Jacksonville Jaguars and the Cincinnati Bengals face off in Week 2 of the NFL regular season. Here's where to watch and start time."
-    },
-    {
-      "id": "c4834de772e5fa46",
-      "title": "Sources: Cowboys OL Smith gets $96M extension",
-      "link": "https://espn.com/nfl/story/_/id/46246530/sources-cowboys-make-tyler-smith-nfl-highest-paid-interior-offensive-lineman",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-14T06:13:47+0000",
-      "summary": "The Dallas Cowboys have made left guard Tyler Smith the highest-paid interior offensive lineman in the NFL."
     },
     {
       "id": "ca455bef93b84d69",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-04T19:39:57+0000",
       "summary": "The veteran running back spoke highly of Jones’ leadership at the line of scrimmage as well as his skills as a dual-threat quarterback."
-    },
-    {
-      "id": "a2717b183e5c131e",
-      "title": "How Daniel Jones is approaching debut as Colts QB1",
-      "link": "https://colts.com/news/daniel-jones-colts-quarterback-week-one-miami-dolphins-shane-steichen-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-03T20:29:10+0000",
-      "summary": "The Colts will open the 2025 season against the Miami Dolphins on Sunday at Lucas Oil Stadium."
     }
   ],
   "links": [
