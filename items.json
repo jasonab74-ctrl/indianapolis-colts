@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-14T22:31:09+00:00",
+  "updated": "2025-09-14T23:26:12+00:00",
   "items": [
     {
       "id": "c96d1ae25ad08004",
@@ -7,26 +7,98 @@
       "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-14T23:29:53+0000",
+      "published": "2025-09-15T00:24:22+0000",
       "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
     },
     {
-      "id": "21d5c771989e9ea4",
-      "title": "'BeignYAY': 49ers' petty posts at Saints leads NFL Week 2 trolls",
-      "link": "https://espn.com/nfl/story/_/id/46261415/nfl-week-2-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-14T22:50:27+0000",
-      "summary": "The San Francisco 49ers made sure to poke fun at the New Orleans Saints after winning on the road, topping Week 2's NFL trolls."
-    },
-    {
-      "id": "22f47448ac501cc0",
-      "title": "Dolphins, Patriots combine for NFL history not done since Deion Sanders, Desmond Howard in 1992",
-      "link": "https://sportingnews.com/us/nfl/miami-dolphins/news/dolphins-patriots-combine-nfl-history-deion-sanders-desmond-howard-1992/a2706479a0a51ab611c20a69",
+      "id": "aee025698e77517e",
+      "title": "Broncos lose stunner to Colts after giving Spencer Shrader a second look at a game winning FG with no time on the clock",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/broncos-lose-stunner-to-colts-after-giving-spencer-shrader-a-second-look-at-a-game-winning-fg-with-no-time-on-the-clock-231510852.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:22:16+0000",
-      "summary": "This is such a cool historical combination."
+      "published": "2025-09-14T23:15:10+0000",
+      "summary": "The Denver Broncos thought they had this game won."
+    },
+    {
+      "id": "782821015bf5621d",
+      "title": "Shrader's kick propels Colts to 29-28 win and 2-0 start",
+      "link": "https://cbs4indy.com/sports/colts/shraders-kick-propels-colts-to-29-28-win-and-2-0-start/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-14T23:14:27+0000",
+      "summary": "INDIANAPOLIS - Spencer Shrader kicked a 45-yard game-winning field as time expired to lift the Indianapolis Colts to a 29-28 win over the Denver Broncos on Sunday afternoon. The Colts are now 2-0 for the first time since 2009. Shrader missed a 60-yard attempt, but the Broncos were flagged for leverage. The penalty moved the [...]"
+    },
+    {
+      "id": "1eb75dcfb2866d82",
+      "title": "Colts kick last-second field goal to beat Broncos after penalty",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/14/broncos-vs-colts-final-score-game-recap/86153919007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:13:09+0000",
+      "summary": "A late penalty cost the Broncos a win against the Colts on Sunday."
+    },
+    {
+      "id": "3a875216ae1976d0",
+      "title": "Why Broncos were called for penalty that lost them game to Colts",
+      "link": "https://sportingnews.com/us/nfl/denver-broncos/news/why-broncos-were-called-penalty-lost-them-game-colts/24a96519ed2ae32383045fa1",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:12:30+0000",
+      "summary": "What a crazy ending."
+    },
+    {
+      "id": "3b980f720af85174",
+      "title": "Instant analysis of Colts' late Week 2 win vs. Broncos",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/14/colts-broncos-instant-analysis-week-2-win/86156599007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:10:56+0000",
+      "summary": "The clock just hit zero, so let's take a look at our instant takeaways from the Colts' last minute win over the Broncos."
+    },
+    {
+      "id": "d30e41a784e3db5a",
+      "title": "Colts rally for comeback win vs. Broncos",
+      "link": "https://colts.com/news/colts-rally-for-comeback-win-vs-broncos-jonathan-taylor-cam-bynum-daniel-jones",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-14T23:10:28+0000",
+      "summary": "The Colts took down the Broncos 29-28 on a last-second field goal from Spencer Shrader."
+    },
+    {
+      "id": "5ef23ca353c24b49",
+      "title": "What are the odds of the Colts making the NFL playoffs in 2025?",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/14/colts-playoffs-2025-what-are-their-odds-of-making-the-nfl-postseason/86094939007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:10:26+0000",
+      "summary": "Game 2 has long been a key data point in determining if teams will make the playoffs. Here are the Colts' odds"
+    },
+    {
+      "id": "e30fe79530ece3e1",
+      "title": "Broncos defense falters on road against Colts in 29-28 defeat",
+      "link": "https://milehighreport.com/denver-broncos-scores-results/157499/broncos-vs-colts-final-score-week-2",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:09:34+0000",
+      "summary": "Last week, the Denver Broncos defense came to play and the offense was mostly missing in action. The inverse was true today as the Indianapolis Colts under Daniel Jones torched the defense on nearly every drive — except when those drives got into field goal range. The Broncos’ offense also kept up with multiple touchdown […]"
+    },
+    {
+      "id": "5fd29197f05fb551",
+      "title": "&quot;The Giants have the worst DC&quot;: NFL analyst gets super critical of Giants DC Shane Bowen in OT Loss",
+      "link": "https://sportingnews.com/us/nfl/new-york-giants/news/giants-have-worst-dc-nfl-analyst-gets-super-critical-giants-dc-shane-bowen-ot-loss/36f9ca5eac38a0390265983f",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:00:46+0000",
+      "summary": "One NFL analyst is very critical of New York Giants defensive coordinator Shane Bowen"
+    },
+    {
+      "id": "b1d9f6bfb69d5fa3",
+      "title": "10 Biggest NFL Week 2 Winners, Including Russell Wilson and Detroit Lions",
+      "link": "https://sportsnaut.com/nfl/10-biggest-nfl-week-2-winners-2025/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T23:00:00+0000",
+      "summary": "NFL Week 2 in the 2025 football season featured quite a few wildly entertaining shootouts as 18 teams scored 20"
     },
     {
       "id": "9b8d79c03bf50d7b",
@@ -34,62 +106,26 @@
       "link": "https://milehighreport.com/game-day-threads/157488/broncos-vs-colts-live-coverage-week-2",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:17:04+0000",
-      "summary": "On the road in Week 2, the Denver Broncos will take on the Indianapolis Colts. Both teams started the season with a win last week and look to remain perfect on the season in this game. The Colts scored on every possession last week against the Miami Dolphins, but they’ll face one of the best […]"
+      "published": "2025-09-14T22:58:23+0000",
+      "summary": "Update: Broncos lose to the refs, err, I mean they lost to the Colts. On the road in Week 2, the Denver Broncos will take on the Indianapolis Colts. Both teams started the season with a win last week and look to remain perfect on the season in this game. The Colts scored on every […]"
     },
     {
-      "id": "1921223474b973d5",
-      "title": "Best of NFL cheerleaders leading the charge in Week 2",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/09/14/nfl-cheerleaders-images-week-2/86156051007/",
-      "source": "Yahoo Sports",
+      "id": "b12f9e456134d17a",
+      "title": "Watch Cam Bynum celebrate an interception (again!) with Colts mascot Blue",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/14/colts-cam-bynum-celebrates-interception-with-mascot-blue/86156667007/",
+      "source": "IndyStar",
       "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:15:39+0000",
-      "summary": "From the Dallas Cowboys to the Miami Dolphins and more, here are the best of the best NFL cheerleader photos from Week 2."
+      "published": "2025-09-14T22:54:32+0000",
+      "summary": "For the second straight week, free agent signee Cam Bynum had an interception for the Colts and celebrated"
     },
     {
-      "id": "b39c855144cd0bd1",
-      "title": "Colts become first team in NFL history to accomplish this feat on offense",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/14/colts-broncos-indianapolis-first-team-accomplish-feat-offense/86156260007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:14:16+0000",
-      "summary": "The Indianapolis Colts accomplished something in the first half against the Denver Broncos that no other team has done in NFL history."
-    },
-    {
-      "id": "cb2e2a16fb8db738",
-      "title": "Colts become first team in NFL history to score on first 10 possessions of a season",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/colts-become-first-team-in-nfl-history-to-score-on-first-10-possessions-of-a-season-221414018.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:14:14+0000",
-      "summary": "Daniel Jones and the Indianapolis offense continue to defy expectations."
-    },
-    {
-      "id": "cf3ee5351ea4ed65",
-      "title": "Brett Rypien, on Bengals' practice squad, is backup QB Jake Browning's backup",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/09/14/brett-rypien-backs-up-bengals-backup-quarterback-jake-browning-joe-burrow-toe-injury/86156104007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:08:40+0000",
-      "summary": "The Bengals are Brett Rypien's seventh NFL team since the Denver Broncos signed the former Boise State standout as an undrafted free agent in 2019."
-    },
-    {
-      "id": "8985b226af96169b",
-      "title": "Two of three late-afternoon games had moments of silence for Charlie Kirk",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-of-three-late-afternoon-games-had-moments-of-silence-for-charlie-kirk",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:07:40+0000",
-      "summary": "After the NFL directed the Packers to have a Thursday night moment of silence for Charlie Kirk, five of the nine teams that hosted early games chose to do the same."
-    },
-    {
-      "id": "c311a093bccaf59c",
-      "title": "Broncos RB J.K. Dobbins runs for TD vs. Colts",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/14/nfl-highlights-jk-dobbins-td-vs-colts/86155788007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T22:02:29+0000",
-      "summary": "J.K. Dobbins runs for a five-yard touchdown to give the Broncos a 28-20 lead over the Colts."
+      "id": "21d5c771989e9ea4",
+      "title": "'BeignYAY': 49ers' petty posts at Saints lead NFL Week 2 trolls",
+      "link": "https://espn.com/nfl/story/_/id/46261415/nfl-week-2-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-14T22:50:27+0000",
+      "summary": "The San Francisco 49ers made sure to poke fun at the New Orleans Saints after winning on the road, topping Week 2's NFL trolls."
     },
     {
       "id": "0be8d0a0cd83a1c2",
@@ -380,15 +416,6 @@
       "summary": "Kenny Moore II, as a 16-year-old, quit football. He was coaxed back a day later. Over a decade later, he's still playing, and still has plenty more to accomplish."
     },
     {
-      "id": "91a1aa2c7beed80d",
-      "title": "Colts face cornerback concerns after opening win",
-      "link": "https://cbs4indy.com/sports/colts/colts-face-cornerback-concerns-after-opening-win/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-10T16:52:01+0000",
-      "summary": "INDIANAPOLIS – Breaking the NFL’s longest active non-winning streak in season openers came at a price for the Indianapolis Colts. Colts Head Coach Shane Steichen said Wednesday that starting cornerback Charvarius Ward is in the league’s concussion protocol and backup Jaylon Jones “will be out for a while’’ with a hamstring injury. Both were injured [...]"
-    },
-    {
       "id": "5d43c676f60f5da8",
       "title": "Week 2 'White Out Game' coming to Lucas Oil Stadium",
       "link": "https://colts.com/news/colts-vs-denver-broncos-tickets-white-out-uniform-lucas-oil-stadium-week-2-2025-nfl-season-schedule",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-07T19:48:37+0000",
       "summary": "Daniel Jones was 22-of-29 for 272 yards and a touchdown, with two rushing touchdowns of his own, in the Colts' 33-8 win."
-    },
-    {
-      "id": "481d2c2275f52bb0",
-      "title": "Colts announce 7 inactive players for Week 1 game vs. Miami Dolphins",
-      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-1-game-vs-miami-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T15:30:42+0000",
-      "summary": "Tyler Goodson (elbow) was listed as questionable on Friday's practice report."
-    },
-    {
-      "id": "19405c86498d23bf",
-      "title": "How to watch the Miami Dolphins at Indianapolis Colts on September 7, 2025",
-      "link": "https://colts.com/news/how-to-watch-dolphins-at-colts-week-1-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T12:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Miami Dolphins at Indianapolis Colts on Sunday, September 7 at 1:00 p.m. ET (Week 1)."
-    },
-    {
-      "id": "814682c94ce29b9d",
-      "title": "MY GUIDE TO GAMEDAY…know this before you go. Pls.",
-      "link": "https://colts.com/news/colts-mobile-tickets-gameday-lucas-oil-stadium-blue-mascot-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T10:00:00+0000",
-      "summary": "What’s up, Colts fans! Come along with me as I show you how to scan your tickets to get into gameday. Because you don’t want to miss out on seeing me perform, because I’m the whole show."
     }
   ],
   "links": [
