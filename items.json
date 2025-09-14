@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-14T05:30:56+00:00",
+  "updated": "2025-09-14T06:44:19+00:00",
   "items": [
     {
       "id": "14a82df304b85661",
@@ -18,24 +18,6 @@
       "feed": "ESPN",
       "published": "2025-09-14T06:13:47+0000",
       "summary": "The Dallas Cowboys have made left guard Tyler Smith the highest-paid interior offensive lineman in the NFL."
-    },
-    {
-      "id": "dda20f4617714fe1",
-      "title": "Why Super Bowl revenge looks a long shot for Chiefs",
-      "link": "https://bbc.com/sport/american-football/articles/crl5k4yyrlgo",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T04:54:05+0000",
-      "summary": "BBC Sport columnist Phoebe Schecter explains why she struggles to see the Kansas City Chiefs winning their Super Bowl rematch with the Philadelphia Eagles in week two of the NFL season."
-    },
-    {
-      "id": "e63e8d34b20b0e16",
-      "title": "Commanders Week 2 survey results: Sometimes, timing is everything",
-      "link": "https://hogshaven.com/washington-commanders-reacts/376215/commanders-week-2-survey-results-sometimes-timing-is-everything",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T04:53:29+0000",
-      "summary": "Here at Hogs Haven and across the SB Nation NFL communities, we run a survey program called Reacts. Periodically through the offseason and preseason, and then every week during the season, we ask survey questions of Commanders fans here on the blog, and nationally with fans of all 32 teams via email with registered participants. […]"
     },
     {
       "id": "ca455bef93b84d69",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-03T20:11:22+0000",
       "summary": "Tyler Goodson (elbow) was a limited participant during Wednesday’s practice."
+    },
+    {
+      "id": "c128cd6a580ecc93",
+      "title": "Colts launch 'The Jack Doyle Podcast' with debut episode ahead of Week 1",
+      "link": "https://colts.com/news/colts-launch-the-jack-doyle-podcast-with-debut-episode-ahead-of-week-1",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-03T18:50:07+0000",
+      "summary": "Former Colts Pro Bowl tight end Jack Doyle will bring his unique perspective and analysis to the Indianapolis Colts Podcasts lineup every Wednesday during the regular season."
+    },
+    {
+      "id": "1673ef0524954269",
+      "title": "Lou Anarumo sets expectations for Xavien Howard's Colts debut",
+      "link": "https://colts.com/news/lou-anarumo-expectations-xavien-howard-colts-debut-cornerback-miami-dolphins-week-one",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-02T18:46:21+0000",
+      "summary": "Howard has been practicing alongside the Colts' first-team defense since joining the team mid-August."
     }
   ],
   "links": [
