@@ -1,59 +1,104 @@
 {
-  "updated": "2025-09-14T21:38:15+00:00",
+  "updated": "2025-09-14T22:31:09+00:00",
   "items": [
-    {
-      "id": "c4834de772e5fa46",
-      "title": "Sources: Cowboys OL Smith gets $96M extension",
-      "link": "https://espn.com/nfl/story/_/id/46246530/sources-cowboys-make-tyler-smith-nfl-highest-paid-interior-offensive-lineman",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-14T22:20:47+0000",
-      "summary": "The Dallas Cowboys have made left guard Tyler Smith the highest-paid interior offensive lineman in the NFL."
-    },
     {
       "id": "c96d1ae25ad08004",
       "title": "🤔 OT: Better to have the ball first or second?",
       "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-14T22:20:47+0000",
+      "published": "2025-09-14T23:29:53+0000",
       "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
     },
     {
+      "id": "21d5c771989e9ea4",
+      "title": "'BeignYAY': 49ers' petty posts at Saints leads NFL Week 2 trolls",
+      "link": "https://espn.com/nfl/story/_/id/46261415/nfl-week-2-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-14T22:50:27+0000",
+      "summary": "The San Francisco 49ers made sure to poke fun at the New Orleans Saints after winning on the road, topping Week 2's NFL trolls."
+    },
+    {
+      "id": "22f47448ac501cc0",
+      "title": "Dolphins, Patriots combine for NFL history not done since Deion Sanders, Desmond Howard in 1992",
+      "link": "https://sportingnews.com/us/nfl/miami-dolphins/news/dolphins-patriots-combine-nfl-history-deion-sanders-desmond-howard-1992/a2706479a0a51ab611c20a69",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:22:16+0000",
+      "summary": "This is such a cool historical combination."
+    },
+    {
+      "id": "9b8d79c03bf50d7b",
+      "title": "Week 2: Broncos at Colts – Live Coverage",
+      "link": "https://milehighreport.com/game-day-threads/157488/broncos-vs-colts-live-coverage-week-2",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:17:04+0000",
+      "summary": "On the road in Week 2, the Denver Broncos will take on the Indianapolis Colts. Both teams started the season with a win last week and look to remain perfect on the season in this game. The Colts scored on every possession last week against the Miami Dolphins, but they’ll face one of the best […]"
+    },
+    {
+      "id": "1921223474b973d5",
+      "title": "Best of NFL cheerleaders leading the charge in Week 2",
+      "link": "https://thelistwire.usatoday.com/story/sports/2025/09/14/nfl-cheerleaders-images-week-2/86156051007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:15:39+0000",
+      "summary": "From the Dallas Cowboys to the Miami Dolphins and more, here are the best of the best NFL cheerleader photos from Week 2."
+    },
+    {
+      "id": "b39c855144cd0bd1",
+      "title": "Colts become first team in NFL history to accomplish this feat on offense",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/14/colts-broncos-indianapolis-first-team-accomplish-feat-offense/86156260007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:14:16+0000",
+      "summary": "The Indianapolis Colts accomplished something in the first half against the Denver Broncos that no other team has done in NFL history."
+    },
+    {
+      "id": "cb2e2a16fb8db738",
+      "title": "Colts become first team in NFL history to score on first 10 possessions of a season",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/colts-become-first-team-in-nfl-history-to-score-on-first-10-possessions-of-a-season-221414018.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:14:14+0000",
+      "summary": "Daniel Jones and the Indianapolis offense continue to defy expectations."
+    },
+    {
+      "id": "cf3ee5351ea4ed65",
+      "title": "Brett Rypien, on Bengals' practice squad, is backup QB Jake Browning's backup",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/09/14/brett-rypien-backs-up-bengals-backup-quarterback-jake-browning-joe-burrow-toe-injury/86156104007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:08:40+0000",
+      "summary": "The Bengals are Brett Rypien's seventh NFL team since the Denver Broncos signed the former Boise State standout as an undrafted free agent in 2019."
+    },
+    {
+      "id": "8985b226af96169b",
+      "title": "Two of three late-afternoon games had moments of silence for Charlie Kirk",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-of-three-late-afternoon-games-had-moments-of-silence-for-charlie-kirk",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:07:40+0000",
+      "summary": "After the NFL directed the Packers to have a Thursday night moment of silence for Charlie Kirk, five of the nine teams that hosted early games chose to do the same."
+    },
+    {
+      "id": "c311a093bccaf59c",
+      "title": "Broncos RB J.K. Dobbins runs for TD vs. Colts",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/14/nfl-highlights-jk-dobbins-td-vs-colts/86155788007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T22:02:29+0000",
+      "summary": "J.K. Dobbins runs for a five-yard touchdown to give the Broncos a 28-20 lead over the Colts."
+    },
+    {
       "id": "0be8d0a0cd83a1c2",
-      "title": "Questions off every NFL Week 2 game: Do the Patriots have kicker trouble? How good is the Packers defense?",
+      "title": "Questions off every NFL Week 2 game: What does OT win mean for Dak Prescott? What are the Bears' biggest issues?",
       "link": "https://espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-09-14T22:01:06+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2."
-    },
-    {
-      "id": "709dbe3ee97f8657",
-      "title": "Broncos QB Bo Nix throws 3 TD passes in first half vs. Colts",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/14/nfl-broncos-bo-nix-3-tds-first-half-vs-colts/86155569007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T21:25:59+0000",
-      "summary": "Broncos QB Bo Nix has three first-half touchdowns and Denver leads the Colts 21-13."
-    },
-    {
-      "id": "24fd5f194e12bac9",
-      "title": "Daniel Jones, Colts set NFL scoring record",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/14/colts-daniel-jones-nfl-record-with-10-consecutive-scoring-drives-to-start-season/86155556007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T21:23:23+0000",
-      "summary": "The Colts and Daniel Jones set an NFL scoring record to start the season"
-    },
-    {
-      "id": "4ae82ff13b5b2299",
-      "title": "Cam Skattebo scores first NFL TD in Giants' OT loss to Cowboys",
-      "link": "https://azcentral.com/story/sports/nfl/cardinals/2025/09/14/former-asu-star-cam-skattebo-scores-first-nfl-td-in-wild-ot-loss/86155103007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T21:22:36+0000",
-      "summary": "Former Arizona State star Cam Skattebo led the Giants in rushing with 45 yards on 11 carries against the Dallas Cowboys."
     },
     {
       "id": "191378f44d2b8d40",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-07T10:00:00+0000",
       "summary": "What’s up, Colts fans! Come along with me as I show you how to scan your tickets to get into gameday. Because you don’t want to miss out on seeing me perform, because I’m the whole show."
-    },
-    {
-      "id": "90b57d0dfb1c358b",
-      "title": "Coming to Lucas Oil Stadium? Here is everything NEW you need to know about Colts home games in 2025.",
-      "link": "https://colts.com/news/colts-gameday-information-lucas-oil-stadium-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T09:00:00+0000",
-      "summary": "New amenities and fan information for the 2025 Colts home schedule"
-    },
-    {
-      "id": "67d65469a150bb2e",
-      "title": "Colts elevate LB Austin Ajiake, RB Ulysses Bentley IV to active roster from practice squad for Week 1",
-      "link": "https://colts.com/news/colts-elevate-lb-austin-ajiake-rb-ulysses-bentley-iv-to-active-roster-from-practice-squad-for-week-1",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-06T15:53:40+0000",
-      "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "cf6676c9b79b9e7f",
-      "title": "Colts do not rule out any players for Week 1 game vs. Miami Dolphins",
-      "link": "https://colts.com/news/colts-do-not-rule-out-any-players-for-week-1-game-vs-miami-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-05T16:57:11+0000",
-      "summary": "Running back Tyler Goodson (elbow) was a limited participant in practice this week."
-    },
-    {
-      "id": "1766dc836811a08a",
-      "title": "Garrett's Chris DePew named Girls 'Flag Coach of the Week' for Week 2",
-      "link": "https://colts.com/news/garretts-chris-depew-named-girls-flag-coach-of-the-week-for-week-2-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-05T16:24:32+0000",
-      "summary": "The first coach in Indiana history to be named Colts “Coach of the Week” in both tackle and girls flag football"
-    },
-    {
-      "id": "52947c34d99ad780",
-      "title": "Colts vs. Dolphins preview: Lou Anarumo's defense faces first test against Tua Tagovailoa and Miami's speedy, explosive offense",
-      "link": "https://colts.com/news/week-1-preview-lou-anarumo-defense-miami-dolphins-offense-tua-tagovailoa-tyreek-hill-jaylen-waddle",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-05T14:47:08+0000",
-      "summary": "The Colts kick off the 2025 regular season on Sunday at 1 p.m. against the Miami Dolphins at Lucas Oil Stadium."
     }
   ],
   "links": [
