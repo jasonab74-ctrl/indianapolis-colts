@@ -1,6 +1,33 @@
 {
-  "updated": "2025-09-14T13:30:35+00:00",
+  "updated": "2025-09-14T13:40:15+00:00",
   "items": [
+    {
+      "id": "c4834de772e5fa46",
+      "title": "Sources: Cowboys OL Smith gets $96M extension",
+      "link": "https://espn.com/nfl/story/_/id/46246530/sources-cowboys-make-tyler-smith-nfl-highest-paid-interior-offensive-lineman",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-14T14:32:35+0000",
+      "summary": "The Dallas Cowboys have made left guard Tyler Smith the highest-paid interior offensive lineman in the NFL."
+    },
+    {
+      "id": "946e6a39696677a2",
+      "title": "Week 1 had no fines for lowering the helmet",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/week-1-had-no-fines-for-lowering-the-helmet",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T13:28:03+0000",
+      "summary": "Seven years after the NFL made an unexpected rule change that has resulted in rare flags but many fines, the league started the 2025 season with, from the perspective of those who hand out the financial punishments, no infractions."
+    },
+    {
+      "id": "b3ab4decfb49a659",
+      "title": "NFL Week 2 TV coverage maps: What games will air where you live?",
+      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/09/14/nfl-week-2-tv-coverage-maps-which-games-will-be-on-tv/86149803007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-14T13:24:42+0000",
+      "summary": "In Week 2, we get two games on FOX and one on CBS in every market, as well as a Sunday night and two Monday night games."
+    },
     {
       "id": "954401970c6828e3",
       "title": "NFL Draft stock report: buy rating- Oregon TE Kenyon Sadiq",
@@ -27,42 +54,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-14T13:15:00+0000",
       "summary": "The Miami Dolphins started the 2025 season with a blowout loss to the Indianapolis Colts. The Week 2 fan confidence poll reflects that performance."
-    },
-    {
-      "id": "877b0c9182c1b93f",
-      "title": "Broncos depth chart for Week 2 game vs. Colts",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/14/denver-broncos-depth-chart-view-starters-vs-colts/86117405007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T13:01:19+0000",
-      "summary": "Here's a look at the Broncos' depth chart for Sunday's game against the Colts."
-    },
-    {
-      "id": "1b402e56795eec9f",
-      "title": "Broncos 53-man roster for Week 2 vs. Colts",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/14/denver-broncos-53-man-roster-week-2/86116829007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T13:01:14+0000",
-      "summary": "Here's a look at the Broncos' 53-man roster for Sunday's game against the Colts."
-    },
-    {
-      "id": "b2088a11bd1b98bd",
-      "title": "Detroit Lions vs Bears picks, predictions for NFL Week 2 showdown at Ford Field",
-      "link": "https://freep.com/story/sports/nfl/lions/2025/09/14/detroit-lions-vs-bears-picks-predictions-for-nfl-week-2-showdown/86074131007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-14T13:00:58+0000",
-      "summary": "Five Free Press sports writers chime in on the Detroit Lions' chances against the Chicago Bears in Week 2 of the NFL season."
-    },
-    {
-      "id": "c4834de772e5fa46",
-      "title": "Sources: Cowboys OL Smith gets $96M extension",
-      "link": "https://espn.com/nfl/story/_/id/46246530/sources-cowboys-make-tyler-smith-nfl-highest-paid-interior-offensive-lineman",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-14T12:35:28+0000",
-      "summary": "The Dallas Cowboys have made left guard Tyler Smith the highest-paid interior offensive lineman in the NFL."
     },
     {
       "id": "14a82df304b85661",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-04T21:42:17+0000",
       "summary": "Check out this week's episode of The Colts Show podcast for a wide-ranging one-on-one interview with quarterback Daniel Jones."
+    },
+    {
+      "id": "bdf8e793578b605b",
+      "title": "The Colts Show Mailbag: Downfield throws, Week 1 winless streak, Tanor Bortolini and Matt Goncalves, slot cornerback depth",
+      "link": "https://colts.com/news/the-colts-show-mailbag-downfield-throws-week-1-winless-streak-tanor-bortolini-and-matt-goncalves-slot-cornerback-depth",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-04T20:19:53+0000",
+      "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
     }
   ],
   "links": [
