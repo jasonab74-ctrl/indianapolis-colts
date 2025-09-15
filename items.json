@@ -1,50 +1,41 @@
 {
-  "updated": "2025-09-15T22:32:39+00:00",
+  "updated": "2025-09-15T23:26:38+00:00",
   "items": [
     {
+      "id": "c96d1ae25ad08004",
+      "title": "What NFL analytics staffers say about OT possession advantages: Better to have the ball first or second?",
+      "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T00:13:14+0000",
+      "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
+    },
+    {
+      "id": "465db2b4b469d623",
+      "title": "NFL Week 2's top performance? Check the fan-voted 'Himmy' Award leaderboard",
+      "link": "https://espn.com/nfl/story/_/id/46271588/himmy-awards-week-2-jared-goff-brandon-aubrey-fred-warner-malik-nabers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T00:12:03+0000",
+      "summary": "Brandon Aubrey won the fan-voted 'Himmy' Award for Week 2's top player over for Jared Goff, Fred Warner and Malik Nabers."
+    },
+    {
       "id": "8a1656f95d5c6932",
-      "title": "From reassurance to accountability, guess who said what in Week 2",
+      "title": "From reassurance to accountability, guess who said what in NFL Week 2",
       "link": "https://espn.com/nfl/story/_/id/46264405/who-said-nfl-week-2-2025-best-quotes-quiz",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-15T23:25:15+0000",
-      "summary": "The second week of the NFL season offered some bold quotes and forthright speakers. Put your knowledge to the test with our Week 2 quote quiz."
+      "published": "2025-09-16T00:12:03+0000",
+      "summary": "The second week of the season offered some bold quotes. Put your knowledge to the test with our Week 2 quote quiz."
     },
     {
-      "id": "d470d700b30d9f2a",
-      "title": "NFL reveals announcers schedule for Week 3",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/09/15/nfl-week-3-announcer-schedule/86062849007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T22:20:50+0000",
-      "summary": "The big game in Week 3 falls on Monday night as the Ravens play host to the Lions. The MNF crew has a great matchup to call."
-    },
-    {
-      "id": "80f0244d22e2463a",
-      "title": "What is turf toe and why will it sideline the Bengals' Joe Burrow for a few months?",
-      "link": "https://sports.yahoo.com/article/turf-toe-why-sideline-bengals-221716417.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T22:17:16+0000",
-      "summary": "Joe Burrow is the latest NFL star to be sidelined by turf toe — an odd-sounding but extremely painful injury.  Cincinnati Bengals coach Zac Taylor confirmed Monday that Burrow will have surgery on his injured left toe, which is expected to sideline the franchise quarterback for a minimum of three months.  “I don’t know what a toe rehab looks like,” Taylor said."
-    },
-    {
-      "id": "48c98eb80f1a97ab",
-      "title": "MNF Week 2 Doubleheader: Bucs-Texans & Chargers-Raiders",
-      "link": "https://acmepackingcompany.com/packers-game-day-threads/71012/mnf-week-2-doubleheader-bucs-texans-chargers-raiders",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T22:00:00+0000",
-      "summary": "This evening, week 2 in the NFL comes to a close with a doubleheader on Monday Night Football. Tonight’s twin bill is the first of the season and starts off a stretch that will feature five doubleheaders in six weeks, with the schedule also featuring two games each in weeks 4, 6, and 7. Thankfully […]"
-    },
-    {
-      "id": "b43596e57119e512",
-      "title": "Buccaneers at Texans: 2025 NFL Week 2 Open Thread, Staff Picks, and Inactives",
-      "link": "https://bucsnation.com/game-day-threads/65329/buccaneers-texans-2025-nfl-week-2-open-thread-staff-picks-inactives-monday-night-football",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T22:00:00+0000",
-      "summary": "Bucs Nation’s gameday thread for the big game."
+      "id": "b20f9758bbc834e0",
+      "title": "Brady to play with NFL stars in Saudi flag tourney",
+      "link": "https://espn.com/nfl/story/_/id/46274487/tom-brady-play-nfl-stars-saudi-flag-football-tourney",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T00:03:15+0000",
+      "summary": "Tom Brady announced Monday that he has teamed up with Fanatics, Fox Sports and OBB Media for the \"The Fanatics Flag Football Classic.\""
     },
     {
       "id": "69c717fccf025fd7",
@@ -52,17 +43,35 @@
       "link": "https://espn.com/nfl/story/_/id/46271837/payton-laments-fg-block-attempt-led-leverage-penalty",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-15T21:09:05+0000",
+      "published": "2025-09-16T00:03:15+0000",
       "summary": "Broncos coach Sean Payton said game officials made \"the correct call\" on a Denver penalty during a 60-yard field goal attempt, a penalty that gave the Colts a second chance at the game winner on the last play of a 29-28 Broncos loss."
     },
     {
-      "id": "d9342f3fee125a90",
-      "title": "Jets to prep QB Taylor to start in case Fields out",
-      "link": "https://espn.com/nfl/story/_/id/46270420/jets-prep-plan-qb-tyrod-taylor-case-justin-fields-out",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-15T21:09:05+0000",
-      "summary": "With quarterback Justin Fields in the NFL's concussion protocol, the Jets are preparing for the possibility of starting Tyrod Taylor against the Buccaneers."
+      "id": "b45382af46474983",
+      "title": "2026 NFL Draft quarterback stocks dropping after disastrous Week 3",
+      "link": "https://sportingnews.com/us/nfl/news/2026-nfl-draft-quarterback-stocks-dropping-week-3/f0d9d4c3551abf39ad1c3df9",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T23:04:49+0000",
+      "summary": "This class is getting uglier by the week."
+    },
+    {
+      "id": "9f284b9613f23d99",
+      "title": "Colts’ Shane Steichen: Should have been more aggressive on game-winning field goal drive",
+      "link": "https://cbs4indy.com/sports/colts/colts-shane-steichen-should-have-been-more-aggressive-on-game-winning-field-goal-drive/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-15T22:57:09+0000",
+      "summary": "INDIANAPOLIS – Shane Steichen offered a mea culpa, and those are always easier to deal with after what transpired Sunday at Lucas Oil Stadium. Less than 24 hours after his Indianapolis Colts chased down Denver 29-28 as time expired on Spencer Shrader’s 45-yard field goal, Steichen conceded he made things more difficult than they needed [...]"
+    },
+    {
+      "id": "9ac379a0b72fef3e",
+      "title": "No bad wins in the NFL? The Cardinals tested that theory in a shaky victory over the Panthers",
+      "link": "https://sports.yahoo.com/article/no-bad-wins-nfl-cardinals-224950063.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T22:49:50+0000",
+      "summary": "For a team that has a 2-0 record for the first time since 2021, the mood feels a little glum around the Arizona Cardinals.  Yes, the Cardinals won their second game of the season on Sunday by beating the Carolina Panthers 27-22, but that was after blowing most of a 27-3 lead.  Also, the team's group of young, promising cornerbacks was decimated during the contest, with Max Melton (knee), Garrett Williams (knee) and Will Johnson (groin) all leaving with injuries."
     },
     {
       "id": "3477cd1958d86ddd",
@@ -90,15 +99,6 @@
       "feed": "ESPN",
       "published": "2025-09-15T20:13:04+0000",
       "summary": "Detailing what immediately grabbed our attention once odds came out for this week's games."
-    },
-    {
-      "id": "c96d1ae25ad08004",
-      "title": "What NFL analytics staffers say about OT possession advantages: Better to have the ball first or second?",
-      "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-15T19:15:55+0000",
-      "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
     },
     {
       "id": "5bfd588a0cc74398",
@@ -398,15 +398,6 @@
       "summary": "INDIANAPOLIS – Several Colts – Baltimore and Indy editions – are among 162 players nominated for the Pro Football Hall of Fame’s Class of 2025 as Seniors. Senior candidates could have last appeared in a game in 2000. Players who spent the bulk of their career, or just a year or two, with the Colts [...]"
     },
     {
-      "id": "f22adba18e87615d",
-      "title": "Adding Tyler Warren to the Colts’ offensive mix means ‘less balls’ for receivers",
-      "link": "https://cbs4indy.com/sports/colts/adding-tyler-warren-to-the-colts-offensive-mix-means-less-balls-for-receivers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-11T21:13:24+0000",
-      "summary": "INDIANAPOLIS — Reggie Wayne has experienced this Tyler Warren Effect before. In the early 2000s, he and Marvin Harrison were a prolific tandem for Peyton Manning. They were the driving forces behind the Indianapolis Colts' offense. “It was me and Marv on the outside and we’re fightin’ for action,’’ Wayne said Thursday. But things were [...]"
-    },
-    {
       "id": "3224f17667fabe87",
       "title": "Practice notebook: Colts' cornerback depth comes into focus with Charvarius Ward Sr. in concussion protocol, Jaylon Jones out",
       "link": "https://colts.com/news/practice-notebook-colts-cornerback-depth-comes-into-focus-with-charvarius-ward-sr-in-concussion-protocol-jaylon-jones-out",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-07T23:39:15+0000",
       "summary": "The Colts had three sacks and two interceptions in their 33-8 win over the Dolphins on Sunday."
+    },
+    {
+      "id": "9630b5055c26b1db",
+      "title": "'Win For Jim' mantra inspires Colts in Week 1 win: 'We're playing for a bigger purpose'",
+      "link": "https://colts.com/news/jim-irsay-ring-of-honor-win-for-mantra-shane-steichen-week-1-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T23:26:42+0000",
+      "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
     }
   ],
   "links": [
