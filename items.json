@@ -1,22 +1,13 @@
 {
-  "updated": "2025-09-15T23:26:38+00:00",
+  "updated": "2025-09-15T23:39:59+00:00",
   "items": [
-    {
-      "id": "c96d1ae25ad08004",
-      "title": "What NFL analytics staffers say about OT possession advantages: Better to have the ball first or second?",
-      "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-16T00:13:14+0000",
-      "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
-    },
     {
       "id": "465db2b4b469d623",
       "title": "NFL Week 2's top performance? Check the fan-voted 'Himmy' Award leaderboard",
       "link": "https://espn.com/nfl/story/_/id/46271588/himmy-awards-week-2-jared-goff-brandon-aubrey-fred-warner-malik-nabers",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-16T00:12:03+0000",
+      "published": "2025-09-16T00:22:55+0000",
       "summary": "Brandon Aubrey won the fan-voted 'Himmy' Award for Week 2's top player over for Jared Goff, Fred Warner and Malik Nabers."
     },
     {
@@ -25,8 +16,17 @@
       "link": "https://espn.com/nfl/story/_/id/46264405/who-said-nfl-week-2-2025-best-quotes-quiz",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-16T00:12:03+0000",
+      "published": "2025-09-16T00:22:55+0000",
       "summary": "The second week of the season offered some bold quotes. Put your knowledge to the test with our Week 2 quote quiz."
+    },
+    {
+      "id": "c96d1ae25ad08004",
+      "title": "What NFL analytics staffers say about OT possession advantages: Better to have the ball first or second?",
+      "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T00:13:14+0000",
+      "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
     },
     {
       "id": "b20f9758bbc834e0",
@@ -47,6 +47,33 @@
       "summary": "Broncos coach Sean Payton said game officials made \"the correct call\" on a Denver penalty during a 60-yard field goal attempt, a penalty that gave the Colts a second chance at the game winner on the last play of a 29-28 Broncos loss."
     },
     {
+      "id": "7d44353aa8b26156",
+      "title": "Tom Brady, NFL players and coaches to take part in flag football tournament played in Saudi Arabia",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/tom-brady-nfl-players-and-coaches-to-take-part-in-flag-football-tournament-played-in-saudi-arabia-232510053.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T23:25:10+0000",
+      "summary": "The seven-time Super Bowl winner touted playing in the Fanatics Flag Football Classic as &quot;coming out of retirement.&quot;"
+    },
+    {
+      "id": "bdfad37b966749bc",
+      "title": "Texans have general moment of silence for &quot;all victims of violence and natural disasters&quot;",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-have-general-moment-of-silence-for-all-victims-of-violence-and-natural-disasters",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T23:23:31+0000",
+      "summary": "One of the NFL's storylines for Week 2 was created by the league, given its position that for, all Sunday and Monday games, the home teams would decide whether to replicate the mandated Green Bay moment of silence acknowledging last week's assassination of Charlie Kirk."
+    },
+    {
+      "id": "ca04d832debde3e8",
+      "title": "Colts' Shane Steichen addresses late game decision-making vs. Broncos",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/15/colts-shane-steichen-addresses-late-game-decision-making-broncos/86172428007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T23:20:58+0000",
+      "summary": "Colts' HC Shane Steichen discussed his late-game decision-making that led to a 60 yard field goal attempt."
+    },
+    {
       "id": "b45382af46474983",
       "title": "2026 NFL Draft quarterback stocks dropping after disastrous Week 3",
       "link": "https://sportingnews.com/us/nfl/news/2026-nfl-draft-quarterback-stocks-dropping-week-3/f0d9d4c3551abf39ad1c3df9",
@@ -63,15 +90,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-15T22:57:09+0000",
       "summary": "INDIANAPOLIS – Shane Steichen offered a mea culpa, and those are always easier to deal with after what transpired Sunday at Lucas Oil Stadium. Less than 24 hours after his Indianapolis Colts chased down Denver 29-28 as time expired on Spencer Shrader’s 45-yard field goal, Steichen conceded he made things more difficult than they needed [...]"
-    },
-    {
-      "id": "9ac379a0b72fef3e",
-      "title": "No bad wins in the NFL? The Cardinals tested that theory in a shaky victory over the Panthers",
-      "link": "https://sports.yahoo.com/article/no-bad-wins-nfl-cardinals-224950063.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T22:49:50+0000",
-      "summary": "For a team that has a 2-0 record for the first time since 2021, the mood feels a little glum around the Arizona Cardinals.  Yes, the Cardinals won their second game of the season on Sunday by beating the Carolina Panthers 27-22, but that was after blowing most of a 27-3 lead.  Also, the team's group of young, promising cornerbacks was decimated during the contest, with Max Melton (knee), Garrett Williams (knee) and Will Johnson (groin) all leaving with injuries."
     },
     {
       "id": "3477cd1958d86ddd",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-08T16:07:46+0000",
       "summary": "The Colts and Jaguars won in Week 1, while the Texans and Titans lost."
-    },
-    {
-      "id": "5e669e386a31cedd",
-      "title": "Colts' defense makes statement in Week 1 win over Dolphins: 'New big dogs in town'",
-      "link": "https://colts.com/news/colt-defense-statement-week-1-cam-bynum-laiatu-latu-interceptions-lou-anarumo-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T23:39:15+0000",
-      "summary": "The Colts had three sacks and two interceptions in their 33-8 win over the Dolphins on Sunday."
-    },
-    {
-      "id": "9630b5055c26b1db",
-      "title": "'Win For Jim' mantra inspires Colts in Week 1 win: 'We're playing for a bigger purpose'",
-      "link": "https://colts.com/news/jim-irsay-ring-of-honor-win-for-mantra-shane-steichen-week-1-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T23:26:42+0000",
-      "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
     }
   ],
   "links": [
