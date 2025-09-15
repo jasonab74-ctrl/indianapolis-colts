@@ -1,23 +1,23 @@
 {
-  "updated": "2025-09-15T17:31:11+00:00",
+  "updated": "2025-09-15T18:48:30+00:00",
   "items": [
+    {
+      "id": "69c717fccf025fd7",
+      "title": "Payton laments FG block try that led to penalty",
+      "link": "https://espn.com/nfl/story/_/id/46271837/payton-laments-fg-block-attempt-led-leverage-penalty",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-15T19:40:07+0000",
+      "summary": "Broncos coach Sean Payton said game officials made \"the correct call\" on a Denver penalty during a 60-yard field goal attempt, a penalty that gave the Colts a second chance at the game winner on the last play of a 29-28 Broncos loss."
+    },
     {
       "id": "d9342f3fee125a90",
       "title": "Jets to prep QB Taylor to start in case Fields out",
       "link": "https://espn.com/nfl/story/_/id/46270420/jets-prep-plan-qb-tyrod-taylor-case-justin-fields-out",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-15T18:23:28+0000",
+      "published": "2025-09-15T19:40:07+0000",
       "summary": "With quarterback Justin Fields in the NFL's concussion protocol, the Jets are preparing for the possibility of starting Tyrod Taylor against the Buccaneers."
-    },
-    {
-      "id": "8a810082ab8b8dda",
-      "title": "Broncos penalty gives Colts second chance, win",
-      "link": "https://espn.com/nfl/story/_/id/46265374/colts-spencer-shrader-nails-winning-fg-broncos-penalty",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-15T18:23:28+0000",
-      "summary": "The Colts snagged a 29-28 victory after kicker Spencer Shrader converted a 45-yard field goal with no time remaining, but only after badly missing a 60-yard attempt that was negated by a Denver personal foul moments earlier."
     },
     {
       "id": "21d5c771989e9ea4",
@@ -25,8 +25,62 @@
       "link": "https://espn.com/nfl/story/_/id/46261415/nfl-week-2-trolls",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-15T18:23:28+0000",
+      "published": "2025-09-15T19:40:07+0000",
       "summary": "The San Francisco 49ers also made sure to poke fun at the New Orleans Saints after winning on the road, topping Week 2's NFL trolls."
+    },
+    {
+      "id": "8a1656f95d5c6932",
+      "title": "From reassurance to accountability, guess who said what in Week 2",
+      "link": "https://espn.com/nfl/story/_/id/46264405/who-said-nfl-week-2-2025-best-quotes-quiz",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-15T19:35:53+0000",
+      "summary": "The second week of the NFL season offered some bold quotes and forthright speakers. Put your knowledge to the test with our Week 2 quote quiz."
+    },
+    {
+      "id": "c96d1ae25ad08004",
+      "title": "What NFL analytics staffers say about OT possession advantages: Better to have the ball first or second?",
+      "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-15T19:15:55+0000",
+      "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
+    },
+    {
+      "id": "a972b81fdb4fef00",
+      "title": "President Donald Trump rips NFL over new kickoff rule: 'Sissy football is bad for America'",
+      "link": "https://sports.yahoo.com/nfl/article/president-donald-trump-rips-nfl-over-new-kickoff-rule-sissy-football-is-bad-for-america-184449257.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T18:44:49+0000",
+      "summary": "President Donald Trump is taking aim at the NFL ... again."
+    },
+    {
+      "id": "c107bd08e6797709",
+      "title": "Report: Jayden Daniels may miss Week 3 with knee sprain",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jayden-daniels-may-miss-week-3-with-knee-sprain",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T18:34:20+0000",
+      "summary": "According to a report from NFL Media, Daniels is dealing with a knee sprain that could cause him to miss Sunday's game against the Raiders."
+    },
+    {
+      "id": "02bc8b6557fdcb4e",
+      "title": "Former LSU football QB Joe Burrow could miss the entire NFL season",
+      "link": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/football/2025/09/15/joe-burrow-injury-update-lsu-football-bengals/86162299007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T18:33:31+0000",
+      "summary": "Former LSU football QB Joe Burrow left Sunday's game with a toe injury. Here's the latest on his status."
+    },
+    {
+      "id": "50503a21cb6cf0ef",
+      "title": "Broncos PFF grades: Best, worst players vs. Colts in Week 2",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/15/broncos-pff-grades-best-worst-players-vs-colts/86163643007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-15T18:30:34+0000",
+      "summary": "The Broncos suffered a heartbreaking loss to the Colts on Sunday. PFF says these were the best (and worst) players."
     },
     {
       "id": "8a3016aa59c8c1a1",
@@ -36,33 +90,6 @@
       "feed": "ESPN",
       "published": "2025-09-15T17:41:57+0000",
       "summary": "What immediately grabbed our attention once odds came out for Week 3? Here are early bets that stand out."
-    },
-    {
-      "id": "99d240cc20440c89",
-      "title": "NFL Power Rankings Week 3: Chiefs shouldn’t panic (well, not THAT much)",
-      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/09/15/nfl-power-rankings-week-3-chiefs-lions-rams/86165437007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T17:17:15+0000",
-      "summary": "The Chiefs are winless. The Colts are undefeated. Something has to give in our weekly NFL Power Rankings."
-    },
-    {
-      "id": "415a00f9b80f1463",
-      "title": "Joe Burrow's offensive line issues: How Bengals have failed oft-injured QB since passing on Penei Sewell in 2021 NFL Draft",
-      "link": "https://sportingnews.com/us/nfl/cincinnati-bengals/news/joe-burrows-offensive-line-bengals-penei-sewell-jamarr-chase/3da735290cddaaffd805f7cc",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T17:12:02+0000",
-      "summary": "Cincinnati hasn't been able to put together a quality offensive line for its franchise quarterback."
-    },
-    {
-      "id": "16c60f8c30f7e9af",
-      "title": "Kicker Brandon Aubrey has become quite the game changer for the Cowboys",
-      "link": "https://sports.yahoo.com/article/kicker-brandon-aubrey-become-quite-171102364.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-15T17:11:02+0000",
-      "summary": "Fans chanted Brandon Aubrey's last name as the Dallas Cowboys kicker lined up to beat the New York Giants in overtime after forcing the extra period with a 64-yard field goal on the final play of regulation.  “That's awesome,” quarterback Dak Prescott said after scrambling 14 yards to put the Cowboys in what would be considered chip-shot range for their overpowering kicker at 46 yards.  Aubrey, signed out of the USFL two years ago, has become one of the biggest game changers in the NFL, a kicker who is close to automatic from 50 yards and beyond and has the second-longest kick in NFL history, a yard behind Justin Tucker's 66-yarder."
     },
     {
       "id": "5bfd588a0cc74398",
@@ -81,15 +108,6 @@
       "feed": "ESPN",
       "published": "2025-09-15T16:52:50+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game."
-    },
-    {
-      "id": "c96d1ae25ad08004",
-      "title": "What NFL analytics staffers say about OT possession advantages: Better to have the ball first or second?",
-      "link": "https://espn.com/nfl/story/_/id/46150828/nfl-new-regular-season-ot-rules-coin-toss-two-point-conversion",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-15T16:47:38+0000",
-      "summary": "The NFL has brought playoff OT rules to the regular season, but will they alter the previous tried-and-true strategy? We break it down."
     },
     {
       "id": "d3bd6447ad4f65d3",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-07T23:26:42+0000",
       "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
-    },
-    {
-      "id": "ab12f9468d1bb05e",
-      "title": "How Daniel Jones, Shane Steichen and the Colts' offense threw a near-perfect game in Week 1 blowout win over Dolphins",
-      "link": "https://colts.com/news/how-daniel-jones-shane-steichen-and-the-colts-offense-threw-a-near-perfect-game-in-week-1-blowout-win-over-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T22:57:28+0000",
-      "summary": "The Colts became the first team since 1977 to score on all seven of their possessions in their 33-8 trouncing of the Miami Dolphins on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "ea1fb65207d2f01a",
-      "title": "Tyler Warren's NFL debut shows why he's not a typical rookie",
-      "link": "https://colts.com/news/tyler-warren-nfl-rookie-debut-receptions-colts-daniel-jones-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T22:17:52+0000",
-      "summary": "Warren had seven receptions for 76 yards in the Colts' victory over the Miami Dolphins on Sunday."
     }
   ],
   "links": [
