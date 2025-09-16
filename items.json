@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-16T03:49:43+00:00",
+  "updated": "2025-09-16T04:38:19+00:00",
   "items": [
     {
       "id": "69c717fccf025fd7",
@@ -27,6 +27,24 @@
       "feed": "ESPN",
       "published": "2025-09-16T04:28:50+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game."
+    },
+    {
+      "id": "df56a7d53a79229b",
+      "title": "Bad injury luck for 49ers starter opens door for potential NFL draft steal to earn a spot",
+      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/09/15/49ers-depth-chart-rookie-connor-colby-starter/86172645007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T04:15:14+0000",
+      "summary": "The San Francisco 49ers' starting offensive line may get a shakeup with a potential late-round NFL draft steal finding his way into that group."
+    },
+    {
+      "id": "d0b25c8658a36bf2",
+      "title": "NFL analyst delivers shocking praise to Cincinnati Bengals quarterback",
+      "link": "https://sportingnews.com/us/nfl/cincinnati-bengals/news/nfl-analyst-delivers-shocking-praise-cincinnati-bengals-quarterback/6b7bf918ff8cccf3ac5e3926",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T03:57:27+0000",
+      "summary": "Rich Eisen says Browning is better than a third of starting quarterbacks, giving Bengals fans hope"
     },
     {
       "id": "5ed716ec6f55d222",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-07T23:26:42+0000",
       "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
-    },
-    {
-      "id": "ab12f9468d1bb05e",
-      "title": "How Daniel Jones, Shane Steichen and the Colts' offense threw a near-perfect game in Week 1 blowout win over Dolphins",
-      "link": "https://colts.com/news/how-daniel-jones-shane-steichen-and-the-colts-offense-threw-a-near-perfect-game-in-week-1-blowout-win-over-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T22:57:28+0000",
-      "summary": "The Colts became the first team since 1977 to score on all seven of their possessions in their 33-8 trouncing of the Miami Dolphins on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "ea1fb65207d2f01a",
-      "title": "Tyler Warren's NFL debut shows why he's not a typical rookie",
-      "link": "https://colts.com/news/tyler-warren-nfl-rookie-debut-receptions-colts-daniel-jones-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T22:17:52+0000",
-      "summary": "Warren had seven receptions for 76 yards in the Colts' victory over the Miami Dolphins on Sunday."
     }
   ],
   "links": [
