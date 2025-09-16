@@ -1,6 +1,42 @@
 {
-  "updated": "2025-09-16T16:43:59+00:00",
+  "updated": "2025-09-16T17:31:36+00:00",
   "items": [
+    {
+      "id": "e08802e8b8bce8fd",
+      "title": "NFL: Brady didn't violate rules in Raiders booth",
+      "link": "https://espn.com/nfl/story/_/id/46282601/nfl-says-tom-brady-violate-rules-raiders-booth",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T18:21:08+0000",
+      "summary": "Tom Brady did not violate any NFL rules by wearing a headset in the Raiders' coaching booth during Monday night's game, the NFL announced."
+    },
+    {
+      "id": "3559d8ecdc23700c",
+      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
+      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T18:19:16+0000",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
+    {
+      "id": "6e904daf40c2cccc",
+      "title": "3 things learned about the 2025 Jaguars after two weeks",
+      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/09/16/2025-nfl-season-3-things-learned-jaguars-2-games/86182389007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:19:39+0000",
+      "summary": "Two weeks into the 2025 NFL season, here are three things that we've learned about the Jaguars."
+    },
+    {
+      "id": "6b133def6b9678e4",
+      "title": "Mariners make major Colt Emerson promotion announcement",
+      "link": "https://sportingnews.com/us/mlb/seattle-mariners/news/mariners-make-major-colt-emerson-promotion-announcement/a6057a0ba874f993caf85f75",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:19:34+0000",
+      "summary": "He's knocking on the door."
+    },
     {
       "id": "26c67cebc653f6b2",
       "title": "Which NFL teams are rising -- and falling -- after two weeks? Here's our fresh 1-32 Power Rankings poll",
@@ -11,13 +47,85 @@
       "summary": "It's time for a new Power Rankings! We stacked the best teams and named the biggest QB takeaway for each roster."
     },
     {
-      "id": "aed288f0588656b7",
-      "title": "Projecting the 2026 NFL draft order: Titans at No. 1, Dolphins now in the top-five?",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46146676/2026-nfl-draft-order-projections-32-first-round-picks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-16T17:07:01+0000",
-      "summary": "ESPN's Football Power Index projects the 2026 NFL draft order for Round 1. Which teams have the best odds to pick early?"
+      "id": "b8fc99e688071738",
+      "title": "What we know about Tom Brady's broadcasting gig, Raiders ownership still raising concerns",
+      "link": "https://usatoday.com/story/sports/media/2025/09/16/tom-brady-nfl-broadcasting-rules-raiders-ownership/86180268007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:14:11+0000",
+      "summary": "Tom Brady appears more involved with the Raiders than he let on, and that could be a problem for the NFL given his broadcasting role on FOX."
+    },
+    {
+      "id": "cffe6ad9ca363516",
+      "title": "Fantasy Football Week 3 Kicker Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-3-kicker-rankings-171353808.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:13:53+0000",
+      "summary": "Here are our fantasy football kicker rankings for Week 3 of the 2025 NFL season."
+    },
+    {
+      "id": "a13cc14a6174c123",
+      "title": "Microbetting Not Going Away Despite Recent Controversies, Sportsbooks Say",
+      "link": "https://ingame.com/microbetting-future-controversies-sportsbooks/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:11:50+0000",
+      "summary": "Betting on single-outcome events remains a small part of handle, but sportsbooks emphasize it for NFL"
+    },
+    {
+      "id": "364338027f2a35cb",
+      "title": "Fantasy Football Week 3 Defense Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-3-defense-rankings-171138744.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:11:38+0000",
+      "summary": "Here are our fantasy football defense rankings for Week 3 of the 2025 NFL season."
+    },
+    {
+      "id": "f4ebcb3a79ee2eaa",
+      "title": "Fantasy Football Week 3 FLEX Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-3-flex-rankings-171032244.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:10:32+0000",
+      "summary": "Here are our fantasy football FLEX rankings for Week 3 of the 2025 NFL season."
+    },
+    {
+      "id": "21abcee252900e5a",
+      "title": "Titans vs. Colts opening odds",
+      "link": "https://musiccitymiracles.com/tennessee-titans-odds/61623/titans-vs-colts-opening-odds",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:09:23+0000",
+      "summary": "The Titans are an underdog for the third straight week."
+    },
+    {
+      "id": "a153f6c2e27a8067",
+      "title": "Fantasy Football Week 3 Tight End Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-3-tight-end-rankings-170842785.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:08:42+0000",
+      "summary": "Here are our fantasy football tight end rankings for Week 3 of the 2025 NFL season."
+    },
+    {
+      "id": "dcba96598a8f4a25",
+      "title": "Packers rank first in NFL in DVOA, PFF grade after 2 weeks in 2025",
+      "link": "https://packerswire.usatoday.com/story/sports/nfl/packers/2025/09/16/packers-rank-first-in-nfl-in-dvoa-pff-grade-after-2-weeks-in-2025/86182308007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:06:22+0000",
+      "summary": "The Packers have been impressive through two weeks, and the underlying analytics agree."
+    },
+    {
+      "id": "5bcee61e918ccebd",
+      "title": "Fantasy Football Week 3 Running Back Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-3-running-back-rankings-170610747.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T17:06:10+0000",
+      "summary": "Here are our fantasy football running back rankings for Week 3 of the 2025 NFL season."
     },
     {
       "id": "c3a9b6bd5036882e",
@@ -36,33 +144,6 @@
       "feed": "ESPN",
       "published": "2025-09-16T16:39:33+0000",
       "summary": "We stacked the best No. 2 -- and No. 3 -- QBs across the league, including Browning, Marcus Mariota and others."
-    },
-    {
-      "id": "0aece24ef1aaaf93",
-      "title": "NFL Hall of Fame QB Dan Marino speaks out on his diagnosis of liver disease",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-hall-of-fame-qb-dan-marino-speaks-out-on-his-diagnosis-of-liver-disease-163515123.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T16:35:15+0000",
-      "summary": "Miami Dolphins Hall of Fame quarterback Dan Marino is speaking out about his diagnosis with liver disease."
-    },
-    {
-      "id": "4e76cbdfdeab0e83",
-      "title": "NFL insider provides updated recovery timeline on 49ers QB Brock Purdy's injury",
-      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/09/16/49ers-brock-purdy-injury-timeline-update/86181263007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T16:29:06+0000",
-      "summary": "San Francisco 49ers quarterback Brock Purdy suffered a toe injury in Week 1. A new timeline gives more clarity about his return to the field."
-    },
-    {
-      "id": "58485aae16c354eb",
-      "title": "Hawks in the NFL: Week 2",
-      "link": "https://blackheartgoldpants.com/football/64896/iowa-hawkeyes-in-nfl-week-2-kaleb-johnson-lukas-van-ness-bhgp",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T16:18:00+0000",
-      "summary": "There was some, good, some bad and some downright UGLY from former Hawkeyes in the NFL in week 2."
     },
     {
       "id": "5790aa6644a0c856",
@@ -459,87 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-10T18:55:12+0000",
       "summary": "Kenny Moore II, as a 16-year-old, quit football. He was coaxed back a day later. Over a decade later, he's still playing, and still has plenty more to accomplish."
-    },
-    {
-      "id": "5d43c676f60f5da8",
-      "title": "Week 2 'White Out Game' coming to Lucas Oil Stadium",
-      "link": "https://colts.com/news/colts-vs-denver-broncos-tickets-white-out-uniform-lucas-oil-stadium-week-2-2025-nfl-season-schedule",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-10T14:00:00+0000",
-      "summary": "Fans are encouraged to wear white Colts gear to the game to match the team’s on-field look and transform the stadium into a “White Out.”"
-    },
-    {
-      "id": "8eb988d9f3d089ed",
-      "title": "Colts sign DB Keydrain Calligan, S Darrick Forrest to practice squad; release C Mose Vavao, S Trey Washington from practice squad",
-      "link": "https://colts.com/news/colts-roster-moves-keydrain-calligan-darrick-forrest-defensive-backs-mose-vavao-trey-washington-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-09T19:46:03+0000",
-      "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "38d5a89c7ee3c4e1",
-      "title": "Colts release unofficial depth chart for Week 2 game vs. Denver Broncos",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-2-game-vs-denver-broncos",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-09T17:05:16+0000",
-      "summary": "The Colts released their Week 2 unofficial depth chart ahead of their game against the Denver Broncos Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "676b30f2b0ebbb16",
-      "title": "Colts announce new 'Fall Fest' activities at two local farms",
-      "link": "https://colts.com/news/colts-announce-new-fall-fest-activities-at-two-local-farms",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-09T15:00:29+0000",
-      "summary": "Fall Fests will feature full days of fun, including corn mazes, pumpkin patches, hayrides, carnival rides, pony rides together with Colts giveaways, sweepstakes and appearances from team mascot “Blue” and the Colts Cheerleaders."
-    },
-    {
-      "id": "b48561ba82f7a900",
-      "title": "Colts TE Tyler Warren nominated for NFL Rookie of the Week for Week 1",
-      "link": "https://colts.com/news/colts-tyler-warren-rookie-of-the-week-dolphins-nfl-debut",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-09T14:22:03+0000",
-      "summary": "Warren had seven receptions for 76 yards in the Colts' 33-8 win over the Miami Dolphins on Sunday."
-    },
-    {
-      "id": "0ddb5d516afbbca9",
-      "title": "5 Colts Things: How Tyler Warren impacted Michael Pittman Jr.'s touchdown, Daniel Jones generates explosive passes in different ways, Lou Anarumo calls defense 'like a madman'",
-      "link": "https://colts.com/news/5-colts-things-how-tyler-warren-impacted-michael-pittman-jr-s-touchdown-daniel-jones-generates-explosive-passes-in-different-ways-lou-anarumo-calls-defense-like-a-madman",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T20:11:56+0000",
-      "summary": "The Colts' Week 1 win over the Miami Dolphins featured plenty of impressive moments, from Tyler Warren's work with and without the ball to a Daniel Jones deep shot to a remarkable debut for defensive coordinator Lou Anarumo's scheme."
-    },
-    {
-      "id": "8fc3392582d7cd04",
-      "title": "Amid cornerback injuries, Xavien Howard proves even more valuable to Colts defense",
-      "link": "https://colts.com/news/xavien-howard-colts-cornerbacks-dolphins-interceptions-injuries-jaylon-jones-charvarius-ward",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T19:55:21+0000",
-      "summary": "Head coach Shane Steichen announced Jaylon Jones sustained a hamstring injury in Sunday's game against the Dolphins and Charvarius Ward Sr. has entered concussion protocol."
-    },
-    {
-      "id": "1ed84515f6b8d60b",
-      "title": "Colts sign RB Ameer Abdullah to practice squad, release RB Khalil Herbert from practice squad",
-      "link": "https://colts.com/news/colts-sign-rb-ameer-abdullah-to-practice-squad-release-rb-khalil-herbert-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T19:04:34+0000",
-      "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "fffd11c5d73826f2",
-      "title": "A Look Around the AFC South: Jaguars win big, Texans and Titans struggle in Week 1",
-      "link": "https://colts.com/news/afc-south-jaguars-travis-hunter-texans-cj-stroud-offensive-line-titans-broncos-bo-nix-cam-ward",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T16:07:46+0000",
-      "summary": "The Colts and Jaguars won in Week 1, while the Texans and Titans lost."
     }
   ],
   "links": [
