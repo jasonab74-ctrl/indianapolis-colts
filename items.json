@@ -1,14 +1,50 @@
 {
-  "updated": "2025-09-16T11:40:44+00:00",
+  "updated": "2025-09-16T13:35:44+00:00",
   "items": [
     {
-      "id": "4f83a1329214cdd3",
-      "title": "Chargers' Jim Harbaugh calls Derwin James best safety he's ever seen",
-      "link": "https://usatoday.com/story/sports/nfl/chargers/2025/09/16/chargers-jim-harbaugh-derwin-james-safety/86176178007/",
+      "id": "26c67cebc653f6b2",
+      "title": "NFL Week 3 Power Rankings: How all 32 teams stack up, plus takeaways on all QB situations",
+      "link": "https://espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T14:31:45+0000",
+      "summary": "It's time for a new Power Rankings! We stacked the best teams and named the biggest QB takeaway for each roster."
+    },
+    {
+      "id": "85bc5998dd22f023",
+      "title": "Where does Jake Browning rank among backup NFL quarterbacks? Here's our top-12 list",
+      "link": "https://espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T14:16:10+0000",
+      "summary": "We stacked the best No. 2 -- and No. 3 -- QBs across the league, including Browning, Marcus Mariota and others."
+    },
+    {
+      "id": "ac52e8054f6819ee",
+      "title": "PFT's Week 3 2025 NFL power rankings",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-3-2025-nfl-power-rankings",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-16T11:23:06+0000",
-      "summary": "There have been a lot of great safeties in NFL history. But the best safety Chargers' Jim Harbaugh says he's ever seen is one he coaches."
+      "published": "2025-09-16T13:16:18+0000",
+      "summary": "Philly is the new &quot;find a way&quot; team"
+    },
+    {
+      "id": "efc001ccb89b2f69",
+      "title": "Ranking the 2-0 NFL teams (Colts?!) by Super Bowl chances",
+      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/09/16/nfl-unbeaten-teams-ranked-week-3/86172326007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T13:01:02+0000",
+      "summary": "How many of the 2-0 NFL teams get us thinking about a Super Bowl?"
+    },
+    {
+      "id": "c3a9b6bd5036882e",
+      "title": "Cowboys think Tyler Smith can be 'one of the greats' -- and paid him like it",
+      "link": "https://espn.com/nfl/story/_/id/46268846/nfl-dallas-cowboys-tyler-smith-contract-extension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-16T12:51:25+0000",
+      "summary": "Dallas put its money where its mouth is, making Smith the highest-paid interior offensive lineman in the NFL."
     },
     {
       "id": "5bfd588a0cc74398",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-07T23:39:15+0000",
       "summary": "The Colts had three sacks and two interceptions in their 33-8 win over the Dolphins on Sunday."
-    },
-    {
-      "id": "9630b5055c26b1db",
-      "title": "'Win For Jim' mantra inspires Colts in Week 1 win: 'We're playing for a bigger purpose'",
-      "link": "https://colts.com/news/jim-irsay-ring-of-honor-win-for-mantra-shane-steichen-week-1-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T23:26:42+0000",
-      "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
-    },
-    {
-      "id": "ab12f9468d1bb05e",
-      "title": "How Daniel Jones, Shane Steichen and the Colts' offense threw a near-perfect game in Week 1 blowout win over Dolphins",
-      "link": "https://colts.com/news/how-daniel-jones-shane-steichen-and-the-colts-offense-threw-a-near-perfect-game-in-week-1-blowout-win-over-dolphins",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T22:57:28+0000",
-      "summary": "The Colts became the first team since 1977 to score on all seven of their possessions in their 33-8 trouncing of the Miami Dolphins on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "ea1fb65207d2f01a",
-      "title": "Tyler Warren's NFL debut shows why he's not a typical rookie",
-      "link": "https://colts.com/news/tyler-warren-nfl-rookie-debut-receptions-colts-daniel-jones-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T22:17:52+0000",
-      "summary": "Warren had seven receptions for 76 yards in the Colts' victory over the Miami Dolphins on Sunday."
-    },
-    {
-      "id": "1d8bd82c15c8f651",
-      "title": "Colts dominate Dolphins, win first season opener in 11 years",
-      "link": "https://colts.com/news/colts-dolphins-win-season-opener-daniel-jones-cam-bynum-touchdown-interception-kenny-moore-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-07T19:48:37+0000",
-      "summary": "Daniel Jones was 22-of-29 for 272 yards and a touchdown, with two rushing touchdowns of his own, in the Colts' 33-8 win."
     }
   ],
   "links": [
