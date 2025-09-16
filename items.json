@@ -1,59 +1,32 @@
 {
-  "updated": "2025-09-16T05:33:36+00:00",
+  "updated": "2025-09-16T06:50:55+00:00",
   "items": [
-    {
-      "id": "3e8dcc82e9cd6684",
-      "title": "Buccaneers beat Texans and Chargers down Raiders for 2-0 NFL starts",
-      "link": "https://sports.yahoo.com/article/buccaneers-beat-texans-fifth-straight-023157781.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T05:16:57+0000",
-      "summary": "Tampa Bay's Rachaad White scored on a two-yard touchdown run with six seconds remaining to give the Buccaneers a 20-19 NFL victory in Houston on Monday.Mayfield threw a 20-yard touchdown pass to Ryan Miller and a 15-yard touchdown pass to Emeka Egbuka to give the Buccaneers a 14-10 halftime lead."
-    },
-    {
-      "id": "b664afae73533d73",
-      "title": "Commanders Reacts Survey: Fixing the right side of the offensive line",
-      "link": "https://hogshaven.com/washington-commanders-reacts/376563/commanders-reacts-survey-fixing-the-right-side-of-the-offensive-line",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T05:05:45+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Washington Commanders fans and fans across the country. Sign up here to participate in the weekly emailed surveys. This week we have three questions: Question 1 The first is our standard question that […]"
-    },
-    {
-      "id": "5aae53579ba96837",
-      "title": "NFL Power Rankings entering Week 3: The Packers look like the best team in football",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-3-the-packers-look-like-the-best-team-in-football-050153039.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T05:01:53+0000",
-      "summary": "The gap between the top three teams is very, very small, but one has stood above the rest with two dominant wins over good teams."
-    },
-    {
-      "id": "977b0fce36767ffb",
-      "title": "NFL Power Rankings entering Week 3",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/09/16/nfl-power-rankings-week-3/86106690007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-16T04:58:48+0000",
-      "summary": "An 0-2 Kansas City Chiefs team headlines a shuffle in the NFL Power Rankings as the season enters Week 3 action."
-    },
     {
       "id": "5bfd588a0cc74398",
       "title": "Barnwell picks apart three wild Week 2 endings, from the Cowboys' big kick to the Jaguars' collapse",
       "link": "https://espn.com/nfl/story/_/id/46258571/2025-nfl-week-2-barnwell-comeback-wins-cowboys-bengals-colts-giants-jaguars-broncos",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-16T04:28:50+0000",
+      "published": "2025-09-16T06:39:20+0000",
       "summary": "Bill Barnwell sorts through fourth-quarter fireworks in Giants-Cowboys, Broncos-Colts and Jaguars-Bengals."
     },
     {
       "id": "0be8d0a0cd83a1c2",
-      "title": "Takeaways from every game: Baker magic, Eagles defeat Chiefs in Super Bowl rematch",
+      "title": "Takeaways from every game: More Baker magic, Khalil Mack hurt in Chargers win",
       "link": "https://espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-16T04:28:50+0000",
+      "published": "2025-09-16T06:39:20+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game."
+    },
+    {
+      "id": "724e02045c850838",
+      "title": "Forgotten Colorado Buffaloes QB predicted to start again, end NFL indifference after benching by Deion Sanders",
+      "link": "https://sportingnews.com/us/ncaa-football/colorado/news/forgotten-colorado-buffaloes-qb-predicted-start-again-end-nfl-indifference-after-benching-deion-sanders/cfa2b5cf3e4ed678e534b00e",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-16T06:06:02+0000",
+      "summary": "Colorado Buffaloes quarterback Kaidon Salter was predicted to rise again in Deion Sanders' room, despite being benched."
     },
     {
       "id": "465db2b4b469d623",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-07T23:26:42+0000",
       "summary": "The Colts honored late Owner and CEO Jim Irsay not just by inducting him into their Ring of Honor on Sunday, but by thumping the Miami Dolphins, 33-8, to begin the 2025 season."
+    },
+    {
+      "id": "ab12f9468d1bb05e",
+      "title": "How Daniel Jones, Shane Steichen and the Colts' offense threw a near-perfect game in Week 1 blowout win over Dolphins",
+      "link": "https://colts.com/news/how-daniel-jones-shane-steichen-and-the-colts-offense-threw-a-near-perfect-game-in-week-1-blowout-win-over-dolphins",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T22:57:28+0000",
+      "summary": "The Colts became the first team since 1977 to score on all seven of their possessions in their 33-8 trouncing of the Miami Dolphins on Sunday at Lucas Oil Stadium."
+    },
+    {
+      "id": "ea1fb65207d2f01a",
+      "title": "Tyler Warren's NFL debut shows why he's not a typical rookie",
+      "link": "https://colts.com/news/tyler-warren-nfl-rookie-debut-receptions-colts-daniel-jones-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T22:17:52+0000",
+      "summary": "Warren had seven receptions for 76 yards in the Colts' victory over the Miami Dolphins on Sunday."
+    },
+    {
+      "id": "1d8bd82c15c8f651",
+      "title": "Colts dominate Dolphins, win first season opener in 11 years",
+      "link": "https://colts.com/news/colts-dolphins-win-season-opener-daniel-jones-cam-bynum-touchdown-interception-kenny-moore-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-07T19:48:37+0000",
+      "summary": "Daniel Jones was 22-of-29 for 272 yards and a touchdown, with two rushing touchdowns of his own, in the Colts' 33-8 win."
     }
   ],
   "links": [
