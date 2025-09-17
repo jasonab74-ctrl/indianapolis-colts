@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T23:26:27+00:00",
+  "updated": "2025-09-17T23:40:02+00:00",
   "items": [
     {
       "id": "93dccb4868ccf45f",
@@ -9,24 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-17T23:05:11+0000",
       "summary": "It's official. D.C. will have its NFL team in its backyard again."
-    },
-    {
-      "id": "f27b586dc2b420fc",
-      "title": "Colts quarterback Daniel Jones impressed by owner Carlie Irsay-Gordon wearing a headset",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/17/colts-quarterback-daniel-jones-notices-owner-carlie-irsay-gordon-wearing-headset-on-sideline/86209069007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-17T22:58:24+0000",
-      "summary": "Carlie Irsay-Gordon has become known this year for wearing a headset and taking notes, though she has been doing that for some time."
-    },
-    {
-      "id": "71adf690942dbc5c",
-      "title": "Why veteran Carson Wentz might be the perfect QB for the Vikings right now",
-      "link": "https://twincities.com/2025/09/17/why-veteran-carson-wentz-might-be-the-perfect-person-for-the-vikings/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-17T22:55:00+0000",
-      "summary": "To call Carson Wentz a journeyman might not be understating it. The veteran quarterback signed with the Vikings last month having already played for the Philadelphia Eagles, Indianapolis Colts, Washington Commanders, Los Angeles Rams and Kansas City Chiefs. Now Wentz, 32, is preparing to make NFL history as the only quarterback to ever start a game for six different teams in six consecutive ..."
     },
     {
       "id": "133bbfbd6f41c1fc",
@@ -45,15 +27,6 @@
       "feed": "ESPN",
       "published": "2025-09-17T22:47:06+0000",
       "summary": "We stacked the best teams and named the biggest QB takeaway for each roster."
-    },
-    {
-      "id": "1ad680faf10cf5fe",
-      "title": "Week 2 Colts Offensive Rankings and Analysis:",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/114854/week-2-colts-offensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-17T22:37:13+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Football Outsiders, [&#8230;]"
     },
     {
       "id": "fdb19fd0fa739fda",
@@ -234,6 +207,15 @@
       "feed": "Colts.com",
       "published": "2025-09-16T15:33:48+0000",
       "summary": ""
+    },
+    {
+      "id": "72701da7ab1b8fb3",
+      "title": "Colts’ Stats of the Game: Week 2 vs. Broncos",
+      "link": "https://stampedeblue.com/analysis/114767/colts-stats-of-the-game-week-2-vs-broncos",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-16T14:12:00+0000",
+      "summary": "Colts start 2-0 We can sit here and dissect all we want, and it is certainly entertaining, but in the end all that matters is that the Colts are 2-0, and for the first time in over 15 years. I consider myself an optimistic person, and I was not expecting a start like this at [&#8230;]"
     },
     {
       "id": "9f284b9613f23d99",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-08T19:55:21+0000",
       "summary": "Head coach Shane Steichen announced Jaylon Jones sustained a hamstring injury in Sunday's game against the Dolphins and Charvarius Ward Sr. has entered concussion protocol."
+    },
+    {
+      "id": "1ed84515f6b8d60b",
+      "title": "Colts sign RB Ameer Abdullah to practice squad, release RB Khalil Herbert from practice squad",
+      "link": "https://colts.com/news/colts-sign-rb-ameer-abdullah-to-practice-squad-release-rb-khalil-herbert-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-08T19:04:34+0000",
+      "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "fffd11c5d73826f2",
+      "title": "A Look Around the AFC South: Jaguars win big, Texans and Titans struggle in Week 1",
+      "link": "https://colts.com/news/afc-south-jaguars-travis-hunter-texans-cj-stroud-offensive-line-titans-broncos-bo-nix-cam-ward",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-08T16:07:46+0000",
+      "summary": "The Colts and Jaguars won in Week 1, while the Texans and Titans lost."
     }
   ],
   "links": [
