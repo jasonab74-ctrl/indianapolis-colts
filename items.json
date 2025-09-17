@@ -1,41 +1,23 @@
 {
-  "updated": "2025-09-17T20:33:26+00:00",
+  "updated": "2025-09-17T21:24:51+00:00",
   "items": [
     {
-      "id": "c4caeeb76c09ac0f",
-      "title": "Morris: Bijan NFL's best player without a doubt",
-      "link": "https://espn.com/nfl/story/_/id/46293205/falcons-morris-bijan-robinson-definitely-nfl-best-player",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-17T20:24:22+0000",
-      "summary": "Falcons head coach Raheem Morris called his running back Bijan Robinson the best player in the NFL without a doubt."
-    },
-    {
-      "id": "ba817b5d329ab8fa",
-      "title": "Amazon is &quot;optimistic&quot; about streaming a Super Bowl",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/amazon-is-optimistic-about-streaming-a-super-bowl",
+      "id": "38863472f853b281",
+      "title": "Top fantasy football players of Week 2",
+      "link": "https://stacker.com/stories/football/top-fantasy-football-players-week-1",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-17T20:09:02+0000",
-      "summary": "As the NFL pushes more games to streaming, one big question lingers."
+      "published": "2025-09-17T21:10:00+0000",
+      "summary": "Stacker analyzed data from nflfastR to determine the 10 best-performing fantasy football players for Week 2 of the NFL 2025 season."
     },
     {
-      "id": "025a02298fd9b2ff",
-      "title": "Keldric Faulk 2026 NFL Draft scouting report: Auburn's ace could be top edge rusher",
-      "link": "https://sportingnews.com/us/nfl/news/keldric-faulk-2026-nfl-draft-scouting-report-auburn-edge-rusher/558a24d5ed4a9d039a889fc1",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-17T20:07:17+0000",
-      "summary": "Faulk is one of the most complete players in the class."
-    },
-    {
-      "id": "1e294841a783754f",
-      "title": "‘Potent’ Colts offense deemed legitimate after two games with Daniel Jones",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/potent-colts-offense-deemed-legitimate-after-two-games-daniel-jones/94124728b50f89a6cab28b53",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-17T20:06:56+0000",
-      "summary": "Indianapolis is off to an excellent start."
+      "id": "e94eeae3917d5580",
+      "title": "How Colts QB Daniel Jones is handling near-historic level of blitzes to begin 2025 season",
+      "link": "https://colts.com/news/how-colts-qb-daniel-jones-is-handling-near-historic-level-of-blitzes-to-begin-2025-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-17T20:48:26+0000",
+      "summary": "Jones has been blitzed on 50 dropbacks over his first two games, per Pro Football Focus, which isn't just the highest total in the NFL this season – it's the highest total to begin a season in over a decade."
     },
     {
       "id": "4047d9543dbebe31",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-08T19:55:21+0000",
       "summary": "Head coach Shane Steichen announced Jaylon Jones sustained a hamstring injury in Sunday's game against the Dolphins and Charvarius Ward Sr. has entered concussion protocol."
+    },
+    {
+      "id": "1ed84515f6b8d60b",
+      "title": "Colts sign RB Ameer Abdullah to practice squad, release RB Khalil Herbert from practice squad",
+      "link": "https://colts.com/news/colts-sign-rb-ameer-abdullah-to-practice-squad-release-rb-khalil-herbert-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-08T19:04:34+0000",
+      "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "fffd11c5d73826f2",
+      "title": "A Look Around the AFC South: Jaguars win big, Texans and Titans struggle in Week 1",
+      "link": "https://colts.com/news/afc-south-jaguars-travis-hunter-texans-cj-stroud-offensive-line-titans-broncos-bo-nix-cam-ward",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-08T16:07:46+0000",
+      "summary": "The Colts and Jaguars won in Week 1, while the Texans and Titans lost."
     }
   ],
   "links": [
