@@ -1,23 +1,50 @@
 {
-  "updated": "2025-09-18T13:20:10+00:00",
+  "updated": "2025-09-18T13:46:32+00:00",
   "items": [
     {
-      "id": "dab92b7bcc99e598",
-      "title": "New York Giants vs. Kansas City Chiefs: NFL experts make Week 3 picks",
-      "link": "https://giantswire.usatoday.com/story/sports/nfl/giants/2025/09/18/new-york-giants-kansas-city-chiefs-nfl-experts-make-week-3-picks/86214599007/",
+      "id": "96a7c376f26a68be",
+      "title": "NFL Thursday night preview: Winless Dolphins face a tough task against Bills",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-thursday-night-preview-winless-dolphins-face-a-tough-task-against-bills-133255124.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-18T13:01:10+0000",
-      "summary": "Experts from around the NFL make their picks for a Week 3 game between the New York Giants and Kansas City Chiefs."
+      "published": "2025-09-18T13:32:55+0000",
+      "summary": "Can the Dolphins keep it close against a 2-0 Bills team?"
     },
     {
-      "id": "454ea27e6d6232f6",
-      "title": "Washington Commanders vs Las Vegas Raiders Week 3: Five Questions with Silver & Black Pride",
-      "link": "https://hogshaven.com/questions-with-the-enemy/376697/washington-commanders-vs-las-vegas-raiders-week-3-five-questions-with-silver-black-pride",
+      "id": "1a2622b119ab5059",
+      "title": "Washington Commanders vs. Las Vegas Raiders: NFL experts make Week 3 picks",
+      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/09/18/washington-commanders-vs-las-vegas-raiders-nfl-experts-make-week-3-picks/86216083007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-18T13:00:00+0000",
-      "summary": "It’s week 3 of the NFL season, and the Washington Commanders will be facing the Las Vegas Raiders at home in Northwest Stadium in Landover, MD this Sunday at 1:00 pm EDT. The Raiders are a team in a massive state of flux, perhaps more so than any other team in the NFL right now. […]"
+      "published": "2025-09-18T13:30:37+0000",
+      "summary": "NFL experts around the league make their picks between the Washington Commanders and Las Vegas Raiders Week 3 meeting."
+    },
+    {
+      "id": "c12aafc55bc7ca6f",
+      "title": "Tennessee Titans vs. Indianapolis Colts: NFL experts make Week 3 picks",
+      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/09/18/titans-vs-colts-nfl-experts-make-week-3-picks/86215072007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-18T13:29:05+0000",
+      "summary": "NFL experts from around the league make their Week 3 picks between the Tennessee Titans and Indianapolis Colts."
+    },
+    {
+      "id": "828a7cdac9d7d36d",
+      "title": "Week 3 NFL against-the-spread picks, predictions for every game: Rams look to knock off Eagles",
+      "link": "https://sports.yahoo.com/nfl/betting/article/week-3-nfl-against-the-spread-picks-predictions-for-every-game-rams-look-to-knock-off-eagles-132816056.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-18T13:28:16+0000",
+      "summary": "The Rams gave the Eagles a scare last postseason."
+    },
+    {
+      "id": "e3cefb79259cbb4e",
+      "title": "Steelers vs Patriots: NFL experts remain confident in Pittsburgh",
+      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/09/18/steelers-vs-patriots-nfl-experts-picks/86215957007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-18T13:26:46+0000",
+      "summary": "NFL pundits and experts remain cautiously optimistic in the Steelers despite their struggles last week and are picking them to beat the Patriots this week."
     },
     {
       "id": "8459ac6704f1e5c3",
@@ -27,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-09-18T12:30:34+0000",
       "summary": "Can the Chiefs or Texans turn it around? Do the Bears have a chance in the NFC? Is the season already over for the Giants and Jets?"
-    },
-    {
-      "id": "ee0c47739d9cdf38",
-      "title": "Colts RB Jonathan Taylor is Emerging as a Complete Back",
-      "link": "https://stampedeblue.com/analysis/114851/colts-rb-jonathan-taylor-is-emerging-as-a-complete-back",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-18T12:00:00+0000",
-      "summary": "Since he joined the league by way of a second-round draft selection back in the infamously virtual 2020 NFL Draft, Indianapolis Colts running back Jonathan Taylor has remained one of the league’s best pure runners of the football. As of recent, there have even been flashes of an emergence altogether, which, of course, should strike [&#8230;]"
     },
     {
       "id": "6b0216b0a7f7ace8",
@@ -207,6 +225,15 @@
       "feed": "ESPN",
       "published": "2025-09-16T18:19:16+0000",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
+    {
+      "id": "c3f7836b24fc10ac",
+      "title": "Colts announce promotion of linebacker to active roster and signing of center to practice squad",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/114804/colts-announce-promotion-of-linebacker-and-signing-of-center-to-practice-squad",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-16T18:05:23+0000",
+      "summary": "The Indianapolis Colts announced on Tuesday the promotion of linebacker Austin Ajiake from their practice squad and the subsequent signing of center Jimmy Morrissey to replace him therein. Having signed with the Colts back in 2023, Ajiake has remained within the Indianapolis organization. He was released as part of initial 53-man roster cuts this past [&#8230;]"
     },
     {
       "id": "96365b59dff981e5",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-09T14:22:03+0000",
       "summary": "Warren had seven receptions for 76 yards in the Colts' 33-8 win over the Miami Dolphins on Sunday."
-    },
-    {
-      "id": "0ddb5d516afbbca9",
-      "title": "5 Colts Things: How Tyler Warren impacted Michael Pittman Jr.'s touchdown, Daniel Jones generates explosive passes in different ways, Lou Anarumo calls defense 'like a madman'",
-      "link": "https://colts.com/news/5-colts-things-how-tyler-warren-impacted-michael-pittman-jr-s-touchdown-daniel-jones-generates-explosive-passes-in-different-ways-lou-anarumo-calls-defense-like-a-madman",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T20:11:56+0000",
-      "summary": "The Colts' Week 1 win over the Miami Dolphins featured plenty of impressive moments, from Tyler Warren's work with and without the ball to a Daniel Jones deep shot to a remarkable debut for defensive coordinator Lou Anarumo's scheme."
-    },
-    {
-      "id": "8fc3392582d7cd04",
-      "title": "Amid cornerback injuries, Xavien Howard proves even more valuable to Colts defense",
-      "link": "https://colts.com/news/xavien-howard-colts-cornerbacks-dolphins-interceptions-injuries-jaylon-jones-charvarius-ward",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T19:55:21+0000",
-      "summary": "Head coach Shane Steichen announced Jaylon Jones sustained a hamstring injury in Sunday's game against the Dolphins and Charvarius Ward Sr. has entered concussion protocol."
-    },
-    {
-      "id": "1ed84515f6b8d60b",
-      "title": "Colts sign RB Ameer Abdullah to practice squad, release RB Khalil Herbert from practice squad",
-      "link": "https://colts.com/news/colts-sign-rb-ameer-abdullah-to-practice-squad-release-rb-khalil-herbert-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-08T19:04:34+0000",
-      "summary": "The Colts made the roster move on Monday."
     }
   ],
   "links": [
