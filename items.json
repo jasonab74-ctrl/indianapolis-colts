@@ -1,41 +1,86 @@
 {
-  "updated": "2025-09-19T17:30:34+00:00",
+  "updated": "2025-09-19T18:46:13+00:00",
   "items": [
+    {
+      "id": "6121ff828bdf8653",
+      "title": "Betting buzz: Warren eyes history as OROY co-favorite",
+      "link": "https://espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-19T19:42:31+0000",
+      "summary": "Colts TE Tyler Warren could make history were he to win Offensive Rookie of the Year... and he's the current favorite."
+    },
+    {
+      "id": "9fd1e1d47c6e0ed6",
+      "title": "What are the odds? Top 25 predicted anytime NFL TD scorers for Week 3",
+      "link": "https://espn.com/espn/betting/story/_/id/46301500/nfl-week-3-schedule-odds-touchdown-score-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-19T19:42:31+0000",
+      "summary": "Mike Clay's reveals his top 25 predicted touchdown scorers, comparing implied odds with ESPN BET's."
+    },
+    {
+      "id": "d5e3d936703bf73c",
+      "title": "NFL: Officiate tush push 'tight' after missed call",
+      "link": "https://espn.com/nfl/story/_/id/46307930/nfl-officials-keep-eye-false-starts-tush-push",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-19T19:18:05+0000",
+      "summary": "The NFL said the Eagles should have been flagged for at least one false start when they used the tush push against the Chiefs on Sunday and instructed officials this week to call the controversial play \"tight.\""
+    },
+    {
+      "id": "3188e8b6ada90855",
+      "title": "Flores' attorneys say NFL arbiter stalling case",
+      "link": "https://espn.com/nfl/story/_/id/46305741/flores-attorneys-file-reconsideration-arbitration-order",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-19T19:18:05+0000",
+      "summary": "Attorneys for Vikings defensive coordinator Brian Flores and several other plaintiffs have filed for reconsideration of a court order that shifted some of their lawsuit against the NFL and multiple teams to the league's arbitration process."
+    },
+    {
+      "id": "ebcee067df1b3fd1",
+      "title": "Can the Chiefs get back on track? We stacked every Super Bowl loser that started the next season 0-2",
+      "link": "https://espn.com/nfl/story/_/id/46283747/2025-kansas-city-chiefs-winless-0-2-super-bowl-losers-rank-nfl-history",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-19T19:12:07+0000",
+      "summary": "The 2025 Chiefs are one of eight NFL teams to lose a Super Bowl and then start the following season at 0-2. Let's rank them and make sense of what's next."
+    },
     {
       "id": "61fc21aade74b7a6",
       "title": "Let's preview NFL Week 3 games: Picks, predictions, fantasy X factors and nuggets to know",
       "link": "https://espn.com/nfl/story/_/id/46270097/nfl-week-3-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-19T18:10:35+0000",
+      "published": "2025-09-19T19:12:01+0000",
       "summary": "Here's everything you need to know for Week 3 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
     },
     {
-      "id": "7a8be13185360eb2",
-      "title": "Eagles News: NFL tells refs to “officiate it tight” when it comes to the Tush Push",
-      "link": "https://bleedinggreennation.com/news/158869/eagles-news-nfl-tells-refs-to-officiate-it-tight-when-it-comes-to-the-tush-push",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-19T17:20:04+0000",
-      "summary": "Philadelphia Eagles news and links for 9/19/25."
+      "id": "87d9eacb04fcdacb",
+      "title": "Our first look at the NFL trade deadline: Candidates to move, plus teams that could be active",
+      "link": "https://espn.com/nfl/story/_/id/46303239/2025-nfl-trade-deadline-early-look-players-candidates-teams-fits-buzz",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-19T19:11:43+0000",
+      "summary": "The NFL trade deadline isn't until Nov. 4, but we're looking ahead. Could Tyreek Hill or Kirk Cousins be moved? Which teams might make deals?"
     },
     {
-      "id": "b09b5c968419114f",
-      "title": "Dolphins HC Mike McDaniel asking NFL about controversial Josh Allen kneel play",
-      "link": "https://clutchpoints.com/nfl/miami-dolphins/dolphins-news-mike-mcdaniel-asking-nfl-about-controversial-josh-allen-kneel-play",
+      "id": "19afdce8164fc105",
+      "title": "Diamond Ranch-West Covina to play at SoFi Stadium in October",
+      "link": "https://on3.com/rivals/news/diamond-ranch-west-covina-to-play-at-sofi-stadium-in-october/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-19T17:02:42+0000",
-      "summary": "Against Miami on Thursday, a controversial play occurred that many fans are unaware of, as the rule governing it is not widely known."
+      "published": "2025-09-19T18:36:01+0000",
+      "summary": "It’s always a unique experience for high school football coaches and players to partake in a game that’s played at an NFL stadium. When it came to the once in a lifetime opportunity for Diamond Ranch Calif.) and West Covina (Calif.) to play at SoFi Stadium, they just couldn’t pass it up. Diamond Ranch head […]"
     },
     {
-      "id": "21fd5705eb61af97",
-      "title": "Buccaneers giving 464-pound Florida DT Desmond Watson another chance in NFL",
-      "link": "https://sportingnews.com/us/nfl/tampa-bay-buccaneers/news/buccaneers-giving-464-pound-florida-dt-desmond-watson-another-chance-nfl/bdd0aa81fc1bd5c3d8470384",
-      "source": "Yahoo Sports",
+      "id": "48a303774843e9cf",
+      "title": "4 things to know plus a prediction for Colts vs. Titans Week 3",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/19/colts-titans-4-things-know-prediction-week-3/86244450007/",
+      "source": "Colts Wire",
       "feed": "Yahoo Sports",
-      "published": "2025-09-19T17:01:47+0000",
-      "summary": "Tampa Bay has left the door open."
+      "published": "2025-09-19T18:26:10+0000",
+      "summary": "Let's take a closer look at the Colts vs. Titans matchup with four things to know and a prediction for the Week 3 game."
     },
     {
       "id": "f6a9d4544f7c297e",
@@ -45,33 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-09-19T16:51:18+0000",
       "summary": "After missing Wednesday's practice with a toe injury, tight end Tyler Warren participated in practice on Thursday and Friday."
-    },
-    {
-      "id": "3188e8b6ada90855",
-      "title": "Flores' attorneys say NFL arbiter stalling case",
-      "link": "https://espn.com/nfl/story/_/id/46305741/flores-attorneys-file-reconsideration-arbitration-order",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T16:15:21+0000",
-      "summary": "Attorneys for Vikings defensive coordinator Brian Flores and several other plaintiffs have filed for reconsideration of a court order that shifted some of their lawsuit against the NFL and multiple teams to the league's arbitration process."
-    },
-    {
-      "id": "d5e3d936703bf73c",
-      "title": "NFL: Officiate tush push 'tight' after missed call",
-      "link": "https://espn.com/nfl/story/_/id/46307930/nfl-officials-keep-eye-false-starts-tush-push",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T16:15:20+0000",
-      "summary": "The NFL said the Eagles should have been flagged for at least one false start when they used the tush push against the Chiefs on Sunday and instructed officials this week to call the controversial play \"tight.\""
-    },
-    {
-      "id": "ebcee067df1b3fd1",
-      "title": "Can the Chiefs get back on track? We stacked every Super Bowl loser that started the next season 0-2",
-      "link": "https://espn.com/nfl/story/_/id/46283747/2025-kansas-city-chiefs-winless-0-2-super-bowl-losers-rank-nfl-history",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T15:05:25+0000",
-      "summary": "The 2025 Chiefs are one of eight NFL teams to lose a Super Bowl and then start the following season at 0-2. Let's rank them and make sense of what's next."
     },
     {
       "id": "2593e3e375321cd0",
@@ -92,24 +110,6 @@
       "summary": "The 2-0 Colts head to Nashville for their first road game – and first AFC South contest – of the 2025 season on Sunday against the Tennessee Titans at Nissan Stadium. But while the Colts' start to 2025 has been the opposite of the Titans', head coach Shane Steichen and team leaders feel they have this team in a good spot to avoid any sort of letdown game in Week 3."
     },
     {
-      "id": "9fd1e1d47c6e0ed6",
-      "title": "What are the odds? Top 25 predicted anytime NFL TD scorers for Week 3",
-      "link": "https://espn.com/espn/betting/story/_/id/46301500/nfl-week-3-schedule-odds-touchdown-score-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T14:22:44+0000",
-      "summary": "Mike Clay's reveals his top 25 predicted touchdown scorers for Week 3, comparing implied odds with ESPN BET's."
-    },
-    {
-      "id": "012c9bead2d56c12",
-      "title": "Week 3 betting: Odds, lines and totals for every game",
-      "link": "https://espn.com/espn/betting/story/_/id/46264468/2025-nfl-week-3-schedule-odds-betting-point-spreads",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T14:22:44+0000",
-      "summary": "Odds, spreads, totals and FPI predictions for all 16 NFL games in Week 3."
-    },
-    {
       "id": "1aac69f4c30a6a59",
       "title": "Colts’ Matchups to Watch: Week 3 @Titans",
       "link": "https://stampedeblue.com/analysis/114915/colts-matchups-to-watch-week-3-titans",
@@ -117,15 +117,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-19T13:31:40+0000",
       "summary": "Colts’ interior offensive line vs. Jeffery Simmons It is no secret that the success of the Titans’ defensive line rests mostly on Simmons’ shoulders. We are talking about a player that already has 10 pressures through two games, and that can take over games entirely on his own. The Colts’ interior offensive line played well [&#8230;]"
-    },
-    {
-      "id": "87d9eacb04fcdacb",
-      "title": "Our first look at the NFL trade deadline: Candidates to move, plus teams that could be active",
-      "link": "https://espn.com/nfl/story/_/id/46303239/2025-nfl-trade-deadline-early-look-players-candidates-teams-fits-buzz",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T12:09:29+0000",
-      "summary": "The NFL trade deadline isn't until Nov. 4, but we're looking ahead. Could Tyreek Hill or Kirk Cousins be moved? Which teams might make deals?"
     },
     {
       "id": "6c3ad1876d768778",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-11T19:50:02+0000",
       "summary": "Neither Ward nor Jones practiced Thursday – head coach Shane Steichen said Jones would be out for a while – meaning the Colts may lean on three newcomers at corner to step in for Sunday's game against the Denver Broncos."
+    },
+    {
+      "id": "f47e73bbb7ca4037",
+      "title": "The Colts are leaning into versatility on offense in 2025 with a sneaky undercurrent to it",
+      "link": "https://colts.com/news/versatility-offense-fantasy-football-josh-downs-michael-pittman-jonathan-taylor-denver-broncos-week-2",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-11T14:26:12+0000",
+      "summary": "In Week 1, seven Colts players caught a pass – but 17 of Daniel Jones' 29 targets went to tight end Tyler Warren and Michael Pittman Jr."
     }
   ],
   "links": [
