@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-19T11:26:39+00:00",
+  "updated": "2025-09-19T11:40:25+00:00",
   "items": [
     {
       "id": "ebcee067df1b3fd1",
@@ -45,15 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-19T11:15:20+0000",
       "summary": "&quot;We want to make sure that we officiate these plays tight and make sure that every aspect of the offensive team is legal,"
-    },
-    {
-      "id": "3b9fc710a7ba20d7",
-      "title": "NFL experts predict winner of Jaguars vs. Texans Week 3 matchup",
-      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/09/19/jaguars-texans-nfl-experts-predict-winner-week-3-game/86236041007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-19T11:02:46+0000",
-      "summary": "NFL experts predict the winner of the Jaguars vs. Texans Week 3 game."
     },
     {
       "id": "d5e3d936703bf73c",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-11T13:22:43+0000",
       "summary": "The InSideOut Initiative, in partnership with the Indianapolis Colts, IHSAA Foundation and the NFL Foundation, is set to re-launch in Indiana on September 17"
+    },
+    {
+      "id": "b1f9d447b026c9bf",
+      "title": "Practice Notebook: Injury updates on CBs Charvarius Ward Sr., Jaylon Jones ahead of Colts' Week 2 game vs. Denver Broncos",
+      "link": "https://colts.com/news/practice-notebook-injury-updates-on-cbs-charvarius-ward-sr-jaylon-jones-ahead-of-colts-week-2-game-vs-denver-broncos",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-10T19:59:07+0000",
+      "summary": "Neither Ward (concussion) nor Jones (hamstring) participated in Wednesday's practice."
     }
   ],
   "links": [
