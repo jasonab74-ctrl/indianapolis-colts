@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-19T07:29:12+00:00",
+  "updated": "2025-09-19T07:41:21+00:00",
   "items": [
     {
       "id": "6f853a242bde292b",
@@ -36,15 +36,6 @@
       "feed": "ESPN",
       "published": "2025-09-19T06:45:24+0000",
       "summary": "Attorneys for Vikings defensive coordinator Brian Flores and several other plaintiffs have filed for reconsideration of a court order that shifted some of their lawsuit against the NFL and multiple teams to the league's arbitration process."
-    },
-    {
-      "id": "780f1ceb41f7f225",
-      "title": "NFL TV coverage map: Where will Cardinals-49ers air in Week 3",
-      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/09/18/tv-coverage-map-for-cardinals-49ers-revealed/86234230007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-19T06:22:33+0000",
-      "summary": "The Cardinals and 49ers play in the B version of &quot;Game of the Week&quot; on FOX."
     },
     {
       "id": "6c3ad1876d768778",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-11T13:22:43+0000",
       "summary": "The InSideOut Initiative, in partnership with the Indianapolis Colts, IHSAA Foundation and the NFL Foundation, is set to re-launch in Indiana on September 17"
+    },
+    {
+      "id": "b1f9d447b026c9bf",
+      "title": "Practice Notebook: Injury updates on CBs Charvarius Ward Sr., Jaylon Jones ahead of Colts' Week 2 game vs. Denver Broncos",
+      "link": "https://colts.com/news/practice-notebook-injury-updates-on-cbs-charvarius-ward-sr-jaylon-jones-ahead-of-colts-week-2-game-vs-denver-broncos",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-10T19:59:07+0000",
+      "summary": "Neither Ward (concussion) nor Jones (hamstring) participated in Wednesday's practice."
     }
   ],
   "links": [
