@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-20T20:29:05+00:00",
+  "updated": "2025-09-20T20:40:38+00:00",
   "items": [
     {
       "id": "61fc21aade74b7a6",
@@ -18,6 +18,24 @@
       "feed": "ESPN",
       "published": "2025-09-20T20:37:33+0000",
       "summary": "South Carolina's LaNorris Sellers is the top vote-getter among 25 NFL scouts and executives polled by ESPN to see who they project as the top quarterback for the upcoming draft."
+    },
+    {
+      "id": "76dc5270104df685",
+      "title": "Giants OT James Hudson fined $12,172 for unnecessary roughness",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-ot-james-hudson-fined-12-172-for-unnecessary-roughness",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-20T20:23:14+0000",
+      "summary": "The NFL fined Giants offensive tackle James Hudson for an unnecessary roughness penalty on the team's first drive Sunday."
+    },
+    {
+      "id": "b1b691b31705a0fd",
+      "title": "Eagles' RB Saquon Barkley fined $46,371 for lowering his helmet on a run vs. the Chiefs",
+      "link": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/09/20/saquon-barkley-fine-unnecessary-roughness-chiefs/86268646007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-20T20:19:07+0000",
+      "summary": "The NFL fined Eagles RB Saquon Barkley $46,371 for unnecessary roughness/use of the helmet on a play where no flag was called"
     },
     {
       "id": "576099f104c820b8",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-12T08:46:00+0000",
       "summary": "The Colts won their season opener for the first time since 2013, but quickly moved past their 33-8 thumping of the Dolphins to prepare for the challenge of facing the Broncos, who made the playoffs in 2024."
-    },
-    {
-      "id": "3224f17667fabe87",
-      "title": "Practice notebook: Colts' cornerback depth comes into focus with Charvarius Ward Sr. in concussion protocol, Jaylon Jones out",
-      "link": "https://colts.com/news/practice-notebook-colts-cornerback-depth-comes-into-focus-with-charvarius-ward-sr-in-concussion-protocol-jaylon-jones-out",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-11T19:50:02+0000",
-      "summary": "Neither Ward nor Jones practiced Thursday – head coach Shane Steichen said Jones would be out for a while – meaning the Colts may lean on three newcomers at corner to step in for Sunday's game against the Denver Broncos."
-    },
-    {
-      "id": "f47e73bbb7ca4037",
-      "title": "The Colts are leaning into versatility on offense in 2025 with a sneaky undercurrent to it",
-      "link": "https://colts.com/news/versatility-offense-fantasy-football-josh-downs-michael-pittman-jonathan-taylor-denver-broncos-week-2",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-11T14:26:12+0000",
-      "summary": "In Week 1, seven Colts players caught a pass – but 17 of Daniel Jones' 29 targets went to tight end Tyler Warren and Michael Pittman Jr."
     }
   ],
   "links": [
