@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-20T11:23:19+00:00",
+  "updated": "2025-09-20T11:39:37+00:00",
   "items": [
     {
       "id": "ebcee067df1b3fd1",
@@ -27,15 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-20T11:03:00+0000",
       "summary": "There are six keys to a Tennessee Titans' victory over the Indianapolis Colts in Week 3."
-    },
-    {
-      "id": "aab5dbfeb21c4ff5",
-      "title": "Chargers have a chance to make history against Broncos and be the buzz of the NFL",
-      "link": "https://sports.yahoo.com/article/chargers-chance-history-against-broncos-110000885.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-20T11:00:00+0000",
-      "summary": "The Chargers have looked impressive in wins over the Chiefs and Raiders, and win over the Broncos could be a springboard to a very strong season."
     },
     {
       "id": "85e86d9cecf7e193",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-10T19:59:07+0000",
       "summary": "Neither Ward (concussion) nor Jones (hamstring) participated in Wednesday's practice."
+    },
+    {
+      "id": "2d459d5d18fa0fd2",
+      "title": "9 years into NFL career, Kenny Moore II is still building his legacy",
+      "link": "https://colts.com/news/9-years-into-nfl-career-kenny-moore-ii-is-still-building-his-legacy",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-10T18:55:12+0000",
+      "summary": "Kenny Moore II, as a 16-year-old, quit football. He was coaxed back a day later. Over a decade later, he's still playing, and still has plenty more to accomplish."
     }
   ],
   "links": [
