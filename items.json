@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T21:39:49+00:00",
+  "updated": "2025-09-21T22:33:45+00:00",
   "items": [
     {
       "id": "a96db5b5a4d277d4",
@@ -7,17 +7,44 @@
       "link": "https://espn.com/nfl/story/_/id/46338381/nfl-week-3-trolls",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-21T22:22:12+0000",
+      "published": "2025-09-21T23:00:56+0000",
       "summary": "NFL teams were plenty petty in Week 3, led by the Pittsburgh Steelers poking fun at the New England Patriots."
     },
     {
       "id": "c550d05ca8786331",
-      "title": "What we learned in Week 3: Answering big questions and sizing up every matchup",
+      "title": "What we learned from Week 3's NFL games: Big questions, key takeaways and what's next for every team",
       "link": "https://espn.com/nfl/story/_/id/46283712/nfl-week-3-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-21T21:57:31+0000",
-      "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game."
+      "published": "2025-09-21T22:54:22+0000",
+      "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 3."
+    },
+    {
+      "id": "27819fff3be1a563",
+      "title": "The Colts punted for the first time this season: 'I was kind of pissed about it'",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/21/rigoberto-sanchez-punts-colts-first-time/86284428007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-21T22:12:08+0000",
+      "summary": "The officials picked up a flag and coach Shane Steichen thought about going for it on 4th-and-5 but Rigo Sanchez ultimately punted"
+    },
+    {
+      "id": "47925025cf593564",
+      "title": "NFL Week 3 is full of trap games; that the Colts didn't just avoid one, but blew out the Titans, might say a lot about this team",
+      "link": "https://colts.com/news/trap-game-week-3-tennessee-titans-packers-browns-nfl-blowout-win",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T22:11:21+0000",
+      "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
+    },
+    {
+      "id": "f54758f24f753b98",
+      "title": "'Lightning in a bottle:' How Kenny Moore II's pick-six set tone in Colts' emphatic win over Titans",
+      "link": "https://colts.com/news/lightning-in-a-bottle-kenny-moore-pick-six-colts-cornerback-win-week-3-tennessee-titans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T22:06:56+0000",
+      "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
     },
     {
       "id": "4d9053561480ae99",
@@ -27,42 +54,6 @@
       "feed": "ESPN",
       "published": "2025-09-21T21:31:06+0000",
       "summary": "What are scouts saying about Makai Lemon? Is Fernando Mendoza now ready for the QB1 title? We have updates on NFL draft prospects through CFB Week 3."
-    },
-    {
-      "id": "9f995056f94c2fb3",
-      "title": "Highlights, game recap from Colts' Week 3 win vs. Titans",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/21/colts-titans-highlights-game-recap-week-3-win/86282804007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T21:29:09+0000",
-      "summary": "Let's take a look back at the Colts' Week 3 win over the Titans."
-    },
-    {
-      "id": "5229f300ade612fa",
-      "title": "Two blocked field goals returned for TDs contribute to a wild early slate of NFL games",
-      "link": "https://sports.yahoo.com/article/two-blocked-field-goals-returned-212846438.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T21:28:46+0000",
-      "summary": "NFL fans saw two game-changing blocked field goals that were returned for touchdowns minutes apart on Sunday.  First, Philadelphia’s Jordan Davis blocked a 44-yard attempt by the Rams’ Joshua Karty on the final play of the game that would have won it for Los Angeles.  Davis scooped the ball and returned it 61 yards for a touchdown to give the Eagles a 33-26 victory in a playoff rematch."
-    },
-    {
-      "id": "3f86e63dae18d11d",
-      "title": "New tush push vote not guaranteed, sources say",
-      "link": "https://espn.com/nfl/story/_/id/46325698/despite-tush-push-debate-no-guarantee-new-vote-sources-say",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-21T21:25:43+0000",
-      "summary": "League sources told ESPN there are no assurances that the tush push will be brought up for conversation or a vote by the NFL this offseason."
-    },
-    {
-      "id": "d97421c45516d117",
-      "title": "State of Florida NFL wrapup: Jaguars, Bucs hang on for victories; Dolphins lose on TNF",
-      "link": "https://jacksonville.com/story/sports/2025/09/21/jaguars-buccaneers-claim-victory-dolphins-fall-nfl-wrapup-video/85197669007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T21:23:22+0000",
-      "summary": "The Jaguars and Buccaneers each won their games inside the final two minutes while the Dolphins lost to Buffalo on Thursday Night Football."
     },
     {
       "id": "1163677b93d516c5",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-11T19:50:02+0000",
       "summary": "Neither Ward nor Jones practiced Thursday – head coach Shane Steichen said Jones would be out for a while – meaning the Colts may lean on three newcomers at corner to step in for Sunday's game against the Denver Broncos."
+    },
+    {
+      "id": "f47e73bbb7ca4037",
+      "title": "The Colts are leaning into versatility on offense in 2025 with a sneaky undercurrent to it",
+      "link": "https://colts.com/news/versatility-offense-fantasy-football-josh-downs-michael-pittman-jonathan-taylor-denver-broncos-week-2",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-11T14:26:12+0000",
+      "summary": "In Week 1, seven Colts players caught a pass – but 17 of Daniel Jones' 29 targets went to tight end Tyler Warren and Michael Pittman Jr."
     }
   ],
   "links": [
