@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T17:40:09+00:00",
+  "updated": "2025-09-21T18:42:57+00:00",
   "items": [
     {
       "id": "3f86e63dae18d11d",
@@ -7,8 +7,26 @@
       "link": "https://espn.com/nfl/story/_/id/46325698/despite-tush-push-debate-no-guarantee-new-vote-sources-say",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-21T18:03:00+0000",
+      "published": "2025-09-21T19:02:21+0000",
       "summary": "League sources told ESPN there are no assurances that the tush push will be brought up for conversation or a vote by the NFL this offseason."
+    },
+    {
+      "id": "66e423096019a9f6",
+      "title": "Aaron Rodgers passes Brett Favre on NFL's all-time passing TD list, moves into 4th place by himself",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/aaron-rodgers-passes-brett-favre-on-nfls-all-time-passing-td-list-moves-into-4th-place-by-himself-181728797.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-21T18:17:28+0000",
+      "summary": "Aaron Rodgers and Brett Favre will forever be intertwined."
+    },
+    {
+      "id": "cf20fafc594ca99c",
+      "title": "Colts Kenny Moore sets record vs Titans",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/21/colts-kenny-moore-record-vs-titans-with-pick-6-in-first-minute-interception/86280291007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-21T18:13:55+0000",
+      "summary": "Colts cornerback Kenny Moore returned an interception for a touchdown just 49 seconds into the game vs the Titans, setting a record"
     },
     {
       "id": "4d9053561480ae99",
@@ -27,69 +45,6 @@
       "feed": "ESPN",
       "published": "2025-09-21T17:49:27+0000",
       "summary": "Colts TE Tyler Warren could make history if he were to win Offensive Rookie of the Year... and he's the current favorite."
-    },
-    {
-      "id": "0c2796682526c126",
-      "title": "Eagles get away with 'tush push' penalty despite increased focus on play, score on next attempt",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-get-away-with-tush-push-penalty-despite-increased-focus-on-play-score-on-next-attempt-173335523.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:33:35+0000",
-      "summary": "NFL officials were supposed to focus on the &quot;tush push&quot; this week."
-    },
-    {
-      "id": "80caf49653305cd3",
-      "title": "Dom DiSandro fine, explained: Why NFL hit Eagles staff member 'Big Dom' with $75K penalty",
-      "link": "https://sportingnews.com/us/nfl/philadelphia-eagles/news/dom-disandro-fine-eagles-big-dom-75k-penalty/87abe8d77ba3385cbfed6305",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:30:53+0000",
-      "summary": "&quot;Big Dom&quot; DiSandro is a cult hero in Eagles circles, but the NFL has a bone to pick with him."
-    },
-    {
-      "id": "9a75dffdc34ed971",
-      "title": "CBS Sports' Week 3 broadcast celebrates 50 years of NFL coverage",
-      "link": "https://usatoday.com/story/sports/nfl/2025/09/21/cbs-sports-week-3-broadcast-nfl/86279263007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:27:36+0000",
-      "summary": "In honor of the 50th anniversary of &quot;The NFL Today,&quot; the CBS Sports broadcast featured a special, throwback look in Week 3."
-    },
-    {
-      "id": "65068b93c69b6606",
-      "title": "Cam Ward makes first major rookie mistake with pick-six interception to Kenny Moore, Colts",
-      "link": "https://tennessean.com/story/sports/nfl/titans/2025/09/21/cam-ward-highlights-titans-pick-six-colts-kenny-moore/86279601007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:24:13+0000",
-      "summary": "Titans quarterback Cam Ward tossed his first interception of the season, and it was a major mistake."
-    },
-    {
-      "id": "edf7aa5041de36dc",
-      "title": "YouTube having technical difficulties with NFL Sunday Ticket",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-having-technical-difficulties-with-nfl-sunday-ticket",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:22:25+0000",
-      "summary": "Fans across the country are taking to social media to report that Sunday Ticket isn't working."
-    },
-    {
-      "id": "f5bb726ad4a1b7a8",
-      "title": "Eagles vs. Rams: First quarter score updates",
-      "link": "https://bleedinggreennation.com/game-day-threads/158966/eagles-vs-rams-first-quarter-scores-updates-game-thread-week-3-nfl",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:16:06+0000",
-      "summary": "It’s Week 3 of the 2025 NFL season and the Eagles are back home against the Los Angeles Rams."
-    },
-    {
-      "id": "a62f5e2deeb0cef8",
-      "title": "Packers & Bengals aim to maintain winning start - NFL scores, results & updates",
-      "link": "https://bbc.com/sport/american-football/live/cgln8p6x301t",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-21T17:12:08+0000",
-      "summary": "Follow live text updates on week three in the NFL, with team news, latest scores and results, plus radio commentary on the Dallas Cowboys at the Chicago Bears."
     },
     {
       "id": "8c72bf5724ef8ea3",
@@ -207,15 +162,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-20T12:00:00+0000",
       "summary": "The Indianapolis Colts (2-0) (-4.5) travel to ‘The Music City’ to take on their divisional rival, the Tennessee Titans (0-2), hoping to keep their current early season win streak alive. The game kicks off at 1 PM EST on Sunday at Nissan Stadium. It’s expected to be 86 degrees, with 3 mph wind, and a [&#8230;]"
-    },
-    {
-      "id": "85e86d9cecf7e193",
-      "title": "Roquan Smith soars, Travis Kelce slips in Madden NFL 26 Week 2 ratings update",
-      "link": "https://espn.com/gaming/story/_/id/46314937/madden-nfl-26-week-2-ratings-update",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-19T20:47:25+0000",
-      "summary": "All winners and losers from Madden NFL 26's Week 2 ratings update."
     },
     {
       "id": "e339f88b903cd703",
@@ -540,6 +486,60 @@
       "feed": "Colts.com",
       "published": "2025-09-13T15:50:29+0000",
       "summary": "The Colts made the roster move on Saturday."
+    },
+    {
+      "id": "b61d403d8629c84f",
+      "title": "The Colts Show Mailbag: Pat Surtain II vs. Colts' receivers, Titans' offense vs. Broncos' defense from Week 1",
+      "link": "https://colts.com/news/the-colts-show-mailbag-pat-surtain-ii-vs-colts-receivers-titans-offense-vs-broncos-defense-from-week-1",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-12T20:46:18+0000",
+      "summary": "The Colts Show Mailbag returns for Week 1 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "d71eac60b507e60e",
+      "title": "Colts rule out CB Jaylon Jones, CB Charvarius Ward Sr. for Week 2 game vs. Denver Broncos",
+      "link": "https://colts.com/news/colts-rule-out-cornerbacks-jaylon-jones-charvarius-ward-week-2-broncos-laiatu-latu-tyler-goodson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-12T16:58:02+0000",
+      "summary": "Ward (concussion) did not participate in practice this week."
+    },
+    {
+      "id": "0a4564c0aa3d3ee6",
+      "title": "Colts vs. Broncos preview: Shane Steichen, Daniel Jones face stiff challenge against Vance Joseph, Pat Surtain II and Denver defense",
+      "link": "https://colts.com/news/colts-vs-broncos-preview-shane-steichen-daniel-jones-face-stiff-challenge-against-vance-joseph-pat-surtain-ii-and-denver-defense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-12T08:46:00+0000",
+      "summary": "The Colts won their season opener for the first time since 2013, but quickly moved past their 33-8 thumping of the Dolphins to prepare for the challenge of facing the Broncos, who made the playoffs in 2024."
+    },
+    {
+      "id": "3224f17667fabe87",
+      "title": "Practice notebook: Colts' cornerback depth comes into focus with Charvarius Ward Sr. in concussion protocol, Jaylon Jones out",
+      "link": "https://colts.com/news/practice-notebook-colts-cornerback-depth-comes-into-focus-with-charvarius-ward-sr-in-concussion-protocol-jaylon-jones-out",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-11T19:50:02+0000",
+      "summary": "Neither Ward nor Jones practiced Thursday – head coach Shane Steichen said Jones would be out for a while – meaning the Colts may lean on three newcomers at corner to step in for Sunday's game against the Denver Broncos."
+    },
+    {
+      "id": "f47e73bbb7ca4037",
+      "title": "The Colts are leaning into versatility on offense in 2025 with a sneaky undercurrent to it",
+      "link": "https://colts.com/news/versatility-offense-fantasy-football-josh-downs-michael-pittman-jonathan-taylor-denver-broncos-week-2",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-11T14:26:12+0000",
+      "summary": "In Week 1, seven Colts players caught a pass – but 17 of Daniel Jones' 29 targets went to tight end Tyler Warren and Michael Pittman Jr."
+    },
+    {
+      "id": "3283ea25e9e215f0",
+      "title": "Indiana Renews Partnership with InSideOut Initiative",
+      "link": "https://colts.com/news/indiana-renews-partnership-with-insideout-initiative-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-11T13:22:43+0000",
+      "summary": "The InSideOut Initiative, in partnership with the Indianapolis Colts, IHSAA Foundation and the NFL Foundation, is set to re-launch in Indiana on September 17"
     }
   ],
   "links": [
