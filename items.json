@@ -1,6 +1,24 @@
 {
-  "updated": "2025-09-22T20:36:43+00:00",
+  "updated": "2025-09-22T21:28:05+00:00",
   "items": [
+    {
+      "id": "71416bd5727b4042",
+      "title": "Texans' Ward taken off commissioner exempt list",
+      "link": "https://espn.com/nfl/story/_/id/46348813/nfl-removes-texans-jimmie-ward-commissioner-exempt-list",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-22T21:36:16+0000",
+      "summary": "Texans safety Jimmie Ward was removed from the NFL's commissioner exempt list Monday after a grand jury decided not to indict him last week."
+    },
+    {
+      "id": "9f5bc526789a3633",
+      "title": "Depleted Buccaneers keep winning as injuries continue piling up",
+      "link": "https://sports.yahoo.com/article/depleted-buccaneers-keep-winning-injuries-210650197.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-22T21:06:50+0000",
+      "summary": "No matter who is blocking or catching passes, Baker Mayfield and the Tampa Bay Buccaneers find ways to win.  The Buccaneers are 3-0 for the first time in 20 years heading into a tough matchup against the reigning Super Bowl champion Philadelphia Eagles in a battle between two of the NFL’s six undefeated teams.  “They’re battle-tested, they won the Super Bowl — that’s where we’re trying to get to,” coach Todd Bowles said Monday."
+    },
     {
       "id": "446f6d571a4ec467",
       "title": "NFL Week 3's top performance? Vote for the 'Himmy' Award winner",
@@ -18,33 +36,6 @@
       "feed": "Colts.com",
       "published": "2025-09-22T20:34:03+0000",
       "summary": "The majority of teams that start a season 3-0 have made the playoffs, but early-season undefeated records are not a guarantee a team will earn a spot in the postseason."
-    },
-    {
-      "id": "ce2d1ff28656dc17",
-      "title": "Minnesota Vikings keep getting mocked linebackers for the 2026 NFL Draft",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/09/22/vikings-mock-draft-georgia-cj-allen/86291313007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-22T20:27:39+0000",
-      "summary": "The Minnesota Vikings will need some help from the NFL Draft to streghten their defense."
-    },
-    {
-      "id": "c6c0221ac1d83c8e",
-      "title": "The Rams have by far the best kickoff unit in the NFL thanks to Joshua Karty",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/22/rams-kickoff-stats-joshua-karty/86298795007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-22T20:26:23+0000",
-      "summary": "Joshua Karty and the Rams have mastered the NFL's new kickoff rules, pinning opponents deep just about every time."
-    },
-    {
-      "id": "857a741a6a1d14af",
-      "title": "Colts’ Alec Pierce in concussion protocol coming off Titans win",
-      "link": "https://clutchpoints.com/nfl/indianapolis-colts/colts-alec-pierce-in-concussion-protocol-coming-off-titans-win",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-22T20:18:21+0000",
-      "summary": "Alec Pierce is in concussion protocol after taking a hard landing during Week 3 against the Tennessee Titans."
     },
     {
       "id": "8ed4fd3d3ab9a0b0",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-16T15:33:48+0000",
       "summary": ""
+    },
+    {
+      "id": "2a048537b291bbd0",
+      "title": "Colts’ Shane Steichen: Should have been more aggressive on game-winning field goal drive",
+      "link": "https://fox59.com/sports/colts/colts-shane-steichen-should-have-been-more-aggressive-on-game-winning-field-goal-drive/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-15T22:57:05+0000",
+      "summary": "INDIANAPOLIS – Shane Steichen offered a mea culpa, and those are always easier to deal with after what transpired Sunday at Lucas Oil Stadium. Less than 24 hours after his Indianapolis Colts chased down Denver 29-28 as time expired on Spencer Shrader’s 45-yard field goal, Steichen conceded he made things more difficult than they needed [...]"
     }
   ],
   "links": [
