@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-22T19:24:22+00:00",
+  "updated": "2025-09-22T19:40:21+00:00",
   "items": [
+    {
+      "id": "446f6d571a4ec467",
+      "title": "NFL Week 3's top performance? Vote for the 'Himmy' Award winner",
+      "link": "https://espn.com/nfl/story/_/id/46347320/caleb-williams-isaiah-rodgers-aj-brown-justin-herbert-himmy-awards-week-3",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-22T20:34:14+0000",
+      "summary": "Weigh in on Week 3's top player by casting a 'Himmy' Award vote for Caleb Williams, Isaiah Rodgers, Justin Herbert or A.J. Brown."
+    },
     {
       "id": "d8f31987cad02a94",
       "title": "NFL's Sunday slate records most blocked field goals in a single day since 1991, with 4 blocked kicks",
@@ -92,15 +101,6 @@
       "summary": "3-0 as the perfect Colts dominate against the Titans, away from home, on a key divisional game to gain control of the AFC South. It was never close as Indy got the early lead and then ran away with it, thanks to a dominant JT, and a stifling defense that, despite the heat, managed to [&#8230;]"
     },
     {
-      "id": "7cc6abcf59c680f1",
-      "title": "Longtime Pats executive Bobby Grier dies at 82",
-      "link": "https://espn.com/nfl/story/_/id/46345412/long-patriots-executive-bobby-grier-dies-82",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-22T14:10:08+0000",
-      "summary": "Bobby Grier, whose career as a football coach and front office executive with three NFL teams spanned seven decades, has died, his family confirmed. He was 82."
-    },
-    {
       "id": "5b8c6721f5a69abb",
       "title": "Colts enter NFL history books with one punt in first three games of 2025",
       "link": "https://colts.com/news/colts-nfl-history-punt-rigoberto-sanchez-special-teams-touchdowns-daniel-jones-shane-steichen",
@@ -135,24 +135,6 @@
       "feed": "ESPN",
       "published": "2025-09-22T13:00:00+0000",
       "summary": "Campbell was mocked for his introductory presser with the Lions. But players, execs and fans loved it -- and knew they had their guy."
-    },
-    {
-      "id": "a96db5b5a4d277d4",
-      "title": "'Do you like apples?': Steelers' nods to Boston-based actors lead NFL Week 3 trolls",
-      "link": "https://espn.com/nfl/story/_/id/46338381/nfl-week-3-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-22T12:50:46+0000",
-      "summary": "NFL teams were plenty petty in Week 3, led by the Pittsburgh Steelers poking fun at the New England Patriots."
-    },
-    {
-      "id": "fbcba5a6e3022bcf",
-      "title": "Best of NFL Week 3's arrivals, featuring Patrick Mahomes' clean suit before 'SNF'",
-      "link": "https://espn.com/nfl/story/_/id/46306396/week-3-nfl-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-22T12:50:46+0000",
-      "summary": "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style."
     },
     {
       "id": "9ec7843c87db44dd",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-16T15:33:48+0000",
       "summary": ""
+    },
+    {
+      "id": "2a048537b291bbd0",
+      "title": "Colts’ Shane Steichen: Should have been more aggressive on game-winning field goal drive",
+      "link": "https://fox59.com/sports/colts/colts-shane-steichen-should-have-been-more-aggressive-on-game-winning-field-goal-drive/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-15T22:57:05+0000",
+      "summary": "INDIANAPOLIS – Shane Steichen offered a mea culpa, and those are always easier to deal with after what transpired Sunday at Lucas Oil Stadium. Less than 24 hours after his Indianapolis Colts chased down Denver 29-28 as time expired on Spencer Shrader’s 45-yard field goal, Steichen conceded he made things more difficult than they needed [...]"
+    },
+    {
+      "id": "3477cd1958d86ddd",
+      "title": "5 Colts Things: Daniel Jones handles Broncos' pressure, Jonathan Taylor excels with and without the ball, Grover Stewart again assists a Cam Bynum interception and context for Denver's leverage penalty",
+      "link": "https://colts.com/news/5-colts-things-daniel-jones-handles-broncos-pressure-jonathan-taylor-excels-with-and-without-the-ball-grover-stewart-again-assists-a-cam-bynum-interception-and-context-for-denver-s-leverage-penalty",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-15T20:44:53+0000",
+      "summary": "The Colts improved to 2-0 for the first time since 2009 with a dramatic 29-28 win over the Denver Broncos on Sunday at Lucas Oil Stadium."
     }
   ],
   "links": [
