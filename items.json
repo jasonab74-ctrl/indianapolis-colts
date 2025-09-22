@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-22T14:41:28+00:00",
+  "updated": "2025-09-22T15:35:44+00:00",
   "items": [
     {
       "id": "4ed7f91590a13926",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/46335202/baltimore-ravens-evolution-derrick-henry-stiff-arm",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-22T14:42:44+0000",
+      "published": "2025-09-22T16:29:04+0000",
       "summary": "Henry's signature stiff-arm has helped him become one of the NFL's all-time great running backs."
     },
     {
@@ -16,17 +16,62 @@
       "link": "https://espn.com/nfl/story/_/id/46283712/nfl-week-3-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-22T14:41:58+0000",
+      "published": "2025-09-22T16:28:31+0000",
       "summary": "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 3."
     },
     {
-      "id": "eb6fa67df9824231",
-      "title": "Harry Kane drops fresh hint at shock career switch to NFL",
-      "link": "https://sportingnews.com/us/soccer/news/harry-kane-drops-fresh-hint-shock-career-switch-nfl/60482aa29b6ec6d841c2ffca",
+      "id": "bc9a03de0ca29b58",
+      "title": "Around the AFC South: Texans drop to 0-3 with loss to Jaguars",
+      "link": "https://colts.com/news/around-the-afc-south-texans-loss-jaguars-cj-stroud-trevor-lawrence",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-22T15:24:36+0000",
+      "summary": "The Colts improved to 3-0 with their win over the Titans on Sunday."
+    },
+    {
+      "id": "2673e70656dc7d08",
+      "title": "Former Georgia DL Jordan Davis blocks game-winning kick, scores first career NFL TD",
+      "link": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2025/09/22/eagles-jordan-davis-blocks-field-goal-georgia-football/86290718007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-22T14:38:48+0000",
-      "summary": "Harry Kane says an NFL move is “in the back of my mind” but insists his focus remains on Bayern Munich and England."
+      "published": "2025-09-22T15:20:43+0000",
+      "summary": "Former Georgia Bulldog and first-round pick Jordan Davis played his best game as an Philadelphia Eagle in his NFL career."
+    },
+    {
+      "id": "50b7ef0a39d3d4e0",
+      "title": "Bears' Caleb Williams and Rome Odunze are NFL leaders in touchdowns",
+      "link": "https://bearswire.usatoday.com/story/sports/nfl/bears/2025/09/22/bears-caleb-williams-rome-odunze-lead-nfl-touchdowns/86290012007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-22T15:20:23+0000",
+      "summary": "Chicago Bears quarterback Caleb Williams and wide receiver Rome Odunze are making their mark in Year 2."
+    },
+    {
+      "id": "4b84ab30aca2414d",
+      "title": "Colts’ Monday Morning Awards: Week 3 @Titans",
+      "link": "https://stampedeblue.com/analysis/115146/colts-monday-morning-awards-week-3-titans",
+      "source": "Stampede Blue",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-22T15:16:25+0000",
+      "summary": "3-0 as the perfect Colts dominate against the Titans, away from home, on a key divisional game to gain control of the AFC South. It was never close as Indy got the early lead and then ran away with it, thanks to a dominant JT, and a stifling defense that, despite the heat, managed to […]"
+    },
+    {
+      "id": "719f024b0dc669da",
+      "title": "Giants' Russell Wilson makes roller coaster stats NFL history that no QB has ever done before",
+      "link": "https://sportingnews.com/us/nfl/new-york-giants/news/giants-russell-wilson-roller-coaster-stats-nfl-history-no-qb-ever/a3f796d1f4ee8aa485ab9b23",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-22T15:15:04+0000",
+      "summary": "Up and down and up and down the Giants go."
+    },
+    {
+      "id": "114c07f5f09dbcb7",
+      "title": "Making NFL Playoffs after 0-3 start is hard, but not impossible",
+      "link": "https://sbnation.com/nfl/24481039/nfl-0-3-teams-who-made-playoffs-short-list",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-22T15:08:33+0000",
+      "summary": "Here are the teams in the modern era who have managed it, and how."
     },
     {
       "id": "7cc6abcf59c680f1",
@@ -38,15 +83,6 @@
       "summary": "Bobby Grier, whose career as a football coach and front office executive with three NFL teams spanned seven decades, has died, his family confirmed. He was 82."
     },
     {
-      "id": "78c10141e1944f6a",
-      "title": "Tom Brady Jokes About Bill Belichick’s Tough Coaching Style During Fox Broadcast",
-      "link": "https://mediaite.com/media/sports/tom-brady-jokes-about-bill-belichicks-tough-coaching-style-during-fox-broadcast/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-22T14:26:11+0000",
-      "summary": "Fox Sports analyst Tom Brady jokingly referred to the notoriously grumpy Bill Belichick as a &quot;player-friendly&quot; coach during an NFL broadcast on Sunday."
-    },
-    {
       "id": "5b8c6721f5a69abb",
       "title": "Colts enter NFL history books with one punt in first three games of 2025",
       "link": "https://colts.com/news/colts-nfl-history-punt-rigoberto-sanchez-special-teams-touchdowns-daniel-jones-shane-steichen",
@@ -54,6 +90,15 @@
       "feed": "Colts.com",
       "published": "2025-09-22T14:03:35+0000",
       "summary": "The Colts are the first team to punt only once in the first three games of an NFL season since at least 1940."
+    },
+    {
+      "id": "f770124d5c87f520",
+      "title": "Gridiron Necromancy Week 3",
+      "link": "https://stampedeblue.com/indianapolis-colts-history/115069/gridiron-necromancy-week-3-ghost-of-jim-irsay",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-22T14:00:00+0000",
+      "summary": "The 2025 Indianapolis Colts are 3-0 and breaking offensive franchise records. A franchise that has been led by the likes of Johnny Unitas, Bert Jones, Peyton Manning and Andrew Luck is having a point scoring renaissance powered by former first round bust Daniel Jones. The Jones led Colts have scored 103 points through three games [&#8230;]"
     },
     {
       "id": "ca5f80f83b633a90",
@@ -290,15 +335,6 @@
       "summary": "According to ESPN Analytics, the Indianapolis Colts (2-0) currently have a 73% chance to make the postseason, which is the 4th highest percentage in the entire AFC: Under new and improved starting quarterback Daniel Jones, the Colts are 2-0 for the first time since 2009, which is also the year of the franchise’s most recent [&#8230;]"
     },
     {
-      "id": "2b3fd2ad6dc83083",
-      "title": "Defensive reinforcements will be key for Colts against Titans",
-      "link": "https://stampedeblue.com/analysis/114982/defensive-reinforcements-will-be-key-for-colts-against-titans",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-20T14:28:37+0000",
-      "summary": "The Indianapolis Colts squeaked out a win over the Broncos last Sunday. It was a back and forth game in which the Colts managed to lose and win all within a two minute span. Regardless of the final outcome, the Colts proved they can hang with the upper tier teams in the league. Beating the [&#8230;]"
-    },
-    {
       "id": "e339f88b903cd703",
       "title": "Colts relatively healthy heading into AFC South matchup at Titans",
       "link": "https://cbs4indy.com/sports/colts/colts-relatively-healthy-heading-into-afc-south-matchup-at-titans/",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-15T16:10:56+0000",
       "summary": "The Houston Texans play the Tampa Bay Buccaneers Monday night."
-    },
-    {
-      "id": "995ded60437c3474",
-      "title": "Colts' receivers don't back down against Broncos' CB Pat Surtain II, deliver key plays against 2024 Defensive Player of the Year in Week 2 win",
-      "link": "https://colts.com/news/colts-receivers-don-t-back-down-against-broncos-cb-pat-surtain-ii-deliver-key-plays-against-2024-defensive-player-of-the-year-in-week-2-win",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-15T02:57:50+0000",
-      "summary": "In throwing for 316 yards in the Colts' 29-28 win over the Denver Broncos in Week 2, quarterback Daniel Jones consistently trusted his pass-catchers against 2024 AP Defensive Player of the Year Pat Surtain II."
-    },
-    {
-      "id": "b784e97621375819",
-      "title": "Daniel Jones, Colts' offense pass major test with efficient, explosive showing in win over stingy Broncos defense",
-      "link": "https://colts.com/news/daniel-jones-colts-offense-pass-major-test-with-efficient-explosive-showing-in-win-over-stingy-broncos-defense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-15T02:21:54+0000",
-      "summary": "Daniel Jones completed 23 of 34 passes for 316 yards with a passing and rushing touchdown in the Colts' 29-28 Week 2 win over the Denver Broncos on Sunday at Lucas Oil Stadium."
-    },
-    {
-      "id": "5206d4949db6b9d2",
-      "title": "How faith and discipline set up Spencer Shrader's game-winning field goal: 'You just have to trust'",
-      "link": "https://colts.com/news/spencer-shrader-colts-field-goal-walkoff-faith-discipline-shane-steichen-broncos",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-15T01:38:21+0000",
-      "summary": "Shrader nailed a 45-yard field goal – his fifth of the game – to secure the Colts' win over the Broncos on Sunday."
-    },
-    {
-      "id": "d30e41a784e3db5a",
-      "title": "Colts rally for comeback win vs. Broncos",
-      "link": "https://colts.com/news/colts-rally-for-comeback-win-vs-broncos-jonathan-taylor-cam-bynum-daniel-jones",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-14T23:10:28+0000",
-      "summary": "The Colts took down the Broncos 29-28 on a last-second field goal from Spencer Shrader."
     }
   ],
   "links": [
