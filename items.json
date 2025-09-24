@@ -1,6 +1,87 @@
 {
-  "updated": "2025-09-24T16:23:21+00:00",
+  "updated": "2025-09-24T16:46:35+00:00",
   "items": [
+    {
+      "id": "a6602cf1a6f59a58",
+      "title": "Rest-of-Season Trade Value Charts — Justin Boone's fantasy football wide receiver breakdown prior to Week 4",
+      "link": "https://sports.yahoo.com/fantasy/article/rest-of-season-trade-value-charts--justin-boones-fantasy-football-wide-receiver-breakdown-prior-to-week-4-164340105.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:43:40+0000",
+      "summary": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for wide receivers for Week 4 of the 2025 NFL season."
+    },
+    {
+      "id": "c8372a86b69f5646",
+      "title": "Rest-of-Season Trade Value Charts — Justin Boone's fantasy football running back breakdown prior to Week 4",
+      "link": "https://sports.yahoo.com/fantasy/article/rest-of-season-trade-value-charts--justin-boones-fantasy-football-running-back-breakdown-prior-to-week-4-163854279.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:38:54+0000",
+      "summary": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for running backs for Week 4 of the 2025 NFL season."
+    },
+    {
+      "id": "5e5a290b7a2317eb",
+      "title": "NFL Week 4 broadcast maps: Will your local station have Saints-Bills?",
+      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/09/24/nfl-week-4-broadcast-maps-saints-bills-channel-time/86329078007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:37:12+0000",
+      "summary": "A lot of people in several major TV markets will get to see the Saints face the Bills this week. See if your local CBS affiliate is carrying the game:"
+    },
+    {
+      "id": "78ac05901281fce2",
+      "title": "Rest-of-Season Trade Value Charts — Justin Boone's fantasy football quarterback breakdown prior to Week 4",
+      "link": "https://sports.yahoo.com/fantasy/article/rest-of-season-trade-value-charts--justin-boones-fantasy-football-quarterback-breakdown-prior-to-week-4-163633932.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:36:33+0000",
+      "summary": "Fantasy football analyst Justin Boone provides his rest-of-season trade values for quarterbacks for Week 4 of the 2025 NFL season."
+    },
+    {
+      "id": "ab83ca8bea081333",
+      "title": "Isaiah Rodgers Named NFC Defensive Player of the Week",
+      "link": "https://dailynorseman.com/minnesota-vikings-2025-season/91087/isaiah-rodgers-named-nfc-defensive-player-of-the-week",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:32:27+0000",
+      "summary": "For the second time in the first three weeks of the 2025 NFL regular season, a member of the Minnesota Vikings has been recognized as a superior performer for the week. Cornerback Isaiah Rodgers, who put together a historic performance in the Vikings’ 48-10 victory over the Cincinnati Bengals on Sunday, has been named the […]"
+    },
+    {
+      "id": "993d55c22d31b379",
+      "title": "Atlanta Falcons Address Michael Penix’s Job Security for Week 4",
+      "link": "https://sportsnaut.com/nfl/atlanta-falcons-starting-michael-penix-week-4/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:28:35+0000",
+      "summary": "The Atlanta Falcons confidently rolled into the 2025 NFL season with Michael Penix Jr. firmly entrenched as the starting quarterback."
+    },
+    {
+      "id": "799c6db5b366ccee",
+      "title": "Derwin James named the AFC defensive player of the week",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/derwin-james-named-the-afc-defensive-player-of-the-week",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:24:25+0000",
+      "summary": "Chargers head coach Jim Harbaugh's contention that Derwin James is the best safety in NFL history will have its detractors, but there's not doubt that he's off on the right foot in 2025."
+    },
+    {
+      "id": "5de65a9c1ebaeaf0",
+      "title": "Colts' Taylor again named AFC Offensive Player of the Week",
+      "link": "https://fox59.com/sports/colts/colts-taylor-again-named-afc-offensive-player-of-the-week/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-24T16:24:21+0000",
+      "summary": "INDIANAPOLIS – It happened again. For the second week in a row, Indianapolis Colts running back Jonathan Taylor is the AFC Offensive Player of the Week. He’s the first Colts player to earn the honor in back-to-back weeks. The last player to accomplish the feat was Buffalo’s Josh Allen, who was AFC Offensive Player of [...]"
+    },
+    {
+      "id": "bf2fa7679a7eb4b5",
+      "title": "NFC West wide receivers surge to the top of NFL leaderboards",
+      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/09/24/the-nfls-elite-wrs-reside-in-the-nfc-west-according-to-leaderboards-for-that-position/86328807007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-24T16:23:29+0000",
+      "summary": "This year, the teams have started with a combined record of 9-3. Defenses are playing well, but the wide receivers are the ones who have surged"
+    },
     {
       "id": "663e4a04fb63c5e0",
       "title": "Colts likely without Alec Pierce, Kenny Moore II at Rams",
@@ -9,15 +90,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-24T16:17:40+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts likely will be without two key players as they attempt to remain unbeaten Sunday against the Los Angeles Rams. Wide receiver Alec Pierce is in the NFL’s concussion protocol, while cornerback Kenny Moore II is dealing with an Achilles injury. Neither will practice on Wednesday. That normally is significant with [...]"
-    },
-    {
-      "id": "3b3110ca879e4604",
-      "title": "Multiple members of Congress have &quot;serious concerns&quot; about NFL-ESPN deal",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-members-of-congress-have-serious-concerns-about-nfl-espn-deal",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-24T16:01:38+0000",
-      "summary": "When it comes to securing governmental approval of their proposed partial merger, the NFL and ESPN have more than one branch to worry about."
     },
     {
       "id": "c5e657f7822dc9d3",
@@ -468,78 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-18T19:45:04+0000",
       "summary": "Warren, who won NFL Rookie of the Week honors for Week 2, returned to practice on Thursday after missing Wednesday with a toe injury."
-    },
-    {
-      "id": "79d567ec51a2fea2",
-      "title": "Ed Sheeran adds Lucas Oil Stadium to North American leg of worldwide \"Loop Tour\"",
-      "link": "https://colts.com/news/ed-sheeran-adds-lucas-oil-stadium-to-north-american-leg-of-worldwide-loop-tour",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T19:22:00+0000",
-      "summary": "Colts season ticket member presale begins Thursday, September 25. General on-sale starting Friday, September 26."
-    },
-    {
-      "id": "d79064c260e4ee86",
-      "title": "The Colts Show Mailbag: Red zone offense, pressuring opposing quarterbacks, first road game of 2025",
-      "link": "https://colts.com/news/the-colts-show-mailbag-red-zone-offense-pressuring-opposing-quarterbacks-first-road-game-of-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T18:34:48+0000",
-      "summary": "The Colts Show Mailbag returns for Week 3 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
-    },
-    {
-      "id": "6c6f930c7998a338",
-      "title": "Colts Blue Zone Podcast 425: Colts Hit the Road Against Titans",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-425-colts-hit-the-road-against-titans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-18T18:29:20+0000",
-      "summary": "The 2-0 Indianapolis Colts play their first road game of the season against AFC South foe Tennessee. Dave Griffiths, Mike Chappell and Matt Adams preview the game in the latest edition of the Colts Blue Zone Podcast. They'll look at the wild finish against Denver, discuss Jonathan Taylor's huge game and take a closer look [...]"
-    },
-    {
-      "id": "2f8874594c77e1d0",
-      "title": "Colts' offense thriving on early downs, but eyeing improvements in red zone",
-      "link": "https://colts.com/news/colts-offense-thriving-on-early-downs-but-eyeing-improvements-in-red-zone",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T17:53:12+0000",
-      "summary": "The Colts have been one of the NFL's best offenses to begin the 2025 season largely because of their success on first and second down; that success, though, has come with a recognition that this group collectively needs to be better at scoring touchdowns in the red zone."
-    },
-    {
-      "id": "182dbce3c14cdc6a",
-      "title": "Colts TE Tyler Warren wins Week 2 NFL Rookie of the Week",
-      "link": "https://colts.com/news/colts-te-tyler-warren-wins-week-2-nfl-rookie-of-the-week",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T16:30:34+0000",
-      "summary": "Warren continued a torrid start to his NFL career with four catches for 79 yards in the Colts' 29-28 win over the Denver Broncos in Week 2."
-    },
-    {
-      "id": "23116db2d133dd16",
-      "title": "Former Colts Pro Bowl tight end Jack Doyle on Jonathan Taylor: 'Jonathan's a stud'",
-      "link": "https://colts.com/news/former-colts-pro-bowl-tight-end-jack-doyle-jonathan-taylor-pass-protection-daniel-jones-podcast",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T14:02:06+0000",
-      "summary": "Voice of the Colts Matt Taylor and two-time Colts Pro Bowl tight end Jack Doyle discussed Jonathan Taylor's stellar performance against the Denver Broncos, the running back's relationship with Daniel Jones and much more on this week's episode of The Jack Doyle Show"
-    },
-    {
-      "id": "6b0216b0a7f7ace8",
-      "title": "Colts on fire to start 2025 regular season. Bring the family & celebrate together!",
-      "link": "https://colts.com/news/colts-2025-family-four-pack-deal-titans-texans-jaguars-tickets",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T10:00:12+0000",
-      "summary": "Colts team roll out annual Family Four Pack deal, presented by QDOBA Mexican Eats"
-    },
-    {
-      "id": "810d49254d0f4ded",
-      "title": "Good things happening as Daniel Jones once again paired with elite RB (Jonathan Taylor)",
-      "link": "https://fox59.com/sports/colts/good-things-happening-as-daniel-jones-once-again-paired-with-elite-rb-jonathan-taylor/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-17T21:50:20+0000",
-      "summary": "INDIANAPOLIS – It’s been just two games, but the cause and effect is undeniable. Give Daniel Jones a viable and vibrant run game, and all things are possible. “It makes a tremendous impact, a running back like that who can hit the big one, hit the home run, who can make it happen late in [...]"
     }
   ],
   "links": [
