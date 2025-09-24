@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-24T18:24:10+00:00",
+  "updated": "2025-09-24T18:45:31+00:00",
   "items": [
     {
       "id": "6121ff828bdf8653",
@@ -9,15 +9,6 @@
       "feed": "ESPN",
       "published": "2025-09-24T18:40:37+0000",
       "summary": "At 3-0, the Colts are favored to win the AFC South after entering the season as underdogs to reach the playoffs."
-    },
-    {
-      "id": "60d9a13122fb3957",
-      "title": "Colts' Shane Steichen with latest injury updates on Kenny Moore, Alec Pierce",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/24/colts-injury-updates-latest-kenny-moore-alec-pierce/86331266007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-24T18:10:36+0000",
-      "summary": "Before Wednesday's Week 4 practice, Colts' HC Shane Steichen provided the latest injury updates on Kenny Moore and Alec Pierce."
     },
     {
       "id": "d77ecb70e2dcd850",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-09-17T21:50:20+0000",
       "summary": "INDIANAPOLIS – It’s been just two games, but the cause and effect is undeniable. Give Daniel Jones a viable and vibrant run game, and all things are possible. “It makes a tremendous impact, a running back like that who can hit the big one, hit the home run, who can make it happen late in [...]"
+    },
+    {
+      "id": "e94eeae3917d5580",
+      "title": "How Colts QB Daniel Jones is handling near-historic level of blitzes to begin 2025 season",
+      "link": "https://colts.com/news/how-colts-qb-daniel-jones-is-handling-near-historic-level-of-blitzes-to-begin-2025-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-17T20:48:26+0000",
+      "summary": "Jones has been blitzed on 50 dropbacks over his first two games, per Pro Football Focus, which isn't just the highest total in the NFL this season – it's the highest total to begin a season in over a decade."
     }
   ],
   "links": [
