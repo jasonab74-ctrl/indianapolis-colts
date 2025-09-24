@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-24T04:20:51+00:00",
+  "updated": "2025-09-24T04:42:14+00:00",
   "items": [
     {
       "id": "d49e3536cbca1fd8",
@@ -18,15 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-24T04:00:00+0000",
       "summary": "We follow X so you don’t have to"
-    },
-    {
-      "id": "4a92003a04fd7dbd",
-      "title": "Former NFL and college star Rudi Johnson dead at 45",
-      "link": "https://cnn.com/2025/09/23/sport/football-nfl-rudi-johnson-dead",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-24T03:31:02+0000",
-      "summary": "Rudi Johnson, an eight-year NFL player and star running back at Auburn University in 2000, has died, according to the Miami-Dade Sheriff’s Office in Florida. He was 45 years old."
     },
     {
       "id": "100ff04162efa41d",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-09-17T16:36:29+0000",
       "summary": "INDIANAPOLIS – Jonathan Taylor’s latest breakout game caught the attention of the league office. The Indianapolis Colts’ veteran running back has been named AFC Offensive Player of the Week on the strength of his performance in Sunday’s 29-28 win over Denver. Taylor rushed 25 times for 165 yards and added 50 yards and a touchdown [...]"
+    },
+    {
+      "id": "71b10ad5bae3ed3e",
+      "title": "Colts RB Jonathan Taylor named AFC Offensive Player of the Week for Week 2",
+      "link": "https://colts.com/news/jonathan-taylor-afc-offensive-player-colts-week-2-denver-broncos-rushing-receiving-touchdown-stats",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-17T16:00:00+0000",
+      "summary": "Taylor had 25 carries for 165 yards, and two receptions for 50 yards and a touchdown in the Colts' win over the Denver Broncos."
     }
   ],
   "links": [
