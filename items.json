@@ -1,42 +1,6 @@
 {
-  "updated": "2025-09-25T10:19:00+00:00",
+  "updated": "2025-09-25T10:42:22+00:00",
   "items": [
-    {
-      "id": "a883c812894c5ec8",
-      "title": "Chiefs Wire Podcast Interview Series: New Orleans Saints legend Drew Brees",
-      "link": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2025/09/25/kansas-city-chiefs-wire-podcast-interview-series-neworleans-saints-legend-drew-brees/86268477007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-25T10:00:48+0000",
-      "summary": "Chiefs Wire Podcast Interview Series: @EdEastonJr chats with NFL Icon and New Orleans Saints legend Drew Brees"
-    },
-    {
-      "id": "b429982349557e05",
-      "title": "NFL Week 4 picks: Ravens triumph over Chiefs; Rams defeat Colts",
-      "link": "https://sports.yahoo.com/article/nfl-week-4-picks-ravens-100000040.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-25T10:00:00+0000",
-      "summary": "Sam Farmer makes his picks and predictions for NFL Week 4, with the Ravens defeating the Chiefs, the Rams beating the Colts and the Eagles going to 4-0."
-    },
-    {
-      "id": "6bf70e791b674c20",
-      "title": "Let’s talk Steelers: Who has the best shot at the NFL’s 2026 Hall of Fame class",
-      "link": "https://behindthesteelcurtain.com/pittsburgh-steelers-commentary/159268/steelers-2026-hall-of-fame-class-nfl-hines-ward-maurkice-pouncey-james-harrison-news",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-25T10:00:00+0000",
-      "summary": "The NFL’s 2026 Hall of Fame class modern-era nominees are here. As always, it’s a lengthy list (128 names) that will be substantially cut down in coming months, but it’s still newsworthy. Eight former Steelers made the initial cut: kicker Gary Anderson, guard David DeCastro, linebacker James Farrior, outside linebacker James Harrison, defensive back Carnell […]"
-    },
-    {
-      "id": "bdc5bacaf50f92b3",
-      "title": "Should Browns fans give Andrew Berry more credit?",
-      "link": "https://dawgsbynature.com/browns-community-discussion-rumors-news-draft-free-agency-games/104943/browns-andrew-berry-2025-nfl-draft-class",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-25T10:00:00+0000",
-      "summary": "Andrew Berry has been a controversial GM during his time with Browns, but this NFL draft class is some of his best work"
-    },
     {
       "id": "a7ea848e1bdd0d9b",
       "title": "Colts, Lou Anarumo’s D preparing for Matthew Stafford, Rams’ offense",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2025-09-19T11:54:44+0000",
       "summary": "The Indianapolis Colts are one of the NFL's biggest surprises after starting the season 2-0. Matt Taylor, radio voice of the Colts, joined FOX59 Morning News to discuss the team's hot start ahead of their first road game against AFC South foe Tennessee."
+    },
+    {
+      "id": "e1cf1ebcc06d7496",
+      "title": "No punts in 2 games? It’s a first for Rigoberto Sanchez and just second time for Colts",
+      "link": "https://fox59.com/sports/colts/no-punts-in-2-games-its-a-first-for-rigoberto-sanchez-and-just-second-time-for-colts/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-18T22:30:04+0000",
+      "summary": "INDIANAPOLIS – It’s what you call a statistical anomaly. Or. “Wild,’’ offered Rigoberto Sanchez. “Wild. Crazy.’’ He’s the Indianapolis Colts veteran punter whose name doesn’t appear in the NFL stats. Two games. Zero punts. “Never happened before,’’ Sanchez said. Not at California’s Hamilton High School. Or at Hawaii. Or in his first 113 games with [...]"
+    },
+    {
+      "id": "982b4400e1f645b3",
+      "title": "Through the first two weeks of his rookie NFL season, Tyler Warren is continuing to show he's one of one",
+      "link": "https://colts.com/news/tyler-warren-colts-nfl-rookie-of-the-week-jonathan-taylor-shane-steichen-practice-notebook",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-18T19:45:04+0000",
+      "summary": "Warren, who won NFL Rookie of the Week honors for Week 2, returned to practice on Thursday after missing Wednesday with a toe injury."
+    },
+    {
+      "id": "79d567ec51a2fea2",
+      "title": "Ed Sheeran adds Lucas Oil Stadium to North American leg of worldwide \"Loop Tour\"",
+      "link": "https://colts.com/news/ed-sheeran-adds-lucas-oil-stadium-to-north-american-leg-of-worldwide-loop-tour",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-18T19:22:00+0000",
+      "summary": "Colts season ticket member presale begins Thursday, September 25. General on-sale starting Friday, September 26."
+    },
+    {
+      "id": "d79064c260e4ee86",
+      "title": "The Colts Show Mailbag: Red zone offense, pressuring opposing quarterbacks, first road game of 2025",
+      "link": "https://colts.com/news/the-colts-show-mailbag-red-zone-offense-pressuring-opposing-quarterbacks-first-road-game-of-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-18T18:34:48+0000",
+      "summary": "The Colts Show Mailbag returns for Week 3 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
     }
   ],
   "links": [
