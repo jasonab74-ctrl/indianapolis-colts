@@ -1,14 +1,41 @@
 {
-  "updated": "2025-09-25T11:37:27+00:00",
+  "updated": "2025-09-25T12:38:02+00:00",
   "items": [
     {
+      "id": "358e39d718759f89",
+      "title": "The Playbook: Lineup locks, Shadow Reports for Week 4",
+      "link": "https://espn.com/fantasy/football/story/_/id/46356700/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-4-shadow-reports-mike-clay",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-25T12:56:32+0000",
+      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
+    },
+    {
+      "id": "28fd32579178523b",
+      "title": "With six NFL teams at 0-3, which one needs a win most? Our experts weigh in",
+      "link": "https://espn.com/nfl/story/_/id/46346508/which-0-3-team-needs-win-most-texans-titans-jets-dolphins-saints-giants",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-25T12:36:22+0000",
+      "summary": "The Giants are going with Jaxson Dart at QB as history shows the difference between 1-3 and 0-4 is drastic for playoff hopes."
+    },
+    {
       "id": "3f87752d5bcbe5fd",
-      "title": "Which major NFL trades look better -- worse -- in hindsight? Barnwell's fresh takes on 23 recent swaps",
+      "title": "Which major NFL trades look better -- or worse -- in hindsight? Barnwell's fresh takes on 23 recent swaps",
       "link": "https://espn.com/nfl/story/_/id/46356119/nfl-trades-2022-2023-barnwell-russell-wilson-deshaun-watson-tyreek-hill-aaron-rodgers",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-09-25T12:16:28+0000",
       "summary": "In March 2022, Seattle traded away Russell Wilson, altering the franchise's path. Let's reevaluate that move, plus 22 others from 2022-23."
+    },
+    {
+      "id": "190a499797ff4065",
+      "title": "Coaches outmaneuver NFL's defenses with court ruling on arbitration",
+      "link": "https://espn.com/nfl/story/_/id/46357807/nfl-gruden-flores-roger-goodell-arbitration",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-25T12:00:00+0000",
+      "summary": "Process that leaves Goodell as both defendant and final arbiter draws sharp critique from judges."
     },
     {
       "id": "a7ea848e1bdd0d9b",
@@ -144,24 +171,6 @@
       "feed": "ESPN",
       "published": "2025-09-24T13:41:38+0000",
       "summary": "We stacked every NFL team ahead of Week 4. Who jumped up our 1-32 list? Plus, let's pick out the biggest defensive concerns for each roster."
-    },
-    {
-      "id": "b83cfb984acdc384",
-      "title": "Lingering Bills questions amid historic run on turnover margin",
-      "link": "https://espn.com/nfl/story/_/id/46347813/buffalo-bills-lingering-questions-historic-turnover-margin-week-3",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-24T13:17:42+0000",
-      "summary": "The Bills have not lost the turnover margin for 25 straight games, an NFL record."
-    },
-    {
-      "id": "19259ab61a4e7bb7",
-      "title": "Brad Holmes rebuilt the Lions -- now he's eyeing NFL front offices",
-      "link": "https://espn.com/nfl/story/_/id/46357830/detroit-lions-nfl-brad-holmes-inspiring-change-super-bowl-playoffs-gm-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-24T13:16:58+0000",
-      "summary": "One of six Black GMs in the NFL, Holmes has helped inspire a franchise and a new generation of executives."
     },
     {
       "id": "3abef2b43b68c8ca",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-18T19:22:00+0000",
       "summary": "Colts season ticket member presale begins Thursday, September 25. General on-sale starting Friday, September 26."
-    },
-    {
-      "id": "d79064c260e4ee86",
-      "title": "The Colts Show Mailbag: Red zone offense, pressuring opposing quarterbacks, first road game of 2025",
-      "link": "https://colts.com/news/the-colts-show-mailbag-red-zone-offense-pressuring-opposing-quarterbacks-first-road-game-of-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-18T18:34:48+0000",
-      "summary": "The Colts Show Mailbag returns for Week 3 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
     }
   ],
   "links": [
