@@ -1,6 +1,33 @@
 {
-  "updated": "2025-09-26T17:38:26+00:00",
+  "updated": "2025-09-26T18:23:03+00:00",
   "items": [
+    {
+      "id": "d39cdef25076e6e7",
+      "title": "NFL headquarters shooter diagnosed with CTE",
+      "link": "https://espn.com/nfl/story/_/id/46389050/gunman-nfl-headquarters-shooting-diagnosed-cte",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-26T19:11:10+0000",
+      "summary": "Shane Tamura, the man who killed four people and then himself in a July shooting at NFL headquarters, was posthumously diagnosed with chronic traumatic encephalopathy, according to a statement from the New York City Officer of the Chief Medical Examiner."
+    },
+    {
+      "id": "49ad1cdb30dfe203",
+      "title": "Roger Goodell: A London team remains &quot;possible&quot;",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-a-london-team-remains-possible",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-26T18:01:15+0000",
+      "summary": "Every year, the launch of the NFL's European slate renews talk of the potential placement of a team in another country."
+    },
+    {
+      "id": "868373d9ab79937c",
+      "title": "Updated NFL Quarterback Rankings",
+      "link": "https://windycitygridiron.com/chicago-bears-power-rankings/99386/updated-nfl-quarterback-rankings",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-26T18:00:00+0000",
+      "summary": "Over the summer, we ranked the NFL’s quarterbacks, here’s an updated look at those rankings after three games."
+    },
     {
       "id": "7fe22625c39fbbdf",
       "title": "Colts @Rams Week 4: Players to watch",
@@ -9,60 +36,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-26T17:30:00+0000",
       "summary": "This is a new series where I will pick a few underrated Colts’ players that could end up being key contributors to the outcome of the game. Keep in mind that this is not going to be the typical Colts’ players to watch, we all know that you always have to keep an eye on [&#8230;]"
-    },
-    {
-      "id": "cfc0840321a42c1c",
-      "title": "Alec Pierce injury update: Will Colts' wide receiver play vs. Rams in Week 4?",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/26/colts-injury-update-alec-pierce-play-week-4-rams/86371037007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-26T17:24:57+0000",
-      "summary": "Will Indianapolis Colts' WR Alec Pierce play in Week 4 vs. the Rams? Here's the latest injury update."
-    },
-    {
-      "id": "3d5e9a3b15b41bdf",
-      "title": "NFL Week 4 betting advice: Eagles-Bucs pick and props",
-      "link": "https://bleedinggreennation.com/philadelphia-eagles-odds/159650/nfl-week-4-betting-advice-eagles-bucs-pick-and-props",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-26T17:23:00+0000",
-      "summary": "Are you betting on the Birds?"
-    },
-    {
-      "id": "7b92aadbacb0d46d",
-      "title": "NFL to play 3 regular-season games over 5 years in Rio de Janeiro beginning in 2026",
-      "link": "https://sports.yahoo.com/article/nfl-play-3-regular-season-171825105.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-26T17:18:25+0000",
-      "summary": "The NFL will play three regular-season games over five years in Rio de Janeiro beginning in 2026.  The league announced the multiyear commitment Friday as part of its ongoing plan to take international games to new cities around the world.  The NFL already has played twice in Brazil — Green Bay and Philadelphia in 2024; Kansas City and the Los Angeles Chargers in Week 1 this season — at Corinthians Arena in Sao Paulo."
-    },
-    {
-      "id": "7d95c9039bfdf4fd",
-      "title": "Ready for the O'Griddy? Justin Jefferson wants to put on a show in Ireland",
-      "link": "https://sports.yahoo.com/article/ready-ogriddy-justin-jefferson-wants-171358192.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-26T17:13:58+0000",
-      "summary": "Justin Jefferson has something special planned for Dublin when the Vikings face the Steelers at Croke Park.  It's the first time Ireland is hosting a regular-season NFL game, so the Minnesota wide receiver wants to make it memorable with a new twist to his touchdown dance."
-    },
-    {
-      "id": "fb66610e7dd8b5c3",
-      "title": "Kenny Moore injury update: Will Colts' cornerback play vs. Rams in Week 4?",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/26/colts-injury-updates-kenny-moore-play-week-4-rams/86370916007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-26T17:13:46+0000",
-      "summary": "Will Colts' CB Kenny Moore play in Week 4 vs. the Rams? Here's the latest injury update."
-    },
-    {
-      "id": "1ad43050dc8c9f6a",
-      "title": "Undefeated Colts get bad injury news for talented WR before Rams clash",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/undefeated-colts-bad-injury-news-wr-rams/e7efc8878a97bd54c1ab9d59",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-26T17:10:17+0000",
-      "summary": "This isn't ideal for Indianapolis."
     },
     {
       "id": "dc59fb6e4ae8bbfb",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-09-21T16:31:51+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic goes \"Sideline to Sideline\" with the Colts asking one question. This week Chris asks the players what they're favorite NFL city or stadium is as they play their first road game of the year in Tennessee."
+    },
+    {
+      "id": "7a8eef1317d5b1ec",
+      "title": "Keys to the Game: Colts at Titans",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-titans-2/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-21T16:31:20+0000",
+      "summary": "INDIANAPOLIS - The Colts aim to go 3-0 to start the season as they play their first road and divisional game when they visit the Tennessee Titans. IndyStar Colts' insider has his keys to the game to keep the Titans winless."
+    },
+    {
+      "id": "e04c1113d074df40",
+      "title": "Colts announce 5 inactive players for Week 3 game vs. Tennessee Titans",
+      "link": "https://colts.com/news/colts-announce-5-inactive-players-for-week-3-game-vs-tennessee-titans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T15:30:42+0000",
+      "summary": "No Colts players were ruled out due to injury for Sunday's game against the Titans at Nissan Stadium."
+    },
+    {
+      "id": "0511b69b6b8b639e",
+      "title": "How to watch the Indianapolis Colts at Tennessee Titans on September 21, 2025",
+      "link": "https://colts.com/news/how-to-watch-colts-at-titans-week-3-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T12:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Tennessee Titans on Sunday, September 21 at 1:00 p.m. ET (Week 3)."
     }
   ],
   "links": [
