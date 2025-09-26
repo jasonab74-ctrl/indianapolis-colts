@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-26T15:18:28+00:00",
+  "updated": "2025-09-26T15:39:20+00:00",
   "items": [
+    {
+      "id": "db884b2d876331c8",
+      "title": "2025 NFL Dublin Game: Top scenes from Vikings-Steelers in Ireland",
+      "link": "https://espn.com/nfl/story/_/id/46286927/nfl-dublin-scenes-minnesota-vikings-pittsburgh-steelers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-26T15:55:34+0000",
+      "summary": "The NFL went international in Week 4. Here's how Minnesota and Pittsburgh made the trip worth remembering in Dublin."
+    },
     {
       "id": "3d4f12d3a7b339b0",
       "title": "Week 4 betting guide: Picks, props and why the Bears can keep it close",
@@ -8,25 +17,34 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-09-26T15:29:12+0000",
-      "summary": "Our experts dive into the betting tips, lines, and player props that offer the best value for NFL Week 4."
+      "summary": "Our experts dive into the betting tips, lines and player props that offer the best value for NFL Week 4."
     },
     {
-      "id": "fbd11646966289c0",
-      "title": "Micah Parsons makes anticipated return to Dallas on Sunday Night Football",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/09/26/packers-micah-parsons-makes-his-first-return-to-dallas-on-sunday-night-football/86361958007/",
+      "id": "f16bdb10fabb9b0c",
+      "title": "Bills are on special but jinxable streak as long as any in the NFL since 1933",
+      "link": "https://sportingnews.com/us/nfl/buffalo-bills/news/bills-special-jinxable-streak-long-nfl-1933/8d3f51bd38ab3817a27020bd",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-26T15:03:33+0000",
-      "summary": "In his first four seasons with the Cowboys, Parsons would rank fifth in the NFL with 52.5 sacks and tackles for a loss with 64"
+      "published": "2025-09-26T15:18:59+0000",
+      "summary": "Buffalo is on a roll."
+    },
+    {
+      "id": "fb926b213e5ccd93",
+      "title": "NFL draft expert Todd McShay calls Dante Moore 'the best passer' in college football",
+      "link": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2025/09/26/nfl-draft-expert-todd-mcshay-high-praise-ducks-qb-dante-moore/86362313007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-26T15:16:14+0000",
+      "summary": "In an appearance on The Bill Simmons Podcast, NFL draft expert Todd McShay spoke on Oregon QB Dante Moore, heaping high praise on the Ducks passer."
     },
     {
       "id": "862b46576a7220a1",
       "title": "The Colts are hot, who deserves the most credit?",
       "link": "https://stampedeblue.com/analysis/115344/the-colts-are-hot-who-deserves-the-most-credit",
       "source": "Stampede Blue",
-      "feed": "Yahoo Sports",
+      "feed": "Stampede Blue",
       "published": "2025-09-26T15:00:14+0000",
-      "summary": "There are many that deserve credit for the Colts 3 - 0 start. Who should get the most acknowledgement?"
+      "summary": "You can tell that things with the Indianapolis Colts are looking up, when you see multiple comments about not caring about a loss this week with the caveat, &#8220;as long as we look good.” That’s much better than “I hope we lose to get a better draft pick.” There have been some changes, but a [&#8230;]"
     },
     {
       "id": "b6ff235b3c88399d",
@@ -308,15 +326,6 @@
       "summary": "INDIANAPOLIS – Seven Indianapolis Colts, including several franchise icons, are among the 128 Modern-Era candidates for the Pro Football Hall of Fame’s Class of 2026. At the top of the list, which was released Wednesday morning, are wide receiver Reggie Wayne and placekicker Adam Vinatieri, and they’re joined by two other long-time club standouts: defensive end Robert Mathis and center Jeff Saturday. [...]"
     },
     {
-      "id": "3acd10bce40ecc73",
-      "title": "Week 3 Film Breakdown",
-      "link": "https://stampedeblue.com/colts-film-analysis/115143/week-3-film-breakdown",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-24T12:53:49+0000",
-      "summary": "The Colts can’t stop winning and won’t stop scoring. Even if you were quite optimistic about this team, like myself, there’s just no way you could have predicted this type of start. Let’s breakdown some of the key plays that led to Sunday’s dominant win. Let’s start with this video game-ish run from Jonathan Taylor. [&#8230;]"
-    },
-    {
       "id": "737b273d53cf95eb",
       "title": "How to watch the Indianapolis Colts at Los Angeles Rams on September 28, 2025",
       "link": "https://colts.com/news/how-to-watch-colts-at-rams-week-4-2025",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-20T15:54:59+0000",
       "summary": "Ward (concussion) and Warren (toe) were listed as questionable on Friday's practice report."
-    },
-    {
-      "id": "b4aaec52de7e220c",
-      "title": "Colts relatively healthy heading into AFC South matchup at Titans",
-      "link": "https://fox59.com/sports/colts/colts-relatively-healthy-heading-into-afc-south-matchup-at-titans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-19T20:36:57+0000",
-      "summary": "INDIANAPOLIS – As they dive into divisional competition and seek their first 3-0 start since 2009, the Indianapolis Colts appear to have one thing in their favor. Their health. Yes, knock on wood. With Sunday’s AFC South test against the Tennessee Titans in Nashville looming, Shane Steichen offered an encouraging injury update. “No one is [...]"
     }
   ],
   "links": [
