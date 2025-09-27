@@ -1,6 +1,15 @@
 {
-  "updated": "2025-09-27T21:14:18+00:00",
+  "updated": "2025-09-27T21:36:38+00:00",
   "items": [
+    {
+      "id": "fb4bda4a00cf510d",
+      "title": "Son of former Houston Texans owner suing NFL for $60 million for 'silencing him'",
+      "link": "https://usatoday.com/story/sports/nfl/2025/09/27/houston-texans-owner-cary-mcnair-nfl-lawsuit/86394407007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-27T21:18:12+0000",
+      "summary": "When Houston Texans owner Bob McNair died in 2018, ownership transferred within the family. Here's why one of his sons is now suing the NFL."
+    },
     {
       "id": "f953e04f9ca9ed2c",
       "title": "Colts at Rams: What to watch for",
@@ -45,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-09-27T12:07:45+0000",
       "summary": "Steve Spagnuolo is one of the most decorated coordinators in NFL history. Here's how he has done it."
-    },
-    {
-      "id": "80e26c048d48c068",
-      "title": "What to make of Daniel Jones’s early success with the Colts",
-      "link": "https://stampedeblue.com/indianapolis-colts-roster/115348/indianapolis-colts-daniel-jones-anthony-richardson-trade",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-27T11:30:00+0000",
-      "summary": "The Indianapolis Colts have been one of the best teams in the NFL to start the season, with free-agent signee Daniel Jones being one of the most surprising revelations so far in 2025. Jones, who primarily spent the 2024 season as a backup with the Minnesota Vikings after getting released by the New York Giants, [&#8230;]"
     },
     {
       "id": "4e379dbe06771fe9",
@@ -335,6 +335,15 @@
       "summary": "Neither Pierce (concussion) nor Moore (Achilles) participated in Wednesday's practice."
     },
     {
+      "id": "a91ac31b9112354c",
+      "title": "Week 3 Colts Offensive Rankings and Analysis",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115269/week-3-colts-offensive-rankings-and-analysis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-24T19:46:21+0000",
+      "summary": "Each week during the season, I will be walking through the data from the previous Colts game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference Season Stats. Thanks to Pro Football Reference, NFL.com, Pro Football [&#8230;]"
+    },
+    {
       "id": "5de65a9c1ebaeaf0",
       "title": "Colts' Taylor again named AFC Offensive Player of the Week",
       "link": "https://fox59.com/sports/colts/colts-taylor-again-named-afc-offensive-player-of-the-week/",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-21T20:01:46+0000",
       "summary": "The Colts blew out the Tennessee Titans, 41-20, on Sunday at Nissan Stadium to improve to 3-0 on the 2025 season."
-    },
-    {
-      "id": "2d70f32e75157e1c",
-      "title": "Sideline to Sideline: Favorite NFL Stadiums",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-nfl-stadiums/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-21T16:31:51+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic goes \"Sideline to Sideline\" with the Colts asking one question. This week Chris asks the players what they're favorite NFL city or stadium is as they play their first road game of the year in Tennessee."
     }
   ],
   "links": [
