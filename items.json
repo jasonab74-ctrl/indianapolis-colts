@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T15:15:39+00:00",
+  "updated": "2025-09-27T15:36:27+00:00",
   "items": [
     {
       "id": "10089de4bfaa50f2",
@@ -11,31 +11,13 @@
       "summary": "NFL commissioner Roger Goodell says teams have embraced the global expansion of the sport, and he reiterated his goal to play 16 international games per season."
     },
     {
-      "id": "456238268d6d4f79",
-      "title": "Roger Goodell: NFL wants 16 international games, with every team playing one per year",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-nfl-wants-16-international-games-with-every-team-playing-one-per-year",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-27T15:03:32+0000",
-      "summary": "&quot;We are serious about being a global sport,&quot; Goodell said Saturday."
-    },
-    {
-      "id": "8ea4a149e8c61461",
-      "title": "NFL expert picks for Panthers vs. Patriots in Week 4",
-      "link": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2025/09/27/nfl-expert-picks-week-4-panthers-patriots/86361648007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-27T15:00:19+0000",
-      "summary": "Who are the experts picking to come out on top in Week 4's matchup between the Panthers Patriots?"
-    },
-    {
-      "id": "961832a2f84c2fce",
-      "title": "NFL eyes Asia as next destination and Goodell says 'no doubt' on Dublin return",
-      "link": "https://sports.yahoo.com/article/nfl-eyes-asia-next-destination-145928393.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-27T14:59:28+0000",
-      "summary": "The NFL wants to expand its slate of international games to Asia, Commissioner Roger Goodell said Saturday without specifying any countries.  Goodell’s comment at an event in Dublin could indicate the league is ready to stage a game in the Middle East and it comes a day after announcing that Rio de Janeiro will join the list of international hosts in 2026.  The Pittsburgh Steelers and Minnesota Vikings play in Ireland's first regular-season game — and Goodell said he has no doubt there will be more in Dublin."
+      "id": "d4e8992aa0bb73d9",
+      "title": "Colts elevate CB Mike Hilton, G Josh Sills to active roster from practice squad for Week 4",
+      "link": "https://colts.com/news/colts-elevate-cb-mike-hilton-g-josh-sills-to-active-roster-from-practice-squad-for-week-4",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-27T15:28:25+0000",
+      "summary": "The Colts made the roster moves on Saturday."
     },
     {
       "id": "a9dfa2d262a096bb",
@@ -54,6 +36,15 @@
       "feed": "ESPN",
       "published": "2025-09-27T12:07:45+0000",
       "summary": "Steve Spagnuolo is one of the most decorated coordinators in NFL history. Here's how he has done it."
+    },
+    {
+      "id": "80e26c048d48c068",
+      "title": "What to make of Daniel Jones’s early success with the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-roster/115348/indianapolis-colts-daniel-jones-anthony-richardson-trade",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-27T11:30:00+0000",
+      "summary": "The Indianapolis Colts have been one of the best teams in the NFL to start the season, with free-agent signee Daniel Jones being one of the most surprising revelations so far in 2025. Jones, who primarily spent the 2024 season as a backup with the Minnesota Vikings after getting released by the New York Giants, [&#8230;]"
     },
     {
       "id": "4e379dbe06771fe9",
@@ -353,15 +344,6 @@
       "summary": "Neither Pierce (concussion) nor Moore (Achilles) participated in Wednesday's practice."
     },
     {
-      "id": "a91ac31b9112354c",
-      "title": "Week 3 Colts Offensive Rankings and Analysis",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115269/week-3-colts-offensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-24T19:46:21+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous Colts game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference Season Stats. Thanks to Pro Football Reference, NFL.com, Pro Football [&#8230;]"
-    },
-    {
       "id": "5de65a9c1ebaeaf0",
       "title": "Colts' Taylor again named AFC Offensive Player of the Week",
       "link": "https://fox59.com/sports/colts/colts-taylor-again-named-afc-offensive-player-of-the-week/",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-21T22:06:56+0000",
       "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
+    },
+    {
+      "id": "3db46d0c81f4391c",
+      "title": "Colts dominate Titans, 41-20, to improve to 3-0",
+      "link": "https://fox59.com/sports/colts/colts-dominate-titans-41-20-to-improve-to-3-0/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-21T20:04:04+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead three plays into their AFC South matchup with the Tennessee Titans in Nashville on Sunday afternoon and never looked back, winning 41-20 and improving to 3-0 to start the season. Defensive back Kenny Moore II intercepted Titans' rookie quarterback Cam Ward on the third play from scrimmage [...]"
+    },
+    {
+      "id": "d44350a7025b49d8",
+      "title": "Jonathan Taylor, Colts roll past Titans; improve to 3-0 for first time since 2009",
+      "link": "https://colts.com/news/jonathan-taylor-colts-roll-past-titans-improve-to-3-0-for-first-time-since-2009",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T20:01:46+0000",
+      "summary": "The Colts blew out the Tennessee Titans, 41-20, on Sunday at Nissan Stadium to improve to 3-0 on the 2025 season."
     }
   ],
   "links": [
