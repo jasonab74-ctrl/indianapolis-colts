@@ -1,6 +1,24 @@
 {
-  "updated": "2025-09-28T13:20:34+00:00",
+  "updated": "2025-09-28T13:37:43+00:00",
   "items": [
+    {
+      "id": "759b965b30452e87",
+      "title": "Broadcast maps for Week 4 of 2025 NFL regular season",
+      "link": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2025/09/28/broadcast-maps-for-week-4-of-2025-nfl-season/86404885007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T13:22:36+0000",
+      "summary": "Want to know what games will be on in your area? We can help."
+    },
+    {
+      "id": "1a496cec52c6494b",
+      "title": "Report: Pittsburgh Steelers backup QB Skylar Thompson robbed before game in Ireland",
+      "link": "https://usatoday.com/story/sports/nfl/steelers/2025/09/28/skylar-thompson-robbed-dublin-ireland-steelers/86404509007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T13:21:00+0000",
+      "summary": "Pittsburgh Steelers backup QB Skylar Thompson was robbed in Ireland prior to the team's game against the Vikings, the NFL Network reported."
+    },
     {
       "id": "3e04fff57d958862",
       "title": "The Windy City Wonder: Caleb Williams is already a Fantasy Football Superstar",
@@ -29,24 +47,6 @@
       "summary": "The Steelers are in Dublin to play the first regular-season NFL game in Ireland against the Minnesota Vikings."
     },
     {
-      "id": "c2bd1d5cfa51a155",
-      "title": "Broadcast maps for Week 4 of 2025 NFL regular season",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/09/28/broadcast-maps-for-week-4-of-2025-nfl-season/86404494007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T13:05:04+0000",
-      "summary": "Want to know what games will be on in your area? We can help."
-    },
-    {
-      "id": "b6cffe4983ba5279",
-      "title": "ESPN reviews 2 Broncos trades, including an 'easy' win and a 'massive' loss",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/28/broncos-espn-reviews-russell-wilson-bradley-chubb-trades/86349235007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T13:00:50+0000",
-      "summary": "Two Denver Broncos trades made Bill Barnwell's review of recent NFL dealings."
-    },
-    {
       "id": "737b273d53cf95eb",
       "title": "How to watch the Indianapolis Colts at Los Angeles Rams on September 28, 2025",
       "link": "https://colts.com/news/how-to-watch-colts-at-rams-week-4-2025",
@@ -54,15 +54,6 @@
       "feed": "Colts.com",
       "published": "2025-09-28T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Rams on Sunday, September 28 at 4:05 p.m. ET (Week 4)."
-    },
-    {
-      "id": "4562b5bceff30c30",
-      "title": "Colts at Rams: Where to Watch, Stream, and More",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115410/colts-at-rams-where-to-watch-stream-and-more",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-28T11:00:00+0000",
-      "summary": "The currently undefeated Indianapolis Colts (3-0) travel to Los Angeles to take on the Rams (2-1)(-3.5) looking to keep their impressive early season win streak alive and well. This Sunday late afternoon matchup kicks off at 4 PM EST, and Colts fans will be able to tune in locally on FOX, as well as stream [&#8230;]"
     },
     {
       "id": "3f788313b66ab999",
@@ -81,6 +72,15 @@
       "feed": "Stampede Blue",
       "published": "2025-09-28T01:02:03+0000",
       "summary": "The Indianapolis Colts announced on Saturday that backup cornerback Mike Hilton and offensive guard Josh Sills have been elevated to the active roster ahead of Sunday’s road game against the Los Angeles Rams. With veteran slot corner Kenny Moore II (Achilles) projected to be out a few weeks, the Colts signed veteran slot cornerback Mike [&#8230;]"
+    },
+    {
+      "id": "db884b2d876331c8",
+      "title": "Vikings-Steelers in Dublin: Live updates and top moments",
+      "link": "https://espn.com/nfl/story/_/id/46286927/nfl-dublin-scenes-minnesota-vikings-pittsburgh-steelers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-27T21:35:23+0000",
+      "summary": "The NFL went international in Week 4. Here's how Minnesota and Pittsburgh made the trip worth remembering in Dublin."
     },
     {
       "id": "f953e04f9ca9ed2c",
@@ -191,15 +191,6 @@
       "summary": "Pierce (concussion), Moore (Achilles) and Goncalves (toe) did not participate in practice this week."
     },
     {
-      "id": "db884b2d876331c8",
-      "title": "2025 NFL Dublin Game: Top scenes from Vikings-Steelers in Ireland",
-      "link": "https://espn.com/nfl/story/_/id/46286927/nfl-dublin-scenes-minnesota-vikings-pittsburgh-steelers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-26T15:55:34+0000",
-      "summary": "The NFL went international in Week 4. Here's how Minnesota and Pittsburgh made the trip worth remembering in Dublin."
-    },
-    {
       "id": "3d4f12d3a7b339b0",
       "title": "Week 4 betting guide: Picks, props and why the Bears can keep it close",
       "link": "https://espn.com/espn/betting/story/_/id/46355544/week-4-nfl-odds-spreads-lines-props-best-bets-sunday-football-games",
@@ -281,15 +272,6 @@
       "summary": "The&#160;Indianapolis Colts&#160;today released their Thursday injury report for Week 4 of the NFL season ahead of their Sunday game against the Los Angeles Rams. Defensive tackle DeForest Buckner returned to practice today on a limited basis after missing practice yesterday with a back injury. Buckner being limited today almost guarantees he will play Sunday as [&#8230;]"
     },
     {
-      "id": "2a89628c7a0ef28f",
-      "title": "Rivalry uniforms for Cardinals, Dolphins top NFL Week 4 threads",
-      "link": "https://espn.com/nfl/story/_/id/46360308/nfl-2025-week-4-uniforms",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-25T20:42:41+0000",
-      "summary": "The NFL's Rivalry uniform series officially takes the field this week with the Cardinals and Dolphins."
-    },
-    {
       "id": "80ebc03431df1511",
       "title": "Tyler Warren's versatility is allowing Shane Steichen to be unpredictable with Colts' first-round tight end",
       "link": "https://colts.com/news/tyler-warren-s-versatility-is-allowing-shane-steichen-to-be-unpredictable-with-colts-first-round-tight-end",
@@ -297,6 +279,15 @@
       "feed": "Colts.com",
       "published": "2025-09-25T20:36:55+0000",
       "summary": "Tyler Warren has had a hand in two 40+ yard plays while lined up at fullback this season – with those two plays requiring vastly different things from the 2025 first-round pick."
+    },
+    {
+      "id": "a533fec30da4a154",
+      "title": "Indianapolis Colts Injury Report: 5 Starters DNP Wednesday",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/24480840/indianapolis-colts-injury-report-5-starters-dnp-wednesday",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-25T20:00:28+0000",
+      "summary": "The&#160;Indianapolis Colts&#160;today released their Wednesday injury report for Week 4 of the NFL season ahead of their Sunday game against the Los Angeles Rams. Defensive tackle Deforest Buckner missed practice today with a back injury. Buckner has been a constant along the defensive line for the Colts and a consistent defensive playmaker since joining the [&#8230;]"
     },
     {
       "id": "cfbf7a86eee92249",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-21T22:53:39+0000",
       "summary": "Jonathan Taylor rushed for three touchdowns in the Colts' 41-20 win over the Tennessee Titans in Week 3, and his 338 rushing yards over the first three games of 2025 broke a franchise record set by Eric Dickerson 38 years ago."
+    },
+    {
+      "id": "47925025cf593564",
+      "title": "NFL Week 3 is full of trap games; that the Colts didn't just avoid one, but blew out the Titans, might say a lot about this team",
+      "link": "https://colts.com/news/trap-game-week-3-tennessee-titans-packers-browns-nfl-blowout-win",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T22:11:21+0000",
+      "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
     }
   ],
   "links": [
