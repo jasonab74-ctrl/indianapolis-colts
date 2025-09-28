@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T14:35:50+00:00",
+  "updated": "2025-09-28T15:15:16+00:00",
   "items": [
     {
       "id": "655eb20937192253",
@@ -8,52 +8,34 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-09-28T15:02:29+0000",
-      "summary": "The Vikings are facing the Steelers in Ireland, Sunday morning."
+      "summary": "null"
     },
     {
-      "id": "87e60ed28e703afe",
-      "title": "Jayden Wade, No. 1 2028 prospect, achieves perfect passer rating",
-      "link": "https://on3.com/high-school/news/jayden-wade-no-1-2028-prospect-achieves-perfect-passer-rating/",
-      "source": "Yahoo Sports",
+      "id": "8cffd4e1bfe14ce3",
+      "title": "Indianapolis Colts safety Cam Bynum says Los Angeles Rams stadium has bad turf, fake crowd noise",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/28/colts-safety-cam-bynum-rams-fake-crowd-noise-sofi-stadium-bad-turf-lucas-oil-stadium/86405205007/",
+      "source": "IndyStar",
       "feed": "Yahoo Sports",
-      "published": "2025-09-28T14:18:54+0000",
-      "summary": "Reaching a NFL QBR passer rating of 158.3 is the ultimate bar for any quarterback when it comes to an individual achievement. It’s essentially perfection when playing behind center for any signal caller and IMG Academy 2028 four-star quarterback Jayden Wade pulled it off on Friday night. In leading the Ascenders to a 49-14 rout […]"
+      "published": "2025-09-28T14:58:54+0000",
+      "summary": "Safety Cam Bynum has several reasons to dislike SoFi Stadium, where the Indianapolis Colts play the Los Angeles Rams."
     },
     {
-      "id": "af5e6ace89c773ae",
-      "title": "Against the Titans, can C.J. Stroud regain his groove?",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/against-the-titans-can-c-j-stroud-regain-his-groove",
+      "id": "6b0681391c90e56c",
+      "title": "Seahawks May Trade Pro Bowler Riq Woolen Before Deadline",
+      "link": "https://sportsnaut.com/nfl/seahawks-trade-rumor-riq-woolen/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-28T14:18:04+0000",
-      "summary": "The Texans found their way out of chronic dysfunction for a pair of AFC South crowns and consecutive finishes in the NFL's final eight."
+      "published": "2025-09-28T14:48:53+0000",
+      "summary": "A new NFL rumor suggests the Seattle Seahawks could soon trade a homegrown former Pro Bowler. &#8220;With Seahawks star CB"
     },
     {
-      "id": "adb9820f4e99e7eb",
-      "title": "NFL hands out fines for Week 3 infractions: Who got burned",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/09/28/the-nfl-hands-out-fines-for-infractions-during-week-3-who-got-slapped-this-time/86399631007/",
+      "id": "5208653901f2c207",
+      "title": "Dolphins' struggling defense hoping for improved physicality in Monday night matchup with Jets",
+      "link": "https://sports.yahoo.com/article/dolphins-struggling-defense-hoping-improved-144658178.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-09-28T14:02:15+0000",
-      "summary": "The 49ers learned on Saturday that their star linebacker, Fred Warner, was facing a hefty fine for his actions during the Week 3 win against the Cards"
-    },
-    {
-      "id": "a6fb95bed2ef1150",
-      "title": "WCG Sunday Livestream: NFL Week 4 – Chicago Bears vs Las Vegas Raiders",
-      "link": "https://windycitygridiron.com/chicago-bears-podcasts-videos/99497/wcg-sunday-livestream-nfl-week-4-chicago-bears-vs-las-vegas-raiders",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T14:01:47+0000",
-      "summary": "After a thoroughly satisfying win against the Cowboys, the Bears look to keep it going against the Raiders."
-    },
-    {
-      "id": "7d318fd4b7b20695",
-      "title": "Broncos vs. Bengals: Video preview and expert game picks",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/09/28/broncos-vs-bengals-preview-expert-game-picks/86356092007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T14:00:39+0000",
-      "summary": "Most NFL experts are picking the Broncos to beat the Bengals on Monday."
+      "published": "2025-09-28T14:46:58+0000",
+      "summary": "Miami Dolphins defensive coordinator Anthony Weaver gave a passionate answer when asked about where his unit has gone wrong this season.  The Dolphins have allowed 30-plus points in each of the first three games, are last in the NFL in scoring defense and are one of only three teams in the league without a turnover.  “I’m old school,” Weaver said."
     },
     {
       "id": "737b273d53cf95eb",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-21T22:11:21+0000",
       "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
+    },
+    {
+      "id": "f54758f24f753b98",
+      "title": "'Lightning in a bottle:' How Kenny Moore II's pick-six set tone in Colts' emphatic win over Titans",
+      "link": "https://colts.com/news/lightning-in-a-bottle-kenny-moore-pick-six-colts-cornerback-win-week-3-tennessee-titans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T22:06:56+0000",
+      "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
+    },
+    {
+      "id": "3db46d0c81f4391c",
+      "title": "Colts dominate Titans, 41-20, to improve to 3-0",
+      "link": "https://fox59.com/sports/colts/colts-dominate-titans-41-20-to-improve-to-3-0/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-21T20:04:04+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead three plays into their AFC South matchup with the Tennessee Titans in Nashville on Sunday afternoon and never looked back, winning 41-20 and improving to 3-0 to start the season. Defensive back Kenny Moore II intercepted Titans' rookie quarterback Cam Ward on the third play from scrimmage [...]"
     }
   ],
   "links": [
