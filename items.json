@@ -1,14 +1,23 @@
 {
-  "updated": "2025-09-28T23:15:07+00:00",
+  "updated": "2025-09-28T23:36:49+00:00",
   "items": [
     {
-      "id": "889887202b7257ac",
-      "title": "Vikings' patchwork OL suffers two more losses",
-      "link": "https://espn.com/nfl/story/_/id/46411306/vikings-brian-oneill-ryan-kelly-injured-steelers",
+      "id": "de92e99c0fa084d2",
+      "title": "Dart rewards Daboll's faith with win in first start",
+      "link": "https://espn.com/nfl/story/_/id/46415078/giants-dart-rewards-daboll-faith-win-first-nfl-start",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-29T00:07:59+0000",
-      "summary": "Vikings center Ryan Kelly did not play in the second half Sunday because of a concussion, his second this season and at least the fifth of his NFL career, and right tackle Brian O'Neill departed with a knee injury."
+      "published": "2025-09-29T00:32:04+0000",
+      "summary": "Jaxson Dart impressed in his first NFL start, throwing for a touchdown and running for another to help deliver the Giants their first win this season."
+    },
+    {
+      "id": "dce655733d35fab2",
+      "title": "Best, worst of NFL Week 4: Rams end Colts' hot start, plus Patriots win big over Panthers",
+      "link": "https://espn.com/nfl/story/_/id/46358628/nfl-week-4-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-09-29T00:25:11+0000",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 4."
     },
     {
       "id": "91816e6d1e0eaebe",
@@ -20,6 +29,96 @@
       "summary": "The New York Giants celebrated their first win of the season by trolling the Los Angeles Chargers."
     },
     {
+      "id": "44b6ede42e9ff6c2",
+      "title": "Colts' Week 4 Player of the Game: TE Tyler Warren",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/28/colts-week-4-player-game-rams-tyler-warren/86409510007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:27:55+0000",
+      "summary": "Following another impressive performance, Colts' rookie TE Tyler Warren is the team's Week 4 Player of the Game."
+    },
+    {
+      "id": "14e282df6ff97883",
+      "title": "Colts give up go-ahead 88-yard TD with 10 men on the field, cap loss to Rams with Daniel Jones INT",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/colts-give-up-go-ahead-88-yard-td-with-10-men-on-the-field-cap-loss-to-rams-with-daniel-jones-int-232349332.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:23:49+0000",
+      "summary": "What a terrible way to lose a football game."
+    },
+    {
+      "id": "c0683219975100c0",
+      "title": "Indianapolis Colts vs L.A. Rams match player stats: How did Matthew Stafford, Puka Nacua, Daniel Jones, Jonathan Taylor play?",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/28/nfl-week-4-match-player-stats-how-did-daniel-jones-jonathan-taylor-puka-nacua-matthew-stafford/86351655007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:22:57+0000",
+      "summary": "The Indianapolis Colts played the Los Angeles Rams in NFL Week 4 action. Here's the breakdown: Stats, scoring plays, team stats."
+    },
+    {
+      "id": "a4c7025856483555",
+      "title": "Thoughts on the mistake-filled Colts' 27-20 loss to the Rams, including Adonai Mitchell",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/09/28/colts-loss-rams-xavien-howard-adonai-mitchell-fumble-interceptions/86286555007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:20:58+0000",
+      "summary": "AD Mitchell fumbled while celebrating at the goal line, Xavien Howard was burned again and an 88-yard touchown"
+    },
+    {
+      "id": "94a9e8822353388a",
+      "title": "Puka Nacua is the first month MVP",
+      "link": "https://turfshowtimes.com/los-angeles-rams-news/127369/puka-nacua-rams-mvp-nfl-leaders",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:20:17+0000",
+      "summary": "A wide receiver has never won the NFL MVP award and that’s not going to change this year, but Puka Nacua has been the most valuable player for any team in September and that was proven once again on Sunday during the Rams’ 27-20 win over the Colts. Nacua caught 13 passes for 170 yards, […]"
+    },
+    {
+      "id": "941867e0dbbc3a10",
+      "title": "5 takeaways from Rams win over Colts in Week 4",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/28/rams-vs-colts-5-takeaways-from-week-4-win/86411297007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:17:45+0000",
+      "summary": "The Los Angeles Rams pulled off a big win in Week 4 over the previously unbeaten Indianapolis Colts."
+    },
+    {
+      "id": "aa59cbec37619e96",
+      "title": "Tutu Atwell makes a late 88-yard TD catch, and Rams rally past Colts 27-20 after Mitchell's fumble",
+      "link": "https://sports.yahoo.com/article/tutu-atwell-makes-88-yard-231704286.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:17:04+0000",
+      "summary": "Tutu Atwell caught an 88-yard touchdown pass from Matthew Stafford with 1:33 to play, and the Los Angeles Rams rallied to end the Indianapolis Colts' unbeaten start to the season with a 27-20 victory Sunday.  Daniel Jones passed for 262 yards for the Colts (3-1), but Indy couldn’t overcome receiver Adonai Mitchell’s mind-boggling fumble right before he crossed the goal line with what was about to be a 76-yard touchdown reception in the third quarter.  The Colts also had a 53-yard rushing TD by Jonathan Taylor taken off the board by a holding call on Mitchell with 2:15 to play."
+    },
+    {
+      "id": "62a06d55bd4bc41d",
+      "title": "NFL teams still undefeated: Bills move to 4-0, Eagles hand Buccaneers first loss to stay perfect",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-undefeated-perfect-teams/20a5dd7e26b17388e1590cda",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:15:00+0000",
+      "summary": "The group of teams to stay perfect through four weeks of action is down to two."
+    },
+    {
+      "id": "03d5e2a541e49bf4",
+      "title": "Instant analysis of Colts' Week 4 performance vs. LA Rams",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/28/colts-rams-instant-analysis-week-4-performance/86410401007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:14:43+0000",
+      "summary": "Here is our instant analysis of the Colts' Week 4 performance against the LA Rams."
+    },
+    {
+      "id": "59a9689aee50051b",
+      "title": "Bills' James Cook sends scary message to NFL after 4-0 start",
+      "link": "https://sportingnews.com/us/nfl/buffalo-bills/news/bills-james-cook-sends-scary-message-nfl-after-4-0-start/1e8701274bffad6f7e694cb5",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T23:13:22+0000",
+      "summary": "Cook has a message, folks."
+    },
+    {
       "id": "47127b42771c3415",
       "title": "Colts lose to Rams, 27-20, drop to 3-1 on the season",
       "link": "https://fox59.com/news/colts-lose-to-rams-27-20-drop-to-3-1-on-the-season/",
@@ -27,15 +126,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-28T23:05:14+0000",
       "summary": "LOS ANGELES — Mistakes doomed the Colts on Sunday at SoFi Stadium. Indianapolis lost to the Los Angeles Rams, 27-20, and fell short of securing their first 4-0 start to a season since 2009. Miscues from wide receiver Adonai Mitchell negated two Colts touchdowns on the contest. The first of the errors came 11:32 left [...]"
-    },
-    {
-      "id": "1683114d0b3b7826",
-      "title": "Rams-Colts final score post: Tutu Atwell silences critics",
-      "link": "https://turfshowtimes.com/los-angeles-rams-scores-results/127359/rams-colts-final-score-week-4",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T23:03:53+0000",
-      "summary": "Puka Nacua and the Los Angeles Rams found a way to win on Sunday"
     },
     {
       "id": "50e15d0cc609504c",
@@ -47,24 +137,6 @@
       "summary": "The Colts fell to 3-1 on the season with Sunday's defeat at SoFi Stadium."
     },
     {
-      "id": "4bc124cdb4a76368",
-      "title": "Watch: Tutu Atwell burns Colts defense for 88-yard go-ahead TD",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/28/rams-tutu-atwell-colts-touchdown-highlight/86411369007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T23:00:16+0000",
-      "summary": "Tutu Atwell made the biggest play of the game, catching an 88-yard touchdown from Matthew Stafford."
-    },
-    {
-      "id": "2cd06cf028931605",
-      "title": "Adonai Mitchell fumble, explained: How WR cost Colts a touchdown by celebrating too early vs. Rams",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/adonai-mitchell-fumble-colts-touchdown-rams/cd0da5dece23a72e57c597c5",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-28T22:50:06+0000",
-      "summary": "A brilliant play turned into humiliation for Colts second-year WR Adonai Mitchell on Sunday."
-    },
-    {
       "id": "4d9053561480ae99",
       "title": "NFL draft risers, questions and notes: What scouts are saying about Drew Allar",
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
@@ -72,15 +144,6 @@
       "feed": "ESPN",
       "published": "2025-09-28T21:18:16+0000",
       "summary": "What is Drew Allar's current draft stock? Which Ohio State prospect stood out the most Saturday? We have updates on NFL prospects through CFB Week 5."
-    },
-    {
-      "id": "dce655733d35fab2",
-      "title": "What to make of NFL Week 4, including Patriots' big win over Panthers: Our reporters break down every game",
-      "link": "https://espn.com/nfl/story/_/id/46358628/nfl-week-4-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-28T21:18:07+0000",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 4."
     },
     {
       "id": "0be1cced0d8134aa",
@@ -477,69 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-22T14:03:35+0000",
       "summary": "The Colts are the first team to punt only once in the first three games of an NFL season since at least 1940."
-    },
-    {
-      "id": "ae1624e9d28185d6",
-      "title": "Colts Blue Zone Podcast 426: Colts Now 3-0 After Dominant Win Over Titans",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-426-colts-now-3-0-after-dominant-win-over-titans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-22T13:38:01+0000",
-      "summary": "The Indianapolis Colts improved to 3-0 after a dominant road win against the Tennessee Titans. Matt Adams looks at notable developments from the game, including Kenny Moore's return TD, Jonathan Taylor's backbreaking run and Daniel Jones' continued elevated play. Find the Colts Blue Zone on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "4218f8d9156d69e4",
-      "title": "Michael Pittman Jr. on Colts’ 3-0 start: ‘We thought we were this team'",
-      "link": "https://fox59.com/sports/colts/michael-pittman-jr-on-colts-3-0-start-we-thought-we-were-this-team/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-22T00:07:13+0000",
-      "summary": "INDIANAPOLIS — It was business as usual Sunday in Nashville, Tennessee. Except for, that is, Anthony Richardson Sr. taking meaningful snaps for the first time this season and Rigoberto Sanchez finally launching a punt that’s in the official box score. “It was a helluva punt,’’ Shane Steichen said of Sanchez’s first punt after 19 consecutive [...]"
-    },
-    {
-      "id": "8b5abc1823706c8d",
-      "title": "'There's nobody else playing like him:' Jonathan Taylor continues punishing start to 2025 in Colts' win over Titans",
-      "link": "https://colts.com/news/there-s-nobody-else-playing-like-him-jonathan-taylor-continues-punishing-start-to-2025-in-colts-win-over-titans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-21T22:53:39+0000",
-      "summary": "Jonathan Taylor rushed for three touchdowns in the Colts' 41-20 win over the Tennessee Titans in Week 3, and his 338 rushing yards over the first three games of 2025 broke a franchise record set by Eric Dickerson 38 years ago."
-    },
-    {
-      "id": "47925025cf593564",
-      "title": "NFL Week 3 is full of trap games; that the Colts didn't just avoid one, but blew out the Titans, might say a lot about this team",
-      "link": "https://colts.com/news/trap-game-week-3-tennessee-titans-packers-browns-nfl-blowout-win",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-21T22:11:21+0000",
-      "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
-    },
-    {
-      "id": "f54758f24f753b98",
-      "title": "'Lightning in a bottle:' How Kenny Moore II's pick-six set tone in Colts' emphatic win over Titans",
-      "link": "https://colts.com/news/lightning-in-a-bottle-kenny-moore-pick-six-colts-cornerback-win-week-3-tennessee-titans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-21T22:06:56+0000",
-      "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
-    },
-    {
-      "id": "3db46d0c81f4391c",
-      "title": "Colts dominate Titans, 41-20, to improve to 3-0",
-      "link": "https://fox59.com/sports/colts/colts-dominate-titans-41-20-to-improve-to-3-0/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-21T20:04:04+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead three plays into their AFC South matchup with the Tennessee Titans in Nashville on Sunday afternoon and never looked back, winning 41-20 and improving to 3-0 to start the season. Defensive back Kenny Moore II intercepted Titans' rookie quarterback Cam Ward on the third play from scrimmage [...]"
-    },
-    {
-      "id": "d44350a7025b49d8",
-      "title": "Jonathan Taylor, Colts roll past Titans; improve to 3-0 for first time since 2009",
-      "link": "https://colts.com/news/jonathan-taylor-colts-roll-past-titans-improve-to-3-0-for-first-time-since-2009",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-21T20:01:46+0000",
-      "summary": "The Colts blew out the Tennessee Titans, 41-20, on Sunday at Nissan Stadium to improve to 3-0 on the 2025 season."
     }
   ],
   "links": [
