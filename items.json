@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T05:16:18+00:00",
+  "updated": "2025-09-28T05:38:39+00:00",
   "items": [
     {
       "id": "737b273d53cf95eb",
@@ -9,6 +9,15 @@
       "feed": "Colts.com",
       "published": "2025-09-28T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Rams on Sunday, September 28 at 4:05 p.m. ET (Week 4)."
+    },
+    {
+      "id": "e00c21caacbfec20",
+      "title": "Who plays on 'Sunday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 4 game",
+      "link": "https://sportingnews.com/us/nfl/news/sunday-night-football-time-channel-schedule-stream-nfl-week-4/807f8d15fd18b6689e7c870f",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-28T05:13:23+0000",
+      "summary": "It's a homecoming for Micah Parsons on Sunday Night Football, as the Packers edge rusher returns to Dallas. Here's how you can watch the game."
     },
     {
       "id": "3f788313b66ab999",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-21T20:01:46+0000",
       "summary": "The Colts blew out the Tennessee Titans, 41-20, on Sunday at Nissan Stadium to improve to 3-0 on the 2025 season."
-    },
-    {
-      "id": "2d70f32e75157e1c",
-      "title": "Sideline to Sideline: Favorite NFL Stadiums",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-nfl-stadiums/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-21T16:31:51+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic goes \"Sideline to Sideline\" with the Colts asking one question. This week Chris asks the players what they're favorite NFL city or stadium is as they play their first road game of the year in Tennessee."
     }
   ],
   "links": [
