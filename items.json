@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T16:18:24+00:00",
+  "updated": "2025-09-29T16:39:11+00:00",
   "items": [
     {
       "id": "dce655733d35fab2",
@@ -20,6 +20,15 @@
       "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4. Which players have changed teams?"
     },
     {
+      "id": "ea21e1e9bc82223e",
+      "title": "Eagles have plenty of ugly play, worse statistics to clean up even as Super Bowl champs sit at 4-0",
+      "link": "https://sports.yahoo.com/article/eagles-plenty-ugly-play-worse-162824956.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T16:28:24+0000",
+      "summary": "Kyle Schwarber had one question as the National League home run champion addressed a jam-packed Phillies crowd that came to celebrate a division crown and get pumped for Red October.  Was that a rhetorical question?  The Eagles won again — for the 20th time in their last 21 games to the delight of Schwarber and all Philadelphia sports fans — even as their road to victory in Tampa Bay that gave them a 4-0 start was one of the ugliest of late for one of four undefeated teams in the NFL."
+    },
+    {
       "id": "0fa07dca79d7bcc8",
       "title": "Colts WR Mitchell on blown TD, fumble: 'It stings'",
       "link": "https://espn.com/nfl/story/_/id/46416799/colts-wr-adonai-mitchell-blown-td-fumble-stings",
@@ -29,6 +38,33 @@
       "summary": "Colts young WR Adonai Mitchell took ownership of a pair of costly mistakes in Indianapolis' first loss of the season."
     },
     {
+      "id": "a1827dc27331c504",
+      "title": "ESPN analyst slams Shedeur Sanders as 'embarrassment' who 'runs his mouth' with no NFL starts",
+      "link": "https://sportingnews.com/us/ncaa-football/colorado/news/espn-analyst-slams-shedeur-sanders-embarrassment-who-runs-his-mouth-no-nfl-starts/2e2d94a1dfa4a264f0d52f3c",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T16:21:12+0000",
+      "summary": "There is buzz building for &quot;Grown&quot; to start in Cleveland."
+    },
+    {
+      "id": "866c0dc4347b4a3a",
+      "title": "Ravens' defense in disarray with NFL-high 133 points allowed through four games",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-defense-in-disarray-with-nfl-high-133-points-allowed-through-four-games",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T16:16:55+0000",
+      "summary": "For most of their franchise history, the Baltimore Ravens have been known for having an elite defense."
+    },
+    {
+      "id": "ee5d8af8f98decb9",
+      "title": "Good, bad and ugly from Colts' Week 4 loss vs. Rams",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/29/colts-rams-good-bad-ugly-week-4-loss/86420865007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T16:14:28+0000",
+      "summary": "Here is the good, bad, and ugly from the Colts' Week 4 loss against the 49ers."
+    },
+    {
       "id": "73c30903339472f1",
       "title": "Around the AFC South: Titans fall to 0-4 with loss to Texans, Jaguars take down 49ers",
       "link": "https://colts.com/news/around-the-afc-south-titans-lose-texans-cj-stroud-cam-ward-jaguars-49ers-liam-coen",
@@ -36,33 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-09-29T16:11:38+0000",
       "summary": "The Colts and Jaguars are tied atop the AFC South, both at 3-1."
-    },
-    {
-      "id": "50b781759bc60a5e",
-      "title": "Utah ties in the NFL: What NFL experts said about Jaxson Dart’s first start",
-      "link": "https://deseret.com/sports/2025/09/29/utah-ties-nfl-2025-what-experts-said-about-jaxson-dart-first-start/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T16:01:27+0000",
-      "summary": "The former Corner Canyon and Roy quarterback was victorious in his first NFL start with the Giants."
-    },
-    {
-      "id": "f851d2be5c820b61",
-      "title": "NFL Power Rankings Week 5: The Chargers? Cursed. Packers? Bizarre.",
-      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/09/29/nfl-power-rankings-week-5-chargers-packers-bills-eagles/86418469007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T16:01:21+0000",
-      "summary": "The Packers are a random event generator. Which is better than being the Chargers, who perpetually land on whatever event crushes their hopes hardest."
-    },
-    {
-      "id": "aad302cae51d1260",
-      "title": "PFF Grades: Emmanuel Forbes is the weak link of Rams defense",
-      "link": "https://turfshowtimes.com/los-angeles-rams-scores-results/127506/pff-grades-emmanuel-forbes-is-the-weak-link-of-rams-defense",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T16:00:00+0000",
-      "summary": "Jared Verse and Puka Nacua dominated versus Colts. Emmanuel Forbes is an issue."
     },
     {
       "id": "339d5d602666253a",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-22T14:03:35+0000",
       "summary": "The Colts are the first team to punt only once in the first three games of an NFL season since at least 1940."
-    },
-    {
-      "id": "ae1624e9d28185d6",
-      "title": "Colts Blue Zone Podcast 426: Colts Now 3-0 After Dominant Win Over Titans",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-426-colts-now-3-0-after-dominant-win-over-titans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-22T13:38:01+0000",
-      "summary": "The Indianapolis Colts improved to 3-0 after a dominant road win against the Tennessee Titans. Matt Adams looks at notable developments from the game, including Kenny Moore's return TD, Jonathan Taylor's backbreaking run and Daniel Jones' continued elevated play. Find the Colts Blue Zone on YouTube, Apple Podcasts or Spotify."
     }
   ],
   "links": [
