@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T03:36:06+00:00",
+  "updated": "2025-09-29T04:22:16+00:00",
   "items": [
     {
       "id": "0fa07dca79d7bcc8",
@@ -7,8 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/46416799/colts-wr-adonai-mitchell-blown-td-fumble-stings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-29T04:12:19+0000",
+      "published": "2025-09-29T05:06:56+0000",
       "summary": "Colts young WR Adonai Mitchell took ownership of a pair of costly mistakes in Indianapolis' first loss of the season."
+    },
+    {
+      "id": "a77148db4c37a3f8",
+      "title": "Cowboys-Packers reach new NFL overtime rules on Sunday Night Football",
+      "link": "https://sportingnews.com/us/nfl/dallas-cowboys/news/cowboys-packers-new-nfl-overtime-rules-sunday-night-football/1221a09f80b01c0b8a688719",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T03:47:40+0000",
+      "summary": "It's the second OT game of the season."
     },
     {
       "id": "dc2a15c6d6294248",
@@ -27,15 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-29T03:04:56+0000",
       "summary": "The Cleveland Browns could trade Shedeur Sanders during his rookie season, especially if they plan on aiming for a quarterback in the 2026 NFL Draft. Due to Sanders' current status as Cleveland's third-string quarterback, the former Colorado football star may have the highest likelihood of being traded."
-    },
-    {
-      "id": "f2117e99d4cdd06c",
-      "title": "Puka Nacua is off to a historic start to the season. Will he rewrite the NFL record books again?",
-      "link": "https://deseret.com/sports/2025/09/28/puka-nacua-leads-nfl-receptions-receiving-yards-2025-season/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T02:52:32+0000",
-      "summary": "Nacua had 13 receptions and a career-high 170 receiving yards in helping the Rams hand the Colts their first loss of the 2025 season."
     },
     {
       "id": "a4bbc61007dc6353",
@@ -99,15 +99,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-29T00:10:06+0000",
       "summary": "The promising bid for a statement road win unraveled in the second half as the Indianapolis Colts were stunned by the Los Angeles Rams in Sunday’s 27-20 loss at SoFi Stadium. The Colts fell apart once again in perhaps the worst team performance since the late 2024 season collapse at Mile High and the Meadowlands. [&#8230;]"
-    },
-    {
-      "id": "91816e6d1e0eaebe",
-      "title": "'Low power mode': Giants poke fun at Chargers, leading NFL Week 4 trolls",
-      "link": "https://espn.com/nfl/story/_/id/46414105/nfl-week-4-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-28T23:40:39+0000",
-      "summary": "The New York Giants celebrated their first win of the season by trolling the Los Angeles Chargers."
     },
     {
       "id": "83e947b1f89019f7",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-09-21T22:11:21+0000",
       "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
+    },
+    {
+      "id": "f54758f24f753b98",
+      "title": "'Lightning in a bottle:' How Kenny Moore II's pick-six set tone in Colts' emphatic win over Titans",
+      "link": "https://colts.com/news/lightning-in-a-bottle-kenny-moore-pick-six-colts-cornerback-win-week-3-tennessee-titans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T22:06:56+0000",
+      "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
     }
   ],
   "links": [
