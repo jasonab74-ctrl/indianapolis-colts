@@ -1,15 +1,6 @@
 {
-  "updated": "2025-09-29T10:43:44+00:00",
+  "updated": "2025-09-29T11:15:17+00:00",
   "items": [
-    {
-      "id": "47e04827ff3bd35b",
-      "title": "NFL power rankings: Rams, Steelers and Chiefs bump up; Ravens, 49ers fade for Week 5",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-rams-steelers-chiefs-ravens-49ers/d3b05d73650f97ea8872b8b3",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T10:20:00+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 4 of the 2025 NFL regular season? Here's an updated look from best to worst."
-    },
     {
       "id": "0fa07dca79d7bcc8",
       "title": "Colts WR Mitchell on blown TD, fumble: 'It stings'",
@@ -36,15 +27,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-29T03:13:26+0000",
       "summary": "INDIANAPOLIS — It was a typical NFL game, this one involving 154 plays. “One play doesn’t define any ballgame,’’ insisted quarterback Daniel Jones Sunday evening at SoFi Stadium in Inglewood, California. But a few of those plays were more consequential than others and were unquestionably defining as Jones and his Indianapolis Colts saw their 3-0 [...]"
-    },
-    {
-      "id": "a4bbc61007dc6353",
-      "title": "Multiple AD Mitchell Mishaps Loom Large in Loss to Rams",
-      "link": "https://stampedeblue.com/analysis/115464/multiple-ad-mitchell-mishaps-loom-largest-in-loss-to-rams",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-29T02:24:32+0000",
-      "summary": "The Indianapolis Colts had just retaken the lead late in the form of an electric, 76-yard touchdown reception from Daniel Jones to AD Mitchell, except they didn’t. They actually turned the ball over, and it wasn’t anything the Los Angeles Rams defense did. Unfortunately for Colts fans, this is far too familiar a mishap. AD [&#8230;]"
     },
     {
       "id": "f4c03fee5c2a908b",
@@ -216,6 +198,15 @@
       "feed": "Colts.com",
       "published": "2025-09-27T15:28:25+0000",
       "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "80e26c048d48c068",
+      "title": "What to make of Daniel Jones’s early success with the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-roster/115348/indianapolis-colts-daniel-jones-anthony-richardson-trade",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-27T11:30:00+0000",
+      "summary": "The Indianapolis Colts have been one of the best teams in the NFL to start the season, with free-agent signee Daniel Jones being one of the most surprising revelations so far in 2025. Jones, who primarily spent the 2024 season as a backup with the Minnesota Vikings after getting released by the New York Giants, [&#8230;]"
     },
     {
       "id": "41d12d0d4c19497d",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-09-21T20:04:04+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead three plays into their AFC South matchup with the Tennessee Titans in Nashville on Sunday afternoon and never looked back, winning 41-20 and improving to 3-0 to start the season. Defensive back Kenny Moore II intercepted Titans' rookie quarterback Cam Ward on the third play from scrimmage [...]"
+    },
+    {
+      "id": "d44350a7025b49d8",
+      "title": "Jonathan Taylor, Colts roll past Titans; improve to 3-0 for first time since 2009",
+      "link": "https://colts.com/news/jonathan-taylor-colts-roll-past-titans-improve-to-3-0-for-first-time-since-2009",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T20:01:46+0000",
+      "summary": "The Colts blew out the Tennessee Titans, 41-20, on Sunday at Nissan Stadium to improve to 3-0 on the 2025 season."
     }
   ],
   "links": [
