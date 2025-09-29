@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T02:48:57+00:00",
+  "updated": "2025-09-29T03:36:06+00:00",
   "items": [
     {
       "id": "0fa07dca79d7bcc8",
@@ -7,8 +7,35 @@
       "link": "https://espn.com/nfl/story/_/id/46416799/colts-wr-adonai-mitchell-blown-td-fumble-stings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-09-29T03:44:38+0000",
+      "published": "2025-09-29T04:12:19+0000",
       "summary": "Colts young WR Adonai Mitchell took ownership of a pair of costly mistakes in Indianapolis' first loss of the season."
+    },
+    {
+      "id": "dc2a15c6d6294248",
+      "title": "AD Mitchell’s miscues, Colts’ mistakes played major role in loss to Rams",
+      "link": "https://fox59.com/news/ad-mitchells-miscues-colts-mistakes-played-major-role-in-loss-to-rams/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-29T03:13:26+0000",
+      "summary": "INDIANAPOLIS – It was a typical NFL game, this one involving 154 plays. “One play doesn’t define any ballgame,’’ insisted Daniel Jones Sunday evening at SoFi Stadium in Inglewood, Ca. But a few of those plays were more consequential than others and were unquestionably defining as Jones his Indianapolis Colts saw their 3-0 start interrupted [...]"
+    },
+    {
+      "id": "7966c429faf95e14",
+      "title": "Shedeur Sanders deemed Browns’ most likely QB trade chip, unlikely to start until October 12 earliest",
+      "link": "https://sportingnews.com/us/nfl/cleveland-browns/news/shedeur-sanders-deemed-browns-most-likely-qb-trade-chip-unlikely-start-until-october-12-earliest/5c4658b684af2ba4aaa3cb6b",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T03:04:56+0000",
+      "summary": "The Cleveland Browns could trade Shedeur Sanders during his rookie season, especially if they plan on aiming for a quarterback in the 2026 NFL Draft. Due to Sanders' current status as Cleveland's third-string quarterback, the former Colorado football star may have the highest likelihood of being traded."
+    },
+    {
+      "id": "f2117e99d4cdd06c",
+      "title": "Puka Nacua is off to a historic start to the season. Will he rewrite the NFL record books again?",
+      "link": "https://deseret.com/sports/2025/09/28/puka-nacua-leads-nfl-receptions-receiving-yards-2025-season/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-29T02:52:32+0000",
+      "summary": "Nacua had 13 receptions and a career-high 170 receiving yards in helping the Rams hand the Colts their first loss of the 2025 season."
     },
     {
       "id": "a4bbc61007dc6353",
@@ -18,15 +45,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-29T02:24:32+0000",
       "summary": "The Indianapolis Colts had just retaken the lead late in the form of an electric, 76-yard touchdown reception from Daniel Jones to AD Mitchell, except they didn’t. They actually turned the ball over, and it wasn’t anything the Los Angeles Rams defense did. Unfortunately for Colts fans, this is far too familiar a mishap. AD [&#8230;]"
-    },
-    {
-      "id": "9dfb90b295dfac58",
-      "title": "Ashton Jeanty breaks out with 138 rushing yards, 3 total TDs in Raiders' loss",
-      "link": "https://sports.yahoo.com/article/ashton-jeanty-breaks-138-rushing-021657907.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T02:16:57+0000",
-      "summary": "After an unimpressive first three games of his NFL career, Ashton Jeanty became the playmaker the Raiders thought they were getting when they made him the sixth pick in the NFL draft.  The bruising rookie had 21 carries for 138 yards — including a 64-yard touchdown run — and two TD catches against the Chicago Bears on Sunday.  Unfortunately for Jeanty and Las Vegas, Geno Smith threw three interceptions and Chicago rallied for a 25-24 win."
     },
     {
       "id": "f4c03fee5c2a908b",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-21T22:11:21+0000",
       "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
-    },
-    {
-      "id": "f54758f24f753b98",
-      "title": "'Lightning in a bottle:' How Kenny Moore II's pick-six set tone in Colts' emphatic win over Titans",
-      "link": "https://colts.com/news/lightning-in-a-bottle-kenny-moore-pick-six-colts-cornerback-win-week-3-tennessee-titans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-21T22:06:56+0000",
-      "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
-    },
-    {
-      "id": "3db46d0c81f4391c",
-      "title": "Colts dominate Titans, 41-20, to improve to 3-0",
-      "link": "https://fox59.com/sports/colts/colts-dominate-titans-41-20-to-improve-to-3-0/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-21T20:04:04+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead three plays into their AFC South matchup with the Tennessee Titans in Nashville on Sunday afternoon and never looked back, winning 41-20 and improving to 3-0 to start the season. Defensive back Kenny Moore II intercepted Titans' rookie quarterback Cam Ward on the third play from scrimmage [...]"
     }
   ],
   "links": [
