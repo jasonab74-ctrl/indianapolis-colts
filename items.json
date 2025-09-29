@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T13:28:04+00:00",
+  "updated": "2025-09-29T13:47:01+00:00",
   "items": [
     {
       "id": "0fa07dca79d7bcc8",
@@ -9,33 +9,6 @@
       "feed": "ESPN",
       "published": "2025-09-29T14:24:27+0000",
       "summary": "Colts young WR Adonai Mitchell took ownership of a pair of costly mistakes in Indianapolis' first loss of the season."
-    },
-    {
-      "id": "b46ec439f5ccaf44",
-      "title": "NFC West Recap: 49ers’ first place hold will be decided Thursday against Rams",
-      "link": "https://ninersnation.com/san-francisco-49ers-schedule/150829/nfc-west-recap-49ers-first-place-hold-will-be-decided-thursday-against-rams",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T13:06:00+0000",
-      "summary": "It’s one of those weeks. The 49ers’ loss to the Jaguars and Rams win over Colts makes Thursday night crucial"
-    },
-    {
-      "id": "79dfdfe737357e6d",
-      "title": "Monday Night Football: How to watch the Cincinnati Bengals vs. Denver Broncos NFL game tonight, start time, streaming and more",
-      "link": "https://sports.yahoo.com/nfl/article/monday-night-football-how-to-watch-the-cincinnati-bengals-vs-denver-broncos-nfl-game-tonight-start-time-streaming-and-more-150600014.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T13:05:00+0000",
-      "summary": "How to watch this week's Monday Night Football game between the Bengals and the Broncos."
-    },
-    {
-      "id": "65cedd10f08c0f79",
-      "title": "MNF Same Game Parlay: Jets @ Dolphins",
-      "link": "https://ftnfantasy.com/nfl/mnf-same-game-parlay-jets-dolphins",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-29T13:03:10+0000",
-      "summary": "The NFL is back, and there’s no better way to celebrate than by building a same-game parlay. The problem? Most SGPs are longshots designed to drain your bankroll. Those flashy +1,000,000 tickets look fun, but they almost never cash. The&hellip;"
     },
     {
       "id": "397277a800e7d6cf",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-21T22:11:21+0000",
       "summary": "The Colts preached focus and discipline leading up to Sunday's trip to Nashville to face the Tennessee Titans – and left with a 41-20 thumping of their AFC South rival, improving to 3-0 on the season."
+    },
+    {
+      "id": "f54758f24f753b98",
+      "title": "'Lightning in a bottle:' How Kenny Moore II's pick-six set tone in Colts' emphatic win over Titans",
+      "link": "https://colts.com/news/lightning-in-a-bottle-kenny-moore-pick-six-colts-cornerback-win-week-3-tennessee-titans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T22:06:56+0000",
+      "summary": "The cornerback’s pick-six on Sunday was the fourth of his career."
+    },
+    {
+      "id": "3db46d0c81f4391c",
+      "title": "Colts dominate Titans, 41-20, to improve to 3-0",
+      "link": "https://fox59.com/sports/colts/colts-dominate-titans-41-20-to-improve-to-3-0/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-21T20:04:04+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead three plays into their AFC South matchup with the Tennessee Titans in Nashville on Sunday afternoon and never looked back, winning 41-20 and improving to 3-0 to start the season. Defensive back Kenny Moore II intercepted Titans' rookie quarterback Cam Ward on the third play from scrimmage [...]"
+    },
+    {
+      "id": "d44350a7025b49d8",
+      "title": "Jonathan Taylor, Colts roll past Titans; improve to 3-0 for first time since 2009",
+      "link": "https://colts.com/news/jonathan-taylor-colts-roll-past-titans-improve-to-3-0-for-first-time-since-2009",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-21T20:01:46+0000",
+      "summary": "The Colts blew out the Tennessee Titans, 41-20, on Sunday at Nissan Stadium to improve to 3-0 on the 2025 season."
     }
   ],
   "links": [
