@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-30T04:42:19+00:00",
+  "updated": "2025-09-30T05:17:32+00:00",
   "items": [
     {
       "id": "dce655733d35fab2",
@@ -15,9 +15,9 @@
       "title": "Report: Colts poach practice squad linebacker from Cowboys",
       "link": "https://stampedeblue.com/indianapolis-colts-news/115563/report-colts-poach-practice-squad-linebacker-from-cowboys",
       "source": "Stampede Blue",
-      "feed": "Stampede Blue",
+      "feed": "Yahoo Sports",
       "published": "2025-09-30T04:29:15+0000",
-      "summary": "According to KPRC2’s Aaron Wilson, the Indianapolis Colts are signing linebacker Buddy Johnson off the Dallas Cowboys practice squad: The former 2021 4th round pick of the Pittsburgh Steelers has been well traveled in his early NFL career, having also spent time with the San Francisco 49ers, Houston Texans, Chicago Bears, and most recently, the [&#8230;]"
+      "summary": "According to KPRC2’s Aaron Wilson, the Indianapolis Colts are signing linebacker Buddy Johnson off the Dallas Cowboys practice squad: The former 2021 4th round pick of the Pittsburgh Steelers has been well traveled in his early NFL career, having also spent time with the San Francisco 49ers, Houston Texans, Chicago Bears, and most recently, the […]"
     },
     {
       "id": "8016d3d92e1e528e",
@@ -27,33 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-09-30T04:28:29+0000",
       "summary": "Chicago Bears quarterback Caleb Williams' performance against the Las Vegas Raiders draws an honest message from former NFL star Kurt Warner."
-    },
-    {
-      "id": "45b6fe4e438b0ba3",
-      "title": "ESPN's Ryan Clark says Bengals look like Bishop Sycamore",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/09/30/ryan-clark-says-bengals-look-like-bishop-sycamore/86431988007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T04:02:54+0000",
-      "summary": "ESPN NFL analyst Ryan Clark: &quot;Joe Burrow can't fix this.&quot;"
-    },
-    {
-      "id": "89815c6c6207e8be",
-      "title": "NFL Power Rankings entering Week 5: Bills have a perfect opportunity for elusive Super Bowl",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-5-bills-have-a-perfect-opportunity-for-elusive-super-bowl-035926761.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T03:59:26+0000",
-      "summary": "The path forward to that top seed appears clear. The rest of the AFC East doesn't look like much of a threat."
-    },
-    {
-      "id": "2aad005f4cfebd11",
-      "title": "NFL winless teams: Jets lead teams yet to get a victory this season after Week 4",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-winless-teams/aa511c9dcef869ee8f01600f",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T03:58:39+0000",
-      "summary": "Through one quarter of the season, we have three teams that still have a zero in the win column."
     },
     {
       "id": "a0c99c6873782c7c",
@@ -299,6 +272,15 @@
       "summary": "The Indianapolis Colts are on the road to take on the Los Angeles Rams in week 4 of the 2025 season, kickoff is at 4:05 p.m. EST. At this point Colts fans have read some version of “for the first time since” hundreds if not thousands of times and I’m going to add another: For the first [&#8230;]"
     },
     {
+      "id": "8fb805de8f68e1b7",
+      "title": "Colts vs Rams Inactives",
+      "link": "https://stampedeblue.com/indianapolis-colts-injuries/115456/colts-vs-rams-inactives",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-28T19:11:11+0000",
+      "summary": "As previously declared earlier in the week, the Colts will be without 3 starters: Depth players such as Eric Johnson II, Luke Tenuta, Will Mallory, and Riley Leonard (who can be activated mid-game incase of injury to QB1-2 Daniel Jones and Anthony Richardson) are also inactive. This is the first time Eric Johnson II is [&#8230;]"
+    },
+    {
       "id": "53862dc172d505c7",
       "title": "Colts announce 7 inactive players for Week 4 game vs. Los Angeles Rams",
       "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-4-game-vs-los-angeles-rams",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-23T14:50:26+0000",
       "summary": "The cornerback spent 2021-2024 with the Cincinnati Bengals, playing under Lou Anarumo."
+    },
+    {
+      "id": "3a890e68c4ad6c8a",
+      "title": "Michael Pittman Jr./Jonathan Taylor connection still fueling Colts",
+      "link": "https://fox59.com/sports/colts/michael-pittman-jr-jonathan-taylor-connection-still-fueling-colts/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-22T22:27:53+0000",
+      "summary": "INDIANAPOLIS – Jonathan Taylor is off to the best start of a six-year career that already has entrenched him as one of the NFL’s premier running backs. First-team All-Pro in 2021. Led the league in rushing with a club-record 1,811 yards and total yards from scrimmage in ’21. Two Pro Bowl selections. One of five [...]"
+    },
+    {
+      "id": "a884d14fc8794056",
+      "title": "The Colts' 3-0 start, by the numbers: NFL playoff history, points scored, zero turnovers and one punt",
+      "link": "https://colts.com/news/the-colts-3-0-start-by-the-numbers-nfl-playoff-history-points-scored-zero-turnovers-and-one-punt",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-22T20:34:03+0000",
+      "summary": "The majority of teams that start a season 3-0 have made the playoffs, but early-season undefeated records are not a guarantee a team will earn a spot in the postseason."
     }
   ],
   "links": [
