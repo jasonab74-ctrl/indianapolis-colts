@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-30T17:15:47+00:00",
+  "updated": "2025-09-30T17:39:11+00:00",
   "items": [
     {
       "id": "4d9053561480ae99",
@@ -27,6 +27,51 @@
       "feed": "ESPN",
       "published": "2025-09-30T17:34:32+0000",
       "summary": "ESPN's Football Power Index projects the 2026 NFL draft order for Round 1."
+    },
+    {
+      "id": "4abde7b756f0b30c",
+      "title": "2025 Fantasy Football Rankings: Justin Boone's top running backs for Week 5",
+      "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-running-backs-for-week-5-173301517.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T17:33:01+0000",
+      "summary": "Justin Boone shares his fantasy football running back rankings for Week 5 of the 2025 NFL season."
+    },
+    {
+      "id": "2296c87e94e32fc5",
+      "title": "Colts move up in Week 5 power rankings despite loss to Rams",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/30/week-5-nfl-power-rankings-colts-move-up-despite-loss/86440281007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T17:29:50+0000",
+      "summary": "Despite a loss to the Rams, the Colts moved up in ESPN's Week 5 power rankings."
+    },
+    {
+      "id": "be19210d40e085ea",
+      "title": "2025 Fantasy Football Rankings: Justin Boone's top quarterbacks for Week 5",
+      "link": "https://sports.yahoo.com/fantasy/article/2025-fantasy-football-rankings-justin-boones-top-quarterbacks-for-week-5-172848455.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T17:28:48+0000",
+      "summary": "Justin Boone shares his fantasy football quarterback rankings for Week 5 of the 2025 NFL season."
+    },
+    {
+      "id": "41c2896d3aa5bcbf",
+      "title": "Shane Steichen weighs in on play of Colts' CB Xavien Howard",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/09/30/colts-shane-steichen-evaluates-play-xavien-howard/86440030007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T17:21:34+0000",
+      "summary": "Shane Steichen weighed in on what he's seen from Colts' CB Xavien Howard this season."
+    },
+    {
+      "id": "21de3d681139f669",
+      "title": "Colts’ Week 4 QB Analysis:",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115543/colts-week-4-qb-analysis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-30T16:49:16+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "3a3049251f47667f",
@@ -272,15 +317,6 @@
       "summary": "Mitchell said he lost focus on his fumble that turned a 76-yard touchdown into possession for the Los Angeles Rams."
     },
     {
-      "id": "25ff85c1d6dc3709",
-      "title": "Colts stunned by Rams to suffer first loss in another epic collapse",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/115473/colts-stunned-by-rams-to-suffer-first-loss-of-2025-season-in-another-epic-collapse",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-29T00:10:06+0000",
-      "summary": "The promising bid for a statement road win unraveled in the second half as the Indianapolis Colts were stunned by the Los Angeles Rams in Sunday’s 27-20 loss at SoFi Stadium. The Colts fell apart once again in perhaps the worst team performance since the late 2024 season collapse at Mile High and the Meadowlands. [&#8230;]"
-    },
-    {
       "id": "47127b42771c3415",
       "title": "Colts lose to Rams, 27-20, drop to 3-1 on the season",
       "link": "https://fox59.com/news/colts-lose-to-rams-27-20-drop-to-3-1-on-the-season/",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-24T16:00:15+0000",
       "summary": "Taylor had 17 carries for 102 yards and three touchdowns in the Colts' 41-20 win over the Tennessee Titans."
-    },
-    {
-      "id": "8f0a9c8d24d20813",
-      "title": "Reggie Wayne, Adam Vinatieri headline Colts’ contingent seeking spot in Pro Football Hall of Fame",
-      "link": "https://fox59.com/sports/colts/reggie-wayne-adam-vinatieri-headline-colts-contingent-seeking-spot-in-pro-football-hall-of-fame/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-24T15:25:41+0000",
-      "summary": "INDIANAPOLIS – Seven Indianapolis Colts, including several franchise icons, are among the 128 Modern-Era candidates for the Pro Football Hall of Fame’s Class of 2026. At the top of the list, which was released Wednesday morning, are wide receiver Reggie Wayne and placekicker Adam Vinatieri, and they’re joined by two other long-time club standouts: defensive end Robert Mathis and center Jeff Saturday. [...]"
-    },
-    {
-      "id": "ad0a93a0e56f8454",
-      "title": "Colts release unofficial depth chart for Week 4 game vs. Los Angeles Rams",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-4-game-vs-los-angeles-rams-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-23T15:39:35+0000",
-      "summary": "The Colts released their Week 4 unofficial depth chart ahead of their game against the Los Angeles Rams Sunday at SoFi Stadium. Check it out below:"
-    },
-    {
-      "id": "173c5a4eb1071aed",
-      "title": "Colts sign CB Hilton to practice squad; release WR Scott",
-      "link": "https://fox59.com/sports/colts/colts-sign-cb-hilton-to-practice-squad-release-wr-scott/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-23T15:19:15+0000",
-      "summary": "INDIANAPOLIS – As expected, the Indianapolis Colts on Tuesday signed cornerback Mike Hilton to the practice squad. In a corresponding move, the team released wide receiver Tyler Scott. Hilton is a familiar face for Colts defensive coordinator Lou Anarumo, who coached Hilton while serving in the same position with the Cincinnati Bengals. The Colts signed [...]"
-    },
-    {
-      "id": "0203f60f355502fe",
-      "title": "Colts sign veteran CB Mike Hilton to practice squad, release WR Tyler Scott from practice squad",
-      "link": "https://colts.com/news/colts-sign-veteran-cb-mike-hilton-to-practice-squad-release-wr-tyler-scott-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-23T14:50:26+0000",
-      "summary": "The cornerback spent 2021-2024 with the Cincinnati Bengals, playing under Lou Anarumo."
     }
   ],
   "links": [
