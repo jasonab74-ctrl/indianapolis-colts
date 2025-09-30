@@ -1,6 +1,33 @@
 {
-  "updated": "2025-09-30T15:39:10+00:00",
+  "updated": "2025-09-30T16:22:47+00:00",
   "items": [
+    {
+      "id": "32f6cd9a95001e2f",
+      "title": "The NFL tactics influencing the Premier League",
+      "link": "https://bbc.com/sport/football/articles/cg5e4lnpqgdo",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T16:09:56+0000",
+      "summary": "Umir Irfan looks at how football teams are using blocking moves at set-pieces in a similar way to how NFL players block their opponents."
+    },
+    {
+      "id": "0af909e99ed84784",
+      "title": "NFL power rankings week five and the Tennessee Titans",
+      "link": "https://musiccitymiracles.com/tennessee-titans-power-rankings/61884/nfl-power-rankings-week-five-and-the-tennessee-titans",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T16:06:35+0000",
+      "summary": "Another tough week for the Titans in NFL power rankings."
+    },
+    {
+      "id": "12702353636e8f72",
+      "title": "Dallas Cowboys start to begin fixing defensive woes in latest 2026 NFL Mock Draft",
+      "link": "https://sportingnews.com/us/nfl/dallas-cowboys/news/dallas-cowboys-start-begin-fixing-defensive-woes-latest-2026-nfl-mock-draft/a8ed3fc00e310798b8378ac7",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-09-30T16:06:34+0000",
+      "summary": "Which player do the Dallas Cowboys select in latest CBS Sports Mock Draft?"
+    },
     {
       "id": "3a3049251f47667f",
       "title": "Tyreek Hill injury FAQ: Recovery timetable, his NFL future and how Dolphins will adapt",
@@ -20,49 +47,22 @@
       "summary": "We stacked every team ahead of Week 5. Who jumped up our list? Plus, let's pick out the biggest offensive concerns for each roster."
     },
     {
-      "id": "03d50b62cfbbc8c5",
-      "title": "49ers rightly drop in newest NFL power rankings after ugly performance vs. Jaguars",
-      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/09/30/49ers-nfl-power-rankings-week-5/86434211007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T15:28:35+0000",
-      "summary": "The San Francisco 49ers fell to the Jacksonville Jaguars. How did it affect how Kyle Shanahan's team is being viewed in Week 5?"
-    },
-    {
-      "id": "b8dd0b7f6c2d2bc0",
-      "title": "2026 NFL Mock Draft: 5 QBs in Round 1, 2026 NFL Draft Projection after Week 4",
-      "link": "https://sportsnaut.com/nfl/2026-nfl-mock-draft-october/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T15:26:57+0000",
-      "summary": "The first month of the 2025 NFL season is in the books and we&#8217;re now entering Week 6 of the"
-    },
-    {
       "id": "b2d9aef475bf00a4",
       "title": "Colts’ Stock Up/Down: Week 4 @Rams",
       "link": "https://stampedeblue.com/analysis/115533/colts-stock-up-down-week-4-rams",
       "source": "Stampede Blue",
-      "feed": "Yahoo Sports",
+      "feed": "Stampede Blue",
       "published": "2025-09-30T15:20:00+0000",
-      "summary": "Stock Up Alec Pierce Pierce was by far the biggest winner from Sunday’s game. There used to be a debate about whether the Colts should pay him, and what his value was. This was because Pierce could be fairly labeled as a one-trick pony in this offense, and if Mitchell was ready to get more […]"
+      "summary": "Stock Up Alec Pierce Pierce was by far the biggest winner from Sunday’s game. There used to be a debate about whether the Colts should pay him, and what his value was. This was because Pierce could be fairly labeled as a one-trick pony in this offense, and if Mitchell was ready to get more [&#8230;]"
     },
     {
-      "id": "df657794703f368f",
-      "title": "Marks, Stafford, Waller among fantasy football add/drops for Week 5",
-      "link": "https://upi.com/Sports_News/NFL/2025/09/30/fantasy-football-Marks-Waller-waiver-wire-add-drop/3331759236054/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T15:19:22+0000",
-      "summary": "Woody Marks and Darren Waller are among UPI senior sports writer Alex Butler's fantasy football waiver wire priorities for Week 5 of the 2025 NFL season."
-    },
-    {
-      "id": "49bf74266d04d352",
-      "title": "Kiser sees time at LB in Jags’ win vs. 49ers",
-      "link": "https://pharostribune.com/sports/article_0349e274-f300-41ad-950b-a2379bca27e4.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T15:18:00+0000",
-      "summary": "Jack Kiser saw his first action at linebacker in an NFL regular-season game for the Jacksonville Jaguars during Sunday’s Week 4 win at San Francisco. Kiser filled in for a time for starting middle linebacker Foye Oluokon and played some defensive snaps on two different series during the Jaguars' 26-21 win. Oluokon had a finger issue and had to go out and get it tended to and later returned. ..."
+      "id": "5a36c588102aad2e",
+      "title": "What is the Colt’s path to getting back on a winning streak?",
+      "link": "https://stampedeblue.com/analysis/115532/what-is-the-colts-path-to-getting-back-on-a-winning-streak",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-30T15:10:41+0000",
+      "summary": "Some will point to the Colts returning to their winning ways to being as easy as returning home to face a less imposing opponent than the Rams in their building. The Raiders invade Lucas Oil Stadium this week, sporting a 1 &#8211; 3 record after falling short to the Bears at home on Sunday. Yes, [&#8230;]"
     },
     {
       "id": "073310e9a6f2a9f8",
@@ -81,24 +81,6 @@
       "feed": "ESPN",
       "published": "2025-09-30T11:27:29+0000",
       "summary": "Aaron Rodgers is 'humorous.' Patrick Mahomes wants to be informed. Here's what QBs and refs say about their conversations."
-    },
-    {
-      "id": "91816e6d1e0eaebe",
-      "title": "'Low power mode': Giants poke fun at Chargers, leading NFL Week 4 trolls",
-      "link": "https://espn.com/nfl/story/_/id/46414105/nfl-week-4-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-30T06:18:03+0000",
-      "summary": "The New York Giants celebrated their first win of the season by trolling the Los Angeles Chargers."
-    },
-    {
-      "id": "a0c99c6873782c7c",
-      "title": "Best of NFL Week 4's arrivals, featuring Ja'Marr Chase's leopard look",
-      "link": "https://espn.com/nfl/story/_/id/46380726/week-4-nfl-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-30T06:18:03+0000",
-      "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
     },
     {
       "id": "dce655733d35fab2",
@@ -299,15 +281,6 @@
       "summary": "The promising bid for a statement road win unraveled in the second half as the Indianapolis Colts were stunned by the Los Angeles Rams in Sunday’s 27-20 loss at SoFi Stadium. The Colts fell apart once again in perhaps the worst team performance since the late 2024 season collapse at Mile High and the Meadowlands. [&#8230;]"
     },
     {
-      "id": "83e947b1f89019f7",
-      "title": "Miscues down the Colts against the Rams",
-      "link": "https://stampedeblue.com/analysis/115468/miscues-down-the-colts-against-the-rams",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-28T23:38:25+0000",
-      "summary": "Stunned. Many moments of frustration and disappointment, but two moments stand out as truly stunning; one beyond belief. The Indianapolis Colts gave everything the Los Angeles Rams could handle and still head home with a loss. It was always going to be a tough game. That was clear from the beginning. A loss here isn’t [&#8230;]"
-    },
-    {
       "id": "47127b42771c3415",
       "title": "Colts lose to Rams, 27-20, drop to 3-1 on the season",
       "link": "https://fox59.com/news/colts-lose-to-rams-27-20-drop-to-3-1-on-the-season/",
@@ -333,15 +306,6 @@
       "feed": "ESPN",
       "published": "2025-09-28T21:18:16+0000",
       "summary": "What is Drew Allar's current draft stock? Which Ohio State prospect stood out the most Saturday? We have updates on NFL prospects through CFB Week 5."
-    },
-    {
-      "id": "0be1cced0d8134aa",
-      "title": "Week 4 Colts vs. Rams Game Thread",
-      "link": "https://stampedeblue.com/gamethreads/115414/week-4-colts-vs-rams-game-thread-indiana-jones-jonathan-taylor-cam-bynum-anthony-richardson-mooney-ward-mike-hilton",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-28T19:55:00+0000",
-      "summary": "The Indianapolis Colts are on the road to take on the Los Angeles Rams in week 4 of the 2025 season, kickoff is at 4:05 p.m. EST. At this point Colts fans have read some version of “for the first time since” hundreds if not thousands of times and I’m going to add another: For the first [&#8230;]"
     },
     {
       "id": "53862dc172d505c7",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2025-09-24T16:17:40+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts likely will be without two key players as they attempt to remain unbeaten Sunday against the Los Angeles Rams. Wide receiver Alec Pierce is in the NFL’s concussion protocol, while cornerback Kenny Moore II is dealing with an Achilles injury. Neither will practice on Wednesday. That normally is significant with [...]"
+    },
+    {
+      "id": "c5e657f7822dc9d3",
+      "title": "Colts RB Jonathan Taylor named AFC Offensive Player of the Week for Week 3",
+      "link": "https://colts.com/news/colts-jonathan-taylor-afc-offensive-player-week-3-titans-touchdowns-rushing-stats",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-24T16:00:15+0000",
+      "summary": "Taylor had 17 carries for 102 yards and three touchdowns in the Colts' 41-20 win over the Tennessee Titans."
+    },
+    {
+      "id": "8f0a9c8d24d20813",
+      "title": "Reggie Wayne, Adam Vinatieri headline Colts’ contingent seeking spot in Pro Football Hall of Fame",
+      "link": "https://fox59.com/sports/colts/reggie-wayne-adam-vinatieri-headline-colts-contingent-seeking-spot-in-pro-football-hall-of-fame/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-24T15:25:41+0000",
+      "summary": "INDIANAPOLIS – Seven Indianapolis Colts, including several franchise icons, are among the 128 Modern-Era candidates for the Pro Football Hall of Fame’s Class of 2026. At the top of the list, which was released Wednesday morning, are wide receiver Reggie Wayne and placekicker Adam Vinatieri, and they’re joined by two other long-time club standouts: defensive end Robert Mathis and center Jeff Saturday. [...]"
+    },
+    {
+      "id": "ad0a93a0e56f8454",
+      "title": "Colts release unofficial depth chart for Week 4 game vs. Los Angeles Rams",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-4-game-vs-los-angeles-rams-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-23T15:39:35+0000",
+      "summary": "The Colts released their Week 4 unofficial depth chart ahead of their game against the Los Angeles Rams Sunday at SoFi Stadium. Check it out below:"
+    },
+    {
+      "id": "173c5a4eb1071aed",
+      "title": "Colts sign CB Hilton to practice squad; release WR Scott",
+      "link": "https://fox59.com/sports/colts/colts-sign-cb-hilton-to-practice-squad-release-wr-scott/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-23T15:19:15+0000",
+      "summary": "INDIANAPOLIS – As expected, the Indianapolis Colts on Tuesday signed cornerback Mike Hilton to the practice squad. In a corresponding move, the team released wide receiver Tyler Scott. Hilton is a familiar face for Colts defensive coordinator Lou Anarumo, who coached Hilton while serving in the same position with the Cincinnati Bengals. The Colts signed [...]"
     }
   ],
   "links": [
