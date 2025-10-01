@@ -1,6 +1,42 @@
 {
-  "updated": "2025-09-30T23:36:34+00:00",
+  "updated": "2025-10-01T01:27:37+00:00",
   "items": [
+    {
+      "id": "858e622f6b06af32",
+      "title": "NFL Power Rankings: Two teams jump into the top 10, plus what every offense can improve on",
+      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-01T01:59:52+0000",
+      "summary": "We stacked every team ahead of Week 5. Who jumped up our list? Plus, let's pick out the biggest offensive concerns for each roster."
+    },
+    {
+      "id": "bea969d59c08ec2f",
+      "title": "Pittsburgh Steelers rookie cracks top 15 in Pro Football Focus' rankings",
+      "link": "https://sportingnews.com/us/nfl/pittsburgh-steelers/news/pittsburgh-steelers-rookie-cracks-top-15-pro-football-focus-rankings/a81b71c9995bb062d0c8bdea",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T01:02:27+0000",
+      "summary": "A rookie on the Pittsburgh Steelers cracked Pro Football Focus' rankings of the top rookies through four weeks of the 2025 NFL season."
+    },
+    {
+      "id": "a144082f040c6902",
+      "title": "NFL Power Rankings: Denver Broncos get little respect following dominant Week 4 win",
+      "link": "https://sportingnews.com/us/nfl/denver-broncos/news/nfl-power-rankings-denver-broncos-get-little-respect-following-dominant-week-4-win/22b3165161055684e76fb75e",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T00:59:27+0000",
+      "summary": "The Denver Broncos are back in the win column, but it didn't impress the power rankings."
+    },
+    {
+      "id": "79269a1765e0b48a",
+      "title": "How the Rams special teams is exploiting NFL's new kickoff rule",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/30/how-the-rams-special-teams-is-exploiting-nfls-new-kickoff-rule/86447534007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T00:55:08+0000",
+      "summary": "The Los Angeles Rams are making it harder for opposing offenses thanks to some nice special teams work."
+    },
     {
       "id": "3559d8ecdc23700c",
       "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
@@ -18,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-01T00:10:02+0000",
       "summary": "ESPN's Football Power Index projects the 2026 NFL draft order for Round 1."
-    },
-    {
-      "id": "e573580da0318139",
-      "title": "Former Michigan State cornerback signs with Cleveland Browns",
-      "link": "https://spartanswire.usatoday.com/story/sports/college/spartans/football/2025/09/30/msu-football-ameer-speed-signs-cleveland-browns/86446984007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T23:12:21+0000",
-      "summary": "A former Michigan State cornerback is getting another shot in the NFL"
-    },
-    {
-      "id": "b2d6975138a8e764",
-      "title": "The Vikings take a 10-day, 2-game trip to Dublin and London, an NFL first. How did they pull it off?",
-      "link": "https://sports.yahoo.com/article/vikings-10-day-2-game-231102716.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-09-30T23:11:02+0000",
-      "summary": "The collection of passports for each member of the nearly 200-person traveling party the Minnesota Vikings began more than five months ago, when team operations staff initiated preparations for an unprecedented NFL road trip.  Regular reminders to players, coaches and everyone else in the organization going to Dublin and London — to either locate or renew this nonnegotiable prerequisite for an overseas trip — continued throughout the spring and summer until all of them were secured together in one case.  Having played four international games over the past 12 years, the Vikings had a plan for the passports — and just about everything else."
     },
     {
       "id": "693db902795d5d9a",
@@ -119,15 +137,6 @@
       "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
-      "id": "858e622f6b06af32",
-      "title": "NFL Power Rankings: Two teams jump into the top 10, plus what every offense can improve on",
-      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-30T15:58:02+0000",
-      "summary": "We stacked every team ahead of Week 5. Who jumped up our list? Plus, let's pick out the biggest offensive concerns for each roster."
-    },
-    {
       "id": "b2d9aef475bf00a4",
       "title": "Colts’ Stock Up/Down: Week 4 @Rams",
       "link": "https://stampedeblue.com/analysis/115533/colts-stock-up-down-week-4-rams",
@@ -162,15 +171,6 @@
       "feed": "ESPN",
       "published": "2025-09-30T11:27:29+0000",
       "summary": "Aaron Rodgers is 'humorous.' Patrick Mahomes wants to be informed. Here's what QBs and refs say about their conversations."
-    },
-    {
-      "id": "dce655733d35fab2",
-      "title": "Best, worst of NFL Week 4: Nix, defense lead Broncos over Bengals; Hill's injury overshadows Fins' win over Jets",
-      "link": "https://espn.com/nfl/story/_/id/46358628/nfl-week-4-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-09-30T05:29:16+0000",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 4."
     },
     {
       "id": "ef289e97f4e5e036",
