@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T23:15:46+00:00",
+  "updated": "2025-10-01T23:37:00+00:00",
   "items": [
     {
       "id": "625e8c9926db7b78",
@@ -7,8 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/46452533/jaxson-dart-saints-draft-snub-always-chip-your-shoulder",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-01T23:17:50+0000",
+      "published": "2025-10-02T00:23:07+0000",
       "summary": "Jaxson Dart says there is \"always a chip on your shoulder\" when a situation unfolds like this year's NFL draft."
+    },
+    {
+      "id": "e00313ee735918ef",
+      "title": "Colts' Howard retires on heels of Rams showing",
+      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T00:23:06+0000",
+      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
     },
     {
       "id": "858e622f6b06af32",
@@ -16,8 +25,44 @@
       "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-01T23:17:50+0000",
+      "published": "2025-10-02T00:23:06+0000",
       "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
+    },
+    {
+      "id": "bb45174124007c05",
+      "title": "Colts' CB Xavien Howard shares retirement message",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/01/colts-xavien-howard-shares-retirement-message/86466536007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T23:28:20+0000",
+      "summary": "Colts CB Xavien Howard has made it official and announced on social media that he is retiring."
+    },
+    {
+      "id": "f51e6daeca397792",
+      "title": "Raiders, Colts Wednesday Week 5 injury report",
+      "link": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2025/10/01/raiders-colts-wednesday-week-5-injury-report/86466479007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T23:25:03+0000",
+      "summary": "The first injury report for the Raiders and Colts for their Week 5 matchup has the Colts missing four players."
+    },
+    {
+      "id": "0362b48b11b5813f",
+      "title": "Xavien Howard: &quot;My kids are more important to me than football&quot;",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavien-howard-my-kids-are-more-important-to-me-than-football",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T23:20:13+0000",
+      "summary": "Howard walks away after four 2025 starts with the Colts."
+    },
+    {
+      "id": "9872ccbe52753030",
+      "title": "2 on the roster options for Colts at CB to replace Xavien Howard after retiring",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/01/2-roster-options-cornerback-colts-xavien-howard-retiring/86466299007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-01T23:17:35+0000",
+      "summary": "With Xavien Howard retiring, what's next for the Indianapolis Colts at cornerback?"
     },
     {
       "id": "972cc8caee6d7a6d",
@@ -65,24 +110,6 @@
       "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer was the player who had 29 interceptions and was a [...]"
     },
     {
-      "id": "e22025867666c067",
-      "title": "Former Miami Dolphins cornerback abruptly retires from the NFL after 4 games",
-      "link": "https://sportingnews.com/us/nfl/miami-dolphins/news/former-miami-dolphins-cornerback-abruptly-retires-nfl-4-games/a170751f7335e125e7df922d",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-01T22:50:26+0000",
-      "summary": "Former Miami Dolphins cornerback Xavien Howard has decided to retire from the NFL after four games with his new team, the Indianapolis Colts announced on Wednesday."
-    },
-    {
-      "id": "9555b15ad5b177a3",
-      "title": "Why did Colts place All-Pro Xavien Howard on reserve/retired list?",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/why-did-colts-place-all-pro-xavien-howard-reserveretired-list/e5e0b3a03b3acba694a1db29",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-01T22:50:19+0000",
-      "summary": "Howard's NFL career is over."
-    },
-    {
       "id": "2d2af83ace8ce629",
       "title": "Colts must turn the page after loss at Rams",
       "link": "https://fox59.com/sports/colts/colts-must-turn-the-page-after-loss-at-rams/",
@@ -99,15 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-10-01T22:10:44+0000",
       "summary": "The Colts made the roster move on Wednesday."
-    },
-    {
-      "id": "46fbf9758beeb1ba",
-      "title": "ESPN speculates Colts QB Anthony Richardson ‘open’ to trade to top play calling team",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115650/espn-speculates-colts-qb-anthony-richardson-open-to-trade-to-top-play-calling-team",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-01T21:13:50+0000",
-      "summary": "According to ESPN’s Jeremy Fowler, Indianapolis Colts quarterback is an intriguing trade candidate ahead of early November’s league deadline—as he could be reportedly ‘open’ to going to a top offensive playcaller: “Outside of that, there&#8217;s not a clear-cut need for teams, barring injury. One intriguing option is Anthony Richardson Sr., who is stuck behind Daniel Jones in Indianapolis,” [&#8230;]"
     },
     {
       "id": "4647c6b211f7f9a8",
@@ -135,15 +153,6 @@
       "feed": "ESPN",
       "published": "2025-10-01T19:16:01+0000",
       "summary": "Here's the latest intel on the Ravens' disappointing start, options for 0-4 Tennessee, precocious rookies and possible QB trades."
-    },
-    {
-      "id": "2e104f67aebe3d8b",
-      "title": "Week 4 Colts Offensive Rankings and Analysis",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115628/week-4-colts-offensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-01T18:20:41+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
     },
     {
       "id": "70a730be5ac46cbd",
@@ -308,6 +317,15 @@
       "summary": "Stock Up Alec Pierce Pierce was by far the biggest winner from Sunday’s game. There used to be a debate about whether the Colts should pay him, and what his value was. This was because Pierce could be fairly labeled as a one-trick pony in this offense, and if Mitchell was ready to get more [&#8230;]"
     },
     {
+      "id": "5a36c588102aad2e",
+      "title": "What is the Colt’s path to getting back on a winning streak?",
+      "link": "https://stampedeblue.com/analysis/115532/what-is-the-colts-path-to-getting-back-on-a-winning-streak",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-30T15:10:41+0000",
+      "summary": "Some will point to the Colts returning to their winning ways to being as easy as returning home to face a less imposing opponent than the Rams in their building. The Raiders invade Lucas Oil Stadium this week, sporting a 1 &#8211; 3 record after falling short to the Bears at home on Sunday. Yes, [&#8230;]"
+    },
+    {
       "id": "073310e9a6f2a9f8",
       "title": "'They're not bums': Who said it? Week 4 quote quiz",
       "link": "https://espn.com/nfl/story/_/id/46413496/packers-cowboys-eagles-buccaneers-texans-titans-week-4-2025-quotes-quiz",
@@ -324,6 +342,15 @@
       "feed": "ESPN",
       "published": "2025-09-30T11:27:29+0000",
       "summary": "Aaron Rodgers is 'humorous.' Patrick Mahomes wants to be informed. Here's what QBs and refs say about their conversations."
+    },
+    {
+      "id": "ef289e97f4e5e036",
+      "title": "Report: Colts poach practice squad linebacker from Cowboys",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115563/report-colts-poach-practice-squad-linebacker-from-cowboys",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-30T04:29:15+0000",
+      "summary": "According to KPRC2’s Aaron Wilson, the Indianapolis Colts are signing linebacker Buddy Johnson off the Dallas Cowboys practice squad: The former 2021 4th round pick of the Pittsburgh Steelers has been well traveled in his early NFL career, having also spent time with the San Francisco 49ers, Houston Texans, Chicago Bears, and most recently, the [&#8230;]"
     },
     {
       "id": "7f850ec46bf61a6c",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-26T16:52:25+0000",
       "summary": "Pierce (concussion), Moore (Achilles) and Goncalves (toe) did not participate in practice this week."
-    },
-    {
-      "id": "b6ff235b3c88399d",
-      "title": "Colts-Rams preview: What to watch in Week 4 measuring stick matchup in Los Angeles",
-      "link": "https://colts.com/news/colts-rams-preview-what-to-watch-in-week-4-measuring-stick-matchup-in-los-angeles",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-26T14:29:23+0000",
-      "summary": "The 3-0 Colts head to Los Angeles to face the 2-1 Rams in Week 4."
-    },
-    {
-      "id": "4be3fc5ebc23a8a4",
-      "title": "Introducing Indianapolis Colts Fall Fests",
-      "link": "https://fox59.com/sports/colts/introducing-indianapolis-colts-fall-fests/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-26T13:22:06+0000",
-      "summary": "The Indianapolis Colts are taking over a pair of favorite farms to celebrate the football season. Colts Fall Fests are scheduled for Saturday, Sept. 27, at Lark Ranch in Greenfield and Saturday, Oct. 18, at Russell Farms in Noblesville. Attendees will find a number of activities, including Colts-themed giveaways, appearances and entertainment along with pumpkin [...]"
-    },
-    {
-      "id": "08c7cfb77e5735eb",
-      "title": "Jonathan Taylor making the most of heavy workload with Colts, especially in second half",
-      "link": "https://fox59.com/sports/colts/jonathan-taylor-making-the-most-of-heavy-workload-with-colts-especially-in-second-half/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-25T22:07:31+0000",
-      "summary": "INDIANAPOLIS — DeForest Buckner and his defensive colleagues have more than enough to keep them busy this week. Yet, their attention temporarily strayed from a Los Angeles Rams challenge that starts with Matthew Stafford and flows to Puka Nacua, Davante Adams and Kyren Williams. At one point, Buckner admitted conversation at the Indiana Farm Bureau [...]"
     }
   ],
   "links": [
