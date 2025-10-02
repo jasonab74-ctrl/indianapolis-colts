@@ -1,14 +1,23 @@
 {
-  "updated": "2025-10-02T13:25:55+00:00",
+  "updated": "2025-10-02T13:42:23+00:00",
   "items": [
     {
-      "id": "ea9c79757ff6cc21",
-      "title": "Week 4 Film Review:Rams",
-      "link": "https://stampedeblue.com/colts-film-analysis/115658/week-4-film-reviewrams",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-02T13:24:30+0000",
-      "summary": "The Colts lost a tough one on the road to a very good Rams team. Before we get into some of the key plays from the game, let’s just state the obvious. The Colts had every reason to win that game. They beat themselves, which we’ve unfortunately seen too often with this team. But it’s [&#8230;]"
+      "id": "55686f90a60194d8",
+      "title": "NFL Insider mentions Minnesota Vikings QB as potential trade candidate",
+      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/02/nfl-insider-carson-wentz-trade-rumor/86468808007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T13:32:37+0000",
+      "summary": "The Minnesota Vikings could look to capitalize on their new starting quarterback."
+    },
+    {
+      "id": "ca720087b8baaeb7",
+      "title": "Should Colts' Anthony Richardson be added to Bengals trade idea list?",
+      "link": "https://bengalswire.usatoday.com/story/sports/nfl/bengals/2025/10/02/bengals-trade-idea-list-colts-anthony-richardson/86473399007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T13:29:00+0000",
+      "summary": "If the Bengals go QB shopping at the NFL trade deadline, should Anthony Richardson be on the list?"
     },
     {
       "id": "79467abd6c9f967a",
@@ -63,15 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-10-02T12:41:47+0000",
       "summary": "The Colts made the roster move on Thursday."
-    },
-    {
-      "id": "a53d2eb11e16839e",
-      "title": "Colts struggling veteran CB Xavien Howard announces abrupt retirement",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115661/colts-cb-xavien-howard-announces-abrupt-retirement",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-02T03:10:27+0000",
-      "summary": "Indianapolis Colts veteran cornerback Xavien Howard announced his retirement on social media, after just 4 starts—and having returned to the football field this year after a season-long absence. The Colts also announced that they have placed Howard on the reserve/retired list and signed safety Trey Washington from the practice squad to the team’s active 53-man [&#8230;]"
     },
     {
       "id": "a2b2f51655de4ce2",
@@ -261,6 +261,24 @@
       "feed": "Stampede Blue",
       "published": "2025-09-30T16:56:50+0000",
       "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
+    },
+    {
+      "id": "21de3d681139f669",
+      "title": "Colts’ Week 4 QB Analysis: Not great, not terrible.",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115543/colts-week-4-qb-analysis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-30T16:49:16+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
+    },
+    {
+      "id": "b2d9aef475bf00a4",
+      "title": "Colts’ Stock Up/Down: Week 4 @Rams",
+      "link": "https://stampedeblue.com/analysis/115533/colts-stock-up-down-week-4-rams",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-09-30T15:20:00+0000",
+      "summary": "Stock Up Alec Pierce Pierce was by far the biggest winner from Sunday’s game. There used to be a debate about whether the Colts should pay him, and what his value was. This was because Pierce could be fairly labeled as a one-trick pony in this offense, and if Mitchell was ready to get more [&#8230;]"
     },
     {
       "id": "7f850ec46bf61a6c",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-24T20:55:00+0000",
       "summary": "The Colts signed the veteran cornerback to the practice squad on Tuesday."
-    },
-    {
-      "id": "f42a332128531667",
-      "title": "Jonathan Taylor voted Week 3 FedEx Ground Player of the Week",
-      "link": "https://colts.com/news/jonathan-taylor-voted-week-3-fedex-ground-player-of-the-week-titans-touchdowns",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-24T20:37:04+0000",
-      "summary": "Taylor rushed for 102 yards and three touchdowns in the Colts' win on Sunday."
-    },
-    {
-      "id": "62b0e1af4ebb4ac8",
-      "title": "How Colts are handling first 3-0 start since 2009: 'We still haven't done anything'",
-      "link": "https://colts.com/news/how-colts-are-handling-first-3-0-start-since-2009-we-still-haven-t-done-anything",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-24T20:34:24+0000",
-      "summary": "The Colts may be 3-0 for the first time in 16 years, but the message from head coach Shane Steichen on down to team leaders has been one of discipline."
     }
   ],
   "links": [
