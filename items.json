@@ -1,23 +1,14 @@
 {
-  "updated": "2025-10-02T13:42:23+00:00",
+  "updated": "2025-10-02T14:17:29+00:00",
   "items": [
     {
-      "id": "55686f90a60194d8",
-      "title": "NFL Insider mentions Minnesota Vikings QB as potential trade candidate",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/02/nfl-insider-carson-wentz-trade-rumor/86468808007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T13:32:37+0000",
-      "summary": "The Minnesota Vikings could look to capitalize on their new starting quarterback."
-    },
-    {
-      "id": "ca720087b8baaeb7",
-      "title": "Should Colts' Anthony Richardson be added to Bengals trade idea list?",
-      "link": "https://bengalswire.usatoday.com/story/sports/nfl/bengals/2025/10/02/bengals-trade-idea-list-colts-anthony-richardson/86473399007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T13:29:00+0000",
-      "summary": "If the Bengals go QB shopping at the NFL trade deadline, should Anthony Richardson be on the list?"
+      "id": "4be17297c6cf0fcb",
+      "title": "Tottenham takeover: Top scenes from Vikings-Browns in London",
+      "link": "https://espn.com/nfl/story/_/id/46456194/nfl-london-scenes-minnesota-vikings-cleveland-browns-week-5",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T14:54:00+0000",
+      "summary": "The NFL went international in Week 5. Here's how Minnesota and Cleveland made the trip worth remembering in London."
     },
     {
       "id": "79467abd6c9f967a",
@@ -25,8 +16,71 @@
       "link": "https://espn.com/nfl/story/_/id/46447959/nfl-kickoff-rules-return-landing-zone",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-02T13:05:24+0000",
+      "published": "2025-10-02T14:51:24+0000",
       "summary": "Here's a look at how the latest tweak to kickoffs resulted in yet another big jump in special teams action."
+    },
+    {
+      "id": "270d3684a7a3ccd6",
+      "title": "NFL Week 5: Are We Feeling Ambulatory?",
+      "link": "https://ingame.com/nfl-week-five-ambulatory/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T14:06:46+0000",
+      "summary": "While putting the best players on the field seems like the best way to win games, it also helps if those players can stay upright"
+    },
+    {
+      "id": "612d5574eb33c002",
+      "title": "Vikings' Carson Wentz falls in Week 5 NFL QB power rankings after Steelers loss",
+      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/02/carson-wentz-week-5-qb-rankings/86468836007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T14:03:50+0000",
+      "summary": "Carson Wentz is coming off a loss to the Steelers, so how does that affect his place in the QB power rankings?"
+    },
+    {
+      "id": "a7eb2d0d440b09b8",
+      "title": "NFL insider wonders if Bengals should give Derek Carr a call",
+      "link": "https://bengalswire.usatoday.com/story/sports/nfl/bengals/2025/10/02/nfl-insider-wonders-bengals-give-derek-carr-call/86473697007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T14:01:18+0000",
+      "summary": "Probably not, but things are bad for the Bengals at QB as the season slips away."
+    },
+    {
+      "id": "b4ddf360cd734937",
+      "title": "ESPN floated a Richardson trade and Daniel Jones might force the Colts to consider it",
+      "link": "https://stampedeblue.com/analysis/115654/espns-fowler-believes-anthony-richardson-will-request-a-trade-to-la-rams",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T14:00:00+0000",
+      "summary": "ESPN’s Dan Graziano and Jeremy Fowler floated Anthony Richardson as a potential trade candidate — but only under the right circumstances. With Daniel Jones playing at a high level in Indianapolis, Richardson is stuck on the bench. Fowler suggests Richardson might be open to joining an offensive-minded coach like Sean McVay as a long-term developmental [&#8230;]"
+    },
+    {
+      "id": "c23bd7f54833ea1c",
+      "title": "Derion Kendrick in line for bigger role, even as key Seahawks return",
+      "link": "https://fieldgulls.com/seattle-seahawks-news/151734/derion-kendrick-more-playing-time-key-seahawks-return-nfl-news",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T14:00:00+0000",
+      "summary": "Building the most versatile secondary in the NFL is just the beginning."
+    },
+    {
+      "id": "a6e7abda3aa702fb",
+      "title": "Jaxson Dart on playing the Saints after draft snub: 'Always a chip on your shoulder'",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/jaxson-dart-on-playing-the-saints-after-draft-snub-always-a-chip-on-your-shoulder-135818396.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T13:58:18+0000",
+      "summary": "Jaxson Dart felt like the Saints were a realistic landing spot for him in the 2025 NFL Draft."
+    },
+    {
+      "id": "ea9c79757ff6cc21",
+      "title": "Week 4 Film Review:Rams",
+      "link": "https://stampedeblue.com/colts-film-analysis/115658/week-4-film-reviewrams",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T13:24:30+0000",
+      "summary": "The Colts lost a tough one on the road to a very good Rams team. Before we get into some of the key plays from the game, let’s just state the obvious. The Colts had every reason to win that game. They beat themselves, which we’ve unfortunately seen too often with this team. But it’s [&#8230;]"
     },
     {
       "id": "fb7589ddf9dd68f5",
@@ -72,6 +126,15 @@
       "feed": "Colts.com",
       "published": "2025-10-02T12:41:47+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "a53d2eb11e16839e",
+      "title": "Colts struggling veteran CB Xavien Howard announces abrupt retirement",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115661/colts-cb-xavien-howard-announces-abrupt-retirement",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T03:10:27+0000",
+      "summary": "Indianapolis Colts veteran cornerback Xavien Howard announced his retirement on social media, after just 4 starts—and having returned to the football field this year after a season-long absence. The Colts also announced that they have placed Howard on the reserve/retired list and signed safety Trey Washington from the practice squad to the team’s active 53-man [&#8230;]"
     },
     {
       "id": "a2b2f51655de4ce2",
@@ -182,24 +245,6 @@
       "summary": "The Indianapolis Colts announced on Tuesday that the team has claimed Dallas Cowboys linebacker Buddy Johnson off Jerry Jones’s practice squad and waived fellow linebacker Cameron McGrone in a corresponding roster move on the final 53-man roster. Regarding Johnson: The former 2021 4th round pick of the Pittsburgh Steelers has been well traveled in his [&#8230;]"
     },
     {
-      "id": "3559d8ecdc23700c",
-      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
-      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-01T00:10:02+0000",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
-    },
-    {
-      "id": "aed288f0588656b7",
-      "title": "Projecting the draft order: Titans at the top, Jets in top three",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46146676/2026-nfl-draft-order-projections-32-first-round-picks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-01T00:10:02+0000",
-      "summary": "ESPN's Football Power Index projects the 2026 NFL draft order for Round 1."
-    },
-    {
       "id": "693db902795d5d9a",
       "title": "Blame for the Colts’ 10-man defense: Coordinator Lou Anarumo takes full responsibility",
       "link": "https://fox59.com/sports/colts/blame-for-the-colts-10-man-defense-coordinator-lou-anarumo-takes-full-responsibility/",
@@ -252,33 +297,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-30T17:44:14+0000",
       "summary": "According to head coach Shane Steichen, Indianapolis Colts 2nd-year wideout AD Mitchell ‘will have to earn it going forward,’ with his upcoming playing time and availability now in question for Sunday’s game (via FOX59/CBS4’s Mike Chappell): The talented, yet clearly still maturing wideout had two major 2nd half mishaps during Sunday’s close road loss to [&#8230;]"
-    },
-    {
-      "id": "4185e31d2cc35467",
-      "title": "Colts Reacts Survey Week 5",
-      "link": "https://stampedeblue.com/indianapolis-colts-odds/115571/colts-reacts-survey-week-5",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-30T16:56:50+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
-    },
-    {
-      "id": "21de3d681139f669",
-      "title": "Colts’ Week 4 QB Analysis: Not great, not terrible.",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115543/colts-week-4-qb-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-30T16:49:16+0000",
-      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
-    },
-    {
-      "id": "b2d9aef475bf00a4",
-      "title": "Colts’ Stock Up/Down: Week 4 @Rams",
-      "link": "https://stampedeblue.com/analysis/115533/colts-stock-up-down-week-4-rams",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-30T15:20:00+0000",
-      "summary": "Stock Up Alec Pierce Pierce was by far the biggest winner from Sunday’s game. There used to be a debate about whether the Colts should pay him, and what his value was. This was because Pierce could be fairly labeled as a one-trick pony in this offense, and if Mitchell was ready to get more [&#8230;]"
     },
     {
       "id": "7f850ec46bf61a6c",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-24T22:19:54+0000",
       "summary": "INDIANAPOLIS – Praise flowed westward in the direction of Matthew Stafford. From Shane Steichen. “I think he’s one of the best probably ever to do it.’’ From Daniel Jones. “He’s a fun guy to watch. Can make any throw and makes it look easy.’’ From Zaire Franklin. “One of the best to do it. He’s [...]"
-    },
-    {
-      "id": "17c38c2a61991864",
-      "title": "Your favorite quarterback's favorite quarterback: Colts enter Week 4 with healthy respect for Los Angeles Rams QB Matthew Stafford",
-      "link": "https://colts.com/news/your-favorite-quarterback-s-favorite-quarterback-colts-enter-week-4-with-healthy-respect-for-los-angeles-rams-qb-matthew-stafford",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-24T21:05:28+0000",
-      "summary": "Los Angeles Rams quarterback Matthew Stafford is in his 17th season in the NFL, and when he takes the field against the Colts on Sunday at SoFi Stadium he'll do with having thrown for 60,548 yards and 382 touchdowns in his spectacular career."
-    },
-    {
-      "id": "2ad17560229f0d3a",
-      "title": "Why new Colts CB Mike Hilton is confident he'll play in Week 4 game vs. Los Angeles Rams",
-      "link": "https://colts.com/news/colts-cornerback-mike-hilton-lou-anarumo-shane-steichen-defense-week-4-rams",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-24T20:55:00+0000",
-      "summary": "The Colts signed the veteran cornerback to the practice squad on Tuesday."
     }
   ],
   "links": [
