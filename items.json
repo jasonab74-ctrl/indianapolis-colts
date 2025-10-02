@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-02T19:13:55+00:00",
+  "updated": "2025-10-02T19:36:58+00:00",
   "items": [
     {
       "id": "625e8c9926db7b78",
@@ -38,22 +38,13 @@
       "summary": "Here's a look at how the latest tweak to kickoffs resulted in yet another big jump in special teams action."
     },
     {
-      "id": "669f187ece48b101",
-      "title": "Top-12 NFL running games: Which teams are helping our RBs score fantasy football points this season?",
-      "link": "https://sports.yahoo.com/fantasy/article/top-12-nfl-running-games-which-teams-are-helping-our-rbs-score-fantasy-football-points-this-season-185738257.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T18:57:38+0000",
-      "summary": "Fantasy football analyst Matt Harmon breaks down how some key rushing ecosystems are making it work this season."
-    },
-    {
       "id": "6c32928237b8d5de",
       "title": "Colts bolster cornerback depth after Xavien Howard’s retirement",
       "link": "https://stampedeblue.com/indianapolis-colts-news/115728/colts-bolster-cornerback-depth-after-xavien-howards-retirement",
       "source": "Stampede Blue",
-      "feed": "Yahoo Sports",
+      "feed": "Stampede Blue",
       "published": "2025-10-02T18:54:16+0000",
-      "summary": "The Colts had a cornerback need on the roster, with veteran cornerback Xavien Howard surprisingly retiring yesterday."
+      "summary": "The Indianapolis Colts announced on Thursday that the team has signed former Minnesota Vikings cornerback Keenan Garber for their once vacant practice squad opening: The 6’0”, 188 pound undrafted free agent rookie cornerback out of Kansas State joined the Minnesota Vikings this past offseason before being released at the end of their training camp. Via [&#8230;]"
     },
     {
       "id": "0907eb3ef7263dd3",
@@ -272,15 +263,6 @@
       "summary": "Let me know if you’ve heard this one before; an uber talented player who possesses all the traits, skills, and athletic ability to shine at the next level shows a slew of issues, including a lack of maturity, that stunts their growth and sees them on the bench. The Indianapolis Colts faced an embarrassing situation [&#8230;]"
     },
     {
-      "id": "a4b7315de73f2d31",
-      "title": "Colts shuffle up slumping linebacker position with pair of roster moves",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115601/colts-shuffle-up-slumping-linebacker-position-with-pair-of-roster-moves",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-01T02:40:11+0000",
-      "summary": "The Indianapolis Colts announced on Tuesday that the team has claimed Dallas Cowboys linebacker Buddy Johnson off Jerry Jones’s practice squad and waived fellow linebacker Cameron McGrone in a corresponding roster move on the final 53-man roster. Regarding Johnson: The former 2021 4th round pick of the Pittsburgh Steelers has been well traveled in his [&#8230;]"
-    },
-    {
       "id": "693db902795d5d9a",
       "title": "Blame for the Colts’ 10-man defense: Coordinator Lou Anarumo takes full responsibility",
       "link": "https://fox59.com/sports/colts/blame-for-the-colts-10-man-defense-coordinator-lou-anarumo-takes-full-responsibility/",
@@ -315,15 +297,6 @@
       "feed": "Colts.com",
       "published": "2025-09-30T19:13:15+0000",
       "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "f8ff7c41c10d2d72",
-      "title": "Colts are ‘evaluating everyone’ including struggling veteran starting CB Xavien Howard",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115590/colts-are-evaluating-everyone-including-struggling-veteran-cb-xavien-howard",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-30T18:21:14+0000",
-      "summary": "According to defensive coordinator Lou Anarumo, the Indianapolis Colts are “evaluating everyone,” which includes starting cornerback Xavien Howard, when asked about the struggling veteran’s continued starter’s status (via The Athletic’s James Boyd): Having sat out all of the 2024 season, the 32-year-old, former NFL All-Pro veteran has had a tough start to his debut Colts [&#8230;]"
     },
     {
       "id": "7f850ec46bf61a6c",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-25T19:42:23+0000",
       "summary": "With Kenny Moore II sidelined with an Achilles injury, the Colts are relying on the rest of their cornerbacks to fill the gap left by the Pro Bowler."
+    },
+    {
+      "id": "d9e2209631c0aa16",
+      "title": "Colts Blue Zone Podcast 427: Colts Head West to Take on the Rams",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-427-colts-head-west-to-take-on-the-rams/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-25T18:34:48+0000",
+      "summary": "The red-hot Indianapolis Colts head west for their most consequential test of the season. Can Daniel Jones and company continue their winning ways? Dave Griffiths, Mike Chappell and Matt Adams preview the upcoming game against the Los Angeles Rams in the latest edition of the Colts Blue Zone Podcast. Plus: Colts players are among Pro [...]"
+    },
+    {
+      "id": "3dca029f164367c4",
+      "title": "Reggie Wayne, Adam Vinatieri among several former Colts players nominated for Pro Football Hall of Fame Class of 2026",
+      "link": "https://colts.com/news/reggie-wayne-adam-vinatieri-among-several-former-colts-players-nominated-for-pro-football-hall-of-fame-class-of-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-25T14:15:53+0000",
+      "summary": "The Pro Football Hall of Fame this week announced 128 Modern-Era nominees for its Class of 2026."
+    },
+    {
+      "id": "a7ea848e1bdd0d9b",
+      "title": "Colts, Lou Anarumo’s D preparing for Matthew Stafford, Rams’ offense",
+      "link": "https://fox59.com/sports/colts/colts-lou-anarumos-d-preparing-for-matthew-stafford-rams-offense/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-24T22:19:54+0000",
+      "summary": "INDIANAPOLIS – Praise flowed westward in the direction of Matthew Stafford. From Shane Steichen. “I think he’s one of the best probably ever to do it.’’ From Daniel Jones. “He’s a fun guy to watch. Can make any throw and makes it look easy.’’ From Zaire Franklin. “One of the best to do it. He’s [...]"
     }
   ],
   "links": [
