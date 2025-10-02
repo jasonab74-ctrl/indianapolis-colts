@@ -1,6 +1,33 @@
 {
-  "updated": "2025-10-02T15:18:37+00:00",
+  "updated": "2025-10-02T15:39:50+00:00",
   "items": [
+    {
+      "id": "625e8c9926db7b78",
+      "title": "Dart: Chip on my shoulder over Saints draft snub",
+      "link": "https://espn.com/nfl/story/_/id/46452533/jaxson-dart-saints-draft-snub-always-chip-your-shoulder",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T16:23:14+0000",
+      "summary": "Jaxson Dart says there is \"always a chip on your shoulder\" when a situation unfolds like this year's NFL draft."
+    },
+    {
+      "id": "858e622f6b06af32",
+      "title": "📈 Power Rankings: Two teams jump into top 10",
+      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T16:23:14+0000",
+      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
+    },
+    {
+      "id": "e00313ee735918ef",
+      "title": "Colts' Howard abruptly retires, says 'family first'",
+      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T16:23:13+0000",
+      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
+    },
     {
       "id": "79467abd6c9f967a",
       "title": "NFL kickoffs: Rules change results in most returns in history through Week 4",
@@ -11,22 +38,76 @@
       "summary": "Here's a look at how the latest tweak to kickoffs resulted in yet another big jump in special teams action."
     },
     {
+      "id": "5a2d1b1ef3b7b0e3",
+      "title": "NFL Week 5 staff picks: Moneyline, spread, over/under predictions",
+      "link": "https://prideofdetroit.com/detroit-lions-gambling-odds/144145/nfl-week-5-staff-picks-moneyline-spread-over-under-predictions",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:30:00+0000",
+      "summary": "The POD staff make their predictions for the Week 5 slate of NFL games."
+    },
+    {
+      "id": "e39615383ba2be35",
+      "title": "A statistical look at the NFL’s 2025 kickoff change",
+      "link": "https://acmepackingcompany.com/analysis/71989/nfl-kickoff-return-analysis-2025",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:26:18+0000",
+      "summary": "Penalties and injuries are up, but touchbacks are down. The NFL is happy."
+    },
+    {
+      "id": "51585a06456d4e1e",
+      "title": "NFL analyst: Titans' Week 10 bye could be important for Brian Callahan's future",
+      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/10/02/analyst-tennessee-titans-bye-week-important-date-brian-callahan/86475935007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:25:30+0000",
+      "summary": "Analysts Jeremy Fowler and Dan Graziano at ESPN broke down Brian Callahan and the potential for changes coming in Nashville."
+    },
+    {
+      "id": "217cc2067e1407cf",
+      "title": "USC Trojan alumni set the NFL on fire in Week 4",
+      "link": "https://trojanswire.usatoday.com/story/sports/2025/10/02/usc-football-alumni-dominate-nfl-again-week-4/86461294007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:24:27+0000",
+      "summary": "It was a week full of breakout performances and bounce-back games for former USC Trojans in the NFL"
+    },
+    {
+      "id": "a6deac002530e05c",
+      "title": "With high school popularity exploding, NFL announces launch of pro flag football leagues",
+      "link": "https://usatodayhss.com/story/sports/high-school/flag-football/2025/10/02/nfl-launch-pro-flag-football-leagues/86476292007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:23:29+0000",
+      "summary": "With the popularity of high school girls flag football exploding, NFL has announced launch of pro leagues in the sport ahead of the 2028 Olympics."
+    },
+    {
+      "id": "6063c2b545d0702c",
+      "title": "Parkinson plays down 'Hollywood derby' rivalry",
+      "link": "https://bbc.com/sport/football/articles/cj3yg54e65no",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:21:56+0000",
+      "summary": "The game has been dubbed the 'Hollywood derby' – Wrexham are co-owned by actors Ryan Reynolds and Rob McElhenney while NFL legend Tom Brady is part of Birmingham's ownership group."
+    },
+    {
+      "id": "813dd27e42387a33",
+      "title": "Tennessee Titans vs. Arizona Cardinals: NFL experts make Week 5 picks",
+      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/10/02/tennessee-titans-arizona-cardinals-nfl-experts-make-week-5-picks/86474554007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T15:21:27+0000",
+      "summary": "NFL experts from around the league make their Week 5 picks between the Tennessee Titans and Arizona Cardinals."
+    },
+    {
       "id": "2824c570c21e077f",
       "title": "Colts have a golden opportunity to get back on track",
       "link": "https://stampedeblue.com/analysis/115695/colts-have-a-golden-opportunity-to-get-back-on-track",
       "source": "Stampede Blue",
-      "feed": "Yahoo Sports",
+      "feed": "Stampede Blue",
       "published": "2025-10-02T15:11:00+0000",
-      "summary": "A team can only play who is on their schedule. When teams that aren’t expected to be good start having success the first hole to shoot is into who they have played. For the Indianapolis Colts, their resume isn’t the strongest having beaten a one and a zero win team four weeks into the season. […]"
-    },
-    {
-      "id": "31fde8e8d20ee439",
-      "title": "Pete Carroll confirms Jackson Powers-Johnson will make 2nd straight start in Week 5",
-      "link": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2025/10/02/pete-carroll-confirms-jackson-powers-johnson-will-start-in-week-5/86471771007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T15:01:25+0000",
-      "summary": "Las Vegas Raiders HC Pete Carroll confirmed that Jackson Powers-Johnson will start against the Indianapolis Colts in Week 5."
+      "summary": "A team can only play who is on their schedule. When teams that aren’t expected to be good start having success the first hole to shoot is into who they have played. For the Indianapolis Colts, their resume isn’t the strongest having beaten a one and a zero win team four weeks into the season. [&#8230;]"
     },
     {
       "id": "2a181e92b3a0ea4f",
@@ -38,15 +119,6 @@
       "summary": "Hinton, who is in the Colts' Ring of Honor, was a seven-time Pro Bowler and three-time All-Pro during his 13-year NFL career."
     },
     {
-      "id": "9f8265950cf30709",
-      "title": "All 32 NFL quarterbacks (including Bo Nix) ranked by Total QBR in Week 5",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/10/02/nfl-all-32-quarterbacks-ranked-total-qbr/86465255007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T15:00:38+0000",
-      "summary": "Going into Week 5, Broncos QB Bo Nix ranks 19th in the NFL with a 51.5 Total QBR rating."
-    },
-    {
       "id": "a4aab427e7b93e8f",
       "title": "Hinton, Boyd, Curtis head Colts’ senior candidates for Pro Football Hall of Fame",
       "link": "https://fox59.com/sports/colts/hinton-boyd-curtis-head-colts-senior-candidates-for-pro-football-hall-of-fame/",
@@ -54,15 +126,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-02T15:00:18+0000",
       "summary": "INDIANAPOLIS – Four Colts, including three icons who touched two cities, are among 52 senior candidates who will be considered for the Pro Football Hall of Fame’s Class of 2026. Offensive lineman Chris Hinton, whose 13-year career began with decorated seasons in Baltimore and Indy, along with cornerback Bobby Boyd and linebacker Mike Curtis, both [...]"
-    },
-    {
-      "id": "19b8c63212c53d0b",
-      "title": "Syracuse football: Orange in the NFL week four update",
-      "link": "https://nunesmagician.com/syracuse-football/98772/syracuse-football-orange-in-the-nfl-week-four-update",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T15:00:00+0000",
-      "summary": "Jackson Meeks makes NFL debut"
     },
     {
       "id": "4be17297c6cf0fcb",
@@ -99,33 +162,6 @@
       "feed": "ESPN",
       "published": "2025-10-02T13:02:08+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
-    },
-    {
-      "id": "858e622f6b06af32",
-      "title": "📈 Power Rankings: Two teams jump into top 10",
-      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-02T12:53:46+0000",
-      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
-    },
-    {
-      "id": "e00313ee735918ef",
-      "title": "Colts' Howard abruptly retires, says 'family first'",
-      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-02T12:53:45+0000",
-      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
-    },
-    {
-      "id": "625e8c9926db7b78",
-      "title": "Dart: Chip on my shoulder over Saints draft snub",
-      "link": "https://espn.com/nfl/story/_/id/46452533/jaxson-dart-saints-draft-snub-always-chip-your-shoulder",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-02T12:53:45+0000",
-      "summary": "Jaxson Dart says there is \"always a chip on your shoulder\" when a situation unfolds like this year's NFL draft."
     },
     {
       "id": "27d2cc201f0f00b1",
@@ -297,15 +333,6 @@
       "feed": "Stampede Blue",
       "published": "2025-09-30T18:21:14+0000",
       "summary": "According to defensive coordinator Lou Anarumo, the Indianapolis Colts are “evaluating everyone,” which includes starting cornerback Xavien Howard, when asked about the struggling veteran’s continued starter’s status (via The Athletic’s James Boyd): Having sat out all of the 2024 season, the 32-year-old, former NFL All-Pro veteran has had a tough start to his debut Colts [&#8230;]"
-    },
-    {
-      "id": "588c095e2b4a6ee0",
-      "title": "Colts head coach Shane Steichen noncommittal on AD Mitchell’s playing time for Sunday",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115586/colts-head-coach-shane-steichen-noncommittal-on-ad-mitchells-playing-time-for-sunday",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-09-30T17:44:14+0000",
-      "summary": "According to head coach Shane Steichen, Indianapolis Colts 2nd-year wideout AD Mitchell ‘will have to earn it going forward,’ with his upcoming playing time and availability now in question for Sunday’s game (via FOX59/CBS4’s Mike Chappell): The talented, yet clearly still maturing wideout had two major 2nd half mishaps during Sunday’s close road loss to [&#8230;]"
     },
     {
       "id": "7f850ec46bf61a6c",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-25T20:36:55+0000",
       "summary": "Tyler Warren has had a hand in two 40+ yard plays while lined up at fullback this season – with those two plays requiring vastly different things from the 2025 first-round pick."
-    },
-    {
-      "id": "cfbf7a86eee92249",
-      "title": "Practice Notebook: Next man up mentality continues for Colts' cornerback room",
-      "link": "https://colts.com/news/practice-notebook-next-man-up-colts-cornerbacks-kenny-moore-injury-mike-hilton-mekhi-blackmon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-25T19:42:23+0000",
-      "summary": "With Kenny Moore II sidelined with an Achilles injury, the Colts are relying on the rest of their cornerbacks to fill the gap left by the Pro Bowler."
-    },
-    {
-      "id": "d9e2209631c0aa16",
-      "title": "Colts Blue Zone Podcast 427: Colts Head West to Take on the Rams",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-427-colts-head-west-to-take-on-the-rams/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-25T18:34:48+0000",
-      "summary": "The red-hot Indianapolis Colts head west for their most consequential test of the season. Can Daniel Jones and company continue their winning ways? Dave Griffiths, Mike Chappell and Matt Adams preview the upcoming game against the Los Angeles Rams in the latest edition of the Colts Blue Zone Podcast. Plus: Colts players are among Pro [...]"
-    },
-    {
-      "id": "3dca029f164367c4",
-      "title": "Reggie Wayne, Adam Vinatieri among several former Colts players nominated for Pro Football Hall of Fame Class of 2026",
-      "link": "https://colts.com/news/reggie-wayne-adam-vinatieri-among-several-former-colts-players-nominated-for-pro-football-hall-of-fame-class-of-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-25T14:15:53+0000",
-      "summary": "The Pro Football Hall of Fame this week announced 128 Modern-Era nominees for its Class of 2026."
     }
   ],
   "links": [
