@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-02T22:15:48+00:00",
+  "updated": "2025-10-02T22:38:26+00:00",
   "items": [
     {
       "id": "50b5142986436569",
@@ -29,6 +29,15 @@
       "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
     },
     {
+      "id": "8102aa95fccc4372",
+      "title": "College Football QB Rankings: Week 6’s Top 20, Including Indiana’s Fernando Mendoza",
+      "link": "https://sportsnaut.com/college-football/best-college-football-qbs-2025-week-6/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T22:12:07+0000",
+      "summary": "Just like in the NFL, the quarterback position is extremely important in the college ranks. So, who are the best"
+    },
+    {
       "id": "6b282680ac198dda",
       "title": "Indianapolis Colts Injury Report: LB Franklin Misses Practice",
       "link": "https://stampedeblue.com/indianapolis-colts-injuries/115645/indianapolis-colts-injury-report-lb-franklin-misses-practice",
@@ -38,15 +47,6 @@
       "summary": "The Indianapolis Colts released their Wednesday injury report today for Week 5 of the NFL season ahead of their Sunday game against the Las Vegas Raiders. Linebacker Zaire Franklin missed practice with an ankle injury today. Franklin has been a mainstay on the Colts&#8217; defense and is a leader in the locker room. The Colts&#8217; linebacker play [&#8230;]"
     },
     {
-      "id": "c74fc2b0928db298",
-      "title": "What Happened to Johnny Manziel? Why the Heisman Winner Left the NFL and What He's Doing Now",
-      "link": "https://people.com/what-happened-to-johnny-manziel-11823045",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T22:00:00+0000",
-      "summary": "Former NFL quarterback Johnny Manziel is currently starring on 'Special Forces' season 4"
-    },
-    {
       "id": "05caab70b5e4825e",
       "title": "Indianapolis Colts Injury Report: WR Pittman Limited Today",
       "link": "https://stampedeblue.com/indianapolis-colts-injuries/115750/indianapolis-colts-injury-report-wr-pittman-limited-today",
@@ -54,33 +54,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-02T21:56:56+0000",
       "summary": "The&#160;Indianapolis Colts&#160;today released their Thursday injury report for Week 5 of the NFL season ahead of their Sunday game against the Las Vegas Raiders. Wide receiver Michael Pittman was limited at practice today due to a hamstring injury. Pittman was not on the injury report yesterday, so it would appear he sustained the injury during [&#8230;]"
-    },
-    {
-      "id": "e0869c02057ad7eb",
-      "title": "3 blocked kicks, 2 touchdowns and 0 excuses for the Bucs",
-      "link": "http://tampabay.com/sports/bucs/2025/10/02/3-blocked-kicks-2-touchdowns-0-excuses-bucs/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T21:54:12+0000",
-      "summary": "TAMPA — Bucs special teams coach Thomas McGaughey said putting blocked punts on tape in the NFL makes opponents smell blood and they won’t stop circling. “That’s part of the territory."
-    },
-    {
-      "id": "34c5d444fe99208f",
-      "title": "Jonathan Taylor and Ashton Jeanty expected to take center stage as Colts and Raiders try to rebound",
-      "link": "https://sports.yahoo.com/article/jonathan-taylor-ashton-jeanty-expected-215118244.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T21:51:18+0000",
-      "summary": ""
-    },
-    {
-      "id": "ad55485c13309a69",
-      "title": "Pittsburgh Steelers' DeShon Elliott has choice words for NFL over silly Week 4 fine",
-      "link": "https://sportingnews.com/us/nfl/pittsburgh-steelers/news/pittsburgh-steelers-deshon-elliott-choice-words-nfl-silly-week-4-fine/02dbdb77567d18e49a293648",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-02T21:49:12+0000",
-      "summary": "Pittsburgh Steelers safety DeShon Elliott went off on the NFL after he was fined for a uniform infraction following the Week 4 game against the Minnesota Vikings in Ireland."
     },
     {
       "id": "79467abd6c9f967a",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-26T14:29:23+0000",
       "summary": "The 3-0 Colts head to Los Angeles to face the 2-1 Rams in Week 4."
+    },
+    {
+      "id": "4be3fc5ebc23a8a4",
+      "title": "Introducing Indianapolis Colts Fall Fests",
+      "link": "https://fox59.com/sports/colts/introducing-indianapolis-colts-fall-fests/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-26T13:22:06+0000",
+      "summary": "The Indianapolis Colts are taking over a pair of favorite farms to celebrate the football season. Colts Fall Fests are scheduled for Saturday, Sept. 27, at Lark Ranch in Greenfield and Saturday, Oct. 18, at Russell Farms in Noblesville. Attendees will find a number of activities, including Colts-themed giveaways, appearances and entertainment along with pumpkin [...]"
+    },
+    {
+      "id": "08c7cfb77e5735eb",
+      "title": "Jonathan Taylor making the most of heavy workload with Colts, especially in second half",
+      "link": "https://fox59.com/sports/colts/jonathan-taylor-making-the-most-of-heavy-workload-with-colts-especially-in-second-half/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-25T22:07:31+0000",
+      "summary": "INDIANAPOLIS — DeForest Buckner and his defensive colleagues have more than enough to keep them busy this week. Yet, their attention temporarily strayed from a Los Angeles Rams challenge that starts with Matthew Stafford and flows to Puka Nacua, Davante Adams and Kyren Williams. At one point, Buckner admitted conversation at the Indiana Farm Bureau [...]"
+    },
+    {
+      "id": "80ebc03431df1511",
+      "title": "Tyler Warren's versatility is allowing Shane Steichen to be unpredictable with Colts' first-round tight end",
+      "link": "https://colts.com/news/tyler-warren-s-versatility-is-allowing-shane-steichen-to-be-unpredictable-with-colts-first-round-tight-end",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-25T20:36:55+0000",
+      "summary": "Tyler Warren has had a hand in two 40+ yard plays while lined up at fullback this season – with those two plays requiring vastly different things from the 2025 first-round pick."
     }
   ],
   "links": [
