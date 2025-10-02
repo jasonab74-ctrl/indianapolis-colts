@@ -1,6 +1,33 @@
 {
-  "updated": "2025-10-02T20:39:16+00:00",
+  "updated": "2025-10-02T21:14:50+00:00",
   "items": [
+    {
+      "id": "858e622f6b06af32",
+      "title": "📈 Power Rankings: Two teams jump into top 10",
+      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T22:02:48+0000",
+      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
+    },
+    {
+      "id": "e00313ee735918ef",
+      "title": "Colts' Howard abruptly retires, says 'family first'",
+      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T22:02:47+0000",
+      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
+    },
+    {
+      "id": "625e8c9926db7b78",
+      "title": "Dart: Chip on my shoulder over Saints draft snub",
+      "link": "https://espn.com/nfl/story/_/id/46452533/jaxson-dart-saints-draft-snub-always-chip-your-shoulder",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-02T22:02:47+0000",
+      "summary": "Jaxson Dart says there is \"always a chip on your shoulder\" when a situation unfolds like this year's NFL draft."
+    },
     {
       "id": "79467abd6c9f967a",
       "title": "NFL kickoffs: Rules change results in most returns in history through Week 4",
@@ -11,58 +38,67 @@
       "summary": "Here's a look at how the latest tweak to kickoffs resulted in yet another big jump in special teams action."
     },
     {
-      "id": "101e7eff6bbce87e",
-      "title": "NFL Week 5 preview & bold predictions: Baker vs. Seahawks, can Chargers bounce back? Dillon Gabriel hail mary",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-week-5-preview--bold-predictions-baker-vs-seahawks-can-chargers-bounce-back-dillon-gabriel-hail-mary-201845228.html",
+      "id": "bb4fd6aa8f41d6ac",
+      "title": "Vikings WR Justin Jefferson confident in offense even with uncertainty at QB position",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/vikings-wr-justin-jefferson-confident-in-offense-even-with-uncertainty-at-qb-position-210058490.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-02T20:18:45+0000",
-      "summary": "Nate Tice & Charles McDonald dive into the Week 5 NFL slate with bold predictions, matchups to watch and more."
+      "published": "2025-10-02T21:00:58+0000",
+      "summary": "Minnesota Vikings wide receiver Justin Jefferson is considered by many to be the best pass catcher in the NFL."
     },
     {
-      "id": "393091f9df42a1fc",
-      "title": "Michael Pittman added to injury report with hamstring issue",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-pittman-added-to-injury-report-with-hamstring-issue",
+      "id": "5231d08107323564",
+      "title": "AFC Head Coach Predicted as First NFL Firing This Season",
+      "link": "https://sportsnaut.com/nfl/nfl-coaches-hot-seat-brian-callahan/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-02T20:17:06+0000",
-      "summary": "The Colts have a new injury concern with one of their key offensive players."
+      "published": "2025-10-02T20:58:06+0000",
+      "summary": "Through the first four weeks of the NFL season, several head coaches are already on the hot seat, including the"
     },
     {
-      "id": "7e02aec85918291d",
-      "title": "Tom Brady Stunned After iShowSpeed Hits 40-Inch Vertical in Training Session: 'Unbelievable'",
-      "link": "https://complex.com/sports/a/markelibert/tom-brady-stunned-ishowspeed-hits-40-inch-vertical-leap",
+      "id": "7d26620c76d119f5",
+      "title": "Colts' DeForest Buckner made sure to capitalize on Penn State, Oregon game by winning bets with Nittany Lion alums",
+      "link": "https://sportingnews.com/us/ncaa-football/oregon/news/colts-deforest-buckner-made-sure-capitalize-penn-state-oregon-game-winning-bets-nittany-lion-alums/2c64cc16b2d303070f14c22a",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-02T20:10:31+0000",
-      "summary": "Tom Brady was in disbelief seeing iShowSpeed hit a 40-inch vertical during NFL Combine training in 'Speed Goes Pro.'"
+      "published": "2025-10-02T20:58:02+0000",
+      "summary": "Tyler Warren and VP of Communications Chris Conti stayed true to their word."
     },
     {
-      "id": "625e8c9926db7b78",
-      "title": "Dart: Chip on my shoulder over Saints draft snub",
-      "link": "https://espn.com/nfl/story/_/id/46452533/jaxson-dart-saints-draft-snub-always-chip-your-shoulder",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-02T20:07:48+0000",
-      "summary": "Jaxson Dart says there is \"always a chip on your shoulder\" when a situation unfolds like this year's NFL draft."
+      "id": "769bc69613b1509a",
+      "title": "WR Michael Pittman added to Colts' Week 5 injury report",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/02/michael-pittman-added-colts-week-5-injury-report/86483722007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T20:56:35+0000",
+      "summary": "Colts' WR Michael Pittman was added to the team's Week 5 injury report on Thursday."
     },
     {
-      "id": "858e622f6b06af32",
-      "title": "📈 Power Rankings: Two teams jump into top 10",
-      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-02T20:07:48+0000",
-      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
+      "id": "e3a5a9e58ec3a890",
+      "title": "The Colts Show Mailbag: Bouncing back vs. Raiders, Michael Pittman Jr.'s touchdown total, what's next for Adonai Mitchell",
+      "link": "https://colts.com/news/the-colts-show-mailbag-bouncing-back-vs-raiders-michael-pittman-jr-s-touchdown-total-what-s-next-for-adonai-mitchell",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-02T20:53:14+0000",
+      "summary": "The Colts Show Mailbag returns for Week 5 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
     },
     {
-      "id": "e00313ee735918ef",
-      "title": "Colts' Howard abruptly retires, says 'family first'",
-      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-02T20:07:47+0000",
-      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
+      "id": "6f3392d3a5456226",
+      "title": "Indianapolis Colts injury report: Will Michael Pittman Jr. play vs. Las Vegas Raiders in NFL Week 5?",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/02/michael-pittman-jr-hamstring-injury-indianapolis-colts-add-wide-receiver-to-injury-report/86483300007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-02T20:53:11+0000",
+      "summary": "Michael Pittman Jr. leads the Indianapolis Colts in targets and catches. Here's where their receiving depth stands."
+    },
+    {
+      "id": "53e614b93ead884c",
+      "title": "Inspired by his past and by his children, DeForest Buckner is a dedicated and vocal supporter of Colts' Kicking the Stigma campaign",
+      "link": "https://colts.com/news/deforest-buckner-kicking-the-stigma-colts-irsay-family-nfl-mental-health",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-02T20:39:38+0000",
+      "summary": "The Colts' Week 5 game against the Las Vegas Raider will be their \"Kicking the Stigma\" game."
     },
     {
       "id": "2ab2328fbbf1cd58",
@@ -75,7 +111,7 @@
     },
     {
       "id": "8dd46462ea2df071",
-      "title": "Week 4 Colts Offensive Rankings and Analysis",
+      "title": "Week 4 Colts Defensive Rankings and Analysis",
       "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115663/week-4-colts-offensive-rankings-and-analysis",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-26T16:52:25+0000",
       "summary": "Pierce (concussion), Moore (Achilles) and Goncalves (toe) did not participate in practice this week."
-    },
-    {
-      "id": "b6ff235b3c88399d",
-      "title": "Colts-Rams preview: What to watch in Week 4 measuring stick matchup in Los Angeles",
-      "link": "https://colts.com/news/colts-rams-preview-what-to-watch-in-week-4-measuring-stick-matchup-in-los-angeles",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-26T14:29:23+0000",
-      "summary": "The 3-0 Colts head to Los Angeles to face the 2-1 Rams in Week 4."
-    },
-    {
-      "id": "4be3fc5ebc23a8a4",
-      "title": "Introducing Indianapolis Colts Fall Fests",
-      "link": "https://fox59.com/sports/colts/introducing-indianapolis-colts-fall-fests/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-26T13:22:06+0000",
-      "summary": "The Indianapolis Colts are taking over a pair of favorite farms to celebrate the football season. Colts Fall Fests are scheduled for Saturday, Sept. 27, at Lark Ranch in Greenfield and Saturday, Oct. 18, at Russell Farms in Noblesville. Attendees will find a number of activities, including Colts-themed giveaways, appearances and entertainment along with pumpkin [...]"
-    },
-    {
-      "id": "08c7cfb77e5735eb",
-      "title": "Jonathan Taylor making the most of heavy workload with Colts, especially in second half",
-      "link": "https://fox59.com/sports/colts/jonathan-taylor-making-the-most-of-heavy-workload-with-colts-especially-in-second-half/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-25T22:07:31+0000",
-      "summary": "INDIANAPOLIS — DeForest Buckner and his defensive colleagues have more than enough to keep them busy this week. Yet, their attention temporarily strayed from a Los Angeles Rams challenge that starts with Matthew Stafford and flows to Puka Nacua, Davante Adams and Kyren Williams. At one point, Buckner admitted conversation at the Indiana Farm Bureau [...]"
-    },
-    {
-      "id": "80ebc03431df1511",
-      "title": "Tyler Warren's versatility is allowing Shane Steichen to be unpredictable with Colts' first-round tight end",
-      "link": "https://colts.com/news/tyler-warren-s-versatility-is-allowing-shane-steichen-to-be-unpredictable-with-colts-first-round-tight-end",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-25T20:36:55+0000",
-      "summary": "Tyler Warren has had a hand in two 40+ yard plays while lined up at fullback this season – with those two plays requiring vastly different things from the 2025 first-round pick."
     }
   ],
   "links": [
