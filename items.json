@@ -1,6 +1,51 @@
 {
-  "updated": "2025-10-03T01:17:26+00:00",
+  "updated": "2025-10-03T02:40:44+00:00",
   "items": [
+    {
+      "id": "1a9c08b5daa53de6",
+      "title": "Nev. court rejects NFL plea for Gruden rehearing",
+      "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T03:05:12+0000",
+      "summary": "Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely."
+    },
+    {
+      "id": "e00313ee735918ef",
+      "title": "Colts' Howard abruptly retires, says 'family first'",
+      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T03:05:12+0000",
+      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
+    },
+    {
+      "id": "858e622f6b06af32",
+      "title": "📈 Power Rankings: Two teams jump into top 10",
+      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T03:05:12+0000",
+      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
+    },
+    {
+      "id": "cd57784e27621a08",
+      "title": "Rams QB Matthew Stafford moves up another all-time list",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/02/rams-qb-matthew-stafford-moves-up-another-all-time-list/86489123007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-03T02:20:24+0000",
+      "summary": "The 17-year veteran keeps rising up the NFL leaderboards with the Rams."
+    },
+    {
+      "id": "93e11c3595ba471c",
+      "title": "Emeka Egbuka, Xavier Watts win Rookie of the Month honors for September",
+      "link": "https://draftwire.usatoday.com/story/sports/nfl/draft/2025/10/02/emeka-egbuka-xavier-watts-win-rookie-of-month-honors/86462978007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-03T02:07:50+0000",
+      "summary": "Buccaneers WR Emeka Egbuka and Falcons S Xavier Watts won the NFL's Rookie of the Month honors for September"
+    },
     {
       "id": "50b5142986436569",
       "title": "What are the odds? Top 25 predicted anytime NFL TD scorers for Week 5",
@@ -18,87 +63,6 @@
       "feed": "ESPN",
       "published": "2025-10-03T01:38:16+0000",
       "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
-    },
-    {
-      "id": "e8d07d4a08168807",
-      "title": "Previewing the NFL's biggest Week 5 games + Josh Hines-Allen talks Chiefs-Jags!",
-      "link": "https://sports.yahoo.com/nfl/article/previewing-the-nfls-biggest-week-5-games--josh-hines-allen-talks-chiefs-jags-011140636.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T01:11:40+0000",
-      "summary": "Jason Fitz, Charles Robinson and Ben Fawkes break down the NFL's biggest games in Week 5."
-    },
-    {
-      "id": "1a9c08b5daa53de6",
-      "title": "Nev. court rejects NFL plea for Gruden rehearing",
-      "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T01:08:29+0000",
-      "summary": "Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely."
-    },
-    {
-      "id": "e00313ee735918ef",
-      "title": "Colts' Howard abruptly retires, says 'family first'",
-      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T01:08:29+0000",
-      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
-    },
-    {
-      "id": "858e622f6b06af32",
-      "title": "📈 Power Rankings: Two teams jump into top 10",
-      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T01:08:29+0000",
-      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
-    },
-    {
-      "id": "ab7bf71627dee1fa",
-      "title": "Why ‘Thursday Night Football’ is coming to Utah this week",
-      "link": "https://deseret.com/sports/2025/10/02/nfl-thursday-night-football-coming-to-park-city-high-school-in-utah/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T01:03:51+0000",
-      "summary": "Utah may not have an NFL team, but that isn’t stopping Prime’s ‘Thursday Night Football’ from coming to the Beehive State."
-    },
-    {
-      "id": "0d5f152f8a10ce9f",
-      "title": "Illinois and Iowa kickoff the recruiting process for 2028 ATH and NFL legacy recruit Grant Bowen",
-      "link": "https://on3.com/rivals/news/illinois-and-iowa-kickoff-the-recruiting-process-for-2028-ath-and-nfl-legacy-recruit-grant-bowen/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T01:00:33+0000",
-      "summary": "Elmhurst (Ill.) Immaculate Conception 2028 athlete Grant Bowen landed his first two offers of the process on Thursday from Illinois and Iowa. “Excited about the opportunities at two great programs with outstanding coaching staffs and a winning culture,” Bowen said. “Both Iowa and Illinois have proven to develop talent at a high level.” The 6-foot-4 205-pound […]"
-    },
-    {
-      "id": "6e42110a3e975ead",
-      "title": "Longhorns Daily News: Are NFL scouts worried about Texas QB Arch Manning?",
-      "link": "https://burntorangenation.com/general/96534/longhorns-daily-news-are-nfl-scouts-worried-about-texas-qb-arch-manning",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T00:49:15+0000",
-      "summary": "Ahead of the 2025 college football season, Texas quarterback Arch Manning was the toast of the sport. Some analysts even had Manning tabbed to win the Heisman Trophy in his first full season as a starter. It hasn’t worked out that way so far. But given that, are NFL scouts concerned for Manning’s development and […]"
-    },
-    {
-      "id": "225ec4a1113b1354",
-      "title": "Colts updated Week 5 injury report: Michael Pittman, Tyquan Lewis added",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/02/colts-updated-week-5-injury-report-michael-pittman-tyquan-lewis-added/86487173007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T00:44:25+0000",
-      "summary": "On the Colts second Week 5 injury report, Michael Pittman and Tyquan Lewis were added."
-    },
-    {
-      "id": "fef4220b6e42d0e4",
-      "title": "Jon Gruden's lawsuit against NFL moves closer to trial after Nevada Supreme Court ruling",
-      "link": "https://sports.yahoo.com/article/jon-grudens-lawsuit-against-nfl-004044371.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T00:40:44+0000",
-      "summary": "Jon Gruden's lawsuit against the NFL moved closer to trial on Thursday when the Nevada Supreme Court unanimously denied the league's petition to rehear a recent decision.  “We’re obviously pleased with the court’s decision,” Gruden’s attorney, Adam Hosmer-Henner, told The Associated Press by email.  The NFL, which could appeal to the U.S. Supreme Court, declined to comment."
     },
     {
       "id": "3eb731f862e90191",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2025-09-27T17:35:30+0000",
       "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Los Angeles Rams at SoFi Stadium in Inglewood, CA. Kickoff: 4:05 p.m. Broadcast: FOX59. Spread: Rams by 3½. History lesson, Part I:  The Colts lead the overall series 23-21-2, but the Rams have won the last four. The most recent was in week 4 of [...]"
+    },
+    {
+      "id": "d4e8992aa0bb73d9",
+      "title": "Colts elevate CB Mike Hilton, G Josh Sills to active roster from practice squad for Week 4",
+      "link": "https://colts.com/news/colts-elevate-cb-mike-hilton-g-josh-sills-to-active-roster-from-practice-squad-for-week-4",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-27T15:28:25+0000",
+      "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "41d12d0d4c19497d",
+      "title": "The Colts Show Mailbag: Jonathan Taylor's workload, Adonai Mitchell vs. Rams, Mike Hilton and pass rush improvements",
+      "link": "https://colts.com/news/the-colts-show-mailbag-jonathan-taylor-s-workload-adonai-mitchell-vs-rams-mike-hilton-and-pass-rush-improvements",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-26T19:55:12+0000",
+      "summary": "The Colts Show Mailbag returns for Week 4 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "cb729da25816167d",
+      "title": "Depth comes into play as Colts rule out 3 starters for trip to Rams; turnover-less streak (3) on the line",
+      "link": "https://fox59.com/sports/depth-comes-into-play-as-colts-rule-out-3-starters-for-trip-to-rams-turnover-less-streak-3-on-the-line/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-26T19:15:44+0000",
+      "summary": "INDIANAPOLIS – It’ll be next-man-up times three as the Indianapolis Colts look to remain one of the NFL’s six unbeaten teams. For Sunday’s road test against the Los Angeles Rams, coach Shane Steichen ruled out wide receiver Alec Pierce (concussion), cornerback Kenny Moore II (Achilles) and right guard Matt Goncalves (toe). That means the Colts [...]"
+    },
+    {
+      "id": "dc59fb6e4ae8bbfb",
+      "title": "Colts rule out WR Alec Pierce, CB Kenny Moore II, G Matt Goncalves for Week 4 game vs. Los Angeles Rams",
+      "link": "https://colts.com/news/colts-rule-out-alec-pierce-kenny-moore-matt-goncalves-injury-report-week-4-los-angeles-rams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-26T16:52:25+0000",
+      "summary": "Pierce (concussion), Moore (Achilles) and Goncalves (toe) did not participate in practice this week."
     }
   ],
   "links": [
