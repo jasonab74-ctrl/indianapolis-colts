@@ -1,49 +1,13 @@
 {
-  "updated": "2025-10-03T19:36:59+00:00",
+  "updated": "2025-10-03T20:18:47+00:00",
   "items": [
-    {
-      "id": "30204f8255180eda",
-      "title": "Native American All-American Football Game Returns to Vikings Stadium, Adds Girls' Flag Football Clinic",
-      "link": "https://nativenewsonline.net/education/native-american-all-american-football-game-returns-to-vikings-stadium-adds-girls-flag-football-clinic",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T19:30:05+0000",
-      "summary": "Seventy of the nation’s top Native American high school football players will take the field this winter at U.S. Bank Stadium, home of the Minnesota Vikings, for the 2025 Native All-American Football Game.  The event, organized by the Native American Athletic Foundation (NAAF) in partnership with the Vikings and the NFL, is set for Sunday, December 14.  This year marks the fourth year of NFL involvement and the third time the Vikings have hosted the game, previously welcoming it in 2022 and 2023."
-    },
-    {
-      "id": "5eb8f5cbb0206545",
-      "title": "NFL Week 5 Lions at Bengals Preview: The Orange and Black Insider",
-      "link": "https://cincyjungle.com/cincinnati-bengals-analysis/176298/nfl-week-5-lions-at-bengals-preview-the-orange-and-black-insider",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T19:27:50+0000",
-      "summary": "The Bengals are facing a critical point in their season with the Lions coming to town. Can they turn things around?"
-    },
-    {
-      "id": "7a349c78091625e1",
-      "title": "Cowboys RB Jaydon Blue set for NFL debut days after Louis Vuitton cleats gave him blister-covered feet",
-      "link": "https://sports.yahoo.com/nfl/article/cowboys-rb-jaydon-blue-set-for-nfl-debut-days-after-louis-vuitton-cleats-gave-him-blister-covered-feet-192220484.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T19:22:20+0000",
-      "summary": "The 2025 fifth-round draft pick has been a healthy scratch through the first four weeks."
-    },
-    {
-      "id": "3a69eb7cc1bb03a6",
-      "title": "Cam Newton gives ringing endorsement in Justin Herbert-Jayden Daniels debate",
-      "link": "https://sportingnews.com/us/ncaa-football/oregon/news/cam-newton-ringing-endorsement-justin-herbert-jayden-daniels/ac91cb7d9eb756a5b4026f3f",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T19:19:18+0000",
-      "summary": "The former NFL MVP gave a strong statement when talking about the former Oregon Duck."
-    },
     {
       "id": "fb7589ddf9dd68f5",
       "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
       "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-03T19:12:23+0000",
+      "published": "2025-10-03T21:09:56+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
     },
     {
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-09-27T15:28:25+0000",
       "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "41d12d0d4c19497d",
+      "title": "The Colts Show Mailbag: Jonathan Taylor's workload, Adonai Mitchell vs. Rams, Mike Hilton and pass rush improvements",
+      "link": "https://colts.com/news/the-colts-show-mailbag-jonathan-taylor-s-workload-adonai-mitchell-vs-rams-mike-hilton-and-pass-rush-improvements",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-26T19:55:12+0000",
+      "summary": "The Colts Show Mailbag returns for Week 4 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "cb729da25816167d",
+      "title": "Depth comes into play as Colts rule out 3 starters for trip to Rams; turnover-less streak (3) on the line",
+      "link": "https://fox59.com/sports/depth-comes-into-play-as-colts-rule-out-3-starters-for-trip-to-rams-turnover-less-streak-3-on-the-line/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-26T19:15:44+0000",
+      "summary": "INDIANAPOLIS – It’ll be next-man-up times three as the Indianapolis Colts look to remain one of the NFL’s six unbeaten teams. For Sunday’s road test against the Los Angeles Rams, coach Shane Steichen ruled out wide receiver Alec Pierce (concussion), cornerback Kenny Moore II (Achilles) and right guard Matt Goncalves (toe). That means the Colts [...]"
+    },
+    {
+      "id": "dc59fb6e4ae8bbfb",
+      "title": "Colts rule out WR Alec Pierce, CB Kenny Moore II, G Matt Goncalves for Week 4 game vs. Los Angeles Rams",
+      "link": "https://colts.com/news/colts-rule-out-alec-pierce-kenny-moore-matt-goncalves-injury-report-week-4-los-angeles-rams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-26T16:52:25+0000",
+      "summary": "Pierce (concussion), Moore (Achilles) and Goncalves (toe) did not participate in practice this week."
+    },
+    {
+      "id": "b6ff235b3c88399d",
+      "title": "Colts-Rams preview: What to watch in Week 4 measuring stick matchup in Los Angeles",
+      "link": "https://colts.com/news/colts-rams-preview-what-to-watch-in-week-4-measuring-stick-matchup-in-los-angeles",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-26T14:29:23+0000",
+      "summary": "The 3-0 Colts head to Los Angeles to face the 2-1 Rams in Week 4."
     }
   ],
   "links": [
