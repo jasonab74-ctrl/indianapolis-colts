@@ -1,14 +1,23 @@
 {
-  "updated": "2025-10-03T05:39:04+00:00",
+  "updated": "2025-10-03T06:26:04+00:00",
   "items": [
     {
-      "id": "eb9d1eda29327b43",
-      "title": "49ers hold off Rams in NFL overtime thriller",
-      "link": "https://sports.yahoo.com/article/49ers-hold-off-rams-nfl-043702885.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T05:24:41+0000",
-      "summary": "San Francisco's Eddy Pineiro booted a 41-yard field goal in overtime and the 49ers defense came up big in a tense 26-23 NFL victory over the Los Angeles Rams on Thursday.However, on their resulting possession the 49ers were forced to punt and Rams kicker Joshua Karty drilled a 48-yard field goal with two seconds left in regulation to force overtime."
+      "id": "1a9c08b5daa53de6",
+      "title": "Nev. court rejects NFL plea for Gruden rehearing",
+      "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T07:18:27+0000",
+      "summary": "Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely."
+    },
+    {
+      "id": "858e622f6b06af32",
+      "title": "📈 Power Rankings: Two teams jump into top 10",
+      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T07:18:27+0000",
+      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
     },
     {
       "id": "79467abd6c9f967a",
@@ -18,33 +27,6 @@
       "feed": "ESPN",
       "published": "2025-10-03T05:00:56+0000",
       "summary": "Here's a look at how the latest tweak to kickoffs resulted in yet another big jump in special teams action."
-    },
-    {
-      "id": "1a9c08b5daa53de6",
-      "title": "Nev. court rejects NFL plea for Gruden rehearing",
-      "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T03:05:12+0000",
-      "summary": "Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely."
-    },
-    {
-      "id": "e00313ee735918ef",
-      "title": "Colts' Howard abruptly retires, says 'family first'",
-      "link": "https://espn.com/nfl/story/_/id/46453982/colts-xavien-howard-retires-heels-struggles-vs-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T03:05:12+0000",
-      "summary": "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams."
-    },
-    {
-      "id": "858e622f6b06af32",
-      "title": "📈 Power Rankings: Two teams jump into top 10",
-      "link": "https://espn.com/nfl/story/_/id/46423263/nfl-week-5-power-rankings-poll-32-teams-2025-biggest-issues-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T03:05:12+0000",
-      "summary": "We stacked every NFL team ahead of Week 5. Who jumped up our 1-32 list? Plus, let's pick out the biggest offensive concerns for each roster."
     },
     {
       "id": "50b5142986436569",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-26T14:29:23+0000",
       "summary": "The 3-0 Colts head to Los Angeles to face the 2-1 Rams in Week 4."
+    },
+    {
+      "id": "4be3fc5ebc23a8a4",
+      "title": "Introducing Indianapolis Colts Fall Fests",
+      "link": "https://fox59.com/sports/colts/introducing-indianapolis-colts-fall-fests/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-26T13:22:06+0000",
+      "summary": "The Indianapolis Colts are taking over a pair of favorite farms to celebrate the football season. Colts Fall Fests are scheduled for Saturday, Sept. 27, at Lark Ranch in Greenfield and Saturday, Oct. 18, at Russell Farms in Noblesville. Attendees will find a number of activities, including Colts-themed giveaways, appearances and entertainment along with pumpkin [...]"
+    },
+    {
+      "id": "08c7cfb77e5735eb",
+      "title": "Jonathan Taylor making the most of heavy workload with Colts, especially in second half",
+      "link": "https://fox59.com/sports/colts/jonathan-taylor-making-the-most-of-heavy-workload-with-colts-especially-in-second-half/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-25T22:07:31+0000",
+      "summary": "INDIANAPOLIS — DeForest Buckner and his defensive colleagues have more than enough to keep them busy this week. Yet, their attention temporarily strayed from a Los Angeles Rams challenge that starts with Matthew Stafford and flows to Puka Nacua, Davante Adams and Kyren Williams. At one point, Buckner admitted conversation at the Indiana Farm Bureau [...]"
     }
   ],
   "links": [
