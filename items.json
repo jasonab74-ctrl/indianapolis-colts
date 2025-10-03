@@ -1,14 +1,14 @@
 {
-  "updated": "2025-10-03T22:15:29+00:00",
+  "updated": "2025-10-03T22:37:28+00:00",
   "items": [
     {
-      "id": "fb7589ddf9dd68f5",
-      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
-      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
+      "id": "af3744f02f1f5ed9",
+      "title": "Ex-Ravens, Syracuse DL Arthur Jones dies at 39",
+      "link": "https://espn.com/nfl/story/_/id/46479713/arthur-jones-won-super-bowl-ravens-dies-39",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-03T22:58:14+0000",
-      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+      "published": "2025-10-03T23:23:24+0000",
+      "summary": "Arthur Jones, a defensive lineman who spent his first four NFL seasons in Baltimore and won a Super Bowl with the Ravens, has died. He was 39."
     },
     {
       "id": "f3af5c35aef8ed05",
@@ -16,8 +16,17 @@
       "link": "https://espn.com/nfl/story/_/id/46479370/raiders-brock-bowers-misses-practices-expected-play-vs-colts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-03T22:58:13+0000",
+      "published": "2025-10-03T23:22:52+0000",
       "summary": "Raiders tight end Brock Bowers (knee) did not practice for two straight days, but coach Pete Carroll expects him to play Sunday against the Indianapolis Colts."
+    },
+    {
+      "id": "fb7589ddf9dd68f5",
+      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
+      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T23:22:52+0000",
+      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
     },
     {
       "id": "99657b66fc311107",
@@ -27,6 +36,24 @@
       "feed": "ESPN",
       "published": "2025-10-03T22:55:12+0000",
       "summary": "Here's everything you need to know for Week 5 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
+    },
+    {
+      "id": "b5a7a9811c889951",
+      "title": "Raiders will be down two linebackers Sunday vs Colts",
+      "link": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2025/10/03/raiders-lb-germaine-pratt-out-brennan-jackson-injured-reserve-week-5-indianapolis-colts/86505936007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-03T22:23:28+0000",
+      "summary": "Raiders are suddenly without two linebackers when they travel to Indianapolis to face the Colts on Sunday."
+    },
+    {
+      "id": "baa0ff48763146c6",
+      "title": "Arthur Jones dies at 39: Sports world remembers former Ravens DT, brother of Jon and Chandler Jones",
+      "link": "https://sportingnews.com/us/nfl/news/arthur-jones-dies-39-nfl-world-remembers-ravens-jon-chandler-jones/2d66dfa1017e6cdd2df485fb",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-03T22:15:00+0000",
+      "summary": "A fifth-round pick out of Syracuse, Jones played seven seasons in the NFL and was the brother of former UFC champion Jon Jones and four-time Pro Bowler Chandler Jones."
     },
     {
       "id": "86ff199b5e6c54c3",
@@ -45,24 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-03T22:07:35+0000",
       "summary": "The final injury report for the Raiders and Colts for their Week 5 matchup has Brock Bowers's status in doubt."
-    },
-    {
-      "id": "f6a4d6cc52c74d3a",
-      "title": "Sam Darnold vs Baker Mayfield- the 2018 NFL Draft’s QB matchup, eight years later",
-      "link": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2025/10/03/seahawks-vs-buccaneers-darnold-vs-mayfield-reignites-old-draft-debate/86505505007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T21:56:44+0000",
-      "summary": "In year eight, we’ll finally see the developed versions of 2018’s top quarterback prospects go head-to-head."
-    },
-    {
-      "id": "fed91c4184716e76",
-      "title": "Viral stat shows how bad three NFL teams have been in 2025",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/03/recent-viral-stat-shows-just-how-bad-three-nfl-teams-have-been-in-2025/86502715007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T21:48:16+0000",
-      "summary": "The Saints, Browns, and Titans are among the worst teams in the NFL this season, and this one stat shows why."
     },
     {
       "id": "3b97bc0e5f214bfb",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-28T18:30:42+0000",
       "summary": "The Colts on Friday ruled out three players with injuries: Guard Matt Goncalves (toe), cornerback Kenny Moore II (Achilles) and wide receiver Alec Pierce (concussion)."
-    },
-    {
-      "id": "737b273d53cf95eb",
-      "title": "How to watch the Indianapolis Colts at Los Angeles Rams on September 28, 2025",
-      "link": "https://colts.com/news/how-to-watch-colts-at-rams-week-4-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-28T12:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Rams on Sunday, September 28 at 4:05 p.m. ET (Week 4)."
     }
   ],
   "links": [
