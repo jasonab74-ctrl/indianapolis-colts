@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-03T15:38:30+00:00",
+  "updated": "2025-10-03T16:21:01+00:00",
   "items": [
     {
       "id": "99657b66fc311107",
@@ -20,6 +20,15 @@
       "summary": "Here's what advanced metrics say about five early-season trends across the NFL."
     },
     {
+      "id": "5a2ab1b40538d33c",
+      "title": "Can you watch Cowboys-Jets in your area? NFL Week 5 TV Coverage Maps",
+      "link": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/10/03/can-you-watch-cowboys-jets-in-your-area-nfl-week-5-tv-coverage-maps/86494670007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-03T15:47:38+0000",
+      "summary": "A look at which games are being broadcast in which areas of the country as the Cowboys aren't on primetime."
+    },
+    {
       "id": "1a9c08b5daa53de6",
       "title": "Nev. court rejects NFL plea for Gruden rehearing",
       "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
@@ -36,24 +45,6 @@
       "feed": "ESPN",
       "published": "2025-10-03T15:38:55+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
-    },
-    {
-      "id": "70a1e2506b22bc42",
-      "title": "Bijan Robinson is the NFLPA Community MVP for Week 5",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-is-the-nflpa-community-mvp-for-week-5",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T15:33:12+0000",
-      "summary": "The NFL Players Association announced on Friday that Falcons running back Bijan Robinson is their Community MVP for Week 5."
-    },
-    {
-      "id": "459620db6bf3eb03",
-      "title": "Everything to know for betting NFL Week 5: Sharp action, public betting splits and big bets",
-      "link": "https://sports.yahoo.com/nfl/betting/article/everything-to-know-for-betting-nfl-week-5-sharp-action-public-betting-splits-and-big-bets-152337868.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T15:23:37+0000",
-      "summary": "Where is the public betting in Week 5 of the NFL season, and where is the sharp action? We've got you covered."
     },
     {
       "id": "f534b064b05fdb6e",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-09-26T13:22:06+0000",
       "summary": "The Indianapolis Colts are taking over a pair of favorite farms to celebrate the football season. Colts Fall Fests are scheduled for Saturday, Sept. 27, at Lark Ranch in Greenfield and Saturday, Oct. 18, at Russell Farms in Noblesville. Attendees will find a number of activities, including Colts-themed giveaways, appearances and entertainment along with pumpkin [...]"
+    },
+    {
+      "id": "08c7cfb77e5735eb",
+      "title": "Jonathan Taylor making the most of heavy workload with Colts, especially in second half",
+      "link": "https://fox59.com/sports/colts/jonathan-taylor-making-the-most-of-heavy-workload-with-colts-especially-in-second-half/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-25T22:07:31+0000",
+      "summary": "INDIANAPOLIS — DeForest Buckner and his defensive colleagues have more than enough to keep them busy this week. Yet, their attention temporarily strayed from a Los Angeles Rams challenge that starts with Matthew Stafford and flows to Puka Nacua, Davante Adams and Kyren Williams. At one point, Buckner admitted conversation at the Indiana Farm Bureau [...]"
     }
   ],
   "links": [
