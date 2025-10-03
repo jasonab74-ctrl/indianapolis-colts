@@ -1,6 +1,42 @@
 {
-  "updated": "2025-10-03T16:21:01+00:00",
+  "updated": "2025-10-03T16:44:11+00:00",
   "items": [
+    {
+      "id": "1a9c08b5daa53de6",
+      "title": "Nev. court rejects NFL plea for Gruden rehearing",
+      "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T17:27:59+0000",
+      "summary": "Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely."
+    },
+    {
+      "id": "fb7589ddf9dd68f5",
+      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
+      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-03T17:27:59+0000",
+      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+    },
+    {
+      "id": "0d6c7ffe6cc72350",
+      "title": "Colts-Raiders preview: Ashton Jeanty, Maxx Crosby present major challenges in Week 5",
+      "link": "https://colts.com/news/colts-raiders-preview-ashton-jeanty-maxx-crosby-present-major-challenges-in-week-5",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-03T16:33:58+0000",
+      "summary": "The Colts will look to bounce back against a Las Vegas Raiders team that, even at 1-3, features a couple of league-wide star players."
+    },
+    {
+      "id": "e23b906a2f0f4968",
+      "title": "Spencer Rattler: 0-10 record in the past, I'm focused on the future",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-0-10-record-in-the-past-im-focused-on-the-future",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-03T16:22:53+0000",
+      "summary": "Saints quarterback Spencer Rattler will be making his 11th NFL start against the Giants at home on Sunday and everyone in the organization would like to see it have a different ending than his first 10 outings."
+    },
     {
       "id": "99657b66fc311107",
       "title": "13 more games, 13 matchup previews: We have predictions, picks and wild stats",
@@ -18,33 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-03T16:07:27+0000",
       "summary": "Here's what advanced metrics say about five early-season trends across the NFL."
-    },
-    {
-      "id": "5a2ab1b40538d33c",
-      "title": "Can you watch Cowboys-Jets in your area? NFL Week 5 TV Coverage Maps",
-      "link": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/10/03/can-you-watch-cowboys-jets-in-your-area-nfl-week-5-tv-coverage-maps/86494670007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-03T15:47:38+0000",
-      "summary": "A look at which games are being broadcast in which areas of the country as the Cowboys aren't on primetime."
-    },
-    {
-      "id": "1a9c08b5daa53de6",
-      "title": "Nev. court rejects NFL plea for Gruden rehearing",
-      "link": "https://espn.com/nfl/story/_/id/46470860/nevada-court-rejects-nfl-petition-jon-gruden-rehearing",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T15:38:55+0000",
-      "summary": "Thursday's unanimous ruling by the Nevada Supreme Court means the last option for the NFL is to appeal to the U.S. Supreme Court, which sources told ESPN is likely."
-    },
-    {
-      "id": "fb7589ddf9dd68f5",
-      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
-      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-03T15:38:55+0000",
-      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
     },
     {
       "id": "f534b064b05fdb6e",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-09-26T13:22:06+0000",
       "summary": "The Indianapolis Colts are taking over a pair of favorite farms to celebrate the football season. Colts Fall Fests are scheduled for Saturday, Sept. 27, at Lark Ranch in Greenfield and Saturday, Oct. 18, at Russell Farms in Noblesville. Attendees will find a number of activities, including Colts-themed giveaways, appearances and entertainment along with pumpkin [...]"
-    },
-    {
-      "id": "08c7cfb77e5735eb",
-      "title": "Jonathan Taylor making the most of heavy workload with Colts, especially in second half",
-      "link": "https://fox59.com/sports/colts/jonathan-taylor-making-the-most-of-heavy-workload-with-colts-especially-in-second-half/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-25T22:07:31+0000",
-      "summary": "INDIANAPOLIS — DeForest Buckner and his defensive colleagues have more than enough to keep them busy this week. Yet, their attention temporarily strayed from a Los Angeles Rams challenge that starts with Matthew Stafford and flows to Puka Nacua, Davante Adams and Kyren Williams. At one point, Buckner admitted conversation at the Indiana Farm Bureau [...]"
     }
   ],
   "links": [
