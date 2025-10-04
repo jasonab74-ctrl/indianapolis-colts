@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-04T18:22:40+00:00",
+  "updated": "2025-10-04T18:43:00+00:00",
   "items": [
     {
       "id": "3e2edf438ca2ed95",
@@ -20,6 +20,15 @@
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
     },
     {
+      "id": "d4d53b2afc4a62bf",
+      "title": "Who is Mark Sanchez? What to know about Fox analyst stabbed in Indianapolis",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/04/who-is-mark-sanchez-stabbed-injured-stats-college-jets-butt-fumble-fox-analyst-wife/86522878007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-04T18:28:45+0000",
+      "summary": "Eight-year NFL veteran and former Rose Bowl-winning quarterback Mark Sanchez was stabbed in Indianapolis. He was in town to call the Colts game."
+    },
+    {
       "id": "397e8cebb8341bf1",
       "title": "Former NFL QB Mark Sanchez in stable condition after being stabbed on Friday in Indy",
       "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/04/former-nfl-qb-mark-sanchez-in-stable-condition-after-being-stabbed-in-indianapolis-on-friday/86523290007/",
@@ -36,33 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-04T18:12:27+0000",
       "summary": "In town to call Sunday's game between the Las Vegas Raiders and the Colts, Sanchez is in stable condition after being stabbed in Indy."
-    },
-    {
-      "id": "6129d2f16f80d5d9",
-      "title": "Patriots QB Drake Maye ranks top-10 in five NFL categories",
-      "link": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2025/10/04/patriots-drake-maye-ranks-top-10-five-categories/86459257007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T18:00:36+0000",
-      "summary": "New England Patriots quarterback Drake Maye is playing at an elite level to begin the 2025 season."
-    },
-    {
-      "id": "fd3128470d6f9c24",
-      "title": "Mark Sanchez, former NFL QB and current Fox analyst, in stable condition after being stabbed in Indianapolis",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/mark-sanchez-former-nfl-qb-and-current-fox-analyst-in-stable-condition-after-being-stabbed-in-indianapolis-175700412.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T17:57:00+0000",
-      "summary": "Sanchez was scheduled to call the Indianapolis Colts’ Week 5 home game against the Las Vegas Raiders Sunday."
-    },
-    {
-      "id": "2d57638dc85a5f4f",
-      "title": "Report: Mark Sanchez was critically injured in an Indianapolis stabbing",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mark-sanchez-was-critically-injured-in-an-indianapolis-stabbing",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T17:55:57+0000",
-      "summary": "Former NFL quarterback Mark Sanchez, who currently calls games for Fox, was stabbed last night in Indianapolis, according to TMZ.com."
     },
     {
       "id": "e6e3fc9da1e70794",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-09-28T23:02:33+0000",
       "summary": "The Colts fell to 3-1 on the season with Sunday's defeat at SoFi Stadium."
+    },
+    {
+      "id": "53862dc172d505c7",
+      "title": "Colts announce 7 inactive players for Week 4 game vs. Los Angeles Rams",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-4-game-vs-los-angeles-rams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-28T18:30:42+0000",
+      "summary": "The Colts on Friday ruled out three players with injuries: Guard Matt Goncalves (toe), cornerback Kenny Moore II (Achilles) and wide receiver Alec Pierce (concussion)."
+    },
+    {
+      "id": "737b273d53cf95eb",
+      "title": "How to watch the Indianapolis Colts at Los Angeles Rams on September 28, 2025",
+      "link": "https://colts.com/news/how-to-watch-colts-at-rams-week-4-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-28T12:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Rams on Sunday, September 28 at 4:05 p.m. ET (Week 4)."
     }
   ],
   "links": [
