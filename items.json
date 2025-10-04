@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-04T23:15:07+00:00",
+  "updated": "2025-10-04T23:36:39+00:00",
   "items": [
+    {
+      "id": "51ef011ecf666b16",
+      "title": "Stone throws 4 TD passes, Abilene Christian cruises past North Alabama 52-23",
+      "link": "https://sports.yahoo.com/article/stone-throws-4-td-passes-231448829.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-04T23:14:48+0000",
+      "summary": "Earle Stone threw four touchdown passes and Colt Copper recovered a pair of fumbles to lead Abilene Christian to a 52-23 win over North Alabama on Saturday.  Earle was 22-for-32 for 264 yards with an interception.  Bryan Henry had a pair of short touchdown receptions to help the Wildcats (3-3, 2-0 United Athletic Conference) take a 28-7 lead in the first half."
+    },
     {
       "id": "fb7589ddf9dd68f5",
       "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
@@ -18,42 +27,6 @@
       "feed": "ESPN",
       "published": "2025-10-04T23:08:34+0000",
       "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez was arrested in Indianapolis on Saturday and is facing three misdemeanor charges in relation to an incident where he was stabbed and taken to a hospital."
-    },
-    {
-      "id": "57bef457b9dda94d",
-      "title": "Former NFL QB Mark Sanchez stabbed and arrested in Indianapolis",
-      "link": "https://upi.com/Sports_News/2025/10/04/mark-sanchez-stabbed/8611759617274/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T22:47:37+0000",
-      "summary": "Former NFL quarterback Mark Sanchez was treated for stab wounds and arrested on three related crimes following an altercation in Indianapolis on Saturday."
-    },
-    {
-      "id": "892115d8fce068a4",
-      "title": "Rams star named Offensive Player of the Year candidate",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/04/rams-star-named-offensive-player-of-the-year-candidate-matthew-stafford/86527526007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T22:46:03+0000",
-      "summary": "The Los Angeles Rams have one of the best offenses in the NFL thanks to this man."
-    },
-    {
-      "id": "3915cae920bff785",
-      "title": "Raiders' offense could be without key player in Week 5 vs. Colts",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/04/report-raiders-brock-bowers-trending-toward-not-playing-colts/86527420007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T22:37:23+0000",
-      "summary": "The Las Vegas Raiders could be without a key player against the Indianapolis Colts on Sunday."
-    },
-    {
-      "id": "66924a2f0bea0c06",
-      "title": "NFL fines Eagles CB Cooper DeJean for step-over taunting penalty in Week 4 win over Buccaneers",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-fines-eagles-cb-cooper-dejean-for-step-over-taunting-penalty-in-week-4-win-over-buccaneers-223637693.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-04T22:36:37+0000",
-      "summary": "Cooper DeJean was flagged for unsportsmanlike conduct/taunting after tackling and then stepping over Buccaneers running back Rachaad White."
     },
     {
       "id": "19ea9706569add56",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-28T23:02:33+0000",
       "summary": "The Colts fell to 3-1 on the season with Sunday's defeat at SoFi Stadium."
+    },
+    {
+      "id": "53862dc172d505c7",
+      "title": "Colts announce 7 inactive players for Week 4 game vs. Los Angeles Rams",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-4-game-vs-los-angeles-rams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-28T18:30:42+0000",
+      "summary": "The Colts on Friday ruled out three players with injuries: Guard Matt Goncalves (toe), cornerback Kenny Moore II (Achilles) and wide receiver Alec Pierce (concussion)."
+    },
+    {
+      "id": "737b273d53cf95eb",
+      "title": "How to watch the Indianapolis Colts at Los Angeles Rams on September 28, 2025",
+      "link": "https://colts.com/news/how-to-watch-colts-at-rams-week-4-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-28T12:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Rams on Sunday, September 28 at 4:05 p.m. ET (Week 4)."
+    },
+    {
+      "id": "9d0c14e4846bb713",
+      "title": "Colts at Rams: What to watch for",
+      "link": "https://fox59.com/sports/colts/colts-at-rams-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-27T17:35:30+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Los Angeles Rams at SoFi Stadium in Inglewood, CA. Kickoff: 4:05 p.m. Broadcast: FOX59. Spread: Rams by 3½. History lesson, Part I:  The Colts lead the overall series 23-21-2, but the Rams have won the last four. The most recent was in week 4 of [...]"
     }
   ],
   "links": [
