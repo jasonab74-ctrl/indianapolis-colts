@@ -1,31 +1,13 @@
 {
-  "updated": "2025-10-05T23:13:53+00:00",
+  "updated": "2025-10-05T23:36:33+00:00",
   "items": [
-    {
-      "id": "9fe13339b48e8883",
-      "title": "Knee injury to Colts' Shrader 'doesn't look good'",
-      "link": "https://espn.com/nfl/story/_/id/46502174/colts-spencer-shrader-suffers-potentially-serious-knee-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:56:57+0000",
-      "summary": "Colts kicker Spencer Shrader sustained a potentially serious knee injury in the Colts' 40-6 victory over the Raiders on Sunday."
-    },
-    {
-      "id": "dae445e4cc70d49f",
-      "title": "Sanchez charged after allegedly attacking driver",
-      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:56:57+0000",
-      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
-    },
     {
       "id": "fb7589ddf9dd68f5",
       "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
       "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-05T23:56:57+0000",
+      "published": "2025-10-06T00:33:23+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
     },
     {
@@ -56,6 +38,51 @@
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
     },
     {
+      "id": "c902ab97a3ccdede",
+      "title": "Colts’ 40-6 blowout of Raiders included much more from Ashton Dulin",
+      "link": "https://fox59.com/news/colts-40-6-blowout-of-raiders-included-much-more-from-ashton-dulin/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-05T23:33:19+0000",
+      "summary": "INDIANAPOLIS — Michael Pittman Jr. has been there for the past five-plus seasons as Ashton Dulin has done whatever he’s been told. Day after day. Week after week. Season after season. “He really busts his ass every single day,’’ Pittman said Sunday afternoon at Lucas Oil Stadium. “He’s giving effort. He does everything right. “He [...]"
+    },
+    {
+      "id": "931fed133e2a3fe0",
+      "title": "Lions linebacker Derrick Barnes sacks Bengals QB Jake Browning for safety in NFL Week 5",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/derrick-barnes-lions-linebacker-sacks-bengals-jake-browning-safety-nfl-week-5/86538520007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T23:25:39+0000",
+      "summary": "Detroit Lions linebacker Derrick Barnes, in his fifth NFL season, is a former Holy Cross High School standout."
+    },
+    {
+      "id": "a32b9266644bc259",
+      "title": "NFL player drops ball before scoring a touchdown for the second straight week: 'It's beyond stupid'",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/nfl-world-reacts-to-another-player-dropping-the-ball-before-crossing-goal-line-emari-demercado/86540958007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T23:16:58+0000",
+      "summary": "An Arizona Cardinals player does the same thing that A.D. Mitchell of the Colts did last week. NFL experts and analysts are beside themselves."
+    },
+    {
+      "id": "99e1d604cd964934",
+      "title": "Chargers Keenan Allen makes NFL history in showdown with Commanders",
+      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/05/chargers-keenan-allen-makes-nfl-history-in-showdown-with-washington-commanders/86539865007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T23:16:25+0000",
+      "summary": "Keenan Allen became the fastest NFL player to make it to 1,000 career receptions on Sunday."
+    },
+    {
+      "id": "58616f3500d7d922",
+      "title": "'Hit collector' Colt Keith makes instant impact for Detroit Tigers in injury return",
+      "link": "https://freep.com/story/sports/mlb/tigers/2025/10/05/detroit-tigers-colt-keith-injury-update-mlb-playoffs/86536488007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T23:09:41+0000",
+      "summary": "&quot;It's been horrible having to watch from the couch,&quot; Detroit Tigers third baseman Colt Keith said. &quot;I always want to go out there and help the team.&quot;"
+    },
+    {
       "id": "9b4706ff2912ee70",
       "title": "Cardinals' Demercado becomes 2nd player in as many weeks to lose ball at goal line for touchback",
       "link": "https://sports.yahoo.com/article/cardinals-demercado-becomes-2nd-player-230629607.html",
@@ -65,42 +92,6 @@
       "summary": "Arizona Cardinals running back Emari Demercado had a 72-yard touchdown wiped away against the Tennessee Titans after he tossed the ball before crossing the goal line.  It was the second straight week an NFL player turned a long TD into a touchback by losing the ball just outside the end zone.  With the Cardinals leading 21-6 in the fourth quarter on Sunday, Demercardo burst through the middle and raced toward the end zone."
     },
     {
-      "id": "068e37d73fa95458",
-      "title": "NFL week 5: Game balls from the Saints' first victory of the year over the Giants",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/10/05/nfl-week-5-game-balls-saints-spencer-rattler-kool-aid-mckinstry/86540628007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:52:27+0000",
-      "summary": "The New Orleans Saints earned their first win over the year by knocking out the New York Giants, but who earned game balls for individual efforts?"
-    },
-    {
-      "id": "ec6eb20ce7d6b484",
-      "title": "Titans cut Cardinals lead to 21-12 after Emari Demercado blunder",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-cut-cardinals-lead-to-21-12-after-emari-demercado-blunder",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:51:07+0000",
-      "summary": "Cardinals running back Emari Demercado didn't learn any lessons from Colts wideout Adonai Mitchell."
-    },
-    {
-      "id": "dd8775d9a5c9d45d",
-      "title": "Geno Smith's early-season struggles continue as Raiders are blown out by Colts",
-      "link": "https://sports.yahoo.com/article/geno-smiths-early-season-struggles-225045091.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:50:45+0000",
-      "summary": "Las Vegas Raiders quarterback Geno Smith knows he must play better than he did Sunday at Indianapolis — and that his whole season has been a disappointment so far.  Five games into his first year with the Raiders, Smith has more interceptions than touchdown passes as the Raiders have stumbled to four straight losses."
-    },
-    {
-      "id": "30b0768cb6e525ca",
-      "title": "Lions defensive back Terrion Arnold injured vs Bengals in NFL Week 5",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/terrion-arnold-injury-lions-defensive-back-hurt-vs-bengals-nfl-week-5/86538858007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:47:39+0000",
-      "summary": "Defensive back Terrion Arnold was selected by the Lions in the first round (24th overall) of the 2024 NFL draft from Alabama."
-    },
-    {
       "id": "8e46c0ead6d6c1b2",
       "title": "With 3 more touchdowns, Colts' Jonathan Taylor continues playing like the 'best back in the league'",
       "link": "https://colts.com/news/with-3-more-touchdowns-colts-jonathan-taylor-continues-playing-like-the-best-back-in-the-league",
@@ -108,33 +99,6 @@
       "feed": "Colts.com",
       "published": "2025-10-05T22:47:35+0000",
       "summary": "Jonathan Taylor's seven touchdowns in the first five games of the 2025 season tied a franchise record last reached by Marvin Harrison in 1999."
-    },
-    {
-      "id": "b7524fc850c9bd47",
-      "title": "How the Colts shutdown Raiders' Maxx Crosby: Thumps, chips and 4 hands on him at all times",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/maxx-crosby-zero-sacks-colts-raiders-sack-streak/86540563007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:39:21+0000",
-      "summary": "The Colts had a plan to stop Maxx Crosby and executed, doing something that hadn't been done in 39 games"
-    },
-    {
-      "id": "0c51df2978cf9d13",
-      "title": "David Montgomery, Jahmyr Gibbs score TDs in same game for NFL-record tying 14th time",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-montgomery-jahmyr-gibbs-score-tds-in-same-game-for-nfl-record-tying-14th-time",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:37:28+0000",
-      "summary": "Lions running backs David Montgomery and Jahmyr Gibbs both scored touchdowns today, putting them in some elite company for NFL running back duos."
-    },
-    {
-      "id": "5d945d07fe4a1d43",
-      "title": "Jets have no wins and no takeaways on defense this season as they fall to 0-5 under Aaron Glenn",
-      "link": "https://sports.yahoo.com/article/jets-no-wins-no-takeaways-223512284.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:35:12+0000",
-      "summary": "Aaron Glenn and the New York Jets are making history in all the wrong ways this season.  The Jets dropped to 0-5 with a dismal showing in a 37-22 loss to the Dallas Cowboys on Sunday, leaving them and the Tennessee Titans — who were playing later in the day — as the NFL's only winless teams.  A former Pro Bowl cornerback who played eight of his 15 seasons in New York, Glenn became the first coach in franchise history to begin his tenure with five losses."
     },
     {
       "id": "37e312336bd19c98",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2025-10-01T22:31:59+0000",
       "summary": "INDIANAPOLIS – It’s the only way to navigate the NFL’s 17-game season: Turn the page. Review on Monday what took place the previous day – good and bad – make the necessary adjustments, then assume the necessary tunnel-vision approach for the next opponent. \"You’re on to the next week pretty quickly,\" Daniel Jones said on [...]"
+    },
+    {
+      "id": "ea68ebfd08fcb67c",
+      "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad",
+      "link": "https://colts.com/news/colts-place-cb-xavien-howard-on-reserve-retired-list-sign-s-trey-washington-to-53-man-roster-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T22:10:44+0000",
+      "summary": "The Colts made the roster move on Wednesday."
+    },
+    {
+      "id": "4647c6b211f7f9a8",
+      "title": "Shane Steichen sees common thread between Raiders QB Geno Smith and Colts QB Daniel Jones",
+      "link": "https://colts.com/news/shane-steichen-sees-common-thread-between-raiders-qb-geno-smith-and-colts-qb-daniel-jones",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T20:44:58+0000",
+      "summary": "Steichen was with Smith for one season with the Los Angeles Chargers, and even though he didn't start that year, the now-Colts head coach was impressed by his work ethic."
+    },
+    {
+      "id": "67f3364c6448c0cc",
+      "title": "Practice Notebook: G Matt Goncalves, WR Alec Pierce return to practice after missing Week 4 game vs. Rams",
+      "link": "https://colts.com/news/alec-pierce-injury-update-practice-matt-goncalves-kenny-moore-xavien-howard-status",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T19:42:11+0000",
+      "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "4597ee96bda42a59",
+      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
+      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T14:22:29+0000",
+      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
     }
   ],
   "links": [
