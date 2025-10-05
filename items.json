@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T10:16:21+00:00",
+  "updated": "2025-10-05T10:38:01+00:00",
   "items": [
     {
       "id": "8b1ef222fde1f381",
@@ -11,6 +11,42 @@
       "summary": "TV broadcast, radio and streaming information for Las Vegas Raiders at Indianapolis Colts on Sunday, October 5 at 1:00 p.m. ET (Week 5)."
     },
     {
+      "id": "929a118a76688c43",
+      "title": "Dallas Cowboys vs. New York Jets NFL game: How to watch, kickoff time, TV channel and more",
+      "link": "https://sports.yahoo.com/nfl/article/dallas-cowboys-vs-new-york-jets-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more-103042262.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T10:30:42+0000",
+      "summary": "Here's how to watch the Dallas Cowboys play the New York Jets when they play this Sunday afternoon."
+    },
+    {
+      "id": "47db5b176dfc1e98",
+      "title": "Ex-New York Giants WR Victor Cruz fuels NFL health push for Hispanic Heritage Month",
+      "link": "https://giantswire.usatoday.com/story/sports/nfl/giants/2025/10/05/ex-new-yokr-giants-victor-cruz-fuels-nfl-health-push-hispanic-heritage-month/86518109007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T10:30:25+0000",
+      "summary": "Victor Cruz partners with NFLA for Hispanic Heritage Month's health hike campaign, drawing from his roots to fight obesity in Hispanic communities."
+    },
+    {
+      "id": "1e9bc4a5b94876b2",
+      "title": "NFL London Game: How to Watch the Minnesota Vikings vs. Cleveland Browns Live from England Online",
+      "link": "https://variety.com/2025/shopping/news/how-to-watch-nfl-london-game-online-livestream-free-1236537124/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T10:30:00+0000",
+      "summary": "Last week, it was Dublin. And this week, it’s London. With the NFL expanding American football outside of the United States, more and more games are taking place overseas to court fans from different countries. The league now travels to England for NFL London Game. For Week 5, the Minnesota Vikings (2-2) battle the Cleveland …"
+    },
+    {
+      "id": "ca5fcf2b9229d3a1",
+      "title": "Colts vs. Raiders: Start 'em, sit 'em for Week 5 matchup",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/week-5-fantasy-football-start-sit-colts-raiders/86498420007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T10:26:06+0000",
+      "summary": "Which Colts players should you start and who should you sit in the team's Week 5 matchup vs. the Raiders?"
+    },
+    {
       "id": "323fa305ebd0a4f9",
       "title": "Detroit Lions picks vs Cincinnati Bengals for NFL Week 5: Will Lions make it 4 in a row?",
       "link": "https://freep.com/story/sports/nfl/lions/2025/10/05/detroit-lions-picks-predictions-vs-cincinnati-bengals-for-nfl-week-5/86508862007/",
@@ -18,42 +54,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-05T10:03:56+0000",
       "summary": "Five Free Press sports writers chime in on the Detroit Lions matchup vs. the Cincinnati Bengals on Sunday, Oct. 5."
-    },
-    {
-      "id": "0a69c1d449a5fbb0",
-      "title": "What happened to Deshaun Watson? Injury update, return date for Browns QB",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/05/deshaun-watson-injury-update-return-browns/86480280007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T10:02:50+0000",
-      "summary": "Deshaun Watson has been a forgotten man during the 2025 NFL season. As the Browns cycle through QBs, here is what happened to the former Texans star."
-    },
-    {
-      "id": "7fd26be1402510eb",
-      "title": "Detroit Lions vs Cincinnati Bengals prediction, scouting report in NFL Week 5",
-      "link": "https://freep.com/story/sports/nfl/lions/2025/10/05/lions-bengals-pick-scouting-report-week-5/86436237007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T10:02:33+0000",
-      "summary": "Detroit Lions are taking on the Cincinnati Bengals in a Week 5 NFL matchup on Sunday in Cincinnati. Here's our scouting report and game prediction."
-    },
-    {
-      "id": "d1ec704138e4b79c",
-      "title": "What channel is Titans vs. Cardinals on today? Time, TV schedule for NFL Week 5 game",
-      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/10/05/where-watch-tennessee-titans-arizona-cardinals-today-tv-channel-live-stream/86500205007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T10:01:16+0000",
-      "summary": "The Tennessee Titans and Arizona Cardinals face off in Week 5 of the NFL regular season today. Here's where to watch and start time."
-    },
-    {
-      "id": "5f68652a6731d53f",
-      "title": "What TV channel is Bucs vs. Seahawks on today? Time, TV schedule for NFL game",
-      "link": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2025/10/05/bucs-seahawks-how-to-watch-week-5/86532519007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T09:55:22+0000",
-      "summary": "Here is how you can watch the Bucs Week 5 matchup with the Seahawks."
     },
     {
       "id": "06bb6033bd73f3c5",
@@ -164,15 +164,6 @@
       "summary": "The Colts will look to bounce back against a Las Vegas Raiders team that, even at 1-3, features a couple of league-wide star players."
     },
     {
-      "id": "f534b064b05fdb6e",
-      "title": "Colts vs. Raiders Week 5: Players to watch",
-      "link": "https://stampedeblue.com/analysis/115743/colts-vs-raiders-week-5-players-to-watch",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-03T14:30:00+0000",
-      "summary": "Once again throwing out the disclaimer here, this is a series where we will look over underrated players that could end up having a significant impact on the game, not the usual “Watch out for Jonathan Taylor! He is really good!”. Adetomiwa Adebawore Adebawore has been enjoying a breakout season so far, an unexpected one. [&#8230;]"
-    },
-    {
       "id": "236e1e9c8c75b74b",
       "title": "Ahead of retirement, Shaquille Leonard's former teammates celebrate impact 'generational talent' made on and off the field",
       "link": "https://colts.com/news/ahead-of-retirement-shaquille-leonard-s-former-teammates-celebrate-impact-generational-talent-made-on-and-off-the-field",
@@ -180,15 +171,6 @@
       "feed": "Colts.com",
       "published": "2025-10-03T13:00:01+0000",
       "summary": "Leonard, a three-time first-team AP All-Pro, will retire as a member of the Colts at halftime of Sunday's Week 5 game against the Las Vegas Raiders at Lucas Oil Stadium."
-    },
-    {
-      "id": "dff337a88723d445",
-      "title": "Daniel Jones and Colts passing offense matchup well against Raiders defense",
-      "link": "https://stampedeblue.com/analysis/115723/daniel-jones-and-colts-passing-offense-matchup-well-against-raiders-defense",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-03T12:00:00+0000",
-      "summary": "Indianapolis Colts quarterback Daniel Jones has not only rebounded his career to become an MVP candidate through the regular season’s first month of play, but he’s unlocked a part of himself. Thanks in large part to head coach Shane Steichen’s usage, Jones has quickly blossomed as one of the league’s worst passers under pressure and/or [&#8230;]"
     },
     {
       "id": "3eb731f862e90191",
@@ -344,6 +326,15 @@
       "summary": "ESPN’s Dan Graziano and Jeremy Fowler floated Anthony Richardson as a potential trade candidate — but only under the right circumstances. With Daniel Jones playing at a high level in Indianapolis, Richardson is stuck on the bench. Fowler suggests Richardson might be open to joining an offensive-minded coach like Sean McVay as a long-term developmental [&#8230;]"
     },
     {
+      "id": "ea9c79757ff6cc21",
+      "title": "Week 4 Film Review:Rams",
+      "link": "https://stampedeblue.com/colts-film-analysis/115658/week-4-film-reviewrams",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T13:24:30+0000",
+      "summary": "The Colts lost a tough one on the road to a very good Rams team. Before we get into some of the key plays from the game, let’s just state the obvious. The Colts had every reason to win that game. They beat themselves, which we’ve unfortunately seen too often with this team. But it’s [&#8230;]"
+    },
+    {
       "id": "27d2cc201f0f00b1",
       "title": "Colts sign CB Keenan Garber to practice squad",
       "link": "https://colts.com/news/colts-sign-cb-keenan-garber-to-practice-squad",
@@ -351,6 +342,15 @@
       "feed": "Colts.com",
       "published": "2025-10-02T12:41:47+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "a53d2eb11e16839e",
+      "title": "Colts struggling veteran CB Xavien Howard announces abrupt retirement",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115661/colts-cb-xavien-howard-announces-abrupt-retirement",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T03:10:27+0000",
+      "summary": "Indianapolis Colts veteran cornerback Xavien Howard announced his retirement on social media, after just 4 starts—and having returned to the football field this year after a season-long absence. The Colts also announced that they have placed Howard on the reserve/retired list and signed safety Trey Washington from the practice squad to the team’s active 53-man [&#8230;]"
     },
     {
       "id": "1a082879459b6e67",
