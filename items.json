@@ -1,6 +1,51 @@
 {
-  "updated": "2025-10-05T22:37:54+00:00",
+  "updated": "2025-10-05T23:13:53+00:00",
   "items": [
+    {
+      "id": "9fe13339b48e8883",
+      "title": "Knee injury to Colts' Shrader 'doesn't look good'",
+      "link": "https://espn.com/nfl/story/_/id/46502174/colts-spencer-shrader-suffers-potentially-serious-knee-injury",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T23:56:57+0000",
+      "summary": "Colts kicker Spencer Shrader sustained a potentially serious knee injury in the Colts' 40-6 victory over the Raiders on Sunday."
+    },
+    {
+      "id": "dae445e4cc70d49f",
+      "title": "Sanchez charged after allegedly attacking driver",
+      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T23:56:57+0000",
+      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
+    },
+    {
+      "id": "fb7589ddf9dd68f5",
+      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
+      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T23:56:57+0000",
+      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+    },
+    {
+      "id": "416819ca4ea404ed",
+      "title": "Why QB Justin Fields could run into Jets, NFL history books",
+      "link": "https://espn.com/nfl/story/_/id/46479684/new-york-jets-justin-fields-rushing-records-history",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T23:34:18+0000",
+      "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
+    },
+    {
+      "id": "a5e01e14c81b5c3d",
+      "title": "Fantasy Buzz: Jones, Colts roll on; Waller's comeback tour continues",
+      "link": "https://espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T23:34:12+0000",
+      "summary": "Early takeaways from Sunday's games, including another solid day from Daniel Jones and another TD for Darren Waller."
+    },
     {
       "id": "8c65c84157931c80",
       "title": "Questions, takeaways off every NFL Week 5 game: Are the Broncos playoff worthy? Have the Ravens hit rock bottom?",
@@ -11,58 +56,85 @@
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
     },
     {
-      "id": "a5e01e14c81b5c3d",
-      "title": "Fantasy Buzz: Jones, Colts roll on; Waller's comeback tour continues",
-      "link": "https://espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:33:27+0000",
-      "summary": "Early takeaways from Sunday's games, including another solid day from Daniel Jones and another TD for Darren Waller."
-    },
-    {
-      "id": "9fe13339b48e8883",
-      "title": "Knee injury to Colts' Shrader 'doesn't look good'",
-      "link": "https://espn.com/nfl/story/_/id/46502174/colts-spencer-shrader-suffers-potentially-serious-knee-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:18:35+0000",
-      "summary": "Colts kicker Spencer Shrader sustained a potentially serious knee injury in the Colts' 40-6 victory over the Raiders on Sunday."
-    },
-    {
-      "id": "dae445e4cc70d49f",
-      "title": "Sanchez charged after allegedly attacking driver",
-      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:18:35+0000",
-      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
-    },
-    {
-      "id": "b53c9ecbfc86f6db",
-      "title": "Retired Leonard refinds love of football as coach",
-      "link": "https://espn.com/nfl/story/_/id/46498756/retired-shaquille-leonard-recaptured-love-football-coach",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:18:35+0000",
-      "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
-    },
-    {
-      "id": "fb7589ddf9dd68f5",
-      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
-      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:18:35+0000",
-      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
-    },
-    {
-      "id": "ec4856457c61846e",
-      "title": "Bengals tight end Mike Gesicki injured vs Lions in NFL Week 5",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/mike-gesicki-injury-bengals-tight-end-hurt-vs-lions-nfl-week-5/85559919007/",
+      "id": "9b4706ff2912ee70",
+      "title": "Cardinals' Demercado becomes 2nd player in as many weeks to lose ball at goal line for touchback",
+      "link": "https://sports.yahoo.com/article/cardinals-demercado-becomes-2nd-player-230629607.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:31:14+0000",
-      "summary": "In 2024, tight end Mike Gesicki played in all 17 games for the Bengals, and had 65 catches for 665 receiving yards with two touchdowns."
+      "published": "2025-10-05T23:06:29+0000",
+      "summary": "Arizona Cardinals running back Emari Demercado had a 72-yard touchdown wiped away against the Tennessee Titans after he tossed the ball before crossing the goal line.  It was the second straight week an NFL player turned a long TD into a touchback by losing the ball just outside the end zone.  With the Cardinals leading 21-6 in the fourth quarter on Sunday, Demercardo burst through the middle and raced toward the end zone."
+    },
+    {
+      "id": "068e37d73fa95458",
+      "title": "NFL week 5: Game balls from the Saints' first victory of the year over the Giants",
+      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/10/05/nfl-week-5-game-balls-saints-spencer-rattler-kool-aid-mckinstry/86540628007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:52:27+0000",
+      "summary": "The New Orleans Saints earned their first win over the year by knocking out the New York Giants, but who earned game balls for individual efforts?"
+    },
+    {
+      "id": "ec6eb20ce7d6b484",
+      "title": "Titans cut Cardinals lead to 21-12 after Emari Demercado blunder",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-cut-cardinals-lead-to-21-12-after-emari-demercado-blunder",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:51:07+0000",
+      "summary": "Cardinals running back Emari Demercado didn't learn any lessons from Colts wideout Adonai Mitchell."
+    },
+    {
+      "id": "dd8775d9a5c9d45d",
+      "title": "Geno Smith's early-season struggles continue as Raiders are blown out by Colts",
+      "link": "https://sports.yahoo.com/article/geno-smiths-early-season-struggles-225045091.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:50:45+0000",
+      "summary": "Las Vegas Raiders quarterback Geno Smith knows he must play better than he did Sunday at Indianapolis — and that his whole season has been a disappointment so far.  Five games into his first year with the Raiders, Smith has more interceptions than touchdown passes as the Raiders have stumbled to four straight losses."
+    },
+    {
+      "id": "30b0768cb6e525ca",
+      "title": "Lions defensive back Terrion Arnold injured vs Bengals in NFL Week 5",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/terrion-arnold-injury-lions-defensive-back-hurt-vs-bengals-nfl-week-5/86538858007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:47:39+0000",
+      "summary": "Defensive back Terrion Arnold was selected by the Lions in the first round (24th overall) of the 2024 NFL draft from Alabama."
+    },
+    {
+      "id": "8e46c0ead6d6c1b2",
+      "title": "With 3 more touchdowns, Colts' Jonathan Taylor continues playing like the 'best back in the league'",
+      "link": "https://colts.com/news/with-3-more-touchdowns-colts-jonathan-taylor-continues-playing-like-the-best-back-in-the-league",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T22:47:35+0000",
+      "summary": "Jonathan Taylor's seven touchdowns in the first five games of the 2025 season tied a franchise record last reached by Marvin Harrison in 1999."
+    },
+    {
+      "id": "b7524fc850c9bd47",
+      "title": "How the Colts shutdown Raiders' Maxx Crosby: Thumps, chips and 4 hands on him at all times",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/maxx-crosby-zero-sacks-colts-raiders-sack-streak/86540563007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:39:21+0000",
+      "summary": "The Colts had a plan to stop Maxx Crosby and executed, doing something that hadn't been done in 39 games"
+    },
+    {
+      "id": "0c51df2978cf9d13",
+      "title": "David Montgomery, Jahmyr Gibbs score TDs in same game for NFL-record tying 14th time",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-montgomery-jahmyr-gibbs-score-tds-in-same-game-for-nfl-record-tying-14th-time",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:37:28+0000",
+      "summary": "Lions running backs David Montgomery and Jahmyr Gibbs both scored touchdowns today, putting them in some elite company for NFL running back duos."
+    },
+    {
+      "id": "5d945d07fe4a1d43",
+      "title": "Jets have no wins and no takeaways on defense this season as they fall to 0-5 under Aaron Glenn",
+      "link": "https://sports.yahoo.com/article/jets-no-wins-no-takeaways-223512284.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T22:35:12+0000",
+      "summary": "Aaron Glenn and the New York Jets are making history in all the wrong ways this season.  The Jets dropped to 0-5 with a dismal showing in a 37-22 loss to the Dallas Cowboys on Sunday, leaving them and the Tennessee Titans — who were playing later in the day — as the NFL's only winless teams.  A former Pro Bowl cornerback who played eight of his 15 seasons in New York, Glenn became the first coach in franchise history to begin his tenure with five losses."
     },
     {
       "id": "37e312336bd19c98",
@@ -74,24 +146,6 @@
       "summary": "The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart."
     },
     {
-      "id": "65dc0b3460f5a4b8",
-      "title": "Pete Carroll admits he’s having a really bad time after Colts embarrassment",
-      "link": "https://clutchpoints.com/nfl/las-vegas-raiders/raiders-news-pete-carroll-admits-hes-having-a-really-bad-time-after-colts-embarrassment",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:24:38+0000",
-      "summary": "The Raiders head coach has now lost four straight games. Pete Carroll eventually dropped a big admission after losing to the Colts."
-    },
-    {
-      "id": "9328f56bc5ac20d8",
-      "title": "Former Ohio State wide receiver has won NFL Rookie of the Month for September",
-      "link": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2025/10/05/ohio-state-football-emeka-egbuka-nfl-offensive-rookie-of-month/86526579007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:23:19+0000",
-      "summary": "Ohio State stakes yet another claim to being &quot;Wide Receiver U&quot; after former Buckeye is named NFL Offensive Rookie of the Month."
-    },
-    {
       "id": "432c1c4e4b9669b4",
       "title": "How a certain collective mentality produced Colts' biggest margin of victory in over a decade with Week 5 blowout win over Raiders",
       "link": "https://colts.com/news/how-a-certain-collective-mentality-produced-colts-biggest-margin-of-victory-in-over-a-decade-with-week-5-blowout-win-over-raiders",
@@ -101,24 +155,6 @@
       "summary": "The Colts' 40-6 win over the Las Vegas Raiders came on the heels of a frustrating Week 4 loss to the Los Angeles Rams – a defeat the Colts did not let linger in a negative way leading up to Sunday."
     },
     {
-      "id": "dcff8910cdac7a0f",
-      "title": "Los Angeles Chargers' Keenan Allen makes NFL history in Week 5 vs. Washington",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-chargers/news/los-angeles-chargers-keenan-allen-makes-nfl-history-week-5-vs-washington/1b986ae66a771f89dd4ac29d",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:12:23+0000",
-      "summary": "Los Angeles Chargers wide receiver Keenan Allen has reached the 1,000-catch plateau for his career."
-    },
-    {
-      "id": "773875b7ee6c8824",
-      "title": "2026 NFL Draft order: Jets remain winless, top the list after Week 5",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/05/2026-nfl-draft-order-updated-picks-week-5/86539759007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T22:10:21+0000",
-      "summary": "The New York Jets remain winless after five weeks, and headline the 2026 NFL Draft order. Here's a look at the full list."
-    },
-    {
       "id": "c220261b9871fa38",
       "title": "After win over Raiders, Colts react to Spencer Shrader's knee injury: 'Hate it for him'",
       "link": "https://colts.com/news/shane-steichen-luke-rhodes-spencer-shrader-knee-injury-colts-raiders-week-5",
@@ -126,6 +162,24 @@
       "feed": "Colts.com",
       "published": "2025-10-05T21:49:11+0000",
       "summary": "Shrader sustained a knee injury in the second quarter of the Colts' 40-6 win over the Raiders on Sunday."
+    },
+    {
+      "id": "14a67e7160c932d8",
+      "title": "Colts head coach has discouraging, yet limited injury update on kicker Spencer Shrader",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115805/colts-head-coach-has-discouraging-injury-update-on-place-kicker-spencer-shrader",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-05T21:47:51+0000",
+      "summary": "According to head coach Shane Steichen post-game, “it doesn’t look good” regarding now injured Indianapolis Colts place kicker Spencer Shrader (via 1075 The Fan’s Kevin Bowen): Shrader was injured with 7:56 left in the second quarter on an extra point attempt, when he was run over during his post-kicking motion, and roughing the kicker was [&#8230;]"
+    },
+    {
+      "id": "0e7430843dd0e62d",
+      "title": "Colts roll through Raiders 40-6 to remain unbeaten inside Lucas Oil Stadium",
+      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/115795/colts-roll-through-raiders-40-6-to-remain-unbeaten-inside-lucas-oil-stadium",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-05T21:45:08+0000",
+      "summary": "The Indianapolis Colts steamrolled over the Las Vegas Raiders 40-6 with a balanced offensive onslaught tailored with a suffocating defensive performance. The Colts put on a clinic Sunday to improve to 4-1, remaining unbeaten inside Lucas Oil Stadium as they have outscored their three home opponents 102 to 42.  Indianapolis improved its season scoring efficiency [&#8230;]"
     },
     {
       "id": "43c740c430ee0636",
@@ -189,15 +243,6 @@
       "feed": "ESPN",
       "published": "2025-10-05T17:57:02+0000",
       "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
-    },
-    {
-      "id": "416819ca4ea404ed",
-      "title": "Why QB Justin Fields could run into Jets, NFL history books",
-      "link": "https://espn.com/nfl/story/_/id/46479684/new-york-jets-justin-fields-rushing-records-history",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T17:56:38+0000",
-      "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
     },
     {
       "id": "380681c19d54d4c7",
@@ -416,15 +461,6 @@
       "summary": "Latu totaled nine pressures in Week 4, the most by a Colts player in a single game in four years."
     },
     {
-      "id": "8dd46462ea2df071",
-      "title": "Week 4 Colts Defensive Rankings and Analysis",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115663/week-4-colts-offensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-02T19:42:09+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
-    },
-    {
       "id": "0907eb3ef7263dd3",
       "title": "Colts kicker Spencer Shrader grateful, even more motivated to succeed after winning AFC Special Teams Player of the Month",
       "link": "https://colts.com/news/colts-kicker-spencer-shrader-grateful-motivated-afc-special-teams-player-of-the-month-september-luke-rhodes-rigoberto-sanchez",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-01T22:31:59+0000",
       "summary": "INDIANAPOLIS – It’s the only way to navigate the NFL’s 17-game season: Turn the page. Review on Monday what took place the previous day – good and bad – make the necessary adjustments, then assume the necessary tunnel-vision approach for the next opponent. \"You’re on to the next week pretty quickly,\" Daniel Jones said on [...]"
-    },
-    {
-      "id": "ea68ebfd08fcb67c",
-      "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad",
-      "link": "https://colts.com/news/colts-place-cb-xavien-howard-on-reserve-retired-list-sign-s-trey-washington-to-53-man-roster-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T22:10:44+0000",
-      "summary": "The Colts made the roster move on Wednesday."
-    },
-    {
-      "id": "4647c6b211f7f9a8",
-      "title": "Shane Steichen sees common thread between Raiders QB Geno Smith and Colts QB Daniel Jones",
-      "link": "https://colts.com/news/shane-steichen-sees-common-thread-between-raiders-qb-geno-smith-and-colts-qb-daniel-jones",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T20:44:58+0000",
-      "summary": "Steichen was with Smith for one season with the Los Angeles Chargers, and even though he didn't start that year, the now-Colts head coach was impressed by his work ethic."
-    },
-    {
-      "id": "67f3364c6448c0cc",
-      "title": "Practice Notebook: G Matt Goncalves, WR Alec Pierce return to practice after missing Week 4 game vs. Rams",
-      "link": "https://colts.com/news/alec-pierce-injury-update-practice-matt-goncalves-kenny-moore-xavien-howard-status",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T19:42:11+0000",
-      "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
-    },
-    {
-      "id": "4597ee96bda42a59",
-      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
-      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-01T14:22:29+0000",
-      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
     }
   ],
   "links": [
