@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T20:17:34+00:00",
+  "updated": "2025-10-05T20:37:24+00:00",
   "items": [
     {
       "id": "8c65c84157931c80",
@@ -7,35 +7,8 @@
       "link": "https://espn.com/nfl/story/_/id/46435996/nfl-week-5-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-05T21:14:01+0000",
+      "published": "2025-10-05T21:27:06+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
-    },
-    {
-      "id": "dae445e4cc70d49f",
-      "title": "Sanchez charged after allegedly attacking driver",
-      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T20:51:32+0000",
-      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
-    },
-    {
-      "id": "8b512fc47ba65403",
-      "title": "Raiders star TE Bowers inactive with knee injury",
-      "link": "https://espn.com/nfl/story/_/id/46497563/raiders-star-te-brock-bowers-inactive-vs-colts-knee-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T20:51:32+0000",
-      "summary": "Raiders tight end Brock Bowers is inactive for Sunday's matchup against the Colts due to a knee injury."
-    },
-    {
-      "id": "b53c9ecbfc86f6db",
-      "title": "Retired Leonard refinds love of football as coach",
-      "link": "https://espn.com/nfl/story/_/id/46498756/retired-shaquille-leonard-recaptured-love-football-coach",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T20:51:32+0000",
-      "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
     },
     {
       "id": "fb7589ddf9dd68f5",
@@ -43,8 +16,71 @@
       "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-05T20:51:32+0000",
+      "published": "2025-10-05T21:20:54+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+    },
+    {
+      "id": "dae445e4cc70d49f",
+      "title": "Sanchez charged after allegedly attacking driver",
+      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T21:20:53+0000",
+      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
+    },
+    {
+      "id": "b53c9ecbfc86f6db",
+      "title": "Retired Leonard refinds love of football as coach",
+      "link": "https://espn.com/nfl/story/_/id/46498756/retired-shaquille-leonard-recaptured-love-football-coach",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T21:20:53+0000",
+      "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
+    },
+    {
+      "id": "89611f954d3b1ac0",
+      "title": "Was this roughing the passer in Saints-Giants, or aggressive two-hand touch?",
+      "link": "https://sports.yahoo.com/nfl/article/was-this-roughing-the-passer-in-saints-giants-or-aggressive-two-hand-touch-202523462.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T20:25:23+0000",
+      "summary": "We have another entrant in the annals of dubious NFL officiating."
+    },
+    {
+      "id": "cb6c52d021e19cc4",
+      "title": "Why Sunday's win over the Raiders was so important for Colts' playoff odds",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/colts-playoff-odds-raiders-nfl-playoffs/86538131007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T20:22:59+0000",
+      "summary": "See the difference between being 4-1 and 3-2 when it comes to making the NFL playoffs"
+    },
+    {
+      "id": "029e9acadeaa1079",
+      "title": "NFL Winners and Losers: Ravens might be cooked after embarrassing loss to Texans",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-winners-and-losers-ravens-might-be-cooked-after-embarrassing-loss-to-texans-202250994.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T20:22:50+0000",
+      "summary": "The Ravens fell to 1-4 with an blowout loss."
+    },
+    {
+      "id": "819dd97812e50f5e",
+      "title": "4 things learned from Colts' Week 5 performance vs. Raiders",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/colts-raiders-4-things-learned-week-5-win/86538380007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T20:19:03+0000",
+      "summary": "Following the Colts' Week 5 win vs. the Raiders, here are four things we learned from the performance."
+    },
+    {
+      "id": "9efadddd07cceec7",
+      "title": "Jonathan Taylor runs for 3 touchdowns and Daniel Jones throws for 2 as Colts rout Raiders 40-6",
+      "link": "https://sports.yahoo.com/article/jonathan-taylor-runs-3-touchdowns-201721049.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T20:17:21+0000",
+      "summary": "Jonathan Taylor ran for three touchdowns and a 2-point conversion, and Daniel Jones threw two touchdown passes Sunday as the Indianapolis Colts routed the Las Vegas Raiders 40-6.  The 34-point margin was Indy's largest since it won 37-3 at Jacksonville in 2013.  Jones finished 20 of 29 for 212 yards and moved to 4-1 as a starter this year, surpassing his combined victory total over the past two seasons with the New York Giants."
     },
     {
       "id": "3657a946dd7f35f3",
@@ -56,15 +92,6 @@
       "summary": "The Indianapolis Colts played the Las Vegas Raiders in NFL Week 5 action. Here's the breakdown: Stats, scoring plays, team stats."
     },
     {
-      "id": "8e46dc6b5b5bfe86",
-      "title": "Oh Yeah: Kool-Aid McKinstry snags his first, and second, INT's vs. Giants",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/10/05/saints-kool-aid-mckinstry-interception-jaxson-dart-giants-highlights/86538470007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:09:24+0000",
-      "summary": "The New Orleans Saints have forced quite a few turnovers against the New York Giants, including Kool-Aid McKinstry's first and NFL interceptions:"
-    },
-    {
       "id": "df6c39715a5be4d7",
       "title": "Colts thoughts on Tyler Warren, Adonai Mitchell and more after 40-6 win vs Raiders",
       "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/colts-tyler-warren-adonai-mitchell-raiders-daniel-jones-shane-steichen/86412551007/",
@@ -72,51 +99,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-05T20:08:33+0000",
       "summary": "The Colts took apart the Las Vegas Raiders, 40-6, and IndyStar Insider Joel A. Erickson has thoughts on the performance"
-    },
-    {
-      "id": "7d7c1a55937cf135",
-      "title": "Saints RB Alvin Kamara now ranks top-five all-time in receptions among running backs",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/10/05/nfl-most-receptions-running-backs-alvin-kamara-marshall-faulk-record/86538176007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:05:12+0000",
-      "summary": "Alvin Kamara passed another milestone on Sunday. The New Orleans Saints superstar now ranks top-five in receptions among running backs in NFL history:"
-    },
-    {
-      "id": "87c4731279584b53",
-      "title": "Will Ravens fire John Harbaugh? Why Baltimore coach could be on the hot seat after embarrassing game vs. Texans",
-      "link": "https://sportingnews.com/us/nfl/baltimore-ravens/news/ravens-fire-john-harbaugh-baltimore-coach/51c44e50dd934cc111e25f33",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:04:46+0000",
-      "summary": "John Harbaugh is the NFL's second longest-tenured head coach, but Baltimore's 2025 implosion has some questioning his job security."
-    },
-    {
-      "id": "0fba2dea46d1daf3",
-      "title": "Colts get back on track, roll Raiders, 40-6",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-get-back-on-track-roll-raiders-40-6",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:02:47+0000",
-      "summary": "Indianapolis dominated Las Vegas on Sunday, scoring touchdowns on six consecutive possessions."
-    },
-    {
-      "id": "195f6430dcad9566",
-      "title": "Colts winners and losers include Indianapolis' offense, Ashton Dulin and more",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/colts-winners-and-losers-indianapolis-colts-offense-ashton-dulin-las-vegas-raiders/86412566007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:00:08+0000",
-      "summary": "The Colts cruised to a 40-6 victory over the Las Vegas Raiders with plenty of winners ... and a couple losers"
-    },
-    {
-      "id": "a67a9e671a799875",
-      "title": "Good, bad and ugly from Colts' Week 5 win vs. Raiders",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/colts-raiders-good-bad-ugly-from-week-5-performance/86538322007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T19:59:00+0000",
-      "summary": "Following the Colts' Week 5 win over the Raiders, here is the good, the bad, and the ugly from what took place."
     },
     {
       "id": "0749deb2c05a8bc1",
@@ -128,15 +110,6 @@
       "summary": "INDIANAPOLIS — The Indianapolis Colts rebounded from their first loss of the season last week to beat the Las Vegas Raiders, 40-6, at Lucas Oil Stadium on Sunday afternoon to improve to 4-1. The Raiders jumped out to a 3-0 lead in the first quarter, but the Colts took total control of the game from [...]"
     },
     {
-      "id": "d63d61debd7f30ab",
-      "title": "Instant analysis of Colts' big Week 5 win vs. Raiders",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/colts-raiders-instant-analysis-week-5-win/86538122007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T19:56:44+0000",
-      "summary": "With the Colts vs. Raiders Week 5 game wrapped up, here are our instant takeaways from Indianapolis' performance."
-    },
-    {
       "id": "cd7a63fb2562d8ef",
       "title": "Jonathan Taylor scores 3 touchdowns as Colts dismantle Raiders",
       "link": "https://colts.com/news/jonathan-taylor-touchdowns-tyler-warren-colts-raiders-win-anthony-richardson",
@@ -144,42 +117,6 @@
       "feed": "Colts.com",
       "published": "2025-10-05T19:55:58+0000",
       "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
-    },
-    {
-      "id": "32c1624c64e5453a",
-      "title": "Who is the fastest player in the NFL? Where Jonathan Taylor, Rashid Shaheed rank on list of top 2025 speeds so far",
-      "link": "https://sportingnews.com/us/nfl/news/fastest-player-nfl-rank-list-top-2025-speeds/cdce591e094a09e7822eb3a8",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T19:52:17+0000",
-      "summary": "The NFL has had its fair share of speed demons this year."
-    },
-    {
-      "id": "0944d905374e6638",
-      "title": "Seahawks vs. Buccaneers live updates: NFL season game score, highlights",
-      "link": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2025/10/05/seahawks-vs-buccaneers-live-score-nfl-week-5-game-updates-highlights/86538500007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T19:50:18+0000",
-      "summary": "Follow along with Seahawks Wire's live blog for Seattle's game against Tampa Bay in Week 5 of the 2025 NFL season"
-    },
-    {
-      "id": "4f271678e575e349",
-      "title": "Watch Colts QB Anthony Richardson complete a pass to himself vs Raiders",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/anthony-richardson-completes-a-pass-to-himself-vs-raiders-catch/86538479007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T19:49:52+0000",
-      "summary": "Anthony Richardson received his first significant playing time of the season Sunday and the uber-athletic quarterback completed a pass to himself"
-    },
-    {
-      "id": "38cd78e33305c888",
-      "title": "Colts vs. Raiders: Game Day Thread",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115779/colts-vs-raiders-open-thread",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T18:58:15+0000",
-      "summary": "The Indianapolis Colts currently lead the Las Vegas Raiders 26-3 near midway through the third quarter. Please leave your game thoughts, reactions, etc. Go Horse!"
     },
     {
       "id": "e8c080c84ef629a4",
@@ -506,6 +443,15 @@
       "summary": "INDIANAPOLIS – Four Colts, including three icons who touched two cities, are among 52 senior candidates who will be considered for the Pro Football Hall of Fame’s Class of 2026. Offensive lineman Chris Hinton, whose 13-year career began with decorated seasons in Baltimore and Indy, along with cornerback Bobby Boyd and linebacker Mike Curtis, both [...]"
     },
     {
+      "id": "b4ddf360cd734937",
+      "title": "ESPN floated a Richardson trade and Daniel Jones might force the Colts to consider it",
+      "link": "https://stampedeblue.com/analysis/115654/espns-fowler-believes-anthony-richardson-will-request-a-trade-to-la-rams",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T14:00:00+0000",
+      "summary": "ESPN’s Dan Graziano and Jeremy Fowler floated Anthony Richardson as a potential trade candidate — but only under the right circumstances. With Daniel Jones playing at a high level in Indianapolis, Richardson is stuck on the bench. Fowler suggests Richardson might be open to joining an offensive-minded coach like Sean McVay as a long-term developmental [&#8230;]"
+    },
+    {
       "id": "27d2cc201f0f00b1",
       "title": "Colts sign CB Keenan Garber to practice squad",
       "link": "https://colts.com/news/colts-sign-cb-keenan-garber-to-practice-squad",
@@ -540,6 +486,60 @@
       "feed": "Colts.com",
       "published": "2025-10-01T22:10:44+0000",
       "summary": "The Colts made the roster move on Wednesday."
+    },
+    {
+      "id": "4647c6b211f7f9a8",
+      "title": "Shane Steichen sees common thread between Raiders QB Geno Smith and Colts QB Daniel Jones",
+      "link": "https://colts.com/news/shane-steichen-sees-common-thread-between-raiders-qb-geno-smith-and-colts-qb-daniel-jones",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T20:44:58+0000",
+      "summary": "Steichen was with Smith for one season with the Los Angeles Chargers, and even though he didn't start that year, the now-Colts head coach was impressed by his work ethic."
+    },
+    {
+      "id": "67f3364c6448c0cc",
+      "title": "Practice Notebook: G Matt Goncalves, WR Alec Pierce return to practice after missing Week 4 game vs. Rams",
+      "link": "https://colts.com/news/alec-pierce-injury-update-practice-matt-goncalves-kenny-moore-xavien-howard-status",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T19:42:11+0000",
+      "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "4597ee96bda42a59",
+      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
+      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T14:22:29+0000",
+      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
+    },
+    {
+      "id": "38ba95286905eea0",
+      "title": "Former All-Pro linebacker Shaquille Leonard to retire as member of Colts at halftime of Week 5 game vs. Las Vegas Raiders",
+      "link": "https://colts.com/news/former-all-pro-linebacker-shaquille-leonard-to-retire-as-member-of-colts-at-halftime-of-week-5-game-vs-las-vegas-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T14:00:14+0000",
+      "summary": "Leonard was a three-time first-team AP All-Pro and three-time Pro Bowler during six standout seasons with the Colts."
+    },
+    {
+      "id": "693db902795d5d9a",
+      "title": "Blame for the Colts’ 10-man defense: Coordinator Lou Anarumo takes full responsibility",
+      "link": "https://fox59.com/sports/colts/blame-for-the-colts-10-man-defense-coordinator-lou-anarumo-takes-full-responsibility/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-30T21:30:48+0000",
+      "summary": "INDIANAPOLIS – In this instance, the buck didn’t stop at the boss’s desk. The boss would be Shane Steichen. The Indianapolis Colts’ third-year head coach accepted the blame for his defense having only 10 players on the field when Matthew Stafford hooked up with Tutu Atwell for a game-winning 88-yard touchdown in Sunday’s 27-20 loss [...]"
+    },
+    {
+      "id": "75fe988a6df0db17",
+      "title": "Colts release unofficial depth chart for Week 5 game vs. Las Vegas Raiders",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-5-game-vs-las-vegas-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-30T20:34:41+0000",
+      "summary": "The Colts released their Week 5 unofficial depth chart ahead of their game against the Las Vegas Raiders Sunday at Lucas Oil Stadium. Check it out below:"
     }
   ],
   "links": [
