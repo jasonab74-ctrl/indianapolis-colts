@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T17:36:33+00:00",
+  "updated": "2025-10-05T18:22:22+00:00",
   "items": [
     {
       "id": "8c65c84157931c80",
@@ -9,6 +9,15 @@
       "feed": "ESPN",
       "published": "2025-10-05T18:24:11+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
+    },
+    {
+      "id": "30c770cacc1a6836",
+      "title": "Colts CB Mike Hilton ruled out of Week 5 game vs. Raiders with injury",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/mike-hilton-injury-update-colts-exits-week-5-game-raiders/86537661007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T18:13:35+0000",
+      "summary": "Colts' CB Mike Hilton has been ruled out for the remainder of the team's Week 5 game vs. the Raiders."
     },
     {
       "id": "8b512fc47ba65403",
@@ -26,7 +35,7 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-10-05T18:09:53+0000",
-      "summary": "Shaquille Leonard said he has now rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
+      "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
     },
     {
       "id": "fb7589ddf9dd68f5",
@@ -45,6 +54,24 @@
       "feed": "ESPN",
       "published": "2025-10-05T18:09:52+0000",
       "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
+    },
+    {
+      "id": "a79d46b08d13f2f7",
+      "title": "Colts K Spencer Shrader exits Week 5 game vs. Raiders with injury",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/spencer-shrader-injury-update-colts-kicker-exits-week-5-game/86537515007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T18:03:11+0000",
+      "summary": "Colts' kicker Spencer Shrader has exited the team's Week 5 game vs. the Raiders."
+    },
+    {
+      "id": "06ffcb60aaee8dc7",
+      "title": "Vikings snatch late win over Browns in London",
+      "link": "https://bbc.com/sport/american-football/articles/czjvlx79djpo",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T18:00:14+0000",
+      "summary": "The Minnesota Vikings deny Dillon Gabriel victory on his first NFL start as they snatch a 21-17 win over the Cleveland Browns at Tottenham."
     },
     {
       "id": "e8c080c84ef629a4",
@@ -72,24 +99,6 @@
       "feed": "ESPN",
       "published": "2025-10-05T17:56:38+0000",
       "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
-    },
-    {
-      "id": "06ffcb60aaee8dc7",
-      "title": "Vikings snatch late win over Browns in London",
-      "link": "https://bbc.com/sport/american-football/articles/czjvlx79djpo",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T17:21:22+0000",
-      "summary": "The Minnesota Vikings deny Dillon Gabriel victory on his first NFL start as they snatch a 21-17 win over the Cleveland Browns at Tottenham."
-    },
-    {
-      "id": "56dfff3f54a6fc5a",
-      "title": "Mark Sanchez Arrest Leaves Fox Sports “Still Trying To Wrap Our Heads Around” Stabbing Incident As He Faces 3 Misdemeanors",
-      "link": "https://deadline.com/2025/10/mark-sanchez-fox-sports-trying-wrap-heads-around-arrest-1236570595/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T17:15:17+0000",
-      "summary": "As Friday’s stabbing incident involving NFL alum Mark Sanchez slowly comes into focus, the team at Fox Sports seems to be just as bewildered as the rest of us. Over the weekend, the network addressed the incident on several occasions after he was arrested on three misdemeanor counts, following an altercation in which he was …"
     },
     {
       "id": "380681c19d54d4c7",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-29T16:53:38+0000",
       "summary": "The Colts lost, 27-20, to the Rams on Sunday, falling to 3-1 on the 2025 season. Even in the defeat, though, there were some encouraging signs – as well as things the Colts acknowledge they need to clean up."
-    },
-    {
-      "id": "73c30903339472f1",
-      "title": "Around the AFC South: Titans fall to 0-4 with loss to Texans, Jaguars take down 49ers",
-      "link": "https://colts.com/news/around-the-afc-south-titans-lose-texans-cj-stroud-cam-ward-jaguars-49ers-liam-coen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-29T16:11:38+0000",
-      "summary": "The Colts and Jaguars are tied atop the AFC South, both at 3-1."
     }
   ],
   "links": [
