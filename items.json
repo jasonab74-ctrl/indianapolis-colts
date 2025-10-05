@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T08:19:59+00:00",
+  "updated": "2025-10-05T08:40:27+00:00",
   "items": [
     {
       "id": "8b1ef222fde1f381",
@@ -27,33 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-05T08:02:14+0000",
       "summary": "We break down the Steelers picks in this new three-round mock draft from Pro Football Network."
-    },
-    {
-      "id": "287e364a59c96392",
-      "title": "Where to watch Bengals vs. Lions today: Channel, live stream, time, schedule for Week 5 NFL game",
-      "link": "https://sportingnews.com/us/nfl/news/watch-bengals-lions-channel-stream-time-schedule/72f52d14a4e8d3a0e5fdd901",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T07:50:01+0000",
-      "summary": "The high-flying Lions look to stay rolling against the undermanned Bengals. Here's how you can watch the game."
-    },
-    {
-      "id": "4c839a97fa3e2d1c",
-      "title": "Former NFL quarterback Mark Sanchez arrested and hospitalised after Indianapolis stabbing",
-      "link": "https://independent.co.uk/sport/nfl/nfl-mark-sanchez-arrest-hospital-stabbing-indianapolis-b2839537.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T07:48:38+0000",
-      "summary": "Former NFL quarterback Mark Sanchez arrested and hospitalised after Indianapolis stabbing - Sanchez, who currently works as an analyst for Fox Sports, was arrested for his role in the incident and is in a stable condition in hospital"
-    },
-    {
-      "id": "036543d8307d6997",
-      "title": "Where to watch Seahawks vs. Buccaneers today: Channel, live stream, time, schedule for Week 5 NFL game",
-      "link": "https://sportingnews.com/us/nfl/news/watch-seahawks-buccaneers-channel-stream-time-schedule/9766be2e40a63f28e887c214",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T07:20:01+0000",
-      "summary": "Here's everything you need to know about how to watch the Seahawks vs. Buccaneers on Sunday, including TV and streaming options."
     },
     {
       "id": "fb7589ddf9dd68f5",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-09-28T23:02:33+0000",
       "summary": "The Colts fell to 3-1 on the season with Sunday's defeat at SoFi Stadium."
+    },
+    {
+      "id": "53862dc172d505c7",
+      "title": "Colts announce 7 inactive players for Week 4 game vs. Los Angeles Rams",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-4-game-vs-los-angeles-rams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-28T18:30:42+0000",
+      "summary": "The Colts on Friday ruled out three players with injuries: Guard Matt Goncalves (toe), cornerback Kenny Moore II (Achilles) and wide receiver Alec Pierce (concussion)."
+    },
+    {
+      "id": "737b273d53cf95eb",
+      "title": "How to watch the Indianapolis Colts at Los Angeles Rams on September 28, 2025",
+      "link": "https://colts.com/news/how-to-watch-colts-at-rams-week-4-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-28T12:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Rams on Sunday, September 28 at 4:05 p.m. ET (Week 4)."
+    },
+    {
+      "id": "9d0c14e4846bb713",
+      "title": "Colts at Rams: What to watch for",
+      "link": "https://fox59.com/sports/colts/colts-at-rams-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-27T17:35:30+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Los Angeles Rams at SoFi Stadium in Inglewood, CA. Kickoff: 4:05 p.m. Broadcast: FOX59. Spread: Rams by 3½. History lesson, Part I:  The Colts lead the overall series 23-21-2, but the Rams have won the last four. The most recent was in week 4 of [...]"
     }
   ],
   "links": [
