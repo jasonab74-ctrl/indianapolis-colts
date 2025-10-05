@@ -1,14 +1,41 @@
 {
-  "updated": "2025-10-05T21:14:08+00:00",
+  "updated": "2025-10-05T21:36:35+00:00",
   "items": [
     {
+      "id": "a5e01e14c81b5c3d",
+      "title": "Fantasy Buzz: Jones, Colts roll on; Waller's comeback tour continues",
+      "link": "https://espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T22:33:59+0000",
+      "summary": "Early takeaways from Sunday's games, including another solid day from Daniel Jones and another TD for Darren Waller."
+    },
+    {
+      "id": "37e312336bd19c98",
+      "title": "'Darted to the win': Saints petty jab at Jaxson Dart leads NFL Week 5 trolls",
+      "link": "https://espn.com/nfl/story/_/id/46501465/nfl-week-5-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T22:31:06+0000",
+      "summary": "The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart."
+    },
+    {
       "id": "8c65c84157931c80",
-      "title": "Questions, takeaways off every NFL Week 5 game: Would Vikings do a trip like this again? How good can these 49ers be?",
+      "title": "Questions, takeaways off every NFL Week 5 game: Are the Broncos playoff worthy? Have the Ravens hit rock bottom?",
       "link": "https://espn.com/nfl/story/_/id/46435996/nfl-week-5-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-10-05T21:27:06+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
+    },
+    {
+      "id": "b60d93d123276737",
+      "title": "Instant analysis: Texans' offense finds the right spark behind C.J. Stroud in 44-10 win",
+      "link": "https://texanswire.usatoday.com/story/sports/nfl/texans/2025/10/05/instant-analysis-texans-explode-behind-c-j-stroud-in-win-over-ravens/86539507007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T21:21:31+0000",
+      "summary": "The Houston Texans might have the scariest offense in the NFL....at least in the past two weeks that is."
     },
     {
       "id": "fb7589ddf9dd68f5",
@@ -38,6 +65,33 @@
       "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
     },
     {
+      "id": "9f97b58f2e0d7e74",
+      "title": "Lions running back David Montgomery throws touchdown pass vs Bengals in NFL Week 5",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/david-montgomery-throws-touchdown-pass-lions-running-back-vs-bengals-nfl-week-5/86537921007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T21:17:26+0000",
+      "summary": "Lions running back David Montgomery is a former Mount Healthy High School standout."
+    },
+    {
+      "id": "2326731b2ba1da70",
+      "title": "‘Sunday Night Football’: How to Watch Patriots vs. Bills Live Online Without Cable for Free",
+      "link": "https://variety.com/2025/shopping/news/how-to-watch-sunday-night-football-online-1236143469/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T21:12:38+0000",
+      "summary": "The best way to end a long day of watching football is watching even more NFL action with “Sunday Night Football.” For Week 5, two AFC East rivals go head-to-head as the New England Patriots (2-2) face off against the Buffalo Bills (4-0) at Highmark Stadium in Orchard Park, New York on Sunday, Oct. 5. …"
+    },
+    {
+      "id": "a80d8e6cb3985462",
+      "title": "Ex-NFL quarterback Mark Sanchez stabbed multiple times in altercation leading to charges against him",
+      "link": "https://sports.yahoo.com/article/ex-nfl-quarterback-mark-sanchez-211153446.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-05T21:11:53+0000",
+      "summary": "Former NFL quarterback Mark Sanchez was pepper-sprayed and stabbed multiple times during a late-night altercation with a 69-year-old truck driver in a downtown Indianapolis alley, which resulted in criminal charges against the Fox Sports analyst, according to court records filed Sunday."
+    },
+    {
       "id": "ad17453c8bfaba03",
       "title": "Top photos from Week 5 of the NFL season",
       "link": "https://sports.yahoo.com/article/top-photos-week-5-nfl-210650940.html",
@@ -45,51 +99,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-05T21:06:50+0000",
       "summary": ""
-    },
-    {
-      "id": "cf44a5c20860c806",
-      "title": "Bengals defensive tackle BJ Hill injured vs Lions in NFL Week 5",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/bj-hill-injury-bengals-defensive-tackle-injured-vs-lions-nfl-week-5/76687673007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T21:00:14+0000",
-      "summary": "In 2024, defensive tackle BJ Hill was injured during the fourth quarter of the Bengals' NFL Week 11 loss to the Los Angeles Chargers."
-    },
-    {
-      "id": "6718112ad345f44b",
-      "title": "Lions receiver Kalif Raymond injured vs Bengals in NFL Week 5",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/05/kalif-raymond-injury-lions-receiver-hurt-vs-bengals-nfl-week-5/86538199007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:56:18+0000",
-      "summary": "The Detroit Lions' Kalif Raymond was injured during a first-quarter punt return in Cincinnati."
-    },
-    {
-      "id": "1fc082105cdcbfa9",
-      "title": "Saints fans aren't letting referees get away with bogus roughing the passer penalty",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/10/05/saints-jaxson-dart-carl-granderson-roughing-the-passer-penalty-reaction/86536450007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:52:03+0000",
-      "summary": "Outrage poured in from Saints fans and the NFL media landscape on social media when Carl Granderson lost a sack to a bogus roughing the passer penalty"
-    },
-    {
-      "id": "e6633ca1f901ce77",
-      "title": "Colts' Week 5 Player of the Game: RB Jonathan Taylor",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/colts-raiders-jonathan-taylor-player-game-week-5/86538076007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:50:45+0000",
-      "summary": "Behind his three rushing touchdowns, Colts' RB Jonathan Taylor was again the team's Player of the Game in their Week 5 win."
-    },
-    {
-      "id": "e2aaf3e97fa24909",
-      "title": "Denver Broncos do something they had done just once in 113 tries in shocking win over Eagles",
-      "link": "https://sportingnews.com/us/nfl/denver-broncos/news/denver-broncos-do-something-they-had-done-just-once-113-tries-shocking-win-over-eagles/356c73d40abd6c3c833f8176",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T20:47:04+0000",
-      "summary": "The Denver Broncos shocked the NFL with their Week 5 win."
     },
     {
       "id": "0749deb2c05a8bc1",
@@ -108,6 +117,15 @@
       "feed": "Colts.com",
       "published": "2025-10-05T19:55:58+0000",
       "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
+    },
+    {
+      "id": "38cd78e33305c888",
+      "title": "Colts vs. Raiders: Game Day Thread",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115779/colts-vs-raiders-open-thread",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-05T18:58:15+0000",
+      "summary": "The Indianapolis Colts currently lead the Las Vegas Raiders 26-3 near midway through the third quarter. Please leave your game thoughts, reactions, etc. Go Horse!"
     },
     {
       "id": "e8c080c84ef629a4",
@@ -434,15 +452,6 @@
       "summary": "INDIANAPOLIS – Four Colts, including three icons who touched two cities, are among 52 senior candidates who will be considered for the Pro Football Hall of Fame’s Class of 2026. Offensive lineman Chris Hinton, whose 13-year career began with decorated seasons in Baltimore and Indy, along with cornerback Bobby Boyd and linebacker Mike Curtis, both [...]"
     },
     {
-      "id": "b4ddf360cd734937",
-      "title": "ESPN floated a Richardson trade and Daniel Jones might force the Colts to consider it",
-      "link": "https://stampedeblue.com/analysis/115654/espns-fowler-believes-anthony-richardson-will-request-a-trade-to-la-rams",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-02T14:00:00+0000",
-      "summary": "ESPN’s Dan Graziano and Jeremy Fowler floated Anthony Richardson as a potential trade candidate — but only under the right circumstances. With Daniel Jones playing at a high level in Indianapolis, Richardson is stuck on the bench. Fowler suggests Richardson might be open to joining an offensive-minded coach like Sean McVay as a long-term developmental [&#8230;]"
-    },
-    {
       "id": "27d2cc201f0f00b1",
       "title": "Colts sign CB Keenan Garber to practice squad",
       "link": "https://colts.com/news/colts-sign-cb-keenan-garber-to-practice-squad",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-09-30T20:34:41+0000",
       "summary": "The Colts released their Week 5 unofficial depth chart ahead of their game against the Las Vegas Raiders Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "c20a919b470bc245",
-      "title": "Colts sign LB Buddy Johnson to 53-man roster from Dallas Cowboys practice squad, wave LB Cameron McGrone",
-      "link": "https://colts.com/news/colts-sign-lb-buddy-johnson-to-53-man-roster-from-dallas-cowboys-practice-squad-wave-lb-cameron-mcgrone",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-30T19:13:15+0000",
-      "summary": "The Colts made the roster moves on Tuesday."
     }
   ],
   "links": [
