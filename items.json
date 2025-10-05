@@ -1,14 +1,50 @@
 {
-  "updated": "2025-10-05T18:43:23+00:00",
+  "updated": "2025-10-05T19:12:43+00:00",
   "items": [
     {
-      "id": "8c7dd96dcf98f354",
-      "title": "Brock Bowers misses first NFL game with knee injury",
-      "link": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2025/10/05/raiders-brock-bowers-out-knee-injury-georgia-football/86537120007/",
+      "id": "dae445e4cc70d49f",
+      "title": "Sanchez charged after allegedly attacking driver",
+      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T19:57:42+0000",
+      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
+    },
+    {
+      "id": "8b512fc47ba65403",
+      "title": "Raiders star TE Bowers inactive with knee injury",
+      "link": "https://espn.com/nfl/story/_/id/46497563/raiders-star-te-brock-bowers-inactive-vs-colts-knee-injury",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T19:57:42+0000",
+      "summary": "Raiders tight end Brock Bowers is inactive for Sunday's matchup against the Colts due to a knee injury."
+    },
+    {
+      "id": "b53c9ecbfc86f6db",
+      "title": "Retired Leonard refinds love of football as coach",
+      "link": "https://espn.com/nfl/story/_/id/46498756/retired-shaquille-leonard-recaptured-love-football-coach",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T19:57:42+0000",
+      "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
+    },
+    {
+      "id": "fb7589ddf9dd68f5",
+      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
+      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-05T19:57:42+0000",
+      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+    },
+    {
+      "id": "8056009b0dcf5cdd",
+      "title": "Why is kicker Daniel Carlson punting for the Raiders in Week 5 vs. Colts?",
+      "link": "https://sportingnews.com/us/nfl/las-vegas-raiders/news/why-kicker-daniel-carlson-punting-raiders-week-5-vs-colts/7f570a4ad7c1de44aa4e732e",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-05T18:37:44+0000",
-      "summary": "Las Vegas Raiders tight end Brock Bowers, a former Georgia Bulldog, is out against the Indianapolis Colts with a PCL injury."
+      "published": "2025-10-05T18:52:13+0000",
+      "summary": "The Las Vegas Raiders called on kicker Daniel Carlson to kick a field goal in the Week 5 game against the Indianapolis Colts. Here's why."
     },
     {
       "id": "8c65c84157931c80",
@@ -18,78 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-05T18:24:11+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
-    },
-    {
-      "id": "f48d0360b2d78c2f",
-      "title": "Rookies poised to spark Browns to NFL relevance. QB Dillon Gabriel may or may not be one.",
-      "link": "https://usatoday.com/story/sports/nfl/columnist/nate-davis/2025/10/05/dillon-gabriel-debut-vikings-browns-rookies-shedeur-sanders/86537206007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T18:24:09+0000",
-      "summary": "Cleveland could finally return to relevance on the back of what is projecting as a strong rookie class. But jury is out on its quarterbacks."
-    },
-    {
-      "id": "eb5d00b2738a7854",
-      "title": "Spencer Shrader injury update: Why Colts are without a kicker for rest of Week 5 game vs. Raiders",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/spencer-shrader-injury-update-colts-kicker-raiders/9b2d01e03f7070e3fa05e395",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T18:23:01+0000",
-      "summary": "The Colts have no good solution at kicker after Spencer Shrader went down with an injury."
-    },
-    {
-      "id": "00158a0817849ee0",
-      "title": "Colts K Spencer Shrader leaves game due to personal foul call on PAT vs Raiders",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/05/colts-spencer-shrader-leaves-game-vs-raiders-due-to-personal-foul-call/86537672007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T18:14:39+0000",
-      "summary": "Colts K Spencer Shrader leaves game after Raiders' Tristin McCollum hit his knee on PAT"
-    },
-    {
-      "id": "30c770cacc1a6836",
-      "title": "Colts CB Mike Hilton ruled out of Week 5 game vs. Raiders with injury",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/mike-hilton-injury-update-colts-exits-week-5-game-raiders/86537661007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-05T18:13:35+0000",
-      "summary": "Colts' CB Mike Hilton has been ruled out for the remainder of the team's Week 5 game vs. the Raiders."
-    },
-    {
-      "id": "8b512fc47ba65403",
-      "title": "Raiders star TE Bowers inactive with knee injury",
-      "link": "https://espn.com/nfl/story/_/id/46497563/raiders-star-te-brock-bowers-inactive-vs-colts-knee-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T18:09:53+0000",
-      "summary": "Raiders tight end Brock Bowers is inactive for Sunday's matchup against the Colts due to a knee injury."
-    },
-    {
-      "id": "b53c9ecbfc86f6db",
-      "title": "Retired Leonard refinds love of football as coach",
-      "link": "https://espn.com/nfl/story/_/id/46498756/retired-shaquille-leonard-recaptured-love-football-coach",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T18:09:53+0000",
-      "summary": "Shaquille Leonard said he has rediscovered his love for football by returning to his former high school, Lake View High, in South Carolina and becoming the defensive coordinator there."
-    },
-    {
-      "id": "fb7589ddf9dd68f5",
-      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
-      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T18:09:53+0000",
-      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
-    },
-    {
-      "id": "dae445e4cc70d49f",
-      "title": "Sanchez charged after allegedly attacking driver",
-      "link": "https://espn.com/nfl/story/_/id/46496840/ex-qb-mark-sanchez-charged-allegedly-attacking-truck-driver",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T18:09:52+0000",
-      "summary": "Former NFL quarterback and current Fox Sports broadcaster Mark Sanchez has been charged with three misdemeanors in relation to an incident in which he was stabbed."
     },
     {
       "id": "e8c080c84ef629a4",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-09-29T21:18:34+0000",
       "summary": "The Colts mistakenly only had 10 defenders on the field when the Rams lined up for what turned into their game-winning touchdown play late in the fourth quarter of Sunday's game."
+    },
+    {
+      "id": "091b8b59afbbaa67",
+      "title": "Colts to highlight mental health leading into October 5 'Kicking The Stigma' game",
+      "link": "https://colts.com/news/kicking-the-stigma-las-vegas-raiders-virtual-auction-peyton-manning-blue-mascot-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-29T20:38:00+0000",
+      "summary": "Kicking The Stigma and the Indianapolis Colts will raise awareness about mental health and wellness this week leading into Sunday’s annual “Kicking The Stigma Game,” when the Colts take on the Las Vegas Raiders."
+    },
+    {
+      "id": "57007afd909088d4",
+      "title": "5 Colts Things: Red zone penalties prove costly, defense picks up Adonai Mitchell after fumble, zooming out on Week 4 loss to Rams",
+      "link": "https://colts.com/news/5-colts-things-red-zone-penalties-prove-costly-defense-picks-up-adonai-mitchell-after-fumble-zooming-out-on-week-4-loss-to-rams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-29T16:53:38+0000",
+      "summary": "The Colts lost, 27-20, to the Rams on Sunday, falling to 3-1 on the 2025 season. Even in the defeat, though, there were some encouraging signs – as well as things the Colts acknowledge they need to clean up."
+    },
+    {
+      "id": "73c30903339472f1",
+      "title": "Around the AFC South: Titans fall to 0-4 with loss to Texans, Jaguars take down 49ers",
+      "link": "https://colts.com/news/around-the-afc-south-titans-lose-texans-cj-stroud-cam-ward-jaguars-49ers-liam-coen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-09-29T16:11:38+0000",
+      "summary": "The Colts and Jaguars are tied atop the AFC South, both at 3-1."
+    },
+    {
+      "id": "ae5c7ec248b70aa0",
+      "title": "Colts Blue Zone Podcast 428: Mitchell, Colts Fumble It Away Against Rams",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-428-mitchell-colts-fumble-it-away-against-rams/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-29T12:57:17+0000",
+      "summary": "The Indianapolis Colts let a winnable game against the Rams slip away with poor defensive play, a bevy of penalties and a boneheaded mistake from wide receiver Adonai Mitchell. Matt Adams comes to terms with Indy's first loss of the season in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue [...]"
     }
   ],
   "links": [
