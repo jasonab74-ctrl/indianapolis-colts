@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-06T04:21:03+00:00",
+  "updated": "2025-10-06T04:41:21+00:00",
   "items": [
     {
       "id": "8c65c84157931c80",
@@ -36,6 +36,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-06T04:14:01+0000",
       "summary": "Nate Tice & Charles McDonald join forces to react to Week 5 of NFL action."
+    },
+    {
+      "id": "0460550e4082e528",
+      "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 5 game",
+      "link": "https://sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-5/2637696a1f5f5ec3ac93777d",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T04:10:02+0000",
+      "summary": "Patrick Mahomes and the Chiefs battle Trevor Lawrence and the Jaguars on Monday Night Football. Here's how you can watch the game."
     },
     {
       "id": "aa682b71006b05e9",
@@ -108,24 +117,6 @@
       "feed": "ESPN",
       "published": "2025-10-06T03:29:34+0000",
       "summary": "The Cardinals' fourth-quarter collapse against the Titans wiped out many entries in eliminator pools."
-    },
-    {
-      "id": "e3920a329c21ce94",
-      "title": "As Cowboys make Jets the NFL's last winless team, Jerry Jones thinks he has something special in Dak Prescott and Brian Schottenheimer",
-      "link": "https://sports.yahoo.com/nfl/article/as-cowboys-make-jets-the-nfls-last-winless-team-jerry-jones-thinks-he-has-something-special-in-dak-prescott-and-brian-schottenheimer-032206999.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:22:06+0000",
-      "summary": "The same rowdy chorus of fans who jeered at Jones to sell the team before kickoff chanted at Prescott from the stands before and after the game. MVP. MVP. MVP.\nDid Prescott hear it? &quot;I mean my ears works,&quot; he said."
-    },
-    {
-      "id": "9a4fc9770062842a",
-      "title": "Emeka Egbuka sets more rookie receiving records for Bucs",
-      "link": "http://tampabay.com/sports/bucs/2025/10/05/emeka-egbuka-seattle-seahawks-tacoma-washington-baker-mayfield/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:15:54+0000",
-      "summary": "SEATTLE — As homecomings go, it was all hugs and handshakes for Emeka Egbuka on Sunday. Playing his first NFL game near his hometown of Tacoma, Washington, the Bucs rookie receiver had seven catches for a career-high 163 yards and made a house call with a 20-yard touchdown reception from Baker Mayfield."
     },
     {
       "id": "a5e01e14c81b5c3d",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-02T12:41:47+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "1a082879459b6e67",
+      "title": "Indianapolis Colts’ cornerback Xavien Howard retires",
+      "link": "https://fox59.com/sports/colts/indianapolis-colts-cornerback-xavien-howard-retires/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T22:53:02+0000",
+      "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer possessed the required passion or was the player who had [...]"
     }
   ],
   "links": [
