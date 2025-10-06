@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-06T05:17:23+00:00",
+  "updated": "2025-10-06T05:39:22+00:00",
   "items": [
     {
       "id": "8c65c84157931c80",
@@ -27,6 +27,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-06T05:00:02+0000",
       "summary": "The Sporting News has all the details on how to watch Chiefs vs. Jaguars."
+    },
+    {
+      "id": "656d0b3dfd2134c0",
+      "title": "Patriots’ Drake Maye No. 1 in NFL in 1 big stat after four weeks",
+      "link": "https://clutchpoints.com/nfl/new-england-patriots/patriots-news-drake-maye-no-1-in-nfl-in-1-big-stat-after-four-weeks",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T04:33:14+0000",
+      "summary": "The Patriots quarterback Drake Maye did more than take down the previous undefeated Bills on Sunday, he's a league leader in this stat."
     },
     {
       "id": "04d61615a49a57e1",
@@ -63,24 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-06T04:10:02+0000",
       "summary": "Patrick Mahomes and the Chiefs battle Trevor Lawrence and the Jaguars on Monday Night Football. Here's how you can watch the game."
-    },
-    {
-      "id": "aa682b71006b05e9",
-      "title": "Dalton Kincaid’s breakout third NFL season now includes a career first — a 100-yard receiving game",
-      "link": "https://deseret.com/sports/2025/10/05/dalton-kincaid-100-yard-receiving-game-first-nfl-career-buffalo-bills/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T04:01:21+0000",
-      "summary": "The Bills tight end had a team-high 108 receiving yards in a loss to New England."
-    },
-    {
-      "id": "5c90dc6156852349",
-      "title": "Drake Maye leads Patriots to 23-20 win over Bills, leaving NFL without an unbeaten team",
-      "link": "https://sports.yahoo.com/article/drake-maye-leads-patriots-23-035614980.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:56:14+0000",
-      "summary": "Drake Maye led the Patriots on a 37-yard drive to set up Andy Borregales’ 52-yard field goal with 15 seconds left, and New England beat the Buffalo Bills 23-20, leaving the NFL without an undefeated team five weeks into the season."
     },
     {
       "id": "416819ca4ea404ed",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-01T22:10:44+0000",
       "summary": "The Colts made the roster move on Wednesday."
+    },
+    {
+      "id": "4647c6b211f7f9a8",
+      "title": "Shane Steichen sees common thread between Raiders QB Geno Smith and Colts QB Daniel Jones",
+      "link": "https://colts.com/news/shane-steichen-sees-common-thread-between-raiders-qb-geno-smith-and-colts-qb-daniel-jones",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T20:44:58+0000",
+      "summary": "Steichen was with Smith for one season with the Los Angeles Chargers, and even though he didn't start that year, the now-Colts head coach was impressed by his work ethic."
     }
   ],
   "links": [
