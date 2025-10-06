@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-06T10:20:00+00:00",
+  "updated": "2025-10-06T10:42:30+00:00",
   "items": [
+    {
+      "id": "0460550e4082e528",
+      "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 5 game",
+      "link": "https://sportingnews.com/us/nfl/news/monday-night-football-time-channel-schedule-stream-nfl-week-5/2637696a1f5f5ec3ac93777d",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T10:30:02+0000",
+      "summary": "Patrick Mahomes and the Chiefs battle Trevor Lawrence and the Jaguars on Monday Night Football. Here's how you can watch the game."
+    },
+    {
+      "id": "2371f78b651b8fa2",
+      "title": "What time is the NFL game tonight? TV schedule, channel, live stream to watch Jaguars vs. Chiefs in Week 5",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-game-tonight-time-schedule-channel-stream-jaguars-chiefs/92d0831ff8e73299f7d05b84",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T10:30:02+0000",
+      "summary": "The Sporting News has all the details on how to watch Chiefs vs. Jaguars."
+    },
     {
       "id": "416819ca4ea404ed",
       "title": "Why QB Justin Fields could run into Jets, NFL history books",
@@ -9,33 +27,6 @@
       "feed": "ESPN",
       "published": "2025-10-06T10:06:40+0000",
       "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
-    },
-    {
-      "id": "84d76c6371bd4d6f",
-      "title": "Steelers' Aaron Rodgers gets last laugh as Jets HC makes history for wrong reasons",
-      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/10/06/steelers-jets-aaron-rodgers-aaron-glenn-nfl-history/86544099007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T10:05:57+0000",
-      "summary": "Five weeks into the regular season, Jets HC Aaron Glenn made NFL history for the wrong reasons while Aaron Rodgers led the Steelers to a 3-1 record."
-    },
-    {
-      "id": "911c3d0d407cfa63",
-      "title": "NFL Week 5 winners and losers has Cardinals, Bills among teams losing composure",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/06/nfl-week-5-winners-losers-cardinals-eagles-jets-bills/86537095007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T10:05:16+0000",
-      "summary": "Week 5 in the NFL featured several aspiring contenders showing cracks in composure, with the Cardinals and Bills among those losing their cool."
-    },
-    {
-      "id": "a78eb91a1caf0680",
-      "title": "What did Jaguars trade for Travis Hunter? Revisiting 2025 NFL Draft deal for No. 2 overall pick",
-      "link": "https://sportingnews.com/us/nfl/jacksonville-jaguars/news/jaguars-trade-travis-hunter-2025-nfl-draft-deal-no-2-pick/65b64639b9ddef95da74e997",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T10:00:01+0000",
-      "summary": "Jacksonville traded up to land its two-way star. What did it cost the Jaguars?"
     },
     {
       "id": "fb7589ddf9dd68f5",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-01T14:00:14+0000",
       "summary": "Leonard was a three-time first-team AP All-Pro and three-time Pro Bowler during six standout seasons with the Colts."
+    },
+    {
+      "id": "693db902795d5d9a",
+      "title": "Blame for the Colts’ 10-man defense: Coordinator Lou Anarumo takes full responsibility",
+      "link": "https://fox59.com/sports/colts/blame-for-the-colts-10-man-defense-coordinator-lou-anarumo-takes-full-responsibility/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-09-30T21:30:48+0000",
+      "summary": "INDIANAPOLIS – In this instance, the buck didn’t stop at the boss’s desk. The boss would be Shane Steichen. The Indianapolis Colts’ third-year head coach accepted the blame for his defense having only 10 players on the field when Matthew Stafford hooked up with Tutu Atwell for a game-winning 88-yard touchdown in Sunday’s 27-20 loss [...]"
     }
   ],
   "links": [
