@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-06T04:41:21+00:00",
+  "updated": "2025-10-06T05:17:23+00:00",
   "items": [
     {
       "id": "8c65c84157931c80",
@@ -9,6 +9,24 @@
       "feed": "ESPN",
       "published": "2025-10-06T05:08:49+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
+    },
+    {
+      "id": "f0fc68794b973c72",
+      "title": "Where to watch Jaguars vs. Chiefs live stream, TV channel, start time for NFL game live and on demand",
+      "link": "https://sportingnews.com/ca/nfl/news/watch-jaguars-chiefs-stream-channel-time-nfl-live-demand/393e6586c13efc0a49d311b1",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T05:00:02+0000",
+      "summary": "Channel, time, TV schedule, live stream for Jaguars vs. Chiefs NFL Week 5 game."
+    },
+    {
+      "id": "2371f78b651b8fa2",
+      "title": "What time is the NFL game tonight? TV schedule, channel, live stream to watch Jaguars vs. Chiefs in Week 5",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-game-tonight-time-schedule-channel-stream-jaguars-chiefs/92d0831ff8e73299f7d05b84",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T05:00:02+0000",
+      "summary": "The Sporting News has all the details on how to watch Chiefs vs. Jaguars."
     },
     {
       "id": "04d61615a49a57e1",
@@ -65,15 +83,6 @@
       "summary": "Drake Maye led the Patriots on a 37-yard drive to set up Andy Borregales’ 52-yard field goal with 15 seconds left, and New England beat the Buffalo Bills 23-20, leaving the NFL without an undefeated team five weeks into the season."
     },
     {
-      "id": "7a4099b0ff89bb6b",
-      "title": "Bills, Eagles lose unbeaten records in day of upsets",
-      "link": "https://sports.yahoo.com/article/bills-eagles-lose-unbeaten-records-034504960.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:45:04+0000",
-      "summary": "The previously unbeaten Buffalo Bills and Philadelphia Eagles both slumped to shock defeats in the NFL on Sunday as the injury-hit Baltimore Ravens suffered a humiliating blowout.The Bills had been the last unbeaten team standing after reigning Super Bowl champions Philadelphia were beaten 21-17 at home by the Denver Broncos earlier Sunday."
-    },
-    {
       "id": "416819ca4ea404ed",
       "title": "Why QB Justin Fields could run into Jets, NFL history books",
       "link": "https://espn.com/nfl/story/_/id/46479684/new-york-jets-justin-fields-rushing-records-history",
@@ -81,33 +90,6 @@
       "feed": "ESPN",
       "published": "2025-10-06T03:41:23+0000",
       "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
-    },
-    {
-      "id": "5c7f1ba42b01b0fc",
-      "title": "NFL team grades after Week 5 action",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/10/05/nfl-week-5-team-grades/86505420007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:38:06+0000",
-      "summary": "The New England Patriots headline the winners in Week 5. After the Sunday slate, here are the NFL grades."
-    },
-    {
-      "id": "eab626a7209cf74e",
-      "title": "NFL Week 6 Power Rankings: See Who’s Rising and Falling after Week 5",
-      "link": "https://sportsnaut.com/nfl/nfl-week-6-power-rankings-2025/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:37:42+0000",
-      "summary": "NFL Week 5 delivered some fantastic matchups, including a short-handed San Francisco 49ers team winning on a short week in"
-    },
-    {
-      "id": "62a06d55bd4bc41d",
-      "title": "NFL teams still undefeated: Eagles, Bills fall in Week 5 to end hopes of perfect season",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-undefeated-perfect-teams/20a5dd7e26b17388e1590cda",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T03:30:40+0000",
-      "summary": "The group of teams to stay perfect is down to zero after the Bills fell to the Patriots in Week 5."
     },
     {
       "id": "3f65ba300bb21a24",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-10-01T22:53:02+0000",
       "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer possessed the required passion or was the player who had [...]"
+    },
+    {
+      "id": "2d2af83ace8ce629",
+      "title": "Colts must turn the page after loss at Rams",
+      "link": "https://fox59.com/sports/colts/colts-must-turn-the-page-after-loss-at-rams/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T22:31:59+0000",
+      "summary": "INDIANAPOLIS – It’s the only way to navigate the NFL’s 17-game season: Turn the page. Review on Monday what took place the previous day – good and bad – make the necessary adjustments, then assume the necessary tunnel-vision approach for the next opponent. \"You’re on to the next week pretty quickly,\" Daniel Jones said on [...]"
+    },
+    {
+      "id": "ea68ebfd08fcb67c",
+      "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad",
+      "link": "https://colts.com/news/colts-place-cb-xavien-howard-on-reserve-retired-list-sign-s-trey-washington-to-53-man-roster-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T22:10:44+0000",
+      "summary": "The Colts made the roster move on Wednesday."
     }
   ],
   "links": [
