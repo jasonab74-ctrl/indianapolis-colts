@@ -1,6 +1,33 @@
 {
-  "updated": "2025-10-06T19:14:03+00:00",
+  "updated": "2025-10-06T19:37:22+00:00",
   "items": [
+    {
+      "id": "f646ee66c8ae8792",
+      "title": "Sanchez now facing felony charge for altercation",
+      "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T20:13:53+0000",
+      "summary": "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis."
+    },
+    {
+      "id": "73e8f842f55d9bb3",
+      "title": "Colts say kicker Shrader suffers torn ACL, MCL",
+      "link": "https://espn.com/nfl/story/_/id/46510667/source-colts-spencer-shrader-sustains-season-ending-knee-injury",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T20:13:53+0000",
+      "summary": "Colts kicker Spencer Shrader suffered a torn ACL and a torn MCL in his right knee Sunday against the Raiders, ending his season."
+    },
+    {
+      "id": "fb7589ddf9dd68f5",
+      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
+      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T20:13:53+0000",
+      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+    },
     {
       "id": "85617ff30b874f16",
       "title": "What's going on with Travis Hunter? Inside the Jags' plan to unlock NFL's most unique player",
@@ -11,31 +38,13 @@
       "summary": "Many have criticized how the Jaguars are using the rookie two-way threat, but the team has stuck to its plan."
     },
     {
-      "id": "f646ee66c8ae8792",
-      "title": "Sanchez now facing felony charge for altercation",
-      "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T20:04:40+0000",
-      "summary": "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis."
-    },
-    {
-      "id": "73e8f842f55d9bb3",
-      "title": "Colts say kicker Shrader suffers torn ACL, MCL",
-      "link": "https://espn.com/nfl/story/_/id/46510667/source-colts-spencer-shrader-sustains-season-ending-knee-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T20:04:40+0000",
-      "summary": "Colts kicker Spencer Shrader suffered a torn ACL and a torn MCL in his right knee Sunday against the Raiders, ending his season."
-    },
-    {
-      "id": "fb7589ddf9dd68f5",
-      "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
-      "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T20:04:40+0000",
-      "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
+      "id": "1e98fcf63aa6d829",
+      "title": "McDaniel says there's 'no time to waste' in effort to save reeling Dolphins' season",
+      "link": "https://sports.yahoo.com/article/mcdaniel-says-theres-no-time-192028293.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T19:20:28+0000",
+      "summary": "The 1972 Miami Dolphins went 17-0 and New England's win over Buffalo on Sunday night ensured that, for at least one more season, they'll remain the NFL's only perfect team.  The 2025 Miami Dolphins had a 17-0 lead on Sunday.  Miami's 27-24 loss at Carolina dropped the Dolphins to 1-4 on the season, meaning it's going to be an uphill fight just to have any chance at a postseason push."
     },
     {
       "id": "8c65c84157931c80",
@@ -56,15 +65,6 @@
       "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
     },
     {
-      "id": "16c2d69c1e41be6b",
-      "title": "Andrew Whitworth: Bengals 'have been terrible' at acquiring O-line talent",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/06/andrew-whitworth-bengals-offensive-line-talent-acquisition-terrible/86552713007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T19:00:06+0000",
-      "summary": "Amazon Prime NFL analyst and former Cincinnati Bengals offensive lineman Andrew Whitworth blasted the team's front office."
-    },
-    {
       "id": "e6cdfddffc5d3a0d",
       "title": "Colts kicker Spencer Shrader out for remainder of 2025 season",
       "link": "https://colts.com/news/colts-kicker-spencer-shrader-out-for-remainder-of-2025-season",
@@ -72,15 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-10-06T18:54:23+0000",
       "summary": "Head coach Shane Steichen said the Colts will work out a handful of kickers ahead of Wednesday's first practice of Week 6."
-    },
-    {
-      "id": "cd228486ed2a6886",
-      "title": "Patriots RB Antonio Gibson reportedly out for season with torn ACL sustained vs. Bills",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-rb-antonio-gibson-reportedly-out-for-season-with-torn-acl-sustained-vs-bills-184927890.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T18:49:27+0000",
-      "summary": "Patriots running back Antonio Gibson has a torn ACL from the knee injury he sustained on Sunday against the Buffalo Bills and is out for the season, NFL Network reports."
     },
     {
       "id": "5dc9a826f149f9b5",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-01T19:42:11+0000",
       "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "4597ee96bda42a59",
+      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
+      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T14:22:29+0000",
+      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
     }
   ],
   "links": [
