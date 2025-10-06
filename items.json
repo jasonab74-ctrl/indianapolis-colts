@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-06T22:38:15+00:00",
+  "updated": "2025-10-06T23:15:50+00:00",
   "items": [
+    {
+      "id": "f646ee66c8ae8792",
+      "title": "Sanchez now facing felony charge for altercation",
+      "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T23:57:28+0000",
+      "summary": "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis."
+    },
+    {
+      "id": "37e312336bd19c98",
+      "title": "👀 Saints' petty Dart jab leads Week 5 NFL trolls",
+      "link": "https://espn.com/nfl/story/_/id/46501465/nfl-week-5-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T23:57:28+0000",
+      "summary": "The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart."
+    },
     {
       "id": "85617ff30b874f16",
       "title": "What's going on with Travis Hunter? Inside the Jags' plan to unlock NFL's most unique player",
@@ -11,40 +29,40 @@
       "summary": "Many have criticized how the Jaguars are using the rookie two-way threat, but the team has stuck to its plan."
     },
     {
-      "id": "f646ee66c8ae8792",
-      "title": "Sanchez now facing felony charge for altercation",
-      "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T23:09:34+0000",
-      "summary": "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis."
-    },
-    {
-      "id": "37e312336bd19c98",
-      "title": "👀 Saints' petty Dart jab leads Week 5 NFL trolls",
-      "link": "https://espn.com/nfl/story/_/id/46501465/nfl-week-5-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T23:09:34+0000",
-      "summary": "The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart."
-    },
-    {
-      "id": "9ffaec0f3f2ebc9d",
-      "title": "Federal appeals court denies NFL's request for review of recent ruling in Brian Flores case",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/federal-appeals-court-denies-nfls-request-for-review-of-recent-ruling-in-brian-flores-case",
+      "id": "d9fad26f5592f319",
+      "title": "Former Weber State great Rashid Shaheed clocked NFL’s fastest time on an offensive TD this season",
+      "link": "https://deseret.com/sports/2025/10/06/how-utah-ties-performed-week-5-nfl-season-2025-rashid-shaheed/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-06T22:18:45+0000",
-      "summary": "The NFL has a history of winning in court."
+      "published": "2025-10-06T23:00:36+0000",
+      "summary": "A look at how Utah ties — from Utes to Cougars to Aggies and more — played during the fifth week of the 2025 season."
     },
     {
-      "id": "3d91747d52363749",
-      "title": "On thin ice: Saints kicker Blake Grupe ranks last in field goal success rate",
-      "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/10/06/nfl-kicker-field-goal-hit-rate-blake-grupe-saints-wil-lutz-trade/86555669007/",
+      "id": "c35eb4384af90457",
+      "title": "NFL Inactive Report",
+      "link": "https://sports.yahoo.com/article/nfl-inactive-report-225806258.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-06T22:15:57+0000",
-      "summary": "Blake Grupe has now missed 16 field goals since the Saints named him their starter. That's second-most in the NFL, and twice as many as Wil Lutz:"
+      "published": "2025-10-06T22:58:06+0000",
+      "summary": ""
+    },
+    {
+      "id": "7823e8979d9905d9",
+      "title": "H.S. FOOTBALL REWIND: Hurricanes fly to football in shut down of Marian",
+      "link": "https://republicanherald.com/2025/10/06/h-s-football-rewind-hurricanes-fly-to-football-in-shut-down-of-marian/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T22:47:00+0000",
+      "summary": "On Marian’s first drive at Schuylkill Haven Friday, Hurricanes Niko Castillo and Aaron Gilbert got to Colt quarterback Gregory Tirpak for a loss of nine yards on third down. The result was a punt back to the Hurricanes (7-0; 6-0) to set up their first offensive score of the game, a Colton Reber 30-yard touchdown run, to knot the score at 7-7. “He (Tirpak) knew we had to get to the ball fast ..."
+    },
+    {
+      "id": "5f927701d2ca9728",
+      "title": "Colts working out kickers over next 24 hours following Spencer Shrader injury",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/06/spencer-shrader-injury-colts-working-out-kickers-over-next-24-hours/86556175007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T22:36:59+0000",
+      "summary": "With Spencer Shrader out for the season, the Colts will work out several kickers over the next 24, says head coach Shane Steichen."
     },
     {
       "id": "ce901f957825ecc9",
@@ -54,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-10-06T22:08:52+0000",
       "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
-    },
-    {
-      "id": "206843e50bcc15ca",
-      "title": "NFL's 5 worst losses of the weekend, starring the Cardinals, Bills and more",
-      "link": "https://sports.yahoo.com/nfl/article/nfls-5-worst-losses-of-the-weekend-starring-the-cardinals-bills-and-more-220507548.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T22:05:07+0000",
-      "summary": "A whole bunch of teams walked away from their games devastated this week. Like, more than usual. Here's the worst (best?) of a gut-punch slate."
     },
     {
       "id": "5dc9a826f149f9b5",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-01T19:42:11+0000",
       "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
-    },
-    {
-      "id": "4597ee96bda42a59",
-      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
-      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-01T14:22:29+0000",
-      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
     }
   ],
   "links": [
