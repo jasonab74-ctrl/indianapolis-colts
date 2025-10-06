@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-06T06:27:55+00:00",
+  "updated": "2025-10-06T06:50:37+00:00",
   "items": [
+    {
+      "id": "04d61615a49a57e1",
+      "title": "Ward leads improbable Titans comeback for 1st win",
+      "link": "https://espn.com/nfl/story/_/id/46504493/qb-cam-ward-earns-first-nfl-win-titans-stun-cardinals-snap-10-game-losing-streak",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T07:29:06+0000",
+      "summary": "It took five tries, but Titans rookie quarterback Cam Ward finally got his first NFL win behind an improbable fourth-quarter comeback Sunday at Arizona."
+    },
     {
       "id": "fb7589ddf9dd68f5",
       "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
       "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-06T07:23:19+0000",
+      "published": "2025-10-06T07:29:06+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
     },
     {
@@ -29,6 +38,15 @@
       "summary": "The final two unbeaten records in the NFL are ended by the Denver Broncos and New England Patriots."
     },
     {
+      "id": "71c109e27ecdccf7",
+      "title": "Julian Edelman drops strong 2-word take on Patriots’ takedown of Bills",
+      "link": "https://clutchpoints.com/nfl/new-england-patriots/patriots-news-julian-edelman-2-word-take-bills-takedown",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T05:28:26+0000",
+      "summary": "NFL legend Julian Edelman kept it simple after the New England Patriots handed the Buffalo Bills their first defeat."
+    },
+    {
       "id": "8c65c84157931c80",
       "title": "Questions, takeaways off every NFL Week 5 game: Patriots shock Bills; Bucs and Titans win thrillers",
       "link": "https://espn.com/nfl/story/_/id/46435996/nfl-week-5-2025-season-questions-takeaways-lessons-stats-recap-every-game",
@@ -36,33 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-06T05:08:49+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
-    },
-    {
-      "id": "3ad490d1ab5a88a8",
-      "title": "English rugby cannot afford a war against R360",
-      "link": "https://telegraph.co.uk/rugby-union/2025/10/06/english-rugby-cannot-afford-war-against-r360/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T05:02:00+0000",
-      "summary": "Cast your mind back to the exit of Louis Rees-Zammit from rugby to try his hand in the NFL. It was only a year-and-a-half back his exit was met with a range of hackneyed hand-wringing from rugby’s marketeers, railing against rugby’s governors who were out of touch. What was rugby going to do to stop a possible outrush of talent across the water?"
-    },
-    {
-      "id": "f0fc68794b973c72",
-      "title": "Where to watch Jaguars vs. Chiefs live stream, TV channel, start time for NFL game live and on demand",
-      "link": "https://sportingnews.com/ca/nfl/news/watch-jaguars-chiefs-stream-channel-time-nfl-live-demand/393e6586c13efc0a49d311b1",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T05:00:02+0000",
-      "summary": "Channel, time, TV schedule, live stream for Jaguars vs. Chiefs NFL Week 5 game."
-    },
-    {
-      "id": "2371f78b651b8fa2",
-      "title": "What time is the NFL game tonight? TV schedule, channel, live stream to watch Jaguars vs. Chiefs in Week 5",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-game-tonight-time-schedule-channel-stream-jaguars-chiefs/92d0831ff8e73299f7d05b84",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T05:00:02+0000",
-      "summary": "The Sporting News has all the details on how to watch Chiefs vs. Jaguars."
     },
     {
       "id": "416819ca4ea404ed",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-01T19:42:11+0000",
       "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "4597ee96bda42a59",
+      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
+      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T14:22:29+0000",
+      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
     }
   ],
   "links": [
