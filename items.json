@@ -1,23 +1,41 @@
 {
-  "updated": "2025-10-06T01:19:55+00:00",
+  "updated": "2025-10-06T02:46:28+00:00",
   "items": [
+    {
+      "id": "416819ca4ea404ed",
+      "title": "Why QB Justin Fields could run into Jets, NFL history books",
+      "link": "https://espn.com/nfl/story/_/id/46479684/new-york-jets-justin-fields-rushing-records-history",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T03:41:23+0000",
+      "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
+    },
+    {
+      "id": "3f65ba300bb21a24",
+      "title": "NFL weekend betting wrap: Losses by Cardinals, Rams shake up eliminator pools",
+      "link": "https://espn.com/espn/betting/story/_/id/46502810/nfl-betting-losses-arizona-cardinals-los-angeles-rams-shake-shake-eliminator-pools",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T03:29:34+0000",
+      "summary": "The Cardinals' fourth-quarter collapse against the Titans wiped out many entries in eliminator pools."
+    },
+    {
+      "id": "04d61615a49a57e1",
+      "title": "Ward leads improbable Titans comeback for 1st win",
+      "link": "https://espn.com/nfl/story/_/id/46504493/qb-cam-ward-earns-first-nfl-win-titans-stun-cardinals-snap-10-game-losing-streak",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T03:25:31+0000",
+      "summary": "It took five tries, but Titans rookie quarterback Cam Ward finally got his first NFL win behind an improbable fourth-quarter comeback Sunday at Arizona."
+    },
     {
       "id": "fb7589ddf9dd68f5",
       "title": "🏆 Barnwell's 1/4-season awards: MVP, ROY, more",
       "link": "https://espn.com/nfl/story/_/id/46443618/2025-nfl-quarter-season-awards-ranking-mvp-rookies-coaches-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-06T01:21:30+0000",
+      "published": "2025-10-06T03:25:31+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
-    },
-    {
-      "id": "1221aa89fc0cbade",
-      "title": "NFL didn't have clear view of Vikings' field goal striking camera cable",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-didnt-have-clear-view-of-vikings-field-goal-striking-camera-cable",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T01:01:16+0000",
-      "summary": "Sunday's game included not one but two incidents involving footballs striking the apparatus that captures overhead video."
     },
     {
       "id": "9a1899151e0aaa28",
@@ -25,8 +43,26 @@
       "link": "https://sportingnews.com/us/nfl/news/bills-patriots-live-score-highlights-sunday-night-football/619c4f7e868bb5ff80b6393e",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-06T01:00:02+0000",
+      "published": "2025-10-06T02:33:10+0000",
       "summary": "The Sporting News is tracking live scoring updates and highlights for Bills vs. Patriots on &quot;Sunday Night Football.&quot; Follow for complete results from the NFL Week 5 game."
+    },
+    {
+      "id": "6b678af93df30d05",
+      "title": "Mike Tirico hilariously broke down Bills fan’s escape with Josh Allen pass",
+      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/10/05/mike-tirico-hilariously-broke-down-bills-fans-escape-josh-allen-pass/86543005007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T02:28:08+0000",
+      "summary": "Mike Tirico's call of a Bills fan's escape with a game ball is one of his finest NFL moments."
+    },
+    {
+      "id": "5f6e71230086ddd0",
+      "title": "NFL ref defends late DPI non-call in Eagles-Broncos game",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/10/05/nfl-news-eagles-broncos-dpi-ref-explanation/86541981007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T02:00:22+0000",
+      "summary": "&quot;Our officials saw mutual hand fighting and hand-to-hand combat and did not see action that rose to the level of a foul,&quot; NFL ref Adrian Hill said."
     },
     {
       "id": "8c65c84157931c80",
@@ -38,42 +74,6 @@
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 5."
     },
     {
-      "id": "b955b9860d849aff",
-      "title": "Colts' Shane Steichen with brief update on K Spencer Shrader injury",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/05/spencer-shrader-injury-shane-steichen-brief-update/86542183007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T00:54:13+0000",
-      "summary": "After the Colts' win, HC Shane Steichen provided a brief update on kicker Spencer Shrader."
-    },
-    {
-      "id": "bb17e9072fee0209",
-      "title": "Titans next opponent is struggling in difficult AFC West",
-      "link": "https://tennessean.com/story/sports/nfl/titans/2025/10/05/titans-next-game-opponent-2025-schedule/86537288007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T00:51:30+0000",
-      "summary": "The Tennessee Titans play next in Week 6 on Oct. 12. See who the Titans play next in the NFL season."
-    },
-    {
-      "id": "e712ff376068cb40",
-      "title": "Commanders defeat Chargers 27-10 in Jayden Daniels' return: Instant analysis from the win",
-      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/10/05/washington-commanders-instant-analysis-week-5-win/86541533007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T00:40:14+0000",
-      "summary": "Recapping the Commanders' impressive 27-10 win over the Chargers in Week 5 of NFL action."
-    },
-    {
-      "id": "416819ca4ea404ed",
-      "title": "Why QB Justin Fields could run into Jets, NFL history books",
-      "link": "https://espn.com/nfl/story/_/id/46479684/new-york-jets-justin-fields-rushing-records-history",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-05T23:34:18+0000",
-      "summary": "New York's quarterback is on pace to shatter the franchise's rushing record for the position."
-    },
-    {
       "id": "a5e01e14c81b5c3d",
       "title": "Fantasy Buzz: Jones, Colts roll on; Waller's comeback tour continues",
       "link": "https://espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
@@ -83,9 +83,9 @@
       "summary": "Early takeaways from Sunday's games, including another solid day from Daniel Jones and another TD for Darren Waller."
     },
     {
-      "id": "c902ab97a3ccdede",
+      "id": "ec88bf6dfb27ccbc",
       "title": "Colts’ 40-6 blowout of Raiders included much more from Ashton Dulin",
-      "link": "https://fox59.com/news/colts-40-6-blowout-of-raiders-included-much-more-from-ashton-dulin/",
+      "link": "https://fox59.com/sports/colts/colts-40-6-blowout-of-raiders-included-much-more-from-ashton-dulin/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-05T23:33:19+0000",
@@ -128,35 +128,8 @@
       "summary": "Shrader sustained a knee injury in the second quarter of the Colts' 40-6 win over the Raiders on Sunday."
     },
     {
-      "id": "14a67e7160c932d8",
-      "title": "Colts head coach has discouraging, yet limited injury update on kicker Spencer Shrader",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115805/colts-head-coach-has-discouraging-injury-update-on-place-kicker-spencer-shrader",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T21:47:51+0000",
-      "summary": "According to head coach Shane Steichen post-game, “it doesn’t look good” regarding now injured Indianapolis Colts place kicker Spencer Shrader (via 1075 The Fan’s Kevin Bowen): Shrader was injured with 7:56 left in the second quarter on an extra point attempt, when he was run over during his post-kicking motion, and roughing the kicker was [&#8230;]"
-    },
-    {
-      "id": "0e7430843dd0e62d",
-      "title": "Colts roll through Raiders 40-6 to remain unbeaten inside Lucas Oil Stadium",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/115795/colts-roll-through-raiders-40-6-to-remain-unbeaten-inside-lucas-oil-stadium",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T21:45:08+0000",
-      "summary": "The Indianapolis Colts steamrolled over the Las Vegas Raiders 40-6 with a balanced offensive onslaught tailored with a suffocating defensive performance. The Colts put on a clinic Sunday to improve to 4-1, remaining unbeaten inside Lucas Oil Stadium as they have outscored their three home opponents 102 to 42.  Indianapolis improved its season scoring efficiency [&#8230;]"
-    },
-    {
-      "id": "43c740c430ee0636",
-      "title": "Colts RB Jonathan Taylor has become the Raiders boogeyman",
-      "link": "https://stampedeblue.com/analysis/115788/colts-rb-jonathan-taylor-has-become-the-raiders-boogeyman",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T21:30:00+0000",
-      "summary": "Indianapolis, IN — Former Indianapolis Colts star wide receiver T.Y. Hilton had become the Houston Texans&#8216; worst nightmare during his playing days. Hilton was essentially guaranteed 100 receiving yards and 1 touchdown every time he strapped up to take on the AFC South foe in question. In particular, Houston’s NRG Stadium had become so fearful [&#8230;]"
-    },
-    {
       "id": "42db884145f836be",
-      "title": "Colts rout Raiders 40-6 at home as defense dominates",
+      "title": "Colts rout Raiders 40-6 as defense dominates",
       "link": "https://stampedeblue.com/analysis/115792/colts-rout-raiders-40-6-as-defense-dominates",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -425,6 +398,24 @@
       "summary": "Latu totaled nine pressures in Week 4, the most by a Colts player in a single game in four years."
     },
     {
+      "id": "8dd46462ea2df071",
+      "title": "Week 4 Colts Defensive Rankings and Analysis",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115663/week-4-colts-offensive-rankings-and-analysis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T19:42:09+0000",
+      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
+    },
+    {
+      "id": "6c32928237b8d5de",
+      "title": "Colts bolster cornerback depth after Xavien Howard’s retirement",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115728/colts-bolster-cornerback-depth-after-xavien-howards-retirement",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-02T18:54:16+0000",
+      "summary": "The Indianapolis Colts announced on Thursday that the team has signed former Minnesota Vikings cornerback Keenan Garber for their once vacant practice squad opening: The 6’0”, 188 pound undrafted free agent rookie cornerback out of Kansas State joined the Minnesota Vikings this past offseason before being released at the end of their training camp. Via [&#8230;]"
+    },
+    {
       "id": "0907eb3ef7263dd3",
       "title": "Colts kicker Spencer Shrader grateful, even more motivated to succeed after winning AFC Special Teams Player of the Month",
       "link": "https://colts.com/news/colts-kicker-spencer-shrader-grateful-motivated-afc-special-teams-player-of-the-month-september-luke-rhodes-rigoberto-sanchez",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-01T14:22:29+0000",
       "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
+    },
+    {
+      "id": "38ba95286905eea0",
+      "title": "Former All-Pro linebacker Shaquille Leonard to retire as member of Colts at halftime of Week 5 game vs. Las Vegas Raiders",
+      "link": "https://colts.com/news/former-all-pro-linebacker-shaquille-leonard-to-retire-as-member-of-colts-at-halftime-of-week-5-game-vs-las-vegas-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T14:00:14+0000",
+      "summary": "Leonard was a three-time first-team AP All-Pro and three-time Pro Bowler during six standout seasons with the Colts."
     }
   ],
   "links": [
