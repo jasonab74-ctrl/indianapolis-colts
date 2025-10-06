@@ -1,14 +1,122 @@
 {
-  "updated": "2025-10-06T16:45:02+00:00",
+  "updated": "2025-10-06T17:16:17+00:00",
   "items": [
     {
+      "id": "5dc9a826f149f9b5",
+      "title": "A Travis Hunter on every NFL team? 32 players who could be two-way threats",
+      "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-06T17:55:43+0000",
+      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
+    },
+    {
       "id": "85617ff30b874f16",
-      "title": "What's going on with Travis Hunter? Inside the Jags' plan to unlock the NFL's most unique player",
+      "title": "What's going on with Travis Hunter? Inside the Jags' plan to unlock NFL's most unique player",
       "link": "https://espn.com/nfl/story/_/id/46499279/jacksonville-jaguars-expecting-too-much-travis-hunter",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-06T17:38:02+0000",
+      "published": "2025-10-06T17:41:35+0000",
       "summary": "Many have criticized how the Jaguars are using the rookie two-way threat, but the team has stuck to its plan."
+    },
+    {
+      "id": "4f7850ab405abce2",
+      "title": "Colts’ 40-6 win over Raiders was reminiscent of days of old",
+      "link": "https://stampedeblue.com/analysis/115784/colts-40-6-win-over-raiders-was-reminiscent-of-days-of-old",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-06T17:05:49+0000",
+      "summary": "For years, many Sundays in Colts country could be rather sleepy. Of course there were monster games on the schedule and huge showdowns in prime time, but when Peyton Manning and company went to work in the one p.m. time-slot, it could be a real snoozer. Don’t get me wrong, beating the snot out of [&#8230;]"
+    },
+    {
+      "id": "ae79d2c7e49f50b4",
+      "title": "Saquon Barkley's rushing production plummets in his second season in Philadelphia",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkleys-rushing-production-plummets-in-his-second-season-in-philadelphia",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T17:02:13+0000",
+      "summary": "Eagles running back Saquon Barkley carried the ball just six times for 30 yards in Sunday's loss to the Broncos, and through five games, Barkley is one of the NFL's most disappointing players."
+    },
+    {
+      "id": "205d032361207c12",
+      "title": "Report: Colts K Spencer Shrader out for season with knee injury",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-k-spencer-shrader-out-for-season-with-knee-injury",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T17:01:19+0000",
+      "summary": "The Colts will need a new kicker going forward."
+    },
+    {
+      "id": "22706580c6b294e1",
+      "title": "Colts’ Spencer Shrader suffers season-ending knee injury",
+      "link": "https://fox59.com/sports/colts/colts-spencer-shrader-suffers-season-ending-knee-injury/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-06T17:01:15+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ worst fears have been realized. Spencer Shrader suffered a season-ending knee injury in Sunday’s 40-6 win over the Las Vegas Raiders, according to a source with knowledge of the situation. After the game, coach Shane Steichen admitted, “It doesn’t look good.’’ Further medical testing revealed the seriousness of the injury. [...]"
+    },
+    {
+      "id": "eca404a55c1adf1b",
+      "title": "Spencer Shrader injury update: Latest news on Colts' kicker",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/06/spencer-shrader-injury-update-colts-kicker-out-season/86550582007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T16:58:37+0000",
+      "summary": "Here is the latest injury update on Colts' kicker Spencer Shrader."
+    },
+    {
+      "id": "c47ce027639757b0",
+      "title": "Sunday Aftermath: Drake Maye's star-making turn, Omarion Hampton's injury and more",
+      "link": "https://nbcsports.com/fantasy/football/news/sunday-aftermath-drake-mayes-star-making-turn-omarion-hamptons-injury-and-more",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T16:55:31+0000",
+      "summary": "Breaking down all of the NFL's biggest Week 4 storylines, including Drake Maye's star-making turn in Buffalo."
+    },
+    {
+      "id": "44d67c24da7e492e",
+      "title": "Mark Sanchez faces felony battery charge, prosecutor announces",
+      "link": "https://usatoday.com/story/sports/nfl/2025/10/06/mark-sanchez-charge-felony-battery-indianapolis/86549757007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T16:55:21+0000",
+      "summary": "Fox NFL analyst Mark Sanchez is now facing a felony charge for battery after weekend altercation in Indianapolis."
+    },
+    {
+      "id": "eb5d00b2738a7854",
+      "title": "Spencer Shrader injury update: Colts lose kicker to season-ending knee injury in win over Raiders",
+      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/spencer-shrader-injury-update-colts-kicker-raiders/9b2d01e03f7070e3fa05e395",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T16:55:00+0000",
+      "summary": "The Colts have to find a new kicker after Spencer Shrader went down with an injury."
+    },
+    {
+      "id": "7f0dc875b3789c1e",
+      "title": "REPORT: Chiefs WR Xavier Worthy 'expected' to play vs. Jaguars after surprise injury scare",
+      "link": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2025/10/06/xavier-worthy-expected-to-play-after-surprise-injury-scare-chiefs-jaguars-nfl-week-5/86550255007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T16:53:29+0000",
+      "summary": "According to NFL insider Ian Rapoport, Chiefs WR Xavier Worthy is &quot;expected&quot; to play vs. Jaguars on 'Monday Night Football.'"
+    },
+    {
+      "id": "f4d6f83ae1b3895c",
+      "title": "Week 5 NFL Upsets Bring Carnage To Circa Survivor",
+      "link": "https://ingame.com/circa-survivor-week5-carnage/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-06T16:52:02+0000",
+      "summary": "The season's first true bloodletting of the $18.7 million survivor pool took place thanks to upsets of the Rams, Cardinals, and Bills"
+    },
+    {
+      "id": "a637be90091133c9",
+      "title": "Colts’ early season success starting to feel real",
+      "link": "https://stampedeblue.com/analysis/115859/colts-early-season-success-starting-to-feel-real",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-06T16:50:50+0000",
+      "summary": "The Indianapolis Colts are currently 4-1, sitting atop the AFC, and this season’s early success is starting to feel very much real. It’s not as though the Colts’ initial three wins were flukey by any means (although they did get admittedly a bit lucky on that late ‘leverage’ penalty against the Denver Broncos in Week [&#8230;]"
     },
     {
       "id": "8c65c84157931c80",
@@ -36,15 +144,6 @@
       "feed": "ESPN",
       "published": "2025-10-06T16:21:48+0000",
       "summary": "Can Josh Allen win another MVP? Could anyone edge Myles Garrett for DPOY? We ranked the top three candidates to win seven NFL awards through four weeks."
-    },
-    {
-      "id": "e0f38a2fad094236",
-      "title": "Former NFL star Mark Sanchez could face six years in jail after being stabbed by 69-year-old",
-      "link": "https://sports.yahoo.com/article/former-nfl-star-mark-sanchez-161637673.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-06T16:16:37+0000",
-      "summary": "Former NFL quarterback Mark Sanchez could face jail time after he was charged with felony battery on Monday.  Monday’s charge is for level-five felony battery involving “serious bodily injury”, which can result in a jail sentence of up to six years and a $10,000 fine.  Sanchez was stabbed and pepper sprayed by a 69-year-old truck driver during the incident in Indianapolis, where the former New York Jets star was due to cover an NFL game between the Colts and Las Vegas Raiders on Sunday."
     },
     {
       "id": "ce901f957825ecc9",
@@ -99,15 +198,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-06T11:20:00+0000",
       "summary": "The Indianapolis Colts don’t meet the Arizona Cardinals often but the last time they did, it was a memorable game with the Colts winning a thriller on Christmas night. The Colts are looking to make some more positive memories at the expense of the Cardinals as they host them in week six from Lucas Oil. [&#8230;]"
-    },
-    {
-      "id": "5dc9a826f149f9b5",
-      "title": "A Travis Hunter on every NFL team? 32 players who could be two-way threats",
-      "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T11:00:13+0000",
-      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
     },
     {
       "id": "88153a0ea9df1c72",
@@ -207,15 +297,6 @@
       "feed": "Colts.com",
       "published": "2025-10-05T19:55:58+0000",
       "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
-    },
-    {
-      "id": "38cd78e33305c888",
-      "title": "Colts vs. Raiders: Game Day Thread",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115779/colts-vs-raiders-open-thread",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T18:58:15+0000",
-      "summary": "The Indianapolis Colts currently lead the Las Vegas Raiders 26-3 near midway through the third quarter. Please leave your game thoughts, reactions, etc. Go Horse!"
     },
     {
       "id": "380681c19d54d4c7",
@@ -344,15 +425,6 @@
       "summary": "The Colts will look to bounce back against a Las Vegas Raiders team that, even at 1-3, features a couple of league-wide star players."
     },
     {
-      "id": "f534b064b05fdb6e",
-      "title": "Colts vs. Raiders Week 5: Players to watch",
-      "link": "https://stampedeblue.com/analysis/115743/colts-vs-raiders-week-5-players-to-watch",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-03T14:30:00+0000",
-      "summary": "Once again throwing out the disclaimer here, this is a series where we will look over underrated players that could end up having a significant impact on the game, not the usual “Watch out for Jonathan Taylor! He is really good!”. Adetomiwa Adebawore Adebawore has been enjoying a breakout season so far, an unexpected one. [&#8230;]"
-    },
-    {
       "id": "236e1e9c8c75b74b",
       "title": "Ahead of retirement, Shaquille Leonard's former teammates celebrate impact 'generational talent' made on and off the field",
       "link": "https://colts.com/news/ahead-of-retirement-shaquille-leonard-s-former-teammates-celebrate-impact-generational-talent-made-on-and-off-the-field",
@@ -468,78 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-01T22:53:02+0000",
       "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer possessed the required passion or was the player who had [...]"
-    },
-    {
-      "id": "2d2af83ace8ce629",
-      "title": "Colts must turn the page after loss at Rams",
-      "link": "https://fox59.com/sports/colts/colts-must-turn-the-page-after-loss-at-rams/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-01T22:31:59+0000",
-      "summary": "INDIANAPOLIS – It’s the only way to navigate the NFL’s 17-game season: Turn the page. Review on Monday what took place the previous day – good and bad – make the necessary adjustments, then assume the necessary tunnel-vision approach for the next opponent. \"You’re on to the next week pretty quickly,\" Daniel Jones said on [...]"
-    },
-    {
-      "id": "ea68ebfd08fcb67c",
-      "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad",
-      "link": "https://colts.com/news/colts-place-cb-xavien-howard-on-reserve-retired-list-sign-s-trey-washington-to-53-man-roster-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T22:10:44+0000",
-      "summary": "The Colts made the roster move on Wednesday."
-    },
-    {
-      "id": "4647c6b211f7f9a8",
-      "title": "Shane Steichen sees common thread between Raiders QB Geno Smith and Colts QB Daniel Jones",
-      "link": "https://colts.com/news/shane-steichen-sees-common-thread-between-raiders-qb-geno-smith-and-colts-qb-daniel-jones",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T20:44:58+0000",
-      "summary": "Steichen was with Smith for one season with the Los Angeles Chargers, and even though he didn't start that year, the now-Colts head coach was impressed by his work ethic."
-    },
-    {
-      "id": "67f3364c6448c0cc",
-      "title": "Practice Notebook: G Matt Goncalves, WR Alec Pierce return to practice after missing Week 4 game vs. Rams",
-      "link": "https://colts.com/news/alec-pierce-injury-update-practice-matt-goncalves-kenny-moore-xavien-howard-status",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T19:42:11+0000",
-      "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
-    },
-    {
-      "id": "4597ee96bda42a59",
-      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
-      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-01T14:22:29+0000",
-      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
-    },
-    {
-      "id": "38ba95286905eea0",
-      "title": "Former All-Pro linebacker Shaquille Leonard to retire as member of Colts at halftime of Week 5 game vs. Las Vegas Raiders",
-      "link": "https://colts.com/news/former-all-pro-linebacker-shaquille-leonard-to-retire-as-member-of-colts-at-halftime-of-week-5-game-vs-las-vegas-raiders",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-01T14:00:14+0000",
-      "summary": "Leonard was a three-time first-team AP All-Pro and three-time Pro Bowler during six standout seasons with the Colts."
-    },
-    {
-      "id": "693db902795d5d9a",
-      "title": "Blame for the Colts’ 10-man defense: Coordinator Lou Anarumo takes full responsibility",
-      "link": "https://fox59.com/sports/colts/blame-for-the-colts-10-man-defense-coordinator-lou-anarumo-takes-full-responsibility/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-09-30T21:30:48+0000",
-      "summary": "INDIANAPOLIS – In this instance, the buck didn’t stop at the boss’s desk. The boss would be Shane Steichen. The Indianapolis Colts’ third-year head coach accepted the blame for his defense having only 10 players on the field when Matthew Stafford hooked up with Tutu Atwell for a game-winning 88-yard touchdown in Sunday’s 27-20 loss [...]"
-    },
-    {
-      "id": "75fe988a6df0db17",
-      "title": "Colts release unofficial depth chart for Week 5 game vs. Las Vegas Raiders",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-5-game-vs-las-vegas-raiders",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-09-30T20:34:41+0000",
-      "summary": "The Colts released their Week 5 unofficial depth chart ahead of their game against the Las Vegas Raiders Sunday at Lucas Oil Stadium. Check it out below:"
     }
   ],
   "links": [
