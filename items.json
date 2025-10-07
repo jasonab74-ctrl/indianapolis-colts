@@ -1,32 +1,50 @@
 {
-  "updated": "2025-10-07T20:39:32+00:00",
+  "updated": "2025-10-07T21:15:10+00:00",
   "items": [
+    {
+      "id": "5dc9a826f149f9b5",
+      "title": "🏈 32 NFL players who could be two-way threats",
+      "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T21:54:14+0000",
+      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
+    },
     {
       "id": "a5d8b3f1b3df0699",
       "title": "OBJ says he accepts 6-game suspension for PEDs",
       "link": "https://espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T21:19:27+0000",
+      "published": "2025-10-07T21:54:13+0000",
       "summary": "Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs."
     },
     {
       "id": "2b03ce4d368ac4af",
-      "title": "Source: NFL fining Cowboys' Jones for gesture",
+      "title": "Cowboys' Jones fined $250K for gesture, to appeal",
       "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T21:19:27+0000",
-      "summary": "Cowboys owner Jerry Jones is being fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday, a source told ESPN."
+      "published": "2025-10-07T21:54:13+0000",
+      "summary": "Cowboys owner Jerry Jones has been fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday. He will appeal."
     },
     {
-      "id": "ce901f957825ecc9",
-      "title": "👀 Barnwell ranks embarrassing Week 5 losses",
-      "link": "https://espn.com/nfl/story/_/id/46498964/2025-nfl-week-5-ranking-frustrating-losses-cardinals-eagles-rams",
+      "id": "bc3ac20436a1395d",
+      "title": "Test your knowledge in the NFL Week 5 quote quiz",
+      "link": "https://espn.com/nfl/story/_/id/46512363/giants-saints-buccaneers-seahawks-texans-ravens-2025-quotes-quiz",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T21:19:27+0000",
-      "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
+      "published": "2025-10-07T21:44:35+0000",
+      "summary": "Week 5 in the NFL offered upfront quotes and self-reflection. Put your knowledge to the test with our quote quiz."
+    },
+    {
+      "id": "d2840363abe5c922",
+      "title": "NFL Power Rankings: Big jumps for the Colts and 49ers? How far did the Chargers fall?",
+      "link": "https://espn.com/nfl/story/_/id/46511437/nfl-week-6-power-rankings-poll-32-teams-2025-fantasy-surprises",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T21:43:28+0000",
+      "summary": "We stacked every team ahead of Week 6. Which teams rose into or fell out of the top 10? Plus, we have fantasy surprises on each roster."
     },
     {
       "id": "f8dee1af207226f4",
@@ -34,80 +52,62 @@
       "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T21:01:27+0000",
+      "published": "2025-10-07T21:40:25+0000",
       "summary": "We're grading NFL deals leading into the Nov. 4 NFL trade deadline, including the Bengals making a deal for Joe Flacco."
     },
     {
-      "id": "a2ebac648bec3fa3",
-      "title": "Another lesson from NFL's goal-line fumbles is wrapped in the reaction | Opinion",
-      "link": "https://usatoday.com/story/sports/nfl/cardinals/2025/10/07/cardinals-coach-jonathan-gannon-exposed-a-leadership-flaw-emani-demercado-fumble/86570101007/",
+      "id": "b4cfcb98f76352fe",
+      "title": "NFL Rookie Travis Hunter Shares Sweet On-Field Reunion with Stranger He Helped on Plane 6 Months Earlier",
+      "link": "https://people.com/travis-hunter-reunites-on-field-stranger-he-helped-on-plane-11825610",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:32:33+0000",
-      "summary": "The teaching moments don't end with Arizona Cardinals running back Emani Demercado for his goal line fumble. They extend to the reaction."
+      "published": "2025-10-07T20:58:46+0000",
+      "summary": "Travis Hunter met stranger-turned-friend Sandy Hawkins Combs on an airplane just days after he was selected No. 2 overall by the Jaguars in the NFL Draft"
     },
     {
-      "id": "56289a3ddbf70525",
-      "title": "Facing 6-game NFL suspension, Odell Beckham Jr. says he wants to play for Steelers",
-      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/10/07/steelers-odell-beckham-jr-nfl-suspension/86570027007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:27:47+0000",
-      "summary": "Former All-Pro Odell Beckham Jr. named the Steelers as a preferred landing spot following Calvin Austin's shoulder injury but faces an NFL suspension."
+      "id": "fda60e9e44120574",
+      "title": "Colts release unofficial depth chart for Week 6 game vs. Arizona Cardinals",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-6-game-vs-arizona-cardinals",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-07T20:53:11+0000",
+      "summary": "The Colts released their Week 6 unofficial depth chart ahead of their game against the Arizona Cardinals Sunday at Lucas Oil Stadium. Check it out below:"
     },
     {
-      "id": "e8e1c6d40178cb35",
-      "title": "NFL fines Cowboys owner Jerry Jones $250,000 for ‘inadvertent’ obscene gesture at fans",
-      "link": "https://sports.yahoo.com/article/nfl-fines-cowboys-owner-jerry-202502201.html",
+      "id": "7c3591041685bc78",
+      "title": "Report: Unclear whether NFL will hold Pro Bowl Games this season",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-unclear-whether-nfl-will-hold-pro-bowl-games-this-season",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:25:02+0000",
-      "summary": "The NFL has fined Dallas Cowboys owner Jerry Jones $250,000 for what he claims was an “inadvertent” obscene gesture towards fans at the New York Jets’ MetLife Stadium on Sunday.  Viral clips captured Jones appearing to flash his middle finger at Jets fans during the Cowboys’ 37-22 win.  Jones claimed he was actually trying to give Cowboys fans in the stadium the thumbs up as his team rolled towards victory late in the fourth quarter."
+      "published": "2025-10-07T20:52:57+0000",
+      "summary": "The NFL does not have the all-star event on its calender."
     },
     {
-      "id": "44beba5ac1d1af63",
-      "title": "Buccaneers' Baker Mayfield made impressive NFL history on Sunday against Seahawks",
-      "link": "https://sportingnews.com/us/nfl/tampa-bay-buccaneers/news/buccaneers-baker-mayfield-nfl-history-sunday-against-seahawks/45170f99aa63943992fa005c",
+      "id": "1009be6c649c9bb4",
+      "title": "NFL Fines Cowboys Owner Jerry Jones $250K for Flipping Off Fans — He Claims It Was Unintentional",
+      "link": "https://mediaite.com/media/sports/nfl-fines-cowboys-owner-jerry-jones-250k-for-flipping-off-fans-he-claims-it-was-unintentional/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:18:45+0000",
-      "summary": "Baker Mayfield was dialed."
+      "published": "2025-10-07T20:50:32+0000",
+      "summary": "The NFL has fined Dallas Cowboys Jerry Jones $250,000 after he was seen on video giving the middle finger to fans at MetLife Stadium on Sunday."
     },
     {
-      "id": "77b6780d96d3c99d",
-      "title": "All-Pro WR Announces Six-Game Suspension from NFL for PEDs",
-      "link": "https://sportsnaut.com/nfl/odell-beckham-six-game-suspension-from-nfl-for-peds/",
+      "id": "1e8ed4268380087b",
+      "title": "Attorney: victim in Mark Sanchez incident is &quot;thankful to be alive&quot;",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/victim-in-mark-sanchez-incident-is-thankful-to-be-alive",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:15:19+0000",
-      "summary": "The NFL always tries to take cheaters seriously. In today&#8217;s day and age, there is sometimes a fine line between"
+      "published": "2025-10-07T20:45:59+0000",
+      "summary": "On Monday, the 69-year-old truck driver who was injured in a weekend altercation with former NFL quarterback and current Fox analyst Mark Sanchez filed a lawsuit against Sanchez and Fox."
     },
     {
-      "id": "88d87ef265d99d69",
-      "title": "Bill Belichick and UNC Football's Hulu Documentary Series Canceled",
-      "link": "https://people.com/bill-belichick-unc-football-hulu-documentary-series-canceled-11825991",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:11:31+0000",
-      "summary": "The former NFL coach confirmed in August that the series was happening, saying it would &quot;stream on Hulu later this fall&quot;"
-    },
-    {
-      "id": "c57168800203b3cd",
-      "title": "How did former Minnesota Vikings play around the NFL in Week 5?",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/07/former-vikings-week-5-nfl-stefon-diggs/86559462007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:10:43+0000",
-      "summary": "Several former Vikings had standout performances in Week 5 of the NFL season."
-    },
-    {
-      "id": "e3a5c5144dacfa93",
-      "title": "NFL insider Ian Rapoport breaks Joe Flacco trade news . . . from the golf course",
-      "link": "https://sports.yahoo.com/article/nfl-insider-ian-rapoport-breaks-200410285.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:04:10+0000",
-      "summary": "Now that's a pro's pro right there."
+      "id": "7782a9f4b176673e",
+      "title": "Colts sign kicker Michael Badgley, place Spencer Shrader on injured reserve",
+      "link": "https://colts.com/news/colts-sign-kicker-michael-badgley-place-spencer-shrader-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-07T20:43:11+0000",
+      "summary": "The Colts signed Badgley on Tuesday, replacing Spencer Shrader after Shrader sustained a season-ending injury in the Colts' Week 5 game."
     },
     {
       "id": "bb3a3a37b6723a62",
@@ -117,15 +117,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-07T19:00:11+0000",
       "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
-    },
-    {
-      "id": "d2840363abe5c922",
-      "title": "NFL Power Rankings: Big jumps for the Colts and 49ers? How far did the Chargers fall?",
-      "link": "https://espn.com/nfl/story/_/id/46511437/nfl-week-6-power-rankings-poll-32-teams-2025-fantasy-surprises",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T18:56:00+0000",
-      "summary": "We stacked every team ahead of Week 6. Which teams rose into or fell out of the top 10? Plus, we have fantasy surprises on each roster."
     },
     {
       "id": "5cd75a285679e494",
@@ -173,15 +164,6 @@
       "summary": "Daniel Jones: A &#8211; Jones is giving the Colts exactly what they needed, and even more, from the quarterback position. He is completing a high percentage of his passes, with a 71.3% completion rate, keeping the ball moving, taking excellent care of the football with just a turnover-worthy play rate of 2.8%, and constantly hitting [&#8230;]"
     },
     {
-      "id": "bc3ac20436a1395d",
-      "title": "'It's his flu game': Who said it? Test your knowledge in the NFL Week 5 quote quiz",
-      "link": "https://espn.com/nfl/story/_/id/46512363/giants-saints-buccaneers-seahawks-texans-ravens-2025-quotes-quiz",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T14:58:37+0000",
-      "summary": "Week 5 in the NFL offered upfront quotes and self-reflection. Put your knowledge to the test with our quote quiz."
-    },
-    {
       "id": "f9507b4a4482abb8",
       "title": "Losing Spencer Shrader could be a major loss for the Colts",
       "link": "https://stampedeblue.com/analysis/24480843/losing-spencer-shrader-could-be-a-major-loss-for-the-colts",
@@ -198,15 +180,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-07T02:31:15+0000",
       "summary": "On Monday, the Indianapolis Colts worked out cornerbacks Lewis Cine and Kendall Fuller to potentially bolster the depth of an increasingly depleted secondary (via KPRC2’s Aaron Wilson): At cornerback, having already lost rookie Justin Walley for the season and placed Jaylon Jones on injured reserve to begin the 2025 campaign, the Colts have since seen [&#8230;]"
-    },
-    {
-      "id": "5dc9a826f149f9b5",
-      "title": "A Travis Hunter on every NFL team? 32 players who could be two-way threats",
-      "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T20:56:53+0000",
-      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
     },
     {
       "id": "927fdba1da2a011e",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-10-02T15:00:41+0000",
       "summary": "Hinton, who is in the Colts' Ring of Honor, was a seven-time Pro Bowler and three-time All-Pro during his 13-year NFL career."
+    },
+    {
+      "id": "a4aab427e7b93e8f",
+      "title": "Hinton, Boyd, Curtis head Colts’ senior candidates for Pro Football Hall of Fame",
+      "link": "https://fox59.com/sports/colts/hinton-boyd-curtis-head-colts-senior-candidates-for-pro-football-hall-of-fame/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-02T15:00:18+0000",
+      "summary": "INDIANAPOLIS – Four Colts, including three icons who touched two cities, are among 52 senior candidates who will be considered for the Pro Football Hall of Fame’s Class of 2026. Offensive lineman Chris Hinton, whose 13-year career began with decorated seasons in Baltimore and Indy, along with cornerback Bobby Boyd and linebacker Mike Curtis, both [...]"
+    },
+    {
+      "id": "27d2cc201f0f00b1",
+      "title": "Colts sign CB Keenan Garber to practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-keenan-garber-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-02T12:41:47+0000",
+      "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "1a082879459b6e67",
+      "title": "Indianapolis Colts’ cornerback Xavien Howard retires",
+      "link": "https://fox59.com/sports/colts/indianapolis-colts-cornerback-xavien-howard-retires/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T22:53:02+0000",
+      "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer possessed the required passion or was the player who had [...]"
     }
   ],
   "links": [
