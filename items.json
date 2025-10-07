@@ -1,50 +1,32 @@
 {
-  "updated": "2025-10-07T13:47:02+00:00",
+  "updated": "2025-10-07T14:18:39+00:00",
   "items": [
+    {
+      "id": "f646ee66c8ae8792",
+      "title": "Sanchez now facing felony charge for altercation",
+      "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T15:13:22+0000",
+      "summary": "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis."
+    },
+    {
+      "id": "ce901f957825ecc9",
+      "title": "👀 Barnwell ranks embarrassing Week 5 losses",
+      "link": "https://espn.com/nfl/story/_/id/46498964/2025-nfl-week-5-ranking-frustrating-losses-cardinals-eagles-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T15:13:22+0000",
+      "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
+    },
     {
       "id": "bc3ac20436a1395d",
       "title": "'It's his flu game': Who said it? Test your knowledge in the NFL Week 5 quote quiz",
       "link": "https://espn.com/nfl/story/_/id/46512363/giants-saints-buccaneers-seahawks-texans-ravens-2025-quotes-quiz",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T14:40:31+0000",
+      "published": "2025-10-07T14:58:37+0000",
       "summary": "Week 5 in the NFL offered upfront quotes and self-reflection. Put your knowledge to the test with our quote quiz."
-    },
-    {
-      "id": "6762e0eaa910c5d2",
-      "title": "Injury for Detroit Lions' Terrion Arnold 'likely' season ending, per NFL Network",
-      "link": "https://freep.com/story/sports/nfl/lions/2025/10/07/detroit-lions-terrion-arnold-shoulder-injury-update-likely-season-ending/86562821007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T13:32:34+0000",
-      "summary": "Terrion Arnold wrote on X, 'God doesn't make mistakes I'll be back' after suffering a shoulder injury against the Cincinnati Bengals."
-    },
-    {
-      "id": "231f71f4212b5ada",
-      "title": "NFL receiving yardage leaders after Week 5",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/10/07/nfl-stats-receiving-leaders-week-5-puka-nacua/86558286007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T13:30:15+0000",
-      "summary": "The Rams' Puka Nacua leads the lead in receiving yards. There are others who are starting to close in on the top spot."
-    },
-    {
-      "id": "43db3e467a1ed40e",
-      "title": "PFT's Week 6 2025 NFL power rankings",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-6-2025-nfl-power-rankings",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T13:30:10+0000",
-      "summary": "The Lions are back, thanks to the Eagles and Bills losing."
-    },
-    {
-      "id": "fa1713e1fdd1aa16",
-      "title": "Commanders predicted to trade for 351-yard RB as Jacory Croskey-Merritt running mate",
-      "link": "https://sportingnews.com/us/nfl/washington-commanders/news/commanders-predicted-trade-breece-hall-jacory-croskey-merritt-running-mate/10b2b4cf98d97f1fb8cbfb50",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T13:20:51+0000",
-      "summary": "The Washington Commanders could look to add to the running back position before the NFL trade deadline next month and one analyst is predicting the Commanders will do just that in a trade with the New York Jets."
     },
     {
       "id": "5cd75a285679e494",
@@ -52,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/46510540/denver-broncos-nfl-general-manager-tree-elway-lynch-spytek-peters-mougey",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T12:50:56+0000",
+      "published": "2025-10-07T14:46:42+0000",
       "summary": "The Broncos turned into a GM factory under Elway, as four current and two former GMs were in Denver under his Super Bowl-winning regime."
     },
     {
@@ -61,8 +43,26 @@
       "link": "https://espn.com/nfl/story/_/id/46511437/nfl-week-6-power-rankings-poll-32-teams-2025-fantasy-surprises",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T12:46:22+0000",
+      "published": "2025-10-07T14:46:29+0000",
       "summary": "We stacked every team ahead of Week 6. Which teams rose into or fell out of the top 10? Plus, we have fantasy surprises on each roster."
+    },
+    {
+      "id": "abd70e7f529fba33",
+      "title": "Chiefs Controversy: Chris Jones Quiet Quits on Huge Play in Loss to Jaguars",
+      "link": "https://sportsnaut.com/nfl/chris-jones-criticism-chiefs-loss/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T14:10:41+0000",
+      "summary": "NFL fans are ravaging Kansas City Chiefs great Chris Jones on Tuesday morning after a video emerged of him quiet quitting"
+    },
+    {
+      "id": "68525f4764edc9b5",
+      "title": "Cowboys owner Jerry Jones confirms he gave middle finger at Jets game from MetLife Stadium luxury box",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/cowboys-owner-jerry-jones-confirms-he-gave-middle-finger-at-jets-game-from-metlife-stadium-luxury-box-135722238.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T13:57:22+0000",
+      "summary": "The last team owner caught on video flipping the bird from his luxury box drew a $250,000 fine from the NFL."
     },
     {
       "id": "f9507b4a4482abb8",
@@ -72,24 +72,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-07T11:25:36+0000",
       "summary": "The Colts enjoyed stability at the kicking position once upon a time when Adam Vinatieri would trot out to make his attempts. He wasn’t perfect, as no kicker is, but he was comfortable. Not blessed with the biggest leg, there were still no areas on the field that made fans feel uneasy. Over the years, [&#8230;]"
-    },
-    {
-      "id": "f646ee66c8ae8792",
-      "title": "Sanchez now facing felony charge for altercation",
-      "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T07:13:08+0000",
-      "summary": "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis."
-    },
-    {
-      "id": "37e312336bd19c98",
-      "title": "👀 Saints' petty Dart jab leads Week 5 NFL trolls",
-      "link": "https://espn.com/nfl/story/_/id/46501465/nfl-week-5-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T07:13:08+0000",
-      "summary": "The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart."
     },
     {
       "id": "8c65c84157931c80",
@@ -108,15 +90,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-07T02:31:15+0000",
       "summary": "On Monday, the Indianapolis Colts worked out cornerbacks Lewis Cine and Kendall Fuller to potentially bolster the depth of an increasingly depleted secondary (via KPRC2’s Aaron Wilson): At cornerback, having already lost rookie Justin Walley for the season and placed Jaylon Jones on injured reserve to begin the 2025 campaign, the Colts have since seen [&#8230;]"
-    },
-    {
-      "id": "ce901f957825ecc9",
-      "title": "The Cardinals really lost? The Eagles and Rams, too? Barnwell on three embarrassing Week 5 letdowns",
-      "link": "https://espn.com/nfl/story/_/id/46498964/2025-nfl-week-5-ranking-frustrating-losses-cardinals-eagles-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-06T22:08:52+0000",
-      "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
     },
     {
       "id": "5dc9a826f149f9b5",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-10-01T20:44:58+0000",
       "summary": "Steichen was with Smith for one season with the Los Angeles Chargers, and even though he didn't start that year, the now-Colts head coach was impressed by his work ethic."
+    },
+    {
+      "id": "67f3364c6448c0cc",
+      "title": "Practice Notebook: G Matt Goncalves, WR Alec Pierce return to practice after missing Week 4 game vs. Rams",
+      "link": "https://colts.com/news/alec-pierce-injury-update-practice-matt-goncalves-kenny-moore-xavien-howard-status",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T19:42:11+0000",
+      "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "4597ee96bda42a59",
+      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
+      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T14:22:29+0000",
+      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
+    },
+    {
+      "id": "38ba95286905eea0",
+      "title": "Former All-Pro linebacker Shaquille Leonard to retire as member of Colts at halftime of Week 5 game vs. Las Vegas Raiders",
+      "link": "https://colts.com/news/former-all-pro-linebacker-shaquille-leonard-to-retire-as-member-of-colts-at-halftime-of-week-5-game-vs-las-vegas-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T14:00:14+0000",
+      "summary": "Leonard was a three-time first-team AP All-Pro and three-time Pro Bowler during six standout seasons with the Colts."
     }
   ],
   "links": [
