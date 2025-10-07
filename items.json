@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-07T04:21:23+00:00",
+  "updated": "2025-10-07T04:41:50+00:00",
   "items": [
     {
       "id": "95d7b96df17b6748",
@@ -27,24 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-07T03:37:24+0000",
       "summary": "Tampa Bay is living off close, last-second wins so far."
-    },
-    {
-      "id": "648116a3b4f5e0c6",
-      "title": "NFL playoff picture: Broncos chasing postseason spot as Chiefs stumble",
-      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/10/06/nfl-playoff-picture-broncos-position/86556901007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T03:26:11+0000",
-      "summary": "The Chargers and Broncos are both 3-2 and in playoff position entering Week 6. The Chiefs (2-3) are currently third in the division."
-    },
-    {
-      "id": "e5aa3e9ecd64cb0a",
-      "title": "NFL power rankings: Eagles, Bills fall behind 49ers, Lions; Patriots, Colts, Broncos leap for Week 6",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-eagles-lions-49ers-patriots-colts-broncos/8caa49bfc933adbca0536285",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T03:25:01+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 5 of the 2025 NFL regular season? Here's an updated look from best to worst."
     },
     {
       "id": "f646ee66c8ae8792",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-01T19:42:11+0000",
       "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "4597ee96bda42a59",
+      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
+      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T14:22:29+0000",
+      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
+    },
+    {
+      "id": "38ba95286905eea0",
+      "title": "Former All-Pro linebacker Shaquille Leonard to retire as member of Colts at halftime of Week 5 game vs. Las Vegas Raiders",
+      "link": "https://colts.com/news/former-all-pro-linebacker-shaquille-leonard-to-retire-as-member-of-colts-at-halftime-of-week-5-game-vs-las-vegas-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-01T14:00:14+0000",
+      "summary": "Leonard was a three-time first-team AP All-Pro and three-time Pro Bowler during six standout seasons with the Colts."
     }
   ],
   "links": [
