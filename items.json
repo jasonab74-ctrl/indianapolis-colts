@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-07T22:16:11+00:00",
+  "updated": "2025-10-07T22:38:26+00:00",
   "items": [
     {
       "id": "f8dee1af207226f4",
@@ -47,6 +47,24 @@
       "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
     },
     {
+      "id": "cad3d1065dbb684e",
+      "title": "Indianapolis Colts' offensive attack one of best in NFL",
+      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/10/07/daniel-jones-jonathan-taylor-colts-are-dynamic-on-offense/86572434007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T22:14:21+0000",
+      "summary": "The Cardinals will be challenged by one of the league's best offenses and two of the best individual performers in Week 6."
+    },
+    {
+      "id": "3b3d0b272d2cb469",
+      "title": "Colts put CB Mike Hilton on practice squad injured reserve",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-put-cb-mike-hilton-on-practice-squad-injured-reserve",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T22:09:20+0000",
+      "summary": "Veteran cornerback Mike Hilton started the last two games for the Colts, but he won't be available for the near future."
+    },
+    {
       "id": "7ef8011bf7a6b9ea",
       "title": "Which teams are looking for a first-round quarterback in the 2026 NFL Draft?",
       "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/07/which-teams-are-looking-for-a-1top-quarterback-in-the-2026-nfl-draft/86560807007/",
@@ -54,51 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-07T22:05:18+0000",
       "summary": "We're almost a third through the season and a few teams are already preparing for the 2026 NFL Draft. Which teams need a new quarterback come April?"
-    },
-    {
-      "id": "dc833d46566d51f4",
-      "title": "NFL power rankings: Arizona Cardinals fall more after Week 5 loss to Titans",
-      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/10/07/nfl-power-rankings-cardinals-fall-more-after-week-5-loss-to-titans/86572009007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T21:56:52+0000",
-      "summary": "Check out where the Cardinals rank in USA TODAY's new Week 6 power rankings."
-    },
-    {
-      "id": "2e73c65fd9237305",
-      "title": "How top transfer wide receivers are shaping the 2026 NFL Draft",
-      "link": "https://sportingnews.com/us/nfl/news/top-transfer-wide-receivers-shaping-2026-nfl-draft/52aca7a33c5ad24d1e1a6645",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T21:52:45+0000",
-      "summary": "Did these receivers make the right call?"
-    },
-    {
-      "id": "efce96a34a34e03b",
-      "title": "'I don't care.' Deion Sanders reacts to Browns QB trade that could affect Shedeur",
-      "link": "https://usatoday.com/story/sports/ncaaf/2025/10/07/deion-sanders-response-joe-flacco-trade-shedeur-cleveland-browns/86572038007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T21:47:59+0000",
-      "summary": "Colorado coach Deion Sanders was asked Tuesday about the NFL quarterback trade that could affect his son Shedeur."
-    },
-    {
-      "id": "af078a3b23389c79",
-      "title": "Why snapper Luke Rhodes is the Colts' emergency holder when Rigo Sanchez has to kick",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/07/luke-rhodes-colts-emergency-holder-rigo-sanchez-kicks-kicker-injury/86572234007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T21:47:39+0000",
-      "summary": "The Colts use long snapper Luke Rhodes as their emergency holder. Here's why they force themselves to make two changes if the kicker gets hurt"
-    },
-    {
-      "id": "3f657d61764cd427",
-      "title": "NFL Power Rankings Week 6: Eagles and Bills drop, Lions climb higher",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/07/nfl-power-rankings-week-6-eagles-and-bills-drop-lions-climb-higher/86558407007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T21:44:44+0000",
-      "summary": "A pair of new teams join the top five in our weekly NFL power rankings, and the top spot switches hands again."
     },
     {
       "id": "bc3ac20436a1395d",
@@ -135,6 +108,15 @@
       "feed": "Colts.com",
       "published": "2025-10-07T20:43:11+0000",
       "summary": "The Colts signed Badgley on Tuesday, replacing Spencer Shrader after Shrader sustained a season-ending injury in the Colts' Week 5 game."
+    },
+    {
+      "id": "bb3a3a37b6723a62",
+      "title": "Colts’ Week 5 QB Analysis: I think I believe",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115902/colts-week-5-qb-analysis-i-think-i-believe",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T19:00:11+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "5cd75a285679e494",
@@ -270,15 +252,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-06T16:50:50+0000",
       "summary": "The Indianapolis Colts are currently 4-1, sitting atop the AFC, and this season’s early success is starting to feel very much real. It’s not as though the Colts’ initial three wins were flukey by any means (although they did get admittedly a bit lucky on that late ‘leverage’ penalty against the Denver Broncos in Week [&#8230;]"
-    },
-    {
-      "id": "6bde5f018c27439d",
-      "title": "Colts’ Monday Morning Awards: Week 5 vs. Raiders",
-      "link": "https://stampedeblue.com/analysis/115845/colts-monday-morning-awards-week-5-vs-raiders",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T14:50:14+0000",
-      "summary": "4-1, this is how good teams bounce back from a tough loss, and how elite teams play against mediocre opposition. When was the last time you saw the Colts consistently dominate playing against opponents that were considerably worse? As we prepare for two tough opponents coming up, the wind is definitely behind the Colts’ sails. [&#8230;]"
     },
     {
       "id": "ec88bf6dfb27ccbc",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-10-02T15:00:41+0000",
       "summary": "Hinton, who is in the Colts' Ring of Honor, was a seven-time Pro Bowler and three-time All-Pro during his 13-year NFL career."
+    },
+    {
+      "id": "a4aab427e7b93e8f",
+      "title": "Hinton, Boyd, Curtis head Colts’ senior candidates for Pro Football Hall of Fame",
+      "link": "https://fox59.com/sports/colts/hinton-boyd-curtis-head-colts-senior-candidates-for-pro-football-hall-of-fame/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-02T15:00:18+0000",
+      "summary": "INDIANAPOLIS – Four Colts, including three icons who touched two cities, are among 52 senior candidates who will be considered for the Pro Football Hall of Fame’s Class of 2026. Offensive lineman Chris Hinton, whose 13-year career began with decorated seasons in Baltimore and Indy, along with cornerback Bobby Boyd and linebacker Mike Curtis, both [...]"
+    },
+    {
+      "id": "27d2cc201f0f00b1",
+      "title": "Colts sign CB Keenan Garber to practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-keenan-garber-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-02T12:41:47+0000",
+      "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "1a082879459b6e67",
+      "title": "Indianapolis Colts’ cornerback Xavien Howard retires",
+      "link": "https://fox59.com/sports/colts/indianapolis-colts-cornerback-xavien-howard-retires/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T22:53:02+0000",
+      "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer possessed the required passion or was the player who had [...]"
     }
   ],
   "links": [
