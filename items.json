@@ -1,6 +1,33 @@
 {
-  "updated": "2025-10-07T20:19:28+00:00",
+  "updated": "2025-10-07T20:39:32+00:00",
   "items": [
+    {
+      "id": "a5d8b3f1b3df0699",
+      "title": "OBJ says he accepts 6-game suspension for PEDs",
+      "link": "https://espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T21:19:27+0000",
+      "summary": "Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs."
+    },
+    {
+      "id": "2b03ce4d368ac4af",
+      "title": "Source: NFL fining Cowboys' Jones for gesture",
+      "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T21:19:27+0000",
+      "summary": "Cowboys owner Jerry Jones is being fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday, a source told ESPN."
+    },
+    {
+      "id": "ce901f957825ecc9",
+      "title": "👀 Barnwell ranks embarrassing Week 5 losses",
+      "link": "https://espn.com/nfl/story/_/id/46498964/2025-nfl-week-5-ranking-frustrating-losses-cardinals-eagles-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-07T21:19:27+0000",
+      "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
+    },
     {
       "id": "f8dee1af207226f4",
       "title": "Our NFL trade grades: Bengals needed a QB, but was Joe Flacco the right one?",
@@ -11,31 +38,40 @@
       "summary": "We're grading NFL deals leading into the Nov. 4 NFL trade deadline, including the Bengals making a deal for Joe Flacco."
     },
     {
-      "id": "a5d8b3f1b3df0699",
-      "title": "OBJ says he accepts 6-game suspension for PEDs",
-      "link": "https://espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T20:52:25+0000",
-      "summary": "Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs."
+      "id": "a2ebac648bec3fa3",
+      "title": "Another lesson from NFL's goal-line fumbles is wrapped in the reaction | Opinion",
+      "link": "https://usatoday.com/story/sports/nfl/cardinals/2025/10/07/cardinals-coach-jonathan-gannon-exposed-a-leadership-flaw-emani-demercado-fumble/86570101007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T20:32:33+0000",
+      "summary": "The teaching moments don't end with Arizona Cardinals running back Emani Demercado for his goal line fumble. They extend to the reaction."
     },
     {
-      "id": "2b03ce4d368ac4af",
-      "title": "Source: NFL fining Cowboys' Jones for gesture",
-      "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T20:52:25+0000",
-      "summary": "Cowboys owner Jerry Jones is being fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday, a source told ESPN."
+      "id": "56289a3ddbf70525",
+      "title": "Facing 6-game NFL suspension, Odell Beckham Jr. says he wants to play for Steelers",
+      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/10/07/steelers-odell-beckham-jr-nfl-suspension/86570027007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T20:27:47+0000",
+      "summary": "Former All-Pro Odell Beckham Jr. named the Steelers as a preferred landing spot following Calvin Austin's shoulder injury but faces an NFL suspension."
     },
     {
-      "id": "ce901f957825ecc9",
-      "title": "👀 Barnwell ranks embarrassing Week 5 losses",
-      "link": "https://espn.com/nfl/story/_/id/46498964/2025-nfl-week-5-ranking-frustrating-losses-cardinals-eagles-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T20:52:25+0000",
-      "summary": "We saw blown leads, bad turnovers, tough calls and one of the weirdest TDs you'll see all season. Let's stack three head-scratching losses from NFL Week 5."
+      "id": "e8e1c6d40178cb35",
+      "title": "NFL fines Cowboys owner Jerry Jones $250,000 for ‘inadvertent’ obscene gesture at fans",
+      "link": "https://sports.yahoo.com/article/nfl-fines-cowboys-owner-jerry-202502201.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T20:25:02+0000",
+      "summary": "The NFL has fined Dallas Cowboys owner Jerry Jones $250,000 for what he claims was an “inadvertent” obscene gesture towards fans at the New York Jets’ MetLife Stadium on Sunday.  Viral clips captured Jones appearing to flash his middle finger at Jets fans during the Cowboys’ 37-22 win.  Jones claimed he was actually trying to give Cowboys fans in the stadium the thumbs up as his team rolled towards victory late in the fourth quarter."
+    },
+    {
+      "id": "44beba5ac1d1af63",
+      "title": "Buccaneers' Baker Mayfield made impressive NFL history on Sunday against Seahawks",
+      "link": "https://sportingnews.com/us/nfl/tampa-bay-buccaneers/news/buccaneers-baker-mayfield-nfl-history-sunday-against-seahawks/45170f99aa63943992fa005c",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T20:18:45+0000",
+      "summary": "Baker Mayfield was dialed."
     },
     {
       "id": "77b6780d96d3c99d",
@@ -65,49 +101,13 @@
       "summary": "Several former Vikings had standout performances in Week 5 of the NFL season."
     },
     {
-      "id": "d983dc1794672812",
-      "title": "Browns updated 2026 NFL Draft picks after Joe Flacco trade to Bengals",
-      "link": "https://brownswire.usatoday.com/story/sports/nfl/browns/2025/10/07/browns-2026-nfl-draft-picks-after-joe-flacco-trade-bengals/86570634007/",
+      "id": "e3a5c5144dacfa93",
+      "title": "NFL insider Ian Rapoport breaks Joe Flacco trade news . . . from the golf course",
+      "link": "https://sports.yahoo.com/article/nfl-insider-ian-rapoport-breaks-200410285.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:02:13+0000",
-      "summary": "What does the Browns' 2026 NFL Draft pick count look like now after trading Joe Flacco to the Bengals? Let's take a look."
-    },
-    {
-      "id": "47400444713e80f6",
-      "title": "Cowboys owner Jerry Jones fined $250,000 for middle finger gesture vs. Jets",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/07/jerry-jones-middle-finger-fine-cowboys-jets/86569773007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:01:10+0000",
-      "summary": "Jerry Jones was caught on camera raising his middle finger to fans during the Cowboys vs. Jets game. The NFL has fined him for his gesture."
-    },
-    {
-      "id": "7b2b8ecedd232f0e",
-      "title": "NFL fines Cowboys owner Jones $250,000 over gesture to fans",
-      "link": "https://sports.yahoo.com/article/nfl-fines-cowboys-owner-jones-200003674.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T20:00:03+0000",
-      "summary": "Dallas Cowboys owner Jerry Jones has been fined $250,000 by the National Football League after directing an &quot;obscene gesture&quot; to fans during last weekend's defeat of the New York Jets, US media reports said on Tuesday.Jones said in an interview with the 105.3 The Fan radio station in Dallas on Tuesday the gesture had been &quot;inadvertent&quot; and he had in fact been trying to give a thumbs up to fans celebrating a Cowboys touchdown."
-    },
-    {
-      "id": "dfa4a2889e5b3211",
-      "title": "Ex-Dolphins wide receiver Odell Beckham Jr. reveals positive PED test last season",
-      "link": "https://sun-sentinel.com/2025/10/07/ex-dolphins-wide-receiver-odell-beckham-jr-reveals-positive-ped-test-last-season/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T19:59:00+0000",
-      "summary": "Free agent NFL wide receiver Odell Beckham Jr., who spent last season with the Miami Dolphins, revealed in an interview released Tuesday that he tested positive for performance-enhancing drugs for 2024. Beckham told NFL podcast “The Pivot” of the positive drug test that would’ve occurred while he was with the Dolphins. The one-time star who turns 33 within a month said he has no intentions of ..."
-    },
-    {
-      "id": "fcaaeab7c469dccd",
-      "title": "NFL fines Cowboys owner Jerry Jones quarter million dollars for actions at Jets game",
-      "link": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/10/07/nfl-throws-the-bird-back-at-dallas-cowboys-owner-fining-jerry-jones-for-obscene-gesture/86569710007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T19:57:13+0000",
-      "summary": "Cowboys owner Jerry Jones pitched the bird at a fan during the team's Week 5 win. The NFL threw one back by fining the owner $250,000."
+      "published": "2025-10-07T20:04:10+0000",
+      "summary": "Now that's a pro's pro right there."
     },
     {
       "id": "bb3a3a37b6723a62",
