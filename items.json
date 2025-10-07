@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-07T23:15:49+00:00",
+  "updated": "2025-10-07T23:36:31+00:00",
   "items": [
     {
       "id": "a5d8b3f1b3df0699",
@@ -7,17 +7,8 @@
       "link": "https://espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T23:44:24+0000",
+      "published": "2025-10-08T00:14:24+0000",
       "summary": "Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs."
-    },
-    {
-      "id": "2b03ce4d368ac4af",
-      "title": "Cowboys' Jones fined $250K by NFL for gesture",
-      "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T23:44:24+0000",
-      "summary": "Cowboys owner Jerry Jones has been fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday."
     },
     {
       "id": "5dc9a826f149f9b5",
@@ -25,8 +16,26 @@
       "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-07T23:44:24+0000",
+      "published": "2025-10-08T00:14:24+0000",
       "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
+    },
+    {
+      "id": "2b03ce4d368ac4af",
+      "title": "Cowboys' Jones fined $250K by NFL for gesture",
+      "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-08T00:14:23+0000",
+      "summary": "Cowboys owner Jerry Jones has been fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday."
+    },
+    {
+      "id": "4ec571ce6e096890",
+      "title": "Rams defense ranks No. 1 in this stat after Week 5",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/07/rams-defense-ranks-no-1-in-this-stat-after-week-5/86573407007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T23:31:35+0000",
+      "summary": "The Rams have proven to be one of the best defenses in the NFL after five weeks."
     },
     {
       "id": "f8dee1af207226f4",
@@ -47,13 +56,13 @@
       "summary": "NFL will take no separate action against Cardinals coach."
     },
     {
-      "id": "8653574bd77a0dd1",
-      "title": "NFL fines Cardinals head coach Jonathan Gannon $100K for sideline altercation with Emari Demercado",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-fines-cardinals-head-coach-jonathan-gannon-100k-for-sideline-altercation-with-emari-demercado-225027375.html",
+      "id": "fdcbaa5aa4a9ae97",
+      "title": "Mark Sanchez and Fox Sued After Alleged Assault in Indianapolis",
+      "link": "https://complex.com/sports/a/alex-ocho/mark-sanchez-fox-sued-after-alleged-assault-indianapolis",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-07T22:50:27+0000",
-      "summary": "Jonathan Gannon lit up Emari Demercado on Sunday after the running back fumbled the ball before crossing the goal line in their loss to the Titans."
+      "published": "2025-10-07T23:01:25+0000",
+      "summary": "A delivery driver accused the former NFL star of assault - and Fox of negligence - following last week's encounter."
     },
     {
       "id": "bc3ac20436a1395d",
@@ -92,6 +101,15 @@
       "summary": "The Colts signed Badgley on Tuesday, replacing Spencer Shrader after Shrader sustained a season-ending injury in the Colts' Week 5 game."
     },
     {
+      "id": "bb3a3a37b6723a62",
+      "title": "Colts’ Week 5 QB Analysis: I think I believe",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115902/colts-week-5-qb-analysis-i-think-i-believe",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T19:00:11+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
+    },
+    {
       "id": "5cd75a285679e494",
       "title": "How the John Elway-led Broncos of the mid-2010s grew an NFL general manager tree",
       "link": "https://espn.com/nfl/story/_/id/46510540/denver-broncos-nfl-general-manager-tree-elway-lynch-spytek-peters-mougey",
@@ -99,6 +117,15 @@
       "feed": "ESPN",
       "published": "2025-10-07T18:54:39+0000",
       "summary": "The Broncos turned into a GM factory under Elway, as four current and two former GMs were in Denver under his Super Bowl-winning regime."
+    },
+    {
+      "id": "1a542c11ac0d5348",
+      "title": "Report: Colts reunite with familiar face for Spencer Shrader’s kicking replacement",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115941/report-colts-reunite-with-familiar-face-as-kicking-replacement",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T18:49:42+0000",
+      "summary": "According to the IndyStar’s Joel A. Erickson, the Indianapolis Colts have reunited with former place kicker Michael Badgley, as injured kicker Spencer Shrader’s replacement for the rest of the 2025 season: The 30-year-old kicker originally signed with the Colts out of Miami (Fla.) as an undrafted rookie back in 2018, but after an impressive preseason [&#8230;]"
     },
     {
       "id": "6a721d479fdc4759",
@@ -117,6 +144,15 @@
       "feed": "ESPN",
       "published": "2025-10-07T16:55:49+0000",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
+    {
+      "id": "2d60c1f47178c127",
+      "title": "Colts Early Season report card",
+      "link": "https://stampedeblue.com/analysis/115857/colts-early-season-report-card",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T15:30:00+0000",
+      "summary": "Daniel Jones: A &#8211; Jones is giving the Colts exactly what they needed, and even more, from the quarterback position. He is completing a high percentage of his passes, with a 71.3% completion rate, keeping the ball moving, taking excellent care of the football with just a turnover-worthy play rate of 2.8%, and constantly hitting [&#8230;]"
     },
     {
       "id": "f9507b4a4482abb8",
@@ -207,42 +243,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-06T16:50:50+0000",
       "summary": "The Indianapolis Colts are currently 4-1, sitting atop the AFC, and this season’s early success is starting to feel very much real. It’s not as though the Colts’ initial three wins were flukey by any means (although they did get admittedly a bit lucky on that late ‘leverage’ penalty against the Denver Broncos in Week [&#8230;]"
-    },
-    {
-      "id": "6bde5f018c27439d",
-      "title": "Colts’ Monday Morning Awards: Week 5 vs. Raiders",
-      "link": "https://stampedeblue.com/analysis/115845/colts-monday-morning-awards-week-5-vs-raiders",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T14:50:14+0000",
-      "summary": "4-1, this is how good teams bounce back from a tough loss, and how elite teams play against mediocre opposition. When was the last time you saw the Colts consistently dominate playing against opponents that were considerably worse? As we prepare for two tough opponents coming up, the wind is definitely behind the Colts’ sails. [&#8230;]"
-    },
-    {
-      "id": "e270e809fc35e7da",
-      "title": "AFC Playoff Picture: Indianapolis Colts are on top after Week 5",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115846/afc-playoff-picture-indianapolis-colts-are-on-top-after-week-5",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T14:07:10+0000",
-      "summary": "The Indianapolis Colts are first place in the AFC. Who saw that coming!? After the Buffalo Bills lost on Sunday Night Football to end their undefeated season, the Colts swapped places with them for the top spot in the conference. AFC South standings after Week 5 The Jacksonville Jaguars don’t play until Monday night, so [&#8230;]"
-    },
-    {
-      "id": "5593fb9e42a31ea4",
-      "title": "Colts-Cardinals opening odds: Bye Bye Birdie",
-      "link": "https://stampedeblue.com/analysis/115806/colts-cardinals-opening-odds-bye-bye-birdie",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T11:20:00+0000",
-      "summary": "The Indianapolis Colts don’t meet the Arizona Cardinals often but the last time they did, it was a memorable game with the Colts winning a thriller on Christmas night. The Colts are looking to make some more positive memories at the expense of the Cardinals as they host them in week six from Lucas Oil. [&#8230;]"
-    },
-    {
-      "id": "88153a0ea9df1c72",
-      "title": "This is ‘The Colture’ that Colts GM Chris Ballard has Envisioned",
-      "link": "https://stampedeblue.com/analysis/115811/this-is-the-colture-that-colts-gm-chris-ballard-has-envisioned",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T11:00:00+0000",
-      "summary": "Indianapolis, IN — For years, Indianapolis Colts general manager Chris Ballard preached patience without following through with a worthwhile product. From the uncertainty that was the quarterback carousel post-Luck to the uninspiring free agent cycles of yesteryear were just two of this regime’s biggest shortcomings thus far, with many more deficiencies scattered throughout. Through five [&#8230;]"
     },
     {
       "id": "ec88bf6dfb27ccbc",
