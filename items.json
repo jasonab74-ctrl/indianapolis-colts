@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-07T03:48:59+00:00",
+  "updated": "2025-10-07T04:21:23+00:00",
   "items": [
+    {
+      "id": "95d7b96df17b6748",
+      "title": "Florida NFL wrapup: Jaguars knock off Chiefs, Bucs win nail-biter, Dolphins blow it again",
+      "link": "https://jacksonville.com/story/sports/2025/10/07/jaguars-buccaneers-improve-to-4-1-with-late-wins-nfl-wrapup-video/85215210007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T04:14:39+0000",
+      "summary": "The Jaguars scored the game-winning touchdown against the Chiefs in the final minute, and the Bucs kicked a game-winning field goal as time expired."
+    },
+    {
+      "id": "943edfefd9204390",
+      "title": "Lawrence sparks Jaguars over Chiefs in NFL thriller",
+      "link": "https://sports.yahoo.com/article/lawrence-sparks-jaguars-over-chiefs-035247410.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-07T03:52:47+0000",
+      "summary": "Trevor Lawrence scrambled for an improbable game-winning touchdown with 23 seconds remaining as the Jacksonville Jaguars scored a dramatic 31-28 victory over the Kansas City Chiefs on Monday.Lawrence took the snap, fell over, rose, evaded two tacklers and dove into the end zone for the winning touchdown with 23 seconds remaining."
+    },
     {
       "id": "c07eb5333a372dc5",
       "title": "NFL Power Rankings entering Week 6: Are the Buccaneers good, or just lucky?",
@@ -29,15 +47,6 @@
       "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 5 of the 2025 NFL regular season? Here's an updated look from best to worst."
     },
     {
-      "id": "2d89396d238a4b4a",
-      "title": "NFL Power Rankings entering Week 6",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/10/06/nfl-power-rankings-week-6-jaguars-chiefs/86523320007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-07T03:19:54+0000",
-      "summary": "The Eagles and Bills fell from the unbeaten ranks, while the Jaguars pulled of a stunner on Monday night. Heading into Week 6, a new top team appears."
-    },
-    {
       "id": "f646ee66c8ae8792",
       "title": "Sanchez now facing felony charge for altercation",
       "link": "https://espn.com/nfl/story/_/id/46509859/ex-qb-mark-sanchez-now-facing-felony-charge-altercation",
@@ -54,6 +63,15 @@
       "feed": "ESPN",
       "published": "2025-10-07T02:46:13+0000",
       "summary": "The trolls were in full force during Week 5 of the NFL season, led by the New Orleans Saints poking fun at New York Giants rookie Jaxson Dart."
+    },
+    {
+      "id": "528334c9c564a5e3",
+      "title": "Colts work out two DBs to potentially improve depleted secondary depth",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115894/colts-work-out-two-veteran-dbs-to-potentially-improve-depleted-secondary-depth",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T02:31:15+0000",
+      "summary": "On Monday, the Indianapolis Colts worked out cornerbacks Lewis Cine and Kendall Fuller to potentially bolster the depth of an increasingly depleted secondary (via KPRC2’s Aaron Wilson): At cornerback, having already lost rookie Justin Walley for the season and placed Jaylon Jones on injured reserve to begin the 2025 campaign, the Colts have since seen [&#8230;]"
     },
     {
       "id": "ce901f957825ecc9",
@@ -234,15 +252,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-05T21:47:51+0000",
       "summary": "According to head coach Shane Steichen post-game, “it doesn’t look good” regarding now injured Indianapolis Colts place kicker Spencer Shrader (via 1075 The Fan’s Kevin Bowen): Shrader was injured with 7:56 left in the second quarter on an extra point attempt, when he was run over during his post-kicking motion, and roughing the kicker was [&#8230;]"
-    },
-    {
-      "id": "0e7430843dd0e62d",
-      "title": "Colts roll through Raiders 40-6 to remain unbeaten inside Lucas Oil Stadium",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/115795/colts-roll-through-raiders-40-6-to-remain-unbeaten-inside-lucas-oil-stadium",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T21:45:08+0000",
-      "summary": "The Indianapolis Colts steamrolled over the Las Vegas Raiders 40-6 with a balanced offensive onslaught tailored with a suffocating defensive performance. The Colts put on a clinic Sunday to improve to 4-1, remaining unbeaten inside Lucas Oil Stadium as they have outscored their three home opponents 102 to 42.&#160; Indianapolis improved its season scoring efficiency [&#8230;]"
     },
     {
       "id": "0749deb2c05a8bc1",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-01T19:42:11+0000",
       "summary": "Goncalves (toe, limited) and Pierce (concussion, full) both participated in the Colts' first practice of Week 5 on Wednesday at the Indiana Farm Bureau Football Center."
-    },
-    {
-      "id": "4597ee96bda42a59",
-      "title": "Colts to honor Shaq Leonard at halftime as former linebacker announces retirement",
-      "link": "https://fox59.com/sports/colts/colts-to-honor-shaq-leonard-at-halftime-as-former-linebacker-announces-retirement/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-01T14:22:29+0000",
-      "summary": "INDIANAPOLIS -- \"The Maniac\" will have his moment. Shaquille Leonard, the dynamic linebacker drafted by Indianapolis in 2018, plans to retire as member of the Colts. The six-year veteran former All-Pro spent the bulk of his career with the Horseshoe. Injuries derailed his promising career. The team will honor him during Sunday's game against the [...]"
     }
   ],
   "links": [
