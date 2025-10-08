@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-08T23:15:44+00:00",
+  "updated": "2025-10-08T23:36:20+00:00",
   "items": [
     {
       "id": "5dc9a826f149f9b5",
@@ -7,8 +7,26 @@
       "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-09T00:03:05+0000",
+      "published": "2025-10-09T00:14:08+0000",
       "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
+    },
+    {
+      "id": "eb51209447d4eb5f",
+      "title": "How long is Brock Bowers out? Knee injury timeline, return date, latest updates on Raiders TE",
+      "link": "https://sportingnews.com/us/nfl/las-vegas-raiders/news/brock-bowers-knee-injury-timeline-return-updates-raiders/31b784261e9ae70dd70ffb6a",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-08T23:15:41+0000",
+      "summary": "The Raiders are missing TE Brock Bowers against the Colts."
+    },
+    {
+      "id": "68c1e70a12aad2c4",
+      "title": "New York Giants vs. Philadelphia Eagles: NFL experts make Week 6 picks",
+      "link": "https://giantswire.usatoday.com/story/sports/nfl/giants/2025/10/08/new-york-giants-philadelphia-eagles-nfl-experts-make-week-6-picks/86578999007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-08T23:15:22+0000",
+      "summary": "Experts from around the NFL make their picks for a Week 6 game between the New York Giants and Philadelphia Eagles."
     },
     {
       "id": "00b15e8a6fbd4619",
@@ -27,33 +45,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-08T22:59:00+0000",
       "summary": "After a heartbreaking loss to the Rams, the Colts got back on track in a big way on Sunday. When you look at the box score you’re almost surprised it was 40-6, but it was as convincing a win as you can have in the National Football League. The Colts were decisively better in all [&#8230;]"
-    },
-    {
-      "id": "d4e78f141a7b2ad1",
-      "title": "NFL Running Back PFF Grades Week 5: Rico Dowdle has career day for Carolina Panthers",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/08/running-back-pff-grades-week-5-rico-dowdle-carries-panthers-in-win/86577951007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-08T22:42:20+0000",
-      "summary": "In a game where the Panthers needed a mini miracle to win, Rico Dowdle had a career day with 206 rushing yards against the Miami Dolphins."
-    },
-    {
-      "id": "9ce5bb48553232b8",
-      "title": "Bears' Tyrique Stevenson set to return to Washington year after embarrassing loss",
-      "link": "https://sports.yahoo.com/article/bears-tyrique-stevenson-set-return-224159959.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-08T22:41:59+0000",
-      "summary": "Tyrique Stevenson says he’s ready to return to the scene of one of the most embarrassing moments in NFL history Monday night when the Chicago Bears visit Washington.  Last year, the Chicago cornerback had his back turned to the field, then rushed in and tipped Jayden Daniels' 52-yard desperation pass to Noah Brown for a winning touchdown.  “Just use it as motivation to come out and stay focused on all tasks and definitely, definitely learn to wait until the clock hits double-zeroes,” Stevenson said."
-    },
-    {
-      "id": "3a273b050fafeb0b",
-      "title": "No. 11 St. Thomas Aquinas beats NFL Academy by a field goal in London",
-      "link": "https://usatodayhss.com/story/sports/high-school/football/2025/10/08/nfl-academy-vs-st-thomas-aquinas-london-hs-football-score/86590817007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-08T22:35:18+0000",
-      "summary": "St. Thomas Aquinas, ranked No. 11 in the USA TODAY Sports Super 25 football rankings, got a 41-38 win over NFL Academy in London on Wednesday."
     },
     {
       "id": "f8dee1af207226f4",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-02T16:51:18+0000",
       "summary": "INDIANAPOLIS – As the media surrounded Spencer Shrader’s cubicle Thursday afternoon, his long-snapper offered an appropriate backdrop. “There he is,’’ Luke Rhodes said. “Player of the Month.’’ Yes, AFC Special Teams Player of the Month for the Indianapolis Colts’ kicker. “It’s been a blessing,’’ Shrader said. “It’s been a lot of fun.’’ As it turned [...]"
+    },
+    {
+      "id": "e1b410f4ff669ede",
+      "title": "Colts K Spencer Shrader named AFC Special Teams Player of the Month for September",
+      "link": "https://colts.com/news/colts-spencer-shrader-afc-special-teams-player-of-the-month-september",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-02T16:00:42+0000",
+      "summary": "In the month of September Shrader made 13 field goals and 12 extra points, scoring a total of 51 points."
     }
   ],
   "links": [
