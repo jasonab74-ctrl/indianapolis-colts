@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-08T08:46:36+00:00",
+  "updated": "2025-10-08T09:19:27+00:00",
   "items": [
+    {
+      "id": "ac310810c568b58e",
+      "title": "Alabama in the NFL: Kool-Aid McKinstry among top Week 5 standouts",
+      "link": "https://rolltidewire.usatoday.com/story/sports/college/crimson-tide/football/2025/10/08/alabama-football-nfl-week-5-kool-aid-mckinstry-tua-tagovailoa/86554354007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-08T09:05:23+0000",
+      "summary": "Headlined by former cornerback Kool-Aid McKinstry, Alabama saw multiple players impress during Week 5 of the NFL season."
+    },
     {
       "id": "a575b6f82ded3081",
       "title": "Commanders RB Jacory Croskey-Merritt is already ranked among the NFL's best",
@@ -18,33 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-08T08:31:31+0000",
       "summary": "Colts special teams coordinator Brian Mason has a reputation for designing kick blocks but Sunday' s game-turning punt block was not designed"
-    },
-    {
-      "id": "f6ebc96d28bb97f3",
-      "title": "Stage is set for Abdul Carter and first Giant breakthrough performance of his NFL career",
-      "link": "https://northjersey.com/story/sports/nfl/giants/2025/10/08/abdul-carter-new-york-giants-philadelphia-eagles/86568025007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-08T08:03:34+0000",
-      "summary": "Abdul Carter has been very close to having one of those games everyone is talking about. Giants sure could use that from their rookie Thursday night."
-    },
-    {
-      "id": "a71b64578cb77cfc",
-      "title": "NY Giants vs Philadelphia Eagles predictions. Our expert picks for NFL Week 6 game",
-      "link": "https://northjersey.com/story/sports/nfl/giants/2025/10/08/new-york-giants-philadelphia-eagles-predictions-expert-picks-nfl-week-6/86563269007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-08T08:03:27+0000",
-      "summary": "The Giants have struggled against the Eagles over the last 10-plus years. Will that change Thursday night? Here are our predictions."
-    },
-    {
-      "id": "e01111be085a7d8a",
-      "title": "NY Jets vs Denver Broncos predictions. Our expert picks for Week 6 of NFL season",
-      "link": "https://northjersey.com/story/sports/nfl/jets/2025/10/08/new-york-jets-denver-broncos-expert-predictions-picks-nfl-london-game-week-6/86563028007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-08T08:03:16+0000",
-      "summary": "The Jets remain winless in the Aaron Glenn era. Will the losing streak come to an end in London against the Broncos? Here are our predictions for Week 6."
     },
     {
       "id": "f8dee1af207226f4",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-02T12:41:47+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "1a082879459b6e67",
+      "title": "Indianapolis Colts’ cornerback Xavien Howard retires",
+      "link": "https://fox59.com/sports/colts/indianapolis-colts-cornerback-xavien-howard-retires/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T22:53:02+0000",
+      "summary": "INDIANAPOLIS — Xavien Howard’s attempt to restart a decorated career lasted four games. The Indianapolis Colts placed the veteran cornerback on the reserve/retired list Wednesday. Howard didn’t practice earlier in the day because of a “personal matter.’’ That apparently was Howard determining he no longer possessed the required passion or was the player who had [...]"
+    },
+    {
+      "id": "2d2af83ace8ce629",
+      "title": "Colts must turn the page after loss at Rams",
+      "link": "https://fox59.com/sports/colts/colts-must-turn-the-page-after-loss-at-rams/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-01T22:31:59+0000",
+      "summary": "INDIANAPOLIS – It’s the only way to navigate the NFL’s 17-game season: Turn the page. Review on Monday what took place the previous day – good and bad – make the necessary adjustments, then assume the necessary tunnel-vision approach for the next opponent. \"You’re on to the next week pretty quickly,\" Daniel Jones said on [...]"
     }
   ],
   "links": [
