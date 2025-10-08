@@ -1,6 +1,60 @@
 {
-  "updated": "2025-10-08T03:48:13+00:00",
+  "updated": "2025-10-08T04:20:49+00:00",
   "items": [
+    {
+      "id": "f8dee1af207226f4",
+      "title": "Our NFL trade grades: We evaluated the Joe Flacco, Ravens-Chargers deals",
+      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-08T04:49:50+0000",
+      "summary": "We're grading NFL deals leading into the Nov. 4 NFL trade deadline, including the Bengals' pickup of Joe Flacco and the Harbaugh family deal."
+    },
+    {
+      "id": "a5d8b3f1b3df0699",
+      "title": "OBJ accepts 6-game PED suspension from NFL",
+      "link": "https://espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-08T04:49:30+0000",
+      "summary": "Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs."
+    },
+    {
+      "id": "2b03ce4d368ac4af",
+      "title": "Cowboys' Jones fined $250K by NFL for gesture",
+      "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-08T04:49:30+0000",
+      "summary": "Cowboys owner Jerry Jones has been fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday."
+    },
+    {
+      "id": "5dc9a826f149f9b5",
+      "title": "🏈 32 NFL players who could be two-way threats",
+      "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-08T04:49:30+0000",
+      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
+    },
+    {
+      "id": "d2840363abe5c922",
+      "title": "NFL Power Rankings: Big jumps for the Colts and 49ers? How far did the Chargers fall?",
+      "link": "https://espn.com/nfl/story/_/id/46511437/nfl-week-6-power-rankings-poll-32-teams-2025-fantasy-surprises",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-08T04:49:26+0000",
+      "summary": "We stacked every team ahead of Week 6. Which teams rose into or fell out of the top 10? Plus, we have fantasy surprises on each roster."
+    },
+    {
+      "id": "aa357f992750deca",
+      "title": "Week 6 Data Dump: Flacco's fantasy impact on Bengals + Offenses to go ALL IN on and ones to AVOID",
+      "link": "https://sports.yahoo.com/fantasy/article/week-6-data-dump-flaccos-fantasy-impact-on-bengals--offenses-to-go-all-in-on-and-ones-to-avoid-040054085.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-08T04:00:54+0000",
+      "summary": "It’s another edition of Data Dump on the Yahoo Fantasy Forecast as we make the pivot from Week 5 to Week 6 in the NFL. Ray Garvin joins Matt Harmon to share 10 data points you need to know for this upcoming week. The two first dive into the Bengals trade for QB Joe Flacco and how that impacts the skill players we need to rely on in fantasy. Harmon and Garvin then share surprising data points on offenses you need to buy into and ones you need to sell."
+    },
     {
       "id": "79a807f840752bb0",
       "title": "UNC's Bill Belichick nightmare is 'a complete disaster', even worse than you thought",
@@ -11,42 +65,6 @@
       "summary": "The Tar Heel's disaster season with an accomplished NFL head coach just keeps getting worse."
     },
     {
-      "id": "a5d8b3f1b3df0699",
-      "title": "OBJ accepts 6-game PED suspension from NFL",
-      "link": "https://espn.com/nfl/story/_/id/46522525/odell-beckham-jr-says-accepts-6-game-ped-suspension",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-08T00:14:24+0000",
-      "summary": "Odell Beckham Jr. has accepted a six-game suspension for violating the NFL's policy on performance-enhancing drugs."
-    },
-    {
-      "id": "5dc9a826f149f9b5",
-      "title": "🏈 32 NFL players who could be two-way threats",
-      "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-08T00:14:24+0000",
-      "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
-    },
-    {
-      "id": "2b03ce4d368ac4af",
-      "title": "Cowboys' Jones fined $250K by NFL for gesture",
-      "link": "https://espn.com/nfl/story/_/id/46521884/source-nfl-fining-cowboys-jerry-jones-250k-gesture",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-08T00:14:23+0000",
-      "summary": "Cowboys owner Jerry Jones has been fined $250,000 by the NFL for his \"inadvertent\" obscene gesture toward fans at MetLife Stadium on Sunday."
-    },
-    {
-      "id": "f8dee1af207226f4",
-      "title": "Our NFL trade grades: We evaluated the Joe Flacco, Ravens-Chargers deals",
-      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T23:14:14+0000",
-      "summary": "We're grading NFL deals leading into the Nov. 4 NFL trade deadline, including the Bengals' pickup of Joe Flacco and the Harbaugh family deal."
-    },
-    {
       "id": "bc3ac20436a1395d",
       "title": "Test your knowledge in the NFL Week 5 quote quiz",
       "link": "https://espn.com/nfl/story/_/id/46512363/giants-saints-buccaneers-seahawks-texans-ravens-2025-quotes-quiz",
@@ -54,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-10-07T21:44:35+0000",
       "summary": "Week 5 in the NFL offered upfront quotes and self-reflection. Put your knowledge to the test with our quote quiz."
-    },
-    {
-      "id": "d2840363abe5c922",
-      "title": "NFL Power Rankings: Big jumps for the Colts and 49ers? How far did the Chargers fall?",
-      "link": "https://espn.com/nfl/story/_/id/46511437/nfl-week-6-power-rankings-poll-32-teams-2025-fantasy-surprises",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-07T21:43:28+0000",
-      "summary": "We stacked every team ahead of Week 6. Which teams rose into or fell out of the top 10? Plus, we have fantasy surprises on each roster."
     },
     {
       "id": "fda60e9e44120574",
@@ -83,6 +92,15 @@
       "summary": "The Colts signed Badgley on Tuesday, replacing Spencer Shrader after Shrader sustained a season-ending injury in the Colts' Week 5 game."
     },
     {
+      "id": "bb3a3a37b6723a62",
+      "title": "Colts’ Week 5 QB Analysis: I think I believe",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/115902/colts-week-5-qb-analysis-i-think-i-believe",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T19:00:11+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
+    },
+    {
       "id": "5cd75a285679e494",
       "title": "How the John Elway-led Broncos of the mid-2010s grew an NFL general manager tree",
       "link": "https://espn.com/nfl/story/_/id/46510540/denver-broncos-nfl-general-manager-tree-elway-lynch-spytek-peters-mougey",
@@ -90,6 +108,15 @@
       "feed": "ESPN",
       "published": "2025-10-07T18:54:39+0000",
       "summary": "The Broncos turned into a GM factory under Elway, as four current and two former GMs were in Denver under his Super Bowl-winning regime."
+    },
+    {
+      "id": "1a542c11ac0d5348",
+      "title": "Report: Colts reunite with familiar face for Spencer Shrader’s kicking replacement",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/115941/report-colts-reunite-with-familiar-face-as-kicking-replacement",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T18:49:42+0000",
+      "summary": "According to the IndyStar’s Joel A. Erickson, the Indianapolis Colts have reunited with former place kicker Michael Badgley, as injured kicker Spencer Shrader’s replacement for the rest of the 2025 season: The 30-year-old kicker originally signed with the Colts out of Miami (Fla.) as an undrafted rookie back in 2018, but after an impressive preseason [&#8230;]"
     },
     {
       "id": "6a721d479fdc4759",
@@ -108,6 +135,24 @@
       "feed": "ESPN",
       "published": "2025-10-07T16:55:49+0000",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
+    {
+      "id": "2d60c1f47178c127",
+      "title": "Colts Early Season report card",
+      "link": "https://stampedeblue.com/analysis/115857/colts-early-season-report-card",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T15:30:00+0000",
+      "summary": "Daniel Jones: A &#8211; Jones is giving the Colts exactly what they needed, and even more, from the quarterback position. He is completing a high percentage of his passes, with a 71.3% completion rate, keeping the ball moving, taking excellent care of the football with just a turnover-worthy play rate of 2.8%, and constantly hitting [&#8230;]"
+    },
+    {
+      "id": "f9507b4a4482abb8",
+      "title": "Losing Spencer Shrader could be a major loss for the Colts",
+      "link": "https://stampedeblue.com/analysis/24480843/losing-spencer-shrader-could-be-a-major-loss-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-07T11:25:36+0000",
+      "summary": "The Colts enjoyed stability at the kicking position once upon a time when Adam Vinatieri would trot out to make his attempts. He wasn’t perfect, as no kicker is, but he was comfortable. Not blessed with the biggest leg, there were still no areas on the field that made fans feel uneasy. Over the years, [&#8230;]"
     },
     {
       "id": "528334c9c564a5e3",
@@ -191,42 +236,6 @@
       "summary": "The Indianapolis Colts are currently 4-1, sitting atop the AFC, and this season’s early success is starting to feel very much real. It’s not as though the Colts’ initial three wins were flukey by any means (although they did get admittedly a bit lucky on that late ‘leverage’ penalty against the Denver Broncos in Week [&#8230;]"
     },
     {
-      "id": "6bde5f018c27439d",
-      "title": "Colts’ Monday Morning Awards: Week 5 vs. Raiders",
-      "link": "https://stampedeblue.com/analysis/115845/colts-monday-morning-awards-week-5-vs-raiders",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T14:50:14+0000",
-      "summary": "4-1, this is how good teams bounce back from a tough loss, and how elite teams play against mediocre opposition. When was the last time you saw the Colts consistently dominate playing against opponents that were considerably worse? As we prepare for two tough opponents coming up, the wind is definitely behind the Colts’ sails. [&#8230;]"
-    },
-    {
-      "id": "e270e809fc35e7da",
-      "title": "AFC Playoff Picture: Indianapolis Colts are on top after Week 5",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115846/afc-playoff-picture-indianapolis-colts-are-on-top-after-week-5",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T14:07:10+0000",
-      "summary": "The Indianapolis Colts are first place in the AFC. Who saw that coming!? After the Buffalo Bills lost on Sunday Night Football to end their undefeated season, the Colts swapped places with them for the top spot in the conference. AFC South standings after Week 5 The Jacksonville Jaguars don’t play until Monday night, so [&#8230;]"
-    },
-    {
-      "id": "5593fb9e42a31ea4",
-      "title": "Colts-Cardinals opening odds: Bye Bye Birdie",
-      "link": "https://stampedeblue.com/analysis/115806/colts-cardinals-opening-odds-bye-bye-birdie",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T11:20:00+0000",
-      "summary": "The Indianapolis Colts don’t meet the Arizona Cardinals often but the last time they did, it was a memorable game with the Colts winning a thriller on Christmas night. The Colts are looking to make some more positive memories at the expense of the Cardinals as they host them in week six from Lucas Oil. [&#8230;]"
-    },
-    {
-      "id": "88153a0ea9df1c72",
-      "title": "This is ‘The Colture’ that Colts GM Chris Ballard has Envisioned",
-      "link": "https://stampedeblue.com/analysis/115811/this-is-the-colture-that-colts-gm-chris-ballard-has-envisioned",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-06T11:00:00+0000",
-      "summary": "Indianapolis, IN — For years, Indianapolis Colts general manager Chris Ballard preached patience without following through with a worthwhile product. From the uncertainty that was the quarterback carousel post-Luck to the uninspiring free agent cycles of yesteryear were just two of this regime’s biggest shortcomings thus far, with many more deficiencies scattered throughout. Through five [&#8230;]"
-    },
-    {
       "id": "ec88bf6dfb27ccbc",
       "title": "Colts’ 40-6 blowout of Raiders included much more from Ashton Dulin",
       "link": "https://fox59.com/sports/colts/colts-40-6-blowout-of-raiders-included-much-more-from-ashton-dulin/",
@@ -261,15 +270,6 @@
       "feed": "Colts.com",
       "published": "2025-10-05T21:49:11+0000",
       "summary": "Shrader sustained a knee injury in the second quarter of the Colts' 40-6 win over the Raiders on Sunday."
-    },
-    {
-      "id": "14a67e7160c932d8",
-      "title": "Colts head coach has discouraging, yet limited injury update on kicker Spencer Shrader",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/115805/colts-head-coach-has-discouraging-injury-update-on-place-kicker-spencer-shrader",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-05T21:47:51+0000",
-      "summary": "According to head coach Shane Steichen post-game, “it doesn’t look good” regarding now injured Indianapolis Colts place kicker Spencer Shrader (via 1075 The Fan’s Kevin Bowen): Shrader was injured with 7:56 left in the second quarter on an extra point attempt, when he was run over during his post-kicking motion, and roughing the kicker was [&#8230;]"
     },
     {
       "id": "0749deb2c05a8bc1",
