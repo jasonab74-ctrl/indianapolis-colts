@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T05:17:34+00:00",
+  "updated": "2025-10-10T05:40:17+00:00",
   "items": [
     {
       "id": "9d64c3f9ca5ef44c",
@@ -18,15 +18,6 @@
       "feed": "ESPN",
       "published": "2025-10-10T04:28:11+0000",
       "summary": "Mike Clay's reveals his top 25 predicted touchdown scorers for Week 6."
-    },
-    {
-      "id": "85bd8bf0eeb1db7a",
-      "title": "Matthew Berry’s Fantasy Football Rankings for Week 6 of 2025 season",
-      "link": "https://nbcsports.com/nfl/matthew-berry/news/matthew-berrys-fantasy-football-rankings-for-week-6-of-2025-season",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-10T04:18:00+0000",
-      "summary": "Jayden Daniels, Christian McCaffrey, Puka Nacua, and Tyler Warren highlight positional rankings for Week 6 of the 2025 NFL season."
     },
     {
       "id": "0525fb9f31077ea7",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-03T16:33:58+0000",
       "summary": "The Colts will look to bounce back against a Las Vegas Raiders team that, even at 1-3, features a couple of league-wide star players."
+    },
+    {
+      "id": "236e1e9c8c75b74b",
+      "title": "Ahead of retirement, Shaquille Leonard's former teammates celebrate impact 'generational talent' made on and off the field",
+      "link": "https://colts.com/news/ahead-of-retirement-shaquille-leonard-s-former-teammates-celebrate-impact-generational-talent-made-on-and-off-the-field",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-03T13:00:01+0000",
+      "summary": "Leonard, a three-time first-team AP All-Pro, will retire as a member of the Colts at halftime of Sunday's Week 5 game against the Las Vegas Raiders at Lucas Oil Stadium."
     }
   ],
   "links": [
