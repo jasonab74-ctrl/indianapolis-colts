@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-10T17:38:07+00:00",
+  "updated": "2025-10-10T18:25:26+00:00",
   "items": [
+    {
+      "id": "5a8257edfde4dade",
+      "title": "Source: Cowboys' Jones won't appeal $250K fine",
+      "link": "https://espn.com/nfl/story/_/id/46553516/cowboys-jerry-jones-appeal-250k-fine-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-10T18:51:28+0000",
+      "summary": "Cowboys owner Jerry Jones won't appeal the $250,000 fine he received this week from the NFL for an obscene gesture made during the win against the Jets at MetLife Stadium."
+    },
     {
       "id": "6373b2fb0f1e6344",
       "title": "Concussion protocol for Giants' Dart under review",
       "link": "https://espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-10T18:23:55+0000",
+      "published": "2025-10-10T18:51:28+0000",
       "summary": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles."
     },
     {
@@ -16,35 +25,44 @@
       "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-10T18:23:55+0000",
+      "published": "2025-10-10T18:51:28+0000",
       "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
     },
     {
-      "id": "b305082bf5347387",
-      "title": "Latest Alec Pierce injury update: Will Colts' WR play in Week 6 vs. Cardinals?",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/10/latest-alec-pierce-injury-update-will-colts-wide-receiver-week-6-cardinals/86626600007/",
+      "id": "5eacb746ac81f104",
+      "title": "What you absolutely need to know for every NFL game in Week 6 -- including final score predictions",
+      "link": "https://espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-10T18:45:24+0000",
+      "summary": "Here's everything you need to know for Week 6 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
+    },
+    {
+      "id": "11755f2fa8e83871",
+      "title": "2026 NFL Draft: Players Buccaneers fans should watch in CFB Week 7",
+      "link": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2025/10/10/2026-nfl-draft-prospects-week-7/86609132007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-10T18:13:26+0000",
+      "summary": "Which prospects should Bucs fans be watching this weekend? We have some ideas."
+    },
+    {
+      "id": "7c4c736f7a3747ae",
+      "title": "Anytime Touchdown Scorer 49ers vs Buccaneers Prediction: TD Picks for Week 6",
+      "link": "https://covers.com/nfl/49ers-vs-buccaneers-anytime-touchdown-props-october-12-2025",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-10T18:13:00+0000",
+      "summary": "Our NFL expert believes San Francisco WR Kendrick Bourne will build on his big Week 5 effort by finding the end zone vs. Tampa Bay. Free 49ers vs. Buccaneers anytime touchdown picks for Sunday, October 12."
+    },
+    {
+      "id": "ff6de1dee2c3b10a",
+      "title": "Colts' Shane Steichen on AD Mitchell's playing time vs. Cardinals",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/10/colts-vs-cardinals-will-adonai-mitchell-more-playing-time/86627468007/",
       "source": "Colts Wire",
       "feed": "Yahoo Sports",
-      "published": "2025-10-10T17:19:42+0000",
-      "summary": "Will Colts' WR Alec Pierce play in Week 6 against the Cardinals? Here is the latest injury update."
-    },
-    {
-      "id": "c5e8abebfa859003",
-      "title": "Cal makes Ron Rivera one of college football's highest-paid GMs",
-      "link": "https://usatoday.com/story/sports/ncaaf/2025/10/10/ron-rivera-cal-football-gm-salary-contract-general-manager/86624903007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-10T17:19:17+0000",
-      "summary": "California Golden Bears football revealed more salary information about the significant investment it made in former NFL coach and new GM Ron Rivera."
-    },
-    {
-      "id": "9215983ba3893169",
-      "title": "Running back injuries cloud Texas's Red River Rivalry, NFL Draft hopes",
-      "link": "https://sportingnews.com/us/ncaa-football/texas/news/running-back-injuries-texas-red-river-rivalry-nfl-draft/cc81e918f29a944dd00d21d9",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-10T17:18:18+0000",
-      "summary": "The Texas backfield has questions to answer."
+      "published": "2025-10-10T18:05:01+0000",
+      "summary": "Will Colts' WR AD Mitchell see more playing time against the Cardinals? Here's what Shane Steichen had to say on Friday."
     },
     {
       "id": "1d8b5412f87a9978",
@@ -54,15 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-10-10T16:57:21+0000",
       "summary": "Moore will miss his third consecutive game with an Achilles injury sustained in Week 3."
-    },
-    {
-      "id": "5eacb746ac81f104",
-      "title": "What you absolutely need to know for every NFL game in Week 6 -- including final score predictions",
-      "link": "https://espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-10T16:42:23+0000",
-      "summary": "Here's everything you need to know for Week 6 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
     },
     {
       "id": "54887e8d50f65ca9",
@@ -146,9 +155,9 @@
       "summary": "The Indianapolis Colts today released their Thursday injury report for Week 6 of the NFL season ahead of their Sunday game against the Arizona Cardinals. Defensive end Tyquan Lewis was a full participant at practice today after missing yesterday’s practice due to illness. Lewis managing to practice today puts him on track to play in Sundays game [&#8230;]"
     },
     {
-      "id": "caf11d4053ccac33",
+      "id": "9644cc52d5d682e9",
       "title": "Colts’ Reggie Wayne: AD Mitchell ‘doing everything to get back on the field’",
-      "link": "https://fox59.com/sports/colts-reggie-wayne-ad-mitchell-doing-everything-to-get-back-on-the-field/",
+      "link": "https://fox59.com/sports/colts/colts-reggie-wayne-ad-mitchell-doing-everything-to-get-back-on-the-field/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-09T22:51:28+0000",
@@ -263,9 +272,9 @@
       "summary": "Indianapolis, IN — The Indianapolis Colts&#8217; offense has blossomed into one of the league’s best units. Top-tier production and near-historical efficiency to start the season have resulted in one of the bigger offensive turnarounds in recent memory. Just a season ago, with both Anthony Richardson and Joe Flacco at the helm, the biggest issue with [&#8230;]"
     },
     {
-      "id": "35bb1910a38b8f10",
+      "id": "6b0d62ad416591e6",
       "title": "Michael Badgley ready for second shot with Colts; Kenny Moore II dealing with Achilles rehab",
-      "link": "https://fox59.com/sports/michael-badgley-ready-for-second-shot-with-colts-kenny-moore-ii-dealing-with-achilles-rehab/",
+      "link": "https://fox59.com/sports/colts/michael-badgley-ready-for-second-shot-with-colts-kenny-moore-ii-dealing-with-achilles-rehab/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-08T21:17:40+0000",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-03T18:26:20+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts again must adapt to not having Alec Pierce on the field. One of their offensive catalysts has been ruled out of Sunday’s meeting with the Las Vegas Raiders at Lucas Oil Stadium after experiencing a setback this week while working through the NFL’s concussion protocol. Pierce was a full participant [...]"
-    },
-    {
-      "id": "b4889f1396229d93",
-      "title": "How Nick Cross took advantage of his opportunities and grew into a 'Sunday player', as told by his Colts teammates and coaches",
-      "link": "https://colts.com/news/nick-cross-opportunities-confidence-colts-safety-lou-anarumo-cam-bynum-zaire-franklin-defense-sacks",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-03T18:11:32+0000",
-      "summary": "Cross currently leads the Colts with 34 tackles and is tied for first among all NFL safeties with two sacks."
     }
   ],
   "links": [
