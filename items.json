@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T21:14:49+00:00",
+  "updated": "2025-10-10T21:36:48+00:00",
   "items": [
     {
       "id": "5a8257edfde4dade",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/46553516/cowboys-jerry-jones-appeal-250k-fine-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-10T22:03:42+0000",
+      "published": "2025-10-10T22:20:21+0000",
       "summary": "Cowboys owner Jerry Jones won't appeal the $250,000 fine he received this week from the NFL for an obscene gesture made during the win against the Jets at MetLife Stadium."
     },
     {
@@ -16,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-10T22:03:42+0000",
+      "published": "2025-10-10T22:20:21+0000",
       "summary": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles."
     },
     {
@@ -25,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/46424640/every-nfl-team-two-way-threat-travis-hunter",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-10T22:03:42+0000",
+      "published": "2025-10-10T22:20:21+0000",
       "summary": "The Jaguars rookie plays both wide receiver and cornerback. We found other versatile players across the league."
     },
     {
@@ -36,15 +36,6 @@
       "feed": "ESPN",
       "published": "2025-10-10T21:08:27+0000",
       "summary": "Here's everything you need to know for Week 6 NFL games. Which teams will win, who are the X factors, and which storylines matter most?"
-    },
-    {
-      "id": "7b8fc4af582c05dc",
-      "title": "What will Chargers' offensive line look like in Week 6 vs. Dolphins?",
-      "link": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2025/10/10/chargers-injuries-joe-alt-austin-deculus-bobby-hart/86630361007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-10T20:50:32+0000",
-      "summary": "Justin Herbert has been the most pressured quarterback in the NFL through five games."
     },
     {
       "id": "1d8b5412f87a9978",
@@ -252,15 +243,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-09T11:00:00+0000",
       "summary": "Indianapolis, IN — The Indianapolis Colts&#8217; offense has blossomed into one of the league’s best units. Top-tier production and near-historical efficiency to start the season have resulted in one of the bigger offensive turnarounds in recent memory. Just a season ago, with both Anthony Richardson and Joe Flacco at the helm, the biggest issue with [&#8230;]"
-    },
-    {
-      "id": "af8ebeb5b0a1ffc6",
-      "title": "Week 5 Film Review: Colts Dominate the Las Vegas Raiders",
-      "link": "https://stampedeblue.com/colts-film-analysis/115882/week-5-film-review-colts-dominate-the-las-vegas-raiders",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-08T22:59:00+0000",
-      "summary": "After a heartbreaking loss to the Rams, the Colts got back on track in a big way on Sunday. When you look at the box score you’re almost surprised it was 40-6, but it was as convincing a win as you can have in the National Football League. The Colts were decisively better in all [&#8230;]"
     },
     {
       "id": "6b0d62ad416591e6",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-03T18:11:32+0000",
       "summary": "Cross currently leads the Colts with 34 tackles and is tied for first among all NFL safeties with two sacks."
+    },
+    {
+      "id": "d4557b92a23e43da",
+      "title": "Colts rule out RB Tyler Goodson, WR Alec Pierce, CB Kenny Moore II, S Daniel Scott for Week 5 game vs. Las Vegas Raiders",
+      "link": "https://colts.com/news/colts-rule-out-rb-tyler-goodson-wr-alec-pierce-cb-kenny-moore-ii-s-daniel-scott-for-week-5-game-vs-las-vegas-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-03T16:50:17+0000",
+      "summary": "Pierce sustained a concussion in Week 3."
+    },
+    {
+      "id": "0d6c7ffe6cc72350",
+      "title": "Colts-Raiders preview: Ashton Jeanty, Maxx Crosby present major challenges in Week 5",
+      "link": "https://colts.com/news/colts-raiders-preview-ashton-jeanty-maxx-crosby-present-major-challenges-in-week-5",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-03T16:33:58+0000",
+      "summary": "The Colts will look to bounce back against a Las Vegas Raiders team that, even at 1-3, features a couple of league-wide star players."
     }
   ],
   "links": [
