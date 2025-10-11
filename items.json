@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-11T13:20:21+00:00",
+  "updated": "2025-10-11T13:37:33+00:00",
   "items": [
+    {
+      "id": "6373b2fb0f1e6344",
+      "title": "Concussion protocol for Giants' Dart under review",
+      "link": "https://espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-11T14:28:52+0000",
+      "summary": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles."
+    },
     {
       "id": "05fa95e5dffa1acc",
       "title": "NFL predictions, fantasy sleepers, trends for Week 6: Keep an eye on Sam Darnold?",
@@ -29,24 +38,6 @@
       "summary": "NFL experts are backing the Broncos to beat the Jets on Sunday."
     },
     {
-      "id": "3b9d55cbaf0f9785",
-      "title": "Colts vs. Cardinals: Start 'em, sit 'em for Week 6 matchup",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/11/fantasy-football-week-6-start-sit-colts-cardinals/86623624007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-11T12:52:59+0000",
-      "summary": "Which Colts players should you be starting in Week 6 and who should you be sitting?"
-    },
-    {
-      "id": "1a7227f55f720177",
-      "title": "Steelers, 49ers, Patriots projected to have trade interest in WR with 4,882 career yards",
-      "link": "https://sportingnews.com/us/nfl/pittsburgh-steelers/news/steelers-49ers-patriots-projected-trade-interest-wr-4882-career-yards/f5c230ec6e176df16c5e047e",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-11T12:35:42+0000",
-      "summary": "Four teams, the Pittsburgh Steelers, San Francisco 49ers, Atlanta Falcons and New England Patriots were all listed as a potential landing spot for a veteran wide receiver with 4,882 career yards in the NFL."
-    },
-    {
       "id": "0525fb9f31077ea7",
       "title": "All the top scenes from the Jets and Broncos' trip to London",
       "link": "https://espn.com/nfl/story/_/id/46530078/nfl-london-sights-sounds-new-york-jets-denver-broncos-week-6",
@@ -63,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-11T12:24:52+0000",
       "summary": "The 17 games that featured a go-ahead score in the final minute of regulation are the most through five weeks of a season since the merger."
-    },
-    {
-      "id": "6373b2fb0f1e6344",
-      "title": "Concussion protocol for Giants' Dart under review",
-      "link": "https://espn.com/nfl/story/_/id/46552852/nfl-nflpa-reviewing-giants-concussion-protocol-qb-jaxson-dart",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-11T02:00:46+0000",
-      "summary": "The NFL and NFLPA are reviewing the concussion protocol used in the evaluation of New York Giants rookie quarterback Jaxson Dart during Thursday night's game against the Philadelphia Eagles."
     },
     {
       "id": "2d53a25661c855e2",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-10-03T21:20:20+0000",
       "summary": "INDIANAPOLIS – Arthur Jones, who spent three of his seven NFL seasons with the Indianapolis Colts, passed away Friday. The Baltimore Ravens, who selected the personable defensive tackle in the fifth round of the 2010 draft, announced his passing on social media. Jones was 39. No details of his death have been released. “We are [...]"
+    },
+    {
+      "id": "d8b3c5f75f01e859",
+      "title": "Colts rule out WR Alec Pierce; what will AD Mitchell’s role be?",
+      "link": "https://fox59.com/sports/colts/colts-rule-out-wr-alec-pierce-what-will-ad-mitchells-role-be/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-03T18:26:20+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts again must adapt to not having Alec Pierce on the field. One of their offensive catalysts has been ruled out of Sunday’s meeting with the Las Vegas Raiders at Lucas Oil Stadium after experiencing a setback this week while working through the NFL’s concussion protocol. Pierce was a full participant [...]"
+    },
+    {
+      "id": "b4889f1396229d93",
+      "title": "How Nick Cross took advantage of his opportunities and grew into a 'Sunday player', as told by his Colts teammates and coaches",
+      "link": "https://colts.com/news/nick-cross-opportunities-confidence-colts-safety-lou-anarumo-cam-bynum-zaire-franklin-defense-sacks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-03T18:11:32+0000",
+      "summary": "Cross currently leads the Colts with 34 tackles and is tied for first among all NFL safeties with two sacks."
     }
   ],
   "links": [
