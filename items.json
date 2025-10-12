@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T17:36:42+00:00",
+  "updated": "2025-10-12T18:23:06+00:00",
   "items": [
     {
       "id": "c9f9896d6d16e361",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T18:06:52+0000",
+      "published": "2025-10-12T18:52:32+0000",
       "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him."
     },
     {
@@ -16,8 +16,17 @@
       "link": "https://espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T18:06:52+0000",
+      "published": "2025-10-12T18:52:32+0000",
       "summary": "Colts quarterback Anthony Richardson Sr. is inactive against the Cardinals after sustaining what the team described as an eye injury during pregame warmups."
+    },
+    {
+      "id": "231fc400012ac5cb",
+      "title": "Cards' Vokolek stretchered off with neck injury",
+      "link": "https://espn.com/nfl/story/_/id/46572857/cardinals-vokolek-stretchered-suffering-neck-injury",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T18:52:32+0000",
+      "summary": "Cardinals tight end Travis Vokolek was ruled out of Sunday's game against the Colts after suffering a neck injury on a kickoff return early in the first quarter."
     },
     {
       "id": "6e9acd98b5b4cfe5",
@@ -25,8 +34,26 @@
       "link": "https://espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T18:06:52+0000",
+      "published": "2025-10-12T18:52:32+0000",
       "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline."
+    },
+    {
+      "id": "7e3625f10c65a6ac",
+      "title": "Daniel Jones puts Colts back on top after exchange of interceptions",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-puts-colts-back-on-top-after-exchange-of-interceptions",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T18:06:57+0000",
+      "summary": "Daniel Jones made a mistake early in the second quarter of Sunday's game against the Cardinals, but the Colts quarterback was able to make up for it after a big play from their defense."
+    },
+    {
+      "id": "7012290f8bf64ff0",
+      "title": "Rams star WR Puka Nacua limps to locker room with foot injury sustained vs. Ravens",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-star-wr-puka-nacua-limps-to-locker-room-with-foot-injury-sustained-vs-ravens-180258693.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T18:02:58+0000",
+      "summary": "Nacua entered Sunday as the NFL's leader in catches and receiving yards."
     },
     {
       "id": "e7d61680db555ff6",
@@ -47,40 +74,13 @@
       "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
     },
     {
-      "id": "8070f7cce610cbb9",
-      "title": "Report: Giants brace for a &quot;hefty fine&quot; in Jaxson Dart concussion evaluation review",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-brace-for-a-hefty-fine-in-jaxson-dart-concussion-evaluation-review",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:29:58+0000",
-      "summary": "The NFL and NFL Players Association have launched an investigation regarding the Jaxson Dart concussion evaluation on Thursday night."
-    },
-    {
-      "id": "2f5a298f8fbc9420",
-      "title": "Cardinals TE Travis Vokolek taken off field on stretcher",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-te-travis-vokolek-taken-off-field-on-stretcher",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:24:39+0000",
-      "summary": "The Cardinals lost tight end Travis Vokolek to an injury early in Sunday's game against the Colts."
-    },
-    {
-      "id": "65999f98a3e926c7",
-      "title": "How Chargers' Cameron Dicker is most accurate kicker in NFL history",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-chargers/news/how-chargers-cameron-dicker-most-accurate-kicker-nfl-history/dcc0bf040edfca301849725a",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:21:56+0000",
-      "summary": "Dicker just doesn't miss."
-    },
-    {
-      "id": "5bd05145c070c7d9",
-      "title": "Former NFL star Mark Sanchez ‘focused on recovery’ after jail appearance over stabbing incident",
-      "link": "https://sports.yahoo.com/article/former-nfl-star-mark-sanchez-171832948.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:18:32+0000",
-      "summary": "Former NFL star Mark Sanchez says he is “focused on my recovery” after being booked and released from jail over an incident last weekend during which he was stabbed and another man was left with significant injuries.  Sanchez was processed at Marion County Jail on Sunday after his release from hospital.  A judge ruled Sanchez had to undergo the processing before he is allowed to leave Indiana."
+      "id": "dfdb5891b2eec79e",
+      "title": "Colts CB Charvarius Ward, QB Anthony Richardson injured in pre-game warmups",
+      "link": "https://stampedeblue.com/indianapolis-colts-injuries/116134/colts-cb-charvarius-ward-qb-anthony-richardson-injured-in-pre-game-warmups",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-12T17:50:44+0000",
+      "summary": "Indianapolis, IN — Lucas Oil Stadium is taking no prisoners to kick off Sunday’s contest between the Indianapolis Colts and Arizona Cardinals. During pre-game warmups, two separate Colts were injured and are now inactive against the Cardinals: Charvarius Ward (concussion) and Anthony Richardson (eye). This is an unfortunate yet massive blow to Indy’s defensive backfield, [&#8230;]"
     },
     {
       "id": "5eacb746ac81f104",
@@ -92,58 +92,13 @@
       "summary": "Here's everything you need to know for Week 6 games. Which teams will win, who are the X factors, and which storylines matter most?"
     },
     {
-      "id": "ff9daf8cdd09c356",
-      "title": "Best of NFL cheerleaders in photos Week 6",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/10/12/nfl-cheerleaders-photos-dallas-cowboys-new-orleans-saints/86591678007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:17:46+0000",
-      "summary": "NFL cheerleaders earn their money by keeping fans entertained and interested throughout the gameday experience."
-    },
-    {
-      "id": "a1dc3c7d89bef9b7",
-      "title": "Daniel Jones, Tyler Warren put Colts up 7-0",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-tyler-warren-put-colts-up-7-0",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:14:13+0000",
-      "summary": "The Colts didn't waste any time taking a lead over the Cardinals at home on Sunday."
-    },
-    {
-      "id": "01bb4028d07491ee",
-      "title": "Pro Football Focus rankings of all 32 NFL offensive lines entering Week 6",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/10/12/pro-football-focus-ranking-nfl-offensive-line-week-6/86619349007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:11:03+0000",
-      "summary": "Here is how Pro Football Focus ranks all 32 NFL offensive lines heading into Sunday of Week 6 of the 2025 NFL season."
-    },
-    {
-      "id": "d1a193f2f27797fe",
-      "title": "Broncos survive scare to beat Jets in London",
-      "link": "https://bbc.com/sport/american-football/articles/clylykkdle2o",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:05:36+0000",
-      "summary": "The New York Jets remain the only winless team in the NFL after the Denver Broncos escape with a 13-11 win at Tottenham."
-    },
-    {
-      "id": "316721494d16e175",
-      "title": "Raiders vs. Titans live updates: Start time, TV channel for Week 6 NFL game",
-      "link": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2025/10/12/raiders-titans-live-updates-score/86655993007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:05:24+0000",
-      "summary": "The Las Vegas Raiders are hosting the Tennessee Titans in a Week 6 NFL game. Follow live updates."
-    },
-    {
-      "id": "9cf0a5ddb8830c03",
-      "title": "Jets offense, by the numbers: Inside New York's dismal performance vs. Broncos in NFL London game",
-      "link": "https://sportingnews.com/us/nfl/news/jets-offense-numbers-new-york-broncos-london/9e76a0c99db056c81466e8f7",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T17:05:00+0000",
-      "summary": "The Jets' defense has been the problem to start the season, but it was the offense that came out sluggish against the Broncos in London."
+      "id": "47860ff4e0f8c52f",
+      "title": "Week 6 Colts vs. Cardinals Game Thread",
+      "link": "https://stampedeblue.com/gamethreads/116130/week-6-colts-vs-cardinals-game-thread",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-12T16:55:36+0000",
+      "summary": "The Indianapolis Colts are at home to take on the Arizona Cardinals in week 6 of the 2025 season, kickoff is at 1:00 p.m. EST. Last week saw the absolute dismantling of the Las Vegas Raiders at the hand of our Colts. If you were a Raiders fan, you would be hard pressed to think of a [&#8230;]"
     },
     {
       "id": "680fc21df3b7488f",
@@ -353,24 +308,6 @@
       "summary": "INDIANAPOLIS – The conversation eventually turned to a diverse offense that could test any receiver’s ability to keep his innate, selfish DNA in check; Michael Pittman Jr.’s sudden surge of touchdowns and not being the fastest man on the planet; and the rookie tight end’s impact on the NFL’s No. 2-ranked scoring offense. But first, [...]"
     },
     {
-      "id": "a1d007f58c346686",
-      "title": "Week 5 Colts Defensive Rankings and Analysis",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/116028/week-5-colts-defensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-09T20:05:42+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
-    },
-    {
-      "id": "6edd4b664f598e8f",
-      "title": "Colts Reacts Survey Week 6",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/24480844/colts-fan-survey-week-6",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-09T20:03:31+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
-    },
-    {
       "id": "55ce94def5a41e63",
       "title": "Colts Blue Zone Podcast 431: Colts Host Cardinals; New Kicker in Town",
       "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-431-colts-host-cardinals-new-kicker-in-town/",
@@ -540,6 +477,69 @@
       "feed": "CBS4Indy",
       "published": "2025-10-05T23:33:19+0000",
       "summary": "INDIANAPOLIS — Michael Pittman Jr. has been there for the past five-plus seasons as Ashton Dulin has done whatever he’s been told. Day after day. Week after week. Season after season. “He really busts his ass every single day,’’ Pittman said Sunday afternoon at Lucas Oil Stadium. “He’s giving effort. He does everything right. “He [...]"
+    },
+    {
+      "id": "8e46c0ead6d6c1b2",
+      "title": "With 3 more touchdowns, Colts' Jonathan Taylor continues playing like the 'best back in the league'",
+      "link": "https://colts.com/news/with-3-more-touchdowns-colts-jonathan-taylor-continues-playing-like-the-best-back-in-the-league",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T22:47:35+0000",
+      "summary": "Jonathan Taylor's seven touchdowns in the first five games of the 2025 season tied a franchise record last reached by Marvin Harrison in 1999."
+    },
+    {
+      "id": "432c1c4e4b9669b4",
+      "title": "How a certain collective mentality produced Colts' biggest margin of victory in over a decade with Week 5 blowout win over Raiders",
+      "link": "https://colts.com/news/how-a-certain-collective-mentality-produced-colts-biggest-margin-of-victory-in-over-a-decade-with-week-5-blowout-win-over-raiders",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T22:17:33+0000",
+      "summary": "The Colts' 40-6 win over the Las Vegas Raiders came on the heels of a frustrating Week 4 loss to the Los Angeles Rams – a defeat the Colts did not let linger in a negative way leading up to Sunday."
+    },
+    {
+      "id": "c220261b9871fa38",
+      "title": "After win over Raiders, Colts react to Spencer Shrader's knee injury: 'Hate it for him'",
+      "link": "https://colts.com/news/shane-steichen-luke-rhodes-spencer-shrader-knee-injury-colts-raiders-week-5",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T21:49:11+0000",
+      "summary": "Shrader sustained a knee injury in the second quarter of the Colts' 40-6 win over the Raiders on Sunday."
+    },
+    {
+      "id": "0749deb2c05a8bc1",
+      "title": "Colts dominate Raiders, 40-6, to improve to 4-1",
+      "link": "https://fox59.com/sports/colts/colts-dominate-raiders-40-6-to-improve-to-4-1/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-05T19:56:48+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts rebounded from their first loss of the season last week to beat the Las Vegas Raiders, 40-6, at Lucas Oil Stadium on Sunday afternoon to improve to 4-1. The Raiders jumped out to a 3-0 lead in the first quarter, but the Colts took total control of the game from [...]"
+    },
+    {
+      "id": "cd7a63fb2562d8ef",
+      "title": "Jonathan Taylor scores 3 touchdowns as Colts dismantle Raiders",
+      "link": "https://colts.com/news/jonathan-taylor-touchdowns-tyler-warren-colts-raiders-win-anthony-richardson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T19:55:58+0000",
+      "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
+    },
+    {
+      "id": "380681c19d54d4c7",
+      "title": "'There's no Shaq Leonard without the Indianapolis Colts:' Former Colts linebacker Shaquille Leonard reflects on his career and legacy ahead of retirement",
+      "link": "https://colts.com/news/shaquille-leonard-indianapolis-colts-retirement-ceremony-career-all-pro-chris-ballard-kalen-jackson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T16:38:45+0000",
+      "summary": "Leonard, a three-time first-team AP All-Pro, will officially retire as a member of the Colts at halftime of the Colts' Week 5 game against the Las Vegas Raiders."
+    },
+    {
+      "id": "0527bd2c28a7025a",
+      "title": "Sideline to Sideline: Celebrity Meeting",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-celebrity-meeting/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-05T16:15:07+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about life off the field. Today Chris asks the players which celebrity they would most like to meet."
     }
   ],
   "links": [
