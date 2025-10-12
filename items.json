@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T21:36:08+00:00",
+  "updated": "2025-10-12T22:15:40+00:00",
   "items": [
     {
       "id": "c6de102900a0e144",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T22:15:12+0000",
+      "published": "2025-10-12T23:10:25+0000",
       "summary": "Colts quarterback Anthony Richardson Sr. sustained an orbital fracture during pregame warmups and was inactive for his team's 31-27 victory over game the Cardinals."
     },
     {
@@ -16,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T22:15:12+0000",
+      "published": "2025-10-12T23:10:25+0000",
       "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him."
     },
     {
@@ -25,17 +25,71 @@
       "link": "https://espn.com/nfl/story/_/id/46573394/cardinals-wr-marvin-harrison-jr-suffers-concussion-vs-colts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T22:15:12+0000",
+      "published": "2025-10-12T23:10:25+0000",
       "summary": "Cardinals wide receiver Marvin Harrison Jr. was ruled out against the Colts with a concussion."
     },
     {
-      "id": "6e9acd98b5b4cfe5",
-      "title": "Sources eye bevy of NFL trades before deadline",
-      "link": "https://espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T22:15:12+0000",
-      "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline."
+      "id": "1ffa03de16a3e95b",
+      "title": "Matthew Stafford passes Dan Marino in passing yards: It means a lot, he was unbelievable",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-passes-dan-marino-in-passing-yards-it-means-a-lot-he-was-unbelievable",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:03:57+0000",
+      "summary": "Stafford passed Marino and moved into ninth place in the NFL's all-time passing yardage list."
+    },
+    {
+      "id": "aa8e0962fa6e0dd9",
+      "title": "Titans next opponent is returning Mike Vrabel and surging New England Patriots",
+      "link": "https://tennessean.com/story/sports/nfl/titans/2025/10/12/titans-next-game-opponent-2025-schedule/86603163007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:00:47+0000",
+      "summary": "The Tennessee Titans play next in Week 7 on Oct. 19. See who the Titans play next in the NFL season."
+    },
+    {
+      "id": "d1fd57fead205d62",
+      "title": "Cardinals TE Travis Vokolek out of hospital, traveling home with team",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-te-travis-vokolek-out-of-hospital-traveling-home-with-team",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T21:58:05+0000",
+      "summary": "Cardinals tight end Travis Vokolek left Sunday's loss to the Colts on a stretcher, but his condition has improved over the course of the afternoon."
+    },
+    {
+      "id": "39652a8d324cf97b",
+      "title": "After Anthony Richardson Sr. sustains fractured orbital bone, Riley Leonard ready as Colts' backup quarterback amid difficult circumstances",
+      "link": "https://colts.com/news/after-anthony-richardson-sr-sustains-fractured-orbital-bone-riley-leonard-ready-as-colts-backup-quarterback-amid-difficult-circumstances",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-12T21:46:07+0000",
+      "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
+    },
+    {
+      "id": "0b2e337d533cc1f7",
+      "title": "Longest field goals in NFL history: Updated list of records, distances for kicks made and attempted",
+      "link": "https://sportingnews.com/us/nfl/news/longest-field-goals-nfl-history-records-distances/1b5f7406d686287d9f3c1821",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T21:46:00+0000",
+      "summary": "Here's a complete guide to the longest field goals in NFL history, including the current record holder, distances and longest attempts updated for the 2025 season."
+    },
+    {
+      "id": "79ba96ef7a81ee93",
+      "title": "Panthers WR Tetairoa McMillan is asked about the importance of his 1st NFL TD",
+      "link": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2025/10/12/panthers-cowboys-week-6-tetairoa-mcmillan-touchdown/86663626007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T21:45:35+0000",
+      "summary": "Panthers WR Tetairoa McMillan reached the end zone for his first two career TDs on Sunday. He was asked about the importance of the milestone."
+    },
+    {
+      "id": "b81354e91e41876b",
+      "title": "Bengals gain just 65 yards of total offense in first half vs Packers",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/12/bengals-first-half-yardage-total-65-vs-packers/86662613007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T21:43:05+0000",
+      "summary": "The Bengals gained just 65 yards of total offense during the first half of their NFL Week 6 game in Green Bay."
     },
     {
       "id": "4d9053561480ae99",
@@ -47,22 +101,13 @@
       "summary": "Has anyone emerged as the 2026 draft class' QB1 yet? We have notes and updates on NFL prospects through CFB Week 7."
     },
     {
-      "id": "f72af0c7cf5fa641",
-      "title": "Former NFL star Mark Sanchez booked into jail after hospital release",
-      "link": "https://upi.com/Top_News/US/2025/10/12/sanchez-bookjed-into-jail-following-assault/6871760303144/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:20:53+0000",
-      "summary": "Former NFL quarterback Mark Sanchez was booked into the Marion County, Indiana, jail Sunday after being released from the hospital following treatment for stab wounds."
-    },
-    {
-      "id": "e031c38bfe881a74",
-      "title": "Why 'Matt Jones' has 49ers' QB fans confused during NFL Week 6",
-      "link": "https://sportingnews.com/us/nfl/san-francisco-49ers/news/why-matt-jones-49ers-qb-fans-confused-nfl-week-6/5d04ea6828494ccd5322b629",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:20:48+0000",
-      "summary": "The word near-miss is confusing fans."
+      "id": "e84bbb5f0c75eb3f",
+      "title": "Colts capitalize on 3 red zone stops to rally in win over Cardinals",
+      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/116156/colts-capitalize-on-3-red-zone-stops-to-rally-in-win-over-cardinals",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-12T21:30:36+0000",
+      "summary": "It seemed like neither team could get a stop in the second half, but the Indianapolis Colts secured their third red zone stop with a critical turnover on downs to outlast the Arizona Cardinals in Sunday’s thrilling 31-27 victory inside Lucas Oil Stadium.  Colts quarterback Daniel Jones has guided the surging city to a 5-1 [&#8230;]"
     },
     {
       "id": "e7d61680db555ff6",
@@ -74,49 +119,22 @@
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 6."
     },
     {
-      "id": "263999aaf619148d",
-      "title": "Rams hand reeling Ravens fourth straight NFL defeat",
-      "link": "https://sports.yahoo.com/article/rams-hand-reeling-ravens-fourth-211936142.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:19:36+0000",
-      "summary": "The Los Angeles Rams shook off a slow start with a quick-fire pair of third-quarter touchdowns to hand the reeling Baltimore Ravens a 17-3 NFL defeat on Sunday.It was tied at 3-3 at halftime after the Rams thwarted Baltimore on four attempts to score from less than five yards out, Los Angeles ending the goal-line stand by stopping Derrick Henry on fourth down."
+      "id": "b583d7f612f939b1",
+      "title": "Behind ground game, Colts grind out tough home win, 31-27, against Cardinals",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/116158/behind-ground-game-colts-grind-out-tough-home-win-31-27-against-cardinals",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-12T21:13:20+0000",
+      "summary": "Even with the Arizona Cardinals starting backup quarterback Jacoby Brissett in this one, the game would come down to the final minutes—as the Indianapolis Colts eked out a tough 31-27 home win. The Colts offense once again heavily rode the hot hand of Jonathan Taylor and the ground game. Taylor remains a legitimate MVP and [&#8230;]"
     },
     {
-      "id": "83123077129d46a0",
-      "title": "Anthony Richardson suffered orbital fracture after pregame elastic band mishap",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-suffered-orbital-fracture-after-pregame-elastic-band-mishap",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:17:53+0000",
-      "summary": "There's something weird in the water in Indianapolis lately."
-    },
-    {
-      "id": "285254101a3547f8",
-      "title": "Who could the Colts sign as a backup quarterback if Anthony Richardson is out?",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/12/colts-backup-quarterback-anthony-richardson-riley-leonard/86663190007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:12:16+0000",
-      "summary": "Anthony Richardson suffered a broken orbital bone and it's unknown if he'll miss time. Here is a list of free agent quarterbacks"
-    },
-    {
-      "id": "d29b3cecc36dc90c",
-      "title": "Shane Steichen with injury update on Colts' QB Anthony Richardson",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/12/shane-steichen-injury-update-on-colts-anthony-richardson/86663427007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:11:04+0000",
-      "summary": "After the Colts' Week 6 win over the Cardinals, head coach Shane Steichen provided a brief injury update on quarterback Anthony Richardson."
-    },
-    {
-      "id": "dcf33bbcb3429312",
-      "title": "How long is Marvin Harrison Jr. out? Cardinals WR suffers concussion in Week 6 vs. Colts",
-      "link": "https://sportingnews.com/us/nfl/arizona-cardinals/news/how-long-marvin-harrison-jr-out-cardinals-concussion/7f0a02bea2e80d3d95383601",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:08:52+0000",
-      "summary": "The second-year wideout left the game early."
+      "id": "7a58695938ef01aa",
+      "title": "Anthony Richardson eye injury will keep Colts QB out for a while",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/116147/anthony-richardson-eye-injury-will-keep-colts-qb-out-for-a-while",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-12T20:44:57+0000",
+      "summary": "The Indianapolis Colts announced before Sunday’s game that quarterback Anthony Richardson was injured during pregame warmups and would not play. After the game, we found out he wasn’t just inactive, he spent the afternoon at the hospital. Richardson fractured his orbital bone during pregame after he had an issue with a rubber leg band. You [&#8230;]"
     },
     {
       "id": "1e694f1f91ebcbb5",
@@ -326,15 +344,6 @@
       "summary": "Moore will miss his third consecutive game with an Achilles injury sustained in Week 3."
     },
     {
-      "id": "54887e8d50f65ca9",
-      "title": "Players to watch: Week 5 vs. Cardinals",
-      "link": "https://stampedeblue.com/analysis/116070/players-to-watch-week-5-vs-cardinals",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-10T14:54:00+0000",
-      "summary": "Quenton Nelson Nelson has been having a really weird season to evaluate so far. On one hand, he is among the best run blockers in the NFL, Steichen is really creative getting him into space with JT running behind him, and is one of the biggest reasons why Taylor is having such a dominant season. [&#8230;]"
-    },
-    {
       "id": "bae419cd4b99807e",
       "title": "Colts-Cardinals preview: Kyler Murray's injury doesn't change defense's plan, Daniel Jones preps to face Jonathan Gannon's stingy Arizona defense",
       "link": "https://colts.com/news/colts-cardinals-preview-kyler-murray-s-injury-doesn-t-change-defense-s-plan-daniel-jones-preps-to-face-jonathan-gannon-s-stingy-arizona-defense",
@@ -342,15 +351,6 @@
       "feed": "Colts.com",
       "published": "2025-10-10T14:52:44+0000",
       "summary": "The Colts (4-1) host the Arizona Cardinals (2-3) on Sunday at Lucas Oil Stadium, with the main storyline for Week 6 being the status of quarterback Kyler Murray."
-    },
-    {
-      "id": "3d161a8f33c8f56b",
-      "title": "The results of the “Confidence level for Colts QB Daniel Jones” are in.",
-      "link": "https://stampedeblue.com/analysis/116082/the-results-of-the-confidence-level-for-colts-qb-daniel-jones-are-in",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-10T14:26:36+0000",
-      "summary": "You were giving 5 choices to determine how confident that you were in Daniel Jones moving forward, based on an arbitrary signing value. The supremely confident would pay more than the amount to get him locked in right now. The very confident would sign him to the assigned value right now. The somewhat confident would [&#8230;]"
     },
     {
       "id": "8eabb13e3c3d31ce",
