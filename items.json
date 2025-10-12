@@ -1,6 +1,87 @@
 {
-  "updated": "2025-10-12T16:19:11+00:00",
+  "updated": "2025-10-12T16:41:18+00:00",
   "items": [
+    {
+      "id": "c9f9896d6d16e361",
+      "title": "Sanchez booked in jail, says focus on recovery",
+      "link": "https://espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T17:28:35+0000",
+      "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him."
+    },
+    {
+      "id": "c6de102900a0e144",
+      "title": "Colts' Richardson out after hurting eye in mishap",
+      "link": "https://espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T17:28:35+0000",
+      "summary": "Colts quarterback Anthony Richardson Sr. is inactive for Sunday's game after sustaining what the team described as an eye injury during pregame warmups."
+    },
+    {
+      "id": "3a42942f6c1898f4",
+      "title": "Cardinals QB Murray inactive due to foot injury",
+      "link": "https://espn.com/nfl/story/_/id/46567674/source-cardinals-kyler-murray-expected-vs-colts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T17:28:35+0000",
+      "summary": "Cardinals quarterback Kyler Murray will not play Sunday against the Indianapolis Colts because of a foot injury suffered last weekend."
+    },
+    {
+      "id": "6e9acd98b5b4cfe5",
+      "title": "Sources eye bevy of NFL trades before deadline",
+      "link": "https://espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T17:28:35+0000",
+      "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline."
+    },
+    {
+      "id": "5eacb746ac81f104",
+      "title": "Our guide to every Week 6 NFL game: Matchup previews, predictions, picks and nuggets",
+      "link": "https://espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T17:17:52+0000",
+      "summary": "Here's everything you need to know for Week 6 games. Which teams will win, who are the X factors, and which storylines matter most?"
+    },
+    {
+      "id": "395d417bca5d95b1",
+      "title": "Best of NFL Week 6's arrivals, featuring Daniel Jones' Colts guitar",
+      "link": "https://espn.com/nfl/story/_/id/46543569/week-6-nfl-fashionable-arrivals-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-12T17:17:38+0000",
+      "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
+    },
+    {
+      "id": "680fc21df3b7488f",
+      "title": "Colts rule out CB Charvarius Ward Sr. for Week 6 with concussion",
+      "link": "https://colts.com/news/colts-rule-out-cb-charvarius-ward-sr-for-week-6-with-concussion",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-12T16:36:24+0000",
+      "summary": "The cornerback sustained the injury during pregame warmups."
+    },
+    {
+      "id": "7a0b4e9ec3b7467f",
+      "title": "Anthony Richardson injures eye in pregame warmups: Reports",
+      "link": "https://usatoday.com/story/sports/nfl/colts/2025/10/12/anthony-richardson-injury-update-colts-qb-eye-warmups/86660492007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T16:31:45+0000",
+      "summary": "Colts quarterback Anthony Richardson is the No. 3 QB for Indianapolis in Week 6 after injuring his eye in pregame warmups, reports say."
+    },
+    {
+      "id": "e947ba6eddc2f3ee",
+      "title": "Mark Sanchez speaks to reporter after formal booking",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-sanchez-speaks-to-reporter-after-formal-booking",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T16:19:46+0000",
+      "summary": "Former NFL quarterback and Fox analyst Mark Sanchez was officially booked and processed at the Marion County, Indiana, jail on Sunday morning."
+    },
     {
       "id": "26d502b49c5dc1dc",
       "title": "Keys to the Game: Colts vs. Cardinals",
@@ -9,6 +90,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-12T16:17:51+0000",
       "summary": "INDIANAPOLIS - The Colts aim to improve to 5-1 when they host the Cardinals and backup quarterback Jacoby Brissett on Sunday afternoon. IndyStar Colts insider Joel A. Erickson gives his keys to the game. Plus, he has more information on the breaking news of Anthony Richardson being placed on the inactive list because of an [...]"
+    },
+    {
+      "id": "9f2f24929ab002ea",
+      "title": "Patriots promising undrafted rookie WR set to make debut vs. Saints",
+      "link": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2025/10/12/patriots-efton-chism-nfl-debut-saints/86660497007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T16:17:43+0000",
+      "summary": "New England Patriots undrafted rookie wide receiver Efton Chism III is set to make his NFL debut on Sunday against the New Orleans Saints."
     },
     {
       "id": "73b845ec9e08890c",
@@ -20,96 +110,6 @@
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts a question about their careers in football. This week Chris asks the players who their favorite coach has been as they've grown in the game."
     },
     {
-      "id": "67936415b6feb461",
-      "title": "Patriots vs Saints Predictions, Picks & Odds for Today's NFL Week 6 Game",
-      "link": "https://covers.com/nfl/patriots-vs-saints-predictions-picks-october-12-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:09:00+0000",
-      "summary": "The Patriots offense is turning heads, and our expert NFL predictions expect Drake Maye and the Pats offense to take care of business Sunday in New Orleans!"
-    },
-    {
-      "id": "3da23343c5431f2a",
-      "title": "Justin Fields, Stefon Diggs arrive for game day. See best NFL Week 6 outfits, walk-ins",
-      "link": "https://jacksonville.com/story/sports/nfl/2025/10/12/nfl-week-6-schedule-where-to-watch-games-today-best-outfits/86659673007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:08:39+0000",
-      "summary": "Tunnel walks have become an exciting aspect of game day. See some of the best outfits and walk-ins seen as players arrived Sunday, Oct. 12."
-    },
-    {
-      "id": "ac584eeebb19c099",
-      "title": "Colts QB Anthony Richardson inactive after eye injury in warmups",
-      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/10/12/colts-qb-anthony-richardson-inactive-after-eye-injury-in-warmups/86660495007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:07:06+0000",
-      "summary": "Riley Leonard would back up Daniel Jones against the Cardinals."
-    },
-    {
-      "id": "3f993f4409f3b1f0",
-      "title": "Chargers vs Dolphins Predictions, Picks & Odds for Today's NFL Week 6 Game",
-      "link": "https://covers.com/nfl/chargers-vs-dolphins-predictions-picks-october-12-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:06:00+0000",
-      "summary": "The Miami Dolphins' pass defense has struggled, and our expert NFL predictions expect Chargers wideout Keenan Allen to have a big day catching the football!"
-    },
-    {
-      "id": "e5fdba3dca266809",
-      "title": "Why Riley Leonard is Colts' backup QB vs. Cardinals and not Anthony Richardson",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/why-riley-leonard-colts-backup-qb-vs-cardinals-and-not-anthony-richardson/10d10c673f78fafdfc5b564e",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:04:46+0000",
-      "summary": "This is a weird way for it to happen."
-    },
-    {
-      "id": "1c96f16e35fde304",
-      "title": "Nacua, Egbuka lead Week 6 fantasy football wide receiver rankings",
-      "link": "https://upi.com/Sports_News/NFL/2025/10/08/fantasy-football-Week6-wide-receiver-rankings/8031759926485/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:02:38+0000",
-      "summary": "Puka Nacua and Emeka Egbuka lead UPI senior sports writer Alex Butler's Top 50 fantasy football wide receiver rankings for Week 6 of the 2025 NFL season."
-    },
-    {
-      "id": "10994c2df2f85978",
-      "title": "Seahawks vs Jaguars Predictions, Picks & Odds for Today's NFL Week 6 Game",
-      "link": "https://covers.com/nfl/seahawks-vs-jaguars-predictions-picks-october-12-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T16:02:00+0000",
-      "summary": "Take Sam Darnold's passing yards prop for our Seahawks vs. Jaguars pick, odds & expert prediction on Sunday, October 12."
-    },
-    {
-      "id": "3a42942f6c1898f4",
-      "title": "Cardinals QB Murray inactive due to foot injury",
-      "link": "https://espn.com/nfl/story/_/id/46567674/source-cardinals-kyler-murray-expected-vs-colts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T15:59:39+0000",
-      "summary": "Cardinals quarterback Kyler Murray will not play Sunday against the Indianapolis Colts because of a foot injury suffered last weekend."
-    },
-    {
-      "id": "6e9acd98b5b4cfe5",
-      "title": "Sources eye bevy of NFL trades before deadline",
-      "link": "https://espn.com/nfl/story/_/id/46556471/sources-expect-active-nfl-trade-market-ahead-deadline",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T15:59:39+0000",
-      "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline."
-    },
-    {
-      "id": "c9f9896d6d16e361",
-      "title": "Sanchez booked in jail, says focus on recovery",
-      "link": "https://espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T15:59:38+0000",
-      "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him."
-    },
-    {
       "id": "d20216f816d3cba9",
       "title": "Pre-game injury leaves Anthony Richardson Sr. inactive for Cardinals game",
       "link": "https://fox59.com/sports/colts/pre-game-injury-leaves-anthony-richardson-sr-inactive-for-cardinals-game/",
@@ -117,15 +117,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-12T15:59:36+0000",
       "summary": "INDIANAPOLIS – Anthony Richardson Sr. is inactive for Sunday’s game with the Arizona Cardinals after suffering an injury during pre-game warm-ups. The Indianapolis Colts’ backup quarterback sustained an eye injury while doing his pre-game “band work,’’ according to a team source. Rookie Riley Leonard will serve as Daniel Jones’ backup. Richardson, who lost his starting [...]"
-    },
-    {
-      "id": "dfc67c3d7f770cf9",
-      "title": "Rams vs Ravens Predictions, Picks & Odds for Today's NFL Week 6 Game",
-      "link": "https://covers.com/nfl/rams-vs-ravens-predictions-picks-october-12-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T15:59:00+0000",
-      "summary": "Target Zay Flowers' receiving yards prop for Rams vs. Ravens picks, odds & expert prediction for October 12."
     },
     {
       "id": "535f8a9d7235cff2",
@@ -198,15 +189,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-12T01:00:35+0000",
       "summary": "INDIANAPOLIS — The play that cost Spencer Shrader the rest of the season cost Tristin McCollum $5,722. That was the fine levied against the Las Vegas Raiders safety by the NFL on Saturday. McCollum dove into the right leg of Shrader on a second-quarter PAT in the Indianapolis Colts’ 40-6 win over the Raiders last [...]"
-    },
-    {
-      "id": "5eacb746ac81f104",
-      "title": "Our guide to every Week 6 NFL game: Matchup previews, predictions, picks and nuggets",
-      "link": "https://espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T00:20:16+0000",
-      "summary": "Here's everything you need to know for Week 6 games. Which teams will win, who are the X factors, and which storylines matter most?"
     },
     {
       "id": "66ca2358ca1276e4",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-05T19:55:58+0000",
       "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
+    },
+    {
+      "id": "380681c19d54d4c7",
+      "title": "'There's no Shaq Leonard without the Indianapolis Colts:' Former Colts linebacker Shaquille Leonard reflects on his career and legacy ahead of retirement",
+      "link": "https://colts.com/news/shaquille-leonard-indianapolis-colts-retirement-ceremony-career-all-pro-chris-ballard-kalen-jackson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T16:38:45+0000",
+      "summary": "Leonard, a three-time first-team AP All-Pro, will officially retire as a member of the Colts at halftime of the Colts' Week 5 game against the Las Vegas Raiders."
+    },
+    {
+      "id": "0527bd2c28a7025a",
+      "title": "Sideline to Sideline: Celebrity Meeting",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-celebrity-meeting/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-05T16:15:07+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about life off the field. Today Chris asks the players which celebrity they would most like to meet."
     }
   ],
   "links": [
