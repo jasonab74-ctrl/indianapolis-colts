@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T22:15:40+00:00",
+  "updated": "2025-10-12T22:38:03+00:00",
   "items": [
     {
       "id": "c6de102900a0e144",
@@ -7,26 +7,71 @@
       "link": "https://espn.com/nfl/story/_/id/46572199/colts-richardson-inactive-hurting-eye-mishap-band",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-12T23:10:25+0000",
+      "published": "2025-10-12T23:23:36+0000",
       "summary": "Colts quarterback Anthony Richardson Sr. sustained an orbital fracture during pregame warmups and was inactive for his team's 31-27 victory over game the Cardinals."
     },
     {
-      "id": "c9f9896d6d16e361",
-      "title": "Sanchez booked in jail, says focus on recovery",
-      "link": "https://espn.com/nfl/story/_/id/46571660/mark-sanchez-released-hospital-processed-jail",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T23:10:25+0000",
-      "summary": "Former NFL quarterback Mark Sanchez has been booked and released from a jail in Indianapolis, telling a reporter that he was focused on his recovery from stab wounds he suffered in the altercation that resulted in multiple charges against him."
+      "id": "139511a931fd8ee1",
+      "title": "Dillon Gabriel can't ignite the Browns' NFL-worst offense in his 2nd career start",
+      "link": "https://sports.yahoo.com/article/dillon-gabriel-cant-ignite-browns-223335095.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:33:35+0000",
+      "summary": "Making his second start, Cleveland Browns rookie quarterback Dillon Gabriel got harassed by the Pittsburgh Steelers.  Gabriel passed for 221 yards but couldn’t lead the league’s second-lowest scoring offense to the end zone during a 23-9 loss at Pittsburgh on Sunday.  “He's a tough kid,” Browns coach Kevin Stefanski said."
     },
     {
-      "id": "bc3749423614b767",
-      "title": "Cards WR Harrison suffers concussion, ruled out",
-      "link": "https://espn.com/nfl/story/_/id/46573394/cardinals-wr-marvin-harrison-jr-suffers-concussion-vs-colts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-12T23:10:25+0000",
-      "summary": "Cardinals wide receiver Marvin Harrison Jr. was ruled out against the Colts with a concussion."
+      "id": "bf912260092ba115",
+      "title": "Daniel Jones' preparation shines against shape-shifting Cardinals defense as Colts' offense keeps rolling",
+      "link": "https://colts.com/news/daniel-jones-preparation-shines-against-shape-shifting-cardinals-defense-as-colts-offense-keeps-rolling",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-12T22:31:18+0000",
+      "summary": "The Arizona Cardinals rolled into downtown Indianapolis for Week 6 having not allowed more than 23 points in a game this season; the Colts needed all 31 points they scored on Sunday to improve to 5-1."
+    },
+    {
+      "id": "97b7543a18722720",
+      "title": "Pregame injury to starter put Colts CB Chris Lammons in position for game-saving play",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/12/indianapolis-colts-cb-chris-lammons-makes-game-saving-play-arizona-cardinals/86540827007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:22:54+0000",
+      "summary": "Two weeks ago Colts CB Chris Lammons was on the practice squad. Sunday, he found himself in coverage on a potential game-winning pass."
+    },
+    {
+      "id": "d03b0b62f4e4b720",
+      "title": "Details on former Florida Gators star Anthony Richardson's eye injury revealed",
+      "link": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2025/10/12/florida-gators-anthony-richardson-eye-injury-details/86664192007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:22:25+0000",
+      "summary": "Details are starting to emerge surrounding Indianapolis Colts quarterback Anthony Richardson and the eye injury he suffered on Sunday."
+    },
+    {
+      "id": "2735fead11fcaec6",
+      "title": "What Colts rookie -- and now backup -- quarterback Riley Leonard has learned from Daniel Jones",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/12/indianapolis-colts-daniel-jones-rookie-riley-leonard-anthony-richardson-backup-quarterback/86663745007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:14:51+0000",
+      "summary": "Riley Leonard is a sixth-round pick in the 2025 NFL Draft for the Indianapolis Colts. He was one play from seeing his first action."
+    },
+    {
+      "id": "f9dae2a605a14ab4",
+      "title": "Colts coach Shane Steichen on if Riley Leonard is the backup QB: 'Right now, he is'",
+      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/12/riley-leonard-colts-backup-qb-anthony-richardson-injury/86664130007/",
+      "source": "IndyStar",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:10:19+0000",
+      "summary": "From emergency-only to a play away: Anthony Richardson broke his orbital bone during pregame warmups, making Riley Leonard the backup quarterback"
+    },
+    {
+      "id": "6120eed9d9561590",
+      "title": "Bengals receiver Tee Higgins evaluated for head injury vs Packers in NFL Week 6 game",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/12/tee-higgins-injury-bengals-receiver-hurt-vs-packers-nfl-week-6/85285940007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T22:08:37+0000",
+      "summary": "Tee Higgins played in 12 games during the 2024 season, his fifth with the Bengals."
     },
     {
       "id": "1ffa03de16a3e95b",
@@ -47,15 +92,6 @@
       "summary": "The Tennessee Titans play next in Week 7 on Oct. 19. See who the Titans play next in the NFL season."
     },
     {
-      "id": "d1fd57fead205d62",
-      "title": "Cardinals TE Travis Vokolek out of hospital, traveling home with team",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-te-travis-vokolek-out-of-hospital-traveling-home-with-team",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:58:05+0000",
-      "summary": "Cardinals tight end Travis Vokolek left Sunday's loss to the Colts on a stretcher, but his condition has improved over the course of the afternoon."
-    },
-    {
       "id": "39652a8d324cf97b",
       "title": "After Anthony Richardson Sr. sustains fractured orbital bone, Riley Leonard ready as Colts' backup quarterback amid difficult circumstances",
       "link": "https://colts.com/news/after-anthony-richardson-sr-sustains-fractured-orbital-bone-riley-leonard-ready-as-colts-backup-quarterback-amid-difficult-circumstances",
@@ -63,33 +99,6 @@
       "feed": "Colts.com",
       "published": "2025-10-12T21:46:07+0000",
       "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
-    },
-    {
-      "id": "0b2e337d533cc1f7",
-      "title": "Longest field goals in NFL history: Updated list of records, distances for kicks made and attempted",
-      "link": "https://sportingnews.com/us/nfl/news/longest-field-goals-nfl-history-records-distances/1b5f7406d686287d9f3c1821",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:46:00+0000",
-      "summary": "Here's a complete guide to the longest field goals in NFL history, including the current record holder, distances and longest attempts updated for the 2025 season."
-    },
-    {
-      "id": "79ba96ef7a81ee93",
-      "title": "Panthers WR Tetairoa McMillan is asked about the importance of his 1st NFL TD",
-      "link": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2025/10/12/panthers-cowboys-week-6-tetairoa-mcmillan-touchdown/86663626007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:45:35+0000",
-      "summary": "Panthers WR Tetairoa McMillan reached the end zone for his first two career TDs on Sunday. He was asked about the importance of the milestone."
-    },
-    {
-      "id": "b81354e91e41876b",
-      "title": "Bengals gain just 65 yards of total offense in first half vs Packers",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/12/bengals-first-half-yardage-total-65-vs-packers/86662613007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T21:43:05+0000",
-      "summary": "The Bengals gained just 65 yards of total offense during the first half of their NFL Week 6 game in Green Bay."
     },
     {
       "id": "4d9053561480ae99",
@@ -107,7 +116,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2025-10-12T21:30:36+0000",
-      "summary": "It seemed like neither team could get a stop in the second half, but the Indianapolis Colts secured their third red zone stop with a critical turnover on downs to outlast the Arizona Cardinals in Sunday’s thrilling 31-27 victory inside Lucas Oil Stadium.  Colts quarterback Daniel Jones has guided the surging city to a 5-1 [&#8230;]"
+      "summary": "It seemed like neither team could get a stop in the second half, but the Indianapolis Colts secured their third red zone stop with a critical turnover on downs to outlast the Arizona Cardinals in Sunday’s thrilling 31-27 victory inside Lucas Oil Stadium.&#160; Colts quarterback Daniel Jones has guided the surging city to a 5-1 [&#8230;]"
     },
     {
       "id": "e7d61680db555ff6",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-06T17:01:15+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ worst fears have been realized. Kicker Spencer Shrader suffered a season-ending knee injury in Sunday’s 40-6 win over the Las Vegas Raiders, according to a source with knowledge of the situation. After the game, Coach Shane Steichen admitted, “It doesn’t look good.’’ Steichen confirmed Monday that Shrader tore the anterior [...]"
-    },
-    {
-      "id": "ec88bf6dfb27ccbc",
-      "title": "Colts’ 40-6 blowout of Raiders included much more from Ashton Dulin",
-      "link": "https://fox59.com/sports/colts/colts-40-6-blowout-of-raiders-included-much-more-from-ashton-dulin/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-05T23:33:19+0000",
-      "summary": "INDIANAPOLIS — Michael Pittman Jr. has been there for the past five-plus seasons as Ashton Dulin has done whatever he’s been told. Day after day. Week after week. Season after season. “He really busts his ass every single day,’’ Pittman said Sunday afternoon at Lucas Oil Stadium. “He’s giving effort. He does everything right. “He [...]"
     }
   ],
   "links": [
