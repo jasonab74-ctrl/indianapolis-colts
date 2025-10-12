@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T06:23:41+00:00",
+  "updated": "2025-10-12T06:44:33+00:00",
   "items": [
     {
       "id": "77e2e6f16fd2b5e4",
@@ -63,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-10-12T05:23:27+0000",
       "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline."
-    },
-    {
-      "id": "da423eba5e597c8a",
-      "title": "What channel is Jets vs. Broncos on today? Channel, time, TV schedule, live stream to watch NFL London game",
-      "link": "https://sportingnews.com/us/nfl/news/jets-broncos-channel-time-schedule-stream-watch-nfl-london/90fade6ee6f3c970d49aa19c",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T05:20:01+0000",
-      "summary": "The Jets are searching for their first win of the season as they take on the Broncos in London. Here's how you can watch the game on Sunday morning."
     },
     {
       "id": "33dd094f83652c56",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-04T15:53:51+0000",
       "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "3b97bc0e5f214bfb",
+      "title": "Former Colts defensive tackle Arthur Jones dies",
+      "link": "https://colts.com/news/former-colts-defensive-tackle-arthur-jones-dies",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-03T21:26:34+0000",
+      "summary": "Jones was 39 years old."
     }
   ],
   "links": [
