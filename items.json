@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T19:12:54+00:00",
+  "updated": "2025-10-12T19:36:52+00:00",
   "items": [
     {
       "id": "c9f9896d6d16e361",
@@ -38,6 +38,24 @@
       "summary": "Sources expect more trade activity ahead of this year's NFL trade deadline."
     },
     {
+      "id": "bcc83fbd201bf460",
+      "title": "Josh Downs TD makes it 24-24 in Indy",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-downs-td-makes-it-24-24-in-indy",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T19:28:36+0000",
+      "summary": "The Colts have drawn even again in their battle with the Cardinals in Indianapolis on Sunday afternoon."
+    },
+    {
+      "id": "d5a0ccdcf21375d4",
+      "title": "Giants 'bracing for a fine' amid investigation into Brian Daboll entering medical tent during Jaxson Dart's concussion protocol: report",
+      "link": "https://sny.tv/articles/giants-bracing-fine-brian-daboll-jaxson-dart",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-12T19:22:17+0000",
+      "summary": "As the NFL reviews the Giants' application of concussion protocol for quarterback Jaxson Dart, New York is 'bracing for a fine.'"
+    },
+    {
       "id": "4d9053561480ae99",
       "title": "NFL draft risers, questions and notes: What did we learn about the QB class Saturday?",
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
@@ -47,40 +65,31 @@
       "summary": "Has anyone emerged as the 2026 draft class' QB1 yet? We have notes and updates on NFL prospects through CFB Week 7."
     },
     {
-      "id": "677ab5ed89b526bc",
-      "title": "Trey McBride TD has Cardinals up 17-14",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-mcbride-td-has-cardinals-up-17-14",
+      "id": "e05af932c2da98ac",
+      "title": "NFL fans slam NFL Network's poor coverage of Broncos-Jets game",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/10/12/nfl-fans-react-nfl-network-broncos-jets-game/86661910007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-12T18:56:16+0000",
-      "summary": "The Cardinals couldn't erase the Colts' lead before halftime, but they did so to kick off the third quarter."
+      "published": "2025-10-12T19:15:05+0000",
+      "summary": "The Broncos-Jets game was ugly, and NFL Network's broadcast wasn't much better."
     },
     {
-      "id": "696649b50a533e9c",
-      "title": "Colts' Charvarius Ward ruled out vs. Cardinals after pregame collision with teammate",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/12/charvarius-ward-injury-pregame-collision-indianapolis-colts/86661896007/",
+      "id": "6f54bb95d983c0ce",
+      "title": "Colts appear to be giving up on second-round pick",
+      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/indianapolis-colts-appear-be-giving-second-round-pick-adonai-mitchell-nfl/ba9af95420da732c9082a767",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-12T18:55:28+0000",
-      "summary": "Indianapolis' top cornerback this season did not take the field for today's game against the Cardinals. Here's why."
+      "published": "2025-10-12T19:14:19+0000",
+      "summary": "The Colts look ready to make a trade."
     },
     {
-      "id": "25a007bfddf641a8",
-      "title": "Mark Sanchez Released from Hospital, Booked in Jail After Stabbing Incident",
-      "link": "https://people.com/mark-sanchez-released-from-hospital-booked-in-jail-after-stabbing-incident-11828734",
+      "id": "b25717f51fdf4457",
+      "title": "Cardinals WR Marvin Harrison Jr. out with concussion vs. Colts",
+      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/10/12/cardinals-wr-marvin-harrison-jr-out-with-concussion-vs-colts/86662190007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-12T18:51:11+0000",
-      "summary": "The former NFL quarterback has been charged with a felony in connection with his alleged role in a fight with a 69-year-old truck driver"
-    },
-    {
-      "id": "9ef2dfe30f8e1547",
-      "title": "Former NFL star Mark Sanchez released from hospital, booked on felony assault charges",
-      "link": "https://abcnews.go.com/US/former-nfl-star-mark-sanchez-released-hospital-booked/story?id=126452260",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-12T18:51:06+0000",
-      "summary": "Sanchez was stabbed in an Oct. 4, 2025, altercation with a 69-year-old man."
+      "published": "2025-10-12T19:12:34+0000",
+      "summary": "Harrison suffered a concussion after two catches for 32 yards."
     },
     {
       "id": "e7d61680db555ff6",
@@ -99,6 +108,15 @@
       "feed": "ESPN",
       "published": "2025-10-12T17:56:16+0000",
       "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
+    },
+    {
+      "id": "dfdb5891b2eec79e",
+      "title": "Colts CB Charvarius Ward, QB Anthony Richardson injured in pre-game warmups",
+      "link": "https://stampedeblue.com/indianapolis-colts-injuries/116134/colts-cb-charvarius-ward-qb-anthony-richardson-injured-in-pre-game-warmups",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-12T17:50:44+0000",
+      "summary": "Indianapolis, IN — Lucas Oil Stadium is taking no prisoners to kick off Sunday’s contest between the Indianapolis Colts and Arizona Cardinals. During pre-game warmups, two separate Colts were injured and are now inactive against the Cardinals: Charvarius Ward (concussion) and Anthony Richardson (eye). This is an unfortunate yet massive blow to Indy’s defensive backfield, [&#8230;]"
     },
     {
       "id": "47860ff4e0f8c52f",
@@ -317,15 +335,6 @@
       "summary": "INDIANAPOLIS – The conversation eventually turned to a diverse offense that could test any receiver’s ability to keep his innate, selfish DNA in check; Michael Pittman Jr.’s sudden surge of touchdowns and not being the fastest man on the planet; and the rookie tight end’s impact on the NFL’s No. 2-ranked scoring offense. But first, [...]"
     },
     {
-      "id": "a1d007f58c346686",
-      "title": "Week 5 Colts Defensive Rankings and Analysis",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/116028/week-5-colts-defensive-rankings-and-analysis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-09T20:05:42+0000",
-      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
-    },
-    {
       "id": "55ce94def5a41e63",
       "title": "Colts Blue Zone Podcast 431: Colts Host Cardinals; New Kicker in Town",
       "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-431-colts-host-cardinals-new-kicker-in-town/",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-05T19:56:48+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts rebounded from their first loss of the season last week to beat the Las Vegas Raiders, 40-6, at Lucas Oil Stadium on Sunday afternoon to improve to 4-1. The Raiders jumped out to a 3-0 lead in the first quarter, but the Colts took total control of the game from [...]"
-    },
-    {
-      "id": "cd7a63fb2562d8ef",
-      "title": "Jonathan Taylor scores 3 touchdowns as Colts dismantle Raiders",
-      "link": "https://colts.com/news/jonathan-taylor-touchdowns-tyler-warren-colts-raiders-win-anthony-richardson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-05T19:55:58+0000",
-      "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
     }
   ],
   "links": [
