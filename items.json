@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-13T17:38:47+00:00",
+  "updated": "2025-10-13T18:25:09+00:00",
   "items": [
+    {
+      "id": "39fc69a1f4c09fa1",
+      "title": "Checking the temperature of the NFL's hottest seats: Barnwell on Mike McDaniel, Justin Fields",
+      "link": "https://espn.com/nfl/story/_/id/46573291/2025-nfl-week-6-hot-seat-watch-coaches-players-mcdaniel-fields-harbaugh-callahan",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-13T19:05:21+0000",
+      "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?"
+    },
+    {
+      "id": "d70c09d2f62c5666",
+      "title": "Sources: Richardson likely out multiple games",
+      "link": "https://espn.com/nfl/story/_/id/46582987/sources-colts-anthony-richardson-likely-multiple-games",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-13T18:57:45+0000",
+      "summary": "Colts QB Anthony Richardson Sr. is likely to miss multiple games after suffering an orbital fracture in a freak pregame incident Sunday, sources told ESPN."
+    },
     {
       "id": "e7d61680db555ff6",
       "title": "Questions, takeaways from NFL Week 6: Patrick Mahomes' 4 total TDs lead Chiefs; Panthers and Chargers win thrillers",
@@ -11,40 +29,49 @@
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 6."
     },
     {
-      "id": "39fc69a1f4c09fa1",
-      "title": "Barnwell on the NFL's hottest seats: Three coaches and four players who could be in trouble after Week 6",
-      "link": "https://espn.com/nfl/story/_/id/46573291/2025-nfl-week-6-hot-seat-watch-coaches-players-mcdaniel-fields-harbaugh-callahan",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-13T18:27:28+0000",
-      "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?"
-    },
-    {
-      "id": "d70c09d2f62c5666",
-      "title": "Sources: Richardson likely out multiple games",
-      "link": "https://espn.com/nfl/story/_/id/46582987/sources-colts-anthony-richardson-likely-multiple-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-13T17:59:57+0000",
-      "summary": "Colts QB Anthony Richardson Sr. is likely to miss multiple games after suffering an orbital fracture in a freak pregame incident Sunday, sources told ESPN."
-    },
-    {
-      "id": "81a9e5e7d0e43b0f",
-      "title": "Mike Gesicki to miss Bengals-Steelers, will be out 'for a while,' per Zac Taylor",
-      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/10/13/mike-gesicki-pectoral-injury-bengals-tight-end-out-vs-steelers-thursday-night-football/86675185007/",
+      "id": "93dafdcb89328292",
+      "title": "Weak QB class could boost NFL Draft stock of OSU safety Caleb Downs",
+      "link": "https://draftwire.usatoday.com/story/sports/nfl/draft/2025/10/13/caleb-downs-2026-nfl-draft-weak-qb-class-top-prospect/86664748007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-13T17:23:04+0000",
-      "summary": "Cincinnati Bengals tight end Mike Gesicki will miss the team's NFL Week 7 game against the Pittsburgh Steelers on Thursday Night Football."
+      "published": "2025-10-13T18:12:26+0000",
+      "summary": "A QB has been the first overall pick in 6 of the last 7 and 9 of the last 11 NFL Drafts. Makes sense as it's the most high profile position in sports"
     },
     {
-      "id": "90c638bfbb4c1fc8",
-      "title": "NFL Moneyline Favorites Roll in Week 6, Sportsbooks Win Big on Cowboys’ Loss",
-      "link": "https://covers.com/industry/moneyline-favorites-roll-sportsbooks-win-big-on-cowboys-loss-oct-13-2025",
+      "id": "ee03748df98bc3f5",
+      "title": "NFL Week 7 announcer schedule",
+      "link": "https://thelistwire.usatoday.com/story/sports/2025/10/13/nfl-week-7-announcer-schedule/86674033007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-13T17:13:00+0000",
-      "summary": "BetMGM cleaned up on the Panthers’ 30-27 victory. Dallas was the second most-bet team by tickets and fourth by handle."
+      "published": "2025-10-13T18:11:50+0000",
+      "summary": "Where will the announce teams find themselves for Week 7 of the NFL season?"
+    },
+    {
+      "id": "1a4649c94ba81617",
+      "title": "Za'Darius Smith abruptly retires after 5 games with the Eagles",
+      "link": "https://sports.yahoo.com/article/zadarius-smith-abruptly-retires-5-181054522.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T18:10:54+0000",
+      "summary": "Za'Darius Smith abruptly announced his retirement Monday, five games into his eighth NFL season and first with the Philadelphia Eagles.  The 33-year-old pass rusher called it a career in a post on Instagram.  The Eagles lost Thursday night at the New York Giants to fall to 4-2 and play at Minnesota on Sunday."
+    },
+    {
+      "id": "b3e5a609a04cd6af",
+      "title": "Tennessee Titans fire head coach Brian Callahan",
+      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/10/13/tennessee-titans-fire-head-coach-brian-callahan/86676038007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T18:09:02+0000",
+      "summary": "The Tennessee Titans announced on Monday that they have fired head coach Brian Callahan after a 1-5 start to the 2025 NFL season."
+    },
+    {
+      "id": "f5eeed940846acaf",
+      "title": "NFL Draft stock report: buy- Arvell Reese, LB, Ohio State",
+      "link": "https://draftwire.usatoday.com/story/sports/nfl/draft/2025/10/13/arvell-reese-nfl-draft-stock-rising/86664643007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T18:04:33+0000",
+      "summary": "In Saturday's 34-16 win at Illinois, Ohio State linebacker Arvell Reese was all over the field, making plays."
     },
     {
       "id": "1a9db2f099ba80cd",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-06T20:43:50+0000",
       "summary": "The Colts, after beating the Las Vegas Raiders by 34 points on Sunday, are tied with the Buffalo Bills for the best record in the AFC at 4-1."
-    },
-    {
-      "id": "073b67183ab8ba51",
-      "title": "'As gritty as they come:' How Ashton Dulin's mindset and preparation paid off for Colts in win over Raiders",
-      "link": "https://colts.com/news/ashton-dulin-mindset-toughness-preparation-week-5-raiders-colts-win-special-teams-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-06T19:42:38+0000",
-      "summary": "Dulin played 47 of the Colts' 66 offensive snaps in their 40-6 win over the Raiders on Sunday."
-    },
-    {
-      "id": "e6cdfddffc5d3a0d",
-      "title": "Colts kicker Spencer Shrader out for remainder of 2025 season",
-      "link": "https://colts.com/news/colts-kicker-spencer-shrader-out-for-remainder-of-2025-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-06T18:54:23+0000",
-      "summary": "Head coach Shane Steichen said the Colts will work out a handful of kickers ahead of Wednesday's first practice of Week 6."
-    },
-    {
-      "id": "22706580c6b294e1",
-      "title": "Colts’ Shane Steichen after Spencer Shrader’s season-ending knee injury: ‘He was having a helluva season’",
-      "link": "https://fox59.com/sports/colts/colts-spencer-shrader-suffers-season-ending-knee-injury/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-06T17:01:15+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts’ worst fears have been realized. Kicker Spencer Shrader suffered a season-ending knee injury in Sunday’s 40-6 win over the Las Vegas Raiders, according to a source with knowledge of the situation. After the game, Coach Shane Steichen admitted, “It doesn’t look good.’’ Steichen confirmed Monday that Shrader tore the anterior [...]"
     }
   ],
   "links": [
