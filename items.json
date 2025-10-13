@@ -1,15 +1,6 @@
 {
-  "updated": "2025-10-13T06:52:23+00:00",
+  "updated": "2025-10-13T07:18:37+00:00",
   "items": [
-    {
-      "id": "f5039ffea07d087b",
-      "title": "Fabulous Baker's Bucs go 5-1 as MVP shouts grow",
-      "link": "https://bbc.com/sport/american-football/articles/c0rpw80q987o",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-13T06:03:57+0000",
-      "summary": "The Tampa Bay Buccaneers and Indianapolis Colts both move to 5-1 for the season while the Baltimore Ravens' play-off hopes look to be over."
-    },
     {
       "id": "c6de102900a0e144",
       "title": "Colts' Richardson has orbital fracture from mishap",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-05T19:56:48+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts rebounded from their first loss of the season last week to beat the Las Vegas Raiders, 40-6, at Lucas Oil Stadium on Sunday afternoon to improve to 4-1. The Raiders jumped out to a 3-0 lead in the first quarter, but the Colts took total control of the game from [...]"
+    },
+    {
+      "id": "cd7a63fb2562d8ef",
+      "title": "Jonathan Taylor scores 3 touchdowns as Colts dismantle Raiders",
+      "link": "https://colts.com/news/jonathan-taylor-touchdowns-tyler-warren-colts-raiders-win-anthony-richardson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T19:55:58+0000",
+      "summary": "The Colts scored touchdowns on six consecutive possessions in the 40-6 win."
     }
   ],
   "links": [
