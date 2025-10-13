@@ -1,14 +1,32 @@
 {
-  "updated": "2025-10-13T20:19:32+00:00",
+  "updated": "2025-10-13T20:39:37+00:00",
   "items": [
     {
+      "id": "64f264db8335cafe",
+      "title": "NFL Week 6's top performance? Vote for the 'Himmy' Award winner",
+      "link": "https://espn.com/nfl/story/_/id/46583304/patrick-mahomes-baker-mayfield-drake-maye-rico-dowdle-himmy-award-week-6",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-13T21:31:44+0000",
+      "summary": "Patrick Mahomes, Baker Mayfield, Drake Maye or Rico Dowdle -- vote on Week 6's \"Himmy\" Award."
+    },
+    {
+      "id": "395d417bca5d95b1",
+      "title": "Best of NFL Week 6's arrivals, featuring Travis Kelce's Louis Vuitton flannel",
+      "link": "https://espn.com/nfl/story/_/id/46543569/week-6-nfl-fashionable-arrivals-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-13T21:31:44+0000",
+      "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
+    },
+    {
       "id": "d70c09d2f62c5666",
-      "title": "Sources: Richardson likely out multiple games",
+      "title": "Colts QB Richardson placed on injured reserve",
       "link": "https://espn.com/nfl/story/_/id/46582987/sources-colts-anthony-richardson-likely-multiple-games",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-10-13T21:10:22+0000",
-      "summary": "Colts QB Anthony Richardson Sr. is likely to miss multiple games after suffering an orbital fracture in a freak pregame incident Sunday, sources told ESPN."
+      "summary": "Colts quarterback Anthony Richardson Sr. was placed on injured reserve on Monday, one day after sustaining an orbital fracture in a freak pregame incident."
     },
     {
       "id": "39fc69a1f4c09fa1",
@@ -20,40 +38,67 @@
       "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?"
     },
     {
-      "id": "64f264db8335cafe",
-      "title": "NFL Week 6's top performance? Vote for the 'Himmy' Award winner",
-      "link": "https://espn.com/nfl/story/_/id/46583304/patrick-mahomes-baker-mayfield-drake-maye-rico-dowdle-himmy-award-week-6",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-13T20:09:06+0000",
-      "summary": "Patrick Mahomes, Baker Mayfield, Drake Maye or Rico Dowdle -- vote on Week 6's \"Himmy\" Award."
-    },
-    {
-      "id": "395d417bca5d95b1",
-      "title": "Best of NFL Week 6's arrivals, featuring Travis Kelce's Louis Vuitton flannel",
-      "link": "https://espn.com/nfl/story/_/id/46543569/week-6-nfl-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-13T20:09:06+0000",
-      "summary": "The stars are back in the pregame tunnels, arriving in looks that match their personal style."
-    },
-    {
-      "id": "0af52fc6b1e63d61",
-      "title": "Colts divisional foe fires head coach after Week 6",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/13/colts-afc-south-foe-titans-fire-head-coach-brian-callahan/86678010007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-13T19:50:40+0000",
-      "summary": "The Indianapolis Colts' division foe, the Tennessee Titans, have fired head coach Brian Callahan, the team announced on Monday."
-    },
-    {
-      "id": "2cc869270eb7f333",
-      "title": "Baker Mayfield is helping the Buccaneers pile up wins despite key injuries to many skill players",
-      "link": "https://sports.yahoo.com/article/baker-mayfield-helping-buccaneers-pile-194909886.html",
+      "id": "02dcaa5a7fa5e940",
+      "title": "Browns taking hits on and off the field about the direction of their offense",
+      "link": "https://sports.yahoo.com/article/browns-taking-hits-off-field-203519448.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-13T19:49:09+0000",
-      "summary": "5-8 wide receivers, Mayfield threw a pair of touchdown passes to players who had never caught one before in the NFL in a 30-19 win over the San Francisco 49ers on Sunday.  No other NFC team has five wins."
+      "published": "2025-10-13T20:35:19+0000",
+      "summary": "After Dillon Gabriel was sacked six times and took 16 quarterback hits in his second NFL start, Steelers coach Mike Tomlin wondered on Monday why the Browns and general manager Andrew Berry were so quick to send Joe Flacco to Cincinnati last week and go with the rookie after four games.  Browns coach Kevin Stefanski said last Wednesday that the trade took him by surprise, but declined to address Tomlin's comments."
+    },
+    {
+      "id": "2d3d89d31c1e94cd",
+      "title": "Jonathan Taylor's reliability helps keep Colts steady in the good times and the strange times",
+      "link": "https://sports.yahoo.com/article/jonathan-taylors-reliability-helps-keep-202932576.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T20:29:32+0000",
+      "summary": "Jonathan Taylor did what he does best for the Indianapolis Colts on Sunday: He kept them grounded.  On a strange day when they lost their No. 2 quarterback and top cornerback because of pregame injuries, it was the Colts' star running back who steadied the team with another strong performance.  For Taylor, these sorts of performances have become increasingly commonplace while attracting more attention as the Colts (5-1) have ascended to the top of the AFC South and have one of the league's best records."
+    },
+    {
+      "id": "3745d1301f0bab39",
+      "title": "Colts place QB Anthony Richardson Sr. on injured reserve, claim S Reuben Lowery off waivers from Ravens",
+      "link": "https://colts.com/news/colts-place-qb-anthony-richardson-sr-on-injured-reserve-claim-s-reuben-lowery-off-waivers-from-ravens",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-13T20:29:25+0000",
+      "summary": "Richardson sustained a fractured orbital bone during pregame band work prior to the Colts' Week 6 game against the Arizona Cardinals."
+    },
+    {
+      "id": "8c3a95eac3052294",
+      "title": "Why Jayden Daniels went to Commanders at No. 2 in 2024 NFL Draft after Bears' Caleb Williams",
+      "link": "https://sportingnews.com/us/nfl/washington-commanders/news/why-jayden-daniels-commanders-2-2024-nfl-draft-after-bears-caleb-williams/d30da007e313de503334dc5c",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T20:27:38+0000",
+      "summary": "The Commanders seem to have gotten the better end of this."
+    },
+    {
+      "id": "a48d13dc64831570",
+      "title": "Titans’ Cam Ward joins Bryce Young, Caleb Williams and Trevor Lawrence in nightmare trend for No. 1 QBs",
+      "link": "https://sportingnews.com/us/nfl/tennessee-titans/news/titans-cam-ward-joins-bryce-young-caleb-williams-and-trevor-lawrence-nightmare-trend-no-1-qbs/9049d70bc1ae1881cc058dc5",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T20:27:14+0000",
+      "summary": "Cam Ward just joined an very unwanted list in the NFL after Brian Callahan's firing."
+    },
+    {
+      "id": "591dfc4ae86d47a4",
+      "title": "Bills vs Falcons Predictions, Picks & Best Bets for Monday Night Football Tonight",
+      "link": "https://covers.com/nfl/bills-vs-falcons-predictions-picks-mnf-october-13-2025",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T20:26:00+0000",
+      "summary": "Get the best Bills vs. Falcons predictions ahead of Monday's prime-time matchup in Atlanta. Free NFL picks for October 13."
+    },
+    {
+      "id": "a3c06a34b8b3a8e1",
+      "title": "Cam Ward the latest QB taken No. 1 to fall victim to this disturbing NFL trend",
+      "link": "https://draftwire.usatoday.com/story/sports/nfl/draft/2025/10/13/cam-ward-titans-rookie-qb-drafted-1st-head-coach-fired/86677929007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T20:25:18+0000",
+      "summary": "Cam Ward became the latest No. 1 overall pick at QB to see his head coach fired before the end of his rookie season, a disturbing NFL trend"
     },
     {
       "id": "e6e606520fa8ad1a",
@@ -495,51 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-08T15:26:56+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts addressed one of their weaker positions by reuniting veteran linebacker Germaine Pratt with defensive coordinator Lou Anarumo. Various reports – including NFL Network’s Ian Rapoport – noted it’s a one-year deal. Pratt, 29, was released by the Las Vegas Raiders earlier this week. He did not make the trip with [...]"
-    },
-    {
-      "id": "fda60e9e44120574",
-      "title": "Colts release unofficial depth chart for Week 6 game vs. Arizona Cardinals",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-6-game-vs-arizona-cardinals",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-07T20:53:11+0000",
-      "summary": "The Colts released their Week 6 unofficial depth chart ahead of their game against the Arizona Cardinals Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "7782a9f4b176673e",
-      "title": "Colts sign kicker Michael Badgley, place Spencer Shrader on injured reserve",
-      "link": "https://colts.com/news/colts-sign-kicker-michael-badgley-place-spencer-shrader-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-07T20:43:11+0000",
-      "summary": "The Colts signed Badgley on Tuesday, replacing Spencer Shrader after Shrader sustained a season-ending injury in the Colts' Week 5 game."
-    },
-    {
-      "id": "6a721d479fdc4759",
-      "title": "Colts signing Michael Badgley to replace Spencer Shrader",
-      "link": "https://fox59.com/sports/colts/colts-signing-michael-badgley-to-replace-spencer-shrader/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-07T18:32:00+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts are bringing back a familiar face to replace injured kicker Spencer Shrader. The team has signed Michael Badgley, whose seven-year career includes spending the 2021 season in Indy, according to a source with knowledge of the situation. That season, Badgley initially was signed to the practice squad after Rodrigo Blankenship [...]"
-    },
-    {
-      "id": "927fdba1da2a011e",
-      "title": "5 Colts Things: Where offense ranks in NFL through Week 5, Daniel Jones dissects Raiders' defense, inside Segun Olubi's blocked punt",
-      "link": "https://colts.com/news/5-colts-things-where-offense-ranks-in-nfl-through-week-5-daniel-jones-dissects-raiders-defense-inside-segun-olubi-s-blocked-punt",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-06T20:43:50+0000",
-      "summary": "The Colts, after beating the Las Vegas Raiders by 34 points on Sunday, are tied with the Buffalo Bills for the best record in the AFC at 4-1."
-    },
-    {
-      "id": "073b67183ab8ba51",
-      "title": "'As gritty as they come:' How Ashton Dulin's mindset and preparation paid off for Colts in win over Raiders",
-      "link": "https://colts.com/news/ashton-dulin-mindset-toughness-preparation-week-5-raiders-colts-win-special-teams-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-06T19:42:38+0000",
-      "summary": "Dulin played 47 of the Colts' 66 offensive snaps in their 40-6 win over the Raiders on Sunday."
     }
   ],
   "links": [
