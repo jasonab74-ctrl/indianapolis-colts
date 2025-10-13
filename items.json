@@ -1,14 +1,41 @@
 {
-  "updated": "2025-10-13T12:37:56+00:00",
+  "updated": "2025-10-13T13:28:53+00:00",
   "items": [
     {
-      "id": "7680c658d7b72788",
-      "title": "NFL power rankings Week 7: Pittsburgh Steelers inch closer to league's elite",
-      "link": "https://sportingnews.com/us/nfl/pittsburgh-steelers/news/nfl-power-rankings-week-7-pittsburgh-steelers-inch-closer-leagues-elite/47fbc0833c667597e11ffcb7",
+      "id": "39fc69a1f4c09fa1",
+      "title": "Checking the temperature of the NFL's hottest seats: Barnwell on Mike McDaniel, Justin Fields",
+      "link": "https://espn.com/nfl/story/_/id/46573291/2025-nfl-week-6-hot-seat-watch-coaches-players-mcdaniel-fields-harbaugh-callahan",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-13T14:01:34+0000",
+      "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?"
+    },
+    {
+      "id": "83f056da3f020314",
+      "title": "Monday Night Football Odds: MNF Betting Lines 2025",
+      "link": "https://covers.com/nfl/mnf-odds",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-13T12:11:15+0000",
-      "summary": "The Pittsburgh Steelers notched their third straight victory in the Week 6 game against the Cleveland Browns and are inching closer to the best teams in the league in the NFL power rankings of experts for Week 7."
+      "published": "2025-10-13T13:07:00+0000",
+      "summary": "We have the latest NFL spreads, Over/Under totals, and player prop odds for Monday Night Football betting in 2025."
+    },
+    {
+      "id": "7eee3057b6555260",
+      "title": "Sunday Night Football Odds: SNF Betting Lines 2025",
+      "link": "https://covers.com/nfl/snf-odds",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T13:05:00+0000",
+      "summary": "We have the latest NFL spreads, Over/Under totals, and player prop odds for Sunday Night Football betting in 2025."
+    },
+    {
+      "id": "a6a8384e5533d1fd",
+      "title": "Emeka Egbuka injury update: Bad news for Buccaneers WR ahead of Week 7",
+      "link": "https://sportingnews.com/us/nfl/tampa-bay-buccaneers/news/emeka-egbuka-injury-update-positive-news-buccaneers-amid-uncertainty/d842fc8c61766d44af9a9699",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T13:03:04+0000",
+      "summary": "Tampa Bay Buccaneers wide receiver Emeka Egbuka suffered a hamstring injury in the Week 6 win over the San Francisco 49ers. An NFL insider offered some positive news on Egbuka on Sunday night."
     },
     {
       "id": "499cc25c091b9d93",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-05T22:47:35+0000",
       "summary": "Jonathan Taylor's seven touchdowns in the first five games of the 2025 season tied a franchise record last reached by Marvin Harrison in 1999."
-    },
-    {
-      "id": "432c1c4e4b9669b4",
-      "title": "How a certain collective mentality produced Colts' biggest margin of victory in over a decade with Week 5 blowout win over Raiders",
-      "link": "https://colts.com/news/how-a-certain-collective-mentality-produced-colts-biggest-margin-of-victory-in-over-a-decade-with-week-5-blowout-win-over-raiders",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-05T22:17:33+0000",
-      "summary": "The Colts' 40-6 win over the Las Vegas Raiders came on the heels of a frustrating Week 4 loss to the Los Angeles Rams – a defeat the Colts did not let linger in a negative way leading up to Sunday."
-    },
-    {
-      "id": "c220261b9871fa38",
-      "title": "After win over Raiders, Colts react to Spencer Shrader's knee injury: 'Hate it for him'",
-      "link": "https://colts.com/news/shane-steichen-luke-rhodes-spencer-shrader-knee-injury-colts-raiders-week-5",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-05T21:49:11+0000",
-      "summary": "Shrader sustained a knee injury in the second quarter of the Colts' 40-6 win over the Raiders on Sunday."
-    },
-    {
-      "id": "0749deb2c05a8bc1",
-      "title": "Colts dominate Raiders, 40-6, to improve to 4-1",
-      "link": "https://fox59.com/sports/colts/colts-dominate-raiders-40-6-to-improve-to-4-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-05T19:56:48+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts rebounded from their first loss of the season last week to beat the Las Vegas Raiders, 40-6, at Lucas Oil Stadium on Sunday afternoon to improve to 4-1. The Raiders jumped out to a 3-0 lead in the first quarter, but the Colts took total control of the game from [...]"
     }
   ],
   "links": [
