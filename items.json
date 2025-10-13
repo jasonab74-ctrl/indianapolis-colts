@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-13T10:21:05+00:00",
+  "updated": "2025-10-13T10:44:00+00:00",
   "items": [
+    {
+      "id": "ffa3a80b4a44546c",
+      "title": "Mitch Albom: If you read NFL tea leaves, you could have seen this Lions loss coming",
+      "link": "https://freep.com/story/sports/columnists/mitch-albom/2025/10/13/detroit-lions-mitch-albom-kansas-city-chiefs/86667559007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-13T10:31:00+0000",
+      "summary": "If you thought Detroit, after four wins in five games, was some kind of Superman, then you just saw its kryptonite."
+    },
     {
       "id": "f97e3e29a3a10958",
       "title": "NFL Week 6 winners and losers: Fred Warner injury could finally break 49ers",
@@ -9,24 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-13T10:05:04+0000",
       "summary": "The 49ers have pressed on despite a litany of injuries, but losing Fred Warner for the season could be the hit that breaks the defense."
-    },
-    {
-      "id": "bf7f0c8dab2603de",
-      "title": "NFL power rankings Week 7: New No. 1 emerges as Lions, Eagles stumble",
-      "link": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/10/13/nfl-power-rankings-week-7-new-no-1-emerges-as-lions-eagles-stumble/86667073007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-13T10:04:57+0000",
-      "summary": "There's a revolving door at No. 1 after the latest throne holder gets spanked on SNF."
-    },
-    {
-      "id": "e7eaf9b276e1d439",
-      "title": "Garfield graduate Whitney Mercilus heads to Akron Public Schools Athletics Hall of Fame",
-      "link": "https://beaconjournal.com/story/sports/high-school/2025/10/13/whitney-mercilus-akron-public-schools-athletics-hall-of-fame/86602359007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-13T10:04:16+0000",
-      "summary": "Garfield High School graduate Whitney Mercilus played for 10 NFL seasons. He'll be inducted into the Akron Public Schools Athletics HOF on Oct. 18."
     },
     {
       "id": "c6de102900a0e144",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-05T22:17:33+0000",
       "summary": "The Colts' 40-6 win over the Las Vegas Raiders came on the heels of a frustrating Week 4 loss to the Los Angeles Rams – a defeat the Colts did not let linger in a negative way leading up to Sunday."
+    },
+    {
+      "id": "c220261b9871fa38",
+      "title": "After win over Raiders, Colts react to Spencer Shrader's knee injury: 'Hate it for him'",
+      "link": "https://colts.com/news/shane-steichen-luke-rhodes-spencer-shrader-knee-injury-colts-raiders-week-5",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-05T21:49:11+0000",
+      "summary": "Shrader sustained a knee injury in the second quarter of the Colts' 40-6 win over the Raiders on Sunday."
     }
   ],
   "links": [
