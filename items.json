@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-14T03:32:10+00:00",
+  "updated": "2025-10-14T04:21:43+00:00",
   "items": [
     {
       "id": "7369f37236e546f8",
@@ -7,17 +7,35 @@
       "link": "https://espn.com/nfl/story/_/id/46585859/lions-brian-branch-suspended-one-game-postgame-fight",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-14T03:31:26+0000",
+      "published": "2025-10-14T04:57:02+0000",
       "summary": "The NFL has suspended Lions safety Brian Branch for one game without pay after he struck Chiefs wide receiver JuJu Smith-Schuster and set off a brief fight."
     },
     {
-      "id": "4d8e89e20e541eec",
-      "title": "Jags rule out Lloyd, NFL's INT leader, vs. Rams",
-      "link": "https://espn.com/nfl/story/_/id/46586564/jaguars-rule-devin-lloyd-nfl-interceptions-leader-vs-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-14T03:31:26+0000",
-      "summary": "Jaguars linebacker Devin Lloyd, the NFL's leader in turnovers forced, will sit out Sunday's game against the Rams in London because of a calf injury."
+      "id": "c0388ae440113afe",
+      "title": "Falcons beat Bills while Bears edge Commanders in NFL",
+      "link": "https://sports.yahoo.com/article/falcons-beat-bills-while-bears-040934463.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T04:09:34+0000",
+      "summary": "Reigning NFL Most Valuable Player Josh Allen and the Buffalo Bills suffered a surprise defeat for the second consecutive week, falling 24-14 in Atlanta on Monday.Allen threw for 180 yards and two touchdowns but also two costly interceptions as the Bills slid to 4-2 and level for the AFC East division lead with New England, which upset Buffalo 23-20 last week."
+    },
+    {
+      "id": "7759ac3e5828497e",
+      "title": "NFL Power Rankings entering Week 7: Titans are a mess and it started with firing Mike Vrabel",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-7-titans-are-a-mess-and-it-started-with-firing-mike-vrabel-033728167.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T03:37:28+0000",
+      "summary": "Tennessee's firing of head coach Brian Callahan speaks to bigger-picture issues within the franchise."
+    },
+    {
+      "id": "5c146df462b4c32f",
+      "title": "NFL power rankings: Packers, Bucs, Patriots rise; 49ers, Eagles drop in shakeup at top for Week 7",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-bucs-patriots-49ers-eagles/22d9c68b3d432cc69c505c64",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T03:30:00+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 6 of the 2025 NFL regular season? Here's an updated look from best to worst."
     },
     {
       "id": "1b81b12829231cd9",
@@ -26,7 +44,7 @@
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
       "published": "2025-10-14T03:22:11+0000",
-      "summary": "Here are three things we learned about the Bears from Monday night's Week 6 clash with the Washington Commanders at Northwest Stadium. The post Bears 25, Commanders 24: Three observations in Chicago’s NFL Week 6 win appeared first on Marquee Sports Network - Home of the Cubs, Bears, Red Stars and Sky."
+      "summary": "Scott Bair shares three things we learned about the Bears in their Week 6 win over the Washington Commanders at Northwest Stadium. The post Bears 25, Commanders 24: Three observations in Chicago’s NFL Week 6 win appeared first on Marquee Sports Network - Home of the Cubs, Bears, Red Stars and Sky."
     },
     {
       "id": "da901fd4c3b9ce80",
@@ -36,42 +54,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-14T03:11:46+0000",
       "summary": "The Vikings are 3-2 coming out of their bye week, leading some fans to start peaking ahead to the 2026 NFL draft. What are some of their main needs?"
-    },
-    {
-      "id": "cdf07777be28baeb",
-      "title": "Mekhi Blackmon and Camryn Bynum shining on Colts after Vikings departure",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/13/former-vikings-defenders-shining-on-colts-after-vikings-departure/86682901007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T03:09:42+0000",
-      "summary": "Former Vikings defensive backs Mekhi Blackmon and Camryn Bynum have had highlight plays this year for the Colts."
-    },
-    {
-      "id": "88ac37a23db02eb4",
-      "title": "NFL admits they missed a call on Will Reichard's kick, won't reverse it",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/13/nfl-admits-they-missed-a-call-on-will-reichards-kick-wont-reverse-it/86682803007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T03:07:29+0000",
-      "summary": "The NFL acknowledged that Vikings kicker Will Reichard's missed field goal in London did hit a camera cable but won't change the ruling."
-    },
-    {
-      "id": "e91d007e264e4b84",
-      "title": "NFL world reacts to terrible officiating in Bears-Commanders",
-      "link": "https://bearswire.usatoday.com/story/sports/nfl/bears/2025/10/13/nfl-world-reacts-to-terrible-officiating-in-bears-commanders/86683033007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T03:01:14+0000",
-      "summary": "The Bears-Commanders prime-time game has been overshadowed by poor officiating and fans have had enough."
-    },
-    {
-      "id": "5c146df462b4c32f",
-      "title": "NFL power rankings: Packers, Bucs, Patriots rise; 49ers, Eagles drop in shakeup at top for Week 7",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-packers-bucs-patriots-49ers-eagles/22d9c68b3d432cc69c505c64",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T02:30:00+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 6 of the 2025 NFL regular season? Here's an updated look from best to worst."
     },
     {
       "id": "3f68886e2db923f9",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-08T16:06:47+0000",
       "summary": "The Colts signed LB Germaine Pratt and placed Bachie on injured reserve Wednesday."
+    },
+    {
+      "id": "21de33d2479db18a",
+      "title": "Colts sign LB Germaine Pratt",
+      "link": "https://colts.com/news/colts-sign-lb-germaine-pratt",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-08T15:29:42+0000",
+      "summary": "Pratt joins the Colts after playing for defensive coordinator Lou Anarumo with the Cincinnati Bengals from 2019-2024."
+    },
+    {
+      "id": "3badf9158345a74e",
+      "title": "Colts add linebacker depth, sign Germaine Pratt",
+      "link": "https://fox59.com/sports/colts/colts-add-linebacker-depth-sign-germaine-pratt/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-08T15:26:56+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts addressed one of their weaker positions by reuniting veteran linebacker Germaine Pratt with defensive coordinator Lou Anarumo. Various reports – including NFL Network’s Ian Rapoport – noted it’s a one-year deal. Pratt, 29, was released by the Las Vegas Raiders earlier this week. He did not make the trip with [...]"
     }
   ],
   "links": [
