@@ -1,14 +1,14 @@
 {
-  "updated": "2025-10-14T21:36:37+00:00",
+  "updated": "2025-10-14T22:16:44+00:00",
   "items": [
     {
       "id": "de72c11f757426fd",
-      "title": "Rodgers, Flacco happy to be part of 'Icy Hot Bowl'",
+      "title": "Rodgers, Flacco happy to be part of 'Icy Hot bowl'",
       "link": "https://espn.com/nfl/story/_/id/46596773/steelers-rodgers-bengals-flacco-rare-matchup-qbs-40s",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-14T22:28:16+0000",
-      "summary": "Thursday night's matchup between the Steelers and Bengals featuring Aaron Rodgers and Joe Flacco will mark just the second time in NFL history that opposing quarterbacks age 40 or older will start a regular or postseason game against each other."
+      "published": "2025-10-14T22:54:10+0000",
+      "summary": "In Thursday night's Steelers-Bengals matchup, Aaron Rodgers and Joe Flacco will become just the second pair of opposing quarterbacks 40 or older in NFL history to start a regular or postseason game against each other."
     },
     {
       "id": "204d52453797b441",
@@ -16,17 +16,35 @@
       "link": "https://espn.com/nfl/story/_/id/46596940/former-nfl-ol-charles-leno-jr-retires-solemn-anniversary",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-14T22:28:16+0000",
-      "summary": "Former NFL offensive lineman Charles Leno Jr. announced his retirement on Tuesday - two years to the day his wife suffered a miscarriage."
+      "published": "2025-10-14T22:54:10+0000",
+      "summary": "Former NFL offensive lineman Charles Leno Jr. announced his retirement on Tuesday -- two years to the day after his wife suffered a miscarriage."
     },
     {
       "id": "aceb505f4ae03a3c",
-      "title": "Browns WR Bell retiring, cites off-field injury",
+      "title": "Browns' Bell retires from NFL, cites off-field injury",
       "link": "https://espn.com/nfl/story/_/id/46596791/browns-david-bell-retires-nfl-cites-field-injury",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-14T22:28:16+0000",
+      "published": "2025-10-14T22:54:10+0000",
       "summary": "Browns wide receiver David Bell announced his retirement from the NFL."
+    },
+    {
+      "id": "a1694a6dcaf51d71",
+      "title": "Free agent WR Treylon Burks to visit Commanders",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-wr-treylon-burks-to-visit-commanders",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T21:59:21+0000",
+      "summary": "Free agent wide receiver Treylon Burks worked out for the Broncos on Tuesday, according to the NFL's personnel notice."
+    },
+    {
+      "id": "cb37670e50b49ca8",
+      "title": "Browns WR David Bell forced to medically retire after just three NFL seasons",
+      "link": "https://brownswire.usatoday.com/story/sports/nfl/browns/2025/10/14/browns-wr-david-bell-medically-retires-from-nfl-after-three-seasons/86696038007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T21:55:55+0000",
+      "summary": "The Browns are down another wide receiver after David Bell was forced to abruptly retire from the NFL today"
     },
     {
       "id": "5063da0dac68d3ff",
@@ -36,6 +54,33 @@
       "feed": "ESPN",
       "published": "2025-10-14T21:55:08+0000",
       "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, including four quarterbacks and one really good running back. See who makes the list."
+    },
+    {
+      "id": "79934bdca2487e89",
+      "title": "NFL playoff picture: Texans appear as No. 9 seed in AFC entering Week 7",
+      "link": "https://texanswire.usatoday.com/story/sports/nfl/texans/2025/10/14/nfl-playoff-picture-houston-texans-afc-after-week-6/86694322007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T21:54:01+0000",
+      "summary": "Six games into the 2025 season, the Houston Texans are already in win-now mode from here on out until the season's end."
+    },
+    {
+      "id": "0bbe64fd63f7f0c8",
+      "title": "Colts linked to signing 3-time Super Bowl champion WR",
+      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/colts-linked-signing-3-time-super-bowl-champion-wr/b70e6416e72adffdb576452c",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T21:51:46+0000",
+      "summary": "Indy is keeping its options open."
+    },
+    {
+      "id": "d05b52cd1dcd8f41",
+      "title": "Colts announce practice squad positional shuffle—with mammoth sized OT signing",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/116262/colts-announce-practice-squad-positional-shuffle-with-mammoth-sized-ot-signing",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-14T21:45:16+0000",
+      "summary": "The Indianapolis Colts announced on Tuesday that the team has signed offensive tackle Bayron Matos to the team’s practice squad and waived fellow offensive tackle Marcellus Johnson in a corresponding taxi squad move. The Colts had worked out Matos among four players on Monday. He reportedly also recently worked out for both the New England [&#8230;]"
     },
     {
       "id": "6cbde484083832af",
@@ -243,15 +288,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-13T01:25:50+0000",
       "summary": "The Indianapolis Colts have another major opportunity to cement their legitimacy as they head out on the road for their second test of the season. Ironically enough, it will be in the exact same building in which they lost in crushing fashion to the Los Angeles Rams. The L.A. part stays the same, but Chargers [&#8230;]"
-    },
-    {
-      "id": "d4b9f73183a206b8",
-      "title": "Colts get the win but show plenty of room for improvement on defense",
-      "link": "https://stampedeblue.com/analysis/116186/colts-get-the-win-but-show-plenty-of-room-for-improvement-on-defense",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-13T00:16:30+0000",
-      "summary": "When the news flashed that Kyler Murray would be sidelined for the week six tilt against the Indianapolis Colts, there were quite a few people expecting an absolute beat down. Overcoming numerous injuries that included the starting quarterback seemed like too much for a team that had lost three straight on last second field goals. [&#8230;]"
     },
     {
       "id": "ad9801e3cc37afe7",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-08T21:17:40+0000",
       "summary": "INDIANAPOLIS – The routine has never really changed. Michael Badgley stays ready. For whatever. And for whenever. This week, the kicker-needy Indianapolis Colts dialed up a kicker in need of a job, and they undoubtedly had his number. This is Badgley’s third stint in Indy. The Colts signed him as an undrafted rookie out of [...]"
-    },
-    {
-      "id": "c006c389ff6ccbb1",
-      "title": "Kicker Michael Badgley brings familiarity and competitiveness in return to Colts: 'He'll fit right in'",
-      "link": "https://colts.com/news/colts-kicker-michael-badgley-shane-steichen-chargers-rigoberto-sanchez-luke-rhodes-special-teams-competitiveness",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-08T20:43:52+0000",
-      "summary": "By kicking in 12 games for the Colts in 2021, Badgley already has well-established relationships with long snapper Luke Rhodes and punter Rigoberto Sanchez that will make his integration into the team “a lot smoother.”"
-    },
-    {
-      "id": "daf0cd1e00172b1e",
-      "title": "How are Colts scoring so many points? It starts on first down",
-      "link": "https://colts.com/news/how-are-colts-scoring-so-many-points-it-starts-on-first-down",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-08T19:29:20+0000",
-      "summary": "Only one Indianapolis Colts team has scored more points through the first five games of a season than the 2025 Colts. Here's one big reason why this year's Colts have had so much success putting up points."
-    },
-    {
-      "id": "16b599a8cd173309",
-      "title": "Linebacker Germaine Pratt 'couldn't wait' to reunite with Colts defensive coordinator Lou Anarumo",
-      "link": "https://colts.com/news/linebacker-germaine-pratt-couldn-t-wait-to-reunite-with-colts-defensive-coordinator-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-08T19:02:36+0000",
-      "summary": "Pratt spent the first six seasons of his career playing for Anarumo with the Cincinnati Bengals."
-    },
-    {
-      "id": "f3dbf663215ac58c",
-      "title": "Colts place LB Joe Bachie on injured reserve",
-      "link": "https://colts.com/news/colts-place-lb-joe-bachie-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-08T16:06:47+0000",
-      "summary": "The Colts signed LB Germaine Pratt and placed Bachie on injured reserve Wednesday."
     }
   ],
   "links": [
