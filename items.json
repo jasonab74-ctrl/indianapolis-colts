@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-14T06:27:29+00:00",
+  "updated": "2025-10-14T06:49:31+00:00",
   "items": [
     {
       "id": "7369f37236e546f8",
@@ -9,6 +9,15 @@
       "feed": "ESPN",
       "published": "2025-10-14T07:12:47+0000",
       "summary": "The NFL has suspended Lions safety Brian Branch for one game without pay after he struck Chiefs wide receiver JuJu Smith-Schuster and set off a brief fight."
+    },
+    {
+      "id": "0fd1fc57cbfb79f5",
+      "title": "'Best player in football'? Bijan Robinson won't say it, but plenty of others will.",
+      "link": "https://usatoday.com/story/sports/nfl/columnist/bell/2025/10/14/bijan-robinson-atlanta-falcons-running-back/86684251007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T06:31:12+0000",
+      "summary": "Bijan Robinson is the rare NFL star with true humility, but his greatness was on display Monday in the Falcons' win over the Bills."
     },
     {
       "id": "95ec21a06c892ccf",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-07T18:32:00+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts are bringing back a familiar face to replace injured kicker Spencer Shrader. The team has signed Michael Badgley, whose seven-year career includes spending the 2021 season in Indy, according to a source with knowledge of the situation. That season, Badgley initially was signed to the practice squad after Rodrigo Blankenship [...]"
-    },
-    {
-      "id": "927fdba1da2a011e",
-      "title": "5 Colts Things: Where offense ranks in NFL through Week 5, Daniel Jones dissects Raiders' defense, inside Segun Olubi's blocked punt",
-      "link": "https://colts.com/news/5-colts-things-where-offense-ranks-in-nfl-through-week-5-daniel-jones-dissects-raiders-defense-inside-segun-olubi-s-blocked-punt",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-06T20:43:50+0000",
-      "summary": "The Colts, after beating the Las Vegas Raiders by 34 points on Sunday, are tied with the Buffalo Bills for the best record in the AFC at 4-1."
     }
   ],
   "links": [
