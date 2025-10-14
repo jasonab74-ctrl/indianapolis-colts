@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-14T14:44:13+00:00",
+  "updated": "2025-10-14T15:20:21+00:00",
   "items": [
     {
       "id": "7369f37236e546f8",
@@ -9,6 +9,33 @@
       "feed": "ESPN",
       "published": "2025-10-14T15:37:38+0000",
       "summary": "The NFL has suspended Lions safety Brian Branch for one game without pay after he struck Chiefs wide receiver JuJu Smith-Schuster and set off a brief fight."
+    },
+    {
+      "id": "fceccb435161e9ec",
+      "title": "Minnesota Vikings linked to rising star in Big Ten in latest 2026 NFL Mock Draft",
+      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/14/vikings-nfl-mock-draft-arvel-reese/86683663007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T15:05:44+0000",
+      "summary": "The Minnesota Vikings are linked to a star in the Big Ten in the latest NFL Mock Draft."
+    },
+    {
+      "id": "8de860d8dbd48b24",
+      "title": "How Oregon Ducks in the NFL performed in Week 6",
+      "link": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2025/10/14/oregon-ducks-nfl-player-performances-week-6/86626571007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-14T14:57:29+0000",
+      "summary": "The Oregon Ducks have a long lineage of players who make it to the next level. Let’s take a look at how the NFL Ducks performed in Week Six."
+    },
+    {
+      "id": "3fff9df7b2b64071",
+      "title": "Colts TE Tyler Warren nominated for NFL Rookie of the Week for Week 6",
+      "link": "https://colts.com/news/colts-tight-end-tyler-warren-rookie-of-the-week-cardinals-receiving-yards-touchdowns",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-14T14:52:10+0000",
+      "summary": "Warren had six receptions for 63 yards and a touchdown in the Colts' win over the Cardinals."
     },
     {
       "id": "5063da0dac68d3ff",
@@ -38,15 +65,6 @@
       "summary": "The Colts made the roster moves on Tuesday."
     },
     {
-      "id": "4d3595d7542f0e17",
-      "title": "Colts sign 6-foot-7, 334-pound former basketball player from the Dominican Republic",
-      "link": "https://sportingnews.com/us/nfl/indianapolis-colts/news/colts-sign-6-foot-7-334-pound-basketball-player-dominican-republic/4b402a3a741ffa9ebe080516",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T14:31:22+0000",
-      "summary": "Indy is adding an intriguing talent."
-    },
-    {
       "id": "78ca327086445c38",
       "title": "Colts’ Stock Up/Down: Week 6 vs. Cardinals",
       "link": "https://stampedeblue.com/analysis/116208/colts-stock-up-down-week-6-vs-cardinals",
@@ -54,24 +72,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-14T14:29:00+0000",
       "summary": "Stock Up Daniel Jones We knew that it was not going to be smooth sailing all season, and that there were going to be some hiccups here and there from new franchise quarterback Danny Dimes, but how he bounced back from those is what impressed me. Mistakes happen, it is how you bounce back from [&#8230;]"
-    },
-    {
-      "id": "1bf386f069733ce3",
-      "title": "3 backup options at QB for Colts with Anthony Richardson on IR",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/14/anthony-richardson-injury-3-backup-quarterback-options-colts/86688150007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T14:28:41+0000",
-      "summary": "With Anthony Richardson on IR, here are three backup quarterback options for the Colts."
-    },
-    {
-      "id": "43c9bee95ec7d30b",
-      "title": "NFL power rankings: See where the Texans rank after Week 6",
-      "link": "https://texanswire.usatoday.com/story/sports/nfl/texans/2025/10/14/nfl-power-rankings-houston-texans-rank-week-6-nfl-cj-stroud-monday-football/86688107007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T14:26:16+0000",
-      "summary": "Are the Houston Texans trending up following their bye week? Here's the latest rankings from USA Today"
     },
     {
       "id": "e7d61680db555ff6",
@@ -90,15 +90,6 @@
       "feed": "ESPN",
       "published": "2025-10-14T14:20:56+0000",
       "summary": "Week 6 in the NFL offered up-front quotes and self-reflection. Put your knowledge to the test with our quote quiz."
-    },
-    {
-      "id": "3ab61f46250d93bf",
-      "title": "Is Minnesota Vikings' Brian Flores a fit for the Titans HC vacancy in 2026?",
-      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/14/vikings-brian-flores-tennessee-titans-hc-vacancy/86683534007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-14T14:19:32+0000",
-      "summary": "The Vikings have one of the best coordinators in the NFL in Brian Flores, does he fit what the Titans could look for in their new head coach?"
     },
     {
       "id": "91dd45a06f4fee52",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-08T15:29:42+0000",
       "summary": "Pratt joins the Colts after playing for defensive coordinator Lou Anarumo with the Cincinnati Bengals from 2019-2024."
+    },
+    {
+      "id": "3badf9158345a74e",
+      "title": "Colts add linebacker depth, sign Germaine Pratt",
+      "link": "https://fox59.com/sports/colts/colts-add-linebacker-depth-sign-germaine-pratt/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-08T15:26:56+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts addressed one of their weaker positions by reuniting veteran linebacker Germaine Pratt with defensive coordinator Lou Anarumo. Various reports – including NFL Network’s Ian Rapoport – noted it’s a one-year deal. Pratt, 29, was released by the Las Vegas Raiders earlier this week. He did not make the trip with [...]"
     }
   ],
   "links": [
