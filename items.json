@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-15T17:16:16+00:00",
+  "updated": "2025-10-15T17:39:14+00:00",
   "items": [
+    {
+      "id": "de72c11f757426fd",
+      "title": "Rodgers, Flacco happy to be part of 'Icy Hot bowl'",
+      "link": "https://espn.com/nfl/story/_/id/46596773/steelers-rodgers-bengals-flacco-rare-matchup-qbs-40s",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-15T18:20:53+0000",
+      "summary": "In Thursday night's Steelers-Bengals matchup, Aaron Rodgers and Joe Flacco will become just the second pair of opposing quarterbacks 40 or older in NFL history to start a regular or postseason game against each other."
+    },
+    {
+      "id": "94c3645b3233bf89",
+      "title": "📈 NFL Week 7 Power Rankings: 1-32",
+      "link": "https://espn.com/nfl/story/_/id/46521411/nfl-week-7-power-rankings-poll-32-teams-2025-biggest-lessons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-15T18:20:53+0000",
+      "summary": "We reshuffled the teams in our NFL Power Rankings ahead of Week 7. Plus, here are the biggest lessons for each roster so far this season."
+    },
     {
       "id": "cab082006e6044f9",
       "title": "Fantasy crystal ball: Players whose value could shift at the NFL trade deadline",
@@ -11,22 +29,58 @@
       "summary": "The best potential destination for rumored trade targets and who benefits if a player is dealt."
     },
     {
-      "id": "56d50ddf47a3f98c",
-      "title": "NFL Moneyline Picks for Every Week 7 Game",
-      "link": "https://covers.com/nfl/moneyline-picks-for-every-week-7-game-2025",
+      "id": "63d94cbeb343c04b",
+      "title": "49ers linked to 6 pass rushers by insiders in NFL trade rumors",
+      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/10/15/49ers-rashan-gary-jaelan-phillips-bradley-chubb-jermaine-johnson-will-mcdonald-arden-key/86707304007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-15T16:53:00+0000",
-      "summary": "The Atlanta Falcons proved against Buffalo that they’re elite on both sides of the ball, and Trevor Knapp expects them to dominate an injury-riddled 49ers squad."
+      "published": "2025-10-15T17:23:54+0000",
+      "summary": "The San Francisco 49ers need to address their issues getting after the quarterback, so an ESPN insider suggested a few players for them to check out."
     },
     {
-      "id": "62d081b13720ff56",
-      "title": "Mike McDaniel says Dolphins put Tua’s controversial comments behind them",
-      "link": "https://sun-sentinel.com/2025/10/15/mike-mcdaniel-says-dolphins-put-tuas-controversial-comments-behind-them/",
+      "id": "ed8f8f84848565a8",
+      "title": "Where the Bears rank statistically heading into Week 7",
+      "link": "https://bearswire.usatoday.com/story/sports/nfl/bears/2025/10/15/bears-stats-rankings-2025-week-7/86705478007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-15T16:52:00+0000",
-      "summary": "MIAMI GARDENS — Miami Dolphins quarterback Tua Tagovailoa set the NFL national media world ablaze when he called out teammates following Sunday’s loss to the Los Angeles Chargers. It was the hot topic leading a lot of sports talk programs through Sunday night and Monday, but as the Dolphins begin the week of practice in preparation for a trip to Cleveland to face the Browns, coach Mike ..."
+      "published": "2025-10-15T17:23:05+0000",
+      "summary": "With Week 7 just around the corner, how do the Chicago Bears compare to the rest of the NFL on offense and defense? We take a look."
+    },
+    {
+      "id": "47e61de9a28062eb",
+      "title": "Survivor contest picks, predictions, advice, strategy: Best Week 7 NFL selections",
+      "link": "https://sports.yahoo.com/nfl/betting/article/survivor-contest-picks-predictions-advice-strategy-best-week-7-nfl-selections-172121443.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T17:21:21+0000",
+      "summary": "Matt Russell runs through NFL survivor contest Week 7 strategy and a few games to target."
+    },
+    {
+      "id": "34d2233dfcba1687",
+      "title": "Former Vol assigned new uniform number after signing with Browns' practice squad",
+      "link": "https://volswire.usatoday.com/story/sports/college/volunteers/football/2025/10/15/former-vol-dee-williams-signs-with-cleveland-browns-practice-squad-after-tryout/86708715007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T17:15:08+0000",
+      "summary": "Former Vol assigned a new uniform number after signing with Cleveland's practice squad in the NFL."
+    },
+    {
+      "id": "0036e341f64f2fcb",
+      "title": "Charles Leno Jr. Retires from NFL on 2-Year Anniversary of Family Tragedy: 'It Changed What Matters Most to Me'",
+      "link": "https://people.com/charles-leno-jr-retires-nfl-2-year-anniversary-family-tragedy-11830125",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T17:14:25+0000",
+      "summary": "The longtime NFL lineman said &quot;something in me shifted&quot; after the 2023 miscarriage, leading to his retirement announcement this week"
+    },
+    {
+      "id": "3ebb314a9426dedd",
+      "title": "NFL insider reveals Rashee Rice's expected workload for Chiefs as Andy Reid plays coy",
+      "link": "https://sportingnews.com/us/nfl/kansas-city-chiefs/news/nfl-insider-rashee-rices-expected-workload-chiefs-andy-reid-plays-coy/c034087002878ed99c4f41ed",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T17:10:24+0000",
+      "summary": "Kansas City Chiefs head coach Andy Reid wouldn't go into specifics about how much work wide receiver Rashee Rice will get in his first game back from suspension, but an ESPN insider did."
     },
     {
       "id": "e46dd1b32f60e592",
@@ -36,33 +90,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-15T16:43:23+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ quarterback picture is gaining clarity. For now. Rookie Riley Leonard is Daniel Jones’ backup for Sunday’s visit to the Los Angeles Chargers, the second straight game the sixth-round draft pick will be one play away from running the NFL’s top-scoring offense. The Colts are signing Brett Rypien to the practice [...]"
-    },
-    {
-      "id": "de72c11f757426fd",
-      "title": "Rodgers, Flacco happy to be part of 'Icy Hot bowl'",
-      "link": "https://espn.com/nfl/story/_/id/46596773/steelers-rodgers-bengals-flacco-rare-matchup-qbs-40s",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T14:44:21+0000",
-      "summary": "In Thursday night's Steelers-Bengals matchup, Aaron Rodgers and Joe Flacco will become just the second pair of opposing quarterbacks 40 or older in NFL history to start a regular or postseason game against each other."
-    },
-    {
-      "id": "204d52453797b441",
-      "title": "Ex-NFL OL Leno retires on solemn anniversary",
-      "link": "https://espn.com/nfl/story/_/id/46596940/former-nfl-ol-charles-leno-jr-retires-solemn-anniversary",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T14:44:21+0000",
-      "summary": "Former NFL offensive lineman Charles Leno Jr. announced his retirement on Tuesday -- two years to the day after his wife suffered a miscarriage."
-    },
-    {
-      "id": "94c3645b3233bf89",
-      "title": "📈 NFL Week 7 Power Rankings: 1-32",
-      "link": "https://espn.com/nfl/story/_/id/46521411/nfl-week-7-power-rankings-poll-32-teams-2025-biggest-lessons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T14:44:21+0000",
-      "summary": "We reshuffled the teams in our NFL Power Rankings ahead of Week 7. Plus, here are the biggest lessons for each roster so far this season."
     },
     {
       "id": "334d84e82f1d035b",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-09T17:51:32+0000",
       "summary": "The Colts Show Mailbag returns for Week 6 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
-    },
-    {
-      "id": "f02444ac9edc802e",
-      "title": "Colts announce fan events in Germany & Indy for 2025 Berlin game",
-      "link": "https://colts.com/news/falcons-vs-colts-berlin-watch-party-tickets-fan-events",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-09T14:00:00+0000",
-      "summary": "The Indianapolis Colts today announced several events leading into the NFL’s 2025 Berlin Game, where the Colts will host the Atlanta Falcons at historic Olympic Stadium in Berlin, Germany on Sun., Nov. 9."
-    },
-    {
-      "id": "1c1b725df12fa7a1",
-      "title": "Colts bringen Football-Fieber nach Berlin: FanZone-Programm und Events zur NFL Game Week stehen fest",
-      "link": "https://colts.com/news/nfl-colts-falcons-berlin-game-deutschland-2025-fanzone-programm-events-party",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-09T13:59:00+0000",
-      "summary": "Fans können sich auf tägliche Aktivierungen, Auftritte und Mitmach-Highlights rund um das Berlin Game freuen."
-    },
-    {
-      "id": "6b0d62ad416591e6",
-      "title": "Michael Badgley ready for second shot with Colts; Kenny Moore II dealing with Achilles rehab",
-      "link": "https://fox59.com/sports/colts/michael-badgley-ready-for-second-shot-with-colts-kenny-moore-ii-dealing-with-achilles-rehab/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-08T21:17:40+0000",
-      "summary": "INDIANAPOLIS – The routine has never really changed. Michael Badgley stays ready. For whatever. And for whenever. This week, the kicker-needy Indianapolis Colts dialed up a kicker in need of a job, and they undoubtedly had his number. This is Badgley’s third stint in Indy. The Colts signed him as an undrafted rookie out of [...]"
     }
   ],
   "links": [
