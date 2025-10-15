@@ -1,23 +1,68 @@
 {
-  "updated": "2025-10-15T10:44:42+00:00",
+  "updated": "2025-10-15T11:15:28+00:00",
   "items": [
     {
-      "id": "586e8db7c87027ab",
-      "title": "Ex-NFL QB believes rookie duo will lead New York Giants back to Super Bowl",
-      "link": "https://giantswire.usatoday.com/story/sports/nfl/giants/2025/10/15/ex-nfl-qb-believes-rookie-duo-will-lead-new-york-giants-back-super-bowl/86701693007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-15T10:26:01+0000",
-      "summary": "One former NFL quarterback believes QB Jaxson Dart and RB Cam Skattebo will eventually return Super Bowl glory to the New York Giants."
+      "id": "de72c11f757426fd",
+      "title": "Rodgers, Flacco happy to be part of 'Icy Hot bowl'",
+      "link": "https://espn.com/nfl/story/_/id/46596773/steelers-rodgers-bengals-flacco-rare-matchup-qbs-40s",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-15T12:10:43+0000",
+      "summary": "In Thursday night's Steelers-Bengals matchup, Aaron Rodgers and Joe Flacco will become just the second pair of opposing quarterbacks 40 or older in NFL history to start a regular or postseason game against each other."
     },
     {
-      "id": "db3b4f190a8d2102",
-      "title": "Updated 2026 NFL mock draft has New York Jets selecting QB at No. 1 overall",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/15/2026-nfl-mock-draft-quarterback-new-york-jets/86653334007/",
+      "id": "204d52453797b441",
+      "title": "Ex-NFL OL Leno retires on solemn anniversary",
+      "link": "https://espn.com/nfl/story/_/id/46596940/former-nfl-ol-charles-leno-jr-retires-solemn-anniversary",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-15T12:10:43+0000",
+      "summary": "Former NFL offensive lineman Charles Leno Jr. announced his retirement on Tuesday -- two years to the day after his wife suffered a miscarriage."
+    },
+    {
+      "id": "334d84e82f1d035b",
+      "title": "Fernando Mendoza at No. 1 ... to the Jets? Reid predicts Round 1 in his midseason NFL mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46583887/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-15T11:24:22+0000",
+      "summary": "How many QBs could go in Round 1? How high might Rueben Bain Jr. go? Will the Buckeyes run Day 1? Let's project the first 32 picks for April."
+    },
+    {
+      "id": "6760e7934782c784",
+      "title": "Despite chaos around him, Commanders' rookie defender is playing at an elite level",
+      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/10/15/washington-commanders-trey-amos-thriving-amidst-chaos/86701920007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-15T10:08:23+0000",
-      "summary": "The Jets are on pace for the No. 1 overall pick after falling to 0-6 last Sunday. Here are our latest projections for Round 1 in our 2026 NFL mock draft."
+      "published": "2025-10-15T11:04:21+0000",
+      "summary": "Washington Commanders rookie CB Trey Amos is playing at an elite level early in his NFL career."
+    },
+    {
+      "id": "ab3b694a39c5cbff",
+      "title": "All 32 NFL teams (including the Broncos) ranked by FPI ratings",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/10/15/nfl-teams-broncos-ranked-fpi-ratings/86691366007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T11:01:46+0000",
+      "summary": "ESPN has the Broncos ranked ninth in the NFL with a 2.0 FPI rating going into Week 7."
+    },
+    {
+      "id": "8c25522d9ad9571a",
+      "title": "How competitive can the Colts be in a suddenly less daunting AFC?",
+      "link": "https://stampedeblue.com/analysis/116229/how-competitive-can-the-colts-be-in-a-suddenly-less-daunting-afc",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-15T10:56:29+0000",
+      "summary": "One of the things that may have made the last 6 &#8211; 8 years of midland results somewhat bearable, is the fact that even on our good days, it was hard to see us advancing in a loaded AFC. If the beast that has been the Chiefs were going to be dethroned, it was a [&#8230;]"
+    },
+    {
+      "id": "f85925e357132907",
+      "title": "7 potential Lions targets ahead of the NFL trade deadline",
+      "link": "https://lionswire.usatoday.com/story/sports/nfl/lions/2025/10/15/detroit-lions-potential-trade-targets-nfl-trade-deadline/86687881007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T10:48:25+0000",
+      "summary": "Plucked from Adam Schefter's recent list of players who could be available, these 7 make sense if the Lions are looking to make a deal"
     },
     {
       "id": "30e5a45aa996c962",
@@ -27,24 +72,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-15T04:43:27+0000",
       "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
-    },
-    {
-      "id": "de72c11f757426fd",
-      "title": "Rodgers, Flacco happy to be part of 'Icy Hot bowl'",
-      "link": "https://espn.com/nfl/story/_/id/46596773/steelers-rodgers-bengals-flacco-rare-matchup-qbs-40s",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T03:10:19+0000",
-      "summary": "In Thursday night's Steelers-Bengals matchup, Aaron Rodgers and Joe Flacco will become just the second pair of opposing quarterbacks 40 or older in NFL history to start a regular or postseason game against each other."
-    },
-    {
-      "id": "204d52453797b441",
-      "title": "Ex-NFL OL Leno retires on solemn anniversary",
-      "link": "https://espn.com/nfl/story/_/id/46596940/former-nfl-ol-charles-leno-jr-retires-solemn-anniversary",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T03:10:19+0000",
-      "summary": "Former NFL offensive lineman Charles Leno Jr. announced his retirement on Tuesday -- two years to the day after his wife suffered a miscarriage."
     },
     {
       "id": "94c3645b3233bf89",
@@ -234,15 +261,6 @@
       "feed": "Colts.com",
       "published": "2025-10-13T19:06:16+0000",
       "summary": "Beginning this week, Colts Ring of Honor wide receiver Bill Brooks will offer his viewpoint of the Colts' most recent game, from major storylines to key plays. In this week's column, Bill looks at how the Colts handled two teammates sustaining injuries in pregame warm-ups, plus a massive play on defense in the first half."
-    },
-    {
-      "id": "1a9db2f099ba80cd",
-      "title": "Colts’ Monday Morning Awards: Week 5 vs. Cardinals",
-      "link": "https://stampedeblue.com/analysis/116178/colts-monday-morning-awards-week-5-vs-cardinals",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-13T16:43:36+0000",
-      "summary": "5-1. Good teams beat down bad teams, but another thing good teams manage to do is win when they are not at their best, and the Colts managed to do just that against the Cardinals. The game was not pretty, perhaps the worst game I have seen from the team this season, but they managed [&#8230;]"
     },
     {
       "id": "f17cda2caea9fc50",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-08T20:43:52+0000",
       "summary": "By kicking in 12 games for the Colts in 2021, Badgley already has well-established relationships with long snapper Luke Rhodes and punter Rigoberto Sanchez that will make his integration into the team “a lot smoother.”"
-    },
-    {
-      "id": "daf0cd1e00172b1e",
-      "title": "How are Colts scoring so many points? It starts on first down",
-      "link": "https://colts.com/news/how-are-colts-scoring-so-many-points-it-starts-on-first-down",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-08T19:29:20+0000",
-      "summary": "Only one Indianapolis Colts team has scored more points through the first five games of a season than the 2025 Colts. Here's one big reason why this year's Colts have had so much success putting up points."
-    },
-    {
-      "id": "16b599a8cd173309",
-      "title": "Linebacker Germaine Pratt 'couldn't wait' to reunite with Colts defensive coordinator Lou Anarumo",
-      "link": "https://colts.com/news/linebacker-germaine-pratt-couldn-t-wait-to-reunite-with-colts-defensive-coordinator-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-08T19:02:36+0000",
-      "summary": "Pratt spent the first six seasons of his career playing for Anarumo with the Cincinnati Bengals."
     }
   ],
   "links": [
