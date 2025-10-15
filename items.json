@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-15T19:14:20+00:00",
+  "updated": "2025-10-15T19:36:46+00:00",
   "items": [
+    {
+      "id": "f54a553a73bf3d22",
+      "title": "Chiefs WR Rice practices, to play vs. Raiders",
+      "link": "https://espn.com/nfl/story/_/id/46606730/chiefs-wr-rashee-rice-practices-play-vs-raiders",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-15T20:11:54+0000",
+      "summary": "Rashee Rice, the Chiefs' No. 1 receiver, participated in his first practice since finishing his six-game suspension for violating the NFL's personal conduct policy. Before practice, Andy Reid said Rice will make his season debut Sunday vs. the Raiders."
+    },
     {
       "id": "94c3645b3233bf89",
       "title": "📈 NFL Week 7 Power Rankings: 1-32",
       "link": "https://espn.com/nfl/story/_/id/46521411/nfl-week-7-power-rankings-poll-32-teams-2025-biggest-lessons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-15T19:58:27+0000",
+      "published": "2025-10-15T20:11:54+0000",
       "summary": "We reshuffled the teams in our NFL Power Rankings ahead of Week 7. Plus, here are the biggest lessons for each roster so far this season."
     },
     {
@@ -20,6 +29,24 @@
       "summary": "Are the Eagles worried about their offense? What's next for the Titans after firing Brian Callahan? And could the 49ers be active at the trade deadline?"
     },
     {
+      "id": "4fb157856eec178e",
+      "title": "Riley Leonard leaning on connection with Daniel Jones in preparing to be Colts' backup quarterback for Week 7",
+      "link": "https://colts.com/news/riley-leonard-connection-daniel-jones-quarterbacks-duke-colts-backup-anthony-richardson-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-15T19:13:41+0000",
+      "summary": "Shane Steichen said Leonard will be the backup quarterback behind Jones for the Colts’ Week 7 game against the Los Angeles Chargers."
+    },
+    {
+      "id": "e3e13b7b850846a3",
+      "title": "NFL Week 7 television maps: Washington Commanders vs. Dallas Cowboys",
+      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/10/15/washington-commanders-cowboys-nfl-week-7-tv-maps/86710690007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-15T19:10:44+0000",
+      "summary": "The NFL television maps are out and if you're in the red area, you'll get the Washington Commanders and Dallas Cowboys on your local FOX channel."
+    },
+    {
       "id": "62d8f7b399e1c745",
       "title": "NFL insider reports 49ers could target WR help amid plethora of injuries",
       "link": "https://sportingnews.com/us/nfl/san-francisco-49ers/news/nfl-insider-reports-49ers-could-target-wr-help-amid-injuries/4888607a900dd403789f2e4f",
@@ -27,33 +54,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-15T19:01:58+0000",
       "summary": "The 49ers are banged up and could add some more offensive firepower by the trade deadline."
-    },
-    {
-      "id": "6d63635ececbda13",
-      "title": "What could Dolphins get for Bradley Chubb, Jaelan Phillips before NFL trade deadline?",
-      "link": "https://dolphinswire.usatoday.com/story/sports/nfl/dolphins/2025/10/15/dolphins-bradley-chubb-jaelan-phillips-trade-deadline-value/86709671007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-15T18:58:57+0000",
-      "summary": "NFL teams are reportedly calling to inquire about two Dolphins pass rushers. What is their value on the market?"
-    },
-    {
-      "id": "3b40400a1c7d855b",
-      "title": "NFL Survivor Picks & Best Bets for Week 7",
-      "link": "https://covers.com/nfl/survivor-picks-week-7-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-15T18:57:00+0000",
-      "summary": "Survivor pools continue to tighten, but Jason Logan breaks down why Mike Vrabel’s Patriots are set for a layup in Nashville."
-    },
-    {
-      "id": "e65e11e153c5b29b",
-      "title": "Former NFL star asks fans for kidney donation: 'I want to be open'",
-      "link": "https://abcnews.go.com/GMA/Culture/former-nfl-star-asks-fans-kidney-donation-open/story?id=126546095",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-15T18:52:38+0000",
-      "summary": "Nick Mangold played 11 seasons with the New York Jets."
     },
     {
       "id": "334d84e82f1d035b",
@@ -72,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-10-15T18:47:00+0000",
       "summary": "Including four quarterbacks and one really good running back. See who makes the list."
-    },
-    {
-      "id": "62a4a2a5e1edac51",
-      "title": "Buffalo Bills Linked to Trade to Finally Get True Stefon Diggs Replacement",
-      "link": "https://sportsnaut.com/nfl/bills-chris-olave-trade-possibility",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-15T18:45:47+0000",
-      "summary": "NFL trade season is heating up, and a notable Buffalo Bills reporter believes one specific stud wide receiver should be"
     },
     {
       "id": "783e945e6a7393e7",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-09T14:00:00+0000",
       "summary": "The Indianapolis Colts today announced several events leading into the NFL’s 2025 Berlin Game, where the Colts will host the Atlanta Falcons at historic Olympic Stadium in Berlin, Germany on Sun., Nov. 9."
+    },
+    {
+      "id": "1c1b725df12fa7a1",
+      "title": "Colts bringen Football-Fieber nach Berlin: FanZone-Programm und Events zur NFL Game Week stehen fest",
+      "link": "https://colts.com/news/nfl-colts-falcons-berlin-game-deutschland-2025-fanzone-programm-events-party",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T13:59:00+0000",
+      "summary": "Fans können sich auf tägliche Aktivierungen, Auftritte und Mitmach-Highlights rund um das Berlin Game freuen."
     }
   ],
   "links": [
