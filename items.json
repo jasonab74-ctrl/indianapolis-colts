@@ -1,14 +1,14 @@
 {
-  "updated": "2025-10-15T04:42:40+00:00",
+  "updated": "2025-10-15T05:17:36+00:00",
   "items": [
     {
-      "id": "da78bb98333b3151",
-      "title": "Commanders to host former first-round wide receiver on a free-agent visit",
-      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/10/14/washington-commanders-host-treylon-burks/86700874007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-15T03:45:09+0000",
-      "summary": "The Washington Commanders could be looking to add another former high pick from the 2022 NFL draft."
+      "id": "30e5a45aa996c962",
+      "title": "Colts’ Week 6 QB Analysis: Another successful game",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/116231/colts-week-6-qb-analysis-another-successful-game",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-15T04:43:27+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "de72c11f757426fd",
@@ -252,15 +252,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-13T13:36:17+0000",
       "summary": "The Indianapolis Colts didn't play their best but improved to 5-1 after topping the Arizona Cardinals at Lucas Oil Stadium. Matt Adams recaps the 31-27 win in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "499cc25c091b9d93",
-      "title": "Colts pass rush with season-best performance against Cardinals",
-      "link": "https://stampedeblue.com/analysis/116195/colts-pass-rush-with-season-best-performance-against-cardinals",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-13T11:00:00+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts’ pass rush through five weeks had been touted as a struggling unit that lacked consistency. This unit has been getting the job done, but a below-average pressure percentage (T-21st) and league-worst (T-31st) get-off rate has raised questions as to whether or not this group has enough juice to last [&#8230;]"
     },
     {
       "id": "ad9801e3cc37afe7",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-08T16:06:47+0000",
       "summary": "The Colts signed LB Germaine Pratt and placed Bachie on injured reserve Wednesday."
+    },
+    {
+      "id": "21de33d2479db18a",
+      "title": "Colts sign LB Germaine Pratt",
+      "link": "https://colts.com/news/colts-sign-lb-germaine-pratt",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-08T15:29:42+0000",
+      "summary": "Pratt joins the Colts after playing for defensive coordinator Lou Anarumo with the Cincinnati Bengals from 2019-2024."
     }
   ],
   "links": [
