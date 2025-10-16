@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-16T12:39:16+00:00",
+  "updated": "2025-10-16T13:29:53+00:00",
   "items": [
+    {
+      "id": "157a2845d8450050",
+      "title": "Barnwell pitches 13 pre-deadline trades: How the Lions, Chargers, Colts and even Giants can get better",
+      "link": "https://espn.com/nfl/story/_/id/46599869/2025-nfl-trade-deadline-barnwell-offers-proposals-hendrickson-phillips-wilson-meyers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-16T14:25:50+0000",
+      "summary": "Jakobi Meyers to the NFC East? Trey Hendrickson and Jaelan Phillips to the same team? Russell Wilson to a contender? Let's build 13 win-win trades."
+    },
     {
       "id": "b1d1e577a034da09",
       "title": "Checking in on five NFL starting QBs with new teams: The good, the bad and what comes next",
@@ -9,6 +18,15 @@
       "feed": "ESPN",
       "published": "2025-10-16T13:26:48+0000",
       "summary": "Sam Darnold, Justin Fields, Daniel Jones, Aaron Rodgers and Geno Smith all landed with new teams this season. How are things going after six weeks?"
+    },
+    {
+      "id": "3dc8b8640b0c7d5c",
+      "title": "Rams-Jaguars picks: Who do experts think will win Week 7 showdown in London?",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/16/rams-jaguars-picks-who-do-experts-think-will-win-week-7-showdown/86722761007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-16T13:11:43+0000",
+      "summary": "The Los Angeles Rams are looking to go 5-2 to start the 2025 NFL season."
     },
     {
       "id": "b3d40aa899bbdeda",
@@ -20,15 +38,6 @@
       "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL. games."
     },
     {
-      "id": "157a2845d8450050",
-      "title": "Barnwell pitches 13 pre-deadline trades: How the Lions, Chargers, Colts and even Giants can get better",
-      "link": "https://espn.com/nfl/story/_/id/46599869/2025-nfl-trade-deadline-barnwell-offers-proposals-hendrickson-phillips-wilson-meyers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-16T13:06:17+0000",
-      "summary": "Jakobi Meyers to the NFC East? Trey Hendrickson and Jaelan Phillips to the same team? Russell Wilson to a contender? Let's build 13 win-win trades."
-    },
-    {
       "id": "5063da0dac68d3ff",
       "title": "Kiper's debut 2026 Big Board: Ranking the top 25 NFL draft prospects",
       "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
@@ -38,15 +47,6 @@
       "summary": "Including four quarterbacks and one really good running back. See who makes the list."
     },
     {
-      "id": "4ac440768ca36786",
-      "title": "NFL power rankings one-third of the way through the season",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-one-third-of-the-way-through-the-season-123229456.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T12:32:29+0000",
-      "summary": "In today's edition: NFL power rankings, Blue Jays avoid 3-0 hole, Mammoth unveil mascot, the growing college hoops divide, Pope Leo claps back, and more."
-    },
-    {
       "id": "4fec0aa4759f1fd0",
       "title": "Behind Colts' record-setting offense is a sneaky roster-building foundation",
       "link": "https://colts.com/news/behind-colts-record-setting-offense-is-a-sneaky-roster-building-foundation",
@@ -54,33 +54,6 @@
       "feed": "Colts.com",
       "published": "2025-10-16T12:30:12+0000",
       "summary": "Nearly every Colts rushing and receiving yard – and every snap taken by an offensive lineman – has come from a player the team either drafted or signed as an undrafted free agent."
-    },
-    {
-      "id": "4f8cb102eed2d5af",
-      "title": "Patriots trade rumor refutes common belief about New England's deadline plans",
-      "link": "https://sportingnews.com/us/nfl/new-england-patriots/news/patriots-trade-rumor-refutes-common-belief-new-englands-deadline-plans/45c1bf616e783c6c9a04cf62",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T12:24:26+0000",
-      "summary": "Many believe the New England Patriots will target a wide receiver at the 2025 NFL trade deadline next month, but one NFL insider is pumping the brakes on that notion."
-    },
-    {
-      "id": "fd681b032faccb3a",
-      "title": "'Battle of the uncs': How Aaron Rodgers vs. Joe Flacco 'TNF' matchup makes NFL age history",
-      "link": "https://usatoday.com/story/sports/nfl/steelers/2025/10/16/aaron-rogers-joe-flacco-oldest-nfl-qbs/86718385007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T12:17:44+0000",
-      "summary": "Aaron Rogers, 41, and Joe Flacco, 40 meet on 'Thursday Night Football' as the NFL's second pairing of 40-something QBs."
-    },
-    {
-      "id": "65d35f11e244326a",
-      "title": "Colts vs. Chargers TV map: Will Week 7 game be televised in your area?",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/16/week-7-nfl-tv-broadcast-map-colts-chargers-tv/86721988007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T12:10:15+0000",
-      "summary": "Will the Indianapolis Colts vs. the LA Chargers Week 7 matchup be on TV in your area? Let's take a look."
     },
     {
       "id": "473d66820ed0cc1d",
@@ -155,9 +128,9 @@
       "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
     },
     {
-      "id": "e46dd1b32f60e592",
+      "id": "d1b13910920bec8c",
       "title": "For now, Riley Leonard is Daniel Jones’ backup; Colts signing Brett Rypien",
-      "link": "https://fox59.com/sports/for-now-riley-leonard-is-daniel-jones-backup-colts-signing-brett-rypien/",
+      "link": "https://fox59.com/sports/colts/for-now-riley-leonard-is-daniel-jones-backup-colts-signing-brett-rypien/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-15T16:43:23+0000",
@@ -200,9 +173,9 @@
       "summary": "Should the Dolphins, Titans or Ravens make coaching changes? Is it time for a QB switch for the Jets? Might the Eagles consider moves in their secondary?"
     },
     {
-      "id": "d7af2237c4f32e2f",
+      "id": "12c9eb2ea264e242",
       "title": "Colts plan on signing QB Brett Rypien to practice squad",
-      "link": "https://fox59.com/news/colts-plan-on-signing-qb-brett-rypien-to-practice-squad/",
+      "link": "https://fox59.com/sports/colts/colts-plan-on-signing-qb-brett-rypien-to-practice-squad/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-14T23:47:31+0000",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-10-09T18:53:55+0000",
       "summary": "The Indianapolis Colts (4-1) host the Arizona Cardinals (2-3) as they try to maintain their position in the AFC South. The Cardinals are struggling with injuries while the Colts are flying high with a dynamic offense and solid defense. Dave Griffiths, Mike Chappell and Matt Adams preview the game in the latest edition of the [...]"
+    },
+    {
+      "id": "589519d4eecf7428",
+      "title": "The Colts Show Mailbag: One way Lou Anaumo's defense prepped Colts' offense, replacing Spencer Shrader, backup O-line",
+      "link": "https://colts.com/news/the-colts-show-mailbag-one-way-lou-anaumo-s-defense-prepped-colts-offense-replacing-spencer-shrader-backup-o-line",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T17:51:32+0000",
+      "summary": "The Colts Show Mailbag returns for Week 6 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "f02444ac9edc802e",
+      "title": "Colts announce fan events in Germany & Indy for 2025 Berlin game",
+      "link": "https://colts.com/news/falcons-vs-colts-berlin-watch-party-tickets-fan-events",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T14:00:00+0000",
+      "summary": "The Indianapolis Colts today announced several events leading into the NFL’s 2025 Berlin Game, where the Colts will host the Atlanta Falcons at historic Olympic Stadium in Berlin, Germany on Sun., Nov. 9."
+    },
+    {
+      "id": "1c1b725df12fa7a1",
+      "title": "Colts bringen Football-Fieber nach Berlin: FanZone-Programm und Events zur NFL Game Week stehen fest",
+      "link": "https://colts.com/news/nfl-colts-falcons-berlin-game-deutschland-2025-fanzone-programm-events-party",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T13:59:00+0000",
+      "summary": "Fans können sich auf tägliche Aktivierungen, Auftritte und Mitmach-Highlights rund um das Berlin Game freuen."
     }
   ],
   "links": [
