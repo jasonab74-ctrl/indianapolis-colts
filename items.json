@@ -1,23 +1,86 @@
 {
-  "updated": "2025-10-16T11:37:34+00:00",
+  "updated": "2025-10-16T12:39:16+00:00",
   "items": [
     {
-      "id": "888feb9e2e43e625",
-      "title": "This Week in Sports Trivia: October 16, 2025",
-      "link": "https://sports.yahoo.com/article/week-sports-trivia-october-16-111605848.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T11:16:05+0000",
-      "summary": "Football is a physical sport and sometimes players lose their cool. That’s what happened on Sunday, when Detroit Lions defensive back Brian Branch, apparently upset about being blocked in the back by a Kansas City Chiefs player late in the game, went after his opponent, smacking him in the back of the head and precipitating a brawl. Pretty much everyone was upset at Branch’s actions, including his coach Dan Campbell, and Branch later fessed up that he had been “childish.” The NFL agreed, suspend"
+      "id": "b1d1e577a034da09",
+      "title": "Checking in on five NFL starting QBs with new teams: The good, the bad and what comes next",
+      "link": "https://espn.com/nfl/story/_/id/46603629/nfl-quarterbacks-2025-season-free-agents-trades-darnold-fields-jones-rodgers-smith",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-16T13:26:48+0000",
+      "summary": "Sam Darnold, Justin Fields, Daniel Jones, Aaron Rodgers and Geno Smith all landed with new teams this season. How are things going after six weeks?"
     },
     {
-      "id": "b034c07ac3bb831c",
-      "title": "Cam Ward on coaching change: My job is to play QB, support any decision we make",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-on-coaching-change-my-job-is-to-play-qb-support-any-decision-we-make",
+      "id": "b3d40aa899bbdeda",
+      "title": "The Playbook: Lineup locks, Shadow Reports for Week 7",
+      "link": "https://espn.com/fantasy/football/story/_/id/46603455/nfl-fantasy-football-2025-playbook-projections-win-probabilities-week-7-shadow-reports-mike-clay",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-16T13:08:24+0000",
+      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL. games."
+    },
+    {
+      "id": "157a2845d8450050",
+      "title": "Barnwell pitches 13 pre-deadline trades: How the Lions, Chargers, Colts and even Giants can get better",
+      "link": "https://espn.com/nfl/story/_/id/46599869/2025-nfl-trade-deadline-barnwell-offers-proposals-hendrickson-phillips-wilson-meyers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-16T13:06:17+0000",
+      "summary": "Jakobi Meyers to the NFC East? Trey Hendrickson and Jaelan Phillips to the same team? Russell Wilson to a contender? Let's build 13 win-win trades."
+    },
+    {
+      "id": "5063da0dac68d3ff",
+      "title": "Kiper's debut 2026 Big Board: Ranking the top 25 NFL draft prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-16T12:53:47+0000",
+      "summary": "Including four quarterbacks and one really good running back. See who makes the list."
+    },
+    {
+      "id": "4ac440768ca36786",
+      "title": "NFL power rankings one-third of the way through the season",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-one-third-of-the-way-through-the-season-123229456.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-16T11:12:44+0000",
-      "summary": "Titans quarterback Cam Ward moved onto the second head coach of his brief NFL career when the team fired Brian Callahan and replaced him with Mike McCoy this week, but he said on Wednesday that the change isn't going to create much upheaval for him."
+      "published": "2025-10-16T12:32:29+0000",
+      "summary": "In today's edition: NFL power rankings, Blue Jays avoid 3-0 hole, Mammoth unveil mascot, the growing college hoops divide, Pope Leo claps back, and more."
+    },
+    {
+      "id": "4fec0aa4759f1fd0",
+      "title": "Behind Colts' record-setting offense is a sneaky roster-building foundation",
+      "link": "https://colts.com/news/behind-colts-record-setting-offense-is-a-sneaky-roster-building-foundation",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-16T12:30:12+0000",
+      "summary": "Nearly every Colts rushing and receiving yard – and every snap taken by an offensive lineman – has come from a player the team either drafted or signed as an undrafted free agent."
+    },
+    {
+      "id": "4f8cb102eed2d5af",
+      "title": "Patriots trade rumor refutes common belief about New England's deadline plans",
+      "link": "https://sportingnews.com/us/nfl/new-england-patriots/news/patriots-trade-rumor-refutes-common-belief-new-englands-deadline-plans/45c1bf616e783c6c9a04cf62",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-16T12:24:26+0000",
+      "summary": "Many believe the New England Patriots will target a wide receiver at the 2025 NFL trade deadline next month, but one NFL insider is pumping the brakes on that notion."
+    },
+    {
+      "id": "fd681b032faccb3a",
+      "title": "'Battle of the uncs': How Aaron Rodgers vs. Joe Flacco 'TNF' matchup makes NFL age history",
+      "link": "https://usatoday.com/story/sports/nfl/steelers/2025/10/16/aaron-rogers-joe-flacco-oldest-nfl-qbs/86718385007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-16T12:17:44+0000",
+      "summary": "Aaron Rogers, 41, and Joe Flacco, 40 meet on 'Thursday Night Football' as the NFL's second pairing of 40-something QBs."
+    },
+    {
+      "id": "65d35f11e244326a",
+      "title": "Colts vs. Chargers TV map: Will Week 7 game be televised in your area?",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/16/week-7-nfl-tv-broadcast-map-colts-chargers-tv/86721988007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-16T12:10:15+0000",
+      "summary": "Will the Indianapolis Colts vs. the LA Chargers Week 7 matchup be on TV in your area? Let's take a look."
     },
     {
       "id": "473d66820ed0cc1d",
@@ -38,15 +101,6 @@
       "summary": "Per the league transaction wire, the Indianapolis Colts waived former starting linebacker Joe Bachie (foot) off of injured reserve. Signed by the Colts this past offseason to 1-year, $1.2 million deal, the former Cincinnati Bengals core special teamer reunited with defensive coordinator Lou Anarumo in Indianapolis. Only with the Colts’ lack of proven linebacker options [&#8230;]"
     },
     {
-      "id": "94c3645b3233bf89",
-      "title": "📈 NFL Week 7 Power Rankings: 1-32",
-      "link": "https://espn.com/nfl/story/_/id/46521411/nfl-week-7-power-rankings-poll-32-teams-2025-biggest-lessons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-16T01:44:25+0000",
-      "summary": "We reshuffled the teams in our NFL Power Rankings ahead of Week 7. Plus, here are the biggest lessons for each roster so far this season."
-    },
-    {
       "id": "a0e56a5f511b9eb8",
       "title": "Indianapolis Colts Injury Report: CB Moore Returns To Practice",
       "link": "https://stampedeblue.com/indianapolis-colts-news/116343/indianapolis-colts-injury-report-cb-moore-returns-to-practice",
@@ -63,15 +117,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-16T00:23:10+0000",
       "summary": "In times like these, I remind myself that the NFL is the ultimate “week-to-week league”. It does not matter if you are 0-5 or 5-0, you can get beat every single Sunday if you aren’t at your best. If you’re an NFL fan or tune in to a press conference, you’ve heard every cliche in [&#8230;]"
-    },
-    {
-      "id": "df8594ded83509cf",
-      "title": "Get ahead of Week 8 bye-mageddon by stashing these players today",
-      "link": "https://espn.com/fantasy/football/story/_/id/46607981/fantasy-football-waiver-wire-adds-bye-week-fills",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T22:51:43+0000",
-      "summary": "Stash these players ahead of Week 8, when six NFL teams' worth of fantasy football stars will be on bye."
     },
     {
       "id": "366ae5fecaf22155",
@@ -99,24 +144,6 @@
       "feed": "Colts.com",
       "published": "2025-10-15T19:13:41+0000",
       "summary": "Shane Steichen said Leonard will be the backup quarterback behind Jones for the Colts’ Week 7 game against the Los Angeles Chargers."
-    },
-    {
-      "id": "334d84e82f1d035b",
-      "title": "QB at No. 1 -- but not No. 2? We predicted the entire first round of the 2026 NFL draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46583887/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T18:47:01+0000",
-      "summary": "How many QBs could go in Round 1? How high might Rueben Bain Jr. go? Will the Buckeyes run Day 1? Let's project the first 32 picks for April."
-    },
-    {
-      "id": "5063da0dac68d3ff",
-      "title": "Kiper's debut 2026 Big Board: Ranking the top 25 NFL draft prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-15T18:47:00+0000",
-      "summary": "Including four quarterbacks and one really good running back. See who makes the list."
     },
     {
       "id": "783e945e6a7393e7",
@@ -252,15 +279,6 @@
       "feed": "Colts.com",
       "published": "2025-10-14T14:35:16+0000",
       "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "189dc8b34b491566",
-      "title": "'That sucks': Who said it? Test your knowledge in the NFL Week 6 quote quiz",
-      "link": "https://espn.com/nfl/story/_/id/46585863/browns-steelers-rams-ravens-chargers-dolphins-patriots-jaguars-jets-week-6-2025-quotes-quiz",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-14T14:20:56+0000",
-      "summary": "Week 6 in the NFL offered up-front quotes and self-reflection. Put your knowledge to the test with our quote quiz."
     },
     {
       "id": "429036cd98c5edaa",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-09T18:53:55+0000",
       "summary": "The Indianapolis Colts (4-1) host the Arizona Cardinals (2-3) as they try to maintain their position in the AFC South. The Cardinals are struggling with injuries while the Colts are flying high with a dynamic offense and solid defense. Dave Griffiths, Mike Chappell and Matt Adams preview the game in the latest edition of the [...]"
-    },
-    {
-      "id": "589519d4eecf7428",
-      "title": "The Colts Show Mailbag: One way Lou Anaumo's defense prepped Colts' offense, replacing Spencer Shrader, backup O-line",
-      "link": "https://colts.com/news/the-colts-show-mailbag-one-way-lou-anaumo-s-defense-prepped-colts-offense-replacing-spencer-shrader-backup-o-line",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-09T17:51:32+0000",
-      "summary": "The Colts Show Mailbag returns for Week 6 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
-    },
-    {
-      "id": "f02444ac9edc802e",
-      "title": "Colts announce fan events in Germany & Indy for 2025 Berlin game",
-      "link": "https://colts.com/news/falcons-vs-colts-berlin-watch-party-tickets-fan-events",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-09T14:00:00+0000",
-      "summary": "The Indianapolis Colts today announced several events leading into the NFL’s 2025 Berlin Game, where the Colts will host the Atlanta Falcons at historic Olympic Stadium in Berlin, Germany on Sun., Nov. 9."
     }
   ],
   "links": [
