@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-16T08:49:29+00:00",
+  "updated": "2025-10-16T09:20:13+00:00",
   "items": [
+    {
+      "id": "8456adc74c4e532a",
+      "title": "What Bill Belichick can learn from Deion Sanders as a college football coach",
+      "link": "https://usatoday.com/story/sports/ncaaf/2025/10/16/deion-sanders-bill-belichick-comparison-colorado-football-north-carolina-coach-prime/86699048007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-16T08:46:09+0000",
+      "summary": "Bill Belichick and Deion Sanders are NFL legends who started new career chapters in college coaching. Why one has succeeded so far and one has not."
+    },
     {
       "id": "d53018ce74993ff0",
       "title": "What does MVP talk mean to Daniel Jones? 'Not much after six weeks'",
@@ -9,24 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-16T08:40:35+0000",
       "summary": "Jones has been one of the NFL's most surprising stories, but he has steadfastly refused to bask in his laurels so far."
-    },
-    {
-      "id": "c8805aa00c600789",
-      "title": "What channel is Bengals vs. Steelers on? Schedule, time, live stream to watch NFL 'Thursday Night Football' in Week 7",
-      "link": "https://sportingnews.com/us/nfl/news/bengals-steelers-channel-schedule-time-stream-nfl-thursday-night/16f34e84c5cab39eaf4fc66c",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T08:10:01+0000",
-      "summary": "Here is everything you need to know about Bengals vs. Steelers, including TV and streaming options for Thursday's game."
-    },
-    {
-      "id": "a33c8b187b3eb3de",
-      "title": "Why Brian Burns is out to prove he belongs with high school teammates turned Broncos stars",
-      "link": "https://northjersey.com/story/sports/nfl/giants/2025/10/16/brian-burns-new-york-giants-broncos-patrick-surtain-nik-bonitto/86687198007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T08:05:44+0000",
-      "summary": "Patrick Surtain II has talked about passing the NFL Defensive Player of the Year award to teammate Nik Bonitto. Brian Burns wants in the conversation."
     },
     {
       "id": "473d66820ed0cc1d",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-09T17:51:32+0000",
       "summary": "The Colts Show Mailbag returns for Week 6 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "f02444ac9edc802e",
+      "title": "Colts announce fan events in Germany & Indy for 2025 Berlin game",
+      "link": "https://colts.com/news/falcons-vs-colts-berlin-watch-party-tickets-fan-events",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T14:00:00+0000",
+      "summary": "The Indianapolis Colts today announced several events leading into the NFL’s 2025 Berlin Game, where the Colts will host the Atlanta Falcons at historic Olympic Stadium in Berlin, Germany on Sun., Nov. 9."
     }
   ],
   "links": [
