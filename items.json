@@ -1,50 +1,14 @@
 {
-  "updated": "2025-10-16T10:43:39+00:00",
+  "updated": "2025-10-16T11:15:34+00:00",
   "items": [
     {
-      "id": "b3396b9ba0131ea9",
-      "title": "NFL trade deadline: Mason Rudolph leads 3 Steelers who could be dealt soon",
-      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/10/16/steelers-trade-deadline-nfl-pat-freiermuth-alex-highsmith-mason-rudolph/86702722007/",
+      "id": "56b2ba2c0b9cdeb0",
+      "title": "2026 NFL mock draft: 3 QBs in top 4, but who goes where?",
+      "link": "https://ftw.usatoday.com/story/sports/nfl/2025/10/16/2026-nfl-mock-draft-order-fernando-mendoza-jets/86691704007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-16T10:30:51+0000",
-      "summary": "Here are three Pittsburgh Steelers who could be on the move ahead of the 2025 NFL trade deadline on November 4."
-    },
-    {
-      "id": "09a862fcd881ed60",
-      "title": "Who are the oldest players in NFL history? Tom Brady cracks top 10",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/16/oldest-players-nfl-history-active-former/86711285007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T10:30:39+0000",
-      "summary": "Fourteen players have played an NFL game at age 44 or older, and nine of them played past their 45th birthday."
-    },
-    {
-      "id": "d27237b2a6508cc4",
-      "title": "Thursday Night Football: How to watch the Pittsburgh Steelers vs. Cincinnati Bengals NFL game tonight",
-      "link": "https://sports.yahoo.com/nfl/article/thursday-night-football-how-to-watch-the-pittsburgh-steelers-vs-cincinnati-bengals-nfl-game-tonight-103001659.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T10:30:01+0000",
-      "summary": "Here's everything you need to know about tuning in for the longtime rivals' latest face-off."
-    },
-    {
-      "id": "9e7aa7671c68545d",
-      "title": "Steelers trade targets: 9 players Pittsburgh could pursue at NFL trade deadline",
-      "link": "https://usatoday.com/story/sports/nfl/2025/10/16/steelers-trade-targets-nfl-trade-deadline-rumors/86699847007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T10:08:22+0000",
-      "summary": "The Steelers could be looking for help at receiver ahead of the 2025 NFL trade deadline. Here's a look at who they could add to their roster."
-    },
-    {
-      "id": "007bb5d08cb0941c",
-      "title": "NFL world still buzzing over Bijan Robinson's big game vs. Bills",
-      "link": "https://thefalconswire.usatoday.com/story/sports/nfl/falcons/2025/10/16/falcons-bijan-robinson-nfl/86716616007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T10:07:48+0000",
-      "summary": "NFL world still buzzing over Falcons RB Bijan Robinson's big game vs. the Bills"
+      "published": "2025-10-16T11:05:56+0000",
+      "summary": "The Jets, Browns and Dolphins all get potential franchise QBs. So who's going where in our first 2026 NFL mock draft?"
     },
     {
       "id": "473d66820ed0cc1d",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2025-10-09T22:51:28+0000",
       "summary": "INDIANAPOLIS – The conversation eventually turned to a diverse offense that could test any receiver’s ability to keep his innate, selfish DNA in check; Michael Pittman Jr.’s sudden surge of touchdowns and not being the fastest man on the planet; and the rookie tight end’s impact on the NFL’s No. 2-ranked scoring offense. But first, [...]"
+    },
+    {
+      "id": "55ce94def5a41e63",
+      "title": "Colts Blue Zone Podcast 431: Colts Host Cardinals; New Kicker in Town",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-431-colts-host-cardinals-new-kicker-in-town/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-09T18:53:55+0000",
+      "summary": "The Indianapolis Colts (4-1) host the Arizona Cardinals (2-3) as they try to maintain their position in the AFC South. The Cardinals are struggling with injuries while the Colts are flying high with a dynamic offense and solid defense. Dave Griffiths, Mike Chappell and Matt Adams preview the game in the latest edition of the [...]"
+    },
+    {
+      "id": "589519d4eecf7428",
+      "title": "The Colts Show Mailbag: One way Lou Anaumo's defense prepped Colts' offense, replacing Spencer Shrader, backup O-line",
+      "link": "https://colts.com/news/the-colts-show-mailbag-one-way-lou-anaumo-s-defense-prepped-colts-offense-replacing-spencer-shrader-backup-o-line",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T17:51:32+0000",
+      "summary": "The Colts Show Mailbag returns for Week 6 as JJ Stankevitz answers listener, viewer and reader questions on both this week's podcast and Colts.com."
+    },
+    {
+      "id": "f02444ac9edc802e",
+      "title": "Colts announce fan events in Germany & Indy for 2025 Berlin game",
+      "link": "https://colts.com/news/falcons-vs-colts-berlin-watch-party-tickets-fan-events",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T14:00:00+0000",
+      "summary": "The Indianapolis Colts today announced several events leading into the NFL’s 2025 Berlin Game, where the Colts will host the Atlanta Falcons at historic Olympic Stadium in Berlin, Germany on Sun., Nov. 9."
+    },
+    {
+      "id": "1c1b725df12fa7a1",
+      "title": "Colts bringen Football-Fieber nach Berlin: FanZone-Programm und Events zur NFL Game Week stehen fest",
+      "link": "https://colts.com/news/nfl-colts-falcons-berlin-game-deutschland-2025-fanzone-programm-events-party",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-09T13:59:00+0000",
+      "summary": "Fans können sich auf tägliche Aktivierungen, Auftritte und Mitmach-Highlights rund um das Berlin Game freuen."
     }
   ],
   "links": [
