@@ -1,15 +1,6 @@
 {
-  "updated": "2025-10-17T09:39:49+00:00",
+  "updated": "2025-10-17T10:19:25+00:00",
   "items": [
-    {
-      "id": "fdc2307fe87ad7d3",
-      "title": "How Jaguars coach Liam Coen benefited working for Rams' Sean McVay",
-      "link": "https://jacksonville.com/story/sports/columns/ryan-o-halloran/2025/10/17/liam-coen-jacksonville-jaguars-sean-mcvay-los-angeles-rams/86681933007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T09:05:26+0000",
-      "summary": "Jaguars coach Liam Coen's first NFL job was working for Los Angeles Rams coach Sean McVay. A look at the main duty McVay had for him."
-    },
     {
       "id": "9bb79a091a45e295",
       "title": "Rodgers passes Big Ben in yards, now 5th all time",
@@ -99,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-10-16T19:45:46+0000",
       "summary": "The Colts signed Rypien to the practice squad Wednesday after placing Anthony Richardson Sr. on injured reserve."
-    },
-    {
-      "id": "16e7ddad3f986fd4",
-      "title": "NFL Week 7 Weather Forecast: Rain, Wind Likely In Cleveland And London",
-      "link": "https://weather.com/sports-recreation/news/2025-10-16-nfl-football-weather-forecast-week7",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-16T19:15:00+0000",
-      "summary": "The weather could make some games more interesting than they appear on paper this Sunday. Here's our forecast and fantasy advice."
     },
     {
       "id": "b3d40aa899bbdeda",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-10-12T01:00:35+0000",
       "summary": "INDIANAPOLIS — The play that cost Spencer Shrader the rest of the season cost Tristin McCollum $5,722. That was the fine levied against the Las Vegas Raiders safety by the NFL on Saturday. McCollum dove into the right leg of Shrader on a second-quarter PAT in the Indianapolis Colts’ 40-6 win over the Raiders last [...]"
+    },
+    {
+      "id": "66ca2358ca1276e4",
+      "title": "Colts elevate RB Ameer Abdullah, CB Cameron Mitchell to active roster from practice squad for Week 6",
+      "link": "https://colts.com/news/colts-elevate-rb-ameer-abdullah-cb-cameron-mitchell-to-active-roster-from-practice-squad-for-week-6",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-11T15:45:02+0000",
+      "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "2d53a25661c855e2",
+      "title": "Lucas Oil's roof is open for Colts vs. Cardinals",
+      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-open-for-colts-vs-cardinals/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-10T23:39:40+0000",
+      "summary": "INDIANAPOLIS — The roof is open as the Colts prepare to defend home turf against the Arizona Cardinals.  The Indianapolis Colts enter the matchup with a 4-1 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts defeated the Las Vegas Raiders, while [...]"
     }
   ],
   "links": [
