@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T06:48:56+00:00",
+  "updated": "2025-10-17T07:17:43+00:00",
   "items": [
     {
       "id": "9bb79a091a45e295",
@@ -7,17 +7,8 @@
       "link": "https://espn.com/nfl/story/_/id/46620783/steelers-aaron-rodgers-now-5th-all-passing-yards",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-17T07:06:11+0000",
+      "published": "2025-10-17T07:44:41+0000",
       "summary": "Aaron Rodgers overtook former Steelers great Ben Roethlisberger for fifth on the NFL's all-time passing yards list during Thursday night's loss to the Bengals."
-    },
-    {
-      "id": "c7d77515e5d0b487",
-      "title": "NFL QB power rankings: Patrick Mahomes, Baker Mayfield start with best grades in 2025",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-quarterback-power-rankings-grades-2025-best-worst-qbs/8bcc80a7ace9da97de2dbf50",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T06:00:08+0000",
-      "summary": "Here's looking at how every starting quarterback in the NFL has performed in 2025, from best to worst, also serving as de facto midseason MVP power rankings."
     },
     {
       "id": "b1d1e577a034da09",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-11T15:45:02+0000",
       "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "2d53a25661c855e2",
+      "title": "Lucas Oil's roof is open for Colts vs. Cardinals",
+      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-open-for-colts-vs-cardinals/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-10T23:39:40+0000",
+      "summary": "INDIANAPOLIS — The roof is open as the Colts prepare to defend home turf against the Arizona Cardinals.  The Indianapolis Colts enter the matchup with a 4-1 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts defeated the Las Vegas Raiders, while [...]"
     }
   ],
   "links": [
