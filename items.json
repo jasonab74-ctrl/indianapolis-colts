@@ -1,50 +1,14 @@
 {
-  "updated": "2025-10-17T20:39:48+00:00",
+  "updated": "2025-10-17T21:15:47+00:00",
   "items": [
     {
-      "id": "426a830fa5271cf7",
-      "title": "NFL's memo warns defenders about punch-out plays, using Jack Campbell as an example",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-sent-a-memo-warning-defenders-about-punch-out-plays-using-jack-campbell-as-an-example",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T20:24:41+0000",
-      "summary": "The Lions aren't happy with the NFL's officiating office."
-    },
-    {
-      "id": "7455fdd36b0f39aa",
-      "title": "Cowboys' Diggs in concussion protocol after home accident",
-      "link": "https://sports.yahoo.com/article/cowboys-diggs-concussion-protocol-home-202022679.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T20:20:22+0000",
-      "summary": "The Dallas Cowboys' struggling defense suffered a blow on Friday as cornerback Trevon Diggs was ruled out of Sunday's NFL game against Washington after an accident at his home put him in concussion protocol.&quot;Trevon Diggs came in this morning with some concussion symptoms after having an accident in his home,&quot; head coach Brian Schottenheimer said."
-    },
-    {
-      "id": "e85b89ceaa61f830",
-      "title": "Former NFL head coach says Bills need to 'change way they play defense' (video)",
-      "link": "https://jetswire.usatoday.com/story/sports/nfl/jets/2025/10/17/bruce-arians-buffalo-bills-defense-change-sean-mcdermott-nfl-video/86752378007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T20:15:00+0000",
-      "summary": "Former NFL head coach Bruce Arians dishes thoughts on the Bills defense."
-    },
-    {
-      "id": "0ca8cb6ae6a15cd7",
-      "title": "NFL analyst proposes Eagles trade one embattled cornerback for another",
-      "link": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/10/17/eagles-kelee-ringo-trade-rumors-nfl-analyst-prediction/86751471007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T20:09:54+0000",
-      "summary": "Bill Barnwell recently floated a CB-for-CB trade idea involving the Eagles and Seahawks."
-    },
-    {
-      "id": "70263116c5885eb2",
-      "title": "Jon Gruden receives high school football gear from Southlake Carroll",
-      "link": "https://on3.com/high-school/news/jon-gruden-receives-high-school-football-gear-from-southlake-carroll/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-17T20:06:38+0000",
-      "summary": "Riley Dodge clinched career victory No. 100 after Southlake Carroll’s 66-7 victory over Eaton and one of Texas high school football’s top head coaches wanted to share the gear with former NFL head coach Jon Gruden, who works for Barstool Sports. Gruden posted on X, formerly known as Twitter, receiving a package from Dodge and the Southlake Carroll […]"
+      "id": "f15aa3d434075a63",
+      "title": "Wetzel: The NFL's Bill Belichick skepticism is being validated in Chapel Hill",
+      "link": "https://espn.com/nfl/story/_/id/46592366/bill-belichick-nfl-coaching-cfb-owners",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-17T21:55:33+0000",
+      "summary": "An NFC personnel director told ESPN that Belichick comes up \"within the first five minutes\" of every conversation."
     },
     {
       "id": "a778708d1708dc07",
@@ -52,8 +16,44 @@
       "link": "https://espn.com/nfl/story/_/id/46594761/nfl-week-7-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-17T19:00:02+0000",
+      "published": "2025-10-17T21:55:29+0000",
       "summary": "Offense showdown in Bucs-Lions? Who wins Jayden Daniels vs. Dak Prescott? We have picks, predictions, storylines and stat nuggets for every Week 7 game."
+    },
+    {
+      "id": "5ecf8a53e2b9835f",
+      "title": "Khalil Mack questionable, Joe Alt doubtful for Chargers-Colts",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/khalil-mack-questionable-joe-alt-doubtful-for-chargers-colts",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-17T21:06:00+0000",
+      "summary": "The Chargers may get one of their best players back for Sunday's game against the Colts."
+    },
+    {
+      "id": "45efb3ddc51d8199",
+      "title": "Commanders HC Dan Quinn won't commit to Sam Cosmi return vs. Cowboys",
+      "link": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/10/17/commanders-sam-cosmi-injury-update-cowboys/86752057007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-17T20:59:27+0000",
+      "summary": "Commanders RG Sam Cosmi is nearing the completion of the NFL's 21-day window for him to return. Will he suit up vs. Cowboys?"
+    },
+    {
+      "id": "66b3f84a839ea822",
+      "title": "Patriots Getting Old-Timey Love from Bettors in NFL Week 7",
+      "link": "https://covers.com/industry/patriots-getting-old-timey-love-from-bettors-in-nfl-week-7-oct-17-2025",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-17T20:52:00+0000",
+      "summary": "New England is the most-bet team by tickets and handle at BetMGM ahead of its road game against the lowly Titans."
+    },
+    {
+      "id": "d6708823589b0294",
+      "title": "Colts getting Kenny Moore II back for Chargers, but three ruled out, including wideouts Josh Downs and Ashton Dulin",
+      "link": "https://fox59.com/sports/colts-getting-kenny-moore-ii-back-for-chargers-but-three-ruled-out-including-wideouts-josh-downs-and-ashton-dulin/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-17T20:48:42+0000",
+      "summary": "INDIANAPOLIS – This weekend’s business trip to the West Coast has been complicated for the Indianapolis Colts. While coach Shane Steichen said nickel cornerback Kenny Moore II will return after missing three games with an Achilles injury, he ruled out three integral players for Sunday’s meeting with the Los Angeles Chargers at SoFi Stadium. Ruled [...]"
     },
     {
       "id": "32078360742e4dfe",
@@ -108,15 +108,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-17T15:59:33+0000",
       "summary": "Jonathan Taylor is back. Was he ever really gone could be the question, but whether one feels the running back for the Indianapolis Colts seemed to be slipping over the last few years, this season proves he is back among the elites. 2021 saw him post insane numbers and run roughshod over the rest of [&#8230;]"
-    },
-    {
-      "id": "f15aa3d434075a63",
-      "title": "Wetzel: The NFL's Bill Belichick skepticism is being validated in Chapel Hill",
-      "link": "https://espn.com/nfl/story/_/id/46592366/bill-belichick-nfl-coaching-cfb-owners",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-17T15:55:26+0000",
-      "summary": "An NFC personnel director told ESPN that Belichick comes up \"within the first five minutes\" of every conversation."
     },
     {
       "id": "89c992102476f7d2",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-12T16:36:24+0000",
       "summary": "The cornerback sustained the injury during pregame warmups."
+    },
+    {
+      "id": "26d502b49c5dc1dc",
+      "title": "Keys to the Game: Colts vs. Cardinals",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-cardinals/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T16:17:51+0000",
+      "summary": "INDIANAPOLIS - The Colts aim to improve to 5-1 when they host the Cardinals and backup quarterback Jacoby Brissett on Sunday afternoon. IndyStar Colts insider Joel A. Erickson gives his keys to the game. Plus, he has more information on the breaking news of Anthony Richardson being placed on the inactive list because of an [...]"
     }
   ],
   "links": [
