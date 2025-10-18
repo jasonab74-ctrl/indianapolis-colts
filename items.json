@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-18T11:36:58+00:00",
+  "updated": "2025-10-18T12:33:29+00:00",
   "items": [
+    {
+      "id": "df69a7e6521b19d5",
+      "title": "'He was a different dude': Looking back at Jim Harbaugh's career-best season with the 1995 Colts",
+      "link": "https://espn.com/nfl/story/_/id/46596383/1995-indianapolis-colts-quarterback-jim-harbaugh-los-angeles-chargers-coach",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-18T12:54:13+0000",
+      "summary": "This year marks the 30th anniversary of the 1995 Colts' magical run and Jim Harbaugh's best season as a quarterback."
+    },
     {
       "id": "524e23b50d2b6044",
       "title": "NFL Films' deleted Branch video draws Lions' ire",
@@ -11,13 +20,13 @@
       "summary": "Lions players took offense to an NFL Films video that was released, then deleted, on social media involving suspended safety Brian Branch, claiming it was overly critical."
     },
     {
-      "id": "df69a7e6521b19d5",
-      "title": "'He was a different dude': Looking back at Jim Harbaugh's career-best season with the 1995 Colts",
-      "link": "https://espn.com/nfl/story/_/id/46596383/1995-indianapolis-colts-quarterback-jim-harbaugh-los-angeles-chargers-coach",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-18T12:25:19+0000",
-      "summary": "This year marks the 30th anniversary of the 1995 Colts' magical run and Jim Harbaugh's best season as a quarterback."
+      "id": "e6dc69840d3185ab",
+      "title": "NFL analyst believes the Bears are on upward trajectory",
+      "link": "https://bearswire.usatoday.com/story/sports/nfl/bears/2025/10/18/bears-upward-trajectory-next-three-games-stacey-dales/86712571007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T12:25:08+0000",
+      "summary": "NFL Network analyst Stacey Dales believes things are trending in the right direction for the Chicago Bears."
     },
     {
       "id": "cb309fffed21ebf5",
@@ -29,22 +38,49 @@
       "summary": "Should we expect a big day for the Bucs' receiving core? Can Quinshon Judkins go over 100 yards? And which AFC game could be low-scoring?"
     },
     {
-      "id": "e2b7aeb7ef296281",
-      "title": "NFL experts predict Week 7 winner of Jaguars vs. Rams",
-      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/10/18/nfl-week-7-predictions-experts-pick-jaguars-rams-winner/86766894007/",
+      "id": "16e7ddad3f986fd4",
+      "title": "NFL Week 7 Weather Forecast: Rain, Wind Likely In Cleveland And London",
+      "link": "https://weather.com/sports-recreation/news/2025-10-16-nfl-football-weather-forecast-week7",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-18T11:14:25+0000",
-      "summary": "Here is who several NFL experts have winning the Jaguars vs. Rams Week 7 matchup."
+      "published": "2025-10-18T12:15:00+0000",
+      "summary": "The weather could make some games more interesting than they appear on paper this Sunday. Here's our forecast and fantasy advice."
     },
     {
-      "id": "4fdccab211a368a3",
-      "title": "Five cities that deserve the NFL’s next expansion team",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/18/five-cities-that-deserve-an-expansion-team-in-the-nfl/86756411007/",
+      "id": "7c361959de425706",
+      "title": "Colts' HC Shane Steichen on AD Mitchell's playing time vs. Chargers",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/18/colts-shane-steichen-ad-mitchells-playing-time-chargers/86767244007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T12:09:18+0000",
+      "summary": "Here is what Colts' HC Shane Steichen had to say about AD Mitchell's role in Week 7 vs. the Chargers."
+    },
+    {
+      "id": "5f6b16e426b28401",
+      "title": "Four for Four: 4 interesting storylines from 4 games during Week 7 in the NFL",
+      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/18/four-interesting-storylines-from-four-games-during-week-7-in-the-nfl/86758930007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-18T11:12:16+0000",
-      "summary": "St. Louis? Portland? London? NFL expansion is going to happen sooner rather than later, so let's discuss which cities deserve a franchise."
+      "published": "2025-10-18T12:04:13+0000",
+      "summary": "Since you can't get a four-for-four meal within fast food anymore, or anywhere for that matter, let's look at four of the most interesting storylines"
+    },
+    {
+      "id": "c212240969c0f8de",
+      "title": "Watch NFL Network’s great story on Alex Singleton and his sister",
+      "link": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2025/10/18/broncos-alex-singleton-his-sister-special-olympics/86749369007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T12:03:11+0000",
+      "summary": "Alex Singleton has been a champion for Unified Sports, and he's his sister's biggest fan."
+    },
+    {
+      "id": "917a2c1207b7e382",
+      "title": "Chiefs players have a history with Tennessee during the 'Third Saturday in October'",
+      "link": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2025/10/18/chiefs-players-from-tennessee-during-the-third-saturday-in-october/86740754007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T12:01:36+0000",
+      "summary": "During his chat with @EdEastonJr, NFL quarterback Joshua Dobbs reflected on his history at Tennessee ahead of the 'Third Saturday in October'"
     },
     {
       "id": "f15aa3d434075a63",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-12T21:46:07+0000",
       "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
-    },
-    {
-      "id": "d8205f7357af53ab",
-      "title": "Colts rally to beat Cardinals, 31-27, to improve to 5-1",
-      "link": "https://fox59.com/sports/colts/colts-rally-to-beat-cardinals-31-27-to-improve-to-5-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T20:06:42+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts rallied from a fourth-quarter deficit to beat the Arizona Cardinals, 31-27, at Lucas Oil Stadium on Sunday afternoon to improve to 5-1. The offense scored two touchdowns in the fourth quarter, then the defense shut the door on the visitors as they drove for the go-ahead score in the final [...]"
-    },
-    {
-      "id": "0e17599f1b944c29",
-      "title": "Despite depleted defense, Colts stand strong in win over Cardinals",
-      "link": "https://colts.com/news/depleted-defense-colts-stand-strong-in-win-over-cardinals-week-6-daniel-jones-laiatu-latu",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T20:05:41+0000",
-      "summary": "The Colts rallied for a 31-27 win over the Cardinals, improving to 5-1."
-    },
-    {
-      "id": "680fc21df3b7488f",
-      "title": "Colts rule out CB Charvarius Ward Sr. for Week 6 with concussion",
-      "link": "https://colts.com/news/colts-rule-out-cb-charvarius-ward-sr-for-week-6-with-concussion",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T16:36:24+0000",
-      "summary": "The cornerback sustained the injury during pregame warmups."
-    },
-    {
-      "id": "26d502b49c5dc1dc",
-      "title": "Keys to the Game: Colts vs. Cardinals",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-cardinals/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T16:17:51+0000",
-      "summary": "INDIANAPOLIS - The Colts aim to improve to 5-1 when they host the Cardinals and backup quarterback Jacoby Brissett on Sunday afternoon. IndyStar Colts insider Joel A. Erickson gives his keys to the game. Plus, he has more information on the breaking news of Anthony Richardson being placed on the inactive list because of an [...]"
     }
   ],
   "links": [
