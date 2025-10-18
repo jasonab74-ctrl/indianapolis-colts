@@ -1,33 +1,6 @@
 {
-  "updated": "2025-10-18T02:39:10+00:00",
+  "updated": "2025-10-18T03:27:29+00:00",
   "items": [
-    {
-      "id": "ffb1cd5954221c97",
-      "title": "Steelers tight end trio makes NFL history vs. Bengals",
-      "link": "https://sports.yahoo.com/article/steelers-tight-end-trio-makes-020754021.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T02:07:54+0000",
-      "summary": "The Pittsburgh Steelers offense was firing on all cylinders in their 33-31 loss to the Cincinnati Bengals on Thursday Night Football, and it was in large part to their tight ends."
-    },
-    {
-      "id": "974a78ebeb992e63",
-      "title": "Deleted NFL Films video about Brian Branch angers Lions",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/deleted-nfl-films-video-about-brian-branch-angers-lions",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T02:03:40+0000",
-      "summary": "Multiple players take issue with league's decision to criticize Branch."
-    },
-    {
-      "id": "435b94b2c8df1cb5",
-      "title": "Recently released Colts' linebacker signs with AFC South foe",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/17/former-colts-linebacker-joe-bachie-signs-titans/86758059007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T01:48:35+0000",
-      "summary": "A recently released Colts' linebacker has signed with an AFC South foe."
-    },
     {
       "id": "524e23b50d2b6044",
       "title": "NFL Films' deleted Branch video draws Lions' ire",
@@ -56,9 +29,9 @@
       "summary": "An NFC personnel director told ESPN that Belichick comes up \"within the first five minutes\" of every conversation."
     },
     {
-      "id": "d6708823589b0294",
+      "id": "78cfdbce71c931a2",
       "title": "Colts getting Kenny Moore II back for Chargers, but three ruled out, including wideouts Josh Downs and Ashton Dulin",
-      "link": "https://fox59.com/sports/colts-getting-kenny-moore-ii-back-for-chargers-but-three-ruled-out-including-wideouts-josh-downs-and-ashton-dulin/",
+      "link": "https://fox59.com/sports/colts/colts-getting-kenny-moore-ii-back-for-chargers-but-three-ruled-out-including-wideouts-josh-downs-and-ashton-dulin/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-17T20:48:42+0000",
@@ -191,9 +164,9 @@
       "summary": "The stars strutted in their arrivals to the pregame tunnels in looks that match their personal style."
     },
     {
-      "id": "11dbf2a7a9e99519",
+      "id": "e2b6743babe5e95f",
       "title": "Jonathan Taylor’s elite production is a result of preparation, recovery",
-      "link": "https://fox59.com/sports/jonathan-taylors-elite-production-is-a-result-of-preparation-recovery/",
+      "link": "https://fox59.com/sports/colts/jonathan-taylors-elite-production-is-a-result-of-preparation-recovery/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-10-16T22:44:58+0000",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-10-12T16:36:24+0000",
       "summary": "The cornerback sustained the injury during pregame warmups."
+    },
+    {
+      "id": "26d502b49c5dc1dc",
+      "title": "Keys to the Game: Colts vs. Cardinals",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-cardinals/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T16:17:51+0000",
+      "summary": "INDIANAPOLIS - The Colts aim to improve to 5-1 when they host the Cardinals and backup quarterback Jacoby Brissett on Sunday afternoon. IndyStar Colts insider Joel A. Erickson gives his keys to the game. Plus, he has more information on the breaking news of Anthony Richardson being placed on the inactive list because of an [...]"
+    },
+    {
+      "id": "73b845ec9e08890c",
+      "title": "Sideline to Sideline: Favorite Coach",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-coach/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T16:12:49+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts a question about their careers in football. This week Chris asks the players who their favorite coach has been as they've grown in the game."
+    },
+    {
+      "id": "d20216f816d3cba9",
+      "title": "Pre-game injury leaves Anthony Richardson Sr. inactive for Cardinals game",
+      "link": "https://fox59.com/sports/colts/pre-game-injury-leaves-anthony-richardson-sr-inactive-for-cardinals-game/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T15:59:36+0000",
+      "summary": "INDIANAPOLIS – Anthony Richardson Sr. is inactive for Sunday’s game with the Arizona Cardinals after suffering an injury during pre-game warm-ups. The Indianapolis Colts’ backup quarterback sustained an eye injury while doing his pre-game “band work,’’ according to a team source. Rookie Riley Leonard will serve as Daniel Jones’ backup. Richardson, who lost his starting [...]"
     }
   ],
   "links": [
