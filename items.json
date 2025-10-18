@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-18T20:18:04+00:00",
+  "updated": "2025-10-18T20:37:36+00:00",
   "items": [
     {
       "id": "cb309fffed21ebf5",
@@ -7,8 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/46616098/2025-nfl-week-7-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-18T20:38:09+0000",
+      "published": "2025-10-18T21:22:42+0000",
       "summary": "Should we expect a big day for the Bucs' receiving core? Can Quinshon Judkins go over 100 yards? And which AFC game could be low-scoring?"
+    },
+    {
+      "id": "7ec7caf45335f45c",
+      "title": "Colts lose concussed Ward for at least 4 games",
+      "link": "https://espn.com/nfl/story/_/id/46639866/colts-place-charvarius-ward-injured-reserve-concussion",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-18T21:20:10+0000",
+      "summary": "The Colts have placed their top cornerback Charvarius Ward on injured reserve, sidelining him for Sunday's game against the Chargers and at least the next three contests"
     },
     {
       "id": "524e23b50d2b6044",
@@ -16,26 +25,17 @@
       "link": "https://espn.com/nfl/story/_/id/46629777/nfl-films-deleted-video-brian-branch-draws-lions-ire",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-18T20:23:30+0000",
+      "published": "2025-10-18T21:20:10+0000",
       "summary": "Lions players took offense to an NFL Films video that was released, then deleted, on social media involving suspended safety Brian Branch, claiming it was overly critical."
     },
     {
-      "id": "b20579732005e6d6",
-      "title": "5 reasons for optimism for the Chargers against the Colts in Week 7",
-      "link": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2025/10/18/chhargers-colts-justin-herbert-quentin-johnston-khalil-mack/86773907007/",
+      "id": "a819e63512786d2a",
+      "title": "The Cleveland Browns grab future franchise quarterback in latest 2026 NFL mock draft",
+      "link": "https://brownswire.usatoday.com/story/sports/nfl/browns/2025/10/18/the-cleveland-browns-grab-qb-lanorris-sellers-in-2026-nfl-mock-draft/86765058007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-18T20:05:11+0000",
-      "summary": "Here is why the Los Angeles Chargers should be able to secure the win in Week 7."
-    },
-    {
-      "id": "be45067a537097aa",
-      "title": "Colts make 4 roster moves before Week 7 game vs. Chargers",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/18/colts-roster-moves-week-7-game-chargers/86773688007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T19:56:33+0000",
-      "summary": "Ahead of the Indianapolis Colts' Week 7 matchup with the LA Chargers, the team announced several roster moves."
+      "published": "2025-10-18T20:16:59+0000",
+      "summary": "The Cleveland Browns shore up their offense in the latest 2026 NFL mock draft. The Browns grab franchise QB LaNorris Sellers and top offensive linemen"
     },
     {
       "id": "ea60478d20ae26e5",
@@ -45,15 +45,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-18T19:55:17+0000",
       "summary": "The Indianapolis Colts announced that top outside starting cornerback Charvarius Ward has been placed on injured reserve, as he suffered his second concussion of the season during pre-game warmups last weekend. Ward shockingly collided during warmups with teammate Drew Ogletree in what was another freak pre-game accident and was ruled out of last weekend’s win [&#8230;]"
-    },
-    {
-      "id": "908b185d91f65f8e",
-      "title": "Giants 2025 NFL trade deadline buzz: Dolphins reportedly not interested in dealing WR Jaylen Waddle",
-      "link": "https://sny.tv/articles/giants-2025-nfl-trade-deadline-buzz",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T19:55:01+0000",
-      "summary": "Here's the latest Giants news and buzz ahead of the 2025 NFL trade deadline on Nov. 4..."
     },
     {
       "id": "f18e7b8dbe81902a",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-12T21:46:07+0000",
       "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
+    },
+    {
+      "id": "d8205f7357af53ab",
+      "title": "Colts rally to beat Cardinals, 31-27, to improve to 5-1",
+      "link": "https://fox59.com/sports/colts/colts-rally-to-beat-cardinals-31-27-to-improve-to-5-1/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T20:06:42+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts rallied from a fourth-quarter deficit to beat the Arizona Cardinals, 31-27, at Lucas Oil Stadium on Sunday afternoon to improve to 5-1. The offense scored two touchdowns in the fourth quarter, then the defense shut the door on the visitors as they drove for the go-ahead score in the final [...]"
     }
   ],
   "links": [
