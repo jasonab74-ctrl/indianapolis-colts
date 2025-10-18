@@ -1,15 +1,6 @@
 {
-  "updated": "2025-10-18T07:36:19+00:00",
+  "updated": "2025-10-18T08:21:13+00:00",
   "items": [
-    {
-      "id": "9b85d15832f6e9f8",
-      "title": "Jaguars record in NFL London games: Complete history of results, wins, losses for Jacksonville in England",
-      "link": "https://sportingnews.com/us/nfl/jacksonville-jaguars/news/jaguars-record-nfl-london-games-results-wins-losses/62ce9c2c154f675d6c60a5c5",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T07:00:01+0000",
-      "summary": "Jacksonville has become a staple in games across the pond."
-    },
     {
       "id": "524e23b50d2b6044",
       "title": "NFL Films' deleted Branch video draws Lions' ire",
@@ -72,6 +63,15 @@
       "feed": "ESPN",
       "published": "2025-10-17T18:11:57+0000",
       "summary": "After leading the NFL in rushing in his second season, Taylor had some bumps in the road, but he's back in a big way."
+    },
+    {
+      "id": "e70f72ea8e9c10c6",
+      "title": "Colts CB Kenny Moore II will return to the fray against Chargers",
+      "link": "https://stampedeblue.com/indianapolis-colts-injuries/116445/colts-cb-kenny-moore-ii-will-return-to-the-fray-against-chargers",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-17T17:57:50+0000",
+      "summary": "Indianapolis, IN — Indianapolis Colts head coach Shane Steichen revealed to local media following Friday’s practice that longtime Colts cornerback Kenny Moore II (Achilles) will indeed play on Sunday against the Los Angeles Chargers. Moore II’s only logged two limited practices between his injury and today’s media availability; therefore, it’s fair to wonder just how [&#8230;]"
     },
     {
       "id": "7662643b5246591e",
@@ -297,15 +297,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-16T01:57:55+0000",
       "summary": "Per the league transaction wire, the Indianapolis Colts waived former starting linebacker Joe Bachie (foot) off of injured reserve. Signed by the Colts this past offseason to 1-year, $1.2 million deal, the former Cincinnati Bengals core special teamer reunited with defensive coordinator Lou Anarumo in Indianapolis. Only with the Colts’ lack of proven linebacker options [&#8230;]"
-    },
-    {
-      "id": "a0e56a5f511b9eb8",
-      "title": "Indianapolis Colts Injury Report: CB Moore Returns To Practice",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/116343/indianapolis-colts-injury-report-cb-moore-returns-to-practice",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-16T01:43:43+0000",
-      "summary": "The&#160;Indianapolis Colts&#160;today released their Wednesday injury report for Week 6 of the NFL season ahead of their Sunday game against the Arizona Cardinals. Wide receiver Josh Downs missed practice today due to a concussion. Downs took a big hurt during his touchdown catch which could have been the cause of his concussion. Downs will now [&#8230;]"
     },
     {
       "id": "366ae5fecaf22155",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-12T16:12:49+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts a question about their careers in football. This week Chris asks the players who their favorite coach has been as they've grown in the game."
+    },
+    {
+      "id": "d20216f816d3cba9",
+      "title": "Pre-game injury leaves Anthony Richardson Sr. inactive for Cardinals game",
+      "link": "https://fox59.com/sports/colts/pre-game-injury-leaves-anthony-richardson-sr-inactive-for-cardinals-game/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T15:59:36+0000",
+      "summary": "INDIANAPOLIS – Anthony Richardson Sr. is inactive for Sunday’s game with the Arizona Cardinals after suffering an injury during pre-game warm-ups. The Indianapolis Colts’ backup quarterback sustained an eye injury while doing his pre-game “band work,’’ according to a team source. Rookie Riley Leonard will serve as Daniel Jones’ backup. Richardson, who lost his starting [...]"
     }
   ],
   "links": [
