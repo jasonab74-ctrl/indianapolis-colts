@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-18T23:15:37+00:00",
+  "updated": "2025-10-18T23:36:24+00:00",
   "items": [
     {
       "id": "6bfc70a2092cd6a4",
@@ -27,15 +27,6 @@
       "feed": "ESPN",
       "published": "2025-10-19T00:05:06+0000",
       "summary": "Lions players took offense to an NFL Films video that was released, then deleted, on social media involving suspended safety Brian Branch, claiming it was overly critical."
-    },
-    {
-      "id": "b58a17ec657c59b7",
-      "title": "Dolphins rumors from Ian Rapoport include Jaylen Waddle update, trade candidates",
-      "link": "https://sportingnews.com/us/nfl/miami-dolphins/news/dolphins-rumors-ian-rapoport-jaylen-waddle-update-trade-candidates/5ff3f4f2a6ae8ab57fe14a6b",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-18T22:55:44+0000",
-      "summary": "NFL Network's Ian Rapoport provided a few rumors on Saturday that update the murky situation with wide receiver Jaylen Waddle and list players the Miami Dolphins could trade at the deadline."
     },
     {
       "id": "df69a7e6521b19d5",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-12T21:46:07+0000",
       "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
+    },
+    {
+      "id": "d8205f7357af53ab",
+      "title": "Colts rally to beat Cardinals, 31-27, to improve to 5-1",
+      "link": "https://fox59.com/sports/colts/colts-rally-to-beat-cardinals-31-27-to-improve-to-5-1/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T20:06:42+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts rallied from a fourth-quarter deficit to beat the Arizona Cardinals, 31-27, at Lucas Oil Stadium on Sunday afternoon to improve to 5-1. The offense scored two touchdowns in the fourth quarter, then the defense shut the door on the visitors as they drove for the go-ahead score in the final [...]"
     }
   ],
   "links": [
