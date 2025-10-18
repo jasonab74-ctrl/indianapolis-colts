@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-18T18:22:32+00:00",
+  "updated": "2025-10-18T18:43:57+00:00",
   "items": [
     {
       "id": "524e23b50d2b6044",
@@ -11,6 +11,15 @@
       "summary": "Lions players took offense to an NFL Films video that was released, then deleted, on social media involving suspended safety Brian Branch, claiming it was overly critical."
     },
     {
+      "id": "a9b612a6845b0a7b",
+      "title": "Dolphins coaches say they've seen growth from struggling rookie lineman",
+      "link": "https://dolphinswire.usatoday.com/story/sports/nfl/dolphins/2025/10/18/dolphins-jonah-savaiinaea-growth-development-progress/86770816007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T18:27:53+0000",
+      "summary": "Jonah Savaiinaea has struggled early in his NFL career, but Dolphins coaches say they've seen signs of progress."
+    },
+    {
       "id": "df69a7e6521b19d5",
       "title": "'He was a different dude': Looking back at Jim Harbaugh's career-best season with the 1995 Colts",
       "link": "https://espn.com/nfl/story/_/id/46596383/1995-indianapolis-colts-quarterback-jim-harbaugh-los-angeles-chargers-coach",
@@ -20,13 +29,22 @@
       "summary": "This year marks the 30th anniversary of the 1995 Colts' magical run and Jim Harbaugh's best season as a quarterback."
     },
     {
-      "id": "18d7b9c87e039a3a",
-      "title": "Dolphins’ Tyrel Dodson clears concussion protocol ahead of game vs. Browns",
-      "link": "https://sun-sentinel.com/2025/10/18/dolphins-tyrel-dodson-clears-concussion-protocol-ahead-of-game-vs-browns/",
+      "id": "61f0174d12aedc8f",
+      "title": "Former Colt Nyheim Hines now with Chargers: ‘I knew I belonged’",
+      "link": "https://fox59.com/sports/former-colt-nyheim-hines-now-with-chargers-i-knew-i-belonged/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-18T18:25:15+0000",
+      "summary": "INDIANAPOLIS – It took a little longer than anticipated, but Nyheim Hines is right where he thought he would be. Playing again in the NFL. That might involve returning kicks and perhaps handling a few offensive snaps for the Los Angeles Chargers on Sunday when his former team, the Indianapolis Colts, venture into SoFi Stadium. [...]"
+    },
+    {
+      "id": "420cf215c9cef18c",
+      "title": "Cardinals-Packers expert picks: Everyone picks Green Bay to win",
+      "link": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2025/10/18/cardinals-packers-expert-picks-everyone-picks-green-bay-to-win/86771437007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-18T18:00:00+0000",
-      "summary": "CLEVELAND — Miami Dolphins linebacker Tyrel Dodson cleared concussion protocol and will be available for Sunday’s game against the Browns in Cleveland. The Dolphins, as they traveled Saturday, removed Dodson from the team’s injury report. Coach Mike McDaniel said Friday he was “hopeful and confident” Dodson would clear the NFL’s five-step protocol to return to play from a concussion before the ..."
+      "published": "2025-10-18T18:19:55+0000",
+      "summary": "All 10 NFL Network expert panelists predict a Packers win over the Cardinals."
     },
     {
       "id": "155a7aedf0551e18",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-12T20:05:41+0000",
       "summary": "The Colts rallied for a 31-27 win over the Cardinals, improving to 5-1."
-    },
-    {
-      "id": "680fc21df3b7488f",
-      "title": "Colts rule out CB Charvarius Ward Sr. for Week 6 with concussion",
-      "link": "https://colts.com/news/colts-rule-out-cb-charvarius-ward-sr-for-week-6-with-concussion",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T16:36:24+0000",
-      "summary": "The cornerback sustained the injury during pregame warmups."
-    },
-    {
-      "id": "26d502b49c5dc1dc",
-      "title": "Keys to the Game: Colts vs. Cardinals",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-cardinals/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T16:17:51+0000",
-      "summary": "INDIANAPOLIS - The Colts aim to improve to 5-1 when they host the Cardinals and backup quarterback Jacoby Brissett on Sunday afternoon. IndyStar Colts insider Joel A. Erickson gives his keys to the game. Plus, he has more information on the breaking news of Anthony Richardson being placed on the inactive list because of an [...]"
     }
   ],
   "links": [
