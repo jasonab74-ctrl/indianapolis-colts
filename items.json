@@ -1,6 +1,42 @@
 {
-  "updated": "2025-10-18T20:37:36+00:00",
+  "updated": "2025-10-18T21:14:19+00:00",
   "items": [
+    {
+      "id": "6bfc70a2092cd6a4",
+      "title": "Chargers LBs Mack, Perryman activated off IR",
+      "link": "https://espn.com/nfl/story/_/id/46640278/chargers-activate-lbs-mack-perryman-ahead-colts-matchup",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-18T21:51:46+0000",
+      "summary": "The Chargers have activated linebackers Khalil Mack and Denzel Perryman off of injured reserve ahead of Sunday's matchup against the Colts."
+    },
+    {
+      "id": "7ec7caf45335f45c",
+      "title": "Colts lose concussed Ward for at least 4 games",
+      "link": "https://espn.com/nfl/story/_/id/46639866/colts-place-charvarius-ward-injured-reserve-concussion",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-18T21:51:46+0000",
+      "summary": "The Colts have placed their top cornerback Charvarius Ward on injured reserve, sidelining him for Sunday's game against the Chargers and at least the next three contests."
+    },
+    {
+      "id": "524e23b50d2b6044",
+      "title": "NFL Films' deleted Branch video draws Lions' ire",
+      "link": "https://espn.com/nfl/story/_/id/46629777/nfl-films-deleted-video-brian-branch-draws-lions-ire",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-18T21:51:46+0000",
+      "summary": "Lions players took offense to an NFL Films video that was released, then deleted, on social media involving suspended safety Brian Branch, claiming it was overly critical."
+    },
+    {
+      "id": "df69a7e6521b19d5",
+      "title": "'He was a different dude': Looking back at Jim Harbaugh's career-best season with the 1995 Colts",
+      "link": "https://espn.com/nfl/story/_/id/46596383/1995-indianapolis-colts-quarterback-jim-harbaugh-los-angeles-chargers-coach",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-18T21:42:12+0000",
+      "summary": "This year marks the 30th anniversary of the 1995 Colts' magical run and Jim Harbaugh's best season as a quarterback."
+    },
     {
       "id": "cb309fffed21ebf5",
       "title": "Our last-minute catch-up on NFL Week 7: Big predictions, stat trends, fantasy sleepers",
@@ -11,31 +47,31 @@
       "summary": "Should we expect a big day for the Bucs' receiving core? Can Quinshon Judkins go over 100 yards? And which AFC game could be low-scoring?"
     },
     {
-      "id": "7ec7caf45335f45c",
-      "title": "Colts lose concussed Ward for at least 4 games",
-      "link": "https://espn.com/nfl/story/_/id/46639866/colts-place-charvarius-ward-injured-reserve-concussion",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-18T21:20:10+0000",
-      "summary": "The Colts have placed their top cornerback Charvarius Ward on injured reserve, sidelining him for Sunday's game against the Chargers and at least the next three contests"
-    },
-    {
-      "id": "524e23b50d2b6044",
-      "title": "NFL Films' deleted Branch video draws Lions' ire",
-      "link": "https://espn.com/nfl/story/_/id/46629777/nfl-films-deleted-video-brian-branch-draws-lions-ire",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-18T21:20:10+0000",
-      "summary": "Lions players took offense to an NFL Films video that was released, then deleted, on social media involving suspended safety Brian Branch, claiming it was overly critical."
-    },
-    {
-      "id": "a819e63512786d2a",
-      "title": "The Cleveland Browns grab future franchise quarterback in latest 2026 NFL mock draft",
-      "link": "https://brownswire.usatoday.com/story/sports/nfl/browns/2025/10/18/the-cleveland-browns-grab-qb-lanorris-sellers-in-2026-nfl-mock-draft/86765058007/",
+      "id": "cff43128a5d3604e",
+      "title": "Commanders vs Cowboys Predictions, Picks & Best Bets for NFL Week 7",
+      "link": "https://covers.com/nfl/commanders-vs-cowboys-predictions-picks-october-19-2025",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-18T20:16:59+0000",
-      "summary": "The Cleveland Browns shore up their offense in the latest 2026 NFL mock draft. The Browns grab franchise QB LaNorris Sellers and top offensive linemen"
+      "published": "2025-10-18T21:04:00+0000",
+      "summary": "Get the best Commanders vs. Cowboys predictions ahead of Sunday's NFC East showdown at AT&amp;T Stadium. Free NFL picks for October 19."
+    },
+    {
+      "id": "fbd710d803b4b958",
+      "title": "NFC North 2026 NFL Mock Draft: What does every team need heding into Week 7?",
+      "link": "https://vikingswire.usatoday.com/story/sports/nfl/vikings/2025/10/18/2026-nfl-mock-draft-nfc-north-vikings/86746066007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T20:50:16+0000",
+      "summary": "Our first divisional mock draft of the year is live as we look at every team needs at this point in the year."
+    },
+    {
+      "id": "b4490f458bea0c3a",
+      "title": "Chargers vs. Colts broadcast map: Will the game be on TV?",
+      "link": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2025/10/18/chargers-colts-television-stream-radio-broadcast/86775093007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-18T20:46:41+0000",
+      "summary": "Fans in the areas marked on the map will be able to watch the Chargers-Colts game on their local CBS channel."
     },
     {
       "id": "ea60478d20ae26e5",
@@ -54,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-10-18T19:24:13+0000",
       "summary": "Ward, who sustained a concussion during pregame warm-ups prior to Week 6, will miss at least the Colts' next four games."
-    },
-    {
-      "id": "df69a7e6521b19d5",
-      "title": "'He was a different dude': Looking back at Jim Harbaugh's career-best season with the 1995 Colts",
-      "link": "https://espn.com/nfl/story/_/id/46596383/1995-indianapolis-colts-quarterback-jim-harbaugh-los-angeles-chargers-coach",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-18T18:25:34+0000",
-      "summary": "This year marks the 30th anniversary of the 1995 Colts' magical run and Jim Harbaugh's best season as a quarterback."
     },
     {
       "id": "61f0174d12aedc8f",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-12T23:16:40+0000",
       "summary": "The Colts were without Charvarius Ward Sr. (concussion) and Kenny Moore II (Achilles) in Sunday's 31-27 win over the Cardinals."
-    },
-    {
-      "id": "bf912260092ba115",
-      "title": "Daniel Jones' preparation shines against shape-shifting Cardinals defense as Colts' offense keeps rolling",
-      "link": "https://colts.com/news/daniel-jones-preparation-shines-against-shape-shifting-cardinals-defense-as-colts-offense-keeps-rolling",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T22:31:18+0000",
-      "summary": "The Arizona Cardinals rolled into downtown Indianapolis for Week 6 having not allowed more than 23 points in a game this season; the Colts needed all 31 points they scored on Sunday to improve to 5-1."
-    },
-    {
-      "id": "39652a8d324cf97b",
-      "title": "After Anthony Richardson Sr. sustains fractured orbital bone, Riley Leonard ready as Colts' backup quarterback amid difficult circumstances",
-      "link": "https://colts.com/news/after-anthony-richardson-sr-sustains-fractured-orbital-bone-riley-leonard-ready-as-colts-backup-quarterback-amid-difficult-circumstances",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T21:46:07+0000",
-      "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
-    },
-    {
-      "id": "d8205f7357af53ab",
-      "title": "Colts rally to beat Cardinals, 31-27, to improve to 5-1",
-      "link": "https://fox59.com/sports/colts/colts-rally-to-beat-cardinals-31-27-to-improve-to-5-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T20:06:42+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts rallied from a fourth-quarter deficit to beat the Arizona Cardinals, 31-27, at Lucas Oil Stadium on Sunday afternoon to improve to 5-1. The offense scored two touchdowns in the fourth quarter, then the defense shut the door on the visitors as they drove for the go-ahead score in the final [...]"
     }
   ],
   "links": [
