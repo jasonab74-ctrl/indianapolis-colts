@@ -1,32 +1,95 @@
 {
-  "updated": "2025-10-19T16:19:43+00:00",
+  "updated": "2025-10-19T16:41:55+00:00",
   "items": [
+    {
+      "id": "4d9053561480ae99",
+      "title": "NFL draft risers, questions and notes: Will Jeremiyah Love go in the top 10?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-19T17:24:53+0000",
+      "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
+    },
     {
       "id": "7ec7caf45335f45c",
       "title": "Colts lose concussed Ward for at least 4 games",
       "link": "https://espn.com/nfl/story/_/id/46639866/colts-place-charvarius-ward-injured-reserve-concussion",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-19T16:50:41+0000",
+      "published": "2025-10-19T17:19:25+0000",
       "summary": "The Colts have placed their top cornerback Charvarius Ward on injured reserve, sidelining him for Sunday's game against the Chargers and at least the next three contests."
     },
     {
-      "id": "a6c07602cbd09c07",
-      "title": "Jets trade rumors from Ian Rapoport offer Breece Hall, Jermaine Johnson, Michael Carter updates",
-      "link": "https://sportingnews.com/us/nfl/new-york-jets/news/jets-trade-rumors-ian-rapoport-offer-breece-hall-jermaine-johnson-michael-carter-updates/e7a7b2fdba3e1911b023deeb",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T16:00:26+0000",
-      "summary": "The New York Jets are the last winless team in the NFL, so it's not surprising to learn that some of the team's players could be on the trade block."
+      "id": "ff4820eeb0a64fd2",
+      "title": "Sideline to Sideline: Favorite Sports Movie",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-sports-movie/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-19T16:39:12+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question to help get to know the roster. This week, Chris asks the players what their favorite sports movie is as the Horseshoes go Hollywood to play the Chargers in Los Angeles."
     },
     {
-      "id": "5fd0d181d80eb693",
-      "title": "Jets' Garrett Wilson sidelined against Panthers with knee injury, misses first NFL game",
-      "link": "https://sports.yahoo.com/article/jets-garrett-wilson-sidelined-against-155418527.html",
+      "id": "351e5293946e3d0a",
+      "title": "Jaguars' Travis Hunter catches first NFL touchdown",
+      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/10/19/jaguars-rams-travis-hunter-catches-first-nfl-touchdown/86788678007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-19T15:54:18+0000",
-      "summary": "New York Jets wide receiver Garrett Wilson is missing the first game of his NFL career after he was ruled out Sunday against the Carolina Panthers because of a knee injury.  The move was expected after Wilson was listed by the team Friday as doubtful to play, and he didn't practice at all during the week."
+      "published": "2025-10-19T16:26:47+0000",
+      "summary": "Jacksonville Jaguars' rookie Travis Hunter scored his first NFL touchdown on Sunday against the LA Rams."
+    },
+    {
+      "id": "6e4825e52858c9a9",
+      "title": "Travis Hunter scores his first career touchdown but Jaguars trail 28-7 late",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-scores-his-first-career-touchdown-but-jaguars-trail-28-7-late",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T16:22:20+0000",
+      "summary": "In his seventh NFL game, Jaguars rookie Travis Hunter has scored for the first time."
+    },
+    {
+      "id": "0191b48621a765f6",
+      "title": "Wisconsin coach Luke Fickell addresses report of NFL scouts shut out from practices",
+      "link": "https://badgerswire.usatoday.com/story/sports/college/badgers/football/2025/10/19/wisconsin-luke-fickell-nfl-scout-practice/86787927007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T16:21:18+0000",
+      "summary": "Wisconsin's 2025 football season took another downward turn on Saturday, as the team fell 34-0 at home to the Ohio State Buckeyes."
+    },
+    {
+      "id": "9333dfc01d11ab34",
+      "title": "Rico Dowdle can become third player with 200 or more yards from scrimmage in three straight games",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-can-become-third-player-with-200-or-more-yards-from-scrimmage-in-three-straight-games",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T16:20:26+0000",
+      "summary": "Panthers running back Rico Dowdle is on the brink of NFL history."
+    },
+    {
+      "id": "403c157b9f23b1a7",
+      "title": "Matthew Berry’s Fantasy Football Rankings for Week 7 of 2025 season",
+      "link": "https://nbcsports.com/nfl/matthew-berry/news/matthew-berrys-fantasy-football-rankings-for-week-7-of-2025-season",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T16:15:00+0000",
+      "summary": "Patrick Mahomes, Jonathan Taylor, Amon-Ra St. Brown, and Trey McBride highlight positional rankings for Week 7 of the 2025 NFL season."
+    },
+    {
+      "id": "008d6766042c8418",
+      "title": "Patriots trade rumor from Ian Rapoport pinpoints New England's top candidate to be moved",
+      "link": "https://sportingnews.com/us/nfl/new-england-patriots/news/patriots-trade-rumor-ian-rapoport-pinpoints-new-englands-top-candidate-be-moved/d6d442ca44432a0531b79295",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T16:14:13+0000",
+      "summary": "A New England Patriots trade rumor from NFL insider Ian Rapoport reveals who the team's top trade candidate is ahead of the November 4 deadline."
+    },
+    {
+      "id": "3dd6658e0576da77",
+      "title": "NFL Draft 2026 QB1 Rankings: Fernando Mendoza might be the best player in college football",
+      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/10/19/nfl-draft-2026-qb1-rankings-fernando-mendoza-is-on-a-different-level/86783828007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T16:12:52+0000",
+      "summary": "Following two months of debate, three quarterbacks have emerged as surefire first-round picks in the NFL Draft, led by Indiana's Fernando Mendoza."
     },
     {
       "id": "2f70c949daaeb35f",
@@ -477,69 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-13T13:36:17+0000",
       "summary": "The Indianapolis Colts didn't play their best but improved to 5-1 after topping the Arizona Cardinals at Lucas Oil Stadium. Matt Adams recaps the 31-27 win in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "0e9b13fd49e36ae9",
-      "title": "Colts’ Riley Leonard: 1 play away instead of 2 plays away",
-      "link": "https://fox59.com/sports/colts/colts-riley-leonard-1-play-away-instead-of-2-plays-away/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-13T00:15:24+0000",
-      "summary": "INDIANAPOLIS — Just like that, Riley Leonard’s Sunday afternoon at the office changed. In the blink of an eye — or to be more precise, when Anthony Richardson Sr. suffered an eye injury during pre-game warm-ups — the Indianapolis Colts’ rookie quarterback saw his role altered from inactive/emergency QB to Daniel Jones’ backup. “I’m thinking, [...]"
-    },
-    {
-      "id": "42c7c6c13638125d",
-      "title": "Colts find a way against Arizona, push record to AFC-best 5-1",
-      "link": "https://fox59.com/sports/colts/colts-find-a-way-against-arizona-push-record-to-afc-best-5-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T23:52:05+0000",
-      "summary": "INDIANAPOLIS — There are times things get a little more complicated — and difficult — than expected. Like when the Indianapolis Colts lost Anthony Richardson Sr. in pre-game warm-ups Sunday at Lucas Oil Stadium. The backup quarterback fractured an orbital bone in an eye when he was working with a resistance band. Like when the [...]"
-    },
-    {
-      "id": "2ac5bc82b1c2d825",
-      "title": "Colts secondary fights through adversity, comes up big when needed in win over Cardinals",
-      "link": "https://colts.com/news/colts-secondary-adversity-injuries-charvarius-ward-kenny-moore-mekhi-blackmon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T23:16:40+0000",
-      "summary": "The Colts were without Charvarius Ward Sr. (concussion) and Kenny Moore II (Achilles) in Sunday's 31-27 win over the Cardinals."
-    },
-    {
-      "id": "bf912260092ba115",
-      "title": "Daniel Jones' preparation shines against shape-shifting Cardinals defense as Colts' offense keeps rolling",
-      "link": "https://colts.com/news/daniel-jones-preparation-shines-against-shape-shifting-cardinals-defense-as-colts-offense-keeps-rolling",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T22:31:18+0000",
-      "summary": "The Arizona Cardinals rolled into downtown Indianapolis for Week 6 having not allowed more than 23 points in a game this season; the Colts needed all 31 points they scored on Sunday to improve to 5-1."
-    },
-    {
-      "id": "39652a8d324cf97b",
-      "title": "After Anthony Richardson Sr. sustains fractured orbital bone, Riley Leonard ready as Colts' backup quarterback amid difficult circumstances",
-      "link": "https://colts.com/news/after-anthony-richardson-sr-sustains-fractured-orbital-bone-riley-leonard-ready-as-colts-backup-quarterback-amid-difficult-circumstances",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T21:46:07+0000",
-      "summary": "Richardson sustained a fractured orbital bone after a freak accident during pregame band work on Sunday."
-    },
-    {
-      "id": "d8205f7357af53ab",
-      "title": "Colts rally to beat Cardinals, 31-27, to improve to 5-1",
-      "link": "https://fox59.com/sports/colts/colts-rally-to-beat-cardinals-31-27-to-improve-to-5-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T20:06:42+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts rallied from a fourth-quarter deficit to beat the Arizona Cardinals, 31-27, at Lucas Oil Stadium on Sunday afternoon to improve to 5-1. The offense scored two touchdowns in the fourth quarter, then the defense shut the door on the visitors as they drove for the go-ahead score in the final [...]"
-    },
-    {
-      "id": "0e17599f1b944c29",
-      "title": "Despite depleted defense, Colts stand strong in win over Cardinals",
-      "link": "https://colts.com/news/depleted-defense-colts-stand-strong-in-win-over-cardinals-week-6-daniel-jones-laiatu-latu",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T20:05:41+0000",
-      "summary": "The Colts rallied for a 31-27 win over the Cardinals, improving to 5-1."
     }
   ],
   "links": [
