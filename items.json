@@ -1,14 +1,50 @@
 {
-  "updated": "2025-10-19T21:36:31+00:00",
+  "updated": "2025-10-19T22:16:05+00:00",
   "items": [
+    {
+      "id": "3b3d1e238aff3336",
+      "title": "NFL Week 7's fashionable arrivals, featuring Jake Ferguson wearing Dak's high school jersey",
+      "link": "https://espn.com/nfl/story/_/id/46616286/week-7-nfl-fashionable-arrivals-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-19T22:51:02+0000",
+      "summary": "The stars strutted in their arrivals to the pregame tunnels in looks that match their personal style."
+    },
+    {
+      "id": "45a015cf1c96fe7e",
+      "title": "Blowouts breed pettiness: Patriots zing Titans and the rest of NFL Week 7's best petty posts",
+      "link": "https://espn.com/nfl/story/_/id/46651591/nfl-week-7-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-19T22:51:02+0000",
+      "summary": "The New England Patriots used their head coach's return to Tennessee to troll the Titans."
+    },
     {
       "id": "4d9053561480ae99",
       "title": "🏈 2026 draft risers, latest intel, standouts",
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-19T22:23:43+0000",
+      "published": "2025-10-19T22:43:14+0000",
       "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
+    },
+    {
+      "id": "894b618248ef57e2",
+      "title": "Colts take 31-10 lead with Jonathan Taylor's second touchdown",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-take-31-10-lead-with-jonathan-taylors-second-touchdown",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T22:07:52+0000",
+      "summary": "The Chargers looked like they had a little something going, scoring a touchdown to open the second half."
+    },
+    {
+      "id": "5300b34e51016459",
+      "title": "Chargers vs. Colts: First-half takeaways from Week 7 game",
+      "link": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2025/10/19/chargers-colts-takeaways-first-half-daniel-jones-jonathan-taylor/86792942007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T22:00:08+0000",
+      "summary": "The Chargers trail the Colts at the half."
     },
     {
       "id": "745f8e669cd01f90",
@@ -20,58 +56,22 @@
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 7."
     },
     {
-      "id": "aaa7119d7178ba29",
-      "title": "Is Quentin Johnston playing today? Why Chargers WR is off to quiet start vs. Colts",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-chargers/news/quentin-johnston-playing-today-why-chargers-quiet-start-vs-colts/c0efb34438c2e42a4d060313",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T21:19:44+0000",
-      "summary": "Los Angeles Chargers wide receiver Quentin Johnston is having a rough start to the Week 7 game against the Indianapolis Colts. Here's a closer look at what's happening."
+      "id": "744440a21b513e85",
+      "title": "Week 7 Colts vs. Chargers Game Thread",
+      "link": "https://stampedeblue.com/gamethreads/116502/week-7-colts-vs-chargers-game-thread",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-19T19:55:09+0000",
+      "summary": "The Indianapolis Colts are on the road to take on the Los Angeles Chargers in week 7 of the 2025 season, kickoff is at 4:05 p.m. EST. Last week our Colts squeaked by a Cardinals team that was led by Jacoby Brissett. Losing Mooney Ward before the game severely limited the secondary and Brissett seized the opportunity [&#8230;]"
     },
     {
-      "id": "6edb3672d106f71f",
-      "title": "Former Buccaneers standout running back Doug Martin dies at 36",
-      "link": "https://usatoday.com/story/sports/nfl/buccaneers/2025/10/19/doug-martin-tampa-bay-buccaneers-running-back/86791814007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T21:15:27+0000",
-      "summary": "Former Tampa Bay Buccaneers running back Doug Martin, who stormed onto the NFL scene as a rookie, died Sunday at 36."
-    },
-    {
-      "id": "84ac856d3b85fbd1",
-      "title": "Doug Martin dies at 36: NFL world mourns former Buccaneers RB known as 'Muscle Hamster'",
-      "link": "https://sportingnews.com/us/nfl/tampa-bay-buccaneers/news/doug-martin-dies-36-nfl-buccaneers-muscle-hamster/68d25dad41f52dd998679140",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T21:15:12+0000",
-      "summary": "The NFL is remembering the life and career of former Buccaneers RB Doug Martin, who died at the age of 36."
-    },
-    {
-      "id": "82edbc79919b9687",
-      "title": "Colts take 20-3 lead with Tyler Warren touchdown",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-take-20-3-lead-with-tyler-warren-touchdown",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T21:10:35+0000",
-      "summary": "Make it three touchdowns in three possessions for the Colts on Sunday."
-    },
-    {
-      "id": "6cd60db780438311",
-      "title": "Former NFL running back Doug Martin dies at 36",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-nfl-running-back-doug-martin-dies-at-36",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T21:10:29+0000",
-      "summary": "Doug Martin, an All-Pro running back for the Tampa Bay Buccaneers, has died at the age of 36."
-    },
-    {
-      "id": "33f226fc502953bd",
-      "title": "Rams charge to win over Jags despite Hunter score",
-      "link": "https://bbc.com/sport/american-football/articles/cy0k8red0ejo",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T19:32:55+0000",
-      "summary": "Travis Hunter scores his first NFL touchdown but it is merely a consolation as the Los Angeles Rams brush off jet lag to claim a 35-7 win over the Jacksonville Jaguars at Wembley."
+      "id": "d4136057deac1563",
+      "title": "Colts at Chargers: Week 7 Inactives",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/116505/colts-at-chargers-week-7-inactives",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-19T19:28:54+0000",
+      "summary": "The Indianapolis Colts announced that the following players are inactive for Week 7’s road game against the Los Angeles Chargers (4:05 PM EST): The real discouraging news came earlier in this weekend when cornerback Charvarius Ward (concussion) was placed on injured reserve after suffering his second concussion of the season during pre-game warmups after colliding [&#8230;]"
     },
     {
       "id": "893803f0a3ae6b80",
@@ -81,15 +81,6 @@
       "feed": "Colts.com",
       "published": "2025-10-19T18:35:53+0000",
       "summary": "The Colts previously ruled out wide receivers Josh Downs (concussion) and Ashton Dulin (chest) and running back Tyler Goodson (groin) for Week 7."
-    },
-    {
-      "id": "3b3d1e238aff3336",
-      "title": "NFL Week 7's fashionable arrivals, featuring Jake Ferguson wearing Dak's high school jersey",
-      "link": "https://espn.com/nfl/story/_/id/46616286/week-7-nfl-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-19T17:51:57+0000",
-      "summary": "The stars strutted in their arrivals to the pregame tunnels in looks that match their personal style."
     },
     {
       "id": "334d84e82f1d035b",
@@ -117,6 +108,24 @@
       "feed": "CBS4Indy",
       "published": "2025-10-19T16:39:12+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question to help get to know the roster. This week, Chris asks the players what their favorite sports movie is as the Horseshoes go Hollywood to play the Chargers in Los Angeles."
+    },
+    {
+      "id": "2362408d9dd230c5",
+      "title": "Where to watch: Colts at Bolts for Week 7",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/116495/where-to-watch-colts-at-bolts-for-week-7",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-19T15:57:46+0000",
+      "summary": "The Indianapolis Colts (5-1) travel to SoFi Stadium for the second time this 2025 regular season. Only this time around, Indianapolis will take on the AFC West leading Los Angeles Chargers (4-2)(-2.5) under their current head coach ‘Captain Comeback’ Jim Harbaugh, who of course, is in the Colts Ring of Honor and led his former [&#8230;]"
+    },
+    {
+      "id": "2f70c949daaeb35f",
+      "title": "Colts Mock Draft Roundup",
+      "link": "https://stampedeblue.com/indianapolis-colts-mock-drafts/116439/colts-mock-draft-roundup",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-19T15:30:00+0000",
+      "summary": "As the leaves change color and Spirit Halloweens pop up, the midway point of the NFL season is fast approaching. By now nearly a quarter of the league’s fans are longing for the spring after starting the season with 2 or less wins, when hope can be renewed with the offseason’s changes. Most are looking [&#8230;]"
     },
     {
       "id": "ac68674c43fa59dc",
@@ -263,15 +272,6 @@
       "summary": "On his show The Breer Report, Sports Illustrated’s Albert Breer revealed what the Cincinnati Bengals asked for in the past summer to send star pass rusher Trey Hendrickson over to the Colts to reunite with Defensive Coordinator Lou Anarumo. Prior reports said that the Bengals were looking for a good player plus an early pick [&#8230;]"
     },
     {
-      "id": "4810c2d17f55c345",
-      "title": "Indianapolis Colts Thursday Injury Report: Two Starters Miss Practice Again With Concussions",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/116412/indianapolis-colts-thursday-injury-report-two-starters-miss-practice-again-with-concussions",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-17T14:39:52+0000",
-      "summary": "The&#160;Indianapolis Colts&#160;today released their Thursday injury report for Week 7 of the NFL season ahead of their Sunday game against the Los Angeles Chargers. Cornerback Mooney Ward missed practice today due to a concussion. Ward is still in the leagues concussion protocol and looks almost certain to miss this weeks game because of it. If [&#8230;]"
-    },
-    {
       "id": "75f65f228c04e572",
       "title": "Colts-Chargers preview: Pressure on Justin Herbert, run game success, red zone efficiency key factors in Week 7",
       "link": "https://colts.com/news/colts-chargers-preview-pressure-on-justin-herbert-run-game-success-red-zone-efficiency-key-factors-in-week-7",
@@ -288,15 +288,6 @@
       "feed": "Colts.com",
       "published": "2025-10-17T14:00:00+0000",
       "summary": "The Indianapolis Colts will host the 2025 Indiana State Finals for high school girls flag football, a first for the state of Indiana, at Grand Park Sport Campus in Westfield, Ind., on Sat., Oct. 18."
-    },
-    {
-      "id": "5112f3ecc8109157",
-      "title": "Jonathan Taylor favorite to win 2025 Offensive Player of the Year",
-      "link": "https://stampedeblue.com/nflgeneral/116381/jonathan-taylor-favorite-to-win-2025-offensive-player-of-the-year",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-17T14:00:00+0000",
-      "summary": "Across BetMGM, DraftKings, ESPN Bet, and FanDuel the consensus is clear. Jonathan Taylor is the favorite to win the “Offensive MVP for non QBs” award. His top competition is fierce however, as Falcons Running Back Bijan Robinson is right behind him followed by Seahawks Wide Receiver Jaxon Smith Njigba in 3rd. NFC West weapons in [&#8230;]"
     },
     {
       "id": "b90d82cbf5c68608",
@@ -335,15 +326,6 @@
       "summary": "DeForest Buckner enters Week 7 leading all NFL defensive tackles with 31 tackles."
     },
     {
-      "id": "03d2366c2c4d3d93",
-      "title": "Colts Reacts Survey Week 7: It’s time to believe in Indianapolis",
-      "link": "https://stampedeblue.com/indianapolis-colts-schedule/116284/colts-fan-survey-week-7-daniel-jones-jonathan-taylor",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-16T19:54:02+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Who would have guessed that Daniel Jones could resurrect his career as an NFL starter in [&#8230;]"
-    },
-    {
       "id": "6b11f051f50d249b",
       "title": "Practice Notebook: Brett Rypien focused on getting up to speed in Colts offense after 'whirlwind' arrival",
       "link": "https://colts.com/news/practice-notebook-brett-rypien-colts-quarterback-daniel-jones-practice-squad-shane-steichen",
@@ -369,15 +351,6 @@
       "feed": "Colts.com",
       "published": "2025-10-16T18:36:35+0000",
       "summary": "The Colts Show Mailbag returns for Week 7 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "39e2a62401efc9ea",
-      "title": "Opponent Preview: The Los Angeles Chargers",
-      "link": "https://stampedeblue.com/opponent-scouting-report/116258/opponent-preview-the-los-angeles-chargers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-16T17:00:00+0000",
-      "summary": "The Colts return to the site of their only loss in the 2025 season thus far, this time to take on the AFC tenant of SoFi Stadium: the LA Chargers. Like their stadium-mates Rams, the Chargers represent a tough test for the Colts to further prove their legitimacy atop the NFL’s upper echelon. The Chargers [&#8230;]"
     },
     {
       "id": "b89294de3d757566",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-10-13T14:56:24+0000",
       "summary": "The Jaguars lost to the Seahawks and the Titans lost to the Raiders on Sunday; the Texans were on a bye in Week 6."
+    },
+    {
+      "id": "aea18c5acfcc1f5c",
+      "title": "Colts Blue Zone Podcast 432: Victory Monday as Colts Top Cardinals",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-432-victory-monday-as-colts-top-cardinals/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-13T13:36:17+0000",
+      "summary": "The Indianapolis Colts didn't play their best but improved to 5-1 after topping the Arizona Cardinals at Lucas Oil Stadium. Matt Adams recaps the 31-27 win in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
+    },
+    {
+      "id": "0e9b13fd49e36ae9",
+      "title": "Colts’ Riley Leonard: 1 play away instead of 2 plays away",
+      "link": "https://fox59.com/sports/colts/colts-riley-leonard-1-play-away-instead-of-2-plays-away/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-13T00:15:24+0000",
+      "summary": "INDIANAPOLIS — Just like that, Riley Leonard’s Sunday afternoon at the office changed. In the blink of an eye — or to be more precise, when Anthony Richardson Sr. suffered an eye injury during pre-game warm-ups — the Indianapolis Colts’ rookie quarterback saw his role altered from inactive/emergency QB to Daniel Jones’ backup. “I’m thinking, [...]"
+    },
+    {
+      "id": "42c7c6c13638125d",
+      "title": "Colts find a way against Arizona, push record to AFC-best 5-1",
+      "link": "https://fox59.com/sports/colts/colts-find-a-way-against-arizona-push-record-to-afc-best-5-1/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-12T23:52:05+0000",
+      "summary": "INDIANAPOLIS — There are times things get a little more complicated — and difficult — than expected. Like when the Indianapolis Colts lost Anthony Richardson Sr. in pre-game warm-ups Sunday at Lucas Oil Stadium. The backup quarterback fractured an orbital bone in an eye when he was working with a resistance band. Like when the [...]"
     }
   ],
   "links": [
