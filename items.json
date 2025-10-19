@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T09:16:17+00:00",
+  "updated": "2025-10-19T09:36:25+00:00",
   "items": [
     {
       "id": "ac68674c43fa59dc",
@@ -45,15 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-19T09:00:01+0000",
       "summary": "Dak Prescott and the Cowboys take on Jayden Daniels and the Commanders in Dallas on Sunday. Here's how to watch this exciting divisional game, including kickoff time, broadcast TV schedule and live-stream details."
-    },
-    {
-      "id": "186b580024c29261",
-      "title": "Where to watch Broncos vs. Giants today: Channel, live stream, time, schedule for Week 7 NFL game",
-      "link": "https://sportingnews.com/us/nfl/news/watch-broncos-giants-channel-stream-time-schedule/a86cf1ddeb8f02edcdf5b06f",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T08:30:01+0000",
-      "summary": "The Sporting News has all the details on how to watch the Broncos vs. Giants."
     },
     {
       "id": "7ec7caf45335f45c",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-12T23:52:05+0000",
       "summary": "INDIANAPOLIS — There are times things get a little more complicated — and difficult — than expected. Like when the Indianapolis Colts lost Anthony Richardson Sr. in pre-game warm-ups Sunday at Lucas Oil Stadium. The backup quarterback fractured an orbital bone in an eye when he was working with a resistance band. Like when the [...]"
+    },
+    {
+      "id": "2ac5bc82b1c2d825",
+      "title": "Colts secondary fights through adversity, comes up big when needed in win over Cardinals",
+      "link": "https://colts.com/news/colts-secondary-adversity-injuries-charvarius-ward-kenny-moore-mekhi-blackmon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-12T23:16:40+0000",
+      "summary": "The Colts were without Charvarius Ward Sr. (concussion) and Kenny Moore II (Achilles) in Sunday's 31-27 win over the Cardinals."
     }
   ],
   "links": [
