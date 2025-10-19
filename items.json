@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T09:36:25+00:00",
+  "updated": "2025-10-19T10:17:03+00:00",
   "items": [
     {
       "id": "ac68674c43fa59dc",
@@ -11,40 +11,58 @@
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Chargers on Sunday, October 19 at 4:05 p.m. ET (Week 7)."
     },
     {
-      "id": "96e69e9f9c53714b",
-      "title": "Steelers interested in wide receiver trade target to pair with DK Metcalf, per report",
-      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/10/19/steelers-dk-metcalf-trade/86785302007/",
+      "id": "e9b83db3724e0f2c",
+      "title": "NFL interim coach records in Game 1 as 'first game bump' is recent trend",
+      "link": "https://tennessean.com/story/sports/nfl/titans/2025/10/19/nfl-interim-coach-first-game-record-titans-mike-mccoy/86711822007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-19T09:08:11+0000",
-      "summary": "The Pittsburgh Steelers are reportedly targeting a wide receiver trade, according to a new report from NFL Network's Ian Rapoport."
+      "published": "2025-10-19T10:03:11+0000",
+      "summary": "The &quot;first-game bump&quot; is a recent trend after years of futility among NFL interim coaches, but is it a real thing? See the NFL interim records for their first game here."
     },
     {
-      "id": "7d7d3d3f6e715022",
-      "title": "20 things to watch as Colts take on Chargers in toughest test yet",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/19/colts-vs-chargers-20-things-to-watch/86663834007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-19T09:03:31+0000",
-      "summary": "Indianapolis travels to Los Angeles to take on the Chargers at 4:05 p.m. Sunday (WTTV-4)."
-    },
-    {
-      "id": "ddddd1bff4f9dac1",
-      "title": "What channel is Giants vs. Broncos on today? Time, TV schedule for NFL Week 7 game",
-      "link": "https://giantswire.usatoday.com/story/sports/nfl/giants/2025/10/19/where-watch-new-york-giants-denver-broncos-today-tv-channel-live-stream/86744801007/",
+      "id": "7d86c88c0110467d",
+      "title": "Can Puka Nacua break the NFL all-time receiving record? Rams WR on historic pace in 2025",
+      "link": "https://usatoday.com/story/sports/nfl/2025/10/19/puka-nacua-rams-nfl-history-receiving-yards/86479064007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-19T09:02:09+0000",
-      "summary": "The New York Giants and Denver Broncos face off in Week 7 of the NFL regular season today. Here's where to watch and start time."
+      "published": "2025-10-19T10:01:52+0000",
+      "summary": "The Los Angeles Rams' offense is off to a hot start behind its third-year wide receiver. Here's how good of a season he's on pace for in 2025."
     },
     {
-      "id": "76a0de02baa52340",
-      "title": "Where to watch Cowboys vs. Commanders today: Channel, live stream, time, schedule for Week 7 NFL game",
-      "link": "https://sportingnews.com/us/nfl/news/watch-cowboys-commanders-channel-stream-time-schedule/bdf5d4330d43096f9dd9ff1d",
+      "id": "73503bc2efa7d3c6",
+      "title": "What channel is Titans vs. Patriots on today? Time, TV schedule for NFL Week 7 game",
+      "link": "https://titanswire.usatoday.com/story/sports/nfl/titans/2025/10/19/where-watch-tennessee-titans-patriots-today-tv-channel-live-stream/86746085007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-10-19T09:00:01+0000",
-      "summary": "Dak Prescott and the Cowboys take on Jayden Daniels and the Commanders in Dallas on Sunday. Here's how to watch this exciting divisional game, including kickoff time, broadcast TV schedule and live-stream details."
+      "published": "2025-10-19T10:00:34+0000",
+      "summary": "The Tennessee Titans and New England Patriots face off in Week 7 of the NFL regular season today. Here's where to watch and start time."
+    },
+    {
+      "id": "310528b82fe39109",
+      "title": "Chargers vs. Colts: How to watch, start time and prediction",
+      "link": "https://sports.yahoo.com/article/chargers-vs-colts-watch-start-100000594.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T10:00:00+0000",
+      "summary": "Everything you need to know about the Chargers vs. the Indianapolis Colts in NFL Week 7, including how to watch, betting odds and a prediction on who will win."
+    },
+    {
+      "id": "f32588a69f6b13b6",
+      "title": "Jaguars vs. Rams radio coverage: Station, channel, streaming to listen live to NFL London game broadcast",
+      "link": "https://sportingnews.com/us/nfl/news/jaguars-rams-radio-coverage-station-channels-streaming-listen-live/c853311f5a529d6f035d56a4",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T09:50:01+0000",
+      "summary": "Here is everything you need to know in order to listen to the Jacksonville Jaguars and the Los Angeles Rams on the radio."
+    },
+    {
+      "id": "4e5fb4d1fed621d7",
+      "title": "Are the Cincinnati Bengals playing today?",
+      "link": "https://bengalswire.usatoday.com/story/sports/nfl/bengals/2025/10/19/do-cincinnati-bengals-play-today-week-7/86780640007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-19T09:30:54+0000",
+      "summary": "An updated look at the Bengals 2025 NFL schedule for Week 7."
     },
     {
       "id": "7ec7caf45335f45c",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-13T00:15:24+0000",
       "summary": "INDIANAPOLIS — Just like that, Riley Leonard’s Sunday afternoon at the office changed. In the blink of an eye — or to be more precise, when Anthony Richardson Sr. suffered an eye injury during pre-game warm-ups — the Indianapolis Colts’ rookie quarterback saw his role altered from inactive/emergency QB to Daniel Jones’ backup. “I’m thinking, [...]"
-    },
-    {
-      "id": "42c7c6c13638125d",
-      "title": "Colts find a way against Arizona, push record to AFC-best 5-1",
-      "link": "https://fox59.com/sports/colts/colts-find-a-way-against-arizona-push-record-to-afc-best-5-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-12T23:52:05+0000",
-      "summary": "INDIANAPOLIS — There are times things get a little more complicated — and difficult — than expected. Like when the Indianapolis Colts lost Anthony Richardson Sr. in pre-game warm-ups Sunday at Lucas Oil Stadium. The backup quarterback fractured an orbital bone in an eye when he was working with a resistance band. Like when the [...]"
-    },
-    {
-      "id": "2ac5bc82b1c2d825",
-      "title": "Colts secondary fights through adversity, comes up big when needed in win over Cardinals",
-      "link": "https://colts.com/news/colts-secondary-adversity-injuries-charvarius-ward-kenny-moore-mekhi-blackmon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-12T23:16:40+0000",
-      "summary": "The Colts were without Charvarius Ward Sr. (concussion) and Kenny Moore II (Achilles) in Sunday's 31-27 win over the Cardinals."
     }
   ],
   "links": [
