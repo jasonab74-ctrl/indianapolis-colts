@@ -1,22 +1,13 @@
 {
-  "updated": "2025-10-20T18:27:46+00:00",
+  "updated": "2025-10-20T18:52:05+00:00",
   "items": [
-    {
-      "id": "69ac0c8d34517754",
-      "title": "Patriots fuel best week of NFL season for bettors, Broncos break 1,602-game streak",
-      "link": "https://espn.com/espn/betting/story/_/id/46653559/nfl-betting-week-7-new-england-patriots-mike-vrabel-kansas-city-chiefs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T18:41:18+0000",
-      "summary": "Mike Vrabel and the Patriots were one of seven favorites to win outright in the early Week 7 NFL slate."
-    },
     {
       "id": "c293057fc8cab130",
       "title": "Vikes' Rodgers on angry fan talk: 'Racism is real'",
       "link": "https://espn.com/nfl/story/_/id/46660654/vikings-isaiah-rodgers-calls-fans-racist-comments",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-20T18:27:06+0000",
+      "published": "2025-10-20T19:40:42+0000",
       "summary": "Vikings cornerback Isaiah Rodgers, who was the primary defender on two key plays that sparked the Eagles to beat Minnesota 28-22, said he has received \"some of the most racist comments\" he has seen since he joined the NFL."
     },
     {
@@ -25,17 +16,8 @@
       "link": "https://espn.com/nfl/story/_/id/46655440/bo-nix-broncos-outlast-giants-historic-comeback-4th",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-20T18:27:06+0000",
+      "published": "2025-10-20T19:40:42+0000",
       "summary": "Shut out for three quarters, the Broncos rallied with 33 points in the fourth to beat the Giants on Sunday in one of the most stunning turnarounds in NFL history."
-    },
-    {
-      "id": "d34120da6e0b41fd",
-      "title": "Vikes' Hockenson livid after replay overturns TD",
-      "link": "https://espn.com/nfl/story/_/id/46652755/vikings-tj-hockenson-ridiculous-td-was-overturned",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T18:27:06+0000",
-      "summary": "T.J. Hockenson was livid Sunday when NFL replay overturned a fourth-quarter touchdown catch that would have closed the Philadelphia Eagles' lead to two points in the Vikings' eventual 28-22 loss."
     },
     {
       "id": "4d9053561480ae99",
@@ -43,8 +25,17 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-20T18:27:06+0000",
+      "published": "2025-10-20T19:40:42+0000",
       "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
+    },
+    {
+      "id": "69ac0c8d34517754",
+      "title": "Patriots fuel best week of NFL season for bettors, Broncos break 1,602-game streak",
+      "link": "https://espn.com/espn/betting/story/_/id/46653559/nfl-betting-week-7-new-england-patriots-mike-vrabel-kansas-city-chiefs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T18:41:18+0000",
+      "summary": "Mike Vrabel and the Patriots were one of seven favorites to win outright in the early Week 7 NFL slate."
     },
     {
       "id": "bfd650850f47d42f",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-15T16:43:23+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ quarterback picture is gaining clarity. For now. Rookie Riley Leonard is Daniel Jones’ backup for Sunday’s visit to the Los Angeles Chargers, the second straight game the sixth-round draft pick will be one play away from running the NFL’s top-scoring offense. The Colts are signing Brett Rypien to the practice [...]"
+    },
+    {
+      "id": "12c9eb2ea264e242",
+      "title": "Colts plan on signing QB Brett Rypien to practice squad",
+      "link": "https://fox59.com/sports/colts/colts-plan-on-signing-qb-brett-rypien-to-practice-squad/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-14T23:47:31+0000",
+      "summary": "INDIANAPOLIS -- The Indianapolis Colts plan on addressing their need at quarterback by signing Brett Rypien to their practice squad on Wednesday, according to a source with knowledge of the situation. Rypien, 29, has appeared in just 11 games with four starts and 168 pass attempts with Denver, the Los Angeles Rams and Cincinnati since [...]"
     }
   ],
   "links": [
