@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-20T19:14:52+00:00",
+  "updated": "2025-10-20T19:37:13+00:00",
   "items": [
+    {
+      "id": "f56b219e3dedda0b",
+      "title": "Barnwell: We thought we knew the Chiefs, Bills, Jaguars and Colts -- but we were wrong",
+      "link": "https://espn.com/nfl/story/_/id/46649475/2025-nfl-week-7-barnwell-wrong-takes-chiefs-colts-jaguars-bills",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T20:12:57+0000",
+      "summary": "Remember when we thought the Chiefs' offense was toast? That the Colts would fizzle? The Jaguars would be OK, and the Bills were an AFC lock? Well ..."
+    },
     {
       "id": "c293057fc8cab130",
       "title": "Vikes' Rodgers on angry fan talk: 'Racism is real'",
@@ -27,6 +36,15 @@
       "feed": "ESPN",
       "published": "2025-10-20T19:40:42+0000",
       "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
+    },
+    {
+      "id": "7e46f9fd51cbfc8d",
+      "title": "Colts’ Samson Ebukam expected to miss time with knee injury",
+      "link": "https://fox59.com/sports/colts/colts-samson-ebukam-expected-to-miss-time-with-knee-injury/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-20T19:20:59+0000",
+      "summary": "INDIANAPOLIS – Samson Ebukam apparently avoided a long-term knee injury, but one of the Indianapolis Colts’ edge pass rushers is expected to miss an undetermined amount of time. According to a source with knowledge of the situation, the initial diagnosis of the knee injury Ebukam sustained in Sunday’s 38-24 win over the Los Angeles Chargers [...]"
     },
     {
       "id": "69ac0c8d34517754",
@@ -72,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-10-20T17:21:17+0000",
       "summary": "Taylor recorded 132 scrimmage yards (94 rushing, 38 receiving) and three rushing touchdowns in the Colts’ win over the Chargers."
-    },
-    {
-      "id": "f56b219e3dedda0b",
-      "title": "Barnwell: We thought we knew the Chiefs, Bills, Jaguars and Colts -- but we were wrong",
-      "link": "https://espn.com/nfl/story/_/id/46649475/2025-nfl-week-7-barnwell-wrong-takes-chiefs-colts-jaguars-bills",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T16:54:50+0000",
-      "summary": "Remember when we thought the Chiefs' offense was toast? That the Colts would fizzle? The Jaguars would be OK, and the Bills were an AFC lock? Well ..."
     },
     {
       "id": "0a5285fd0aa9f52e",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-15T16:43:23+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ quarterback picture is gaining clarity. For now. Rookie Riley Leonard is Daniel Jones’ backup for Sunday’s visit to the Los Angeles Chargers, the second straight game the sixth-round draft pick will be one play away from running the NFL’s top-scoring offense. The Colts are signing Brett Rypien to the practice [...]"
-    },
-    {
-      "id": "12c9eb2ea264e242",
-      "title": "Colts plan on signing QB Brett Rypien to practice squad",
-      "link": "https://fox59.com/sports/colts/colts-plan-on-signing-qb-brett-rypien-to-practice-squad/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-14T23:47:31+0000",
-      "summary": "INDIANAPOLIS -- The Indianapolis Colts plan on addressing their need at quarterback by signing Brett Rypien to their practice squad on Wednesday, according to a source with knowledge of the situation. Rypien, 29, has appeared in just 11 games with four starts and 168 pass attempts with Denver, the Los Angeles Rams and Cincinnati since [...]"
     }
   ],
   "links": [
