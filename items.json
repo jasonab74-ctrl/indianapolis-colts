@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-20T06:28:23+00:00",
+  "updated": "2025-10-20T06:51:56+00:00",
   "items": [
     {
       "id": "d34120da6e0b41fd",
@@ -45,15 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-10-20T06:20:57+0000",
       "summary": "The Indianapolis Colts cement their place as genuine contenders while Bo Nix leads an incredible comeback for the Denver Broncos."
-    },
-    {
-      "id": "543dbb88657660da",
-      "title": "What time are the NFL games tonight? TV schedule, channels for 'Monday Night Football' Week 7 doubleheader",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-games-tonight-time-schedule-channels-monday-doubleheader/a275030825fab22e749fedf3",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T05:00:08+0000",
-      "summary": "The Sporting News has all the details on how to watch the Monday Night Football doubleheader."
     },
     {
       "id": "745f8e669cd01f90",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-14T19:54:37+0000",
       "summary": "The Colts made the roster move on Tuesday."
+    },
+    {
+      "id": "d2c06ddb4f90fb6d",
+      "title": "Colts release unofficial depth chart for Week 7 game vs. Los Angeles Chargers",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-7-game-vs-los-angeles-chargers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-14T19:47:19+0000",
+      "summary": "The Colts released their Week 6 unofficial depth chart ahead of their game against the Los Angeles Chargers Sunday at SoFi Stadium. Check it out below:"
     }
   ],
   "links": [
