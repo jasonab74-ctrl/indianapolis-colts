@@ -1,6 +1,60 @@
 {
-  "updated": "2025-10-20T17:16:05+00:00",
+  "updated": "2025-10-20T17:39:49+00:00",
   "items": [
+    {
+      "id": "c293057fc8cab130",
+      "title": "Vikes' Rodgers on angry fan talk: 'Racism is real'",
+      "link": "https://espn.com/nfl/story/_/id/46660654/vikings-isaiah-rodgers-calls-fans-racist-comments",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T18:27:06+0000",
+      "summary": "Vikings cornerback Isaiah Rodgers, who was the primary defender on two key plays that sparked the Eagles to beat Minnesota 28-22, said he has received \"some of the most racist comments\" he has seen since he joined the NFL."
+    },
+    {
+      "id": "09189096bb00b504",
+      "title": "Broncos marvel at historic rally: 'Always a way'",
+      "link": "https://espn.com/nfl/story/_/id/46655440/bo-nix-broncos-outlast-giants-historic-comeback-4th",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T18:27:06+0000",
+      "summary": "Shut out for three quarters, the Broncos rallied with 33 points in the fourth to beat the Giants on Sunday in one of the most stunning turnarounds in NFL history."
+    },
+    {
+      "id": "d34120da6e0b41fd",
+      "title": "Vikes' Hockenson livid after replay overturns TD",
+      "link": "https://espn.com/nfl/story/_/id/46652755/vikings-tj-hockenson-ridiculous-td-was-overturned",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T18:27:06+0000",
+      "summary": "T.J. Hockenson was livid Sunday when NFL replay overturned a fourth-quarter touchdown catch that would have closed the Philadelphia Eagles' lead to two points in the Vikings' eventual 28-22 loss."
+    },
+    {
+      "id": "4d9053561480ae99",
+      "title": "🏈 2026 draft risers, latest intel, standouts",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T18:27:06+0000",
+      "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
+    },
+    {
+      "id": "c9b99ed21cd71b59",
+      "title": "No longer ‘happy go lucky,’ these surprising Colts have become legit AFC contender",
+      "link": "https://stampedeblue.com/analysis/116579/no-longer-happy-go-lucky-these-surprising-colts-have-become-a-legit-afc-contender",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-20T17:23:29+0000",
+      "summary": "No one, and I mean absolutely no one, realistically thought the Indianapolis Colts would be this good outside of anyone directly employed at their W. 56th Street complex or with some really Horseshoe blue tinted glasses. This isn’t just a good team that may sneak into an AFC wild card game anymore, with the right [&#8230;]"
+    },
+    {
+      "id": "03ebd8a2edeed10f",
+      "title": "Jonathan Taylor nominated for Week 7 FedEx Ground Player of the Week",
+      "link": "https://colts.com/news/jonathan-taylor-nominated-for-week-7-fedex-ground-player-of-the-week",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-20T17:21:17+0000",
+      "summary": "Taylor recorded 132 scrimmage yards (94 rushing, 38 receiving) and three rushing touchdowns in the Colts’ win over the Chargers."
+    },
     {
       "id": "f56b219e3dedda0b",
       "title": "Barnwell: We thought we knew the Chiefs, Bills, Jaguars and Colts -- but we were wrong",
@@ -99,42 +153,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-20T11:00:00+0000",
       "summary": "The Indianapolis Colts head back to Indiana off a huge road win against the Los Angeles Chargers. The game got tighter at times but the Colts were never truly in danger as they handled their business in an extremely impressive fashion. The Colts now return home for their last true home game before the bye [&#8230;]"
-    },
-    {
-      "id": "d34120da6e0b41fd",
-      "title": "Vikes' Hockenson livid after replay overturns TD",
-      "link": "https://espn.com/nfl/story/_/id/46652755/vikings-tj-hockenson-ridiculous-td-was-overturned",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T07:07:12+0000",
-      "summary": "T.J. Hockenson was livid Sunday when NFL replay overturned a fourth-quarter touchdown catch that would have closed the Philadelphia Eagles' lead to two points in the Vikings' eventual 28-22 loss."
-    },
-    {
-      "id": "4d9053561480ae99",
-      "title": "🏈 2026 draft risers, latest intel, standouts",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T07:07:12+0000",
-      "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
-    },
-    {
-      "id": "09189096bb00b504",
-      "title": "Broncos marvel at historic rally: 'Always a way'",
-      "link": "https://espn.com/nfl/story/_/id/46655440/bo-nix-broncos-outlast-giants-historic-comeback-4th",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T07:07:11+0000",
-      "summary": "Shut out for three quarters, the Broncos rallied with 33 points in the fourth to beat the Giants on Sunday in one of the most stunning turnarounds in NFL history."
-    },
-    {
-      "id": "754606959228df4c",
-      "title": "'Best back' in NFL? Taylor adds 3 more TDs to case",
-      "link": "https://espn.com/nfl/story/_/id/46654784/jonathan-taylor-notches-another-td-hat-trick-colts-win",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T07:07:11+0000",
-      "summary": "Jonathan Taylor became the fourth player in NFL history with three games of three rushing touchdowns within his team's first seven games, joining Jim Brown (1958), Priest Holmes (2004) and Derrick Henry (2021)."
     },
     {
       "id": "ffff23d4d39c8d71",
@@ -252,15 +270,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-19T19:55:09+0000",
       "summary": "The Indianapolis Colts are on the road to take on the Los Angeles Chargers in week 7 of the 2025 season, kickoff is at 4:05 p.m. EST. Last week our Colts squeaked by a Cardinals team that was led by Jacoby Brissett. Losing Mooney Ward before the game severely limited the secondary and Brissett seized the opportunity [&#8230;]"
-    },
-    {
-      "id": "d4136057deac1563",
-      "title": "Colts at Chargers: Week 7 Inactives",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/116505/colts-at-chargers-week-7-inactives",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-19T19:28:54+0000",
-      "summary": "The Indianapolis Colts announced that the following players are inactive for Week 7’s road game against the Los Angeles Chargers (4:05 PM EST): The real discouraging news came earlier in this weekend when cornerback Charvarius Ward (concussion) was placed on injured reserve after suffering his second concussion of the season during pre-game warmups after colliding [&#8230;]"
     },
     {
       "id": "893803f0a3ae6b80",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-14T19:54:37+0000",
       "summary": "The Colts made the roster move on Tuesday."
-    },
-    {
-      "id": "d2c06ddb4f90fb6d",
-      "title": "Colts release unofficial depth chart for Week 7 game vs. Los Angeles Chargers",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-7-game-vs-los-angeles-chargers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-14T19:47:19+0000",
-      "summary": "The Colts released their Week 6 unofficial depth chart ahead of their game against the Los Angeles Chargers Sunday at SoFi Stadium. Check it out below:"
     }
   ],
   "links": [
