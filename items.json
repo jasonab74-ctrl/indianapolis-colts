@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-20T04:31:30+00:00",
+  "updated": "2025-10-20T05:18:36+00:00",
   "items": [
     {
       "id": "09189096bb00b504",
@@ -45,6 +45,24 @@
       "feed": "ESPN",
       "published": "2025-10-20T04:47:38+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 7."
+    },
+    {
+      "id": "728b126a93e2ff42",
+      "title": "NFL power rankings: Colts, Broncos & Cowboys buck up; Vikings, Commanders slip for Week 8",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-colts-broncos-cowboys-vikings-commanders/91c61f6d23969ddc10f0ee50",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-20T04:30:00+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 7 of the 2025 NFL regular season? Here's an updated look from best to worst."
+    },
+    {
+      "id": "dca2288e7d98c220",
+      "title": "CU Buffs legend Shedeur Sanders can make NFL debut against 49ers, Titans, Bears, Bills, Steelers, or Bengals",
+      "link": "https://sportingnews.com/us/ncaa-football/colorado/news/cu-buffs-legend-shedeur-sanders-can-make-nfl-debut-against-49ers-titans-bears-bills-steelers-bengals/acb7c95cbb27365febfc23b8",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-20T04:14:57+0000",
+      "summary": "Colorado Buffaloes football legend Shedeur Sanders could make his NFL debut in the second half of the Cleveland Browns' 2025 season."
     },
     {
       "id": "5e4e9229c1fa929a",
@@ -108,42 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-10-20T03:53:16+0000",
       "summary": "DeForest Buckner had two crucial sacks and Nick Cross snagged his first interception of the season in the 38-24 victory."
-    },
-    {
-      "id": "7ed29e32b17ec11c",
-      "title": "49ers win over Falcons was a lucrative one for $8.4 million backup QB",
-      "link": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2025/10/19/mac-jones-contract-incentive-49ers-falcons/86795779007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T03:50:28+0000",
-      "summary": "Mac Jones hit a nice contract incentive package when the San Francisco 49ers beat the Atlanta Falcons in an NFL Week 7 matchup."
-    },
-    {
-      "id": "15ce8f582587f627",
-      "title": "TST Images: Colts Beat Chargers, 38-24, at SoFi Stadium",
-      "link": "https://thesportingtribune.com/2025/10/19/tst-images-colts-at-chargers",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T03:42:08+0000",
-      "summary": "LOS ANGELES, CA - The Indianapolis Colts defeat the Los Angeles Chargers, 38-24, at SoFi Stadium on October 19, 2025."
-    },
-    {
-      "id": "637dc823e0d50876",
-      "title": "NFL Week 8 Power Rankings: Cowboys, Chiefs, 49ers Among Risers after Week 7",
-      "link": "https://sportsnaut.com/nfl/nfl-week-8-power-rankings-cowboys-chiefs-patriots-among-risers-after-week-7",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T03:26:07+0000",
-      "summary": "A day after we saw chaos in college football, the National Football League delivered a bit more normalcy in Week"
-    },
-    {
-      "id": "c2f79d549b142642",
-      "title": "NFL Eagles soar over Vikings while Colts improve to 6-1",
-      "link": "https://sports.yahoo.com/article/nfl-eagles-soar-over-vikings-203933790.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T03:24:53+0000",
-      "summary": "Jalen Hurts delivered a masterful performance to lead Super Bowl champion Philadelphia over Minnesota while Indianapolis improved to an NFL-best 6-1 by beating the Los Angeles Chargers in Sunday's marquee games.Patrick Mahomes, a three-time Super Bowl champion and two-time NFL Most Valuable Player, completed 26-of-35 passes for 286 yards and three touchdowns without an interception in the Chiefs' 31-0 home rout over Las Vegas."
     },
     {
       "id": "ee01f4d8fb263637",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-16T12:30:12+0000",
       "summary": "Nearly every Colts rushing and receiving yard – and every snap taken by an offensive lineman – has come from a player the team either drafted or signed as an undrafted free agent."
+    },
+    {
+      "id": "366ae5fecaf22155",
+      "title": "Colts sign QB Brett Rypien to practice squad",
+      "link": "https://colts.com/news/colts-sign-quarterback-brett-rypien-practice-squad-anthony-richardson-injury-daniel-jones-riley-leonard",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-15T21:41:53+0000",
+      "summary": "The Colts signed Rypien on Wednesday after placing Anthony Richardson Sr. (eye) on injured reserve earlier in the week."
+    },
+    {
+      "id": "57e054389edb26b5",
+      "title": "Josh Downs joins Charvarius Ward in NFL’s concussion protocol",
+      "link": "https://fox59.com/sports/colts/josh-downs-joins-charvarius-ward-in-nfls-concussion-protocol/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-15T21:10:38+0000",
+      "summary": "INDIANAPOLIS – A surprise inclusion on Wednesday’s participation report calls into question the availability of two key players as the Indianapolis Colts ramp up preparations for Sunday’s visit to the Los Angeles Chargers. Wideout Josh Downs joined cornerback Charvarius Ward as being held out of practice with a concussion. That was expected of Ward, who [...]"
     }
   ],
   "links": [
