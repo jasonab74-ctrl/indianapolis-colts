@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-20T03:02:15+00:00",
+  "updated": "2025-10-20T03:58:36+00:00",
   "items": [
+    {
+      "id": "09189096bb00b504",
+      "title": "Broncos marvel at historic rally: 'Always a way'",
+      "link": "https://espn.com/nfl/story/_/id/46655440/bo-nix-broncos-outlast-giants-historic-comeback-4th",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T04:49:55+0000",
+      "summary": "Shut out for three quarters, the Broncos rallied with 33 points in the fourth to beat the Giants on Sunday in one of the most stunning turnarounds in NFL history."
+    },
     {
       "id": "d34120da6e0b41fd",
       "title": "Vikes' Hockenson livid after replay overturns TD",
       "link": "https://espn.com/nfl/story/_/id/46652755/vikings-tj-hockenson-ridiculous-td-was-overturned",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-20T03:08:40+0000",
+      "published": "2025-10-20T04:49:55+0000",
       "summary": "T.J. Hockenson was livid Sunday when NFL replay overturned a fourth-quarter touchdown catch that would have closed the Philadelphia Eagles' lead to two points in the Vikings' eventual 28-22 loss."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/46654784/jonathan-taylor-notches-another-td-hat-trick-colts-win",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-20T03:08:40+0000",
+      "published": "2025-10-20T04:49:55+0000",
       "summary": "Jonathan Taylor became the fourth player in NFL history with three games of three rushing touchdowns within his team's first seven games, joining Jim Brown (1958), Priest Holmes (2004) and Derrick Henry (2021)."
     },
     {
@@ -25,8 +34,71 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-20T03:08:40+0000",
+      "published": "2025-10-20T04:49:55+0000",
       "summary": "Could we see another top-10 running back? How many WRs should go in Round 1? We have notes on NFL prospects through CFB Week 8."
+    },
+    {
+      "id": "745f8e669cd01f90",
+      "title": "Biggest takeaways from Week 7: Thumbs-up for the 49ers, Colts, Chiefs ... thumbs-down for the Jets, Dolphins",
+      "link": "https://espn.com/nfl/story/_/id/46606189/nfl-week-7-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T04:47:38+0000",
+      "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 7."
+    },
+    {
+      "id": "69ac0c8d34517754",
+      "title": "Patriots fuel best week of NFL season for bettors, Broncos break 1,602-game streak",
+      "link": "https://espn.com/espn/betting/story/_/id/46653559/nfl-betting-week-7-new-england-patriots-mike-vrabel-kansas-city-chiefs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-20T04:05:18+0000",
+      "summary": "Mike Vrabel and the Patriots were one of seven favorites to win outright in the early Week 7 NFL slate."
+    },
+    {
+      "id": "b78269dd58d706f5",
+      "title": "Timely plays by undermanned Colts defense help secure win over Chargers",
+      "link": "https://colts.com/news/colts-defense-deforest-buckner-sacks-nick-cross-interception-chargers-colts-win-week-7",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-20T03:53:16+0000",
+      "summary": "DeForest Buckner had two crucial sacks and Nick Cross snagged his first interception of the season in the 38-24 victory."
+    },
+    {
+      "id": "15ce8f582587f627",
+      "title": "TST Images: Colts Beat Chargers, 38-24, at SoFi Stadium",
+      "link": "https://thesportingtribune.com/2025/10/19/tst-images-colts-at-chargers",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-20T03:42:08+0000",
+      "summary": "LOS ANGELES, CA - The Indianapolis Colts defeat the Los Angeles Chargers, 38-24, at SoFi Stadium on October 19, 2025."
+    },
+    {
+      "id": "637dc823e0d50876",
+      "title": "NFL Week 8 Power Rankings: Cowboys, Chiefs, 49ers Among Risers after Week 7",
+      "link": "https://sportsnaut.com/nfl/nfl-week-8-power-rankings-cowboys-chiefs-patriots-among-risers-after-week-7",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-20T03:26:07+0000",
+      "summary": "A day after we saw chaos in college football, the National Football League delivered a bit more normalcy in Week"
+    },
+    {
+      "id": "c2f79d549b142642",
+      "title": "NFL Eagles soar over Vikings while Colts improve to 6-1",
+      "link": "https://sports.yahoo.com/article/nfl-eagles-soar-over-vikings-203933790.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-10-20T03:24:53+0000",
+      "summary": "Jalen Hurts delivered a masterful performance to lead Super Bowl champion Philadelphia over Minnesota while Indianapolis improved to an NFL-best 6-1 by beating the Los Angeles Chargers in Sunday's marquee games.Patrick Mahomes, a three-time Super Bowl champion and two-time NFL Most Valuable Player, completed 26-of-35 passes for 286 yards and three touchdowns without an interception in the Chiefs' 31-0 home rout over Las Vegas."
+    },
+    {
+      "id": "ee01f4d8fb263637",
+      "title": "Daniel Jones, Colts' offense keep turning recent history into distant past with relentless win over Chargers",
+      "link": "https://colts.com/news/daniel-jones-colts-offense-keep-turning-recent-history-into-distant-past-with-relentless-win-over-chargers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-20T03:17:58+0000",
+      "summary": "The 6-1 Colts have scored 232 points through seven games, the most in the Super Bowl era in franchise history."
     },
     {
       "id": "e213a36030964edf",
@@ -36,42 +108,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-20T02:53:23+0000",
       "summary": "INDIANAPOLIS — Michael Badgley missed his second kick of the season, yanking a PAT wide left early in the first quarter. Tight end Mo Alie-Cox accounted for one of Daniel Jones’ 11 incompletions with a drop, and running back Jonathan Taylor was held to a minus-3 yards on three attempts in the second quarter. That [...]"
-    },
-    {
-      "id": "745f8e669cd01f90",
-      "title": "Biggest takeaways from Week 7: Thumbs-up for the Colts, Chiefs ... thumbs-down for the Jets, Dolphins",
-      "link": "https://espn.com/nfl/story/_/id/46606189/nfl-week-7-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-20T02:42:30+0000",
-      "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 7."
-    },
-    {
-      "id": "8ccdaba9bfe29791",
-      "title": "Chiefs Surge to Super Bowl Odds Favorite After Dominant Week 7 Win",
-      "link": "https://covers.com/nfl/super-bowl-odds-chiefs-surge-to-favorite-status-10-19-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T02:37:00+0000",
-      "summary": "Super Bowl odds. Kansas City Chiefs jump to betting favorite status to win Super Bowl LX in NFL odds."
-    },
-    {
-      "id": "cbbd608fba6ad1d9",
-      "title": "DT Grover Stewart becomes biggest player in Colts history with interception",
-      "link": "https://indystar.com/story/sports/nfl/colts/2025/10/19/grover-stewart-interception-colts-330-pounds-justin-herbert/86795215007/",
-      "source": "IndyStar",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T02:27:38+0000",
-      "summary": "Grover Stewart became largest player in Colts history with an interception. He had a regret: 'If I had some space, I would have taken it to the crib'"
-    },
-    {
-      "id": "ca71002dd907a208",
-      "title": "Quick takeaways from Colts' Week 7 win vs. Chargers",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/10/19/colts-chargers-quick-takeaways-week-7-victory/86795105007/",
-      "source": "Colts Wire",
-      "feed": "Yahoo Sports",
-      "published": "2025-10-20T02:11:22+0000",
-      "summary": "With the dust having settled on Sunday's game, let's highlight our initial takeaways from the Colts' performance."
     },
     {
       "id": "c99e8ef837d18b07",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-14T19:54:37+0000",
       "summary": "The Colts made the roster move on Tuesday."
-    },
-    {
-      "id": "d2c06ddb4f90fb6d",
-      "title": "Colts release unofficial depth chart for Week 7 game vs. Los Angeles Chargers",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-7-game-vs-los-angeles-chargers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-14T19:47:19+0000",
-      "summary": "The Colts released their Week 6 unofficial depth chart ahead of their game against the Los Angeles Chargers Sunday at SoFi Stadium. Check it out below:"
-    },
-    {
-      "id": "805de61f8e5e5f3a",
-      "title": "Colts, IHSAA honor high school 'Officiating Crew of the Month' for September",
-      "link": "https://colts.com/news/colts-ihsaa-honor-high-school-officiating-crew-of-the-month-for-september-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-14T18:30:00+0000",
-      "summary": "This month’s winning crew has accumulated more than 100 combined years of officiating football for the IHSAA"
-    },
-    {
-      "id": "3fff9df7b2b64071",
-      "title": "Colts TE Tyler Warren nominated for NFL Rookie of the Week for Week 6",
-      "link": "https://colts.com/news/colts-tight-end-tyler-warren-rookie-of-the-week-cardinals-receiving-yards-touchdowns",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-14T14:52:10+0000",
-      "summary": "Warren had six receptions for 63 yards and a touchdown in the Colts' win over the Cardinals."
-    },
-    {
-      "id": "bbe11dc6ee599576",
-      "title": "Colts sign T Bayron Matos to practice squad, release T Marcellus Johnson from practice squad",
-      "link": "https://colts.com/news/colts-sign-t-bayron-matos-to-practice-squad-release-t-marcellus-johnson-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-14T14:35:16+0000",
-      "summary": "The Colts made the roster moves on Tuesday."
     }
   ],
   "links": [
