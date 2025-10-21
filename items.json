@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-21T20:21:02+00:00",
+  "updated": "2025-10-21T20:42:23+00:00",
   "items": [
+    {
+      "id": "2c5c77683a59bba4",
+      "title": "NFL VP: Officiating tush push remains 'difficult'",
+      "link": "https://espn.com/nfl/story/_/id/46674626/nfl-vp-vincent-says-officiating-tush-push-remains-difficult",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-21T21:28:22+0000",
+      "summary": "NFL vice president of football operations Troy Vincent said Tuesday that the tush push is \"very difficult to officiate in real time\" despite intensified efforts to spot potential false starts in recent weeks."
+    },
     {
       "id": "37c45fda866ce82b",
       "title": "Cops: Ex-RB Martin died in custody after break-in",
       "link": "https://espn.com/nfl/story/_/id/46663137/ex-rb-doug-martin-died-custody-break-police-say",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-21T21:14:48+0000",
+      "published": "2025-10-21T21:28:22+0000",
       "summary": "Former NFL All-Pro running back Doug Martin died in police custody after he was involved in a break-in at an Oakland residence, police said."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/46649475/2025-nfl-week-7-barnwell-wrong-takes-chiefs-colts-jaguars-bills",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-21T21:14:48+0000",
+      "published": "2025-10-21T21:28:22+0000",
       "summary": "Remember when we thought the Chiefs' offense was toast? That the Colts would fizzle? The Jaguars would be OK, and the Bills were an AFC lock? Well ..."
     },
     {
@@ -63,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-10-21T18:48:55+0000",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
-    },
-    {
-      "id": "32e677b05454ef09",
-      "title": "The Colts defense is not great, but who’s is?",
-      "link": "https://stampedeblue.com/analysis/116568/the-colts-defense-is-not-great-but-whos-is",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-21T18:22:23+0000",
-      "summary": "Let me start with a quick recap of last week’s confidence poll. We were nearly at 75% of voters either believing that the Colts were already the team to beat, or an acquisition away from being so. For the other 25%, “What are you waiting for?” I would gather that those who are holding out, [&#8230;]"
     },
     {
       "id": "2fb15a2f1936ee2b",
@@ -344,6 +344,15 @@
       "summary": "The Indianapolis Colts never trailed and delivered a statement road win to improve to 6-1 Sunday, overpowering the Los Angeles Chargers 38–24 at SoFi Stadium.&#160; The NFL’s most electric offense steamrolled through another AFC opponent behind a balanced showcase that featured three rushing touchdowns from running back Jonathan Taylor for the third time this season [&#8230;]"
     },
     {
+      "id": "81dc9ba3aad9fc83",
+      "title": "Indianapolis Colts stake claim to top spot in AFC",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/116517/indianapolis-colts-stake-claim-to-top-spot-in-afc",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-19T23:27:25+0000",
+      "summary": "The Indianapolis Colts and Los Angeles Chargers battled for AFC supremacy on Sunday and the Colts demolished their West Coast counterparts. Indianapolis is for real and they are the last one-loss team in the AFC. No doubt. The New England Patriots won to stay in second place while the Denver Broncos used a massive fourth [&#8230;]"
+    },
+    {
       "id": "7fea32d19a48a3bb",
       "title": "Colts dominate Chargers, 38-24, to improve to 6-1",
       "link": "https://fox59.com/sports/colts/colts-dominate-chargers-38-24-to-improve-to-6-1/",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-16T19:45:46+0000",
       "summary": "The Colts signed Rypien to the practice squad Wednesday after placing Anthony Richardson Sr. on injured reserve."
-    },
-    {
-      "id": "aa24feb7fc521828",
-      "title": "Colts Blue Zone Podcast 433: Colts Head West for Key AFC Game vs. Chargers",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-433-colts-head-west-for-key-afc-game-vs-chargers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-16T18:41:27+0000",
-      "summary": "The Indianapolis Colts head to SoFi Stadium to take on the Los Angeles Chargers in a key AFC clash. Matt Adams and Mike Chappell preview this week's game and discuss what a win would mean for the Colts' season. Plus: Indy adds a new QB, injury concerns abound for Week 7, the Chargers sport some [...]"
     }
   ],
   "links": [
