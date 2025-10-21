@@ -1,14 +1,14 @@
 {
-  "updated": "2025-10-21T21:36:12+00:00",
+  "updated": "2025-10-21T22:15:43+00:00",
   "items": [
     {
       "id": "2c5c77683a59bba4",
-      "title": "NFL VP: Officiating tush push remains 'difficult'",
+      "title": "NFL EVP: Officiating tush push remains 'difficult'",
       "link": "https://espn.com/nfl/story/_/id/46674626/nfl-vp-vincent-says-officiating-tush-push-remains-difficult",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-21T21:40:03+0000",
-      "summary": "NFL vice president of football operations Troy Vincent said Tuesday that the tush push is \"very difficult to officiate in real time\" despite intensified efforts to spot potential false starts in recent weeks."
+      "published": "2025-10-21T22:58:41+0000",
+      "summary": "NFL executive vice president of football operations Troy Vincent said Tuesday that the tush push is \"very difficult to officiate in real time\" despite intensified efforts to spot potential false starts in recent weeks."
     },
     {
       "id": "f56b219e3dedda0b",
@@ -16,8 +16,26 @@
       "link": "https://espn.com/nfl/story/_/id/46649475/2025-nfl-week-7-barnwell-wrong-takes-chiefs-colts-jaguars-bills",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-21T21:40:03+0000",
+      "published": "2025-10-21T22:58:40+0000",
       "summary": "Remember when we thought the Chiefs' offense was toast? That the Colts would fizzle? The Jaguars would be OK, and the Bills were an AFC lock? Well ..."
+    },
+    {
+      "id": "be5a47e7137135fe",
+      "title": "Week 8 NFL Power Rankings: A new team at No. 1, plus best nonstarters and role players from each team",
+      "link": "https://espn.com/nfl/story/_/id/46660009/nfl-week-8-power-rankings-poll-32-teams-2025-unsung-nonstarters-role-players",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-21T22:53:18+0000",
+      "summary": "We update our rankings for this week. Plus, here are the unsung role players and nonstarters on each roster."
+    },
+    {
+      "id": "e68bc7906efd167a",
+      "title": "Colts’ Week 7 QB Analysis: The Efficient Engine",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/116609/colts-week-7-qb-analysis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-21T21:55:32+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "c6b025bf2bab0d1a",
@@ -29,15 +47,6 @@
       "summary": "He's taking more risks than ever, yet he's more accurate and isn't turning the ball over for the 6-1 Colts."
     },
     {
-      "id": "2991dd42238abd47",
-      "title": "A 'thousand-yard receiver in any offense': Bears' Rome Odunze is breaking out in Year 2",
-      "link": "https://espn.com/nfl/story/_/id/46584341/nfl-bears-wr-rome-odunze-breaking-year-2",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-21T19:22:14+0000",
-      "summary": "The former No. 9 overall pick is leading the Bears in receiving and is tied for second in the NFL in TD catches."
-    },
-    {
       "id": "d302df226d1816ad",
       "title": "Colts release unofficial depth chart for Week 8 game vs. Tennessee Titans",
       "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-8-game-vs-tennessee-titans-daniel-jones",
@@ -45,15 +54,6 @@
       "feed": "Colts.com",
       "published": "2025-10-21T19:04:02+0000",
       "summary": "The Colts released their Week 8 unofficial depth chart ahead of their game against the Tennessee Titans Sunday at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "be5a47e7137135fe",
-      "title": "Week 8 NFL Power Rankings: A new team at No. 1, plus best nonstarters and role players from each team",
-      "link": "https://espn.com/nfl/story/_/id/46660009/nfl-week-8-power-rankings-poll-32-teams-2025-unsung-nonstarters-role-players",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-21T18:53:52+0000",
-      "summary": "We update our rankings for this week. Plus, here are the unsung role players and nonstarters on each roster."
     },
     {
       "id": "3559d8ecdc23700c",
@@ -335,15 +335,6 @@
       "summary": "Taylor is the first player to have at least three games in a season with three or more rushing touchdowns since Derrick Henry in 2021."
     },
     {
-      "id": "afc33aa38372ccac",
-      "title": "Colts electric offense keeps humming in statement win over Chargers",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/116536/colts-electric-offense-keeps-humming-in-statement-win-over-chargers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-20T00:55:04+0000",
-      "summary": "The Indianapolis Colts never trailed and delivered a statement road win to improve to 6-1 Sunday, overpowering the Los Angeles Chargers 38–24 at SoFi Stadium.&#160; The NFL’s most electric offense steamrolled through another AFC opponent behind a balanced showcase that featured three rushing touchdowns from running back Jonathan Taylor for the third time this season [&#8230;]"
-    },
-    {
       "id": "7fea32d19a48a3bb",
       "title": "Colts dominate Chargers, 38-24, to improve to 6-1",
       "link": "https://fox59.com/sports/colts/colts-dominate-chargers-38-24-to-improve-to-6-1/",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-16T18:41:27+0000",
       "summary": "The Indianapolis Colts head to SoFi Stadium to take on the Los Angeles Chargers in a key AFC clash. Matt Adams and Mike Chappell preview this week's game and discuss what a win would mean for the Colts' season. Plus: Indy adds a new QB, injury concerns abound for Week 7, the Chargers sport some [...]"
+    },
+    {
+      "id": "5c3589f3795c463a",
+      "title": "The Colts Show Mailbag: Stopping Justin Herbert, Riley Leonard as QB2, challenging schedule for rest of 2025 season",
+      "link": "https://colts.com/news/the-colts-show-mailbag-stopping-justin-herbert-riley-leonard-as-qb2-challenging-schedule-for-rest-of-2025-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-16T18:36:35+0000",
+      "summary": "The Colts Show Mailbag returns for Week 7 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
     }
   ],
   "links": [
