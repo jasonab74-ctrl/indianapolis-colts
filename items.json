@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T18:28:09+00:00",
+  "updated": "2025-10-22T18:51:36+00:00",
   "items": [
     {
       "id": "7b8a8e5adaa75116",
@@ -17,7 +17,7 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-10-22T18:28:43+0000",
-      "summary": "The NFL's Pro Bowl festivities are moving to Super Bowl week beginning this February, commissioner Roger Goodell announced Wednesday, with the annual AFC vs. NFC flag football game now set for Tuesday, Feb. 3."
+      "summary": "The NFL's Pro Bowl festivities are moving to Super Bowl week beginning this February, commissioner Roger Goodell announced Wednesday, with the annual AFC vs. NFC flag football game now set for Feb. 3."
     },
     {
       "id": "be5a47e7137135fe",
@@ -126,6 +126,15 @@
       "feed": "Stampede Blue",
       "published": "2025-10-21T21:55:32+0000",
       "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
+    },
+    {
+      "id": "12b4db94685541ce",
+      "title": "How to watch the Tennessee Titans at Indianapolis Colts on October 26, 2025",
+      "link": "https://colts.com/news/how-to-watch-titans-at-colts-week-8-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-21T21:06:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Tennessee Titans at Indianapolis Colts on Sunday, October 26 at 4:25 p.m. ET (Week 8)."
     },
     {
       "id": "d302df226d1816ad",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-16T20:23:40+0000",
       "summary": "DeForest Buckner enters Week 7 leading all NFL defensive tackles with 31 tackles."
-    },
-    {
-      "id": "6b11f051f50d249b",
-      "title": "Practice Notebook: Brett Rypien focused on getting up to speed in Colts offense after 'whirlwind' arrival",
-      "link": "https://colts.com/news/practice-notebook-brett-rypien-colts-quarterback-daniel-jones-practice-squad-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-16T19:45:46+0000",
-      "summary": "The Colts signed Rypien to the practice squad Wednesday after placing Anthony Richardson Sr. on injured reserve."
     }
   ],
   "links": [
