@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-23T20:19:16+00:00",
+  "updated": "2025-10-23T20:40:17+00:00",
   "items": [
+    {
+      "id": "be5a47e7137135fe",
+      "title": "📈 Power Rankings, Week 8: Unsung role players",
+      "link": "https://espn.com/nfl/story/_/id/46660009/nfl-week-8-power-rankings-poll-32-teams-2025-unsung-nonstarters-role-players",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-23T21:22:40+0000",
+      "summary": "Let's update our NFL Power Rankings ahead of Week 8. Plus, here are the unsung role players and nonstarters on each roster."
+    },
     {
       "id": "edf134bb2575f39b",
       "title": "Rachaad White among Week 8 top 25 predicted anytime touchdown scorers",
@@ -18,24 +27,6 @@
       "feed": "ESPN",
       "published": "2025-10-23T20:37:41+0000",
       "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
-    },
-    {
-      "id": "7b8a8e5adaa75116",
-      "title": "NFL won't reconsider Bad Bunny SB halftime show",
-      "link": "https://espn.com/nfl/story/_/id/46684916/roger-goodell-nfl-reconsider-bad-bunny-sb-half-show",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-23T20:37:36+0000",
-      "summary": "The NFL is not considering dropping Bad Bunny as its Super Bowl halftime headline performer, commissioner Roger Goodell said Wednesday."
-    },
-    {
-      "id": "be5a47e7137135fe",
-      "title": "📈 Power Rankings, Week 8: Unsung role players",
-      "link": "https://espn.com/nfl/story/_/id/46660009/nfl-week-8-power-rankings-poll-32-teams-2025-unsung-nonstarters-role-players",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-23T20:37:34+0000",
-      "summary": "Let's update our NFL Power Rankings ahead of Week 8. Plus, here are the unsung role players and nonstarters on each roster."
     },
     {
       "id": "0412e6ab21832c8e",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-17T18:43:44+0000",
       "summary": "With Josh Downs (concussion) and Ashton Dulin (chest) both ruled out for Week 7 against the Los Angeles Chargers, Mitchell is expected to have a more significant role in the Colts offense on Sunday."
+    },
+    {
+      "id": "7662643b5246591e",
+      "title": "Colts rule out WRs Josh Downs and Ashton Dulin, CB Charvarius Ward Sr. for Week 7 game vs. Los Angeles Chargers",
+      "link": "https://colts.com/news/colts-rule-out-josh-downs-ashton-dulin-tyler-goodson-charvarius-ward-concussion-chargers-week7-kenny-moore",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-17T16:52:37+0000",
+      "summary": "Ward sustained a concussion during pregame warmups in Week 6."
     }
   ],
   "links": [
