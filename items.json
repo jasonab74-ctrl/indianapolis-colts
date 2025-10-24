@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-24T18:25:20+00:00",
+  "updated": "2025-10-24T18:46:56+00:00",
   "items": [
+    {
+      "id": "b88afb77edd7c00b",
+      "title": "QB Jackson full participant in Ravens practice",
+      "link": "https://espn.com/nfl/story/_/id/46711425/lamar-jackson-full-participant-ravens-practice",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-24T19:35:44+0000",
+      "summary": "Lamar Jackson was a full participant in Friday's practice, giving the struggling Ravens some hope that the two-time NFL Most Valuable Player will return for Sunday's pivotal game against the Bears."
+    },
     {
       "id": "237dd5718befaeef",
       "title": "Titans DT Simmons, WR Ridley ruled out vs. Colts",
       "link": "https://espn.com/nfl/story/_/id/46711320/titans-dl-jeffery-simmons-wr-calvin-ridley-ruled-vs-colts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-24T19:19:29+0000",
+      "published": "2025-10-24T19:34:11+0000",
       "summary": "The Titans have declared defensive tackle Jeffery Simmons and receiver Calvin Ridley out for Sunday's road contest against the Colts in Indianapolis, interim coach Mike McCoy announced Friday."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/46660009/nfl-week-8-power-rankings-poll-32-teams-2025-unsung-nonstarters-role-players",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-24T19:19:29+0000",
+      "published": "2025-10-24T19:34:11+0000",
       "summary": "Let's update our NFL Power Rankings ahead of Week 8. Plus, here are the unsung role players and nonstarters on each roster."
     },
     {
@@ -27,6 +36,15 @@
       "feed": "ESPN",
       "published": "2025-10-24T18:48:24+0000",
       "summary": "DeSean Jackson and Matt Dodge relive a 15-year-old shank and a walk-off return that will forever live in NFL lore."
+    },
+    {
+      "id": "abfe68f831a04646",
+      "title": "Shane Steichen says Riley Leonard will remain Colts' backup quarterback behind Daniel Jones",
+      "link": "https://colts.com/news/shane-steichen-riley-leonard-backup-quarterback-daniel-jones-colts-anthony-richardson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-24T18:21:26+0000",
+      "summary": "Leonard has been the Colts' backup behind Daniel Jones since Anthony Richardson Sr. sustained a pregame injury in Week 6 and was subsequently placed on injured reserve."
     },
     {
       "id": "3d08604b31d6d812",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-19T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Chargers on Sunday, October 19 at 4:05 p.m. ET (Week 7)."
-    },
-    {
-      "id": "8f8215f3028636e2",
-      "title": "Penn crowned as first-ever High School Girls Flag State Champion",
-      "link": "https://colts.com/news/penn-high-school-girls-flag-football-indiana-state-champion-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-19T00:25:33+0000",
-      "summary": "In a first for the state of Indiana, Penn High School was crowned as the 2025 High School Girls Flag Football State Champions, the Indianapolis Colts celebrated today."
-    },
-    {
-      "id": "5ae279cee8cefe81",
-      "title": "Colts place Charvarius Ward on IR with concussion",
-      "link": "https://fox59.com/sports/colts/colts-place-charvarius-ward-on-ir-with-concussion/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-18T20:31:49+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts’ cornerbacks room has absorbed yet another blow. Charvarius Ward, one of general manager Chris Ballard’s most expensive free-agent acquisitions, was placed on the injured reserve list Saturday. That requires the veteran corner to miss at least the next four games. Ward was already in the NFL’s concussion protocol and had [...]"
     }
   ],
   "links": [
