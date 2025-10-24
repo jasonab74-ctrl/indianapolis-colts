@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-24T20:20:17+00:00",
+  "updated": "2025-10-24T20:40:49+00:00",
   "items": [
+    {
+      "id": "3559d8ecdc23700c",
+      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
+      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-24T21:35:08+0000",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
     {
       "id": "b88afb77edd7c00b",
       "title": "QB Jackson full participant in Ravens practice",
       "link": "https://espn.com/nfl/story/_/id/46711425/lamar-jackson-full-participant-ravens-practice",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-24T20:50:41+0000",
+      "published": "2025-10-24T21:33:10+0000",
       "summary": "Lamar Jackson was a full participant in Friday's practice, giving the struggling Ravens some hope that the two-time NFL Most Valuable Player will return for Sunday's pivotal game against the Bears."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/46711320/titans-dl-jeffery-simmons-wr-calvin-ridley-ruled-vs-colts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-24T20:45:03+0000",
+      "published": "2025-10-24T21:33:10+0000",
       "summary": "The Titans have declared defensive tackle Jeffery Simmons and receiver Calvin Ridley out for Sunday's road contest against the Colts in Indianapolis, interim coach Mike McCoy announced Friday."
     },
     {
@@ -25,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/46660009/nfl-week-8-power-rankings-poll-32-teams-2025-unsung-nonstarters-role-players",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-24T20:45:03+0000",
+      "published": "2025-10-24T21:33:10+0000",
       "summary": "Let's update our NFL Power Rankings ahead of Week 8. Plus, here are the unsung role players and nonstarters on each roster."
     },
     {
@@ -164,15 +173,6 @@
       "summary": "The Colts are back in Indianapolis for their last “home” game for the next month (technically have a “home” game in Berlin, Germany; but fans will have to wait until late November to see their team in Lucas Oil Stadium again). In their 2nd divisional matchup of the season, they get a rematch against the [&#8230;]"
     },
     {
-      "id": "e3170eefa6e22baf",
-      "title": "The best and worst NFL offseasons ... as of Week 8: Barnwell stacks all 32 teams into seven tiers",
-      "link": "https://espn.com/nfl/story/_/id/46683459/2025-nfl-offseason-tiers-32-teams-best-worst-signings-trades-draft-barnwell",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-23T20:37:41+0000",
-      "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
-    },
-    {
       "id": "0412e6ab21832c8e",
       "title": "Quenton Nelson's 'invaluable' leadership, work ethic laying foundation for Colts' success",
       "link": "https://colts.com/news/quenton-nelson-invaluable-leadership-work-ethic-foundation-colts-offense-success-daniel-jones-kenny-moore-braden-smith",
@@ -297,15 +297,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-22T15:00:00+0000",
       "summary": "INDIANAPOLIS – The field of modern-era candidates for the Pro Football Hall of Fame’s Class of 2026 has been whittled to 52, yet continues to have a definite Colts flavor. Three long-time, prolific players for the franchise, along with a fourth who boosted his Hall of Fame stock in Indy, made the latest cut, which [...]"
-    },
-    {
-      "id": "3559d8ecdc23700c",
-      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
-      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-22T13:07:15+0000",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
     },
     {
       "id": "558595b507d20627",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-19T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Los Angeles Chargers on Sunday, October 19 at 4:05 p.m. ET (Week 7)."
+    },
+    {
+      "id": "8f8215f3028636e2",
+      "title": "Penn crowned as first-ever High School Girls Flag State Champion",
+      "link": "https://colts.com/news/penn-high-school-girls-flag-football-indiana-state-champion-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-19T00:25:33+0000",
+      "summary": "In a first for the state of Indiana, Penn High School was crowned as the 2025 High School Girls Flag Football State Champions, the Indianapolis Colts celebrated today."
     }
   ],
   "links": [
