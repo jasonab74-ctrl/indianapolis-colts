@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-24T21:16:03+00:00",
+  "updated": "2025-10-24T21:37:11+00:00",
   "items": [
+    {
+      "id": "e3170eefa6e22baf",
+      "title": "🏈 Best, worst offseasons: Barnwell on every team",
+      "link": "https://espn.com/nfl/story/_/id/46683459/2025-nfl-offseason-tiers-32-teams-best-worst-signings-trades-draft-barnwell",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-24T22:22:16+0000",
+      "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
+    },
+    {
+      "id": "b88afb77edd7c00b",
+      "title": "QB Jackson full participant in Ravens practice",
+      "link": "https://espn.com/nfl/story/_/id/46711425/lamar-jackson-full-participant-ravens-practice",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-24T22:22:15+0000",
+      "summary": "Lamar Jackson was a full participant in Friday's practice, giving the struggling Ravens some hope that the two-time NFL Most Valuable Player will return for Sunday's pivotal game against the Bears."
+    },
     {
       "id": "c81f746d4119d4f5",
       "title": "The best players who might be available at the NFL trade deadline: Our 1-25 ranking",
@@ -27,33 +45,6 @@
       "feed": "ESPN",
       "published": "2025-10-24T21:39:13+0000",
       "summary": "DeSean Jackson and Matt Dodge relive a 15-year-old shank and a walk-off return that will forever live in NFL lore."
-    },
-    {
-      "id": "b88afb77edd7c00b",
-      "title": "QB Jackson full participant in Ravens practice",
-      "link": "https://espn.com/nfl/story/_/id/46711425/lamar-jackson-full-participant-ravens-practice",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-24T21:38:16+0000",
-      "summary": "Lamar Jackson was a full participant in Friday's practice, giving the struggling Ravens some hope that the two-time NFL Most Valuable Player will return for Sunday's pivotal game against the Bears."
-    },
-    {
-      "id": "237dd5718befaeef",
-      "title": "Titans DT Simmons, WR Ridley ruled out vs. Colts",
-      "link": "https://espn.com/nfl/story/_/id/46711320/titans-dl-jeffery-simmons-wr-calvin-ridley-ruled-vs-colts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-24T21:38:16+0000",
-      "summary": "The Titans have declared defensive tackle Jeffery Simmons and receiver Calvin Ridley out for Sunday's road contest against the Colts in Indianapolis, interim coach Mike McCoy announced Friday."
-    },
-    {
-      "id": "e3170eefa6e22baf",
-      "title": "🏈 Best, worst offseasons: Barnwell on every team",
-      "link": "https://espn.com/nfl/story/_/id/46683459/2025-nfl-offseason-tiers-32-teams-best-worst-signings-trades-draft-barnwell",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-24T21:38:16+0000",
-      "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
     },
     {
       "id": "eba6ebd4681e8366",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-19T00:25:33+0000",
       "summary": "In a first for the state of Indiana, Penn High School was crowned as the 2025 High School Girls Flag Football State Champions, the Indianapolis Colts celebrated today."
+    },
+    {
+      "id": "5ae279cee8cefe81",
+      "title": "Colts place Charvarius Ward on IR with concussion",
+      "link": "https://fox59.com/sports/colts/colts-place-charvarius-ward-on-ir-with-concussion/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-18T20:31:49+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ cornerbacks room has absorbed yet another blow. Charvarius Ward, one of general manager Chris Ballard’s most expensive free-agent acquisitions, was placed on the injured reserve list Saturday. That requires the veteran corner to miss at least the next four games. Ward was already in the NFL’s concussion protocol and had [...]"
     }
   ],
   "links": [
