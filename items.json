@@ -1,13 +1,31 @@
 {
-  "updated": "2025-10-25T21:36:49+00:00",
+  "updated": "2025-10-25T22:15:31+00:00",
   "items": [
+    {
+      "id": "d73546d043d5f544",
+      "title": "NFL looks into Ravens for Lamar practice status",
+      "link": "https://espn.com/nfl/story/_/id/46723952/nfl-looking-ravens-handling-jackson-practice-participation",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-25T22:42:40+0000",
+      "summary": "The NFL will investigate the Baltimore Ravens' handling of quarterback Lamar Jackson's practice participation, which led to the two-time NFL Most Valuable Player being ruled out with a hamstring injury for Sunday's contest against the Chicago Bears."
+    },
+    {
+      "id": "cb6948b63aa2d356",
+      "title": "Bills 1st-round pick Hairston set for season debut",
+      "link": "https://espn.com/nfl/story/_/id/46722845/bills-first-round-pick-maxwell-hairston-set-season-debut",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-25T22:42:40+0000",
+      "summary": "Bills first-round pick Maxwell Hairston is in line to make his NFL debut after the cornerback was activated off injured reserve Saturday."
+    },
     {
       "id": "4f30af2ee5319698",
       "title": "Broncos LB Strnad fined for contact with referee",
       "link": "https://espn.com/nfl/story/_/id/46723228/broncos-lb-justin-strnad-fined-making-contact-ref",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-25T22:07:58+0000",
+      "published": "2025-10-25T22:42:40+0000",
       "summary": "The NFL announced Saturday linebacker Justin Strnad was fined $15,486 because he made contact with referee Brad Allen after Sunday's win over the Giants."
     },
     {
@@ -16,17 +34,17 @@
       "link": "https://espn.com/nfl/story/_/id/46683459/2025-nfl-offseason-tiers-32-teams-best-worst-signings-trades-draft-barnwell",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-25T22:07:58+0000",
+      "published": "2025-10-25T22:42:40+0000",
       "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
     },
     {
-      "id": "cb6948b63aa2d356",
-      "title": "Bills 1st-round pick Hairston set for season debut",
-      "link": "https://espn.com/nfl/story/_/id/46722845/bills-first-round-pick-maxwell-hairston-set-season-debut",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-25T22:07:57+0000",
-      "summary": "Bills first-round pick Maxwell Hairston is in line to make his NFL debut after the cornerback was activated off injured reserve Saturday."
+      "id": "b74829e62ecbbcfb",
+      "title": "Colts Reacts Survey Results Week 7",
+      "link": "https://stampedeblue.com/analysis/116792/colts-reacts-survey-results-week-7",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-25T21:33:34+0000",
+      "summary": "Indianapolis Colts fans confidence is nearly sky high for the AFC’s leading team, who many expected to be a bottom feeder entering the 2025 campaign. There’s good reason too as the Colts are currently 6-1. Specifically, 99% of Colts fans are now confident that the team is headed in the right direction, which it doesn’t [&#8230;]"
     },
     {
       "id": "991914891b36f62c",
@@ -326,15 +344,6 @@
       "summary": "INDIANAPOLIS – The field of modern-era candidates for the Pro Football Hall of Fame’s Class of 2026 has been whittled to 52, yet continues to have a definite Colts flavor. Three long-time, prolific players for the franchise, along with a fourth who boosted his Hall of Fame stock in Indy, made the latest cut, which [...]"
     },
     {
-      "id": "558595b507d20627",
-      "title": "Shane Steichen’s Shenanigans Continue to Pay Dividends",
-      "link": "https://stampedeblue.com/analysis/116631/shane-steichens-shenanigans-continue-to-pay-dividends",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-22T12:00:00+0000",
-      "summary": "Indianapolis, IN — Indianapolis Colts head coach Shane Steichen is widely regarded for his offensive prowess. A modern-day savant on the side of the ball who scores points, most associate Steichen with being a top-tier play-caller and a quarterback guru of sorts. He’s brought out the best of various quarterbacks during his time as an [&#8230;]"
-    },
-    {
       "id": "defefdcf9c0324c6",
       "title": "More property formerly owned by Jim Irsay sold in Carmel",
       "link": "https://fox59.com/news/more-property-formerly-owned-by-jim-irsay-sold-in-carmel/",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-19T18:35:53+0000",
       "summary": "The Colts previously ruled out wide receivers Josh Downs (concussion) and Ashton Dulin (chest) and running back Tyler Goodson (groin) for Week 7."
-    },
-    {
-      "id": "0105928477605bff",
-      "title": "Keys to the Game: Colts at Chargers",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-chargers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-19T16:51:44+0000",
-      "summary": "INDIANAPOLIS - The Colts sit alone atop the AFC standings at 5-1 as they take the field on Sunday against the Chargers, one of six teams chasing them in the conference at 4-2. IndyStar Colts' insider Joel A. Erickson gives his keys to victory if they are going to avoid their second loss of the [...]"
     }
   ],
   "links": [
