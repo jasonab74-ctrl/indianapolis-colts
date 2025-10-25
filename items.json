@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-25T11:13:18+00:00",
+  "updated": "2025-10-25T11:37:03+00:00",
   "items": [
+    {
+      "id": "220833ef74383b5d",
+      "title": "Ready for NFL Week 8? Catch up with our last-minute intel",
+      "link": "https://espn.com/nfl/story/_/id/46696835/2025-nfl-week-8-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-25T12:20:52+0000",
+      "summary": "Big game for Derrick Henry? Alec Pierce's first TD of the season? Here's what to know for Week 8."
+    },
     {
       "id": "e3170eefa6e22baf",
       "title": "🏈 Best, worst offseasons: Barnwell on every team",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-19T00:25:33+0000",
       "summary": "In a first for the state of Indiana, Penn High School was crowned as the 2025 High School Girls Flag Football State Champions, the Indianapolis Colts celebrated today."
-    },
-    {
-      "id": "5ae279cee8cefe81",
-      "title": "Colts place Charvarius Ward on IR with concussion",
-      "link": "https://fox59.com/sports/colts/colts-place-charvarius-ward-on-ir-with-concussion/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-18T20:31:49+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts’ cornerbacks room has absorbed yet another blow. Charvarius Ward, one of general manager Chris Ballard’s most expensive free-agent acquisitions, was placed on the injured reserve list Saturday. That requires the veteran corner to miss at least the next four games. Ward was already in the NFL’s concussion protocol and had [...]"
     }
   ],
   "links": [
