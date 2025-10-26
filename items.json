@@ -1,22 +1,13 @@
 {
-  "updated": "2025-10-26T14:38:19+00:00",
+  "updated": "2025-10-26T15:16:15+00:00",
   "items": [
-    {
-      "id": "12b4db94685541ce",
-      "title": "How to watch the Tennessee Titans at Indianapolis Colts on October 26, 2025",
-      "link": "https://colts.com/news/how-to-watch-titans-at-colts-week-8-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-26T12:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Tennessee Titans at Indianapolis Colts on Sunday, October 26 at 4:25 p.m. ET (Week 8)."
-    },
     {
       "id": "a13106119541ba13",
       "title": "Sources: Titans open to deal, won't trade stars",
       "link": "https://espn.com/nfl/story/_/id/46724341/sources-titans-unwilling-trade-cam-ward-jeffery-simmons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-26T02:54:57+0000",
+      "published": "2025-10-26T16:06:49+0000",
       "summary": "The Titans are open to dealing ahead of the NFL trade deadline, but are unwilling to part with Cam Ward or Jeffery Simmons, sources told ESPN."
     },
     {
@@ -25,17 +16,8 @@
       "link": "https://espn.com/nfl/story/_/id/46723952/nfl-looking-ravens-handling-jackson-practice-participation",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-26T02:54:57+0000",
+      "published": "2025-10-26T16:06:49+0000",
       "summary": "The NFL will investigate the Baltimore Ravens' handling of quarterback Lamar Jackson's practice participation, which led to the two-time NFL Most Valuable Player being ruled out because of a hamstring injury for Sunday's contest against the Chicago Bears."
-    },
-    {
-      "id": "cb6948b63aa2d356",
-      "title": "Bills 1st-round pick Hairston set for season debut",
-      "link": "https://espn.com/nfl/story/_/id/46722845/bills-first-round-pick-maxwell-hairston-set-season-debut",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-26T02:54:57+0000",
-      "summary": "Bills first-round pick Maxwell Hairston is in line to make his NFL debut after the cornerback was activated off injured reserve Saturday."
     },
     {
       "id": "e3170eefa6e22baf",
@@ -43,8 +25,26 @@
       "link": "https://espn.com/nfl/story/_/id/46683459/2025-nfl-offseason-tiers-32-teams-best-worst-signings-trades-draft-barnwell",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-26T02:54:57+0000",
+      "published": "2025-10-26T16:06:49+0000",
       "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
+    },
+    {
+      "id": "220833ef74383b5d",
+      "title": "Ready for NFL Week 8? Catch up with our last-minute predictions, fantasy sleepers, more",
+      "link": "https://espn.com/nfl/story/_/id/46696835/2025-nfl-week-8-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-26T15:58:26+0000",
+      "summary": "Big game for Derrick Henry? Alec Pierce's first TD of the season? More fantasy upside for Joe Flacco? Here's what to know for Week 8."
+    },
+    {
+      "id": "12b4db94685541ce",
+      "title": "How to watch the Tennessee Titans at Indianapolis Colts on October 26, 2025",
+      "link": "https://colts.com/news/how-to-watch-titans-at-colts-week-8-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-26T12:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Tennessee Titans at Indianapolis Colts on Sunday, October 26 at 4:25 p.m. ET (Week 8)."
     },
     {
       "id": "b74829e62ecbbcfb",
@@ -72,15 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-10-25T15:50:52+0000",
       "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "220833ef74383b5d",
-      "title": "Ready for NFL Week 8? Catch up with our last-minute predictions, fantasy sleepers, more",
-      "link": "https://espn.com/nfl/story/_/id/46696835/2025-nfl-week-8-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-25T14:28:07+0000",
-      "summary": "Big game for Derrick Henry? Alec Pierce's first TD of the season? More fantasy upside for Joe Flacco? Here's what to know for Week 8."
     },
     {
       "id": "c81f746d4119d4f5",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-19T18:35:53+0000",
       "summary": "The Colts previously ruled out wide receivers Josh Downs (concussion) and Ashton Dulin (chest) and running back Tyler Goodson (groin) for Week 7."
+    },
+    {
+      "id": "0105928477605bff",
+      "title": "Keys to the Game: Colts at Chargers",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-chargers/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-19T16:51:44+0000",
+      "summary": "INDIANAPOLIS - The Colts sit alone atop the AFC standings at 5-1 as they take the field on Sunday against the Chargers, one of six teams chasing them in the conference at 4-2. IndyStar Colts' insider Joel A. Erickson gives his keys to victory if they are going to avoid their second loss of the [...]"
     }
   ],
   "links": [
