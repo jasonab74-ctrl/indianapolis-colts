@@ -1,13 +1,22 @@
 {
-  "updated": "2025-10-26T01:27:22+00:00",
+  "updated": "2025-10-26T02:56:00+00:00",
   "items": [
+    {
+      "id": "a13106119541ba13",
+      "title": "Sources: Titans open to deal, won't trade stars",
+      "link": "https://espn.com/nfl/story/_/id/46724341/sources-titans-unwilling-trade-cam-ward-jeffery-simmons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-26T02:54:57+0000",
+      "summary": "The Titans are open to dealing ahead of the NFL trade deadline, but are unwilling to part with Cam Ward or Jeffery Simmons, sources told ESPN."
+    },
     {
       "id": "d73546d043d5f544",
       "title": "NFL looks into Ravens for Lamar practice status",
       "link": "https://espn.com/nfl/story/_/id/46723952/nfl-looking-ravens-handling-jackson-practice-participation",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-25T22:42:40+0000",
+      "published": "2025-10-26T02:54:57+0000",
       "summary": "The NFL will investigate the Baltimore Ravens' handling of quarterback Lamar Jackson's practice participation, which led to the two-time NFL Most Valuable Player being ruled out because of a hamstring injury for Sunday's contest against the Chicago Bears."
     },
     {
@@ -16,17 +25,8 @@
       "link": "https://espn.com/nfl/story/_/id/46722845/bills-first-round-pick-maxwell-hairston-set-season-debut",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-25T22:42:40+0000",
+      "published": "2025-10-26T02:54:57+0000",
       "summary": "Bills first-round pick Maxwell Hairston is in line to make his NFL debut after the cornerback was activated off injured reserve Saturday."
-    },
-    {
-      "id": "4f30af2ee5319698",
-      "title": "Broncos LB Strnad fined for contact with referee",
-      "link": "https://espn.com/nfl/story/_/id/46723228/broncos-lb-justin-strnad-fined-making-contact-ref",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-25T22:42:40+0000",
-      "summary": "The NFL announced Saturday linebacker Justin Strnad was fined $15,486 because he made contact with referee Brad Allen after Sunday's win over the Giants."
     },
     {
       "id": "e3170eefa6e22baf",
@@ -34,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/46683459/2025-nfl-offseason-tiers-32-teams-best-worst-signings-trades-draft-barnwell",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-25T22:42:40+0000",
+      "published": "2025-10-26T02:54:57+0000",
       "summary": "The Colts' Daniel Jones deal looks great now; the Texans' OL moves do not. Let's review every NFL team's signings, trades, hirings and draft picks with hindsight."
     },
     {
