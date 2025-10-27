@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-27T18:27:18+00:00",
+  "updated": "2025-10-27T18:49:28+00:00",
   "items": [
     {
       "id": "75af3764437c98c1",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/46737785/harbaugh-ravens-purposely-violate-injury-report-lamar",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-27T19:18:17+0000",
+      "published": "2025-10-27T19:35:38+0000",
       "summary": "Coach John Harbaugh called the Ravens' violation of the NFL's injury report policy regarding Lamar Jackson \"an honest mistake.\""
     },
     {
@@ -72,15 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-10-27T15:26:22+0000",
       "summary": "The Texans improved to 3-4 with the Week 8 win; the Colts moved to 7-1 after their win over the Titans."
-    },
-    {
-      "id": "3cdeb3a61d3773a3",
-      "title": "Winners and losers: Taylor, Cook deliver; CMC, Robinson fall flat",
-      "link": "https://espn.com/fantasy/football/story/_/page/FFSundayHighLows-46735684/nfl-week-8-fantasy-football-winners-losers-injuries-rankings-more",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-27T15:19:36+0000",
-      "summary": "Jonathan Taylor, James Cook III and Saquon Barkley led the way with big Week 8 performances."
     },
     {
       "id": "5a2a1dac12e536f0",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-20T19:20:59+0000",
       "summary": "INDIANAPOLIS – Samson Ebukam apparently avoided a long-term knee injury, but one of the Indianapolis Colts’ edge pass rushers is expected to miss an undetermined amount of time. According to a source with knowledge of the situation, the initial diagnosis of the knee injury Ebukam sustained in Sunday’s 38-24 win over the Los Angeles Chargers [...]"
+    },
+    {
+      "id": "bfd650850f47d42f",
+      "title": "Colts sign CB David Long Jr. to practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-david-long-jr-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-20T17:49:39+0000",
+      "summary": "The Colts made the roster move on Monday."
     }
   ],
   "links": [
