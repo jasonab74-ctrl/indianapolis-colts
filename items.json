@@ -1,22 +1,13 @@
 {
-  "updated": "2025-10-27T05:42:49+00:00",
+  "updated": "2025-10-27T06:30:49+00:00",
   "items": [
-    {
-      "id": "aa6a80ff24d72937",
-      "title": "What you need to know from Week 8: Jordan Love, Packers defeat Rodgers",
-      "link": "https://espn.com/nfl/story/_/id/46709913/nfl-week-8-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-27T04:47:56+0000",
-      "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 8."
-    },
     {
       "id": "75af3764437c98c1",
       "title": "Harbaugh: Lamar practice miscue 'honest mistake'",
       "link": "https://espn.com/nfl/story/_/id/46737785/harbaugh-ravens-purposely-violate-injury-report-lamar",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-27T04:16:31+0000",
+      "published": "2025-10-27T07:11:35+0000",
       "summary": "Coach John Harbaugh called the Ravens' violation of the NFL's injury report policy regarding Lamar Jackson \"an honest mistake.\""
     },
     {
@@ -25,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/46740359/colts-taylor-adds-153-yards-3-more-tds-mvp-year",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-27T04:16:31+0000",
+      "published": "2025-10-27T07:11:35+0000",
       "summary": "Jonathan Taylor ran for 153 yards, including an 80-yard TD, in a 38-14 win over the Titans on Sunday. \"We're witnessing greatness right in front of us,\" DeForest Buckner said."
     },
     {
@@ -34,8 +25,17 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-27T04:16:31+0000",
+      "published": "2025-10-27T07:11:35+0000",
       "summary": "Could Ty Simpson be the QB1? Is Anthony Hill Jr. climbing the LB ranks again? We have notes on NFL prospects through CFB Week 9."
+    },
+    {
+      "id": "aa6a80ff24d72937",
+      "title": "What you need to know from Week 8: Jordan Love, Packers defeat Rodgers",
+      "link": "https://espn.com/nfl/story/_/id/46709913/nfl-week-8-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-27T04:47:56+0000",
+      "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 8."
     },
     {
       "id": "eeeed1b639feadda",
