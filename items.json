@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-27T16:24:14+00:00",
+  "updated": "2025-10-27T16:48:19+00:00",
   "items": [
     {
       "id": "75af3764437c98c1",
@@ -7,17 +7,8 @@
       "link": "https://espn.com/nfl/story/_/id/46737785/harbaugh-ravens-purposely-violate-injury-report-lamar",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-27T16:30:03+0000",
+      "published": "2025-10-27T17:37:02+0000",
       "summary": "Coach John Harbaugh called the Ravens' violation of the NFL's injury report policy regarding Lamar Jackson \"an honest mistake.\""
-    },
-    {
-      "id": "a70df1764f51e20d",
-      "title": "'Witnessing greatness': Colts' Taylor stars again",
-      "link": "https://espn.com/nfl/story/_/id/46740359/colts-taylor-adds-153-yards-3-more-tds-mvp-year",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-27T16:30:03+0000",
-      "summary": "Jonathan Taylor ran for 153 yards, including an 80-yard TD, in a 38-14 win over the Titans on Sunday. \"We're witnessing greatness right in front of us,\" DeForest Buckner said."
     },
     {
       "id": "aa6a80ff24d72937",
@@ -36,6 +27,15 @@
       "feed": "ESPN",
       "published": "2025-10-27T16:08:02+0000",
       "summary": "Week 9 features four games with lines at or approaching double digits -- and eight with spreads of four points or less."
+    },
+    {
+      "id": "f55555369263c3b5",
+      "title": "Colts’ Monday Morning Awards: Week 8 vs. Titans",
+      "link": "https://stampedeblue.com/analysis/116907/colts-monday-morning-awards-week-8-vs-titans",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-27T15:58:16+0000",
+      "summary": "7-1. Colts win their fourth game in a row, all convincingly, this time by 24 points against division rivals Tennessee Titans. There were some ghosts surrounding this team and games that they should be winning easily on paper, so it was nice leaving them behind and demolishing the Titans always feels good. Now we enter [&#8230;]"
     },
     {
       "id": "3e5ddf582a7fd1c1",
@@ -234,15 +234,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-26T20:15:49+0000",
       "summary": "According to NFL Network’s Ian Rapoport, Indianapolis Colts backup quarterback Anthony Richardson underwent surgery to repair his orbital bone fracture on Monday—but could still return this season: The former 4th overall pick of the 2023 NFL Draft has suffered a myriad on injuries since entering the league with Indianapolis (including 13 games in his rookie [&#8230;]"
-    },
-    {
-      "id": "2f456d1baedf0c21",
-      "title": "Report: Colts looking to sign starting QB Daniel Jones to  long-term contract at year end",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/116804/report-colts-looking-to-sign-starting-qb-daniel-jones-to-long-term-contract-at-year-end",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-26T19:50:45+0000",
-      "summary": "According to NFL Network’s Ian Rapoport, the Indianapolis Colts are hoping to sign starting quarterback Daniel Jones to a long-term contract extension at year-end: The fact that the Colts are hoping to keep Indianapolis for the foreseeable future is hardly surprising given that he’s been one of the catalysts to their remarkable 2025 turnaround. While [&#8230;]"
     },
     {
       "id": "2c221dfa948bcf9a",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-20T19:20:59+0000",
       "summary": "INDIANAPOLIS – Samson Ebukam apparently avoided a long-term knee injury, but one of the Indianapolis Colts’ edge pass rushers is expected to miss an undetermined amount of time. According to a source with knowledge of the situation, the initial diagnosis of the knee injury Ebukam sustained in Sunday’s 38-24 win over the Los Angeles Chargers [...]"
+    },
+    {
+      "id": "bfd650850f47d42f",
+      "title": "Colts sign CB David Long Jr. to practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-david-long-jr-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-20T17:49:39+0000",
+      "summary": "The Colts made the roster move on Monday."
     }
   ],
   "links": [
