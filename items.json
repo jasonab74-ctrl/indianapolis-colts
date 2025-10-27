@@ -1,6 +1,24 @@
 {
-  "updated": "2025-10-27T10:45:04+00:00",
+  "updated": "2025-10-27T11:16:26+00:00",
   "items": [
+    {
+      "id": "b162ce27649ba27a",
+      "title": "'Monday Night Football' moments for all 32 NFL teams, including one we'd rather forget",
+      "link": "https://espn.com/nfl/story/_/id/46672512/nfl-monday-night-football-cowboys-patriots-steelers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-27T12:06:26+0000",
+      "summary": "Dazzling plays, huge comebacks and one notable injury punctuated the first 55 years of 'Monday Night Football.'"
+    },
+    {
+      "id": "27de3beed804ffb6",
+      "title": "Colts-Steelers opening odds: Colts seeking a big road win",
+      "link": "https://stampedeblue.com/analysis/116853/colts-steelers-opening-odds-colts-seeking-a-big-road-win",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-27T11:00:00+0000",
+      "summary": "The Indianapolis Colts have played the Pittsburgh Steelers quite a bit over the years. Thirty-five times these two teams have matched up, and the Colts have only won eight of those games. That is the bad part. A potential silver lining, however, is that two of those wins came in the last two meetings. Both [&#8230;]"
+    },
     {
       "id": "75af3764437c98c1",
       "title": "Harbaugh: Lamar practice miscue 'honest mistake'",
@@ -317,15 +335,6 @@
       "summary": "Wide receiver Josh Downs participated in all three practices this week."
     },
     {
-      "id": "d9ec80fe60558c13",
-      "title": "Daniel Jones is cashing in on his great play",
-      "link": "https://stampedeblue.com/analysis/116603/daniel-jones-is-cashing-in-on-his-great-play",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-24T15:00:00+0000",
-      "summary": "The Colts’ offense isn’t just the NFL’s best — it’s on a historic pace, averaging more points per drive than any team since 2000. While the additions of Tyler Warren and a fully healthy Jonathan Taylor have made a huge difference, the biggest reason for the Colts’ offensive success has been Daniel Jones and his [&#8230;]"
-    },
-    {
       "id": "a5c4d393185ab209",
       "title": "Colts-Titans Week 8 preview: 'Everyone in this league is good'",
       "link": "https://colts.com/news/colts-titans-preview-everyone-in-this-league-is-good",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-20T17:49:39+0000",
       "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "21585e589d90e31a",
-      "title": "Around the AFC South: Colts in firm control of first place as Jaguars falter against Rams",
-      "link": "https://colts.com/news/around-the-afc-south-colts-first-place-afc-south-jaguars-titans-cam-ward-trevor-lawrence-week-7-nfl",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-20T17:48:00+0000",
-      "summary": "The Jaguars and the Titans both lost – and struggled mightily – on Sunday; the Texans play the Seattle Seahawks on Monday Night Football."
     }
   ],
   "links": [
