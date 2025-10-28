@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-28T17:17:48+00:00",
+  "updated": "2025-10-28T17:41:35+00:00",
   "items": [
+    {
+      "id": "7c3c41a85f501eac",
+      "title": "Ex-NFL star Peterson asleep in SUV before arrest",
+      "link": "https://espn.com/nfl/story/_/id/46758063/ex-nfl-star-adrian-peterson-was-asleep-suv-dwi-arrest",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-28T18:27:42+0000",
+      "summary": "Former NFL running back Adrian Peterson was asleep in his SUV while parked at Houston area gas station when he was arrested on charges of driving while intoxicated and unlawfully carrying a weapon, according to court records."
+    },
     {
       "id": "aed30fb592980b33",
       "title": "EA Sports and NFL extend partnership for Madden, College Football",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-21T18:21:33+0000",
       "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "77ccc5fe88181a00",
-      "title": "Around the AFC South: Colts hold best record in NFL, Texans drop to 2-4 after Monday Night Football doubleheader",
-      "link": "https://colts.com/news/around-the-afc-south-colts-nfl-best-record-texans-loss-cj-stroud-seahawks-buccaneers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-21T13:38:00+0000",
-      "summary": "With the Tampa Bay Buccaneers’ loss to the Detroit Lions, the Colts (6-1) officially have the best record in the NFL. The Houston Texans lost to the Seattle Seahawks in the second Monday night game."
     }
   ],
   "links": [
