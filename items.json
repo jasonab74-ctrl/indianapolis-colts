@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-29T13:31:57+00:00",
+  "updated": "2025-10-29T14:19:04+00:00",
   "items": [
+    {
+      "id": "f6c2e0b03479e8cb",
+      "title": "What to expect at the NFL trade deadline for every team: Perfect fits, candidates to move and big needs",
+      "link": "https://espn.com/nfl/story/_/id/46735039/2025-nfl-trade-deadline-deals-players-buzz-needs-32-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T15:11:31+0000",
+      "summary": "Let's outline deadline plans for all 32 franchises, including who could be moved or targeted before 4 p.m. ET on Nov. 4. Here's everything to know."
+    },
     {
       "id": "5c39c479ceb604e4",
       "title": "Matchup rankings: Upgrade Daniel Jones, downgrade Travis Kelce",
@@ -9,6 +18,15 @@
       "feed": "ESPN",
       "published": "2025-10-29T14:23:21+0000",
       "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions: QB, RB, WR and TE."
+    },
+    {
+      "id": "483da9fb9065fed5",
+      "title": "Colts nominate long snapper Luke Rhodes for 2025 NFL Salute to Service Award",
+      "link": "https://colts.com/news/colts-nominate-long-snapper-luke-rhodes-for-2025-nfl-salute-to-service-award",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-29T14:00:01+0000",
+      "summary": "Rhodes was raised in a military household and has consistently honored, empowered and connected with active duty servicemembers, their families and veterans during his 10-year NFL career."
     },
     {
       "id": "8bf73894d71ff2f5",
@@ -47,13 +65,22 @@
       "summary": "It's time to update our Power Rankings. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
     },
     {
-      "id": "f6c2e0b03479e8cb",
-      "title": "Guide to every NFL team's trade deadline: Candidates to be moved, targets who could fit, biggest needs",
-      "link": "https://espn.com/nfl/story/_/id/46735039/2025-nfl-trade-deadline-deals-players-buzz-needs-32-teams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T12:45:32+0000",
-      "summary": "Let's outline deadline plans for all 32 franchises, including who could be moved or targeted before 4 p.m. ET on Nov. 4. Here's everything to know."
+      "id": "d883f39dffbcfce0",
+      "title": "OL Coach Tony Sparano Jr. is the Colts’ saving grace",
+      "link": "https://stampedeblue.com/analysis/116940/ol-coach-tony-sparano-jr-is-the-colts-saving-grace",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T12:00:00+0000",
+      "summary": "Indianapolis, IN — Indianapolis Colts general manager Chris Ballard has always had a knack for drafting offensive line talent. From one of the easiest choices of all time in selecting guard Quenton Nelson at the top of the draft to finding gems on Day 3 (Rounds 4-7), such as current starting center Tanor Bortolini and [&#8230;]"
+    },
+    {
+      "id": "0d13189fc51ae096",
+      "title": "Colts offense could thrive against this Steelers defense",
+      "link": "https://stampedeblue.com/analysis/116999/colts-offense-could-thrive-against-this-steelers-defense",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T12:00:00+0000",
+      "summary": "The “Steel Curtain” from the seventies is showing its age in 2025 as the once vaunted defense from Pittsburgh is in need of some patch work. Unfortunately for them, they are facing a pair of shears in the Indianapolis Colts offense. Daniel Jones and co. are currently on a tear and are taking no prisoners [&#8230;]"
     },
     {
       "id": "f8108d7db145da8a",
@@ -252,24 +279,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-27T12:56:52+0000",
       "summary": "The Indianapolis Colts moved to 7-1 with a dominating win over the Tennessee Titans at Lucas Oil Stadium. Jonathan Taylor led the way with three touchdowns and Michael Pittman Jr. made a pair of highlight-worthy catches. Matt Adams recaps the 38-14 win in the latest episode of the Colts Blue Zone Podcast. Find the Colts [...]"
-    },
-    {
-      "id": "27de3beed804ffb6",
-      "title": "Colts-Steelers opening odds: Colts seeking a big road win",
-      "link": "https://stampedeblue.com/analysis/116853/colts-steelers-opening-odds-colts-seeking-a-big-road-win",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T11:00:00+0000",
-      "summary": "The Indianapolis Colts have played the Pittsburgh Steelers quite a bit over the years. Thirty-five times these two teams have matched up, and the Colts have only won eight of those games. That is the bad part. A potential silver lining, however, is that two of those wins came in the last two meetings. Both [&#8230;]"
-    },
-    {
-      "id": "a93f4c96414a2274",
-      "title": "Indianapolis Colts roll through Titans to stay on top of AFC playoff picture",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/116834/indianapolis-colts-roll-through-titans-to-stay-on-top-of-afc-playoff-picture",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T03:23:23+0000",
-      "summary": "The Indianapolis Colts dominated the Tennessee Titans and it didn’t matter that the rest of the AFC playoff teams won. The Colts stay atop the AFC with their Week 8 win. The AFC East-leading New England Patriots and the second-place Buffalo Bills both won, the Denver Broncos walloped the Dallas Cowboys, and the Los Angeles [&#8230;]"
     },
     {
       "id": "237de9d447b8799a",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-22T20:26:11+0000",
       "summary": "Jones is the only quarterback in the NFL to not be sacked on third or fourth down this season."
-    },
-    {
-      "id": "f4b7edc6d8b6d0e7",
-      "title": "Colts open 21-day practice window for CB Jaylon Jones to return from injured reserve",
-      "link": "https://colts.com/news/colts-open-21-day-practice-window-for-cb-jaylon-jones-to-return-from-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-22T15:33:00+0000",
-      "summary": "Jones was placed on injured reserve in September due to a hamstring injury sustained in Week 1."
     }
   ],
   "links": [
