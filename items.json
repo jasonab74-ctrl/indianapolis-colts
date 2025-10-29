@@ -1,6 +1,15 @@
 {
-  "updated": "2025-10-29T22:41:05+00:00",
+  "updated": "2025-10-29T23:17:05+00:00",
   "items": [
+    {
+      "id": "89d3ac4ee4e5e9d6",
+      "title": "What Aidan Hutchinson's extension means, and which pass rushers are getting paid next",
+      "link": "https://espn.com/nfl/story/_/id/46771114/aidan-hutchinson-contract-extension-detroit-lions-nfl-pass-rushers-faq",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-30T00:11:26+0000",
+      "summary": "The Lions' second overall pick in 2022 became the NFL's fourth-highest-paid non-QB on Wednesday."
+    },
     {
       "id": "ce78970780f6f393",
       "title": "📈 Week 9 Power Rankings: Best offseason adds",
@@ -11,6 +20,15 @@
       "summary": "Let's update our NFL Power Rankings ahead of Week 9. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
     },
     {
+      "id": "53eeb0bbaa4f6c84",
+      "title": "Colts’ Braden Smith 'felt very eager to prove something to myself'",
+      "link": "https://fox59.com/news/colts-braden-smith-felt-very-eager-to-prove-something-to-myself/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-29T23:01:26+0000",
+      "summary": "INDIANAPOLIS — There was a moment Sunday at Lucas Oil Stadium when Braden Smith was reminded of the life-struggle he’s dealing with. In his world, two wolves demanded to be fed. “I choose not to feed my OCD,’’ Smith said. Instead, he immediately relied on the tools gathered during a months-long journey to come to [...]"
+    },
+    {
       "id": "f6c2e0b03479e8cb",
       "title": "What to expect at the NFL trade deadline for every team: Perfect fits, candidates to move and big needs",
       "link": "https://espn.com/nfl/story/_/id/46735039/2025-nfl-trade-deadline-deals-players-buzz-needs-32-teams",
@@ -18,6 +36,15 @@
       "feed": "ESPN",
       "published": "2025-10-29T22:24:08+0000",
       "summary": "Let's outline deadline plans for all 32 franchises, including who could be moved or targeted before 4 p.m. ET on Nov. 4. Here's everything to know."
+    },
+    {
+      "id": "048f5fb192382175",
+      "title": "Week 8 Colts Offensive Rankings and Analysis",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/116686/week-8-colts-offensive-rankings-and-analysis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T21:25:35+0000",
+      "summary": "Each week during the season, I will be walking through the data from the previous&#160;Colts&#160;game and analyzing the numbers to form a sort of “what happened” narrative, as well as comparing the Colts against all other teams in the league. For a glossary of the stats listed, reference&#160;Season Stats. Thanks to&#160;Pro Football Reference,&#160;NFL.com, Pro Football [&#8230;]"
     },
     {
       "id": "4e9c17b9da957da6",
@@ -72,15 +99,6 @@
       "feed": "Colts.com",
       "published": "2025-10-29T19:54:50+0000",
       "summary": "The Colts opened Jones’ 21-day window to be activated from injured reserve last week."
-    },
-    {
-      "id": "89d3ac4ee4e5e9d6",
-      "title": "What Aidan Hutchinson's extension means, and which pass rushers are getting paid next",
-      "link": "https://espn.com/nfl/story/_/id/46771114/aidan-hutchinson-contract-extension-detroit-lions-nfl-pass-rushers-faq",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T18:55:51+0000",
-      "summary": "The Lions' second overall pick in 2022 became the NFL's fourth-highest-paid non-QB on Wednesday."
     },
     {
       "id": "7bead6c52bc1c2b5",
@@ -317,15 +335,6 @@
       "summary": "What lines offered immediate value once odds came out? Here are four early bets and a futures wager to track."
     },
     {
-      "id": "4762828f6987eaed",
-      "title": "The Colts have 7 wins in the books.  How does the 2nd half look?",
-      "link": "https://stampedeblue.com/analysis/116904/the-colts-have-7-wins-in-the-books-how-does-the-2nd-half-look",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T17:17:35+0000",
-      "summary": "The Colts have been the surprise story of the first half of the season. Some other teams have had some moments, but no team has put positive weekly results on the field, as well as the Colts have. We still have our detractors who most often want to put our strength of schedule as a [&#8230;]"
-    },
-    {
       "id": "3e5ddf582a7fd1c1",
       "title": "Around the AFC South: 'Locked in' Texans take down injury-riddled 49ers, Colts maintain best record in NFL",
       "link": "https://colts.com/news/around-the-afc-south-locked-in-texans-take-down-injury-riddled-49ers-colts-maintain-best-record-in-nfl",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-24T11:17:33+0000",
       "summary": "The Colts Show Mailbag returns for Week 8 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "3bc420ac11640e6e",
-      "title": "Colts’ high-powered offense following the lead of Quenton Nelson, o-line",
-      "link": "https://fox59.com/sports/colts/colts-high-powered-offense-following-the-lead-of-quenton-nelson-o-line/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-23T23:34:54+0000",
-      "summary": "INDIANAPOLIS – The response was Shane Steichen at his stoic best. Why has Daniel Jones avoided sacks so successfully this year? “Because our offensive line is really good right now,’’ Steichen said this week. He elaborated, but already had delivered the salient point. The 6-1 Indianapolis Colts are off to their best start since their [...]"
     }
   ],
   "links": [
