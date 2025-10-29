@@ -1,6 +1,33 @@
 {
-  "updated": "2025-10-29T15:20:49+00:00",
+  "updated": "2025-10-29T15:44:02+00:00",
   "items": [
+    {
+      "id": "95b4a8b2a3980316",
+      "title": "Poll: Many NFL fans want more games despite risk",
+      "link": "https://espn.com/nfl/story/_/id/46768402/poll-shows-many-nfl-fans-want-more-games-injury-risks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T16:36:58+0000",
+      "summary": "Many NFL teams have lost star players to season-ending injuries this season, or played without them for significant stretches -- but a new poll finds that many football fans want more games, even if it means more risk."
+    },
+    {
+      "id": "7c3c41a85f501eac",
+      "title": "Ex-NFL star Peterson asleep in SUV before arrest",
+      "link": "https://espn.com/nfl/story/_/id/46758063/ex-nfl-star-adrian-peterson-was-asleep-suv-dwi-arrest",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T16:36:58+0000",
+      "summary": "Former NFL running back Adrian Peterson was asleep in his SUV while parked at Houston area gas station when he was arrested on charges of driving while intoxicated and unlawfully carrying a weapon, according to court records."
+    },
+    {
+      "id": "ce78970780f6f393",
+      "title": "A new team at No. 1? Patriots in the top 10? We have our latest NFL Power Rankings",
+      "link": "https://espn.com/nfl/story/_/id/46745970/nfl-week-9-power-rankings-poll-32-teams-2025-best-offseason-additions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T16:22:41+0000",
+      "summary": "It's time to update our Power Rankings. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
+    },
     {
       "id": "5c39c479ceb604e4",
       "title": "Matchup rankings: Upgrade Daniel Jones, downgrade Travis Kelce",
@@ -11,22 +38,13 @@
       "summary": "The most and least favorable matchups in the NFL for this week's games."
     },
     {
-      "id": "7c3c41a85f501eac",
-      "title": "Ex-NFL star Peterson asleep in SUV before arrest",
-      "link": "https://espn.com/nfl/story/_/id/46758063/ex-nfl-star-adrian-peterson-was-asleep-suv-dwi-arrest",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T16:03:38+0000",
-      "summary": "Former NFL running back Adrian Peterson was asleep in his SUV while parked at Houston area gas station when he was arrested on charges of driving while intoxicated and unlawfully carrying a weapon, according to court records."
-    },
-    {
-      "id": "95b4a8b2a3980316",
-      "title": "Poll: Many NFL fans want more games despite risk",
-      "link": "https://espn.com/nfl/story/_/id/46768402/poll-shows-many-nfl-fans-want-more-games-injury-risks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T16:03:37+0000",
-      "summary": "Many NFL teams have lost star players to season-ending injuries this season, or played without them for significant stretches -- but a new poll finds that many football fans want more games, even if it means more risk."
+      "id": "ed6a06713edf3624",
+      "title": "Colts speculated as ‘one player away’ trade suitor for Bengals All-Pro edge Trey Hendrickson",
+      "link": "https://stampedeblue.com/indianapolis-colts-rumors/117015/colts-speculated-as-one-player-away-trade-suitor-for-bengals-all-pro-edge-trey-hendrickson",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T15:16:37+0000",
+      "summary": "According to ESPN’s Jeremy Fowler and Dan Graziano (subscription), the Indianapolis Colts still seem like a logical trade destination for Cincinnati Bengals reigning All-Pro pass rusher Trey Hendrickson—even with their current caveat that “Cincinnati has no plans to trade Hendrickson right now”: “Up to this point, the Bengals have rebuffed trade inquiries, and sources have [&#8230;]"
     },
     {
       "id": "f6c2e0b03479e8cb",
@@ -63,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-10-29T13:41:33+0000",
       "summary": "New England has been active ahead of Tuesday's NFL trade deadline with a pair of trades. Here's why."
-    },
-    {
-      "id": "ce78970780f6f393",
-      "title": "A new team at No. 1? Patriots in the top 10? We have our latest NFL Power Rankings",
-      "link": "https://espn.com/nfl/story/_/id/46745970/nfl-week-9-power-rankings-poll-32-teams-2025-best-offseason-additions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T12:48:23+0000",
-      "summary": "It's time to update our Power Rankings. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
     },
     {
       "id": "d883f39dffbcfce0",
@@ -270,15 +279,6 @@
       "feed": "Colts.com",
       "published": "2025-10-27T14:20:49+0000",
       "summary": "Taylor recorded 174 scrimmage yards (153 rushing, 21 receiving) and three touchdowns (two rushing, one receiving) in the Colts' win over the Titans."
-    },
-    {
-      "id": "894725c95e5bd749",
-      "title": "Colts revisionist history: Jonathan Taylor was 100% right to hold out",
-      "link": "https://stampedeblue.com/analysis/116858/colts-revisionist-history-jonathan-taylor-was-100-right-to-hold-out",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T13:18:00+0000",
-      "summary": "Is there anyone better in the NFL right now than Jonathan Taylor? That’s a rhetorical question because the answer is no. It doesn’t matter if he is in the MVP conversation because current odds show it isn’t about the most valuable player but instead the most valuable quarterback. It may be impossible for him to [&#8230;]"
     },
     {
       "id": "26aa2579a57ff3a7",
