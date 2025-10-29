@@ -1,14 +1,32 @@
 {
-  "updated": "2025-10-29T11:37:52+00:00",
+  "updated": "2025-10-29T12:39:58+00:00",
   "items": [
+    {
+      "id": "95b4a8b2a3980316",
+      "title": "Poll: Many NFL fans want more games despite risk",
+      "link": "https://espn.com/nfl/story/_/id/46768402/poll-shows-many-nfl-fans-want-more-games-injury-risks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T13:17:43+0000",
+      "summary": "Many NFL teams have lost star players to season-ending injuries this season, or played without them for significant stretches -- but a new poll finds that many football fans want more games, even if it means more risk."
+    },
     {
       "id": "7c3c41a85f501eac",
       "title": "Ex-NFL star Peterson asleep in SUV before arrest",
       "link": "https://espn.com/nfl/story/_/id/46758063/ex-nfl-star-adrian-peterson-was-asleep-suv-dwi-arrest",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-29T04:54:27+0000",
+      "published": "2025-10-29T13:17:43+0000",
       "summary": "Former NFL running back Adrian Peterson was asleep in his SUV while parked at Houston area gas station when he was arrested on charges of driving while intoxicated and unlawfully carrying a weapon, according to court records."
+    },
+    {
+      "id": "8bf73894d71ff2f5",
+      "title": "Why the 6-2 Patriots traded Keion White and Kyle Dugger -- and what could be next",
+      "link": "https://espn.com/nfl/story/_/id/46764962/why-6-2-new-england-patriots-traded-keion-white-kyle-dugger-2025-trade-deadline",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T12:52:18+0000",
+      "summary": "New England has been active ahead of Tuesday's NFL trade deadline with a pair of trades. Here's why."
     },
     {
       "id": "ce78970780f6f393",
@@ -16,17 +34,44 @@
       "link": "https://espn.com/nfl/story/_/id/46745970/nfl-week-9-power-rankings-poll-32-teams-2025-best-offseason-additions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-29T02:58:03+0000",
+      "published": "2025-10-29T12:48:23+0000",
       "summary": "It's time to update our Power Rankings. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
     },
     {
-      "id": "f8dee1af207226f4",
-      "title": "NFL trade grades: Evaluating the Patriots' trades of Kyle Dugger, Keion White",
-      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+      "id": "f6c2e0b03479e8cb",
+      "title": "Guide to every NFL team's trade deadline: Candidates to be moved, targets who could fit, biggest needs",
+      "link": "https://espn.com/nfl/story/_/id/46735039/2025-nfl-trade-deadline-deals-players-buzz-needs-32-teams",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-29T02:13:37+0000",
-      "summary": "We're grading NFL deals leading into the Nov. 4 NFL trade deadline, including the Patriots trading Kyle Dugger and Keion White."
+      "published": "2025-10-29T12:45:32+0000",
+      "summary": "Let's outline deadline plans for all 32 franchises, including who could be moved or targeted before 4 p.m. ET on Nov. 4. Here's everything to know."
+    },
+    {
+      "id": "d883f39dffbcfce0",
+      "title": "OL Coach Tony Sparano Jr. is the Colts’ saving grace",
+      "link": "https://stampedeblue.com/analysis/116940/ol-coach-tony-sparano-jr-is-the-colts-saving-grace",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T12:00:00+0000",
+      "summary": "Indianapolis, IN — Indianapolis Colts general manager Chris Ballard has always had a knack for drafting offensive line talent. From one of the easiest choices of all time in selecting guard Quenton Nelson at the top of the draft to finding gems on Day 3 (Rounds 4-7), such as current starting center Tanor Bortolini and [&#8230;]"
+    },
+    {
+      "id": "0d13189fc51ae096",
+      "title": "Colts offense could thrive against this Steelers defense",
+      "link": "https://stampedeblue.com/analysis/116999/colts-offense-could-thrive-against-this-steelers-defense",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T12:00:00+0000",
+      "summary": "The “Steel Curtain” from the seventies is showing its age in 2025 as the once vaunted defense from Pittsburgh is in need of some patch work. Unfortunately for them, they are facing a pair of shears in the Indianapolis Colts offense. Daniel Jones and co. are currently on a tear and are taking no prisoners [&#8230;]"
+    },
+    {
+      "id": "f8108d7db145da8a",
+      "title": "Colts superstar workhorse could go from ‘J.T. to MVP’ if maintains monstrous pace",
+      "link": "https://stampedeblue.com/analysis/116980/colts-superstar-workhorse-could-go-from-j-t-to-mvp-if-maintains-monstrous-pace",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-29T11:30:00+0000",
+      "summary": "Indianapolis Colts star running back Jonathan Taylor is almost midway through a monstrous rushing campaign, in which he’s not only the clear frontrunner for NFL Offensive Player of the Year but a bona fide NFL MVP candidate for the league’s most prestigious individual annual award. One that has recently been reserved for elite quarterbacks during [&#8230;]"
     },
     {
       "id": "6d47caee2a30d5be",
@@ -99,15 +144,6 @@
       "feed": "Stampede Blue",
       "published": "2025-10-28T15:12:58+0000",
       "summary": "Stock Up Michael Pittman Jr. Pitt continues asserting himself as the #1 receiver, and there are probably not a lot of better jobs than being the top dog on an offense as productive as the Colts is. Less than halfway through the season he has already tied his career high in touchdowns, consistently leads the [&#8230;]"
-    },
-    {
-      "id": "aa6a80ff24d72937",
-      "title": "What you need to know from Week 8: Chiefs handle Commanders; Packers beat Rodgers",
-      "link": "https://espn.com/nfl/story/_/id/46709913/nfl-week-8-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-28T04:24:59+0000",
-      "summary": "Our NFL Nation reporters answer the biggest questions out of each game. Here's what we learned from Week 8."
     },
     {
       "id": "4b54f5ce9d749f54",
@@ -227,24 +263,6 @@
       "summary": "The Indianapolis Colts moved to 7-1 with a dominating win over the Tennessee Titans at Lucas Oil Stadium. Jonathan Taylor led the way with three touchdowns and Michael Pittman Jr. made a pair of highlight-worthy catches. Matt Adams recaps the 38-14 win in the latest episode of the Colts Blue Zone Podcast. Find the Colts [...]"
     },
     {
-      "id": "27de3beed804ffb6",
-      "title": "Colts-Steelers opening odds: Colts seeking a big road win",
-      "link": "https://stampedeblue.com/analysis/116853/colts-steelers-opening-odds-colts-seeking-a-big-road-win",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T11:00:00+0000",
-      "summary": "The Indianapolis Colts have played the Pittsburgh Steelers quite a bit over the years. Thirty-five times these two teams have matched up, and the Colts have only won eight of those games. That is the bad part. A potential silver lining, however, is that two of those wins came in the last two meetings. Both [&#8230;]"
-    },
-    {
-      "id": "a93f4c96414a2274",
-      "title": "Indianapolis Colts roll through Titans to stay on top of AFC playoff picture",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/116834/indianapolis-colts-roll-through-titans-to-stay-on-top-of-afc-playoff-picture",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T03:23:23+0000",
-      "summary": "The Indianapolis Colts dominated the Tennessee Titans and it didn’t matter that the rest of the AFC playoff teams won. The Colts stay atop the AFC with their Week 8 win. The AFC East-leading New England Patriots and the second-place Buffalo Bills both won, the Denver Broncos walloped the Dallas Cowboys, and the Los Angeles [&#8230;]"
-    },
-    {
       "id": "237de9d447b8799a",
       "title": "Colts’ Jonathan Taylor: MVP? He’s running in that direction",
       "link": "https://fox59.com/news/colts-jonathan-taylor-mvp-hes-running-in-that-direction/",
@@ -279,15 +297,6 @@
       "feed": "Colts.com",
       "published": "2025-10-27T01:40:01+0000",
       "summary": "Michael Pittman Jr. had eight receptions for 95 yards in the Colts' 38-14 win over the Titans on Sunday."
-    },
-    {
-      "id": "284aff16f89a784c",
-      "title": "Jonathan Taylor is the NFL’s Mid-Season MVP",
-      "link": "https://stampedeblue.com/analysis/116830/jonathan-taylor-is-the-nfls-mid-season-mvp",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-27T01:00:00+0000",
-      "summary": "Indianapolis, IN — Indianapolis Colts running back Jonathan Taylor has put on a dominant start to the season. After blowing past the Tennessee Titans for the second time this season, the Colts remain alone atop the NFL standings at 7-1, a start they haven’t matched since their Super Bowl runner-up season in 2009. It was [&#8230;]"
     },
     {
       "id": "90db3a9ab61d8a27",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-22T15:00:00+0000",
       "summary": "INDIANAPOLIS – The field of modern-era candidates for the Pro Football Hall of Fame’s Class of 2026 has been whittled to 52, yet continues to have a definite Colts flavor. Three long-time, prolific players for the franchise, along with a fourth who boosted his Hall of Fame stock in Indy, made the latest cut, which [...]"
-    },
-    {
-      "id": "defefdcf9c0324c6",
-      "title": "More property formerly owned by Jim Irsay sold in Carmel",
-      "link": "https://fox59.com/news/more-property-formerly-owned-by-jim-irsay-sold-in-carmel/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-22T02:23:58+0000",
-      "summary": "CARMEL, Ind. — More property formerly owned by Jim Irsay has been sold in Carmel. Public records indicate a home located along Clay Center Road was sold this month by the operators of a trust set up by the former Indianapolis Colts owner. The property on Clay Center Road is situated about two miles from [...]"
     }
   ],
   "links": [
