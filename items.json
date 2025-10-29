@@ -1,13 +1,40 @@
 {
-  "updated": "2025-10-29T18:50:59+00:00",
+  "updated": "2025-10-29T19:14:30+00:00",
   "items": [
+    {
+      "id": "8bf73894d71ff2f5",
+      "title": "Why the 6-2 Patriots traded Keion White and Kyle Dugger -- and what could be next",
+      "link": "https://espn.com/nfl/story/_/id/46764962/why-6-2-new-england-patriots-traded-keion-white-kyle-dugger-2025-trade-deadline",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T19:55:20+0000",
+      "summary": "New England has been active ahead of Tuesday's NFL trade deadline with a pair of trades. Here's why."
+    },
+    {
+      "id": "5063da0dac68d3ff",
+      "title": "Kiper's updated 2026 Big Board: Ranking the top 25 NFL draft prospects, plus position reports",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T19:55:10+0000",
+      "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, including four quarterbacks and one really good running back. See who makes the new list."
+    },
+    {
+      "id": "8dcb0207084ea9a6",
+      "title": "'No, no, it was an optical illusion': How the NFL shut down a field goal controversy",
+      "link": "https://espn.com/nfl/story/_/id/46768952/nfl-london-field-goal-camera-wire-minnesota-vikings-reichard",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-29T19:55:06+0000",
+      "summary": "Did Vikings' Will Reichard hit a camera wire on his FG attempt in London? He says yes -- the NFL says no."
+    },
     {
       "id": "ce78970780f6f393",
       "title": "📈 Week 9 Power Rankings: Best offseason adds",
       "link": "https://espn.com/nfl/story/_/id/46745970/nfl-week-9-power-rankings-poll-32-teams-2025-best-offseason-additions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-29T19:20:36+0000",
+      "published": "2025-10-29T19:52:28+0000",
       "summary": "Let's update our NFL Power Rankings ahead of Week 9. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
     },
     {
@@ -16,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/46768402/poll-shows-many-nfl-fans-want-more-games-injury-risks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-29T19:20:35+0000",
+      "published": "2025-10-29T19:52:27+0000",
       "summary": "Many NFL teams have lost star players to season-ending injuries this season, or played without them for significant stretches -- but a new poll finds that many football fans want more games, even if it means more risk."
     },
     {
@@ -27,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-29T18:55:51+0000",
       "summary": "The Lions No. 2 overall pick in 2022 became the NFL's fourth-highest-paid non-QB on Wednesday."
-    },
-    {
-      "id": "8dcb0207084ea9a6",
-      "title": "'No, no, it was an optical illusion': How the NFL shut down a field goal controversy",
-      "link": "https://espn.com/nfl/story/_/id/46768952/nfl-london-field-goal-camera-wire-minnesota-vikings-reichard",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T17:54:28+0000",
-      "summary": "Did Vikings' Will Reichard hit a camera wire on his FG attempt in London? He says yes -- the NFL says no."
     },
     {
       "id": "7bead6c52bc1c2b5",
@@ -108,15 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-10-29T14:00:01+0000",
       "summary": "Rhodes was raised in a military household and has consistently honored, empowered and connected with active duty servicemembers, their families and veterans during his 10-year NFL career."
-    },
-    {
-      "id": "8bf73894d71ff2f5",
-      "title": "Why the 6-2 Patriots traded Keion White and Kyle Dugger -- and what could be next",
-      "link": "https://espn.com/nfl/story/_/id/46764962/why-6-2-new-england-patriots-traded-keion-white-kyle-dugger-2025-trade-deadline",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-29T13:41:33+0000",
-      "summary": "New England has been active ahead of Tuesday's NFL trade deadline with a pair of trades. Here's why."
     },
     {
       "id": "d883f39dffbcfce0",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-23T19:56:29+0000",
       "summary": "Taylor leads the NFL with 697 rushing yards and 11 touchdowns (10 rushing, 1 receiving)."
-    },
-    {
-      "id": "5e83d50675f47ff6",
-      "title": "The Colts' pass catchers are not the only versatile part of their league-leading offense; it's the offensive line, too",
-      "link": "https://colts.com/news/the-colts-pass-catchers-are-not-the-only-versatile-part-of-their-league-leading-offense-it-s-the-offensive-line-too",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-23T19:11:26+0000",
-      "summary": "The Colts' offensive versatility includes an offensive line that's able to run block and pass block in several ways."
     }
   ],
   "links": [
