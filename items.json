@@ -1,6 +1,33 @@
 {
-  "updated": "2025-10-30T17:41:32+00:00",
+  "updated": "2025-10-30T18:27:01+00:00",
   "items": [
+    {
+      "id": "f1feded7675d190f",
+      "title": "Famed Jim Irsay collection to be sold at auction",
+      "link": "https://espn.com/nfl/story/_/id/46780320/majority-jim-irsay-memorabilia-collection-going-auction",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-30T19:16:05+0000",
+      "summary": "The Irsay family will auction off the majority of the memorabilia collection owned by Jim Irsay -- a compilation of items for which the late Colts owner once said he was offered more than $1 billion."
+    },
+    {
+      "id": "ce78970780f6f393",
+      "title": "📈 Week 9 Power Rankings: Best offseason adds",
+      "link": "https://espn.com/nfl/story/_/id/46745970/nfl-week-9-power-rankings-poll-32-teams-2025-best-offseason-additions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-10-30T19:16:05+0000",
+      "summary": "Let's update our NFL Power Rankings ahead of Week 9. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
+    },
+    {
+      "id": "7fb2d29fbdc62e3e",
+      "title": "Jonathan Taylor runs wild to earn AFC Player of the Month",
+      "link": "https://stampedeblue.com/analysis/117077/jonathan-taylor-runs-wild-to-earn-afc-player-of-the-month",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-30T18:01:05+0000",
+      "summary": "Indianapolis Colts running back Jonathan Taylor was named the AFC Offensive Player of the Month for October. The engine driving the NFL’s top offense capped off an astonishing four-game stretch with another phenomenal performance to reassert his status as one of the premier playmakers in the league. Taylor’s numbers in October were a nightmare against [&#8230;]"
+    },
     {
       "id": "5b1b68c5c018d59e",
       "title": "Jonathan Taylor named AFC Offensive Player of the Month for October",
@@ -27,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-10-30T15:37:10+0000",
       "summary": "Could the Lions add help? Will the Jets trade away stars? Should the Giants make any moves? Let's look at which teams might swing deadline deals."
-    },
-    {
-      "id": "f1feded7675d190f",
-      "title": "Famed Jim Irsay collection to be sold at auction",
-      "link": "https://espn.com/nfl/story/_/id/46780320/majority-jim-irsay-memorabilia-collection-going-auction",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-30T13:56:57+0000",
-      "summary": "The Irsay family will auction off the majority of the memorabilia collection owned by Jim Irsay -- a compilation of items for which the late Colts owner once said he was offered more than $1 billion."
-    },
-    {
-      "id": "ce78970780f6f393",
-      "title": "📈 Week 9 Power Rankings: Best offseason adds",
-      "link": "https://espn.com/nfl/story/_/id/46745970/nfl-week-9-power-rankings-poll-32-teams-2025-best-offseason-additions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-30T13:56:57+0000",
-      "summary": "Let's update our NFL Power Rankings ahead of Week 9. Plus, we picked the best offseason signing, hiring or draft pick for each roster."
     },
     {
       "id": "8dcb0207084ea9a6",
@@ -99,6 +108,15 @@
       "feed": "Colts.com",
       "published": "2025-10-30T11:59:00+0000",
       "summary": "Die Indianapolis Colts gaben heute das Programm und die Aktivitäten für die “Colts FanZone im Das Center am Potsdamer Platz”, ehemals bekannt als Sony Center ,dem zentralen Treffpunkt des Teams in Berlin, bekannt, die in der Woche vor dem NFL-Spiel 2025 Berlin im Olympiastadion am Sonntag, den 9. November stattfinden werden."
+    },
+    {
+      "id": "b457f7365f0f01e7",
+      "title": "Could Colts game strategy apply as a season strategy?",
+      "link": "https://stampedeblue.com/analysis/117006/could-colts-game-strategy-apply-as-a-season-strategy",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-10-30T10:36:00+0000",
+      "summary": "First of all, let me thank the 550 readers who took the time to vote in the “Expectations for the next 3 weeks” poll. 550 is easily the most voters I have seen and I also want to say thank you to the 42 who took a minute to comment. To say that fans are [&#8230;]"
     },
     {
       "id": "8f8c0667f3366fd9",
@@ -245,15 +263,6 @@
       "summary": "Indianapolis Colts star running back Jonathan Taylor is almost midway through a monstrous rushing campaign, in which he’s not only the clear frontrunner for NFL Offensive Player of the Year but a bona fide NFL MVP candidate for the league’s most prestigious individual annual award. One that has recently been reserved for elite quarterbacks during [&#8230;]"
     },
     {
-      "id": "005fadbfda8684d1",
-      "title": "Colts’ Week 8 QB Analysis: Jones continues to impress",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/116946/colts-week-8-qb-analysis-jones-continues-to-impress",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-28T22:22:21+0000",
-      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
-    },
-    {
       "id": "0d63cb9d8c57f90c",
       "title": "How to watch the Indianapolis Colts at Pittsburgh Steelers on November 2, 2025",
       "link": "https://colts.com/news/how-to-watch-colts-at-steelers-week-9-2025",
@@ -288,15 +297,6 @@
       "feed": "Colts.com",
       "published": "2025-10-28T17:55:35+0000",
       "summary": "Scott Eidson and his family, who recently lost their home to a fire, were recognized at halftime of the Colts' Salute to Service game for their service and sacrifice – and surprised with a brand new car."
-    },
-    {
-      "id": "a72b9627c0818afe",
-      "title": "Colts’ Stock Up/Down: Week 8 vs. Titans",
-      "link": "https://stampedeblue.com/analysis/116919/colts-stock-up-down-week-8-vs-titans",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-28T15:12:58+0000",
-      "summary": "Stock Up Michael Pittman Jr. Pitt continues asserting himself as the #1 receiver, and there are probably not a lot of better jobs than being the top dog on an offense as productive as the Colts is. Less than halfway through the season he has already tied his career high in touchdowns, consistently leads the [&#8230;]"
     },
     {
       "id": "6598136cdf43c764",
