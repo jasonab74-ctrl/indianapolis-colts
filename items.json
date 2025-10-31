@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T20:20:28+00:00",
+  "updated": "2025-10-31T20:39:30+00:00",
   "items": [
     {
       "id": "8bbb29c32b700c1b",
@@ -7,8 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/46794185/ravens-fined-100k-injury-report-violation-lamar-jackson",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-10-31T20:22:11+0000",
+      "published": "2025-10-31T21:19:49+0000",
       "summary": "The NFL fined the Baltimore Ravens $100,000 on Friday for violating the league's injury report policy by incorrectly listing quarterback Lamar Jackson's practice participation last week."
+    },
+    {
+      "id": "040576dc5a2479f6",
+      "title": "CB Jaylon Jones getting close to returning for Colts",
+      "link": "https://fox59.com/sports/cb-jaylon-jones-getting-close-to-returning-for-colts/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-31T20:34:53+0000",
+      "summary": "INDIANAPOLIS – Relief might be near for the Indianapolis Colts’ most stressed position. Cornerback Jaylon Jones went through a full week of practice and is questionable for Sunday’s road test with the Pittsburgh Steelers. He remains on the injured reserve list with a hamstring injury, but has practiced the past two weeks. The team opened [...]"
     },
     {
       "id": "638a6201d496e5b7",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-26T16:20:34+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question in \"Sideline to Sideline\". With the IHSAA state football tournament kicking off on Friday night, Chris asks the players this week what their favorite memory is playing high school football."
-    },
-    {
-      "id": "87798559ccd06394",
-      "title": "Lucas Oil's roof is closed for Colts vs. Titans",
-      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-closed-for-colts-vs-titans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-26T16:09:57+0000",
-      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against the Tennessee Titans.  The Indianapolis Colts enter the matchup with a league-best 6-1 record and are determined to keep the hot start going with another win in the win column in front of their hometown fans.  Last week, [...]"
     }
   ],
   "links": [
