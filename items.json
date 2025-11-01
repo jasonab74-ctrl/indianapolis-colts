@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-01T11:37:06+00:00",
+  "updated": "2025-11-01T12:33:54+00:00",
   "items": [
+    {
+      "id": "8102b04b1d659484",
+      "title": "Ready for NFL Week 9? We have sleepers, potential surprises, trends to watch and more",
+      "link": "https://espn.com/nfl/story/_/id/46770440/2025-nfl-week-9-predictions-fantasy-sleepers-upsets-bets-stats-matchups",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-01T13:19:51+0000",
+      "summary": "Will Christian McCaffrey and Sam Darnold go off? Can the Steelers upset the Colts? And could the Bills slow the Chiefs? Here's what to know for Week 9."
+    },
     {
       "id": "8bbb29c32b700c1b",
       "title": "Ravens fined $100K for Jackson injury 'mistake'",
@@ -18,33 +27,6 @@
       "feed": "ESPN",
       "published": "2025-11-01T01:50:25+0000",
       "summary": "Steelers safety Jabrill Peppers has been ruled out for Sunday's game against the Colts with a quad injury. Peppers is the latest Pittsburgh defensive back to be slowed by injury."
-    },
-    {
-      "id": "2b9f238829c4fddc",
-      "title": "Second-half predictions: Who will win tight division races, MVP and the Super Bowl?",
-      "link": "https://espn.com/nfl/story/_/id/46780885/2025-nfl-season-midseason-playoffs-mvp-super-bowl-breakout-players-divisions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-01T01:50:21+0000",
-      "summary": "Can the Patriots win the AFC East? Are the Rams headed to the Super Bowl? We asked around the NFL."
-    },
-    {
-      "id": "deac1010f36c6653",
-      "title": "A game largely defined by tight ends like Tyler Warren? Try Colts-Steelers this week",
-      "link": "https://espn.com/nfl/story/_/id/46786348/indianapolis-colts-pittsburgh-steelers-week-9-largely-defined-tight-ends",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-31T22:08:43+0000",
-      "summary": "It's not just that Indianapolis and Pittsburgh frequently use TEs, but the versatility in how they're deployed."
-    },
-    {
-      "id": "a092313d69f0bff7",
-      "title": "NFL Week 9's fashionable arrivals, featuring Dolphins' Aaron Brewer's Michael Myers mask",
-      "link": "https://espn.com/nfl/story/_/id/46785873/week-9-nfl-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-10-31T22:03:22+0000",
-      "summary": "With Halloween coming in the midst of Week 9, some NFL players dressed for the occasion."
     },
     {
       "id": "dd5c937df17cb9fc",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-10-25T15:50:52+0000",
       "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "39e32f6c9c037114",
+      "title": "Josh Downs, Ashton Dulin return for Colts’ high-powered offense",
+      "link": "https://fox59.com/sports/colts/josh-downs-ashton-dulin-return-for-colts-high-powered-offense/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-24T20:43:10+0000",
+      "summary": "INDIANAPOLIS – The NFL’s most potent offense has regained its health in time for a Sunday rematch with the Tennessee Titans. Wide receiver Josh Downs has been cleared from the league’s concussion protocol and will resume his normal spot in an Indianapolis Colts offense that ranks No. 1 in scoring, No. 5 in passing yards [...]"
+    },
+    {
+      "id": "abfe68f831a04646",
+      "title": "Shane Steichen says Riley Leonard will remain Colts' backup quarterback behind Daniel Jones",
+      "link": "https://colts.com/news/shane-steichen-riley-leonard-backup-quarterback-daniel-jones-colts-anthony-richardson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-24T18:21:26+0000",
+      "summary": "Leonard has been the Colts' backup behind Daniel Jones since Anthony Richardson Sr. sustained a pregame injury in Week 6 and was subsequently placed on injured reserve."
     }
   ],
   "links": [
