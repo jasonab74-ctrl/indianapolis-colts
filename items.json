@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-01T22:15:27+00:00",
+  "updated": "2025-11-01T22:38:30+00:00",
   "items": [
+    {
+      "id": "ea129cdc0d03e65c",
+      "title": "Steelers' DB woes worsen as Peppers, Clark out",
+      "link": "https://espn.com/nfl/story/_/id/46795017/steelers-thin-secondary-jabrill-peppers-quad-sit",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-01T23:19:02+0000",
+      "summary": "Steelers safeties Jabrill Peppers (quad) and Chuck Clark (illness) have been ruled out for Sunday's game against the Colts."
+    },
     {
       "id": "6b6170207c1fff57",
       "title": "Tracking every NFL trade deadline move: Two CB trades for the Eagles?",
@@ -9,24 +18,6 @@
       "feed": "ESPN",
       "published": "2025-11-01T22:44:52+0000",
       "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4. Which players have changed teams?"
-    },
-    {
-      "id": "8bbb29c32b700c1b",
-      "title": "Ravens fined $100K for Jackson injury 'mistake'",
-      "link": "https://espn.com/nfl/story/_/id/46794185/ravens-fined-100k-injury-report-violation-lamar-jackson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-01T22:19:22+0000",
-      "summary": "The NFL fined the Ravens $100,000 for violating the league's injury report policy by incorrectly listing quarterback Lamar Jackson's practice participation last week."
-    },
-    {
-      "id": "ea129cdc0d03e65c",
-      "title": "Steelers' DB woes worsen as Peppers, Clark out",
-      "link": "https://espn.com/nfl/story/_/id/46795017/steelers-thin-secondary-jabrill-peppers-quad-sit",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-01T22:19:21+0000",
-      "summary": "Steelers safeties Jabrill Peppers (quad) and Chuck Clark (illness) have been ruled out for Sunday's game against the Colts."
     },
     {
       "id": "8102b04b1d659484",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-10-26T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Tennessee Titans at Indianapolis Colts on Sunday, October 26 at 4:25 p.m. ET (Week 8)."
+    },
+    {
+      "id": "09fa0c339aad9b17",
+      "title": "Titans at Colts: What to watch for",
+      "link": "https://fox59.com/sports/colts/titans-at-colts-what-to-watch-for-3/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-25T20:31:46+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ rematch with the Tennessee Titans Sunday at Lucas Oil Stadium: History lesson, Part I The Colts have reapplied a stranglehold on a series they lead 40-23. They’ve won five straight and are going for their third straight seasonal sweep after dominating the Titans 41-20 in week [...]"
     }
   ],
   "links": [
