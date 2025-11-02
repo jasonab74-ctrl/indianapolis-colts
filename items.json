@@ -1,13 +1,40 @@
 {
-  "updated": "2025-11-02T20:37:51+00:00",
+  "updated": "2025-11-02T21:14:34+00:00",
   "items": [
+    {
+      "id": "6b6170207c1fff57",
+      "title": "Tracking every NFL trade deadline move: Jaire Alexander, Michael Carter II to the Eagles",
+      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T21:05:48+0000",
+      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
+    },
+    {
+      "id": "9ad4fdb0c07ae0a5",
+      "title": "T-minus two days until NFL trade deadline: Graziano has the latest intel you need to know",
+      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T21:05:47+0000",
+      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
+    },
+    {
+      "id": "a092313d69f0bff7",
+      "title": "NFL Week 9's fashionable arrivals, featuring Patrick Mahomes' three-piece suit",
+      "link": "https://espn.com/nfl/story/_/id/46785873/week-9-nfl-fashionable-arrivals-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T21:03:22+0000",
+      "summary": "With Halloween coming in the midst of Week 9, some NFL players dressed for the occasion."
+    },
     {
       "id": "6795e806cd4cfe09",
       "title": "Broncos' Lewis, 41, becomes NFL's oldest TE",
       "link": "https://espn.com/nfl/story/_/id/46819337/broncos-marcedes-lewis-41-becomes-oldest-te-nfl-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-02T20:16:40+0000",
+      "published": "2025-11-02T20:54:40+0000",
       "summary": "The Broncos' Marcedes Lewis made history when, at age 41, he became the oldest tight end to ever play in an NFL game."
     },
     {
@@ -27,15 +54,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-02T17:55:00+0000",
       "summary": "The Indianapolis Colts are on the road to take on the Pittsburgh Steelers in week 0 of the 2025 season, kickoff is at 1:00 p.m. EST. Once again the 2025 Indianapolis Colts won last weekends game by multiple scores. The final score was Colts 38, Titans 14. But the final score doesn’t tell the whole story, it [&#8230;]"
-    },
-    {
-      "id": "9ad4fdb0c07ae0a5",
-      "title": "T-minus two days until NFL trade deadline: Graziano has the latest intel you need to know",
-      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T17:31:57+0000",
-      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
     },
     {
       "id": "13fd91c43a17b479",
@@ -90,15 +108,6 @@
       "feed": "Colts.com",
       "published": "2025-11-02T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Pittsburgh Steelers on Sunday, November 2 at 1:00 p.m. ET (Week 9)."
-    },
-    {
-      "id": "6b6170207c1fff57",
-      "title": "Tracking every NFL trade deadline move: Jaire Alexander, Michael Carter II to the Eagles",
-      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T12:38:03+0000",
-      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
     },
     {
       "id": "65e053cd9357130a",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-26T19:20:28+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts anticipate Anthony Richardson Sr. being available at some point this season after he underwent surgery on Monday to repair a fractured orbital bone. The surgery was reported by NFL Network. Coach Shane Steichen was asked about Richardson’s status on Friday – he was placed on the injured reserve list Oct. [...]"
-    },
-    {
-      "id": "60276505f70cceaa",
-      "title": "Colts announce 7 inactive players for Week 8 game vs. Tennessee Titans",
-      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-8-game-vs-tennessee-titans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-26T18:55:16+0000",
-      "summary": "The Colts previously ruled out Samson Ebukam (knee) Tyquan Lewis (groin)."
     }
   ],
   "links": [
