@@ -1,6 +1,33 @@
 {
-  "updated": "2025-11-02T17:14:28+00:00",
+  "updated": "2025-11-02T17:37:12+00:00",
   "items": [
+    {
+      "id": "9ad4fdb0c07ae0a5",
+      "title": "T-minus two days until NFL trade deadline: Graziano has the latest intel you need to know",
+      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T17:31:57+0000",
+      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
+    },
+    {
+      "id": "13fd91c43a17b479",
+      "title": "Keys to the Game: Colts at Steelers",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-steelers/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-02T17:26:34+0000",
+      "summary": "INDIANAPOLIS - The Colts aim to improve to 8-1 this afternoon when they visit the Steelers. IndyStar insider Joel A. Erickson gives his keys to the game if the Colts are going to win their first game in Pittsburgh since 2008."
+    },
+    {
+      "id": "c56ba1f118bd92b1",
+      "title": "Sideline to Sideline: Something fans don't know",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-something-fans-dont-know/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-02T17:23:36+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question. This week Chris asks the players one thing fans do not know about them."
+    },
     {
       "id": "4d9053561480ae99",
       "title": "NFL draft risers, questions and notes: Sizing up LaNorris Sellers' great traits vs. lack of production",
@@ -20,6 +47,15 @@
       "summary": "The Colts prior to Sunday ruled out wide receiver Anthony Gould and defensive ends Samson Ebukam and Tyquan Lewis with injuries."
     },
     {
+      "id": "eb96d199877a2818",
+      "title": "Where to Watch: Colts at Steelers for Week 9",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117155/where-to-watch-colts-at-steelers-for-week-9",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-02T16:09:33+0000",
+      "summary": "The Indianapolis Colts (7-1)(-3) travel to ‘The Steel City’ to take on the Pittsburgh Steelers (4-3), at what’s been a notoriously difficult road environment for the Horseshoe to play at historically throughout franchise history. Even ignoring the 1995 AFC Championship Game, the Colts are 1-13 all-time at Pittsburgh during the regular season, and their last [&#8230;]"
+    },
+    {
       "id": "0d63cb9d8c57f90c",
       "title": "How to watch the Indianapolis Colts at Pittsburgh Steelers on November 2, 2025",
       "link": "https://colts.com/news/how-to-watch-colts-at-steelers-week-9-2025",
@@ -27,15 +63,6 @@
       "feed": "Colts.com",
       "published": "2025-11-02T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Pittsburgh Steelers on Sunday, November 2 at 1:00 p.m. ET (Week 9)."
-    },
-    {
-      "id": "9ad4fdb0c07ae0a5",
-      "title": "New NFL trade deadline intel: What Graziano is hearing with two days to go",
-      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T12:38:03+0000",
-      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
     },
     {
       "id": "6b6170207c1fff57",
@@ -47,6 +74,24 @@
       "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
     },
     {
+      "id": "65e053cd9357130a",
+      "title": "Colts activate former starting CB off IR for depleted secondary ahead of Steelers game",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117146/colts-activate-starting-cb-off-ir-for-depleted-secondary-ahead-of-pittsburgh-game",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-01T18:39:41+0000",
+      "summary": "On Saturday, the Indianapolis Colts announced that they have activated cornerback Jaylon Jones off injured reserve and signed fellow cornerback Cameron Mitchell from the practice squad to the 53-man active roster. The Colts also announced that they elevated defensive end Durell Nchami and wide receiver Laquon Treadwell from the practice squad to the active roster. [&#8230;]"
+    },
+    {
+      "id": "5eaad09ead45fbc4",
+      "title": "Colts Reacts Survey Results: Week 9 at Pittsburgh Steelers",
+      "link": "https://stampedeblue.com/analysis/117140/colts-reacts-survey-results-week-9-at-pittsburgh-steelers",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-01T18:26:21+0000",
+      "summary": "The Indianapolis Colts (7-1) are one of the hottest teams in all of football, sitting atop the entire AFC. However, they’ll face arguably one of their toughest tasks yet when they travel to take on the Pittsburgh Steelers (4-3) this weekend. The Steelers are by no means a great team these days, but the Indianapolis [&#8230;]"
+    },
+    {
       "id": "dbddc29f7bdb08de",
       "title": "Colts at Steelers: What to watch for",
       "link": "https://fox59.com/sports/colts/colts-at-steelers-what-to-watch-for/",
@@ -54,6 +99,15 @@
       "feed": "CBS4Indy",
       "published": "2025-11-01T18:23:37+0000",
       "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts' Sunday meeting with the Pittsburgh Steelers in Acrisure Stadium. History lesson The Colts have won the last two meetings, but that comes with a caveat. Each has occurred at Lucas Oil Stadium. They’ve posted a win in Pittsburgh just once in more than half a century. [...]"
+    },
+    {
+      "id": "2d775c49c3e6029c",
+      "title": "Indianapolis Colts Injury Report: DE Ebukam and WR Gould Ruled OUT",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117131/indianapolis-colts-injury-report-de-ebukam-and-wr-gould-ruled-out",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-01T18:06:58+0000",
+      "summary": "The Indianapolis Colts today released their Friday injury report for Week 9 of the NFL season against the Pittsburgh Steelers."
     },
     {
       "id": "1384e79974e80de0",
@@ -200,15 +254,6 @@
       "summary": "Ameer Abdullah is in his 11th year in the NFL, and the Colts are thrilled to have him around their facility and on the field in whatever capacity they need him."
     },
     {
-      "id": "7fb2d29fbdc62e3e",
-      "title": "Jonathan Taylor runs wild to earn AFC Offensive Player of the Month",
-      "link": "https://stampedeblue.com/analysis/117077/jonathan-taylor-runs-wild-to-earn-afc-player-of-the-month",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-30T18:01:05+0000",
-      "summary": "Indianapolis Colts running back Jonathan Taylor was named the AFC Offensive Player of the Month for October. The engine driving the NFL’s top offense capped off an astonishing four-game stretch with another phenomenal performance to reassert his status as one of the premier playmakers in the league. Taylor’s numbers in October were a nightmare against [&#8230;]"
-    },
-    {
       "id": "5b1b68c5c018d59e",
       "title": "Jonathan Taylor named AFC Offensive Player of the Month for October",
       "link": "https://fox59.com/sports/colts/jonathan-taylor-named-afc-offensive-player-of-the-month-for-october/",
@@ -252,33 +297,6 @@
       "feed": "Colts.com",
       "published": "2025-10-30T11:59:00+0000",
       "summary": "Die Indianapolis Colts gaben heute das Programm und die Aktivitäten für die “Colts FanZone im Das Center am Potsdamer Platz”, ehemals bekannt als Sony Center ,dem zentralen Treffpunkt des Teams in Berlin, bekannt, die in der Woche vor dem NFL-Spiel 2025 Berlin im Olympiastadion am Sonntag, den 9. November stattfinden werden."
-    },
-    {
-      "id": "b457f7365f0f01e7",
-      "title": "Could Colts game strategy apply as a season strategy?",
-      "link": "https://stampedeblue.com/analysis/117006/could-colts-game-strategy-apply-as-a-season-strategy",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-30T10:36:00+0000",
-      "summary": "First of all, let me thank the 550 readers who took the time to vote in the “Expectations for the next 3 weeks” poll. 550 is easily the most voters I have seen and I also want to say thank you to the 42 who took a minute to comment. To say that fans are [&#8230;]"
-    },
-    {
-      "id": "8f8c0667f3366fd9",
-      "title": "ESPN proposes trade ahead of deadline for since demoted young Colts QB",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/117048/espn-proposes-trade-ahead-of-deadline-for-demoted-young-colts-starting-qb",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-30T02:46:34+0000",
-      "summary": "According to ESPN’s Ben Solak, the Minnesota Vikings should trade for Indianapolis Colts since demoted starting quarterback Anthony Richardson just ahead of the NFL’s trade deadline: If there was anywhere for the former 4th overall pick of the 2023 NFL Draft to resurrect his early career, Minnesota would arguably be at the top of any [&#8230;]"
-    },
-    {
-      "id": "f2d27533c64ddcfa",
-      "title": "Indianapolis Colts Injury Report: 6 Starters Miss Practice",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/117041/indianapolis-colts-injury-report-6-starters-miss-practice",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-10-30T01:55:42+0000",
-      "summary": "The Indianapolis Colts released their Wednesday injury report today for Week 8 of the NFL season against the Pittsburgh Steelers. Safety Nick Cross missed practice today with a shoulder injury. Cornerback Kenny Moore also missed practice today with an Achilles injury. Whilst cornerback Jaylon Jones was a full participant as he works back from a [&#8230;]"
     },
     {
       "id": "315ce4a2d28c6311",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-26T16:20:34+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question in \"Sideline to Sideline\". With the IHSAA state football tournament kicking off on Friday night, Chris asks the players this week what their favorite memory is playing high school football."
-    },
-    {
-      "id": "87798559ccd06394",
-      "title": "Lucas Oil's roof is closed for Colts vs. Titans",
-      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-closed-for-colts-vs-titans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-26T16:09:57+0000",
-      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against the Tennessee Titans.  The Indianapolis Colts enter the matchup with a league-best 6-1 record and are determined to keep the hot start going with another win in the win column in front of their hometown fans.  Last week, [...]"
-    },
-    {
-      "id": "12b4db94685541ce",
-      "title": "How to watch the Tennessee Titans at Indianapolis Colts on October 26, 2025",
-      "link": "https://colts.com/news/how-to-watch-titans-at-colts-week-8-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-26T12:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Tennessee Titans at Indianapolis Colts on Sunday, October 26 at 4:25 p.m. ET (Week 8)."
     }
   ],
   "links": [
