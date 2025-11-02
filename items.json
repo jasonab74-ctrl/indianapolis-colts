@@ -1,9 +1,54 @@
 {
-  "updated": "2025-11-02T22:38:36+00:00",
+  "updated": "2025-11-02T23:15:46+00:00",
   "items": [
     {
+      "id": "da3fb744b2478691",
+      "title": "Jags' Little sets NFL record with 68-yard FG",
+      "link": "https://espn.com/nfl/story/_/id/46822888/jaguars-kicker-cam-little-sets-nfl-record-68-yard-fg",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T23:04:58+0000",
+      "summary": "Jacksonville Jaguars kicker Cam Little hit an NFL-record 68-yard field goal as time expired in the first half against the Las Vegas Raiders at Allegiant Stadium."
+    },
+    {
+      "id": "6795e806cd4cfe09",
+      "title": "Broncos' Lewis, 41, becomes NFL's oldest TE",
+      "link": "https://espn.com/nfl/story/_/id/46819337/broncos-marcedes-lewis-41-becomes-oldest-te-nfl-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T23:04:58+0000",
+      "summary": "The Broncos' Marcedes Lewis made history when, at age 41, he became the oldest tight end to ever play in an NFL game."
+    },
+    {
+      "id": "9ad4fdb0c07ae0a5",
+      "title": "T-minus two days until NFL trade deadline: Graziano has the latest intel you need to know",
+      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T22:54:27+0000",
+      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
+    },
+    {
+      "id": "6b6170207c1fff57",
+      "title": "Tracking every NFL trade deadline move: Jaire Alexander, Michael Carter II to the Eagles",
+      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-02T22:54:27+0000",
+      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
+    },
+    {
+      "id": "428924879b362754",
+      "title": "Colts' collective confidence remains unchanged after turnover-filled loss to Steelers: 'We're sure of who we are'",
+      "link": "https://colts.com/news/colts-collective-confidence-remains-unchanged-after-turnover-filled-loss-to-steelers-we-re-sure-of-who-we-are",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-02T22:41:31+0000",
+      "summary": "The Colts committed six turnovers – their most in a game since 2007 – in a 27-20 loss to the Pittsburgh Steelers on Sunday."
+    },
+    {
       "id": "d3a130cac3cf0739",
-      "title": "What we know -- and don't know -- off NFL Week 9: Our reporters answer big questions on every game",
+      "title": "Wild upsets! QB catches! Blocked kicks! Here's what to know from Week 9, including our main takeaways",
       "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
@@ -38,24 +83,6 @@
       "summary": "Five turnovers sent the Colts to their second defeat of the season, a 27-20 loss to the Pittsburgh Steelers on Sunday at Acrisure Stadium."
     },
     {
-      "id": "6b6170207c1fff57",
-      "title": "Tracking every NFL trade deadline move: Jaire Alexander, Michael Carter II to the Eagles",
-      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T21:05:48+0000",
-      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
-    },
-    {
-      "id": "9ad4fdb0c07ae0a5",
-      "title": "T-minus two days until NFL trade deadline: Graziano has the latest intel you need to know",
-      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T21:05:47+0000",
-      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
-    },
-    {
       "id": "a092313d69f0bff7",
       "title": "NFL Week 9's fashionable arrivals, featuring Patrick Mahomes' three-piece suit",
       "link": "https://espn.com/nfl/story/_/id/46785873/week-9-nfl-fashionable-arrivals-2025",
@@ -63,15 +90,6 @@
       "feed": "ESPN",
       "published": "2025-11-02T21:03:22+0000",
       "summary": "With Halloween coming in the midst of Week 9, some NFL players dressed for the occasion."
-    },
-    {
-      "id": "6795e806cd4cfe09",
-      "title": "Broncos' Lewis, 41, becomes NFL's oldest TE",
-      "link": "https://espn.com/nfl/story/_/id/46819337/broncos-marcedes-lewis-41-becomes-oldest-te-nfl-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T20:54:40+0000",
-      "summary": "The Broncos' Marcedes Lewis made history when, at age 41, he became the oldest tight end to ever play in an NFL game."
     },
     {
       "id": "9491713f5ca92e99",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-27T02:09:59+0000",
       "summary": "Jonathan Taylor turned in another outlandish game on Sunday, with three more touchdowns and 174 total yards in the Colts' 38-14 thumping of the Tennessee Titans at Lucas Oil Stadium."
-    },
-    {
-      "id": "1b6acd183941009c",
-      "title": "The Colts have the best offense in football, but not having a 100-yard receiver yet is a feature, not a bug",
-      "link": "https://colts.com/news/colts-best-offense-nfl-100-yard-josh-downs-receiver-michael-pittman-alec-pierce-daniel-jones-titans-week-8",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-27T01:40:01+0000",
-      "summary": "Michael Pittman Jr. had eight receptions for 95 yards in the Colts' 38-14 win over the Titans on Sunday."
-    },
-    {
-      "id": "90db3a9ab61d8a27",
-      "title": "Colts dominate Titans again, improve to 7-1 on the season",
-      "link": "https://fox59.com/sports/colts/colts-dominate-titans-again-38-14-to-improve-to-7-1/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-26T23:23:29+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts took the lead on the first possession of the game and never looked back as they beat the Tennessee Titans, 38-14, at Lucas Oil Stadium on Sunday. The Colts have won six straight over the Titans. Indianapolis beat Tennessee, 41-20, in Nashville on Sept. 21. The Colts are now 7-1 [...]"
     }
   ],
   "links": [
