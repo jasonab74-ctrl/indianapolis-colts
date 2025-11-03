@@ -1,23 +1,32 @@
 {
-  "updated": "2025-11-03T03:05:44+00:00",
+  "updated": "2025-11-03T04:01:01+00:00",
   "items": [
+    {
+      "id": "da3fb744b2478691",
+      "title": "Little drills record 68-yard FG, sparking Jags in win",
+      "link": "https://espn.com/nfl/story/_/id/46822888/jaguars-kicker-cam-little-sets-nfl-record-68-yard-fg",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T03:27:16+0000",
+      "summary": "Jacksonville Jaguars kicker Cam Little hit an NFL-record 68-yard field goal as time expired in the first half against the Las Vegas Raiders at Allegiant Stadium."
+    },
     {
       "id": "d3a130cac3cf0739",
       "title": "Wild upsets! QB catches! Blocked kicks! Here's what to know from Week 9, including our main takeaways",
       "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-03T02:41:25+0000",
+      "published": "2025-11-03T03:22:55+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 9."
     },
     {
-      "id": "5fbb0672ac67b596",
-      "title": "NFL betting recap: Week 9 is revenge of the underdogs led by Panthers, Vikings wins",
-      "link": "https://espn.com/espn/betting/story/_/id/46824574/nfl-betting-week-9-underdog-wins-panthers-vikings",
+      "id": "066d7a0de25d8f30",
+      "title": "'Hide your quarterback': Panthers target Jordan Love, Packers with petty post",
+      "link": "https://espn.com/nfl/story/_/id/46823065/nfl-week-9-trolls",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-03T02:06:48+0000",
-      "summary": "Underdogs went 8-4 ATS through the Sunday late games and had some historic wins."
+      "published": "2025-11-03T03:18:10+0000",
+      "summary": "Week 9 of the NFL season brought stunning victories, one of which resulted in a memorable troll."
     },
     {
       "id": "ccc1eccb042bb7aa",
@@ -45,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-11-03T01:25:27+0000",
       "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
-    },
-    {
-      "id": "da3fb744b2478691",
-      "title": "Little drills record 68-yard FG, sparking Jags in win",
-      "link": "https://espn.com/nfl/story/_/id/46822888/jaguars-kicker-cam-little-sets-nfl-record-68-yard-fg",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T01:22:32+0000",
-      "summary": "Jacksonville Jaguars kicker Cam Little hit an NFL-record 68-yard field goal as time expired in the first half against the Las Vegas Raiders at Allegiant Stadium."
     },
     {
       "id": "164af9b0364577e9",
@@ -90,15 +90,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-02T23:51:13+0000",
       "summary": "The Indianapolis Colts&#8216; offense had been historic, with the Steelers&#8217; defense trending in the complete opposite direction. Of course, some outside factors may have played a factor — outdoor stadium, the Colts are historically bad in Pittsburgh, the offense was due for a poor showing, etc. Regardless, the Colts&#8217; offense came back down to earth [&#8230;]"
-    },
-    {
-      "id": "066d7a0de25d8f30",
-      "title": "'Hide your quarterback': Panthers target Jordan Love, Packers with petty post",
-      "link": "https://espn.com/nfl/story/_/id/46823065/nfl-week-9-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-02T23:16:12+0000",
-      "summary": "Week 9 of the NFL season brought stunning victories, one of which resulted in a memorable troll."
     },
     {
       "id": "428924879b362754",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-10-27T02:59:36+0000",
       "summary": "INDIANAPOLIS — The chants began early, gradually intensified and crescendoed with a balance-defying 80-yard tiptoe down the left sideline. MVP, MVP, MVP. Shane Steichen heard it. “I did,’’ he said. MVP, MVP, MVP. And? “Validated,’’ he said. Steichen’s smile reflected his appreciation — and awe — with the latest MVP-type game in what’s building toward [...]"
+    },
+    {
+      "id": "6bf6912e1480e6c0",
+      "title": "As halfway point of 2025 nears, Colts' focus is on playing even better football: 'The season starts in November, December'",
+      "link": "https://colts.com/news/as-halfway-point-of-2025-nears-colts-focus-is-on-playing-even-better-football-the-season-starts-in-november-december",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-27T02:44:27+0000",
+      "summary": "The Colts' 38-14 win over the Tennessee Titans on Sunday boosted their record to 7-1, but their high-flying start has not changed the focus of this team."
     }
   ],
   "links": [
