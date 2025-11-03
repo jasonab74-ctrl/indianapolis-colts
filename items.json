@@ -1,13 +1,13 @@
 {
-  "updated": "2025-11-03T12:39:26+00:00",
+  "updated": "2025-11-03T13:30:11+00:00",
   "items": [
     {
       "id": "d3a130cac3cf0739",
-      "title": "Darnold dazzles, wild upsets and Daniels' injury: Here's what to know from Week 9, including our main takeaways",
+      "title": "Darnold dazzles, wild upsets and Daniels' injury: Here's what to know from Week 9",
       "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-03T12:32:15+0000",
+      "published": "2025-11-03T13:21:39+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 9."
     },
     {
@@ -16,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/46828302/sam-darnold-throws-four-1st-half-tds-seattle-seahawks-win",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-03T07:15:09+0000",
+      "published": "2025-11-03T13:21:14+0000",
       "summary": "En route to a 38-14 win over the Commanders on Sunday night, Seahawks quarterback Sam Darnold finished 21-of-24 with 330 yards, four touchdowns and one interception, boosting his odds for NFL MVP as his team improved to 6-2."
     },
     {
@@ -25,8 +25,35 @@
       "link": "https://espn.com/nfl/story/_/id/46822888/jaguars-kicker-cam-little-sets-nfl-record-68-yard-fg",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-03T07:15:09+0000",
+      "published": "2025-11-03T13:14:59+0000",
       "summary": "Jacksonville Jaguars kicker Cam Little hit an NFL-record 68-yard field goal as time expired in the first half against the Las Vegas Raiders at Allegiant Stadium."
+    },
+    {
+      "id": "b13f9d9c02ea41dc",
+      "title": "Week 9 winners and losers: Bowers and McCaffrey shine, Taylor and Gibbs fizzle",
+      "link": "https://espn.com/fantasy/football/story/_/page/FFSundayHighLows-46821723/nfl-week-9-fantasy-football-winners-losers-injuries-rankings-more",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T13:13:55+0000",
+      "summary": "Brock Bowers, Christian McCaffrey and Caleb Williams led the way with big Week 9 performances, while Jonathan Taylor, Jahmyr Gibbs and Patrick Mahomes were among the biggest disappointments."
+    },
+    {
+      "id": "6b6170207c1fff57",
+      "title": "Tracking every NFL trade deadline move: Jaelan Phillips to the Eagles",
+      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T12:48:25+0000",
+      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Tuesday."
+    },
+    {
+      "id": "9ad4fdb0c07ae0a5",
+      "title": "T-minus one day until NFL trade deadline: Graziano has the latest intel you need to know",
+      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T12:48:24+0000",
+      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
     },
     {
       "id": "ce83e6e492f9ddcf",
@@ -56,24 +83,6 @@
       "summary": "INDIANAPOLIS – It’s hyperbole – you know, hot-take conversation – to question the veracity of a team with an NFL-best 7-2 record. That’s who the Indianapolis Colts remained as they headed home Sunday evening after their latest face-plant against the Steelers in Pittsburgh. They’ve still won just twice in forever in the Steel City: 2-18. [...]"
     },
     {
-      "id": "9ad4fdb0c07ae0a5",
-      "title": "T-minus two days until NFL trade deadline: Graziano has the latest intel you need to know",
-      "link": "https://espn.com/nfl/story/_/id/46780977/2025-nfl-trade-deadline-buzz-news-updates-intel-rumors-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T01:25:28+0000",
-      "summary": "Could the Pats add an RB? Will the Dolphins unload players? Is Kirk Cousins staying put? Here's the latest on Tuesday's trade deadline from around the NFL."
-    },
-    {
-      "id": "6b6170207c1fff57",
-      "title": "Tracking every NFL trade deadline move: Jaire Alexander, Michael Carter II to the Eagles",
-      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T01:25:27+0000",
-      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Nov. 4."
-    },
-    {
       "id": "164af9b0364577e9",
       "title": "AFC Playoff Picture: Indianapolis Colts’ second loss doesn’t drop them from top spot",
       "link": "https://stampedeblue.com/indianapolis-colts-news/117164/afc-playoff-picture-indianapolis-colts-second-loss-doesnt-drop-them-from-top-spot",
@@ -81,15 +90,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-03T01:04:52+0000",
       "summary": "The Indianapolis Colts were on a great run to start this season but they sort of came down to earth against the Pittsburgh Steelers on Sunday. After being the last one-loss team in the AFC, the Colts join a group of two-loss teams. But the tiebreakers work out in Indy’s favor, and their conference record [&#8230;]"
-    },
-    {
-      "id": "b13f9d9c02ea41dc",
-      "title": "Week 9 winners and losers: Bowers and McCaffrey shine, Taylor and Gibbs fizzle",
-      "link": "https://espn.com/fantasy/football/story/_/page/FFSundayHighLows-46821723/nfl-week-9-fantasy-football-winners-losers-injuries-rankings-more",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T00:57:29+0000",
-      "summary": "Brock Bowers, Christian McCaffrey and Caleb Williams led the way with big Week 9 performances, while Jonathan Taylor, Jahmyr Gibbs and Patrick Mahomes were among the biggest disappointments."
     },
     {
       "id": "e39b5044423edf32",
