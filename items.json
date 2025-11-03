@@ -1,6 +1,69 @@
 {
-  "updated": "2025-11-03T17:40:17+00:00",
+  "updated": "2025-11-03T18:26:36+00:00",
   "items": [
+    {
+      "id": "6dd6f24eef63e0e2",
+      "title": "Darnold stars with 4 TDs in win, boosts MVP odds",
+      "link": "https://espn.com/nfl/story/_/id/46828302/sam-darnold-throws-four-1st-half-tds-seattle-seahawks-win",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T18:17:56+0000",
+      "summary": "En route to a 38-14 win over the Commanders on Sunday night, Seahawks quarterback Sam Darnold finished 21-of-24 with 330 yards, four touchdowns and one interception, boosting his odds for NFL MVP as his team improved to 6-2."
+    },
+    {
+      "id": "da3fb744b2478691",
+      "title": "Little drills record 68-yard FG, sparking Jags in win",
+      "link": "https://espn.com/nfl/story/_/id/46822888/jaguars-kicker-cam-little-sets-nfl-record-68-yard-fg",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T18:16:08+0000",
+      "summary": "Jacksonville Jaguars kicker Cam Little hit an NFL-record 68-yard field goal as time expired in the first half against the Las Vegas Raiders at Allegiant Stadium."
+    },
+    {
+      "id": "066d7a0de25d8f30",
+      "title": "👀 'Hide your quarterback': Top trolls of Week 9",
+      "link": "https://espn.com/nfl/story/_/id/46823065/nfl-week-9-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T18:16:08+0000",
+      "summary": "Week 9 of the NFL season brought stunning victories, one of which resulted in a memorable troll."
+    },
+    {
+      "id": "e5ad39dba6670053",
+      "title": "A loss for the Indianapolis Colts isn’t the end of the world, but it still stings",
+      "link": "https://stampedeblue.com/analysis/117204/a-loss-for-the-indianapolis-colts-isnt-the-end-of-the-world-but-it-still-stings",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-03T18:00:56+0000",
+      "summary": "Daniel Jones and the Indianapolis Colts had a Sunday to forget as turnovers highlighted the affair. For a quarterback that took good care of the ball and moved the offense with ease over the course of the season, the pressure that Pittsburgh’s front created was too much as he fumbled and allowed balls to be [&#8230;]"
+    },
+    {
+      "id": "82172368251d827e",
+      "title": "Berlin Game Watch Party at Indy's Rathskeller SOLD OUT!",
+      "link": "https://colts.com/news/2025-berlin-game-watch-party-at-indy-rathskeller-sold-out",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-03T18:00:00+0000",
+      "summary": "The Indianapolis Colts’ official 2025 Berlin Game Watch Party, presented by Bud Light, at The Rathskeller in downtown Indianapolis on Sun., Nov. 9, is sold out."
+    },
+    {
+      "id": "b13f9d9c02ea41dc",
+      "title": "Week 9 winners and losers: Bowers and McCaffrey shine, Taylor and Gibbs fizzle",
+      "link": "https://espn.com/fantasy/football/story/_/page/FFSundayHighLows-46821723/nfl-week-9-fantasy-football-winners-losers-injuries-rankings-more",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T17:58:17+0000",
+      "summary": "Brock Bowers, Christian McCaffrey and Caleb Williams led the way with big Week 9 performances, while Jonathan Taylor, Jahmyr Gibbs and Patrick Mahomes were among the biggest disappointments."
+    },
+    {
+      "id": "1cef00a527b8c8f8",
+      "title": "Barnwell: Two days after Halloween, four Super Bowl contenders proved to be not-so-scary",
+      "link": "https://espn.com/nfl/story/_/id/46819448/2025-nfl-week-9-barnwell-super-bowl-favorites-loss-chiefs-colts-packers-lions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-03T17:39:21+0000",
+      "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?"
+    },
     {
       "id": "5d83934f435312f4",
       "title": "Around the AFC South: Colts remain first in division after Week 9 loss to Steelers",
@@ -11,15 +74,6 @@
       "summary": "The Houston Texans and Tennessee Titans both lost on Sunday and the Jacksonville Jaguars squeezed out a win in overtime."
     },
     {
-      "id": "6dd6f24eef63e0e2",
-      "title": "Darnold stars with 4 TDs in win, boosts MVP odds",
-      "link": "https://espn.com/nfl/story/_/id/46828302/sam-darnold-throws-four-1st-half-tds-seattle-seahawks-win",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T16:56:54+0000",
-      "summary": "En route to a 38-14 win over the Commanders on Sunday night, Seahawks quarterback Sam Darnold finished 21-of-24 with 330 yards, four touchdowns and one interception, boosting his odds for NFL MVP as his team improved to 6-2."
-    },
-    {
       "id": "d3a130cac3cf0739",
       "title": "Darnold dazzles, wild upsets and Daniels' injury: Here's what to know from Week 9",
       "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
@@ -27,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-11-03T16:47:50+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 9."
-    },
-    {
-      "id": "1cef00a527b8c8f8",
-      "title": "Barnwell: Two days after Halloween, four Super Bowl contenders proved to be not-so-scary",
-      "link": "https://espn.com/nfl/story/_/id/46819448/2025-nfl-week-9-barnwell-super-bowl-favorites-loss-chiefs-colts-packers-lions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T16:24:38+0000",
-      "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?"
     },
     {
       "id": "f8dee1af207226f4",
@@ -54,24 +99,6 @@
       "feed": "ESPN",
       "published": "2025-11-03T15:15:27+0000",
       "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Tuesday."
-    },
-    {
-      "id": "da3fb744b2478691",
-      "title": "Little drills record 68-yard FG, sparking Jags in win",
-      "link": "https://espn.com/nfl/story/_/id/46822888/jaguars-kicker-cam-little-sets-nfl-record-68-yard-fg",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T14:51:00+0000",
-      "summary": "Jacksonville Jaguars kicker Cam Little hit an NFL-record 68-yard field goal as time expired in the first half against the Las Vegas Raiders at Allegiant Stadium."
-    },
-    {
-      "id": "066d7a0de25d8f30",
-      "title": "👀 'Hide your quarterback': Top trolls of Week 9",
-      "link": "https://espn.com/nfl/story/_/id/46823065/nfl-week-9-trolls",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T14:51:00+0000",
-      "summary": "Week 9 of the NFL season brought stunning victories, one of which resulted in a memorable troll."
     },
     {
       "id": "7ba669bf74fc41e6",
@@ -117,15 +144,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-03T13:50:54+0000",
       "summary": "The Indianapolis Colts saw their four-game winning streak snapped after a 27-20 loss to the Pittsburgh Steelers. Turnovers were the theme--Indy had six of them on the day, including three interceptions and two fumbles lost. The Steelers defense, a unit that had been maligned all season, found its way, putting constant pressure on Daniel Jones [...]"
-    },
-    {
-      "id": "b13f9d9c02ea41dc",
-      "title": "Week 9 winners and losers: Bowers and McCaffrey shine, Taylor and Gibbs fizzle",
-      "link": "https://espn.com/fantasy/football/story/_/page/FFSundayHighLows-46821723/nfl-week-9-fantasy-football-winners-losers-injuries-rankings-more",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-03T13:13:55+0000",
-      "summary": "Brock Bowers, Christian McCaffrey and Caleb Williams led the way with big Week 9 performances, while Jonathan Taylor, Jahmyr Gibbs and Patrick Mahomes were among the biggest disappointments."
     },
     {
       "id": "ce83e6e492f9ddcf",
@@ -279,15 +297,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-01T18:23:37+0000",
       "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts' Sunday meeting with the Pittsburgh Steelers in Acrisure Stadium. History lesson The Colts have won the last two meetings, but that comes with a caveat. Each has occurred at Lucas Oil Stadium. They’ve posted a win in Pittsburgh just once in more than half a century. [...]"
-    },
-    {
-      "id": "2d775c49c3e6029c",
-      "title": "Indianapolis Colts Injury Report: DE Ebukam and WR Gould Ruled OUT",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/117131/indianapolis-colts-injury-report-de-ebukam-and-wr-gould-ruled-out",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-01T18:06:58+0000",
-      "summary": "The Indianapolis Colts today released their Friday injury report for Week 9 of the NFL season against the Pittsburgh Steelers."
     },
     {
       "id": "1384e79974e80de0",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-27T21:35:10+0000",
       "summary": "INDIANAPOLIS – Things have gotten very interesting on West 56th Street. A team that flew completely under the radar during the offseason, preseason and for the first few weeks of the regular season has emerged as something that can’t be ignored. The Indianapolis Colts are an NFL-best 7-1. They hold a 2½-game lead over Jacksonville in [...]"
-    },
-    {
-      "id": "19dfde9261f91e47",
-      "title": "Bill Brooks' Breakdown: How Daniel Jones set the standard for a selfless Colts offense in Week 8 win over Titans",
-      "link": "https://colts.com/news/bill-brooks-breakdown-colts-week-8-daniel-jones-preparation-standard-offense-jonathan-taylor-offensive-line",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-27T20:00:29+0000",
-      "summary": "Colts Ring of Honor wide receiver Bill Brooks gives his insight on just how important a quarterback like Daniel Jones is for an NFL offense and breaks down Jonathan Taylor's impressive performance from the Colts' 38-14 win."
     }
   ],
   "links": [
