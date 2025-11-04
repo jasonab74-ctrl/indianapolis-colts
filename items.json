@@ -1,14 +1,41 @@
 {
-  "updated": "2025-11-04T07:18:27+00:00",
+  "updated": "2025-11-04T07:39:25+00:00",
   "items": [
+    {
+      "id": "1cef00a527b8c8f8",
+      "title": "Barnwell: Two days after Halloween, four Super Bowl contenders proved to be not-so-scary",
+      "link": "https://espn.com/nfl/story/_/id/46819448/2025-nfl-week-9-barnwell-super-bowl-favorites-loss-chiefs-colts-packers-lions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-04T07:23:24+0000",
+      "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?"
+    },
+    {
+      "id": "d3a130cac3cf0739",
+      "title": "Here's what to know from Week 9, including our main takeaways",
+      "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-04T07:23:24+0000",
+      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned."
+    },
     {
       "id": "f8dee1af207226f4",
       "title": "NFL trade grades: Will Dre'Mont Jones upgrade the Ravens?",
       "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-04T04:59:22+0000",
+      "published": "2025-11-04T07:23:20+0000",
       "summary": "Let's size up deals leading into the Tuesday NFL trade deadline, including the Ravens getting pass-rush help."
+    },
+    {
+      "id": "3d3247defd3355a7",
+      "title": "NFL picks, predictions for Week 10: Eagles hand Packers another Lambeau loss, Bucs halt Patriots winning streak",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-picks-predictions-week-10/8b6c5afbe17f50552b24d376",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T07:00:02+0000",
+      "summary": "The Sporting News' Bill Bender hands out the picks and predictions for the Week 10 slate in the NFL."
     },
     {
       "id": "92a7922de32ef541",
@@ -27,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-11-04T04:40:01+0000",
       "summary": "The Patriots have won six straight but are underdogs at Tampa Bay in Week 10, as are the Eagles at Green Bay."
-    },
-    {
-      "id": "1cef00a527b8c8f8",
-      "title": "Barnwell: Two days after Halloween, four Super Bowl contenders proved to be not-so-scary",
-      "link": "https://espn.com/nfl/story/_/id/46819448/2025-nfl-week-9-barnwell-super-bowl-favorites-loss-chiefs-colts-packers-lions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T04:39:27+0000",
-      "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?"
-    },
-    {
-      "id": "d3a130cac3cf0739",
-      "title": "Here's what to know from Week 9, including our main takeaways",
-      "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T04:39:27+0000",
-      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned."
     },
     {
       "id": "6df31915ab74ddd0",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-10-27T22:27:32+0000",
       "summary": "The Colts' 38-14 win over the Tennessee Titans in Week 8 improved their record to an NFL-best 7-1 as the 2025 season nears its halfway point."
-    },
-    {
-      "id": "37e0a4fecdace804",
-      "title": "As NFL trade deadline nears, Colts need to be in the mood",
-      "link": "https://fox59.com/sports/colts/as-nfl-trade-deadline-nears-colts-need-to-be-in-the-mood/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-27T21:35:10+0000",
-      "summary": "INDIANAPOLIS – Things have gotten very interesting on West 56th Street. A team that flew completely under the radar during the offseason, preseason and for the first few weeks of the regular season has emerged as something that can’t be ignored. The Indianapolis Colts are an NFL-best 7-1. They hold a 2½-game lead over Jacksonville in [...]"
     }
   ],
   "links": [
