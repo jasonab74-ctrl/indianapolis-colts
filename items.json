@@ -1,14 +1,23 @@
 {
-  "updated": "2025-11-04T23:17:10+00:00",
+  "updated": "2025-11-04T23:38:15+00:00",
   "items": [
     {
-      "id": "3918b64eaa290f05",
-      "title": "Most trades on NFL deadline day: How 2025 total compares to recent years",
-      "link": "https://sportingnews.com/us/nfl/news/most-trades-nfl-deadline-day-how-2025-total-compares-recent-years/2043f2d48f8226821f9be9c8",
+      "id": "3e4a87ed6e753917",
+      "title": "Updated NFL Power Rankings: 1-32 poll, plus each team's most important game down the stretch",
+      "link": "https://espn.com/nfl/story/_/id/46770268/nfl-week-10-power-rankings-poll-32-teams-2025-biggest-remaining-second-half-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-04T23:28:37+0000",
+      "summary": "Let's update our rankings ahead of Week 10. Plus, we picked out critical games remaining on the schedule for every team."
+    },
+    {
+      "id": "ce9fbbd202c3a995",
+      "title": "Former Bengals captain Logan Wilson shows class following trade to Dallas",
+      "link": "https://cincyjungle.com/cincinnati-bengals-news/179739/logan-wilson-dallas-cowboys-nfl-trade-deadline-moves-barrett-carter",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-04T23:05:02+0000",
-      "summary": "The New York Jets led the way, followed by some other notable players going to new locations."
+      "published": "2025-11-04T23:23:57+0000",
+      "summary": "The Cincinnati Bengals drafted Logan Wilson in the third round of the 2020 NFL Draft, and he immediately became a key contributor, starting on the Bengals’ defense that led the Bengals to the Super Bowl and the AFC championship. He was the leader of the defense and immediately felt like a veteran presence even while on his […]"
     },
     {
       "id": "20ab95c806a363d6",
@@ -45,33 +54,6 @@
       "feed": "ESPN",
       "published": "2025-11-04T23:00:31+0000",
       "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?"
-    },
-    {
-      "id": "8838a9d3dcbbd851",
-      "title": "Jets trade Sauce Gardner, Quinnen Williams ahead of NFL trade deadline",
-      "link": "https://touchdownwire.usatoday.com/story/sports/nfl/touchdown/2025/11/04/new-york-jets-trade-sauce-gardner-and-quinnen-williams-ahead-of-the-nfl-trade-deadline/87089655007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T22:59:19+0000",
-      "summary": "The Jets parted ways with a pair of former Pro Bowl selections on defense."
-    },
-    {
-      "id": "24818be572568c77",
-      "title": "Why Jets' pair of deadline blockbuster trades are great for New York's future",
-      "link": "https://sportingnews.com/us/nfl/new-york-jets/news/why-jets-pair-deadline-blockbuster-trades-great-new-yorks-future/e20b390902c3e9d133979d06",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T22:57:43+0000",
-      "summary": "The Jets made two trades that stunned the NFL world, and both are great moves for the future of the franchise."
-    },
-    {
-      "id": "be316fcde765ddf9",
-      "title": "Sauce Gardner will wear No. 1 for Colts, Josh Downs moves to No. 2",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/sauce-gardner-will-wear-no-1-for-colts-josh-downs-moves-to-no-2",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T22:53:52+0000",
-      "summary": "Cornerback Sauce Gardner is no longer a Jet, but he's still No. 1."
     },
     {
       "id": "59c1233d5129cc9e",
@@ -254,15 +236,6 @@
       "summary": "The red-hot Dowdle has taken over Carolina's backfield, posting numbers that rival the NFL's best."
     },
     {
-      "id": "3e4a87ed6e753917",
-      "title": "Updated NFL Power Rankings: 1-32 poll, plus each team's most important game down the stretch",
-      "link": "https://espn.com/nfl/story/_/id/46770268/nfl-week-10-power-rankings-poll-32-teams-2025-biggest-remaining-second-half-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T16:18:29+0000",
-      "summary": "Let's update our rankings ahead of Week 10. Plus, we picked out critical games remaining on the schedule for every team."
-    },
-    {
       "id": "cd771f870c34d9ed",
       "title": "Colts’ Stock Up/Down: Week 9 @Steelers",
       "link": "https://stampedeblue.com/analysis/117219/colts-stock-up-down-week-9-steelers",
@@ -288,15 +261,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-04T10:14:19+0000",
       "summary": "4:00 p.m. today will be the last time that the Colts can add a player from another team, unless a player is waived and everyone below us in the standings passes on them. We’ve been saying for weeks that we love our offense and think the D could be good enough for a deep run, [&#8230;]"
-    },
-    {
-      "id": "d3a130cac3cf0739",
-      "title": "Here's what to know from Week 9, including our main takeaways",
-      "link": "https://espn.com/nfl/story/_/id/46770355/nfl-week-9-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T07:23:24+0000",
-      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned."
     },
     {
       "id": "640c6f1c8b0b0af9",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-10-30T19:46:30+0000",
       "summary": "On Thursday, Taylor was named the AFC Offensive Player of the Month for October."
+    },
+    {
+      "id": "2648b317b7a2a586",
+      "title": "Colts Blue Zone Podcast 437: Colts Head to Pittsburgh to Take on Rodgers, Steelers",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-437-colts-head-to-pittsburgh-to-take-on-rodgers-steelers/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-30T18:31:20+0000",
+      "summary": "The Indianapolis Colts (7-1) head to Pittsburgh to take on Aaron Rodgers and the Steelers (4-3). Dave Griffiths, Mike Chappell and Matt Adams preview the game in the latest edition of the Colts Blue Zone Podcast. Plus: a monthly award for Jonathan Taylor (and some MVP talk), a team honor for long snapper Luke Rhodes, [...]"
+    },
+    {
+      "id": "eef5eba7755ebbdc",
+      "title": "Ameer Abdullah is one of the NFL's longest-tenured running backs. How he's made it this far is not by accident.",
+      "link": "https://colts.com/news/ameer-abdullah-is-one-of-the-nfl-s-longest-tenured-running-backs-how-he-s-made-it-this-far-is-not-by-accident",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-30T18:30:18+0000",
+      "summary": "Ameer Abdullah is in his 11th year in the NFL, and the Colts are thrilled to have him around their facility and on the field in whatever capacity they need him."
+    },
+    {
+      "id": "5b1b68c5c018d59e",
+      "title": "Jonathan Taylor named AFC Offensive Player of the Month for October",
+      "link": "https://fox59.com/sports/colts/jonathan-taylor-named-afc-offensive-player-of-the-month-for-october/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-10-30T16:32:25+0000",
+      "summary": "INDIANAPOLIS – Jonathan Taylor’s prolific pace hasn’t gone unnoticed. The Indianapolis Colts’ feature back has been named the AFC Offensive Player of the Month. Of course he has. In four October games, Taylor rushed for 436 yards and recorded nine touchdowns on 66 attempts (6.6 per rush) and added 93 yards and one TD on [...]"
+    },
+    {
+      "id": "1f2bbf8bd4a10d31",
+      "title": "Colts RB Jonathan Taylor named AFC Offensive Player of the Month for October",
+      "link": "https://colts.com/news/colts-rb-jonathan-taylor-afc-offensive-player-of-the-month-october-rushing-yards-touchdowns-nfl",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-10-30T16:00:17+0000",
+      "summary": "In the month of October Taylor had 66 carries for 436 yards (6.6 yards/attempt) and scored 10 total touchdowns (nine rushing, one receiving)."
     }
   ],
   "links": [
