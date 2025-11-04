@@ -1,14 +1,167 @@
 {
-  "updated": "2025-11-04T20:42:32+00:00",
+  "updated": "2025-11-04T21:17:10+00:00",
   "items": [
     {
-      "id": "e0f94be4019d6a8e",
-      "title": "NFL experts grade Jaguars' Jakobi Meyers trade with Raiders",
-      "link": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2025/11/04/nfl-experts-grade-jaguars-jakobi-meyers-trade-raiders/87090508007/",
+      "id": "6b6170207c1fff57",
+      "title": "Catch up on every NFL trade deadline move: Quinnen Williams to Cowboys, Sauce Gardner to Colts",
+      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-04T21:09:54+0000",
+      "summary": "We followed every move before the 2025 NFL trade deadline, which passed at 4 p.m. ET on Tuesday."
+    },
+    {
+      "id": "f8dee1af207226f4",
+      "title": "NFL trade grades: Sizing up deals for Rashid Shaheed, Quinnen Williams, Sauce Gardner",
+      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-04T21:09:54+0000",
+      "summary": "Let's size up NFL deadline deals, with Seattle nabbing a WR and the Jets dealing two stars."
+    },
+    {
+      "id": "ae517b1738775587",
+      "title": "The Detroit Lions stand pat at an NFL trade deadline that featured some big moves",
+      "link": "https://lionswire.usatoday.com/story/sports/nfl/lions/2025/11/04/detroit-lions-nfl-trade-deadline-moves-transactions/87089362007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:36:39+0000",
-      "summary": "Several NFL experts have handed out grades to the Jaguars for the Jakobi Meyers trade."
+      "published": "2025-11-04T21:08:57+0000",
+      "summary": "The Detroit Lions stand pat at an NFL trade deadline that featured some big moves, including the Jets selling off premium defenders"
+    },
+    {
+      "id": "ed66ba51cdee12cc",
+      "title": "Giants NFL trade deadline 2025: New York sits on sidelines of wild day",
+      "link": "https://bigblueview.com/new-york-giants-roster/143422/nfl-trade-deadline-2025-news-results",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:08:21+0000",
+      "summary": "While the Cowboys and Colts made massive moves, and 2 wide receivers found new homes, the Giants did nothing."
+    },
+    {
+      "id": "e1dbf15b67e77b08",
+      "title": "NFL Trade Deadline 2025: Packers keep their picks",
+      "link": "https://acmepackingcompany.com/green-bay-packers-news/73944/nfl-trade-deadline-2025-packers-keep-their-picks",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:07:16+0000",
+      "summary": "The only cornerbacks or defensive tackles traded today involved first-round picks, which Green Bay doesn’t own."
+    },
+    {
+      "id": "780be399e9a9d0c6",
+      "title": "NFL trade deadline winners and losers: Jets’ blockbuster deals with Cowboys, Colts show more than white flag. Jets GM won — as did Jerry Jones",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-trade-deadline-winners-and-losers-jets-blockbuster-deals-with-cowboys-colts-show-more-than-white-flag-jets-gm-won--as-did-jerry-jones-210709389.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:07:09+0000",
+      "summary": "The Jets realized how strong a market this was for sellers, far outnumbered by buyers as an unusually tight postseason race plants false hopes in teams who might in other years sell."
+    },
+    {
+      "id": "4c636e3e8ffc8761",
+      "title": "NFL trade deadline: Trey Hendrickson remains with Bengals after busy day of trades",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/11/04/trey-hendrickson-still-with-bengals-after-nfl-trade-deadline/87090149007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:04:16+0000",
+      "summary": "Trey Hendrickson is staying in Cincinnati after weeks of trade rumors."
+    },
+    {
+      "id": "3a10ab8f50ae0865",
+      "title": "Did Shedeur Sanders get traded? Explaining Browns' NFL deadline decision",
+      "link": "https://sportingnews.com/us/nfl/cleveland-browns/news/did-shedeur-sanders-get-traded-browns-nfl-deadline-decision/a12a44415f9002841d001c41",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:03:50+0000",
+      "summary": "Shedeur Sanders is staying in Cleveland through the deadline."
+    },
+    {
+      "id": "6a0862388be0f12d",
+      "title": "NFL trade grades: How Ryan Poles, Bears did on deadline decisions",
+      "link": "https://marqueesportsnetwork.com/nfl-trade-deadline-chicago-bears-joe-tryon-shoyinka-ryan-poles/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:03:43+0000",
+      "summary": "What to make of Chicago Bears general manager Ryan Poles' moves at the NFL trade deadline, with the addition of Joe Tryon-Shoyinka. The post NFL trade grades: How Ryan Poles, Bears did on deadline decisions appeared first on Marquee Sports Network - Home of the Cubs, Bears, Red Stars and Sky."
+    },
+    {
+      "id": "77ffd22bf1b6ff43",
+      "title": "Colts updated salary cap, 2026 draft picks, depth chart after Sauce Gardner trade",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/11/04/colts-sauce-gardner-trade-updated-salary-cap-draft-picks-depth-chart/87091161007/",
+      "source": "Colts Wire",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:02:54+0000",
+      "summary": "Here is an updated look at the Colts' salary cap, 2026 draft picks, and depth chart after the Sauce Gardner trade."
+    },
+    {
+      "id": "2a01ab03561d0042",
+      "title": "Analysis: Why Bengals traded Logan Wilson, didn't move on from Trey Hendrickson",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/11/04/why-bengals-traded-logan-wilson-didnt-move-trey-hendrickson/87087143007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:02:50+0000",
+      "summary": "Breaking down the moves the Bengals made and didn't make at the NFL trade deadline"
+    },
+    {
+      "id": "6cd1640662811ffa",
+      "title": "NFL trade deadline tracker: Live updates on news, rumors for Sauce Gardner, Quinnen Williams and more at 2025 deadline",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-trade-tracker-2025-deadline-news-rumors/9083e337230acd9b5d70224a",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:02:00+0000",
+      "summary": "The Sporting News' NFL trade deadline tracker covers the latest news and rumors on every move before Tuesday's 4 p.m. ET cutoff. Follow for a full least of completed deals and more for all 32 teams."
+    },
+    {
+      "id": "f16ae39756cd4833",
+      "title": "Did the Cardinals trade Budda Baker? Arizona safety rumors had juice as NFL deadline approached",
+      "link": "https://sportingnews.com/us/nfl/arizona-cardinals/news/did-cardinals-trade-budda-baker-arizona-safety-rumors-nfl-deadline/bcbe03dbb0a98a8a5bbe1576",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:01:00+0000",
+      "summary": "He's been a star in Arizona for a long time."
+    },
+    {
+      "id": "14b155e96f8e536f",
+      "title": "Did the Vikings trade T.J. Hockenson? Minnesota TE rumors got busy before NFL deadline",
+      "link": "https://sportingnews.com/us/nfl/minnesota-vikings/news/did-vikings-trade-tj-hockenson-minnesota-te-rumors-nfl-deadline/a81926c97a24c6d7c95cccb3",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:00:01+0000",
+      "summary": "It's been a weird year in Minnesota."
+    },
+    {
+      "id": "12b0dceab952404e",
+      "title": "Pro Blue: Colston Loveland scores game-winning TD for Chicago Bears",
+      "link": "https://maizenbrew.com/football/96806/chicago-bears-colston-loveland-touchdown-aj-barner-mike-sainristil-michigan-wolverines-football",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T21:00:00+0000",
+      "summary": "In a win over the Cincinnati Bengals, former Michigan tight end Colston Loveland scored his first two NFL touchdowns, including the game-winner:"
+    },
+    {
+      "id": "93c7ec305cde4dc7",
+      "title": "NFL trade deadline tracker 2025: Patriots news, rumors, moves, instant analysis",
+      "link": "https://patspulpit.com/new-england-patriots-news/112729/nfl-trade-deadline-2025-rumors-tracker-analysis",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-04T20:56:37+0000",
+      "summary": "Tracking all the developments ahead of the NFL trade deadline."
+    },
+    {
+      "id": "4ea0623f8e65bdeb",
+      "title": "Jets trade Sauce Gardner to Colts: Last piece to Super Bowl puzzle? What's N.Y. thinking?",
+      "link": "https://espn.com/nfl/story/_/id/46847768/nfl-colts-jets-sauce-gardner-draft-picks-trade-deadline",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-04T20:54:08+0000",
+      "summary": "The 7-2 Colts are going all-in on a Super Bowl run, while trading the CB was just part of the Jets' busy day."
+    },
+    {
+      "id": "4424cfa2363f81ba",
+      "title": "Colts GM Chris Ballard provides public statement on Sauce Gardner trade deadline mega-deal",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117342/colts-gm-chris-ballard-provides-public-statement-on-sauce-gardner-trade-deadline-mega-deal",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-04T20:51:48+0000",
+      "summary": "Indianapolis Colts longtime general manager Chris Ballard provided a public statement on the trade deadline splash that sent former New York Jets 2x NFL All-Pro cornerback Sauce Gardner to the horseshoe, and created seismic waves through league circles and the national media alike (via ESPN Stephen Holder): The Colts were reportedly active in the trade [&#8230;]"
     },
     {
       "id": "2358c85b98a5334e",
@@ -20,15 +173,6 @@
       "summary": ""
     },
     {
-      "id": "28b320159ce7021b",
-      "title": "Report: Bills connected to two Commanders players ahead of 2025 NFL trade deadline",
-      "link": "https://billswire.usatoday.com/story/sports/nfl/bills/2025/11/04/buffalo-bills-connected-two-commanders-ahead-2025-nfl-trade-deadline-von-miller-deebo-samuel/87090709007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:32:41+0000",
-      "summary": "A report says the Bills could be interested in two players from the Commanders at the 2025 NFL trade deadline."
-    },
-    {
       "id": "2053a187cb7966ab",
       "title": "Colts release DB David Long Jr. from practice squad; sign LB Chad Muma, S Trey Washington to practice squad",
       "link": "https://colts.com/news/colts-release-db-david-long-jr-from-practice-squad-sign-lb-chad-muma-s-trey-washington-to-practice-squad",
@@ -36,42 +180,6 @@
       "feed": "Colts.com",
       "published": "2025-11-04T20:30:43+0000",
       "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "4482c76f53ffc9c8",
-      "title": "Quinnen Williams trade grades: Did Cowboys or Jets ace blockbuster deal?",
-      "link": "https://usatoday.com/story/sports/nfl/cowboys/2025/11/04/quinnen-williams-trade-grades-cowboys-jets/87089368007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:26:11+0000",
-      "summary": "The NFL trade deadline got another major surprise with the Jets sending defensive tackle Quinnen Williams to the Cowboys. Who made out best?"
-    },
-    {
-      "id": "6cd1640662811ffa",
-      "title": "NFL trade deadline tracker: Live updates on news, rumors for Sauce Gardner, Quinnen Williams and more at 2025 deadline",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-trade-tracker-2025-deadline-news-rumors/9083e337230acd9b5d70224a",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:25:00+0000",
-      "summary": "The Sporting News' NFL trade deadline tracker covers the latest news and rumors on every move before Tuesday's 4 p.m. ET cutoff. Follow for a full least of completed deals and more for all 32 teams."
-    },
-    {
-      "id": "f3d3f0beb58e28d7",
-      "title": "Washington Commanders NFL Trade Deadline Tracker: Deebo Samuel/Von Miller to Buffalo?",
-      "link": "https://hogshaven.com/washington-commanders-news/386867/washington-commanders-nfl-trade-deadline-tracker-deebo-samuel-von-miller-to-buffalo",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:22:40+0000",
-      "summary": "Rumors, reports, and speculation about the Washington Commanders at the NFL trade deadline"
-    },
-    {
-      "id": "93c7ec305cde4dc7",
-      "title": "NFL trade deadline tracker 2025: Patriots news, rumors, moves, instant analysis",
-      "link": "https://patspulpit.com/new-england-patriots-news/112729/nfl-trade-deadline-2025-rumors-tracker-analysis",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:22:31+0000",
-      "summary": "Tracking all the developments ahead of the NFL trade deadline."
     },
     {
       "id": "aab361f7a51f4961",
@@ -101,51 +209,6 @@
       "summary": "Have the Bills solved the Chiefs? Did Colts QB Daniel Jones regress? Do the Packers and Lions have underlying concerns, and could either make a trade?"
     },
     {
-      "id": "3acf1c8e65daa628",
-      "title": "Former Alabama Crimson Tide star Quinnen Williams traded to Dallas Cowboys",
-      "link": "https://rolltidewire.usatoday.com/story/sports/college/crimson-tide/football/2025/11/04/alabama-football-quinnen-williams-dallas-cowboys-trade/87090048007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:20:24+0000",
-      "summary": "Hours before the NFL trade deadline, former Alabama Crimson Tide star Quinnen Williams was shipped from the New York Jets to the Dallas Cowboys."
-    },
-    {
-      "id": "4ea0623f8e65bdeb",
-      "title": "Jets trade Sauce Gardner to Colts: Last piece to Super Bowl puzzle? What's N.Y. thinking?",
-      "link": "https://espn.com/nfl/story/_/id/46847768/nfl-colts-jets-sauce-gardner-draft-picks-trade-deadline",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T20:20:14+0000",
-      "summary": "The 7-2 Colts are going all-in on a Super Bowl run while trading the CB was just part of the Jets' busy day."
-    },
-    {
-      "id": "068218371080b9c0",
-      "title": "2025 NFL Trade Deadline: Fantasy football impact of major deals, including Jakobi Meyers to Jaguars and Rashid Shaheed to Seahawks",
-      "link": "https://sports.yahoo.com/fantasy/article/2025-nfl-trade-deadline-fantasy-football-impact-of-major-deals-including-jakobi-meyers-to-jaguars-and-rashid-shaheed-to-seahawks-201720024.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-04T20:17:20+0000",
-      "summary": "Matt Harmon recaps the 2025 NFL Trade Deadline and provides fantasy football analysis for each major move."
-    },
-    {
-      "id": "6b6170207c1fff57",
-      "title": "Tracking every NFL trade deadline move: Quinnen Williams to Cowboys, Sauce Gardner to Colts",
-      "link": "https://espn.com/nfl/story/_/id/46306378/2025-nfl-trade-deadline-updates-latest-news-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T20:12:34+0000",
-      "summary": "We're following every move before the 2025 NFL trade deadline, which passes at 4 p.m. ET on Tuesday."
-    },
-    {
-      "id": "f8dee1af207226f4",
-      "title": "NFL trade grades: Sizing up deals for Rashid Shaheed, Sauce Gardner and Jakobi Meyers",
-      "link": "https://espn.com/nfl/story/_/id/46201721/2025-nfl-trade-grades-deadline-latest-best-worst-deals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-04T20:12:34+0000",
-      "summary": "Let's size up NFL deadline deals, with Seattle nabbing a WR and the Colts getting Sauce Gardner."
-    },
-    {
       "id": "9035ee77870cce4c",
       "title": "All chips in? Colts pull massive trade for CB Sauce Gardner; cost was 2 first-round picks, AD Mitchell",
       "link": "https://fox59.com/sports/colts/all-chips-in-colts-pull-massive-trade-for-cb-sauce-gardner-cost-was-2-first-round-picks-ad-mitchell/",
@@ -153,6 +216,15 @@
       "feed": "CBS4Indy",
       "published": "2025-11-04T20:10:27+0000",
       "summary": "INDIANAPOLIS – Jim Irsay was prophetic, but premature. The late owner of the Indianapolis Colts, frustrated and infuriated by his franchise’s latest failure, stood beside his personal jet in mid-January 2022 and insisted things would change. His three emphatic words: All. Chips. In. Fast-forward to Tuesday. It’s not a stretch to insist general manager Chris [...]"
+    },
+    {
+      "id": "159a3e3ef268ec2c",
+      "title": "Colts’ Week 9 QB Analysis: Ooph",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/117223/colts-week-9-qb-analysis-ooph",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-04T19:54:13+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "3559d8ecdc23700c",
@@ -171,6 +243,15 @@
       "feed": "Colts.com",
       "published": "2025-11-04T19:03:17+0000",
       "summary": "The Colts made the trade Tuesday for Gardner, a two-time first-team AP All-Pro cornerback."
+    },
+    {
+      "id": "68bb5e1c72529be1",
+      "title": "Rapid Reaction: Colts land Jets 2x NFL All-Pro CB Sauce Gardner in blockbuster deadline deal",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117282/rapid-reaction-colts-land-jets-2x-all-pro-cb-sauce-gardner-in-blockbuster-deadline-deal",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-04T19:00:57+0000",
+      "summary": "The Indianapolis Colts surprisingly made national headlines on Tuesday ahead of the league’s trade deadline, acquiring New York Jets 2x NFL First-Team All-Pro cornerback Sauce Gardner for their 2026 and 2027 first round picks, as well as young wideout AD Mitchell (per ESPN’s Adam Schefter): It’s obviously a steep price to pay for the Colts, [&#8230;]"
     },
     {
       "id": "e3a29577f8be9fcd",
@@ -353,15 +434,6 @@
       "summary": "The Indianapolis Colts saw their four-game winning streak snapped after a 27-20 loss to the Pittsburgh Steelers. Turnovers were the theme--Indy had six of them on the day, including three interceptions and two fumbles lost. The Steelers defense, a unit that had been maligned all season, found its way, putting constant pressure on Daniel Jones [...]"
     },
     {
-      "id": "ce83e6e492f9ddcf",
-      "title": "Colts-Falcons opening odds: Germany awaits",
-      "link": "https://stampedeblue.com/indianapolis-colts-odds/117198/colts-falcons-opening-odds-germany-awaits",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-03T06:03:05+0000",
-      "summary": "The Indianapolis Colts next matchup is a home contest against the Atlanta Falcons. While billed as a home game, the Colts will be far from home as they head to Germany. This is the first contest in Olympiastadion Berlin. This stadium was built in 1936 for the Olympics and will serve host to these two [&#8230;]"
-    },
-    {
       "id": "ccc1eccb042bb7aa",
       "title": "Quenton Nelson after latest Colts’ loss in Pittsburgh: ‘Losing makes you better . . . as long as you learn from it’",
       "link": "https://fox59.com/sports/colts/quenton-nelson-after-latest-colts-loss-in-pittsburgh-losing-makes-you-better-as-long-as-you-learn-from-it/",
@@ -369,24 +441,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-03T01:27:43+0000",
       "summary": "INDIANAPOLIS – It’s hyperbole – you know, hot-take conversation – to question the veracity of a team with an NFL-best 7-2 record. That’s who the Indianapolis Colts remained as they headed home Sunday evening after their latest face-plant against the Steelers in Pittsburgh. They’ve still won just twice in forever in the Steel City: 2-18. [...]"
-    },
-    {
-      "id": "164af9b0364577e9",
-      "title": "AFC Playoff Picture: Indianapolis Colts’ second loss doesn’t drop them from top spot",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/117164/afc-playoff-picture-indianapolis-colts-second-loss-doesnt-drop-them-from-top-spot",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-03T01:04:52+0000",
-      "summary": "The Indianapolis Colts were on a great run to start this season but they sort of came down to earth against the Pittsburgh Steelers on Sunday. After being the last one-loss team in the AFC, the Colts join a group of two-loss teams. But the tiebreakers work out in Indy’s favor, and their conference record [&#8230;]"
-    },
-    {
-      "id": "e39b5044423edf32",
-      "title": "6 turnovers sink Colts in 27-20 road loss to Steelers",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/117179/6-turnovers-sink-colts-in-27-20-road-loss-to-steelers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-03T00:00:07+0000",
-      "summary": "Six turnovers will never cut it against an NFL opponent and the Indianapolis Colts found out the hard way in Sunday’s 27-20 road loss to the Pittsburgh Steelers at Acrisure Stadium.&#160; Quarterback Daniel Jones began with a promising start after he engineered a 13-play, 79-yard masterpiece on the opening drive. Jones converted a pair of [&#8230;]"
     },
     {
       "id": "428924879b362754",
@@ -486,60 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-10-31T20:34:53+0000",
       "summary": "INDIANAPOLIS – Relief might be near for the Indianapolis Colts’ most stressed position. Cornerback Jaylon Jones went through a full week of practice and is questionable for Sunday’s road test with the Pittsburgh Steelers. He remains on the injured reserve list with a hamstring injury, but has practiced the past two weeks. The team opened [...]"
-    },
-    {
-      "id": "e00f67f68a391236",
-      "title": "Colts rule out DE Samson Ebukam, WR Anthony Gould for Week 9 game vs. Pittsburgh Steelers",
-      "link": "https://colts.com/news/colts-rule-out-de-samson-ebukam-wr-anthony-gould-for-week-9-game-vs-pittsburgh-steelers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-31T16:54:44+0000",
-      "summary": "Defensive tackle Grover Stewart (toe) was not ruled out despite only participating in practice on Friday."
-    },
-    {
-      "id": "96fe54f0f85f860b",
-      "title": "Colts-Steelers preview: Loud environment, Hall of Fame QB & Mike Tomlin await in Week 9",
-      "link": "https://colts.com/news/colts-steelers-preview-loud-environment-hall-of-fame-qb-mike-tomlin-await-in-week-9",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-31T15:31:07+0000",
-      "summary": "The Colts will look to stay undefeated against AFC opponents on Sunday against the Pittsburgh Steelers at Acrisure Stadium."
-    },
-    {
-      "id": "7faf55d6b29ca9f6",
-      "title": "Jonathan Taylor on MVP: You just have to do enough",
-      "link": "https://fox59.com/sports/colts/jonathan-taylor-on-mvp-you-just-have-to-do-enough/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-30T21:09:20+0000",
-      "summary": "INDIANAPOLIS – There wasn’t a second of hesitation from someone who only needs a split-second to do something special. Would it mean something to win MVP? “Of course,’’ Jonathan Taylor said Thursday. There was a brief pause, then laughter because of the brevity – the of course it would – of his response. But the thought [...]"
-    },
-    {
-      "id": "d4c8e8cdba27bbc6",
-      "title": "The Colts Show Mailbag: Playoff odds, Week 9 vs. Steelers, trade deadline",
-      "link": "https://colts.com/news/the-colts-show-mailbag-playoff-odds-week-9-vs-steelers-trade-deadline",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-30T20:21:01+0000",
-      "summary": "The Colts Show Mailbag returns for Week 9 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "2c849fce7bd82925",
-      "title": "Practice Notebook: Jonathan Taylor is one of the best running backs in the NFL, and wants none of the credit for it",
-      "link": "https://colts.com/news/practice-notebook-jonathan-taylor-nfl-running-back-colts-offensive-line-wide-receivers-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-10-30T19:46:30+0000",
-      "summary": "On Thursday, Taylor was named the AFC Offensive Player of the Month for October."
-    },
-    {
-      "id": "2648b317b7a2a586",
-      "title": "Colts Blue Zone Podcast 437: Colts Head to Pittsburgh to Take on Rodgers, Steelers",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-437-colts-head-to-pittsburgh-to-take-on-rodgers-steelers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-10-30T18:31:20+0000",
-      "summary": "The Indianapolis Colts (7-1) head to Pittsburgh to take on Aaron Rodgers and the Steelers (4-3). Dave Griffiths, Mike Chappell and Matt Adams preview the game in the latest edition of the Colts Blue Zone Podcast. Plus: a monthly award for Jonathan Taylor (and some MVP talk), a team honor for long snapper Luke Rhodes, [...]"
     }
   ],
   "links": [
