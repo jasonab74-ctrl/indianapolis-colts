@@ -1,6 +1,33 @@
 {
-  "updated": "2025-11-05T16:24:45+00:00",
+  "updated": "2025-11-05T16:50:21+00:00",
   "items": [
+    {
+      "id": "46f6598685a78c17",
+      "title": "Commanders' Luvu won't be suspended, NFL says",
+      "link": "https://espn.com/nfl/story/_/id/46853462/washington-commanders-lb-frankie-luvu-suspended",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-05T16:45:09+0000",
+      "summary": "Frankie Luvu won't be suspended for repeated violations of the rule against hip-drop tackles, the NFL announced Tuesday night, after the Washington Commanders linebacker had appealed a ruling that he would be suspended one game, costing him a game check."
+    },
+    {
+      "id": "9c768734122e7b25",
+      "title": "Ex-NFL star QB Brady claims his dog is a clone",
+      "link": "https://espn.com/nfl/story/_/id/46848973/tom-brady-says-dog-clone-family-previous-pet",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-05T16:45:09+0000",
+      "summary": "Tom Brady says his dog is a clone of his family's previous dog that died in 2023."
+    },
+    {
+      "id": "3e4a87ed6e753917",
+      "title": "📈 Power Rankings: Biggest games remaining",
+      "link": "https://espn.com/nfl/story/_/id/46770268/nfl-week-10-power-rankings-poll-32-teams-2025-biggest-remaining-second-half-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-05T16:45:09+0000",
+      "summary": "Let's update our NFL Power Rankings ahead of Week 10. Plus, we picked out a critical game remaining on the schedule for every team."
+    },
     {
       "id": "973bcbaef9aeb7be",
       "title": "Graziano & Fowler: What we're hearing on the Jets, Cowboys, Dolphins, Seahawks and more",
@@ -56,33 +83,6 @@
       "summary": "Here are some quick observations from the Jets during the 2025 NFL trade deadline."
     },
     {
-      "id": "46f6598685a78c17",
-      "title": "Commanders' Luvu won't be suspended, NFL says",
-      "link": "https://espn.com/nfl/story/_/id/46853462/washington-commanders-lb-frankie-luvu-suspended",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-05T13:21:30+0000",
-      "summary": "Frankie Luvu won't be suspended for repeated violations of the rule against hip-drop tackles, the NFL announced Tuesday night, after the Washington Commanders linebacker had appealed a ruling that he would be suspended one game, costing him a game check."
-    },
-    {
-      "id": "9c768734122e7b25",
-      "title": "Ex-NFL star QB Brady claims his dog is a clone",
-      "link": "https://espn.com/nfl/story/_/id/46848973/tom-brady-says-dog-clone-family-previous-pet",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-05T13:21:30+0000",
-      "summary": "Tom Brady says his dog is a clone of his family's previous dog that died in 2023."
-    },
-    {
-      "id": "3e4a87ed6e753917",
-      "title": "📈 Power Rankings: Biggest games remaining",
-      "link": "https://espn.com/nfl/story/_/id/46770268/nfl-week-10-power-rankings-poll-32-teams-2025-biggest-remaining-second-half-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-05T13:21:30+0000",
-      "summary": "Let's update our NFL Power Rankings ahead of Week 10. Plus, we picked out a critical game remaining on the schedule for every team."
-    },
-    {
       "id": "4adfcd84660ea3b3",
       "title": "Winners, losers of a wild NFL trade deadline: Solak weighs in on the Jets, Cowboys and Jakobi Meyers",
       "link": "https://espn.com/nfl/story/_/id/46835811/2025-nfl-trade-deadline-winners-losers-best-worst-deals",
@@ -99,15 +99,6 @@
       "feed": "ESPN",
       "published": "2025-11-05T12:38:03+0000",
       "summary": "We graded NFL trade deadline deals, including Sauce Gardner, Quinnen Williams and Rashid Shaheed moves."
-    },
-    {
-      "id": "f4103bb54a8a5f38",
-      "title": "Chris Ballard just built a 3-year window to win a championship",
-      "link": "https://stampedeblue.com/analysis/117281/chris-ballard-just-built-a-3-year-window-to-win-a-championship",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-05T12:00:00+0000",
-      "summary": "Just hours before the trade deadline, Chris Ballard and the Indianapolis Colts made a blockbuster trade for Ahmad “Sauce” Gardner, star cornerback of the New York Jets. Gardner, just 25 and already one of the league’s premier cover men, brings elite length, physicality at the line, and the kind of confidence that shrinks throwing windows [&#8230;]"
     },
     {
       "id": "01ba9c9e07d4e825",
@@ -297,6 +288,15 @@
       "feed": "ESPN",
       "published": "2025-11-04T04:40:01+0000",
       "summary": "The Patriots have won six straight but are underdogs at Tampa Bay in Week 10, as are the Eagles at Green Bay."
+    },
+    {
+      "id": "6df31915ab74ddd0",
+      "title": "Colts head coach Shane Steichen comments on Tuesday’s trade deadline",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117249/colts-head-coach-shane-steichen-comments-on-tuesdays-trade-deadline",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-04T03:56:43+0000",
+      "summary": "Indianapolis Colts head coach Shane Steichen didn’t say a lot on it, but did briefly comment on Tuesday’s looming 4 PM EST league-wide trade deadline (via The Athletic’s James Boyd): One could make the case that if there were ever a year for longtime Colts general manager Chris Ballard to make a trade deadline splash, [&#8230;]"
     },
     {
       "id": "bc7c6db527a9cc20",
