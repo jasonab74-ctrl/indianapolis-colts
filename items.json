@@ -1,14 +1,50 @@
 {
-  "updated": "2025-11-07T18:46:29+00:00",
+  "updated": "2025-11-07T19:15:23+00:00",
   "items": [
     {
-      "id": "a3af3689c511c12b",
-      "title": "Former NFL MVP believes Jaxson Dart has surpassed Broncos' Bo Nix",
-      "link": "https://sportingnews.com/us/nfl/denver-broncos/news/former-mvp-believes-jaxson-dart-has-surpassed-broncos-bo-nix/e7f80aa6c64f12d2d12be3cd",
+      "id": "18cb5021cae8b37c",
+      "title": "Ravens' updated 53-man roster for Week 10 and following NFL trade deadline",
+      "link": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2025/11/07/ravens-53-man-roster-by-jersey-number-for-week-10-vs-the-vikings/87149464007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-07T18:41:28+0000",
-      "summary": "Has Dart shown enough in his rookie year to put himself ahead of Nix?"
+      "published": "2025-11-07T19:05:56+0000",
+      "summary": "With kickoff fast approaching, we're looking at the Ravens' 53-man roster by jersey number for Week 10 against the Minnesota Vikings"
+    },
+    {
+      "id": "511096d343ef9de6",
+      "title": "As the shutdown scraps NFL Veterans Day events, the President will attend Lions-Commanders",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-the-shutdown-scraps-nfl-veterans-day-events-the-president-will-attend-lions-commanders",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-07T19:03:50+0000",
+      "summary": "The ongoing shutdown of the federal government has had a wide variety of important consequences."
+    },
+    {
+      "id": "8f91e5ee8277be02",
+      "title": "The OTHER MVP Cases (Besides Jonathan Taylor)",
+      "link": "https://stampedeblue.com/nflgeneral/116786/the-other-mvp-cases-besides-jonathan-taylor",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-07T19:00:00+0000",
+      "summary": "Dear Stampede Blue Reader, As you might have noticed both on our dear SB Nation site and elsewhere on the internet, the conversation around Jonathan Taylor has changed dramatically as of late. From becoming the Offensive Player of the Year favorite a few weeks ago, to now being discussed as a legitimate MVP Candidate (if [&#8230;]"
+    },
+    {
+      "id": "90843702327cfae0",
+      "title": "ESPN predicts Rams to reach the Super Bowl",
+      "link": "https://turfshowtimes.com/los-angeles-rams-news/129652/rams-super-bowl-espn-midseason-predictions",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-07T19:00:00+0000",
+      "summary": "Can L.A. reach the Super Bowl in one of the most wide-open NFL seasons in recent memory?"
+    },
+    {
+      "id": "ec79fa6fe789cf5d",
+      "title": "President Donald Trump expected to attend Commanders-Lions game to celebrate NFL's 'Salute to Service' weekend",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/president-donald-trump-expected-to-attend-commanders-lions-game-to-celebrate-nfls-salute-to-service-weekend-185950045.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-07T18:59:50+0000",
+      "summary": "Trump is reportedly set to share a box with majority Commanders owner Josh Harris."
     },
     {
       "id": "e89d9a122fc4b225",
@@ -16,17 +52,8 @@
       "link": "https://espn.com/nfl/story/_/id/46883311/antonio-brown-waives-extradition-return-miami",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-07T18:40:14+0000",
+      "published": "2025-11-07T18:55:38+0000",
       "summary": "Former NFL player Antonio Brown will return to Miami from a New Jersey jail after deciding not to contest his extradition to Florida."
-    },
-    {
-      "id": "fcf94c5d90b7ed7a",
-      "title": "Colts DT Buckner headed to IR with neck injury",
-      "link": "https://espn.com/nfl/story/_/id/46883081/colts-dt-deforest-buckner-headed-ir-neck-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-07T18:40:14+0000",
-      "summary": "The Colts are placing starting defensive tackle DeForest Buckner on injured reserve with a neck injury, which will keep the veteran stalwart out of action for at least the next four games."
     },
     {
       "id": "c14409318fc7bbe8",
@@ -34,8 +61,17 @@
       "link": "https://espn.com/nfl/story/_/id/46883076/mark-sanchez-fox-sports-analyst-following-oct-arrest",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-07T18:40:14+0000",
+      "published": "2025-11-07T18:55:38+0000",
       "summary": "Mark Sanchez will not return as a Fox Sports analyst as the former NFL quarterback faces trial stemming from his alleged attack on a truck driver last month."
+    },
+    {
+      "id": "fcf94c5d90b7ed7a",
+      "title": "Colts DT Buckner headed to IR with neck injury",
+      "link": "https://espn.com/nfl/story/_/id/46883081/colts-dt-deforest-buckner-headed-ir-neck-injury",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-07T18:55:38+0000",
+      "summary": "The Colts are placing starting defensive tackle DeForest Buckner on injured reserve with a neck injury, which will keep the veteran stalwart out of action for at least the next four games."
     },
     {
       "id": "3cfb80803831dbe6",
@@ -43,26 +79,8 @@
       "link": "https://espn.com/nfl/story/_/id/46872426/sauce-gardner-colts-jerseys-young-fans-viral-video",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-07T18:40:14+0000",
+      "published": "2025-11-07T18:55:38+0000",
       "summary": "A video went viral this week of a father informing his two young sons that one of their favorite players had been traded, with one breaking into tears."
-    },
-    {
-      "id": "44f0dc31ceb984b1",
-      "title": "Fox Sports splits with ex-NFL QB Mark Sanchez after October arrest",
-      "link": "https://upi.com/Sports_News/NFL/2025/11/07/Fox-Sports-splits-Mark-Sanchez-arrest/6821762538708/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-07T18:35:13+0000",
-      "summary": "Former NFL quarterback Mark Sanchez is no longer employed as a Fox Sports analyst after his October arrest, the network confirmed to UPI on Friday."
-    },
-    {
-      "id": "351f637791e4460e",
-      "title": "Browns vs Jets Predictions, Picks & Best Bets for NFL Week 10",
-      "link": "https://covers.com/nfl/browns-vs-jets-predictions-picks-november-9-2025",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-07T18:28:00+0000",
-      "summary": "Get the best Browns vs. Jets predictions ahead of Sunday's clash at MetLife Stadium. Free NFL picks for November 9."
     },
     {
       "id": "6c5095ea875a320f",
@@ -380,15 +398,6 @@
       "summary": "What has gotten into Chris Ballard? Did he have an epiphany or…? The GM for the Indianapolis Colts doesn’t make mid-season trades. Ballard doesn’t give up two first round picks for anyone. Heck, he doesn’t make many moves at all. Ballard moves around the game board in a systematic way and almost never deviates. Getting [&#8230;]"
     },
     {
-      "id": "9f80ff7b03226b92",
-      "title": "New Colts CB Sauce Gardner ‘elevates everyone around him’ and will make Indy debut Sunday—if clears protocol",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/117400/colts-new-cb-sauce-garder-elevates-everyone-around-him-and-will-make-indy-debut-sunday-if-clears-protocol",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-05T20:32:13+0000",
-      "summary": "According to head coach Shane Steichen, new Indianapolis Colts cornerback Sauce Gardner “‘elevates everyone around him’“ as “his resume speaks for itself.” While the Colts gave up a steep price, including their next two first round picks and young wideout AD Mitchell, he’s not worried about the future as the Colts currently sit at 7-2, [&#8230;]"
-    },
-    {
       "id": "0b55a6be1cd96b13",
       "title": "For Josh Downs, letting Sauce Gardner wear No. 1 was an easy decision",
       "link": "https://colts.com/news/josh-downs-number-2-sauce-gardner-1-change-ohio-state-caleb-downs-colts",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-03T21:12:22+0000",
       "summary": "Colts Ring of Honor wide receiver Bill Brooks offers his thoughts on the Colts’ loss to the Pittsburgh Steelers and how the team can stay grounded yet positive as they prepare for Week 10."
-    },
-    {
-      "id": "82172368251d827e",
-      "title": "Berlin Game Watch Party at Indy's Rathskeller SOLD OUT!",
-      "link": "https://colts.com/news/2025-berlin-game-watch-party-at-indy-rathskeller-sold-out",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-03T18:00:00+0000",
-      "summary": "The Indianapolis Colts’ official 2025 Berlin Game Watch Party, presented by Bud Light, at The Rathskeller in downtown Indianapolis on Sun., Nov. 9, is sold out."
     }
   ],
   "links": [
