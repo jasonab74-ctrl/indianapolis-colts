@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-07T22:17:09+00:00",
+  "updated": "2025-11-07T22:40:14+00:00",
   "items": [
     {
       "id": "e89d9a122fc4b225",
@@ -7,17 +7,8 @@
       "link": "https://espn.com/nfl/story/_/id/46883311/antonio-brown-waives-extradition-return-miami",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-07T21:48:52+0000",
+      "published": "2025-11-07T22:30:42+0000",
       "summary": "Former NFL player Antonio Brown will return to Miami from a New Jersey jail after deciding not to contest his extradition to Florida on an attempted murder charge."
-    },
-    {
-      "id": "3cfb80803831dbe6",
-      "title": "🐎 Sauce signs Colts jerseys to young Jets fans",
-      "link": "https://espn.com/nfl/story/_/id/46872426/sauce-gardner-colts-jerseys-young-fans-viral-video",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-07T21:48:52+0000",
-      "summary": "A video went viral this week of a father informing his two young sons that one of their favorite players had been traded, with one breaking into tears."
     },
     {
       "id": "c14409318fc7bbe8",
@@ -25,8 +16,35 @@
       "link": "https://espn.com/nfl/story/_/id/46883076/mark-sanchez-fox-sports-analyst-following-oct-arrest",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-07T21:48:51+0000",
+      "published": "2025-11-07T22:30:42+0000",
       "summary": "Mark Sanchez will not return as a Fox Sports analyst as the former NFL quarterback faces trial stemming from his alleged attack on a truck driver last month."
+    },
+    {
+      "id": "3cfb80803831dbe6",
+      "title": "🐎 Sauce signs Colts jerseys to young Jets fans",
+      "link": "https://espn.com/nfl/story/_/id/46872426/sauce-gardner-colts-jerseys-young-fans-viral-video",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-07T22:30:42+0000",
+      "summary": "A video went viral this week of a father informing his two young sons that one of their favorite players had been traded, with one breaking into tears."
+    },
+    {
+      "id": "05a4c2f8c02ef76a",
+      "title": "Sauce Gardner Sends His New Colts Jersey to Brothers Who Went Viral for Crying Over His Trade",
+      "link": "https://people.com/sauce-gardner-sends-new-colts-jersey-brothers-who-went-viral-crying-over-trade-11846135",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-07T22:13:05+0000",
+      "summary": "The cornerback was traded to Indianapolis after three-plus seasons with the New York Jets"
+    },
+    {
+      "id": "dbb403db85118b6d",
+      "title": "Joel Klatt believes Arch Manning is not ready for the NFL any time soon",
+      "link": "https://sportingnews.com/us/ncaa-football/texas/news/joel-klatt-believes-arch-manning-not-ready-nfl-any-time-soon/35f5e32965c310c63be4d3bc",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-07T22:11:04+0000",
+      "summary": "Arch could remain in college through 2027."
     },
     {
       "id": "445f749cd0721b8b",
@@ -120,7 +138,7 @@
     },
     {
       "id": "92a94801f194532c",
-      "title": "Colts Cheerleaders Prepare to Take Entire Squad Overseas For The First Time",
+      "title": "Colts cheerleaders prepare to take entire squad overseas for the first time",
       "link": "https://fox59.com/morning-news/colts-cheerleaders-prepare-to-take-entire-squad-overseas-for-the-first-time/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-03T18:00:00+0000",
       "summary": "The Indianapolis Colts’ official 2025 Berlin Game Watch Party, presented by Bud Light, at The Rathskeller in downtown Indianapolis on Sun., Nov. 9, is sold out."
-    },
-    {
-      "id": "5d83934f435312f4",
-      "title": "Around the AFC South: Colts remain first in division after Week 9 loss to Steelers",
-      "link": "https://colts.com/news/around-the-afc-south-colts-first-division-texans-cj-stroud-jaguars-trevor-lawrence-titans-cam-ward",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-03T17:30:32+0000",
-      "summary": "The Houston Texans and Tennessee Titans both lost on Sunday and the Jacksonville Jaguars squeezed out a win in overtime."
-    },
-    {
-      "id": "c4b1db9ffaebd7af",
-      "title": "Blue Zone Countdown to Berlin: Heidelberg Haus",
-      "link": "https://fox59.com/sports/colts/blue-zone-countdown-to-berlin-heidelberg-haus/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-03T15:24:18+0000",
-      "summary": "INDIANAPOLIS - The Colts will have an early kickoff on Sunday as they play in Germany for the second time in three seasons. They meet Atlanta at 9:30 a.m. at the Olympic Stadium in Berlin. Heidelberg Haus is a German cafe, bakery and gift shop on Indianapolis' east side. Store manager Angela Corkwell has ideas [...]"
     }
   ],
   "links": [
