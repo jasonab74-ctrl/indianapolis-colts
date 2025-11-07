@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-07T09:19:19+00:00",
+  "updated": "2025-11-07T09:40:21+00:00",
   "items": [
+    {
+      "id": "c1368d72be7a58e8",
+      "title": "Ex-NFL star extradited to US to face shooting charge",
+      "link": "https://bbc.com/sport/american-football/articles/cq83gnlvz42o",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-07T09:16:26+0000",
+      "summary": "Former NFL star Antonio Brown is extradited from Dubai to the United States to face a charge of second degree attempted murder relating to a shooting incident in May."
+    },
     {
       "id": "aaa348441b1b8b55",
       "title": "NFL Draft QB rankings: Resetting stock for Fernando Mendoza, Ty Simpson and more in odd 2026 class",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-03T13:50:54+0000",
       "summary": "The Indianapolis Colts saw their four-game winning streak snapped after a 27-20 loss to the Pittsburgh Steelers. Turnovers were the theme--Indy had six of them on the day, including three interceptions and two fumbles lost. The Steelers defense, a unit that had been maligned all season, found its way, putting constant pressure on Daniel Jones [...]"
-    },
-    {
-      "id": "ccc1eccb042bb7aa",
-      "title": "Quenton Nelson after latest Colts’ loss in Pittsburgh: ‘Losing makes you better . . . as long as you learn from it’",
-      "link": "https://fox59.com/sports/colts/quenton-nelson-after-latest-colts-loss-in-pittsburgh-losing-makes-you-better-as-long-as-you-learn-from-it/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-03T01:27:43+0000",
-      "summary": "INDIANAPOLIS – It’s hyperbole – you know, hot-take conversation – to question the veracity of a team with an NFL-best 7-2 record. That’s who the Indianapolis Colts remained as they headed home Sunday evening after their latest face-plant against the Steelers in Pittsburgh. They’ve still won just twice in forever in the Steel City: 2-18. [...]"
     }
   ],
   "links": [
