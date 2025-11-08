@@ -1,14 +1,32 @@
 {
-  "updated": "2025-11-08T22:15:22+00:00",
+  "updated": "2025-11-08T22:38:37+00:00",
   "items": [
     {
-      "id": "a7fe760572e7a896",
-      "title": "NFL indirectly admits error on Jack Campbell’s roughing the passer penalty",
-      "link": "https://prideofdetroit.com/detroit-lions-news/148145/nfl-indirectly-admits-error-on-jack-campbells-roughing-the-passer-penalty",
+      "id": "326838d6176334a7",
+      "title": "Browns to face WR on Sunday they almost traded for this week",
+      "link": "https://dawgsbynature.com/cleveland-browns-news/108692/cleveland-browns-reportedly-tried-to-trade-for-adonai-mitchell",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-08T22:00:00+0000",
-      "summary": "﻿Lions linebacker Jack Campbell was incorrectly called for roughing the passer, as the NFL did not fine him."
+      "published": "2025-11-08T22:27:44+0000",
+      "summary": "Cleveland reportedly offered a draft pick to the Colts for Adonai Mitchell before he was traded to the Jets."
+    },
+    {
+      "id": "07161ddf80ee50f2",
+      "title": "NFL teams to hold moment of silence for Marshawn Kneeland before Week 10 games",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-teams-to-hold-moment-of-silence-for-marshawn-kneeland-before-week-10-games-221556940.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-08T22:15:56+0000",
+      "summary": "The Cowboys defensive end died this week at the age of 24."
+    },
+    {
+      "id": "a0a6fdd61ea28f0d",
+      "title": "Rico Dowdle fined $14,491 for &quot;two-pump&quot; celebration",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/rico-dowdle-fined-14-491-for-two-pump-celebration",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-08T22:15:45+0000",
+      "summary": "Panthers running back Rico Dowdle said he was fined for his &quot;two-pump&quot; touchdown celebration during the week and the NFL confirmed it on Saturday."
     },
     {
       "id": "e076c10caf0923df",
@@ -29,24 +47,6 @@
       "summary": "A video went viral this week of a father informing his two young sons that one of their favorite players had been traded, with one breaking into tears."
     },
     {
-      "id": "906d666bb51b787a",
-      "title": "Marshawn Kneeland dies at 24: Cowboys, NFL mourn sudden passing of Dallas defensive end",
-      "link": "https://sportingnews.com/us/nfl/dallas-cowboys/news/marshawn-kneeland-dies-cowboys-nfl-dallas/77f093cea762b434f5369e1c",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-08T21:51:00+0000",
-      "summary": "The NFL world is mourning the shocking death of Cowboys DE Marshawn Kneeland at the age of 24."
-    },
-    {
-      "id": "2f91b9903fe2a30d",
-      "title": "Steelers DB Jalen Ramsey fined more than $17k for hit on Michael Pittman Jr.",
-      "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/11/08/steelers-jalen-ramsey-fined-michael-pittman-nfl-colts/87171258007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-08T21:47:59+0000",
-      "summary": "The NFL handed out a pretty significant fine to Steelers defensive back Jalen Ramsey for his big hit on Colts wide receiver Michael Pittman Jr. last week."
-    },
-    {
       "id": "445f749cd0721b8b",
       "title": "Seattle Seahawks surge in Madden NFL 26 Week 9 ratings update",
       "link": "https://espn.com/gaming/story/_/id/46884656/madden-nfl-26-week-9-ratings-update-seattle-seahawks",
@@ -63,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-11-08T21:06:25+0000",
       "summary": "Will J.J. McCarthy work more outside the pocket? How will Sauce Gardner fare in his Colts debut? Upset brewing in Patriots-Bucs? Here's what to know for Week 10."
-    },
-    {
-      "id": "ca2e81cadcd18f0f",
-      "title": "Colts hope they found the secret “sauce” to a championship run",
-      "link": "https://stampedeblue.com/analysis/117533/colts-hope-they-found-the-secret-sauce-to-a-championship-run",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-08T18:37:52+0000",
-      "summary": "No, that isn’t Josh Downs out there. A new number one has joined the Indianapolis Colts and is slated to be the number one starting cornerback for years to come. A position that is essential in football is now locked down and will look to lock down the game’s top receivers. Sauce Gardner came at [&#8230;]"
     },
     {
       "id": "bfa08437962c48bb",
@@ -342,6 +333,15 @@
       "feed": "Stampede Blue",
       "published": "2025-11-06T14:15:23+0000",
       "summary": "If you boil this down to courtroom style and berate me as a witness, I will give you a simple “Yes, we made the right decision” answer. If you have the opportunity to bring in this sort of difference maker, during a season where the conference seems more up for grabs than any year in [&#8230;]"
+    },
+    {
+      "id": "88408df61e9879ca",
+      "title": "Are Sauce Gardner’s penalty issues overblown?",
+      "link": "https://stampedeblue.com/analysis/117426/are-sauce-gardners-penalty-issues-overblown",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-06T13:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts had been desperate for competent cornerback play in recent years. From BoPete Keyes and Anthony Chesley in primetime to the entire room being ravaged by injury, the cornerback experience under general manager Chris Ballard had seen better days — then again, it hadn’t. Veteran acquisitions Xavier Rhodes and Stephon [&#8230;]"
     },
     {
       "id": "587d8c8c15d10c73",
