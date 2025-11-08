@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-08T23:15:42+00:00",
+  "updated": "2025-11-08T23:36:15+00:00",
   "items": [
+    {
+      "id": "f7e979e3aacfe81d",
+      "title": "NFL fines Rashod Bateman $25,154 for verbal abuse of official",
+      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-rashod-bateman-25-154-for-verbal-abuse-of-official",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-08T23:11:34+0000",
+      "summary": "Last Thursday night, Ravens receiver Rashod Bateman took issue with the failure of an official to throw a penalty after a pass play during which Bateman believed he was held by a Dolphins defender."
+    },
     {
       "id": "4adfcd84660ea3b3",
       "title": "Winners, losers of a wild NFL trade deadline: Solak weighs in on the Jets, Cowboys and Jakobi Meyers",
@@ -20,15 +29,6 @@
       "summary": "We graded NFL trade deadline deals, including Sauce Gardner, Quinnen Williams and Rashid Shaheed moves."
     },
     {
-      "id": "db0ff8b82b2401a0",
-      "title": "NFL fines Texans LB Azeez Al-Shaair, again",
-      "link": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-texans-lb-azeez-al-shaair-again",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-08T22:56:18+0000",
-      "summary": "Three weeks ago, Texans linebacker Azeez Al-Shaair was flagged for unnecessary roughness but wasn't fined."
-    },
-    {
       "id": "e076c10caf0923df",
       "title": "Poll: Mendoza top vote-getter as NFL draft's QB1",
       "link": "https://espn.com/college-football/story/_/id/46890526/poll-mendoza-top-vote-getter-qb1-upcoming-nfl-draft",
@@ -45,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-11-08T22:51:42+0000",
       "summary": "A video went viral this week of a father informing his two young sons that one of their favorite players had been traded, with one breaking into tears."
-    },
-    {
-      "id": "64ca7976964722c4",
-      "title": "Highlights! Former NFL player Josh Hokit delivers violent debut knockout, cuts WWE-inspired post-fight promo | UFC Vegas 111",
-      "link": "https://mmamania.com/ufc-espn-plus-fight-pass-events-schedule-mma/401271/ufc-vegas-111-video-highlights-results-espn-hokit-knockout-gimenis-walker",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-08T22:41:07+0000",
-      "summary": "Former NFL tight end Josh Hokit delivered as promised earlier tonight (Sat., Nov. 8, 2025) at UFC Vegas 111 LIVE on ESPN+ from inside UFC Apex in Las Vegas, Nevada, taking out fellow heavyweight debutant Max Gimenis with a 56-second TKO (punches). There was a reason that Hokit was the biggest favorite on UFC Vegas […]"
     },
     {
       "id": "445f749cd0721b8b",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-03T18:00:00+0000",
       "summary": "The Indianapolis Colts’ official 2025 Berlin Game Watch Party, presented by Bud Light, at The Rathskeller in downtown Indianapolis on Sun., Nov. 9, is sold out."
+    },
+    {
+      "id": "5d83934f435312f4",
+      "title": "Around the AFC South: Colts remain first in division after Week 9 loss to Steelers",
+      "link": "https://colts.com/news/around-the-afc-south-colts-first-division-texans-cj-stroud-jaguars-trevor-lawrence-titans-cam-ward",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-03T17:30:32+0000",
+      "summary": "The Houston Texans and Tennessee Titans both lost on Sunday and the Jacksonville Jaguars squeezed out a win in overtime."
     }
   ],
   "links": [
