@@ -1,14 +1,41 @@
 {
-  "updated": "2025-11-09T23:15:52+00:00",
+  "updated": "2025-11-09T23:36:57+00:00",
   "items": [
     {
-      "id": "246cf063854cb364",
-      "title": "Ex-NFL commissioner Tagliabue dies at age 84",
-      "link": "https://espn.com/nfl/story/_/id/46905612/former-nfl-commissioner-paul-tagliabue-dies-age-84",
+      "id": "7836a67414d624fb",
+      "title": "Colts’ follow record-setting Jonathan Taylor to OT win over Falcons in Berlin’s historic Olympic Stadium",
+      "link": "https://fox59.com/sports/colts-follow-record-setting-jonathan-taylor-to-ot-win-over-falcons-in-berlins-historic-olympic-stadium/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-09T23:29:07+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts went international. Jonathan Taylor went off. “Look,’’ said Zaire Franklin. “I’ll scream it from the mountaintops. “He’s the MVP in my book.’’ “It’s phenomenal the way he’s been running,’’ added Shane Steichen. In the NFL’s first game at Berlin’s historic Olympic Stadium on Sunday, Taylor’s brilliance carried the Colts when [...]"
+    },
+    {
+      "id": "9699f58e27bab3d7",
+      "title": "Jets' petty post aimed at state of Ohio leads NFL Week 10 trolls",
+      "link": "https://espn.com/nfl/story/_/id/46906231/nfl-week-10-trolls",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-09T23:10:22+0000",
-      "summary": "Paul Tagliabue, who served as NFL commissioner for 17 seasons as the league experienced tremendous prosperity and growth, died Sunday morning at the age of 84, his family announced."
+      "published": "2025-11-09T23:27:52+0000",
+      "summary": "Week 10 of the NFL season brought its fair share of trolls once again, led by the New York Jets."
+    },
+    {
+      "id": "d096a92ccf8299c4",
+      "title": "NFL Week 10's fashionable arrivals, featuring Rams QB Matthew Stafford",
+      "link": "https://espn.com/nfl/story/_/id/46874989/nfl-week-10-fashionable-arrivals-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-09T23:27:52+0000",
+      "summary": "NFL stars didn't just show up to play -- they showed up in style. Here are this week's best looks."
+    },
+    {
+      "id": "a51f0652beb74654",
+      "title": "Five Bears whose stock went up or down in NFL Week 10 win vs Giants",
+      "link": "https://marqueesportsnetwork.com/chicago-bears-stock-watch-analysis-nfl-week-10-new-york-giants/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-09T23:25:17+0000",
+      "summary": "Nicholas Moreano identifies five Chicago Bears players whose stock rose or fell in an incredible Week 10 win over the New York Giants. The post Five Bears whose stock went up or down in NFL Week 10 win vs Giants appeared first on Marquee Sports Network - Home of the Cubs, Bears, Red Stars and Sky."
     },
     {
       "id": "dda85c1511e0d512",
@@ -16,8 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/46907917/jonathan-taylor-244-yards-3-tds-carry-colts-again",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-09T23:10:22+0000",
+      "published": "2025-11-09T23:23:31+0000",
       "summary": "Jonathan Taylor ran for 244 yards, set the Colts touchdown record and scored a walk-off TD in overtime that allowed Indy to pull off a 31-25 win over the Falcons in Berlin on Sunday."
+    },
+    {
+      "id": "246cf063854cb364",
+      "title": "Ex-NFL commissioner Tagliabue dies at age 84",
+      "link": "https://espn.com/nfl/story/_/id/46905612/former-nfl-commissioner-paul-tagliabue-dies-age-84",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-09T23:23:31+0000",
+      "summary": "Paul Tagliabue, who served as NFL commissioner for 17 seasons as the league experienced tremendous prosperity and growth, died Sunday morning at the age of 84, his family announced."
     },
     {
       "id": "31791ae81b279f29",
@@ -25,17 +61,17 @@
       "link": "https://espn.com/nfl/story/_/id/46857940/nfl-midseason-predictions-2025-playoffs-mvp-draft-super-bowl-records-stats",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-09T23:10:22+0000",
+      "published": "2025-11-09T23:23:31+0000",
       "summary": "Can the Bucs reach the Super Bowl? Will Myles Garrett win DPOY? We asked 15 experts to give their predictions for the rest of the NFL season."
     },
     {
-      "id": "a3b600dc28ab1279",
-      "title": "NFL makes successful return to Berlin, 35 years on",
-      "link": "https://sports.yahoo.com/article/nfl-makes-successful-return-berlin-230141111.html",
+      "id": "6184362b9dc6dfdd",
+      "title": "NFL Week 11 Opening Odds: Buccaneers at Bills",
+      "link": "https://bucsnation.com/tampa-bay-buccaneers-odds/66106/nfl-week-11-opening-odds-gambling-buccaneers-bills-josh-allen-patriots",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-09T23:01:41+0000",
-      "summary": "When Indianapolis Colts kicker Michael Badgley kicked a last-gasp field goal to send Sunday's NFL match to overtime, the Berlin crowd understood the significance, even if many were watching live for the first time.In overtime, Atlanta had the ball first but Indianapolis won it back, marched up the field and let Jonathan Taylor claim the match 31-25 with his third touchdown."
+      "published": "2025-11-09T23:21:47+0000",
+      "summary": "Lines are set for Tampa Bay’s matchup against the Buffalo Bills."
     },
     {
       "id": "4adfcd84660ea3b3",
@@ -54,15 +90,6 @@
       "feed": "ESPN",
       "published": "2025-11-09T22:57:33+0000",
       "summary": "We graded NFL trade deadline deals, including Sauce Gardner, Quinnen Williams and Rashid Shaheed moves."
-    },
-    {
-      "id": "19ab63b604f266ae",
-      "title": "Florida NFL wrapup: Dolphins shock Bills, Jaguars blow largets lead in franchise history",
-      "link": "https://jacksonville.com/story/sports/2025/11/09/dolphins-stun-bills-jaguars-buccaneers-lose-nfl-wrapup-video/85247531007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-09T22:55:56+0000",
-      "summary": "The Dolphins led wire-to-wire in defeating Buffalo, while the Jaguars blew a 29-10 fourth-quarter lead and the Buccaneers lost to New England."
     },
     {
       "id": "4d9053561480ae99",
@@ -171,24 +198,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-09T16:33:08+0000",
       "summary": "Early in the third quarter in Berlin, Germany, Indianapolis Colts starting nose tackle Grover Stewart collided with Atlanta Falcons running back Tyler Allgeier and is now being evaluated for a concussion. Stewart was down on the field for a bit before heading to the Colts’ sideline medical tent. Not only is Stewart’s potential absence a [&#8230;]"
-    },
-    {
-      "id": "1385eabff508e912",
-      "title": "Giants' 'Vintage White,' Broncos' throwbacks lead NFL Week 10 uniforms",
-      "link": "https://espn.com/nfl/story/_/id/46850079/nfl-2025-week-10-uniforms",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-09T16:28:04+0000",
-      "summary": "The New York Giants are bringing back a classic uniform for Week 10 of the NFL season."
-    },
-    {
-      "id": "d096a92ccf8299c4",
-      "title": "NFL Week 10's fashionable arrivals, featuring Rams QB Matthew Stafford",
-      "link": "https://espn.com/nfl/story/_/id/46874989/nfl-week-10-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-09T16:28:03+0000",
-      "summary": "NFL stars didn't just show up to play -- they showed up in style. Here are this week's best looks."
     },
     {
       "id": "50e948384144964f",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-04T21:20:04+0000",
       "summary": "The Colts made the biggest splash before the NFL's trade deadline hit at 4 p.m. Tuesday in acquiring cornerback Sauce Gardner from the New York Jets."
-    },
-    {
-      "id": "2358c85b98a5334e",
-      "title": "5 Colts Things: How blockbuster Sauce Gardner trade impacts secondary, defense and 2025 outlook",
-      "link": "https://colts.com/news/5-colts-things-how-blockbuster-sauce-gardner-trade-impacts-secondary-defense-and-2025-outlook",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-04T20:34:06+0000",
-      "summary": ""
     }
   ],
   "links": [
