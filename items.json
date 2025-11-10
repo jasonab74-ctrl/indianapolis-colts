@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-10T10:21:45+00:00",
+  "updated": "2025-11-10T10:46:16+00:00",
   "items": [
     {
       "id": "2a5be8aef717cb9c",
@@ -9,6 +9,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-10T10:10:55+0000",
       "summary": "The NFL's new overtime rule has changed the strategy on what to do when winning the coin toss."
+    },
+    {
+      "id": "6e36150e2a0d3e19",
+      "title": "Tagliabue’s NFL legacy included a passionate embrace of diversity",
+      "link": "https://usatoday.com/story/sports/nfl/columnist/bell/2025/11/10/former-nfl-commissioner-paul-tagliabue-embrace-of-diversity/87190800007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-10T10:09:14+0000",
+      "summary": "The former NFL commissioner had a special bond with Raiders coach Art Shell – and his barrier-breaking history."
     },
     {
       "id": "955c96f6dc1d8b34",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-04T21:20:04+0000",
       "summary": "The Colts made the biggest splash before the NFL's trade deadline hit at 4 p.m. Tuesday in acquiring cornerback Sauce Gardner from the New York Jets."
-    },
-    {
-      "id": "2358c85b98a5334e",
-      "title": "5 Colts Things: How blockbuster Sauce Gardner trade impacts secondary, defense and 2025 outlook",
-      "link": "https://colts.com/news/5-colts-things-how-blockbuster-sauce-gardner-trade-impacts-secondary-defense-and-2025-outlook",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-04T20:34:06+0000",
-      "summary": ""
     }
   ],
   "links": [
