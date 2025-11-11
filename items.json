@@ -1,77 +1,32 @@
 {
-  "updated": "2025-11-11T04:44:49+00:00",
+  "updated": "2025-11-11T05:19:05+00:00",
   "items": [
     {
-      "id": "51b0e159e3520d73",
-      "title": "NFL power rankings: Patriots, Seahawks, Lions leap; Bills, 49ers, Steelers drop for Week 11",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-power-rankings-patriots-seahawks-lions-bills-49ers-steelers/38af7200a5a6e4d51dbe27ca",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:28:10+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 10 of the 2025 NFL regular season? Here's an updated look from best to worst."
+      "id": "3a9af28d138d730c",
+      "title": "Let's overreact to NFL Week 10: Taylor could break multiple records? Commanders' season is over?",
+      "link": "https://espn.com/nfl/story/_/id/46906383/nfl-week-10-overreactions-fantasy-colts-bills-broncos-rams-seahawks-commanders",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-11T04:42:44+0000",
+      "summary": "We sized up Jonathan Taylor's amazing season, the Commanders' tumble, the Bills' disastrous loss and two tight division races, plus fantasy football takes."
     },
     {
-      "id": "e3dcf53f525c6eea",
-      "title": "NFL playoff picture: Updated AFC, NFC standings after Week 10 of 2025 season",
-      "link": "https://sportingnews.com/us/nfl/news/nfl-playoff-picture-afc-nfc-standings-week-10/0fcd7fa9de48453da156af04",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:26:00+0000",
-      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 10, from top seeds to final wild cards in both conferences."
+      "id": "c81943bada9cab7b",
+      "title": "Best, worst of Week 10: Steelers' offense crumbles, plus meltdowns by Jags and Giants",
+      "link": "https://espn.com/nfl/story/_/id/46871735/nfl-week-10-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-11T04:42:44+0000",
+      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 10."
     },
     {
-      "id": "62df2b7a65e3dd48",
-      "title": "NFL Power Rankings entering Week 11: Patriots are a true contender, not just a bad-schedule merchant",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-11-patriots-are-a-true-contender-not-just-a-bad-schedule-merchant-042530896.html",
+      "id": "03e82e456daf41fd",
+      "title": "NFL playoff picture: What Eagles win over Packers means for conference standings",
+      "link": "https://sportingnews.com/us/nfl/news/nfl-playoff-picture-eagles-win-packers-conference-standings/5f30b7ecd160d2f43d6cfdf7",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:25:30+0000",
-      "summary": "Sunday’s win over a good Bucs team should put to rest the skepticism about the Patriots (8-2) just feasting on an easy schedule."
-    },
-    {
-      "id": "1b72ddee8f7f819a",
-      "title": "NFL playoff picture: Detroit Lions retake NFC North lead",
-      "link": "https://prideofdetroit.com/detroit-lions-news/148527/nfl-playoff-picture-detroit-lions-retake-nfc-north-lead",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:24:44+0000",
-      "summary": "Welcome back to first place, Detroit Lions. A full look at the NFC playoff picture after Week 10."
-    },
-    {
-      "id": "d55ce02b45cbec70",
-      "title": "Instant Observations from Eagles 10 Packers 7: DeVonta Smith TD makes dominant defensive performance stand",
-      "link": "https://allphly.com/instant-observations-from-philadelphia-eagles-10-green-bay-packers-7-devonta-smith-td-makes-dominant-defensive-perfmance-stand/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:24:39+0000",
-      "summary": "Maybe YouTube TV was not missing out on much? In one of the most-anticipated matchups of the 2025 NFL season, the 6-2 Philadelphia Eagles traveled to Lambeau Field to take..."
-    },
-    {
-      "id": "2eb4a1133bdf9921",
-      "title": "NFL grades for each team in Week 10",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/11/10/nfl-report-card-team-grades-week-10-packers-eagles/87151537007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:22:48+0000",
-      "summary": "Week 10 is in the book. What teams performed well and which ones turned in stinkers and got bad grades?"
-    },
-    {
-      "id": "aac10b0c23da695a",
-      "title": "Why the Giants fired Brian Daboll and kept Joe Schoen: NFL sources see a desirable job open",
-      "link": "https://sny.tv/articles/why-giants-fired-brian-daboll-joe-schoen",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:12:02+0000",
-      "summary": "Monday's Brian Daboll firing is nothing like what the New York Giants went through with former coaches Pat Shurmur or Joe Judge."
-    },
-    {
-      "id": "9a70a7f96d302091",
-      "title": "Best of NFL Week 10 in photos",
-      "link": "https://thelistwire.usatoday.com/story/sports/2025/11/10/nfl-week-10-photos-bills-packers-eagles/87205400007/",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-11T04:10:26+0000",
-      "summary": "NFL Week 10 photo rundown of each game."
+      "published": "2025-11-11T04:40:31+0000",
+      "summary": "Here is a look at the NFC playoff picture coming out of Week 10 as the Eagles beat the Packers."
     },
     {
       "id": "222d796f66ba0835",
@@ -93,12 +48,12 @@
     },
     {
       "id": "9699f58e27bab3d7",
-      "title": "'This is worthless': Chargers' post on Steelers' Terrible Towels leads NFL Week 10 trolls",
+      "title": "'Go Birds Go': Eagles' post aimed at Packers leads NFL Week 10 trolls",
       "link": "https://espn.com/nfl/story/_/id/46906231/nfl-week-10-trolls",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-11-10T23:59:27+0000",
-      "summary": "Week 10 of the NFL season brought its fair share of trolls once again, led by the Los Angeles Chargers."
+      "summary": "Week 10 of the NFL season brought its fair share of trolls once again, led by the Philadelphia Eagles."
     },
     {
       "id": "d096a92ccf8299c4",
@@ -135,24 +90,6 @@
       "feed": "ESPN",
       "published": "2025-11-10T21:06:57+0000",
       "summary": "We put all 32 NFL teams into tiers based on their likelihood of making the postseason."
-    },
-    {
-      "id": "c81943bada9cab7b",
-      "title": "Best, worst of Week 10: Steelers' offense crumbles, plus meltdowns by Jags and Giants",
-      "link": "https://espn.com/nfl/story/_/id/46871735/nfl-week-10-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-10T21:01:02+0000",
-      "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 10."
-    },
-    {
-      "id": "3a9af28d138d730c",
-      "title": "Let's overreact to NFL Week 10: Taylor could break multiple records? Commanders' season is over?",
-      "link": "https://espn.com/nfl/story/_/id/46906383/nfl-week-10-overreactions-fantasy-colts-bills-broncos-rams-seahawks-commanders",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-10T21:01:01+0000",
-      "summary": "We sized up Jonathan Taylor's amazing season, the Commanders' tumble, the Bills' disastrous loss and two tight division races, plus fantasy football takes."
     },
     {
       "id": "652843cade2948e6",
@@ -540,6 +477,69 @@
       "feed": "Colts.com",
       "published": "2025-11-06T20:49:46+0000",
       "summary": "Buckner (neck) was ruled out on Thursday and will not travel with the team to Berlin."
+    },
+    {
+      "id": "dd468372f5101233",
+      "title": "Colts Blue Zone Podcast 439: Sauce Gardner Trade; Colts-Falcons in Berlin",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-439-sauce-gardner-trade-colts-falcons-in-berlin/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-06T19:37:39+0000",
+      "summary": "The Indianapolis Colts sent a shockwave through the NFL by trading two first-round picks and AD Mitchell to the New York Jets in exchange for elite cornerback Sauce Gardner. Dave Griffiths, Mike Chappell and Matt Adams discuss the trade and Indy's upcoming game against the Atlanta Falcons in Berlin. NOTE: As the podcast was being [...]"
+    },
+    {
+      "id": "2b3a0bc7cd3b88df",
+      "title": "Sauce Gardner confident and fully prepared to 'go out there and ball' in Colts debut",
+      "link": "https://colts.com/news/sauce-gardner-colts-debut-week-10-atlanta-falcons-cornerback-trade-jets-lou-anarumo",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-06T18:40:30+0000",
+      "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
+    },
+    {
+      "id": "587d8c8c15d10c73",
+      "title": "The Colts Show Mailbag: Preparing for playing in Berlin, sustaining first half success, Sauce Gardner trade",
+      "link": "https://colts.com/news/the-colts-show-mailbag-preparing-for-playing-in-berlin-sustaining-first-half-success-sauce-gardner-trade",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-06T11:46:30+0000",
+      "summary": "The Colts Show Mailbag returns for Week 10 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
+    },
+    {
+      "id": "9bd162ab7e1240c1",
+      "title": "Team Sauce (Alec Pierce, Sauce Gardner) reunited by Colts’ blockbuster trade",
+      "link": "https://fox59.com/sports/colts/team-sauce-alec-pierce-sauce-gardner-reunited-by-colts-blockbuster-trade/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-05T23:09:04+0000",
+      "summary": "INDIANAPOLIS – Alec Pierce was quick to set the record straight. Despite what you’ve seen and heard, he never requested going one-on-one against Sauce Gardner while they were friends/ultra-competitive teammates at the University of Cincinnati. “I’m not completely sure where that quote came from,’’ Pierce said Wednesday afternoon. “I don’t know if I ever really [...]"
+    },
+    {
+      "id": "d1647d4a078eaaa7",
+      "title": "How Daniel Jones, Colts offense can benefit from arrival of Sauce Gardner",
+      "link": "https://colts.com/news/daniel-jones-colts-offense-shane-steichen-sauce-gardner-defense-cornerback-complementary-football",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-05T22:05:54+0000",
+      "summary": "The Colts take pride in their ability to play complementary football, and Gardner’s presence will only help continue that trend."
+    },
+    {
+      "id": "22a54e8395cc6059",
+      "title": "Practice Notebook: Sauce Gardner in concussion protocol ahead of Colts Week 10 game vs. Falcons",
+      "link": "https://colts.com/news/practice-notebook-sauce-gardner-concussion-protocol-colts-week-10-atlanta-falcons-berlin-nfl",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-05T20:55:59+0000",
+      "summary": "Gardner missed the New York Jets’ Week 8 game with a concussion and the Jets had a bye week in Week 9; Gardner must clear protocol to be able to play in the Colts’ Week 10 game."
+    },
+    {
+      "id": "0b55a6be1cd96b13",
+      "title": "For Josh Downs, letting Sauce Gardner wear No. 1 was an easy decision",
+      "link": "https://colts.com/news/josh-downs-number-2-sauce-gardner-1-change-ohio-state-caleb-downs-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-05T19:48:26+0000",
+      "summary": "Downs will begin wearing No. 2 this weekend; Gardner has worn No. 1 since entering the NFL in 2022."
     }
   ],
   "links": [
