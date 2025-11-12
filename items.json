@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-12T09:20:29+00:00",
+  "updated": "2025-11-12T09:42:21+00:00",
   "items": [
+    {
+      "id": "48d8ac7494922dc1",
+      "title": "Ex-NFL star Brown pleads not guilty to shooting charge",
+      "link": "https://bbc.com/sport/american-football/articles/c2emyl9xrd4o",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T09:20:56+0000",
+      "summary": "Former NFL wide receiver Antonio Brown pleads not guilty to second-degree attempted murder in relation to a shooting incident in May."
+    },
     {
       "id": "9909044ab6246330",
       "title": "Is the top of the AFC shifting? Cases for the Colts, Broncos, Patriots and Chargers.",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-05T18:45:24+0000",
       "summary": "The Colts acquired two-time All-Pro cornerback Sauce Gardner in a trade with the New York Jets on Tuesday."
-    },
-    {
-      "id": "fa247a9d548fdc4f",
-      "title": "Colts’ reaction to adding Sauce Gardner? 'Fired up, excited'",
-      "link": "https://fox59.com/sports/colts/colts-reaction-to-adding-sauce-gardner-fired-up-excited/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-05T17:41:08+0000",
-      "summary": "INDIANAPOLIS – The initial reaction to adding an elite player to a team with the best record in the NFL was predictable. Shane Steichen’s response when Chris Ballard told him a few weeks ago he working on a trade with the New York Jets that would deliver Sauce Gardner to the Indianapolis Colts? “Pure excitement,” [...]"
     }
   ],
   "links": [
