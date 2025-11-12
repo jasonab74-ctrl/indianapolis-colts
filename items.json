@@ -1,23 +1,41 @@
 {
-  "updated": "2025-11-12T22:38:42+00:00",
+  "updated": "2025-11-12T23:18:05+00:00",
   "items": [
+    {
+      "id": "6a9098abc5879d5e",
+      "title": "Marshawn Kneeland’s NFL Coach Says ‘Of Course’ He Questions If He Missed Warning Signs Before Death",
+      "link": "https://globemagazine.com/marshawn-kneelands-nfl-coach-says-of-course-he-questions-if-he-missed-warning-signs-before-death/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T22:49:53+0000",
+      "summary": "Dallas Cowboys Head Coach Brian Schottenheimer spoke to reporters on Wednesday, November 12 about how the team is coping with the shocking death of Marshawn Kneeland. “We got a phone call and of course in the moment, we had reason to be concerned about Marshawn, so we moved forward with what we thought was the […]"
+    },
+    {
+      "id": "d3fe652d800ec5a3",
+      "title": "Four Verts: Giants got it half right, while Mike McDaniel might quietly be saving his job in Miami",
+      "link": "https://sports.yahoo.com/nfl/article/four-verts-giants-got-it-half-right-while-mike-mcdaniel-might-quietly-be-saving-his-job-in-miami-224735219.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T22:47:35+0000",
+      "summary": "In this week's edition, Charles McDonald shakes his head at New York's half measure and wants his money back for the NFL's last two weeks of prime-time games."
+    },
     {
       "id": "70e8f4ef5067eee4",
       "title": "📈 Power Rankings: Each team's non-QB MVP",
       "link": "https://espn.com/nfl/story/_/id/46917721/nfl-week-11-power-rankings-poll-32-teams-2025-non-quarterback-most-valuable-player",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-12T22:15:12+0000",
+      "published": "2025-11-12T22:47:34+0000",
       "summary": "Let's update our NFL Power Rankings ahead of Week 11. Plus, we picked every team's MVP -- not including quarterbacks."
     },
     {
-      "id": "87cc812a8cee28af",
-      "title": "Denver Broncos Players ‘Concerned’ About Team’s Offense with Bo Nix",
-      "link": "https://sportsnaut.com/nfl/denver-broncos-players-concerned-about-teams-offense-bo-nix",
+      "id": "be65b0882f6716cd",
+      "title": "'It's what I've always done.' Bengals' Joe Flacco talks NFL future",
+      "link": "https://cincinnati.com/story/sports/nfl/bengals/2025/11/12/bengals-joe-flacco-talks-nfl-future/87236886007/",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-12T22:11:24+0000",
-      "summary": "Entering NFL Week 11 with an 8-2 record, one would think that the Denver Broncos wouldn&#8217;t have anything to complain"
+      "published": "2025-11-12T22:47:02+0000",
+      "summary": "For now, Bengals quarterback Joe Flacco said he isn't thinking about the personal implications of Joe Burrow's possible return."
     },
     {
       "id": "4d9053561480ae99",
@@ -27,6 +45,15 @@
       "feed": "ESPN",
       "published": "2025-11-12T21:59:09+0000",
       "summary": "Has Indiana's Fernando Mendoza separated himself from the QB pack?"
+    },
+    {
+      "id": "a4823308b1f33ff6",
+      "title": "Colts’ Week 10 QB Analysis: Better, not great",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/117748/colts-week-10-qb-analysis-better-not-great",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-12T20:30:15+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "b87df6ca58010044",
@@ -216,15 +243,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-10T15:59:53+0000",
       "summary": "The Indianapolis Colts won a thriller in Berlin. Matt Adams recaps the game in the latest Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "92494cda8a09f9a0",
-      "title": "Colts’ Monday Morning Awards: Week 10 vs. Falcons",
-      "link": "https://stampedeblue.com/analysis/117680/colts-monday-morning-awards-week-10-vs-falcons",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-10T15:29:23+0000",
-      "summary": "8-2, after an ugly, hard-fought win. Travelling to Europe is always tough, and the Colts managed to go into their bye-week with a win that helps put away the ghosts that appeared after the loss to the Steelers. There were some other games with results that favor the Colts, as the Steelers and the Bills [&#8230;]"
     },
     {
       "id": "31ed1cd8d23f78cb",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-05T22:05:54+0000",
       "summary": "The Colts take pride in their ability to play complementary football, and Gardner’s presence will only help continue that trend."
-    },
-    {
-      "id": "22a54e8395cc6059",
-      "title": "Practice Notebook: Sauce Gardner in concussion protocol ahead of Colts Week 10 game vs. Falcons",
-      "link": "https://colts.com/news/practice-notebook-sauce-gardner-concussion-protocol-colts-week-10-atlanta-falcons-berlin-nfl",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T20:55:59+0000",
-      "summary": "Gardner missed the New York Jets’ Week 8 game with a concussion and the Jets had a bye week in Week 9; Gardner must clear protocol to be able to play in the Colts’ Week 10 game."
-    },
-    {
-      "id": "0b55a6be1cd96b13",
-      "title": "For Josh Downs, letting Sauce Gardner wear No. 1 was an easy decision",
-      "link": "https://colts.com/news/josh-downs-number-2-sauce-gardner-1-change-ohio-state-caleb-downs-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T19:48:26+0000",
-      "summary": "Downs will begin wearing No. 2 this weekend; Gardner has worn No. 1 since entering the NFL in 2022."
     }
   ],
   "links": [
