@@ -1,32 +1,95 @@
 {
-  "updated": "2025-11-12T18:26:52+00:00",
+  "updated": "2025-11-12T18:48:59+00:00",
   "items": [
-    {
-      "id": "c9239cd2ae8139fd",
-      "title": "Ex-NFLer Brown gets $25K bail, GPS monitoring",
-      "link": "https://espn.com/espn/story/_/id/46941762/ex-nfl-star-brown-gets-bail-gps-monitor-attempted-murder-case",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-12T18:15:11+0000",
-      "summary": "Former NFL receiver Antonio Brown will be released on $25,000 bail and must wear a GPS ankle monitor while he faces an attempted murder charge in Florida, a judge ordered Wednesday."
-    },
     {
       "id": "70e8f4ef5067eee4",
       "title": "📈 Power Rankings: Each team's non-QB MVP",
       "link": "https://espn.com/nfl/story/_/id/46917721/nfl-week-11-power-rankings-poll-32-teams-2025-non-quarterback-most-valuable-player",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-12T18:15:11+0000",
+      "published": "2025-11-12T18:44:33+0000",
       "summary": "Let's update our NFL Power Rankings ahead of Week 11. Plus, we picked every team's MVP -- not including quarterbacks."
     },
     {
-      "id": "70bf2b7ecf21d895",
-      "title": "Colts' Jonathan Taylor claims another award following Week 10 performance vs. Falcons",
-      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/11/12/colts-jonathan-taylor-named-afc-offensive-player-week-10/87232443007/",
+      "id": "c9239cd2ae8139fd",
+      "title": "Ex-NFLer Brown gets $25K bail, GPS monitoring",
+      "link": "https://espn.com/espn/story/_/id/46941762/ex-nfl-star-brown-gets-bail-gps-monitor-attempted-murder-case",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-12T18:44:32+0000",
+      "summary": "Former NFL receiver Antonio Brown will be released on $25,000 bail and must wear a GPS ankle monitor while he faces an attempted murder charge in Florida, a judge ordered Wednesday."
+    },
+    {
+      "id": "77b967f485468e91",
+      "title": "NFL insider links Cardinals QB Kyler Murray to Panthers",
+      "link": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2025/11/12/nfl-trade-rumors-insider-cardinals-qb-kyler-murray-panthers/87233472007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T18:41:01+0000",
+      "summary": "ESPN's Dan Graziano believes the Panthers could eventually be in on Kyler Murray if Bryce Young doesn't turn it around."
+    },
+    {
+      "id": "ee79b5a188c20ad5",
+      "title": "Caleb Williams, Talanoa Hufanga, Drake London make headlines for USC NFL alumni",
+      "link": "https://trojanswire.usatoday.com/story/sports/college/trojans/football/2025/11/12/caleb-williams-talanoa-hufanga-winners-usc-football-nfl/87207283007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T18:35:18+0000",
+      "summary": "Caleb Williams and Talanoa Hufanga are thriving, while USC NFL receivers are also producing consistently"
+    },
+    {
+      "id": "4e5998ba01e15abf",
+      "title": "Rams are miles ahead of every NFL team in this PFF grading category",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/12/la-rams-run-blocking-pff-grades-best-nfl/87228937007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T18:34:14+0000",
+      "summary": "The Rams' offensive line has flown under the radar as one of the best units in the NFL"
+    },
+    {
+      "id": "7a888e69b7a3935b",
+      "title": "Why Colts players say Carlie Irsay-Gordon is unlike any other NFL owner",
+      "link": "https://espn.com/nfl/story/_/id/46932793/nfl-indianapolis-colts-carlie-irsay-gordon-owner-cam-bynum",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-12T18:33:34+0000",
+      "summary": "Irsay-Gordon is forging a unique identity as the Colts' owner, from the sidelines to buying fans a round of drinks in a Berlin bar."
+    },
+    {
+      "id": "bf571f02e0d0b06c",
+      "title": "Inside Antonio Brown's Self-Defense Claim, as Ex-NFL Star Pleads Not Guilty to Attempted Murder",
+      "link": "https://people.com/antonio-brown-claims-self-defense-attempted-murder-charge-11847977",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T18:29:42+0000",
+      "summary": "Brown was arrested in Dubai in connection with a May shooting in Miami"
+    },
+    {
+      "id": "b6511069ffbe32d2",
+      "title": "Miami Dolphins are in Madrid, fumbling Spanish, but keeping focus on Washington Commanders",
+      "link": "https://palmbeachpost.com/story/sports/nfl/dolphins/2025/11/12/miami-dolphins-madrid-washington-commanders-tua-tagovailoa/87182984007/",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T18:28:30+0000",
+      "summary": "The Dolphins players enjoyed their one day off in Madrid - not the coaches - before turning their attention to the Washington Commanders and NFL history."
+    },
+    {
+      "id": "f7f47da869cf1069",
+      "title": "NFL closes its European tour at Real Madrid's Bernabeu, which has hosted a World Cup final",
+      "link": "https://sports.yahoo.com/article/nfl-closes-european-tour-real-182742327.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-12T18:27:42+0000",
+      "summary": "The NFL's last international game of the season will be played Sunday at Real Madrid's iconic Santiago Bernabeu stadium, a venue that hosted a World Cup final more than four decades ago and most recently welcomed Taylor Swift's Eras Tour.  The stadium that sits at the heart of the Spanish capital will host the Miami Dolphins and the Washington Commanders in the NFL's first regular-season game in Spain, and the last of seven the league has played abroad this season — the most ever as it continues to expand globally.  “It’s a great honor that a competition with the prestige of the NFL has chosen the Bernabeu to be its home,” Real Madrid club President Florentino Pérez said when the game was announced."
+    },
+    {
+      "id": "44d074ff3f0535bb",
+      "title": "Where do Colts rank in post-NFL trade deadline waiver wire order?",
+      "link": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/11/12/nfl-waiver-wire-priority-where-colts-after-trade-deadline/87233612007/",
       "source": "Colts Wire",
       "feed": "Yahoo Sports",
-      "published": "2025-11-12T18:05:56+0000",
-      "summary": "Colts' RB Jonathan Taylor claimed another award following his Week 10 performance against the Falcons."
+      "published": "2025-11-12T18:21:30+0000",
+      "summary": "Where are the Indianapolis Colts ranked in waiver wire priority following the NFL trade deadline?"
     },
     {
       "id": "fdb6bedab8ccdc5f",
@@ -63,15 +126,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-12T14:00:00+0000",
       "summary": "The Colts have a fatal flaw. Daniel Jones is turning the ball over too much and is turning back into the pumpkin we knew he was in New York. What happened to the offensive line? They are giving up way too much pressure and too many sacks. This defense struggles to get off the field [&#8230;]"
-    },
-    {
-      "id": "7a888e69b7a3935b",
-      "title": "Why Colts players say Carlie Irsay-Gordon is unlike any other NFL owner",
-      "link": "https://espn.com/nfl/story/_/id/46932793/nfl-indianapolis-colts-carlie-irsay-gordon-owner-cam-bynum",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-12T13:42:28+0000",
-      "summary": "Irsay-Gordon is forging a unique identity as the Colts' owner, from the sidelines to buying fans a round of drinks in a Berlin bar."
     },
     {
       "id": "4d9053561480ae99",
@@ -486,60 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-06T19:37:39+0000",
       "summary": "The Indianapolis Colts sent a shockwave through the NFL by trading two first-round picks and AD Mitchell to the New York Jets in exchange for elite cornerback Sauce Gardner. Dave Griffiths, Mike Chappell and Matt Adams discuss the trade and Indy's upcoming game against the Atlanta Falcons in Berlin. NOTE: As the podcast was being [...]"
-    },
-    {
-      "id": "2b3a0bc7cd3b88df",
-      "title": "Sauce Gardner confident and fully prepared to 'go out there and ball' in Colts debut",
-      "link": "https://colts.com/news/sauce-gardner-colts-debut-week-10-atlanta-falcons-cornerback-trade-jets-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T18:40:30+0000",
-      "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
-    },
-    {
-      "id": "587d8c8c15d10c73",
-      "title": "The Colts Show Mailbag: Preparing for playing in Berlin, sustaining first half success, Sauce Gardner trade",
-      "link": "https://colts.com/news/the-colts-show-mailbag-preparing-for-playing-in-berlin-sustaining-first-half-success-sauce-gardner-trade",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T11:46:30+0000",
-      "summary": "The Colts Show Mailbag returns for Week 10 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "9bd162ab7e1240c1",
-      "title": "Team Sauce (Alec Pierce, Sauce Gardner) reunited by Colts’ blockbuster trade",
-      "link": "https://fox59.com/sports/colts/team-sauce-alec-pierce-sauce-gardner-reunited-by-colts-blockbuster-trade/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-05T23:09:04+0000",
-      "summary": "INDIANAPOLIS – Alec Pierce was quick to set the record straight. Despite what you’ve seen and heard, he never requested going one-on-one against Sauce Gardner while they were friends/ultra-competitive teammates at the University of Cincinnati. “I’m not completely sure where that quote came from,’’ Pierce said Wednesday afternoon. “I don’t know if I ever really [...]"
-    },
-    {
-      "id": "d1647d4a078eaaa7",
-      "title": "How Daniel Jones, Colts offense can benefit from arrival of Sauce Gardner",
-      "link": "https://colts.com/news/daniel-jones-colts-offense-shane-steichen-sauce-gardner-defense-cornerback-complementary-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T22:05:54+0000",
-      "summary": "The Colts take pride in their ability to play complementary football, and Gardner’s presence will only help continue that trend."
-    },
-    {
-      "id": "22a54e8395cc6059",
-      "title": "Practice Notebook: Sauce Gardner in concussion protocol ahead of Colts Week 10 game vs. Falcons",
-      "link": "https://colts.com/news/practice-notebook-sauce-gardner-concussion-protocol-colts-week-10-atlanta-falcons-berlin-nfl",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T20:55:59+0000",
-      "summary": "Gardner missed the New York Jets’ Week 8 game with a concussion and the Jets had a bye week in Week 9; Gardner must clear protocol to be able to play in the Colts’ Week 10 game."
-    },
-    {
-      "id": "0b55a6be1cd96b13",
-      "title": "For Josh Downs, letting Sauce Gardner wear No. 1 was an easy decision",
-      "link": "https://colts.com/news/josh-downs-number-2-sauce-gardner-1-change-ohio-state-caleb-downs-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T19:48:26+0000",
-      "summary": "Downs will begin wearing No. 2 this weekend; Gardner has worn No. 1 since entering the NFL in 2022."
     }
   ],
   "links": [
