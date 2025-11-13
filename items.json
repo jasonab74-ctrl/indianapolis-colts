@@ -1,6 +1,51 @@
 {
-  "updated": "2025-11-13T22:18:08+00:00",
+  "updated": "2025-11-13T22:41:15+00:00",
   "items": [
+    {
+      "id": "ec7e01c3455e424f",
+      "title": "Feel the Thunder: Colts Star Trio Taking the League by Storm",
+      "link": "https://sports.yahoo.com/article/feel-thunder-colts-star-trio-222847982.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-13T22:28:47+0000",
+      "summary": "Daniel Jones leads the NFL in passing yards, Jonathan Taylor leads the NFL in Rushing yards and TDs, and Tyler Warren leads all TE's in rec yards"
+    },
+    {
+      "id": "f728b4f4c7fff41e",
+      "title": "NFL sends reminder to players and teams about prop bets",
+      "link": "https://sports.yahoo.com/article/nfl-sends-reminder-players-teams-222817322.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-13T22:28:17+0000",
+      "summary": "The NFL sent a reminder to players this week about proposition bets and highlighted the banned bets in a memo to teams on Thursday.  The communication comes days after two pitchers for the Cleveland Guardians were indicted on charges they took bribes from sports bettors to throw certain types of pitches to ensure successful prop bets."
+    },
+    {
+      "id": "91e8de0c42ab9d5a",
+      "title": "Bills named possible landing spot for former $110 million defender in free agency",
+      "link": "https://sports.yahoo.com/article/bills-named-possible-landing-spot-222618947.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-13T22:26:18+0000",
+      "summary": "The Buffalo Bills need more help for their injury-plagued defensive line and that has led to one NFL analyst suggesting the team sign a former $110 million defender in free agency."
+    },
+    {
+      "id": "326e460f4fe6c538",
+      "title": "What channel is Patriots-Jets Thursday Night Football game on TV tonight? Start time, how to watch",
+      "link": "https://sports.yahoo.com/article/channel-patriots-jets-thursday-night-221826648.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-13T22:18:26+0000",
+      "summary": "NFL Week 11 kicks off when the New England Patriots host the New York Jets on Thursday Night Football tonight. Start time, NFL TV schedule and how to watch."
+    },
+    {
+      "id": "2d199f97f2f359da",
+      "title": "Comparing Sam Darnold and Geno Smith through 10 weeks of 2025 NFL season",
+      "link": "https://sports.yahoo.com/article/comparing-sam-darnold-geno-smith-221819553.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-13T22:18:19+0000",
+      "summary": "Seattle's decisions at quarterback are aging better and better each week"
+    },
     {
       "id": "3a7bcc7860ff9710",
       "title": "Documents: NFL wants union to stop report cards",
@@ -27,24 +72,6 @@
       "feed": "ESPN",
       "published": "2025-11-13T22:15:50+0000",
       "summary": "Let's update our NFL Power Rankings ahead of Week 11. Plus, we picked every team's MVP -- not including quarterbacks."
-    },
-    {
-      "id": "0b50a79ce34e1927",
-      "title": "Jets vs Patriots Props & Best Bets for Thursday Night Football Tonight",
-      "link": "https://sports.yahoo.com/article/jets-vs-patriots-props-best-163800537.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-13T22:06:00+0000",
-      "summary": "Jason Logan's favorite Jets vs. Patriots TNF player props include Breece Hall, Stefon Diggs, and Hunter Henry. Free NFL picks for Thursday, November 13, 2025."
-    },
-    {
-      "id": "b8332c493220d6d3",
-      "title": "No surprise: The OPOY candidate is the key for the 49ers offense against the Cardinals",
-      "link": "https://sports.yahoo.com/article/no-surprise-opoy-candidate-key-220100392.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-13T22:01:00+0000",
-      "summary": "The NFL’s touch leader should be leaned on Sunday against the Cardinals"
     },
     {
       "id": "5063da0dac68d3ff",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-06T18:40:30+0000",
       "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
-    },
-    {
-      "id": "587d8c8c15d10c73",
-      "title": "The Colts Show Mailbag: Preparing for playing in Berlin, sustaining first half success, Sauce Gardner trade",
-      "link": "https://colts.com/news/the-colts-show-mailbag-preparing-for-playing-in-berlin-sustaining-first-half-success-sauce-gardner-trade",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T11:46:30+0000",
-      "summary": "The Colts Show Mailbag returns for Week 10 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "9bd162ab7e1240c1",
-      "title": "Team Sauce (Alec Pierce, Sauce Gardner) reunited by Colts’ blockbuster trade",
-      "link": "https://fox59.com/sports/colts/team-sauce-alec-pierce-sauce-gardner-reunited-by-colts-blockbuster-trade/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-05T23:09:04+0000",
-      "summary": "INDIANAPOLIS – Alec Pierce was quick to set the record straight. Despite what you’ve seen and heard, he never requested going one-on-one against Sauce Gardner while they were friends/ultra-competitive teammates at the University of Cincinnati. “I’m not completely sure where that quote came from,’’ Pierce said Wednesday afternoon. “I don’t know if I ever really [...]"
-    },
-    {
-      "id": "d1647d4a078eaaa7",
-      "title": "How Daniel Jones, Colts offense can benefit from arrival of Sauce Gardner",
-      "link": "https://colts.com/news/daniel-jones-colts-offense-shane-steichen-sauce-gardner-defense-cornerback-complementary-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T22:05:54+0000",
-      "summary": "The Colts take pride in their ability to play complementary football, and Gardner’s presence will only help continue that trend."
     }
   ],
   "links": [
