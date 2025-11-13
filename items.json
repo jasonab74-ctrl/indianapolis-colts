@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-13T05:18:58+00:00",
+  "updated": "2025-11-13T05:42:50+00:00",
   "items": [
     {
       "id": "892e43f9a3a7c27e",
@@ -9,15 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-13T05:10:01+0000",
       "summary": "All you need to know to watch &quot;Thursday Night Football&quot; in Week 11."
-    },
-    {
-      "id": "bf0e03a10b6bcf67",
-      "title": "Insight into J.J. McCarthy’s Performance After Four Games",
-      "link": "https://dailynorseman.com/general/92758/insight-into-j-j-mccarthys-performance-after-four-games",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-13T04:33:14+0000",
-      "summary": "Minnesota Vikings quarterback J.J. McCarthy has completed his first four games in the NFL. That’s not a big sample size for any sort of definitive judgment about McCarthy- usually around game 25 is when you might begin to form some conclusions about the trajectory of a young quarterback, but even then it may be too […]"
     },
     {
       "id": "95e6a44b79c00de9",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-05T20:55:59+0000",
       "summary": "Gardner missed the New York Jets’ Week 8 game with a concussion and the Jets had a bye week in Week 9; Gardner must clear protocol to be able to play in the Colts’ Week 10 game."
+    },
+    {
+      "id": "0b55a6be1cd96b13",
+      "title": "For Josh Downs, letting Sauce Gardner wear No. 1 was an easy decision",
+      "link": "https://colts.com/news/josh-downs-number-2-sauce-gardner-1-change-ohio-state-caleb-downs-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-05T19:48:26+0000",
+      "summary": "Downs will begin wearing No. 2 this weekend; Gardner has worn No. 1 since entering the NFL in 2022."
     }
   ],
   "links": [
