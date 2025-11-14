@@ -1,14 +1,32 @@
 {
-  "updated": "2025-11-14T20:20:50+00:00",
+  "updated": "2025-11-14T20:41:35+00:00",
   "items": [
     {
-      "id": "d18e2ce3ac5facb0",
-      "title": "Matlock, McDonald push Brock past Dunbar for bi-district championship",
-      "link": "https://sports.yahoo.com/article/matlock-mcdonald-push-brock-past-201200640.html",
+      "id": "0e5ce183a271f804",
+      "title": "Former NFL defensive back explains how the Browns can help Dillon Gabriel succeed",
+      "link": "https://sports.yahoo.com/article/former-nfl-defensive-back-explains-203020952.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-14T20:12:00+0000",
-      "summary": "Wide receiver Colt Matlock and running back Bryer McDonald combined for five touchdowns in Brock’s 49-0 win over Fort Worth Dunbar Thursday night at Burleson ISD Stadium, becoming 4A Div. I bi-district champions. They’ll play the winner of Lubbock Estacado and Fort Stockton in the area round next week. Matlock’s success against the Wildcat defense came early, as Brock marched down the field on ..."
+      "published": "2025-11-14T20:30:20+0000",
+      "summary": "Can Cleveland put Dillon Gabriel in a better position to succeed?"
+    },
+    {
+      "id": "c1eb56d0b2600ba3",
+      "title": "Robert Saleh optimistic 49ers’ pass rush has weapons to peak by January",
+      "link": "https://sports.yahoo.com/article/robert-saleh-optimistic-49ers-pass-203000879.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-14T20:30:00+0000",
+      "summary": "The 49ers have the worst pass rush in the NFL by many measures, but Robert Saleh is hopeful they will improve."
+    },
+    {
+      "id": "ffd2c5999e5c682f",
+      "title": "TreVeyon Henderson helps power Patriots to best record in NFL after win over Jets",
+      "link": "https://espn.com/nfl/story/_/id/46959176/patriots-jets-thursday-night-football-treveyon-henderson-shines",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-14T20:20:39+0000",
+      "summary": "New England moves to 9-2 after breezing by New York thanks to Henderson's three touchdowns."
     },
     {
       "id": "4213c0045c890a53",
@@ -47,33 +65,6 @@
       "summary": "The NFL sent a memo to team officials Thursday to reemphasize the league's stance on what types of wagers are permitted with its sportsbook partners."
     },
     {
-      "id": "2699e5c92563c8ac",
-      "title": "Commanders coach Dan Quinn feels it's feasible for NFL teams to play 1 game abroad every year",
-      "link": "https://sports.yahoo.com/article/commanders-coach-dan-quinn-feels-200253560.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-14T20:02:53+0000",
-      "summary": "Washington Commanders coach Dan Quinn paused briefly to gather his thoughts when asked whether he would like to play abroad every year.  “Good question,” he said, with another pause, before jokingly asking if anyone from the NFL was there.  “We knew it hurts a little bit in the beginning of the week, but then as you get closer to game day, man, you’re ready to perform,” Quinn said."
-    },
-    {
-      "id": "fa01eaad38078a0d",
-      "title": "NFL Week 11 high-stakes games: Your guide to Rams-Seahawks, Broncos-Chiefs and more",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-week-11-high-stakes-games-your-guide-to-rams-seahawks-broncos-chiefs-and-more-195806727.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-14T19:58:06+0000",
-      "summary": "Yahoo Sports' NFL team analyzes the biggest storylines and matchups of arguably the biggest weekend of games yet this NFL season."
-    },
-    {
-      "id": "6b0872d6eea3e1af",
-      "title": "Fantasy Football Live! Watch Sunday for last-minute start/sit advice and rankings updates for Week 11",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-live-watch-sunday-for-last-minute-startsit-advice-and-rankings-updates-for-week-11-195709468.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-14T19:57:09+0000",
-      "summary": "Week 11 of the NFL season is here, so lean on Fantasy Football Live to help get your lineup ready on Sunday."
-    },
-    {
       "id": "209c26cc93e68b1d",
       "title": "14 more NFL Week 11 games, 14 matchup previews: We have predictions, picks and wild stats",
       "link": "https://espn.com/nfl/story/_/page/viewersguide46941264/nfl-week-11-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
@@ -81,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-11-14T19:03:45+0000",
       "summary": "Football in Spain. Chiefs vs. Broncos. Baker Mayfield vs. Josh Allen. We have picks, predictions and stats for every game."
-    },
-    {
-      "id": "ffd2c5999e5c682f",
-      "title": "TreVeyon Henderson helps power Patriots to best record in NFL after win over Jets",
-      "link": "https://espn.com/nfl/story/_/id/46959176/patriots-jets-thursday-night-football-treveyon-henderson-shines",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-14T15:40:14+0000",
-      "summary": "New England moves to 9-2 after breezing by New York thanks to Henderson's three touchdowns."
     },
     {
       "id": "fdb6bedab8ccdc5f",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-06T19:37:39+0000",
       "summary": "The Indianapolis Colts sent a shockwave through the NFL by trading two first-round picks and AD Mitchell to the New York Jets in exchange for elite cornerback Sauce Gardner. Dave Griffiths, Mike Chappell and Matt Adams discuss the trade and Indy's upcoming game against the Atlanta Falcons in Berlin. NOTE: As the podcast was being [...]"
+    },
+    {
+      "id": "2b3a0bc7cd3b88df",
+      "title": "Sauce Gardner confident and fully prepared to 'go out there and ball' in Colts debut",
+      "link": "https://colts.com/news/sauce-gardner-colts-debut-week-10-atlanta-falcons-cornerback-trade-jets-lou-anarumo",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-06T18:40:30+0000",
+      "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
+    },
+    {
+      "id": "587d8c8c15d10c73",
+      "title": "The Colts Show Mailbag: Preparing for playing in Berlin, sustaining first half success, Sauce Gardner trade",
+      "link": "https://colts.com/news/the-colts-show-mailbag-preparing-for-playing-in-berlin-sustaining-first-half-success-sauce-gardner-trade",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-06T11:46:30+0000",
+      "summary": "The Colts Show Mailbag returns for Week 10 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
     }
   ],
   "links": [
