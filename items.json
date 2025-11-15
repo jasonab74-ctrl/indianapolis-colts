@@ -1,40 +1,13 @@
 {
-  "updated": "2025-11-15T20:18:26+00:00",
+  "updated": "2025-11-15T20:38:32+00:00",
   "items": [
-    {
-      "id": "814b1d87c6967ee4",
-      "title": "Belichick dispels Giants talk, reaffirms UNC focus",
-      "link": "https://espn.com/college-football/story/_/id/46969746/bill-belichick-says-not-not-pursue-nfl-jobs-reaffirms-unc-focus",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-15T19:46:37+0000",
-      "summary": "North Carolina coach Bill Belichick says he will not pursue any NFL head coaching vacancies after his name surfaced in connection with the Giants job."
-    },
-    {
-      "id": "984a2f0a4dfb6985",
-      "title": "🏈 2026 draft: Five-team race for No. 1 pick",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46929374/2026-nfl-draft-top-pick-titans-browns-jets-saints-raiders",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-15T19:46:37+0000",
-      "summary": "Five NFL teams have at least 5% odds to land the No. 1 pick in 2026, per our Football Power Index."
-    },
-    {
-      "id": "e593ba59d8fb3fd5",
-      "title": "Ready for NFL Week 11? We have sleepers, QB questions, trends to watch and more",
-      "link": "https://espn.com/nfl/story/_/id/46944804/2025-nfl-week-11-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-15T18:39:35+0000",
-      "summary": "Big game coming for Aaron Rodgers? Matchup questions for the Seahawks and Rams? An edge for Jared Goff against the Eagles? Catch up on Week 11."
-    },
     {
       "id": "46d2347f2382a770",
       "title": "NFL lands in Spain: How the Commanders and Dolphins are tackling Madrid﻿",
       "link": "https://espn.com/nfl/story/_/id/46947605/nfl-madrid-spain-commanders-dolphins-scenes-week-11-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-15T13:10:32+0000",
+      "published": "2025-11-15T20:34:11+0000",
       "summary": "Here's what the Commanders and Dolphins got up to before kickoff Sunday."
     },
     {
@@ -43,8 +16,35 @@
       "link": "https://espn.com/nfl/story/_/id/46957761/washington-commanders-miami-dolphins-tua-mariota-friendship",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-15T13:10:31+0000",
+      "published": "2025-11-15T20:34:10+0000",
       "summary": "Marcus Mariota and Tua Tagovailoa mark a special moment: starting against each other in an NFL game in Madrid."
+    },
+    {
+      "id": "e593ba59d8fb3fd5",
+      "title": "Ready for NFL Week 11? We have sleepers, QB questions, trends to watch and more",
+      "link": "https://espn.com/nfl/story/_/id/46944804/2025-nfl-week-11-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-15T20:34:03+0000",
+      "summary": "Big game coming for Aaron Rodgers? Matchup questions for the Seahawks and Rams? An edge for Jared Goff against the Eagles? Catch up on Week 11."
+    },
+    {
+      "id": "814b1d87c6967ee4",
+      "title": "Belichick dispels Giants talk, reaffirms UNC focus",
+      "link": "https://espn.com/college-football/story/_/id/46969746/bill-belichick-says-not-not-pursue-nfl-jobs-reaffirms-unc-focus",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-15T20:33:58+0000",
+      "summary": "North Carolina coach Bill Belichick says he will not pursue any NFL head coaching vacancies after his name surfaced in connection with the Giants job."
+    },
+    {
+      "id": "984a2f0a4dfb6985",
+      "title": "🏈 2026 draft: Five-team race for No. 1 pick",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46929374/2026-nfl-draft-top-pick-titans-browns-jets-saints-raiders",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-15T20:33:58+0000",
+      "summary": "Five NFL teams have at least 5% odds to land the No. 1 pick in 2026, per our Football Power Index."
     },
     {
       "id": "19ff5bb626b3466d",
@@ -52,7 +52,7 @@
       "link": "https://espn.com/nfl/story/_/id/46953005/can-giants-interim-head-coach-mike-kafka-make-work-new-york",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-15T12:58:06+0000",
+      "published": "2025-11-15T20:33:53+0000",
       "summary": "The Giants (2-8) and the rest of the NFL will be looking at how Kafka can help the team over the final two months of the season."
     },
     {
