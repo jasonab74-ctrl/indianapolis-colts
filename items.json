@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-15T17:13:54+00:00",
+  "updated": "2025-11-15T17:36:48+00:00",
   "items": [
+    {
+      "id": "85e97b109bb91508",
+      "title": "DeForest Buckner injury news: Colts' DT shares latest update",
+      "link": "https://sports.yahoo.com/article/deforest-buckner-injury-news-colts-172534467.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-15T17:25:34+0000",
+      "summary": "Here is the latest injury update on Indianapolis Colts' DT DeForest Buckner."
+    },
     {
       "id": "984a2f0a4dfb6985",
       "title": "🏈 2026 draft: Five-team race for No. 1 pick",
@@ -27,24 +36,6 @@
       "feed": "ESPN",
       "published": "2025-11-15T17:02:02+0000",
       "summary": "Big game coming for Aaron Rodgers? Matchup questions for the Seahawks and Rams? An edge for Jared Goff against the Eagles? Catch up on Week 11."
-    },
-    {
-      "id": "dc15c08731b01e9b",
-      "title": "Washington Commanders vs. Miami Dolphins in Madrid: How to watch the NFL international game this weekend",
-      "link": "https://sports.yahoo.com/nfl/article/washington-commanders-vs-miami-dolphins-in-madrid-how-to-watch-the-nfl-international-game-this-weekend-170153185.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-15T17:01:53+0000",
-      "summary": "The Commanders and Dolphins face off this weekend in Madrid. Here's what to know and how to tune in to the international NFL game."
-    },
-    {
-      "id": "297a42254f515903",
-      "title": "Ravens have three players land in ESPN’s early top-25 free agent rankings for 2026",
-      "link": "https://sports.yahoo.com/article/ravens-three-players-land-espn-170055022.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-15T17:00:55+0000",
-      "summary": "Ravens' Travis Jones, Tyler Linderbaum and Isaiah Likely made ESPNs top 25 NFL free agents for 2026"
     },
     {
       "id": "46d2347f2382a770",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-06T18:40:30+0000",
       "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
+    },
+    {
+      "id": "587d8c8c15d10c73",
+      "title": "The Colts Show Mailbag: Preparing for playing in Berlin, sustaining first half success, Sauce Gardner trade",
+      "link": "https://colts.com/news/the-colts-show-mailbag-preparing-for-playing-in-berlin-sustaining-first-half-success-sauce-gardner-trade",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-06T11:46:30+0000",
+      "summary": "The Colts Show Mailbag returns for Week 10 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
     }
   ],
   "links": [
