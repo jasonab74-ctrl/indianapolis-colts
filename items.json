@@ -1,14 +1,14 @@
 {
-  "updated": "2025-11-16T23:16:33+00:00",
+  "updated": "2025-11-16T23:37:32+00:00",
   "items": [
     {
-      "id": "be94471d3a85ed67",
-      "title": "Follow live: Shedeur Sanders makes NFL debut for Browns",
-      "link": "https://espn.com/nfl/game/_/gameId/401772777",
+      "id": "da73fffe32e63a9b",
+      "title": "Game blouses: Bears use 'Chappelle's Show' Prince bit to troll Vikings, top Week 11's petty posts",
+      "link": "https://espn.com/nfl/story/_/id/46991811/nfl-week-11-trolls",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-16T23:10:27+0000",
-      "summary": "null"
+      "published": "2025-11-16T23:34:17+0000",
+      "summary": "A busy week in the NFL prompted the usual trolls around the league."
     },
     {
       "id": "54ba957a0560cfbe",
@@ -16,8 +16,89 @@
       "link": "https://espn.com/nfl/story/_/id/46957707/nfl-week-11-fashionable-arrivals-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-16T21:40:48+0000",
+      "published": "2025-11-16T23:34:11+0000",
       "summary": "NFL stars didn't just show up to play -- they showed up in style. Here are this week's best looks."
+    },
+    {
+      "id": "5a1e85f3e39312ba",
+      "title": "Sanders makes NFL debut after Gabriel concussed",
+      "link": "https://espn.com/nfl/story/_/id/46992431/browns-shedeur-sanders-debuts-dillon-gabriel-concussion",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-16T23:28:28+0000",
+      "summary": "Browns rookie quarterback Shedeur Sanders made his NFL debut during Sunday's game against the Ravens, coming on after fellow rookie Dillon Gabriel was concussed."
+    },
+    {
+      "id": "e218b763d2caaf14",
+      "title": "Browns QB Shedeur Sanders makes NFL debut after Dillon Gabriel departs with a head injury",
+      "link": "https://sports.yahoo.com/article/browns-qb-shedeur-sanders-makes-232414433.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:24:14+0000",
+      "summary": "Browns quarterback Shedeur Sanders made his NFL debut in the second half of Sunday's game against the Baltimore Ravens.  The highly publicized quarterback entered with 12:43 remaining in the third quarter after Cleveland announced that Dillon Gabriel was being evaluated for a concussion.  On his first snap, Sanders threw a 5-yard pass to Cedric Tillman with the Browns leading 16-10."
+    },
+    {
+      "id": "be94471d3a85ed67",
+      "title": "Follow live: Shedeur Sanders makes NFL debut for Browns",
+      "link": "https://espn.com/nfl/game/_/gameId/401772777",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-16T23:23:08+0000",
+      "summary": "null"
+    },
+    {
+      "id": "beeacbe387771e2d",
+      "title": "NFL to investigate Bengals' Ja'Marr Chase spitting incident with Steelers' Jalen Ramsey",
+      "link": "https://sports.yahoo.com/article/nfl-investigate-bengals-jamarr-chase-232104585.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:21:04+0000",
+      "summary": "Following Bengals' Ja'Marr Chase allegedly spitting on Steelers' Jalen Ramsey, the NFL has announced they will investigate the situation."
+    },
+    {
+      "id": "f76243e456f9573e",
+      "title": "Ty Johnson scores longest NFL touchdown",
+      "link": "https://sports.yahoo.com/article/ty-johnson-scores-longest-nfl-232000244.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:20:00+0000",
+      "summary": "ORCHARD PARK, N.Y. — Fort Hill alum Ty Johnson recorded the longest touchdown of his National Football League career on Sunday. The Buffalo Bill caught a swing pass from Josh Allen on third-and-5 near midfield, found a seam through the Buccaneers' defense and made a run Western Marylanders know all too well — accelerating 52 yards to give the Bills a 21-20 halftime lead. Johnson's previous ..."
+    },
+    {
+      "id": "4261272e2b04183a",
+      "title": "Ja’Marr Chase Could Face NFL Suspension",
+      "link": "https://sports.yahoo.com/article/ja-marr-chase-could-face-231841694.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:18:41+0000",
+      "summary": "It may not have been the most competitive game of the day, but the Pittsburgh Steelers&#8217; 34-12 win over the"
+    },
+    {
+      "id": "bdcac8c518e2fb70",
+      "title": "A weird irony about Shedeur Sanders and his dad Deion on NFL debut date",
+      "link": "https://sports.yahoo.com/article/weird-irony-shedeur-sanders-dad-231750045.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:17:50+0000",
+      "summary": "This date wasn't significant in the Sanders household."
+    },
+    {
+      "id": "11d8f4e8781888e8",
+      "title": "Shedeur Sanders makes highly anticipated NFL debut for Browns after Dillon Gabriel injury",
+      "link": "https://sports.yahoo.com/article/shedeur-sanders-makes-highly-anticipated-231550169.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:15:50+0000",
+      "summary": "Shedeur Sanders took the first regular-season snaps of his NFL career on Sunday when Dillon Gabriel was checked for a head injury."
+    },
+    {
+      "id": "921b5158505fcca4",
+      "title": "Dolphins' QB Tua Tagovailoa wants to take the NFL to the Middle East",
+      "link": "https://sports.yahoo.com/article/dolphins-qb-tua-tagovailoa-wants-231404370.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-16T23:14:04+0000",
+      "summary": "Tua Tagovailoa knows where he wants to play his next NFL international game, and the location is turning some heads."
     },
     {
       "id": "43ec3305e78e0348",
@@ -45,6 +126,15 @@
       "feed": "CBS4Indy",
       "published": "2025-11-15T03:53:21+0000",
       "summary": "INDIANAPOLIS – DeForest Buckner has taken a familiar approach in his attempt to return from a neck injury. The Indianapolis Colts’ veteran defensive tackle posted on social media Friday that he traveled to Panama this week to receive stem cell injections as part of his treatment for a neck injury that resulted in him being [...]"
+    },
+    {
+      "id": "e65c4bc639df3175",
+      "title": "What’s not to love about Colts’ Tyler Warren?",
+      "link": "https://stampedeblue.com/analysis/117869/whats-not-to-love-about-colts-tyler-warren",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-14T14:01:00+0000",
+      "summary": "Shh…Don’t tell anyone, but Tyler Warren might be my favorite Colts player. Yes, Jonathan Taylor is stealing the headlines right now. Stealing…? Ok, not stealing, but you get the idea. All the talk is about Taylor and well deserved. He is ripping off huge runs, breaking franchise records, and carrying this team at times. The [&#8230;]"
     },
     {
       "id": "b7fddff236b88904",
@@ -162,15 +252,6 @@
       "feed": "Colts.com",
       "published": "2025-11-12T14:00:00+0000",
       "summary": "The Colts' digital and social media channels will not publish content between Wednesday morning and Monday morning, and we encourage fans to take disconnect from devices during the bye week as well."
-    },
-    {
-      "id": "5c91abe4fb96e309",
-      "title": "Some may have gripes but the Colts have positioned themselves well heading into the bye",
-      "link": "https://stampedeblue.com/analysis/117766/some-may-have-gripes-but-the-colts-have-positioned-themselves-well-heading-into-the-bye",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-12T14:00:00+0000",
-      "summary": "The Colts have a fatal flaw. Daniel Jones is turning the ball over too much and is turning back into the pumpkin we knew he was in New York. What happened to the offensive line? They are giving up way too much pressure and too many sacks. This defense struggles to get off the field [&#8230;]"
     },
     {
       "id": "3609fafab0187bfe",
@@ -459,87 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-06T20:49:46+0000",
       "summary": "Buckner (neck) was ruled out on Thursday and will not travel with the team to Berlin."
-    },
-    {
-      "id": "dd468372f5101233",
-      "title": "Colts Blue Zone Podcast 439: Sauce Gardner Trade; Colts-Falcons in Berlin",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-439-sauce-gardner-trade-colts-falcons-in-berlin/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-06T19:37:39+0000",
-      "summary": "The Indianapolis Colts sent a shockwave through the NFL by trading two first-round picks and AD Mitchell to the New York Jets in exchange for elite cornerback Sauce Gardner. Dave Griffiths, Mike Chappell and Matt Adams discuss the trade and Indy's upcoming game against the Atlanta Falcons in Berlin. NOTE: As the podcast was being [...]"
-    },
-    {
-      "id": "2b3a0bc7cd3b88df",
-      "title": "Sauce Gardner confident and fully prepared to 'go out there and ball' in Colts debut",
-      "link": "https://colts.com/news/sauce-gardner-colts-debut-week-10-atlanta-falcons-cornerback-trade-jets-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T18:40:30+0000",
-      "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
-    },
-    {
-      "id": "587d8c8c15d10c73",
-      "title": "The Colts Show Mailbag: Preparing for playing in Berlin, sustaining first half success, Sauce Gardner trade",
-      "link": "https://colts.com/news/the-colts-show-mailbag-preparing-for-playing-in-berlin-sustaining-first-half-success-sauce-gardner-trade",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T11:46:30+0000",
-      "summary": "The Colts Show Mailbag returns for Week 10 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "9bd162ab7e1240c1",
-      "title": "Team Sauce (Alec Pierce, Sauce Gardner) reunited by Colts’ blockbuster trade",
-      "link": "https://fox59.com/sports/colts/team-sauce-alec-pierce-sauce-gardner-reunited-by-colts-blockbuster-trade/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-05T23:09:04+0000",
-      "summary": "INDIANAPOLIS – Alec Pierce was quick to set the record straight. Despite what you’ve seen and heard, he never requested going one-on-one against Sauce Gardner while they were friends/ultra-competitive teammates at the University of Cincinnati. “I’m not completely sure where that quote came from,’’ Pierce said Wednesday afternoon. “I don’t know if I ever really [...]"
-    },
-    {
-      "id": "d1647d4a078eaaa7",
-      "title": "How Daniel Jones, Colts offense can benefit from arrival of Sauce Gardner",
-      "link": "https://colts.com/news/daniel-jones-colts-offense-shane-steichen-sauce-gardner-defense-cornerback-complementary-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T22:05:54+0000",
-      "summary": "The Colts take pride in their ability to play complementary football, and Gardner’s presence will only help continue that trend."
-    },
-    {
-      "id": "22a54e8395cc6059",
-      "title": "Practice Notebook: Sauce Gardner in concussion protocol ahead of Colts Week 10 game vs. Falcons",
-      "link": "https://colts.com/news/practice-notebook-sauce-gardner-concussion-protocol-colts-week-10-atlanta-falcons-berlin-nfl",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T20:55:59+0000",
-      "summary": "Gardner missed the New York Jets’ Week 8 game with a concussion and the Jets had a bye week in Week 9; Gardner must clear protocol to be able to play in the Colts’ Week 10 game."
-    },
-    {
-      "id": "0b55a6be1cd96b13",
-      "title": "For Josh Downs, letting Sauce Gardner wear No. 1 was an easy decision",
-      "link": "https://colts.com/news/josh-downs-number-2-sauce-gardner-1-change-ohio-state-caleb-downs-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T19:48:26+0000",
-      "summary": "Downs will begin wearing No. 2 this weekend; Gardner has worn No. 1 since entering the NFL in 2022."
-    },
-    {
-      "id": "0a433d10825d81a3",
-      "title": "Shane Steichen on addition of All-Pro CB Sauce Gardner: 'It's going to elevate everybody'",
-      "link": "https://colts.com/news/shan-steichen-sauce-gardner-lou-anarumo-defense-coverage-pass-rush-colts-belief-team-charvarius-ward",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-05T18:45:24+0000",
-      "summary": "The Colts acquired two-time All-Pro cornerback Sauce Gardner in a trade with the New York Jets on Tuesday."
-    },
-    {
-      "id": "fa247a9d548fdc4f",
-      "title": "Colts’ reaction to adding Sauce Gardner? 'Fired up, excited'",
-      "link": "https://fox59.com/sports/colts/colts-reaction-to-adding-sauce-gardner-fired-up-excited/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-05T17:41:08+0000",
-      "summary": "INDIANAPOLIS – The initial reaction to adding an elite player to a team with the best record in the NFL was predictable. Shane Steichen’s response when Chris Ballard told him a few weeks ago he working on a trade with the New York Jets that would deliver Sauce Gardner to the Indianapolis Colts? “Pure excitement,” [...]"
     }
   ],
   "links": [
