@@ -1,6 +1,24 @@
 {
-  "updated": "2025-11-17T06:53:28+00:00",
+  "updated": "2025-11-17T07:19:02+00:00",
   "items": [
+    {
+      "id": "9be1d2e14ecd5009",
+      "title": "Longhorns Daily News: Texas alum Kris Boyd is in stable condition after suffering gunshot wound",
+      "link": "https://sports.yahoo.com/article/longhorns-daily-news-texas-alum-071014816.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-17T07:10:14+0000",
+      "summary": "Former Texas cornerback Kris Boyd, who’s now a member of the New York Jets, suffered a gunshot wound to the abdomen early Sunday morning, according to multiple reports. From NFL.com: “The shooting happened just after 2 a.m. ET outside a business on West 38th Street near 7th Avenue, according to the New York Police Department. […]"
+    },
+    {
+      "id": "39be0158beacf72f",
+      "title": "Referee Alex Kemp defends &quot;absolutely terrible&quot; pass interference call in Lions-Eagles",
+      "link": "https://sports.yahoo.com/article/referee-alex-kemp-defends-absolutely-065258751.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-17T06:52:58+0000",
+      "summary": "NFL should overhaul the currently pointless &quot;pool report&quot; gesture."
+    },
     {
       "id": "c19b2662276eda15",
       "title": "NFL Playoff Picture: Denver Broncos are the number 1 seed in the AFC",
@@ -27,15 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-17T06:19:03+0000",
       "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 11 of the 2025 NFL regular season? Here's an updated look from best to worst."
-    },
-    {
-      "id": "6b44d411f5a2a32d",
-      "title": "Former Gilmer High star and current NFL CB shot",
-      "link": "https://sports.yahoo.com/article/former-gilmer-high-star-current-054218680.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-17T05:42:18+0000",
-      "summary": "Manhattan, NY (KTAL/KMSS) — Former Gilmer High School superstar and current New York Jets cornerback Kris Boyd is in critical but stable condition after being shot in New York City, according to multiple new reports. According to police reports, around 2:00 a.m. EST, a phone call came into the police about a shooting in Midtown […]"
     },
     {
       "id": "5a1e85f3e39312ba",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-06T19:37:39+0000",
       "summary": "The Indianapolis Colts sent a shockwave through the NFL by trading two first-round picks and AD Mitchell to the New York Jets in exchange for elite cornerback Sauce Gardner. Dave Griffiths, Mike Chappell and Matt Adams discuss the trade and Indy's upcoming game against the Atlanta Falcons in Berlin. NOTE: As the podcast was being [...]"
-    },
-    {
-      "id": "2b3a0bc7cd3b88df",
-      "title": "Sauce Gardner confident and fully prepared to 'go out there and ball' in Colts debut",
-      "link": "https://colts.com/news/sauce-gardner-colts-debut-week-10-atlanta-falcons-cornerback-trade-jets-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T18:40:30+0000",
-      "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
     }
   ],
   "links": [
