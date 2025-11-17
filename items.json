@@ -1,14 +1,59 @@
 {
-  "updated": "2025-11-17T16:50:58+00:00",
+  "updated": "2025-11-17T17:17:59+00:00",
   "items": [
     {
-      "id": "90529cdcab6d52ec",
-      "title": "LSU football national champion emerging as NFL star on the offensive line",
-      "link": "https://sports.yahoo.com/article/lsu-football-national-champion-emerging-164549140.html",
+      "id": "0f5fb5e576086cf1",
+      "title": "NFL Injury Report: Tracking latest news, updates on Josh Jacobs, Drake London and more for fantasy football in Week 12",
+      "link": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-tracking-latest-news-updates-on-josh-jacobs-drake-london-and-more-for-fantasy-football-in-week-12-171444760.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-17T16:45:49+0000",
-      "summary": "Former LSU football offensive lineman Damien Lewis is emerging as a star at the NFL level. Here's a closer look at his 2025."
+      "published": "2025-11-17T17:14:44+0000",
+      "summary": "We're keeping an eye on the latest NFL injury news with updates and fantasy football analysis for Week 12."
+    },
+    {
+      "id": "167356f3e43c5878",
+      "title": "6 early candidates said to emerge for New York Giants head coaching job",
+      "link": "https://sports.yahoo.com/article/6-early-candidates-said-emerge-170746452.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-17T17:07:46+0000",
+      "summary": "Jay Glazer report indicates Giants will stay in NFL ranks, won’t look for a college head coach."
+    },
+    {
+      "id": "aafa65b6b97811aa",
+      "title": "Evaluating Indianapolis Colts' roster after the bye week",
+      "link": "https://sports.yahoo.com/article/evaluating-indianapolis-colts-roster-bye-170707228.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-17T17:07:07+0000",
+      "summary": "Coming out of the bye week, let's take a look at the current state of the Indianapolis Colts' roster."
+    },
+    {
+      "id": "6e2d25450687ab11",
+      "title": "Around the AFC South: Jaguars dominate Chargers, Texans squeeze out win over Titans",
+      "link": "https://colts.com/news/week-11-afc-south-jaguars-trevor-lawrence-chargers-texans-titans-davis-mills-cj-stroud-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-17T17:03:08+0000",
+      "summary": "The Jaguars are now 6-4 and the Texans are 5-5; the Colts remain atop the division with an 8-2 record after the bye week."
+    },
+    {
+      "id": "5c7039bbfc8acce8",
+      "title": "Falcons quarterback Michael Penix Jr. likely out for season with partially-torn ACL",
+      "link": "https://sports.yahoo.com/article/source-falcons-quarterback-michael-penix-164150787.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-17T17:02:17+0000",
+      "summary": "NFL league sources confirmed the news to Channel 2 sports director Zach Klein."
+    },
+    {
+      "id": "d8ddfb0712d0181c",
+      "title": "Seahawks Week 12 NFL power rankings: How ugly loss to Rams impacts Seattle's standing",
+      "link": "https://sports.yahoo.com/article/seahawks-week-12-nfl-power-165902751.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-17T16:59:02+0000",
+      "summary": "The Seattle Seahawks failed to secure a win in the Week 11 game against the Los Angeles Rams that was a battle for first place. Here's where they sit in the NFL power rankings of experts going into Week 12."
     },
     {
       "id": "5a1e85f3e39312ba",
@@ -16,7 +61,7 @@
       "link": "https://espn.com/nfl/story/_/id/46992431/browns-shedeur-sanders-debuts-dillon-gabriel-concussion",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-17T16:39:48+0000",
+      "published": "2025-11-17T16:54:33+0000",
       "summary": "Browns rookie quarterback Shedeur Sanders made his NFL debut Sunday against the Ravens, coming on after fellow rookie Dillon Gabriel was concussed."
     },
     {
@@ -25,26 +70,17 @@
       "link": "https://espn.com/nfl/story/_/id/46999335/prosecutor-antonio-brown-face-30-years-prison-guilty",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-17T16:39:47+0000",
+      "published": "2025-11-17T16:54:33+0000",
       "summary": "Former NFL star wide receiver Antonio Brown could face up to 30 years in prison if convicted of attempted murder because a firearm was allegedly used, a prosecutor said Monday."
     },
     {
       "id": "da73fffe32e63a9b",
-      "title": "☔ 'Game blouses': Bears' jab at Vikes tops trolls",
+      "title": "☔ 'Game, blouses': Bears' jab at Vikes tops trolls",
       "link": "https://espn.com/nfl/story/_/id/46991811/nfl-week-11-trolls",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-17T16:39:47+0000",
+      "published": "2025-11-17T16:54:33+0000",
       "summary": "A busy week in the NFL prompted the usual trolls around the league."
-    },
-    {
-      "id": "3d2e507a3bd2d760",
-      "title": "Former Steelers star Antonio Brown could face up to 30 years in prison on attempted murder charge",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/former-steelers-star-antonio-brown-could-face-up-to-30-years-in-prison-on-attempted-murder-charge-162939053.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-17T16:29:39+0000",
-      "summary": "Former NFL wide receiver Antonio Brown could face up to 30 years in prison for attempted murder after firing two shots following a celebrity boxing event in Miami on May 16."
     },
     {
       "id": "a04a998f4d2bb22d",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-06T21:21:32+0000",
       "summary": "INDIANAPOLIS – No sooner do the Indianapolis Colts add one top-tier player to their defense than another is ruled out. Tackle DeForest Buckner, the undeniable cornerstone of Lou Anarumo’s defense, has been ruled out and will not make the trip to Berlin for Sunday’s game against the Atlanta Falcons. Buckner suffered a neck injury in [...]"
-    },
-    {
-      "id": "4a0f15de3c4e9fec",
-      "title": "How Sauce Gardner brings even more versatility, possibilities to Colts defense",
-      "link": "https://colts.com/news/sauce-gardner-colts-defense-versatility-charvarius-ward-jaylon-jones-kenny-moore-lou-anarumo-coverage",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T21:03:44+0000",
-      "summary": "Gardner's personality and his \"rare\" football skills have helped him immediately fit in with the rest of the Colts defense."
-    },
-    {
-      "id": "0803b27cf3e4eb51",
-      "title": "Practice Notebook: DeForest Buckner ruled out for Colts' Week 10 game vs. Falcons in Berlin",
-      "link": "https://colts.com/news/practice-notebook-deforest-buckner-ruled-out-for-of-colts-week-10-game-vs-falcons-in-berlin",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T20:49:46+0000",
-      "summary": "Buckner (neck) was ruled out on Thursday and will not travel with the team to Berlin."
-    },
-    {
-      "id": "dd468372f5101233",
-      "title": "Colts Blue Zone Podcast 439: Sauce Gardner Trade; Colts-Falcons in Berlin",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-439-sauce-gardner-trade-colts-falcons-in-berlin/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-06T19:37:39+0000",
-      "summary": "The Indianapolis Colts sent a shockwave through the NFL by trading two first-round picks and AD Mitchell to the New York Jets in exchange for elite cornerback Sauce Gardner. Dave Griffiths, Mike Chappell and Matt Adams discuss the trade and Indy's upcoming game against the Atlanta Falcons in Berlin. NOTE: As the podcast was being [...]"
-    },
-    {
-      "id": "2b3a0bc7cd3b88df",
-      "title": "Sauce Gardner confident and fully prepared to 'go out there and ball' in Colts debut",
-      "link": "https://colts.com/news/sauce-gardner-colts-debut-week-10-atlanta-falcons-cornerback-trade-jets-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T18:40:30+0000",
-      "summary": "Gardner cleared concussion protocol and will play in the Colts' Week 10 game vs. the Atlanta Falcons in Berlin."
     }
   ],
   "links": [
