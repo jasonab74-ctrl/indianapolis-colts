@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-18T06:28:20+00:00",
+  "updated": "2025-11-18T06:52:08+00:00",
   "items": [
     {
       "id": "cf931c48acddccf0",
@@ -18,6 +18,24 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-18T05:48:50+0000",
       "summary": "Brissett set an NFL record with 47 pass completions on Sunday."
+    },
+    {
+      "id": "cac7b474026a303b",
+      "title": "Raiders star TE Brock Bowers shatters Sam LaPorta’s NFL record amid MNF blowout",
+      "link": "https://sports.yahoo.com/article/raiders-star-te-brock-bowers-054056701.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-18T05:40:56+0000",
+      "summary": "Las Vegas Raiders star TE Brock Bowers breaks Sam LaPorta’s NFL receptions record during MNF, marking another milestone in his young career."
+    },
+    {
+      "id": "230aa6cc1e1c4368",
+      "title": "Fantasy Football Wide Receiver Rankings: Week 12",
+      "link": "https://sports.yahoo.com/article/fantasy-football-wide-receiver-rankings-054038436.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-18T05:40:38+0000",
+      "summary": "Here we will look at our NFL Fantasy Football Wide Receiver Rankings entering Week 12 of the 2025 regular season."
     },
     {
       "id": "d3e00ee9864485d7",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-06T21:21:32+0000",
       "summary": "INDIANAPOLIS – No sooner do the Indianapolis Colts add one top-tier player to their defense than another is ruled out. Tackle DeForest Buckner, the undeniable cornerstone of Lou Anarumo’s defense, has been ruled out and will not make the trip to Berlin for Sunday’s game against the Atlanta Falcons. Buckner suffered a neck injury in [...]"
-    },
-    {
-      "id": "4a0f15de3c4e9fec",
-      "title": "How Sauce Gardner brings even more versatility, possibilities to Colts defense",
-      "link": "https://colts.com/news/sauce-gardner-colts-defense-versatility-charvarius-ward-jaylon-jones-kenny-moore-lou-anarumo-coverage",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T21:03:44+0000",
-      "summary": "Gardner's personality and his \"rare\" football skills have helped him immediately fit in with the rest of the Colts defense."
-    },
-    {
-      "id": "0803b27cf3e4eb51",
-      "title": "Practice Notebook: DeForest Buckner ruled out for Colts' Week 10 game vs. Falcons in Berlin",
-      "link": "https://colts.com/news/practice-notebook-deforest-buckner-ruled-out-for-of-colts-week-10-game-vs-falcons-in-berlin",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-06T20:49:46+0000",
-      "summary": "Buckner (neck) was ruled out on Thursday and will not travel with the team to Berlin."
     }
   ],
   "links": [
