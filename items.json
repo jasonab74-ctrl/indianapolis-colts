@@ -1,86 +1,77 @@
 {
-  "updated": "2025-11-19T15:40:04+00:00",
+  "updated": "2025-11-19T16:25:42+00:00",
   "items": [
+    {
+      "id": "25d39cce38431e7c",
+      "title": "Browns say QB Sanders to make 1st NFL start",
+      "link": "https://espn.com/nfl/story/_/id/47023248/browns-qb-shedeur-sanders-make-1st-nfl-start-coach-says",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-19T16:17:02+0000",
+      "summary": "Shedeur Sanders will start at quarterback for the Browns on Sunday against the Raiders, coach Kevin Stefanski said Wednesday."
+    },
+    {
+      "id": "d53eb8c3de64a2ea",
+      "title": "Bears sign former Tennessee linebacker in Week 12",
+      "link": "https://sports.yahoo.com/article/bears-sign-former-tennessee-linebacker-161535163.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T16:15:35+0000",
+      "summary": "Former Vol signs with Chicago in Week 12 of the 2025 NFL season."
+    },
+    {
+      "id": "636d39d0b7d198d4",
+      "title": "Rookie quarterback Shedeur Sanders to make his first NFL start for Browns on Sunday against Raiders",
+      "link": "https://sports.yahoo.com/article/rookie-quarterback-shedeur-sanders-first-160836788.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T16:08:36+0000",
+      "summary": "Shedeur Sanders will make his first NFL start on Sunday in Las Vegas as the Browns turn to the high-profile quarterback while fellow rookie Dillon Gabriel recovers from a concussion.  Sanders replaced an injured Gabriel for the second half of last week's 23-16 loss to Baltimore.  It was a shaky debut as Sanders, who was drafted by Cleveland in the fifth round, completed just 4 of 16 passes with an interception."
+    },
+    {
+      "id": "c66934727c8cdfbf",
+      "title": "Browns announce huge Shedeur Sanders starting news for Week 12 vs. Raiders",
+      "link": "https://sports.yahoo.com/article/browns-announce-huge-shedeur-sanders-160646160.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T16:06:46+0000",
+      "summary": "The Browns are giving Shedeur Sanders his first NFL start in Week 12."
+    },
+    {
+      "id": "6d0ecdabd3972bad",
+      "title": "NFL’s Jalon Walker returns to Salisbury to hand out more than 300 meals",
+      "link": "https://sports.yahoo.com/article/nfl-jalon-walker-returns-salisbury-160627324.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T16:06:27+0000",
+      "summary": "NFL player Jalon Walker returned to his hometown of Salisbury to distribute over 300 meals at his family church in East Spencer."
+    },
+    {
+      "id": "3020415b58aacf58",
+      "title": "Lou Anarumo on his message to Sauce Gardner and how he evaluated his Colts' debut",
+      "link": "https://sports.yahoo.com/article/lou-anarumo-message-sauce-gardner-160519512.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T16:05:19+0000",
+      "summary": "Lou Anarumo shared his message to Sauce Gardner and how he felt the cornerback played in his debut."
+    },
+    {
+      "id": "16a567c4d994397e",
+      "title": "Vance Joseph is having the time of his life",
+      "link": "https://sports.yahoo.com/article/vance-joseph-having-time-life-160313487.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T16:03:13+0000",
+      "summary": "As ESPN reporter Sergio Dipp once said, Vance Joseph is having the time of his life! Vance Joseph is the mastermind behind the Denver Broncos’ defense that is once again leading the NFL in sacks, proving to be an elite unit in the NFL, and a big reason why the Broncos are 9-2, leading the […]"
+    },
     {
       "id": "e18e3153da7bc8ee",
       "title": "Buzz around the NFL: Will Burrow or Daniels be back on the field? Which coaches are on the hot seat?",
       "link": "https://espn.com/nfl/story/_/id/47012464/nfl-week-12-buzz-news-updates-fantasy-intel-questions-predictions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-19T15:36:17+0000",
-      "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat? Here's what we're hearing."
-    },
-    {
-      "id": "4adddd62f1c8937c",
-      "title": "ESPN's latest NFL mock draft projects this Titans-Jets trade. Would you take it?",
-      "link": "https://sports.yahoo.com/article/espns-latest-nfl-mock-draft-153227012.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:32:27+0000",
-      "summary": "ESPN's latest NFL mock draft for 2026 has the Titans trading back and making two first-round picks this year. Is that haul enough to move off of No. 1 overall?"
-    },
-    {
-      "id": "f1c8cc7e72e2e6fd",
-      "title": "TV broadcast maps and announcers for Week 12 of the 2025 season",
-      "link": "https://sports.yahoo.com/article/tv-broadcast-maps-announcers-week-152830267.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:28:30+0000",
-      "summary": "Here are the television broadcast maps and announcers for Week 12 of the 2025 NFL season . . ."
-    },
-    {
-      "id": "b79a80f14de23f1c",
-      "title": "49ers predicted to add national champion defensive lineman in 2026 NFL draft",
-      "link": "https://sports.yahoo.com/article/49ers-predicted-add-national-champion-152153394.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:21:53+0000",
-      "summary": "The San Francisco 49ers have some talent along their defensive line, but they could use more, and that could come early in the 2026 NFL draft."
-    },
-    {
-      "id": "082d08a1067ff63a",
-      "title": "NFL TV broadcast map for the Baltimore Ravens vs. New York Jets in Week 12",
-      "link": "https://sports.yahoo.com/article/nfl-tv-broadcast-map-baltimore-152028479.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:20:28+0000",
-      "summary": "The TV broadcast map from 506 Sports has been released, and fans in Baltimore and the New York Metropolitan area will see the Ravens host the Jets on CBS"
-    },
-    {
-      "id": "9e670a31332f7614",
-      "title": "Matthew Berry’s Fantasy Football Rankings for Week 12 of 2025 season",
-      "link": "https://sports.yahoo.com/article/matthew-berry-fantasy-football-rankings-151837150.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:18:37+0000",
-      "summary": "Drake Maye, Christian McCaffrey, Puka Nacua, and Trey McBride highlight positional rankings for Week 12 of the 2025 NFL season."
-    },
-    {
-      "id": "e371ccc48a5a3d43",
-      "title": "Saints reportedly expect to host NFL's first-ever game in Paris",
-      "link": "https://sports.yahoo.com/nfl/article/saints-reportedly-expect-to-host-nfls-first-ever-game-in-paris-151821314.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:18:21+0000",
-      "summary": "Team president Dennis Lauscha said Tuesday that an announcement could come in the next few weeks"
-    },
-    {
-      "id": "20183ecb2884ff14",
-      "title": "Bills vs Texans Predictions, Picks & Best Bets for Thursday Night Football Week 12",
-      "link": "https://sports.yahoo.com/article/bills-vs-texans-predictions-picks-141200195.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:18:15+0000",
-      "summary": "Bills vs. Texans predictions and NFL Picks for Week 12 TNF. Woody Marks and the Houston ground game combine with an elite defense to clear the Under."
-    },
-    {
-      "id": "b392673f4a2ff668",
-      "title": "Lions plummet after Week 11 loss in latest NFL power poll rankings",
-      "link": "https://sports.yahoo.com/article/lions-plummet-week-11-loss-151606012.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-19T15:16:06+0000",
-      "summary": "The Lions plummet after Week 11 loss to Eagles in latest NFL power poll rankings"
+      "published": "2025-11-19T15:38:09+0000",
+      "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat?"
     },
     {
       "id": "0f69ea8710abc669",
@@ -90,33 +81,6 @@
       "feed": "ESPN",
       "published": "2025-11-19T15:04:51+0000",
       "summary": "Matthew Stafford is now the favorite to win MVP, but can he hold off Drake Maye, Josh Allen, Patrick Mahomes and Taylor?"
-    },
-    {
-      "id": "9778b13285134cde",
-      "title": "The Colts must avoid laying the egg",
-      "link": "https://stampedeblue.com/analysis/117937/the-colts-must-avoid-laying-the-egg",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-19T14:58:55+0000",
-      "summary": "The Colts get a chance to win on two fronts this coming Sunday. A win over the Chiefs, likely keeps KC out of the tourney that might as well be named for them over the last 7 years. No one will have stuck a fork in them, but it would put them at 5 &#8211; [&#8230;]"
-    },
-    {
-      "id": "9d20c09ee1ebbc9b",
-      "title": "Josh Downs and the art of moving the chains",
-      "link": "https://stampedeblue.com/analysis/117199/josh-downs-and-the-art-of-moving-the-chains",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-19T14:00:00+0000",
-      "summary": "Josh Downs has established himself as a great option on third down and the best one on the Colts. One big reason Josh Downs looks so good on money downs is that the Colts’ offense keeps third down manageable. Indy is sitting near the top of the league in third-down conversion rate, and team pieces [&#8230;]"
-    },
-    {
-      "id": "f60aa0408d8c5680",
-      "title": "Matchup rankings: Upgrade Tetairoa McMillan, downgrade Dak Prescott",
-      "link": "https://espn.com/fantasy/football/story/_/id/47012514/fantasy-football-rankings-tips-nfl-week-12-matchups-qb-rb-wr-te",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-19T13:48:08+0000",
-      "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions: QB, RB, WR and TE."
     },
     {
       "id": "761f9796abd62b37",
@@ -180,6 +144,15 @@
       "feed": "Stampede Blue",
       "published": "2025-11-18T23:00:00+0000",
       "summary": "Unsung hero, underappreciated, unexpectedly fast — these are just a few words that aptly describe Indianapolis Colts’ wide receiver Alec Pierce. Being known for his blazing speed is one thing, and being regarded as a ‘deep threat’ in the NFL is equal parts complimentary as it is derogatory, except somehow, they go hand in hand; [&#8230;]"
+    },
+    {
+      "id": "757408d4035b2439",
+      "title": "How to watch the Indianapolis Colts at Kansas City Chiefs on November 23, 2025",
+      "link": "https://colts.com/news/how-to-watch-colts-at-chiefs-week-12-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-18T22:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Kansas City Chiefs on Sunday, November 23 at 1:00 p.m. ET (Week 12)."
     },
     {
       "id": "410c4c00c87a7c61",
@@ -272,6 +245,15 @@
       "summary": "Colts Ring of Honor wide receiver Bill Brooks gives his perspective on Jonathan Taylor’s historic performance so far this season, what Sauce Gardner’s arrival means and how crucial the Colts’ bye week was before the last seven games of the regular season."
     },
     {
+      "id": "6d4bc21671183c30",
+      "title": "Did the Colts lose the bye week?",
+      "link": "https://stampedeblue.com/analysis/117931/did-the-colts-lose-the-bye-week",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-17T18:46:47+0000",
+      "summary": "The Indianapolis Colts did not play in the NFL’s Week 11 slate, but they still took a loss of sorts. Although Indy’s commercial break from regularly scheduled programming allowed them to reset both mentally and phyiscally, they had to sit back and watch the rest of the league fight for playoff seeding. As a result, [&#8230;]"
+    },
+    {
       "id": "6e2d25450687ab11",
       "title": "Around the AFC South: Jaguars dominate Chargers, Texans squeeze out win over Titans",
       "link": "https://colts.com/news/week-11-afc-south-jaguars-trevor-lawrence-chargers-texans-titans-davis-mills-cj-stroud-colts",
@@ -279,6 +261,24 @@
       "feed": "Colts.com",
       "published": "2025-11-17T17:03:08+0000",
       "summary": "The Jaguars are now 6-4 and the Texans are 5-5; the Colts remain atop the division with an 8-2 record after the bye week."
+    },
+    {
+      "id": "0a44916c8d676562",
+      "title": "Colts-Chiefs opening odds: Colts have another shot at statement win",
+      "link": "https://stampedeblue.com/indianapolis-colts-odds/117925/colts-chiefs-opening-odds-colts-have-another-shot-a-statement-win",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-17T14:00:00+0000",
+      "summary": "The Indianapolis Colts and Kansas City Chiefs have been running in different NFL social circles over the last seven or so years. The Chiefs have made many deep playoff runs and hoisted three Lombardi trophies over that time. Meanwhile, the Colts have been treading water and searching for an identity. Just like all pendulums, this [&#8230;]"
+    },
+    {
+      "id": "c48bda548e133b4d",
+      "title": "AFC Playoff Picture: Colts fall from first to third on Week 11 bye",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/117921/afc-playoff-picture-colts-fall-from-first-to-third-on-week-11-bye",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-17T01:02:59+0000",
+      "summary": "The Indianapolis Colts are on the bye in Week 11, and while they entered it in first place in the AFC, they have dropped not one but two slots in the playoff picture. The New England Patriots became the first nine-win team in the NFL on Thursday night, defeating the New York Jets, and taking [&#8230;]"
     },
     {
       "id": "2557c53a085e9595",
