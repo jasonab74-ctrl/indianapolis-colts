@@ -1,13 +1,22 @@
 {
-  "updated": "2025-11-19T22:18:01+00:00",
+  "updated": "2025-11-19T22:40:59+00:00",
   "items": [
+    {
+      "id": "dbb34cca52c17ef5",
+      "title": "Lamar on injury report again, this time for ankle",
+      "link": "https://espn.com/nfl/story/_/id/47027608/ravens-lamar-jackson-misses-practice-ankle-injury",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-19T22:34:56+0000",
+      "summary": "For the second straight week, Lamar Jackson didn't practice for the Ravens on Wednesday. But, this time, the two-time NFL Most Valuable Player is listed with an ankle injury."
+    },
     {
       "id": "25d39cce38431e7c",
       "title": "Browns say QB Sanders to make first NFL start",
       "link": "https://espn.com/nfl/story/_/id/47023248/browns-qb-shedeur-sanders-make-1st-nfl-start-coach-says",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-19T22:00:05+0000",
+      "published": "2025-11-19T22:34:56+0000",
       "summary": "Shedeur Sanders will start at quarterback for the Browns against the Raiders, coach Kevin Stefanski said."
     },
     {
@@ -16,26 +25,35 @@
       "link": "https://espn.com/nfl/story/_/id/47010772/nfl-carolina-panthers-christian-mccaffrey-bryce-young-trade",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-19T22:00:05+0000",
+      "published": "2025-11-19T22:34:56+0000",
       "summary": "The 2022 trade helped Carolina land Bryce Young, but McCaffrey leads the NFL in scrimmage yards in 2025."
     },
     {
-      "id": "8e460120a31fa04a",
-      "title": "Indianapolis Colts Injury Report: CB Ward and LB Carlies Return To Practice",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118045/indianapolis-colts-injury-report-cb-ward-and-lb-carlies-return-to-practice",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-19T21:50:30+0000",
-      "summary": "The Indianapolis Colts today released their Wednesday injury report for Week 12 of the NFL season against the Kansas City Chiefs on Sunday. Linebacker Jaylon Carlies was a full participant today at practice. Carlies has been on injured reserve all year with an ankle injury. The team announced they were opening the 21 practice window [&#8230;]"
-    },
-    {
-      "id": "1e0d8d73a6e2b254",
-      "title": "Indianapolis Colts Injury Report: CB Ward and LB Carlies Return To Practice",
-      "link": "https://sports.yahoo.com/article/indianapolis-colts-injury-report-cb-215030238.html",
+      "id": "fe8a50d5d87ba0b0",
+      "title": "NFL betting, odds, lines: Betting trends to know for Week 12's biggest games",
+      "link": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-lines-betting-trends-to-know-for-week-12s-biggest-games-223120508.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-19T21:50:30+0000",
-      "summary": "The Colts are seemingly getting healthier defensively at the right time."
+      "published": "2025-11-19T22:31:20+0000",
+      "summary": "Week 12 NFL betting trends to know for the biggest games, including a Colts-Chiefs showdown."
+    },
+    {
+      "id": "fdcd349b1c751303",
+      "title": "Texans claim LB Damone Clark off of waivers",
+      "link": "https://sports.yahoo.com/article/texans-claim-lb-damone-clark-222254153.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T22:22:54+0000",
+      "summary": "Linebacker Damone Clark was cut by the Cowboys on Tuesday, but he won't have to leave Texas to continue his NFL career."
+    },
+    {
+      "id": "1d41949ea9d06204",
+      "title": "NFL Week 12 Bet of the Week",
+      "link": "https://sports.yahoo.com/article/nfl-week-12-bet-week-221337120.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-19T22:13:37+0000",
+      "summary": "FTN’s NFL Week 12 Bet of the Week is powered by our advanced model that simulates every game 10,000 times. Find this week’s top edge, complete with true odds and expert analysis. FTN’s NFL Bet of the Week: Colts +3.5&hellip;"
     },
     {
       "id": "085ff8d961de4408",
@@ -243,6 +261,15 @@
       "feed": "Colts.com",
       "published": "2025-11-18T18:55:44+0000",
       "summary": "The Colts made the roster moves on Tuesday."
+    },
+    {
+      "id": "5b2e6c043ef838b1",
+      "title": "Sauce Gardner is looking forward to ‘putting on a clinic’ alongside Charvarius Ward",
+      "link": "https://stampedeblue.com/analysis/117941/sauce-gardner-is-looking-forward-to-putting-on-a-clinic-alongside-charvarius-ward",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-18T17:26:36+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts, specifically their defense, underwent an overnight transformation with one phone call. After months of inconsistent play in the passing game on defense, Colts general manager Chris Ballard secured the biggest move of his tenure by trading two first-round picks and second-year WR AD Mitchell to the New York Jets [&#8230;]"
     },
     {
       "id": "b7b283f71f6776f7",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-07T17:18:56+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ defense has been delivered a significant blow. Tackle DeForest Buckner, a franchise cornerstone and interior anchor for Lou Anarumo’s defense, has been placed on the injured reserve list with a neck injury suffered in last Sunday’s loss at Pittsburgh. Coach Shane Steichen made the announcement after putting the Colts through [...]"
-    },
-    {
-      "id": "a9e03717874bf343",
-      "title": "Colts rule out DE Samson Ebukam, DE Tyquan Lewis, DT DeForest Buckner for Week 10 game vs. Atlanta Falcons",
-      "link": "https://colts.com/news/colts-rule-out-de-samson-ebukam-de-tyquan-lewis-dt-deforest-buckner-for-week-10-game-vs-atlanta-falcons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-07T17:10:01+0000",
-      "summary": "The Colts placed Buckner (neck) on injured reserve on Friday."
-    },
-    {
-      "id": "606ea0d77978fb29",
-      "title": "Colts place DT DeForest Buckner on injured reserve",
-      "link": "https://colts.com/news/colts-place-dt-deforest-buckner-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-07T17:08:25+0000",
-      "summary": "Buckner will miss at least the Colts' next four games."
-    },
-    {
-      "id": "92a94801f194532c",
-      "title": "Colts cheerleaders prepare to take entire squad overseas for the first time",
-      "link": "https://fox59.com/morning-news/colts-cheerleaders-prepare-to-take-entire-squad-overseas-for-the-first-time/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-07T15:38:00+0000",
-      "summary": "INDIANAPOLIS - The Indianapolis Colts are hard at work to keep the momentum of the season going as they touch down in Germany to take on the Atlanta Falcons on Sunday. For the first time, the entire Colts cheerleading squad will travel with the team overseas. When it comes to preparing to travel 4500 miles across the world to [...]"
     }
   ],
   "links": [
