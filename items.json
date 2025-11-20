@@ -1,14 +1,68 @@
 {
-  "updated": "2025-11-20T15:20:03+00:00",
+  "updated": "2025-11-20T15:42:47+00:00",
   "items": [
     {
-      "id": "8df9fcac20e2533f",
-      "title": "NFL Week 12 Picks: ChatGPT Predicts the Winner of Every Game",
-      "link": "https://sports.yahoo.com/article/nfl-week-12-picks-chatgpt-150200520.html",
+      "id": "da9cbb5f73c6be6f",
+      "title": "The Playbook: Shadow Reports, lineup locks for Week 12",
+      "link": "https://espn.com/fantasy/football/story/_/id/47008913/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-12-shadow-reports-mike-clay",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-20T15:35:12+0000",
+      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
+    },
+    {
+      "id": "214670eb2af6d1e0",
+      "title": "Matt Bowen's ultimate guide to winning a fantasy football championship",
+      "link": "https://espn.com/fantasy/football/story/_/id/47023923/fantasy-football-playoffs-tips-strategy-pickups",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-20T15:35:12+0000",
+      "summary": "Even Jonathan Taylor can't do it all by himself. Fantasy managers have a role to play too.  Here's what to do."
+    },
+    {
+      "id": "8dc93faf423ea7d1",
+      "title": "Why is Nick Sirianni seen differently than other successful NFL coaches?",
+      "link": "https://espn.com/nfl/story/_/id/47011446/2025-nfl-season-philadelphia-eagles-nick-sirianni-scrutiny-coaching-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-20T15:34:07+0000",
+      "summary": "The Eagles' head coach is 56-22 over five seasons, including two trips to the Super Bowl."
+    },
+    {
+      "id": "8e79a698c3f00e39",
+      "title": "Why was Keon Coleman benched? A timeline of trouble with Bills leading to Week 11 healthy scratch",
+      "link": "https://sports.yahoo.com/article/why-keon-coleman-benched-timeline-135409319.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-20T15:02:00+0000",
-      "summary": "Get straight‑up moneyline picks from ChatGPT for every NFL Week 12 game, plus savvy analysis to bet the slate with confidence."
+      "published": "2025-11-20T15:33:00+0000",
+      "summary": "Here is more on the history of Bills WR Keon Coleman being benched since his NFL debut."
+    },
+    {
+      "id": "13642ea51a516d25",
+      "title": "Josh Allen honored by NFL for historic performance in Bills Week 11 win",
+      "link": "https://sports.yahoo.com/article/josh-allen-honored-nfl-historic-152627562.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-20T15:26:27+0000",
+      "summary": "Josh Allen added to his legacy with an effort in the Bills' Week 11 win that is historically significant in more ways than one."
+    },
+    {
+      "id": "40e3d82ac50bac1e",
+      "title": "NFL Network had its most-watched slate of Sunday morning Europe games this season",
+      "link": "https://sports.yahoo.com/article/nfl-network-had-most-watched-152303850.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-20T15:23:03+0000",
+      "summary": "Many NFL fans would prefer for their teams not to give up home games to play overseas, but all indications are that the NFL thinks playing in foreign countries is good for business."
+    },
+    {
+      "id": "eaca13aefc6028f3",
+      "title": "Tennessee Titans vs. Seattle Seahawks: NFL experts make Week 12 picks",
+      "link": "https://sports.yahoo.com/article/tennessee-titans-vs-seattle-seahawks-152104312.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-20T15:21:04+0000",
+      "summary": "NFL experts from round the league make their picks in the Tennessee Titans vs. Seattle Seahawks Week 12 matchup."
     },
     {
       "id": "69da6e52d3958905",
@@ -18,33 +72,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-20T15:01:00+0000",
       "summary": "Week twelve in the NFL means a lot of things. By this point, there is a strong sense of who is good, who is not, who is a contender, and who is picking out locations for the 2026 draft party. We already know so much because every team has played at least ten games. Week [&#8230;]"
-    },
-    {
-      "id": "72da7aefee6e764b",
-      "title": "Colts-Chiefs will go a long way towards shaping the AFC playoff picture",
-      "link": "https://sports.yahoo.com/article/colts-chiefs-long-way-towards-150100633.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T15:01:00+0000",
-      "summary": "Colts are hoping for a win, but either way, things will be different in the AFC."
-    },
-    {
-      "id": "0bef0d4113f1c317",
-      "title": "All 32 NFL quarterbacks (including Bo Nix) ranked by Total QBR in Week 12",
-      "link": "https://sports.yahoo.com/article/32-nfl-quarterbacks-including-bo-150039396.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T15:00:39+0000",
-      "summary": "Broncos QB Bo Nix ranks 19th among starters with a 53.3 Total QBR rating."
-    },
-    {
-      "id": "712ad44d7d889d49",
-      "title": "No other CB has done what Darious Williams has over the past 6 seasons",
-      "link": "https://sports.yahoo.com/article/no-other-cb-done-darious-150030337.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T15:00:30+0000",
-      "summary": "Darious Williams has been lowkey one of the best defensive backs in the NFL for the past six seasons."
     },
     {
       "id": "dbb34cca52c17ef5",
@@ -63,33 +90,6 @@
       "feed": "ESPN",
       "published": "2025-11-20T14:18:36+0000",
       "summary": "As he seeks better consistency as an NFL quarterback and rebuilds his mechanics, Minnesota's J.J. McCarthy likened his situation to a \"cork about to come off a bottle.\""
-    },
-    {
-      "id": "8dc93faf423ea7d1",
-      "title": "Barnwell: Is Nick Sirianni the most scrutinized successful coach in NFL history?",
-      "link": "https://espn.com/nfl/story/_/id/47011446/2025-nfl-season-philadelphia-eagles-nick-sirianni-scrutiny-coaching-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-20T13:47:30+0000",
-      "summary": "The Eagles' head coach is 56-22 over five seasons, including two trips to the Super Bowl."
-    },
-    {
-      "id": "da9cbb5f73c6be6f",
-      "title": "The Playbook: Shadow Reports, lineup locks for Week 12",
-      "link": "https://espn.com/fantasy/football/story/_/id/47008913/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-12-shadow-reports-mike-clay",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-20T13:21:05+0000",
-      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
-    },
-    {
-      "id": "214670eb2af6d1e0",
-      "title": "Matt Bowen's ultimate guide to winning a fantasy football championship",
-      "link": "https://espn.com/fantasy/football/story/_/id/47023923/fantasy-football-playoffs-tips-strategy-pickups",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-20T13:21:05+0000",
-      "summary": "Even Jonathan Taylor can't do it all by himself. Fantasy managers have a role to play too.  Here's what to do."
     },
     {
       "id": "0f69ea8710abc669",
