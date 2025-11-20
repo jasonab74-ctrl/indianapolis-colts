@@ -1,6 +1,24 @@
 {
-  "updated": "2025-11-20T01:23:07+00:00",
+  "updated": "2025-11-20T02:53:49+00:00",
   "items": [
+    {
+      "id": "3559d8ecdc23700c",
+      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
+      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-20T01:40:03+0000",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
+    {
+      "id": "e18e3153da7bc8ee",
+      "title": "Buzz around the NFL: Will Burrow or Daniels be back on the field? Which coaches are on the hot seat?",
+      "link": "https://espn.com/nfl/story/_/id/47012464/nfl-week-12-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-20T01:38:56+0000",
+      "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat?"
+    },
     {
       "id": "dbb34cca52c17ef5",
       "title": "Lamar on injury report again, this time for ankle",
@@ -29,15 +47,6 @@
       "summary": "The 2022 trade helped Carolina land Bryce Young, but McCaffrey leads the NFL in scrimmage yards in 2025."
     },
     {
-      "id": "c1fbfaf5706f6194",
-      "title": "NFL Fantasy Football: Start 'em, sit 'em in Week 12",
-      "link": "https://sports.yahoo.com/article/nfl-fantasy-football-start-em-010410322.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T01:04:10+0000",
-      "summary": "The 12th week of the NFL season has 14 games scheduled and that means huge fantasy football decisions."
-    },
-    {
       "id": "091e7aa0c15ee8c0",
       "title": "Sauce Gardner, Charvarius Ward give Colts elite cornerback tandem",
       "link": "https://fox59.com/sports/colts/sauce-gardner-charvarius-ward-give-colts-elite-cornerback-tandem/",
@@ -45,15 +54,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-19T23:13:04+0000",
       "summary": "INDIANAPOLIS – A pair of bold moves – one early, one late – begs the question. When’s the last time the Indianapolis Colts’ cornerbacks room housed this level of bookend talent? We’ll save you the trouble of flipping through your mental Rolodex. Never. “When you’ve got two legit corners on the outside, obviously it helps [...]"
-    },
-    {
-      "id": "3559d8ecdc23700c",
-      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
-      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-19T23:01:23+0000",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
     },
     {
       "id": "8b23e542fb6086fa",
@@ -126,15 +126,6 @@
       "feed": "ESPN",
       "published": "2025-11-19T19:01:49+0000",
       "summary": "How early could Ty Simpson go? What about Makai Lemon, David Bailey and Mansoor Delane? Let's project Round 1 of the 2026 draft -- plus two trades."
-    },
-    {
-      "id": "e18e3153da7bc8ee",
-      "title": "Buzz around the NFL: Will Burrow or Daniels be back on the field? Which coaches are on the hot seat?",
-      "link": "https://espn.com/nfl/story/_/id/47012464/nfl-week-12-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-19T18:53:42+0000",
-      "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat?"
     },
     {
       "id": "234235b108295aac",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-07T17:10:01+0000",
       "summary": "The Colts placed Buckner (neck) on injured reserve on Friday."
+    },
+    {
+      "id": "606ea0d77978fb29",
+      "title": "Colts place DT DeForest Buckner on injured reserve",
+      "link": "https://colts.com/news/colts-place-dt-deforest-buckner-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-07T17:08:25+0000",
+      "summary": "Buckner will miss at least the Colts' next four games."
     }
   ],
   "links": [
