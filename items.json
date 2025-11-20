@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-20T18:28:20+00:00",
+  "updated": "2025-11-20T18:51:57+00:00",
   "items": [
+    {
+      "id": "4678f5595f175837",
+      "title": "Shedeur Sanders Breaks His Silence After $200K Is Stolen in Home Burglary — But He's Happy They Didn't Take These Items",
+      "link": "https://sports.yahoo.com/article/shedeur-sanders-breaks-silence-200k-182800201.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-20T18:28:00+0000",
+      "summary": "The Cleveland Browns quarterback makes his first NFL career start this Sunday"
+    },
     {
       "id": "8dc93faf423ea7d1",
       "title": "Why is Nick Sirianni seen differently than other successful NFL coaches? Sizing up eight arguments",
@@ -9,15 +18,6 @@
       "feed": "ESPN",
       "published": "2025-11-20T18:23:08+0000",
       "summary": "The Eagles' head coach is 56-22 over five seasons, including two trips to the Super Bowl. Yet he's constantly under the microscope. Why?"
-    },
-    {
-      "id": "929806194a42f28d",
-      "title": "Updated 2026 NFL mock draft features three Alabama players projected in first round",
-      "link": "https://sports.yahoo.com/article/updated-2026-nfl-mock-draft-181519004.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T18:15:19+0000",
-      "summary": "ESPN's Matt Miller recently released an updated 2026 NFL mock draft, as the Crimson Tide find three players projected to be first round selections."
     },
     {
       "id": "5a899a0af60c1774",
@@ -36,33 +36,6 @@
       "feed": "ESPN",
       "published": "2025-11-20T18:12:52+0000",
       "summary": "For the second straight week, Lamar Jackson didn't practice for the Ravens on Wednesday. This time, the two-time NFL MVP is listed with an ankle injury."
-    },
-    {
-      "id": "b0988aebf6c9744f",
-      "title": "'Fascinating' NFL Network's Rapoport assesses Joe Burrow's chances of playing vs Patriots",
-      "link": "https://sports.yahoo.com/article/fascinating-nfl-networks-rapoport-assesses-181205781.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T18:12:05+0000",
-      "summary": "NFL Network's Ian Rapoport: &quot;This is a fascinating, fascinating story. And the fact there's at least a chance Joe Burrow plays Sunday is something.&quot;"
-    },
-    {
-      "id": "3444a47e07ae35a4",
-      "title": "2026 NFL draft: What is the current order in Round 1 heading into Week 12?",
-      "link": "https://sports.yahoo.com/article/2026-nfl-draft-current-order-181019965.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T18:10:19+0000",
-      "summary": "Here's the current 2026 NFL draft order for the first round heading into Week 12."
-    },
-    {
-      "id": "b797e8e320bb5f62",
-      "title": "NFL coordinator linked to Oklahoma State opening with Dez Bryant's approval",
-      "link": "https://sports.yahoo.com/article/nfl-coordinator-linked-oklahoma-state-180452093.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T18:04:52+0000",
-      "summary": "The Cowboys may have a match."
     },
     {
       "id": "19a474b7801bc28f",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-11-09T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Atlanta Falcons at Indianapolis Colts on Sunday, November 9 at 9:30 a.m. ET (Week 10)."
+    },
+    {
+      "id": "bfa08437962c48bb",
+      "title": "Colts vs. Falcons in Berlin: What to watch for",
+      "link": "https://fox59.com/sports/colts/colts-vs-falcons-in-berlin-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-08T17:37:34+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Atlanta Falcons at Olympic Stadium in Berlin, Germany. History lesson, Part I This is one of those series the Colts have dominated. They own a 15-3 overall advantage. The Falcons won the most recent meeting – 29-10 in 2023 in Atlanta – [...]"
+    },
+    {
+      "id": "9bf724ec2063b6ce",
+      "title": "Colts sign WR Laquon Treadwell to 53-man roster from practice squad; elevate DE Durell Nchami, DT Tim Smith to active roster from practice squad for Week 10",
+      "link": "https://colts.com/news/colts-sign-laquon-treadwell-53-man-roster-elevate-durell-nchami-tim-smith-deforest-buckner-injured-reserve-falcons-week-10",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-08T14:30:19+0000",
+      "summary": "The Colts on Friday announced DT DeForest Buckner (neck) would be placed on injured reserve."
+    },
+    {
+      "id": "adbb893a435dcc9b",
+      "title": "Colts’ Reggie Wayne on Adonai Mitchell: I think AD was on track",
+      "link": "https://fox59.com/sports/colts/colts-reggie-wayne-on-adonai-mitchell-i-think-ad-was-on-track/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-07T19:20:57+0000",
+      "summary": "INDIANAPOLIS – The business side of the NFL delivered a gut-punch to Adonai Mitchell and one of his staunchest supporters. “It sucks,’’ Reggie Wayne said Thursday. The Indianapolis Colts so coveted Sauce Gardner leading up to Tuesday’s trade deadline that they agreed to send the New York Jets two first-round draft picks for their All-Pro [...]"
     }
   ],
   "links": [
