@@ -1,6 +1,24 @@
 {
-  "updated": "2025-11-20T13:29:34+00:00",
+  "updated": "2025-11-20T13:47:16+00:00",
   "items": [
+    {
+      "id": "2be5d47cf9906d72",
+      "title": "Jaguars’ stout run-defense is among the NFL’s best",
+      "link": "https://sports.yahoo.com/article/jaguars-stout-run-defense-among-133422891.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-20T13:34:22+0000",
+      "summary": "For a defense that’s taken its fair share of hits through the air, it’s the Jaguars’ ability to stop the run and force takeaways that’s going to continue to give them chances to win games."
+    },
+    {
+      "id": "708a171f875f0e36",
+      "title": "4 days after being cut by Broncos, WR finds new NFL team",
+      "link": "https://sports.yahoo.com/article/4-days-being-cut-broncos-133027615.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-20T13:30:27+0000",
+      "summary": "After being cut by the Broncos, WR Trent Sherfield returned to the Cardinals, his first NFL team."
+    },
     {
       "id": "da9cbb5f73c6be6f",
       "title": "The Playbook: Lineup locks, Shadow Reports for Week 12",
@@ -18,42 +36,6 @@
       "feed": "ESPN",
       "published": "2025-11-20T13:21:05+0000",
       "summary": "Even Jonathan Taylor can't do it all by himself. Fantasy managers have a role to play too.  Here's what to do."
-    },
-    {
-      "id": "305ba1cbc0935784",
-      "title": "Buffalo Bills may need big games from James Cook III and Keon Coleman",
-      "link": "https://sports.yahoo.com/article/buffalo-bills-may-big-games-131500458.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T13:15:00+0000",
-      "summary": "The NFL’s top-ranked defense is Buffalo’s opponent this week"
-    },
-    {
-      "id": "50228fdd74e9e9f7",
-      "title": "Travis Kelce Would Chew Taco ‘Hard as F***’",
-      "link": "https://sports.yahoo.com/article/travis-kelce-chew-taco-hard-131430962.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T13:14:30+0000",
-      "summary": "On the latest episode of their New Heights Podcast, Travis and Jason Kelce spoke of Franchise Records, Sanders’ NFL Debut, and a special mention, Taco Domination. After getting a ‘No Dumb’ question from fellow NFL player Cameron Skattebo, the Kelce brothers dived deep into a taco discussion. By the end of it, Travis made sure […] The post Travis Kelce Would Chew Taco ‘Hard as F***’ appeared first on Mandatory."
-    },
-    {
-      "id": "84385afba9fc924d",
-      "title": "Bears offseason trade proposal nabs $160 million superstar in blockbuster deal",
-      "link": "https://sports.yahoo.com/article/bears-offseason-trade-proposal-nabs-131052371.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T13:10:52+0000",
-      "summary": "An NFL analyst has proposed a Chicago Bears trade for the offseason that would land a $160 million superstar edge rusher who can completely change the face of the team's offense."
-    },
-    {
-      "id": "91e06380af7841c2",
-      "title": "NFL picks Week 12: Patriots vs. Bengals",
-      "link": "https://sports.yahoo.com/article/nfl-picks-week-12-patriots-100059801.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T13:03:11+0000",
-      "summary": "The Patriots have won eight games in a row as they prepare for Week 12 against the three-win Cincinnati Bengals."
     },
     {
       "id": "8dc93faf423ea7d1",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-08T17:37:34+0000",
       "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Atlanta Falcons at Olympic Stadium in Berlin, Germany. History lesson, Part I This is one of those series the Colts have dominated. They own a 15-3 overall advantage. The Falcons won the most recent meeting – 29-10 in 2023 in Atlanta – [...]"
+    },
+    {
+      "id": "9bf724ec2063b6ce",
+      "title": "Colts sign WR Laquon Treadwell to 53-man roster from practice squad; elevate DE Durell Nchami, DT Tim Smith to active roster from practice squad for Week 10",
+      "link": "https://colts.com/news/colts-sign-laquon-treadwell-53-man-roster-elevate-durell-nchami-tim-smith-deforest-buckner-injured-reserve-falcons-week-10",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-08T14:30:19+0000",
+      "summary": "The Colts on Friday announced DT DeForest Buckner (neck) would be placed on injured reserve."
+    },
+    {
+      "id": "adbb893a435dcc9b",
+      "title": "Colts’ Reggie Wayne on Adonai Mitchell: I think AD was on track",
+      "link": "https://fox59.com/sports/colts/colts-reggie-wayne-on-adonai-mitchell-i-think-ad-was-on-track/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-07T19:20:57+0000",
+      "summary": "INDIANAPOLIS – The business side of the NFL delivered a gut-punch to Adonai Mitchell and one of his staunchest supporters. “It sucks,’’ Reggie Wayne said Thursday. The Indianapolis Colts so coveted Sauce Gardner leading up to Tuesday’s trade deadline that they agreed to send the New York Jets two first-round draft picks for their All-Pro [...]"
     }
   ],
   "links": [
