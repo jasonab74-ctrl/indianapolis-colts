@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-20T05:18:48+00:00",
+  "updated": "2025-11-20T05:42:19+00:00",
   "items": [
     {
       "id": "0f69ea8710abc669",
@@ -54,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-11-20T04:55:38+0000",
       "summary": "Will Joe Burrow and Jayden Daniels play again this season? Are the Vikings worried about J.J. McCarthy? And which coaches are on the hot seat?"
-    },
-    {
-      "id": "b1efe3ca8206fc11",
-      "title": "Jets’ Tyrod Taylor comments on his longevity in the NFL",
-      "link": "https://sports.yahoo.com/article/jets-tyrod-taylor-comments-longevity-042949060.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-20T04:29:49+0000",
-      "summary": "Taylor is now in his 15th NFL season."
     },
     {
       "id": "3559d8ecdc23700c",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-07T17:10:01+0000",
       "summary": "The Colts placed Buckner (neck) on injured reserve on Friday."
+    },
+    {
+      "id": "606ea0d77978fb29",
+      "title": "Colts place DT DeForest Buckner on injured reserve",
+      "link": "https://colts.com/news/colts-place-dt-deforest-buckner-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-07T17:08:25+0000",
+      "summary": "Buckner will miss at least the Colts' next four games."
     }
   ],
   "links": [
