@@ -1,14 +1,32 @@
 {
-  "updated": "2025-11-21T07:39:31+00:00",
+  "updated": "2025-11-21T08:26:49+00:00",
   "items": [
+    {
+      "id": "9dc6fca56185aeb2",
+      "title": "Texans' D thumps Bills, stakes claim as NFL's best",
+      "link": "https://espn.com/nfl/story/_/id/47045167/texans-defense-thumps-bills-stakes-claim-league-best",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-21T08:19:30+0000",
+      "summary": "Against one of the NFL's top offenses, the Texans showed why they have the No. 1-ranked defense, sacking Josh Allen eight times and forcing three turnovers in a 23-19 win."
+    },
     {
       "id": "d45efb12d28137b5",
       "title": "Darnold: Seattle's NFL-high 20 TO's 'unacceptable'",
       "link": "https://espn.com/nfl/story/_/id/47041061/darnold-says-seahawks-nfl-worst-20-turnovers-unacceptable",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-21T04:45:51+0000",
+      "published": "2025-11-21T08:19:30+0000",
       "summary": "Seahawks quarterback Sam Darnold says he understands he and the team have to be better protecting the ball after a four-week stretch in which they've committed 12 turnovers, bringing their NFL-worst total to 20."
+    },
+    {
+      "id": "8dc93faf423ea7d1",
+      "title": "Why is Nick Sirianni seen differently than other successful NFL coaches? Sizing up eight arguments",
+      "link": "https://espn.com/nfl/story/_/id/47011446/2025-nfl-season-philadelphia-eagles-nick-sirianni-scrutiny-coaching-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-21T08:18:09+0000",
+      "summary": "The Eagles' head coach is 56-22 over five seasons, including two trips to the Super Bowl. Yet he's constantly under the microscope. Why?"
     },
     {
       "id": "84be642ada748db5",
@@ -126,15 +144,6 @@
       "feed": "Colts.com",
       "published": "2025-11-20T19:11:57+0000",
       "summary": "Colts defensive backs coach Jerome Henderson did extensive research on Sauce Gardner in 2022, while head coach Shane Steichen scouted Daniel Jones in 2019. Neither coach was with the Colts at the time, but the work they did three and six years ago has paid off in 2025."
-    },
-    {
-      "id": "8dc93faf423ea7d1",
-      "title": "Why is Nick Sirianni seen differently than other successful NFL coaches? Sizing up eight arguments",
-      "link": "https://espn.com/nfl/story/_/id/47011446/2025-nfl-season-philadelphia-eagles-nick-sirianni-scrutiny-coaching-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-20T18:23:08+0000",
-      "summary": "The Eagles' head coach is 56-22 over five seasons, including two trips to the Super Bowl. Yet he's constantly under the microscope. Why?"
     },
     {
       "id": "19a474b7801bc28f",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-09T14:22:28+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question. This week Chris asks the players what their favorite vacation destination is."
-    },
-    {
-      "id": "b9f72fa4570d72a9",
-      "title": "Colts announce 7 inactive players for Week 10 game vs. Atlanta Falcons",
-      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-10-game-vs-atlanta-falcons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-09T13:00:54+0000",
-      "summary": "The Colts prior to Sunday ruled out defensive ends Samson Ebukam and Tyquan Lewis and wide receive Anthony Gould due to injuries."
     }
   ],
   "links": [
