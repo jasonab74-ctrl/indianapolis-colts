@@ -1,42 +1,6 @@
 {
-  "updated": "2025-11-21T05:42:45+00:00",
+  "updated": "2025-11-21T06:29:26+00:00",
   "items": [
-    {
-      "id": "00f3f406ce217ddb",
-      "title": "Here's when we would know if Joe Burrow will play vs. New England Patriots",
-      "link": "https://sports.yahoo.com/article/heres-know-joe-burrow-play-053028095.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-21T05:30:28+0000",
-      "summary": "If Joe Burrow is going to play for the Cincinnati Bengals on Nov. 23 against the New England Patriots, the NFL community will know soon."
-    },
-    {
-      "id": "dda8433d5842a44e",
-      "title": "Bills playoff picture: How Buffalo's Week 12 loss at Houston impacts AFC standings",
-      "link": "https://sports.yahoo.com/article/bills-playoff-picture-buffalos-week-052031423.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-21T05:20:31+0000",
-      "summary": "The Bills suffered a tough road loss to the Texans to open Week 12 in the NFL on Thursday night. Here's what that means for their position in the AFC East and AFC wild-card races."
-    },
-    {
-      "id": "6f186d87d20722b4",
-      "title": "Texans sack Allen eight times to beat Bills 23-19",
-      "link": "https://sports.yahoo.com/article/texans-sack-allen-eight-times-045742795.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-21T04:57:42+0000",
-      "summary": "Houston's Calen Bullock intercepted reigning NFL Most Valuable Player Josh Allen twice and the league's top defensive unit powered the Texans over Buffalo 23-19 on Thursday.Allen completed 24-of-34 passes for 253 yards but was intercepted twice and rushed all night by an aggressive Texans defensive unit."
-    },
-    {
-      "id": "9600ce996f455a7a",
-      "title": "NFL playoff picture Week 12: Hot Texans serve AFC East blow to Bills",
-      "link": "https://sports.yahoo.com/article/nfl-playoff-picture-week-12-045336658.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-21T04:53:36+0000",
-      "summary": "A look at the NFL playoff picture following the first game of Week 12."
-    },
     {
       "id": "d45efb12d28137b5",
       "title": "Darnold: Seattle's NFL-high 20 TO's 'unacceptable'",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-11-09T17:51:57+0000",
       "summary": "Taylor rushed for three touchdowns – including an 83-yarder in the fourth quarter and the game-winner in overtime – to set a new franchise record and propel the Colts to victory."
+    },
+    {
+      "id": "cee5032f76e43f4b",
+      "title": "Colts RB Jonathan Taylor scores 65th career rushing touchdown to set new franchise record",
+      "link": "https://colts.com/news/colts-jonathan-taylor-scores-65th-career-rushing-touchdown-franchise-record-edgerrin-james-nfl",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-09T17:07:32+0000",
+      "summary": "By scoring two rushing touchdowns on Sunday against the Atlanta Falcons, Taylor passed Pro Football Hall of Famer Edgerrin James to set a franchise record with 65 career rushing touchdowns."
+    },
+    {
+      "id": "50e948384144964f",
+      "title": "Keys to the Game: Colts vs. Falcons",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-falcons/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-09T14:29:48+0000",
+      "summary": ""
+    },
+    {
+      "id": "58596ffdaa1f95ef",
+      "title": "Sideline to Sideline: Favorite Vacation Spot",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-vacation-spot/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-09T14:22:28+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question. This week Chris asks the players what their favorite vacation destination is."
+    },
+    {
+      "id": "b9f72fa4570d72a9",
+      "title": "Colts announce 7 inactive players for Week 10 game vs. Atlanta Falcons",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-10-game-vs-atlanta-falcons",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-09T13:00:54+0000",
+      "summary": "The Colts prior to Sunday ruled out defensive ends Samson Ebukam and Tyquan Lewis and wide receive Anthony Gould due to injuries."
     }
   ],
   "links": [
