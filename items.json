@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T23:17:16+00:00",
+  "updated": "2025-11-22T23:38:03+00:00",
   "items": [
     {
       "id": "8b08f232aa75f21b",
@@ -36,24 +36,6 @@
       "feed": "ESPN",
       "published": "2025-11-22T23:01:22+0000",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
-    },
-    {
-      "id": "46ab35c1796cd583",
-      "title": "Nevada hangs on to beat Wyoming 13-7 on day Cowboys retire Josh Allen's number",
-      "link": "https://sports.yahoo.com/article/nevada-hangs-beat-wyoming-13-225221591.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T22:52:21+0000",
-      "summary": "Carter Jones threw an 8-yard touchdown pass to Jeff Carpenter and Joe McFadden kicked two field goals before Nevada stopped Wyoming at the goal line in the final seconds for a 13-7 on a Saturday when the Cowboys retired Josh Allen's number.  Allen, the Buffalo Bills quarterback and reigning NFL MVP, was present to see his No. 17 jersey become the first to be retired by Wyoming during a ceremony at halftime."
-    },
-    {
-      "id": "12b8a0310daf494f",
-      "title": "Two Minute Man? ESPN sauys Cowboys' Prescott among NFL best half enders",
-      "link": "https://sports.yahoo.com/article/two-minute-man-espn-saus-225003416.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T22:50:03+0000",
-      "summary": "The Cowboys are always in good hands at the end of the half, because the ball is in Prescott's."
     },
     {
       "id": "a827f32a5dc88343",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-10T14:44:52+0000",
       "summary": "Taylor recorded 286 scrimmage yards (244 rushing, 44 receiving) and three rushing touchdowns in the Colts' OT win over the Falcons."
+    },
+    {
+      "id": "081d91533869557e",
+      "title": "Statement from the Indianapolis Colts",
+      "link": "https://colts.com/news/statement-from-the-indianapolis-colts-nfl-commissioner-paul-tagliabue",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T14:17:05+0000",
+      "summary": ""
+    },
+    {
+      "id": "036049389218b1ff",
+      "title": "Colts’ follow record-setting Jonathan Taylor to OT win over Falcons in Berlin’s historic Olympic Stadium",
+      "link": "https://fox59.com/sports/colts/colts-follow-record-setting-jonathan-taylor-to-ot-win-over-falcons-in-berlins-historic-olympic-stadium/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-09T23:29:07+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts went international. Jonathan Taylor went off. “Look,’’ said Zaire Franklin. “I’ll scream it from the mountaintops. “He’s the MVP in my book.’’ “It’s phenomenal the way he’s been running,’’ added Shane Steichen. In the NFL’s first game at Berlin’s historic Olympic Stadium on Sunday, Taylor’s brilliance carried the Colts when [...]"
     }
   ],
   "links": [
