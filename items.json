@@ -1,6 +1,33 @@
 {
-  "updated": "2025-11-22T15:37:29+00:00",
+  "updated": "2025-11-22T16:21:09+00:00",
   "items": [
+    {
+      "id": "ab6dd48958d46f07",
+      "title": "Steelers Weekly Mailbag: Are Steelers taking a QB in first round of 2026 NFL Draft?",
+      "link": "https://sports.yahoo.com/article/steelers-weekly-mailbag-steelers-taking-160725673.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T16:07:25+0000",
+      "summary": "Is Pittsburgh still eyeing a QB?"
+    },
+    {
+      "id": "ede9c73cd6916b53",
+      "title": "Five Las Vegas Raiders players the Browns must shutdown in Week 12",
+      "link": "https://sports.yahoo.com/article/five-las-vegas-raiders-players-160509154.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T16:05:09+0000",
+      "summary": "The Browns must focus on these five key Las Vegas Raiders players if they want to give Shedeur Sanders a chance in his NFL debut."
+    },
+    {
+      "id": "3588940de62baa21",
+      "title": "Week 13 CFB preview, prospect spotlight, live game message board and fan discussion",
+      "link": "https://sports.yahoo.com/article/week-13-cfb-preview-prospect-160000967.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T16:00:00+0000",
+      "summary": "﻿We take a look at which college games and NFL Draft prospects to keep an eye on in Week 12 of the 2025 college season."
+    },
     {
       "id": "733f00351189fdcf",
       "title": "Colts' Ward had concussion symptoms for weeks",
@@ -9,24 +36,6 @@
       "feed": "ESPN",
       "published": "2025-11-22T15:21:04+0000",
       "summary": "Colts cornerback Charvarius Ward said he was \"knocked out\" and experienced severe symptoms for weeks after he was concussed during a violent pregame collision Oct. 12."
-    },
-    {
-      "id": "828fb819260212f7",
-      "title": "Shedeur Sanders first-team reps debate is going on inside Browns' own building",
-      "link": "https://sports.yahoo.com/article/shedeur-sanders-first-team-reps-151733534.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T15:17:33+0000",
-      "summary": "As NFL fans have debated about whether or not the Cleveland Browns were wrong for not giving Shedeur Sanders first-team reps in the past, it appears that debate is happening in the team's own building."
-    },
-    {
-      "id": "71f1af354fec0147",
-      "title": "Stopping Jonathan Taylor will be Chiefs’ top priority against the Colts",
-      "link": "https://sports.yahoo.com/article/stopping-jonathan-taylor-chiefs-top-151500995.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T15:15:00+0000",
-      "summary": "To defeat Indianapolis in Week 12, Kansas City will need to contain the NFL’s top rusher."
     },
     {
       "id": "a827f32a5dc88343",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-10T14:44:52+0000",
       "summary": "Taylor recorded 286 scrimmage yards (244 rushing, 44 receiving) and three rushing touchdowns in the Colts' OT win over the Falcons."
-    },
-    {
-      "id": "081d91533869557e",
-      "title": "Statement from the Indianapolis Colts",
-      "link": "https://colts.com/news/statement-from-the-indianapolis-colts-nfl-commissioner-paul-tagliabue",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-10T14:17:05+0000",
-      "summary": ""
     }
   ],
   "links": [
