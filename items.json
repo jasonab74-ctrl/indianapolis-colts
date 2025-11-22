@@ -1,14 +1,23 @@
 {
-  "updated": "2025-11-22T14:38:18+00:00",
+  "updated": "2025-11-22T15:16:33+00:00",
   "items": [
     {
-      "id": "024f3dd4011db2c1",
-      "title": "Patrick Mahomes on facing Colts' defense under Lou Anarumo",
-      "link": "https://sports.yahoo.com/article/patrick-mahomes-facing-colts-defense-141901573.html",
+      "id": "37be30b05f4a4803",
+      "title": "Former Saints players feature in Netflix's Christmas Day NFL coverage",
+      "link": "https://sports.yahoo.com/article/former-saints-players-feature-netflixs-145503060.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-22T14:19:01+0000",
-      "summary": "Patrick Mahomes weighed in on facing the Indianapolis Colts' defense under Lou Anarumo."
+      "published": "2025-11-22T14:55:03+0000",
+      "summary": "The New Orleans Saints will have multiple former players playing a role on Netflix's Christmas Day game broadcasts, including Drew Brees."
+    },
+    {
+      "id": "7c90e189593e9c15",
+      "title": "Colts rumor provides Daniel Jones, Jonathan Taylor contract extension updates",
+      "link": "https://sports.yahoo.com/article/colts-rumor-provides-daniel-jones-145320934.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T14:53:20+0000",
+      "summary": "The Indianapolis Colts have two contract decisions to make on running back Jonathan Taylor and quarterback Daniel Jones, but a new rumor shows that we shouldn't be expecting those to come down anytime soon."
     },
     {
       "id": "a827f32a5dc88343",
@@ -18,24 +27,6 @@
       "feed": "ESPN",
       "published": "2025-11-22T14:18:17+0000",
       "summary": "Will the Browns lean on the run in Shedeur Sanders' first start? Will Eagles-Cowboys come down to Jalen Hurts? Is Michael Wilson startable in fantasy?"
-    },
-    {
-      "id": "659a69bf8f8bdb69",
-      "title": "Shedeur Sanders has little chance of changing Browns 2026 NFL draft plans",
-      "link": "https://sports.yahoo.com/article/shedeur-sanders-little-chance-changing-140524312.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T14:05:24+0000",
-      "summary": "The Cleveland Browns are starting Shedeur Sanders in Week 12 but this could be his only start as the 2026 NFL draft, Dillon Gabriel loom"
-    },
-    {
-      "id": "c3edfac3686be636",
-      "title": "Player Spotlight: Bijan Robinson leads NFL in total yards since 2023",
-      "link": "https://sports.yahoo.com/article/player-spotlight-bijan-robinson-leads-140519568.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T14:05:19+0000",
-      "summary": "On Sunday against the Saints, Robinson can become the fifth player in NFL history with at least 50 receptions and 1,400 scrimmage yards"
     },
     {
       "id": "5fe97de381b51f74",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-10T14:44:52+0000",
       "summary": "Taylor recorded 286 scrimmage yards (244 rushing, 44 receiving) and three rushing touchdowns in the Colts' OT win over the Falcons."
+    },
+    {
+      "id": "081d91533869557e",
+      "title": "Statement from the Indianapolis Colts",
+      "link": "https://colts.com/news/statement-from-the-indianapolis-colts-nfl-commissioner-paul-tagliabue",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T14:17:05+0000",
+      "summary": ""
     }
   ],
   "links": [
