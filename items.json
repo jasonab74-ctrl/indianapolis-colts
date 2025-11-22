@@ -1,6 +1,33 @@
 {
-  "updated": "2025-11-22T14:15:36+00:00",
+  "updated": "2025-11-22T14:38:18+00:00",
   "items": [
+    {
+      "id": "024f3dd4011db2c1",
+      "title": "Patrick Mahomes on facing Colts' defense under Lou Anarumo",
+      "link": "https://sports.yahoo.com/article/patrick-mahomes-facing-colts-defense-141901573.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T14:19:01+0000",
+      "summary": "Patrick Mahomes weighed in on facing the Indianapolis Colts' defense under Lou Anarumo."
+    },
+    {
+      "id": "a827f32a5dc88343",
+      "title": "Final prep for NFL Week 12: We have sleepers, QB questions, trends to watch and more",
+      "link": "https://espn.com/nfl/story/_/id/47037597/2025-nfl-week-12-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-22T14:18:17+0000",
+      "summary": "Will the Browns lean on the run in Shedeur Sanders' first start? Will Eagles-Cowboys come down to Jalen Hurts? Is Michael Wilson startable in fantasy?"
+    },
+    {
+      "id": "659a69bf8f8bdb69",
+      "title": "Shedeur Sanders has little chance of changing Browns 2026 NFL draft plans",
+      "link": "https://sports.yahoo.com/article/shedeur-sanders-little-chance-changing-140524312.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T14:05:24+0000",
+      "summary": "The Cleveland Browns are starting Shedeur Sanders in Week 12 but this could be his only start as the 2026 NFL draft, Dillon Gabriel loom"
+    },
     {
       "id": "c3edfac3686be636",
       "title": "Player Spotlight: Bijan Robinson leads NFL in total yards since 2023",
@@ -11,42 +38,6 @@
       "summary": "On Sunday against the Saints, Robinson can become the fifth player in NFL history with at least 50 receptions and 1,400 scrimmage yards"
     },
     {
-      "id": "359686274eba37f9",
-      "title": "Lions News: National predictions for Detroit Lions vs. New York Giants",
-      "link": "https://sports.yahoo.com/article/lions-news-national-predictions-detroit-140000541.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T14:00:00+0000",
-      "summary": "A look at who some national NFL writers and analysts are picking for the Lions-Giants matchup."
-    },
-    {
-      "id": "7b58d2e515ecd161",
-      "title": "NFL insider reports the Broncos have come to terms with clutch kicker Will Lutz",
-      "link": "https://sports.yahoo.com/article/nfl-insider-reports-broncos-come-134916571.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T13:49:16+0000",
-      "summary": "One of the Broncos' most important weapons has agreed to a contract extension to stay in the Mile High City"
-    },
-    {
-      "id": "b937f5e762872580",
-      "title": "Cincinnati Bengals 2026 NFL Draft prospects to watch in college football Week 13",
-      "link": "https://sports.yahoo.com/article/cincinnati-bengals-2026-nfl-draft-134833067.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T13:48:33+0000",
-      "summary": "The Bengals could stay local to improve at linebacker."
-    },
-    {
-      "id": "e04c09ec560fea7a",
-      "title": "Jets bookend tackles have been among best in their respective draft classes",
-      "link": "https://sports.yahoo.com/article/jets-bookend-tackles-among-best-134525618.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T13:45:25+0000",
-      "summary": "The New York Jets' bookend offensive tackles have been among the best in their respective NFL draft classes."
-    },
-    {
       "id": "5fe97de381b51f74",
       "title": "Inside the art of blocking a kick in the NFL: 'They're game changers'",
       "link": "https://espn.com/nfl/story/_/id/47026887/inside-art-blocked-kick-nfl-strategy-technique",
@@ -54,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-11-22T12:58:33+0000",
       "summary": "The league has seen an uptick in blocked kicks, and ESPN's NFL Nation shares how players have done it."
-    },
-    {
-      "id": "a827f32a5dc88343",
-      "title": "Final prep for NFL Week 12: We have sleepers, QB questions, trends to watch and more",
-      "link": "https://espn.com/nfl/story/_/id/47037597/2025-nfl-week-12-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-22T12:30:32+0000",
-      "summary": "Will the Browns lean on the run in Shedeur Sanders' first start? Will Eagles-Cowboys come down to Jalen Hurts? Is Michael Wilson startable in fantasy?"
     },
     {
       "id": "fb4446df6a166775",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-10T15:59:53+0000",
       "summary": "The Indianapolis Colts won a thriller in Berlin. Matt Adams recaps the game in the latest Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
+    },
+    {
+      "id": "31ed1cd8d23f78cb",
+      "title": "Colts fans from all over the world deliver remarkable atmosphere in Berlin before, during and after incredible overtime win over Falcons",
+      "link": "https://colts.com/news/colts-fans-from-all-over-the-world-deliver-remarkable-atmosphere-in-berlin-before-during-and-after-incredible-overtime-win-over-falcons",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T15:19:28+0000",
+      "summary": "Colts fans from several continents descended upon Berlin this week to create a special environment of different cultures coming together because of one central thing: A love and passion for the Indianapolis Colts."
+    },
+    {
+      "id": "4381759e5e62004d",
+      "title": "Jonathan Taylor nominated for Week 10 FedEx Ground Player of the Week",
+      "link": "https://colts.com/news/jonathan-taylor-nominated-week-10-fedex-ground-player-of-the-week-colts-falcons-overtime-touchdowns",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T14:44:52+0000",
+      "summary": "Taylor recorded 286 scrimmage yards (244 rushing, 44 receiving) and three rushing touchdowns in the Colts' OT win over the Falcons."
     }
   ],
   "links": [
