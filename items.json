@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-22T04:42:24+00:00",
+  "updated": "2025-11-22T05:17:32+00:00",
   "items": [
+    {
+      "id": "66e15c11159290df",
+      "title": "GAME DAY Hawaii clashes with UNLV in Las Vegas",
+      "link": "https://sports.yahoo.com/article/game-day-hawaii-clashes-unlv-050100729.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-22T05:01:00+0000",
+      "summary": "STEPHEN TSAI / STSAI @STARADVERTISER.COM Allegiant Stadium, home of the NFL’s Las Vegas Raiders, will host tonight’s game between Hawaii and UNLV. STEPHEN TSAI / STSAI @STARADVERTISER.COM Allegiant Stadium, home of the NFL’s Las Vegas Raiders, will host tonight’s game between Hawaii and UNLV. Editor’s Note : Bookmark this page for live updates from the game. Tweets below will automatically ..."
+    },
     {
       "id": "d512da595eab18e7",
       "title": "Indianapolis Colts Injury Report: LB Carlies Ruled OUT, CB Ward Is QUESTIONABLE",
@@ -11,15 +20,6 @@
       "summary": "The Indianapolis Colts today released their Friday injury report for Week 12 of the NFL season against the Kansas City Chiefs on the road for Sunday. Linebacker Jaylon Carlies has been ruled OUT of Sunday’s game against the Chiefs with an ankle injury. Carlies had his 21 day practice window opened and even managed a [&#8230;]"
     },
     {
-      "id": "31a4579367613637",
-      "title": "Indianapolis Colts Injury Report: LB Carlies Ruled OUT, CB Ward Is QUESTIONABLE",
-      "link": "https://sports.yahoo.com/article/indianapolis-colts-injury-report-lb-042804398.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T04:28:04+0000",
-      "summary": "The Colts will have Daniel Jones"
-    },
-    {
       "id": "63629819c73bc4f8",
       "title": "Colts’ Shane Steichen offers encouraging injury update on Pro Bowl veteran defensive tackle",
       "link": "https://stampedeblue.com/indianapolis-colts-news/118122/colts-shane-steichen-offers-encouraging-injury-update-on-pro-bowl-veteran-defensive-tackle",
@@ -27,33 +27,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-22T04:23:48+0000",
       "summary": "According to head coach Shane Steichen, he’s “very optimistic” that Pro Bowl veteran defensive tackle DeForest Buckner will return this year (via 1075 The Fan’s Kevin Bowen): Unfortunately, Buckner won’t be eligible to return off injured reserve until Week 15 at the earliest on the road against the Seattle Seahawks, as he has to miss [&#8230;]"
-    },
-    {
-      "id": "179940865f435ab1",
-      "title": "Colts’ Shane Steichen offers encouraging injury update on Pro Bowl veteran defensive tackle",
-      "link": "https://sports.yahoo.com/article/colts-shane-steichen-offers-encouraging-042348676.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T04:23:48+0000",
-      "summary": "The Colts received an encouraging injury update regarding the veteran catalyst along their defensive line."
-    },
-    {
-      "id": "1cba20d173dc603e",
-      "title": "49ers could trade Mac Jones to Vikings, according to NFL insider",
-      "link": "https://sports.yahoo.com/article/49ers-could-trade-mac-jones-041954516.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T04:19:54+0000",
-      "summary": "The San Francisco 49ers might get decent value back for Mac Jones."
-    },
-    {
-      "id": "2b5f933539825310",
-      "title": "Commanders are raising season-ticket prices for 2026",
-      "link": "https://sports.yahoo.com/article/commanders-raising-season-ticket-prices-041533165.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-22T04:15:33+0000",
-      "summary": "Next year, it will be more expensive to attend games at arguably the worst stadium in the NFL."
     },
     {
       "id": "733f00351189fdcf",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-11-10T15:19:28+0000",
       "summary": "Colts fans from several continents descended upon Berlin this week to create a special environment of different cultures coming together because of one central thing: A love and passion for the Indianapolis Colts."
+    },
+    {
+      "id": "4381759e5e62004d",
+      "title": "Jonathan Taylor nominated for Week 10 FedEx Ground Player of the Week",
+      "link": "https://colts.com/news/jonathan-taylor-nominated-week-10-fedex-ground-player-of-the-week-colts-falcons-overtime-touchdowns",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T14:44:52+0000",
+      "summary": "Taylor recorded 286 scrimmage yards (244 rushing, 44 receiving) and three rushing touchdowns in the Colts' OT win over the Falcons."
+    },
+    {
+      "id": "081d91533869557e",
+      "title": "Statement from the Indianapolis Colts",
+      "link": "https://colts.com/news/statement-from-the-indianapolis-colts-nfl-commissioner-paul-tagliabue",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T14:17:05+0000",
+      "summary": ""
+    },
+    {
+      "id": "036049389218b1ff",
+      "title": "Colts’ follow record-setting Jonathan Taylor to OT win over Falcons in Berlin’s historic Olympic Stadium",
+      "link": "https://fox59.com/sports/colts/colts-follow-record-setting-jonathan-taylor-to-ot-win-over-falcons-in-berlins-historic-olympic-stadium/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-09T23:29:07+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts went international. Jonathan Taylor went off. “Look,’’ said Zaire Franklin. “I’ll scream it from the mountaintops. “He’s the MVP in my book.’’ “It’s phenomenal the way he’s been running,’’ added Shane Steichen. In the NFL’s first game at Berlin’s historic Olympic Stadium on Sunday, Taylor’s brilliance carried the Colts when [...]"
     }
   ],
   "links": [
