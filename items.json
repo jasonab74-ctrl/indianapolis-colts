@@ -1,77 +1,104 @@
 {
-  "updated": "2025-11-23T22:40:59+00:00",
+  "updated": "2025-11-23T23:16:58+00:00",
   "items": [
+    {
+      "id": "4d9053561480ae99",
+      "title": "NFL draft risers, questions and notes: Which team should take Kenyon Sadiq in April?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T23:12:28+0000",
+      "summary": "We have NFL draft notes through CFB Week 13, including why Kenyon Sadiq is TE1 and whether Utah could have two early-pick OTs."
+    },
+    {
+      "id": "fb4446df6a166775",
+      "title": "Early offseason needs for all 32 NFL teams: Positions to upgrade and prospects to watch",
+      "link": "https://espn.com/nfl/story/_/id/47013074/2026-nfl-offseason-needs-free-agency-draft-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T23:12:28+0000",
+      "summary": "How can all 32 NFL teams improve during the offseason? We took an early look at positional needs and intriguing draft fits."
+    },
+    {
+      "id": "93323470c1c49684",
+      "title": "Colts head coach Shane Steichen on offensive issues in Week 12 loss to Chiefs: 'It starts with me'",
+      "link": "https://colts.com/news/colts-head-coach-shane-steichen-on-offensive-issues-in-week-12-loss-to-chiefs-it-starts-with-me",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-23T23:11:24+0000",
+      "summary": "The Colts went three-and-out on their final four offensive possessions in Sunday's 23-20 overtime loss to the Kansas City Chiefs."
+    },
+    {
+      "id": "3559d8ecdc23700c",
+      "title": "🏆 NFL playoff picture: AFC, NFC seed projections",
+      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T23:08:22+0000",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
+    },
+    {
+      "id": "0317653360915c48",
+      "title": "Twitter reacts to Patriots' ninth straight win, mounting injuries",
+      "link": "https://sports.yahoo.com/article/twitter-reacts-patriots-ninth-straight-230728025.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-23T23:07:28+0000",
+      "summary": "How NFL fans reacted to the Patriots' 26-20 road win over the Bengals on Sunday."
+    },
+    {
+      "id": "14a494718647dc12",
+      "title": "Eagles' kelly green, Texans' battle red uniforms top NFL Week 12 threads",
+      "link": "https://espn.com/nfl/story/_/id/47014720/nfl-2025-week-12-uniforms",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T23:04:05+0000",
+      "summary": "It's a popular throwback leading the way in Week 12 of the NFL season."
+    },
+    {
+      "id": "adafcdb63f290e36",
+      "title": "NFL Week 12's fashionable arrivals, featuring Browns QB Shedeur Sanders",
+      "link": "https://espn.com/nfl/story/_/id/47040972/nfl-week-12-fashionable-arrivals-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T23:04:04+0000",
+      "summary": "NFL stars didn't just show up to play -- they showed up in style. Here are this week's best looks."
+    },
     {
       "id": "a6275e33249267ef",
       "title": "What to know from NFL Week 12: Big OT wins for the Lions and Chiefs? Concern for the Steelers?",
       "link": "https://espn.com/nfl/story/_/id/47012915/nfl-week-12-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-23T22:30:44+0000",
+      "published": "2025-11-23T23:03:06+0000",
       "summary": "Our NFL Nation reporters answer the biggest questions from each game. Here's what we learned from Week 12."
     },
     {
-      "id": "176b6b04f5c0827a",
-      "title": "Rams vs. Buccaneers live score, updates, highlights from NFL 'Sunday Night Football' game",
-      "link": "https://sports.yahoo.com/article/rams-vs-buccaneers-live-score-223001004.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:30:01+0000",
-      "summary": "The Sporting News is tracking live scoring updates and highlights for Rams vs. Buccaneers on &quot;Sunday Night Football.&quot; Follow for complete results from the NFL Week 12 prime-time game."
+      "id": "5fe97de381b51f74",
+      "title": "Inside the art of blocking a kick in the NFL: 'They're game changers'",
+      "link": "https://espn.com/nfl/story/_/id/47026887/inside-art-blocked-kick-nfl-strategy-technique",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T22:58:10+0000",
+      "summary": "The league has seen an uptick in blocked kicks, and ESPN's NFL Nation shares how players have done it."
     },
     {
-      "id": "0f346ee749a40a4a",
-      "title": "Everything to know from Colts' Week 12 OT loss vs. Chiefs",
-      "link": "https://sports.yahoo.com/article/everything-know-colts-week-12-222851776.html",
+      "id": "6c3d4fe69c469d42",
+      "title": "Shedeur Sanders debut: No rookie QB in the history of the NFL will be scrutinized more than this one will",
+      "link": "https://sports.yahoo.com/article/shedeur-sanders-debut-no-rookie-225415506.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:28:51+0000",
-      "summary": "Take a look back at the Colts' Week 12 performance against the Chiefs with everything to know from Sunday's game."
+      "published": "2025-11-23T22:54:15+0000",
+      "summary": "Shedeur Sanders is facing the most scrutiny an NFL quarterback will ever face in his career."
     },
     {
-      "id": "b6f4600b96552133",
-      "title": "Shedeur Sanders family tree: Meet legendary NFL dad Deion, mom Pilar, sisters Shelomi, Deiondra and more",
-      "link": "https://sports.yahoo.com/article/shedeur-sanders-family-tree-meet-222500999.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:25:00+0000",
-      "summary": "Here's everything to know about the Browns QB's support system."
-    },
-    {
-      "id": "ac5a3c4c5c79b84c",
-      "title": "Colts Week 12 Player of the Game: DE Laiatu Latu",
-      "link": "https://sports.yahoo.com/article/colts-week-12-player-game-222429083.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:24:29+0000",
-      "summary": "Indianapolis Colts' DE Laiatu Latu earned Player of the Game honors against the Chiefs."
-    },
-    {
-      "id": "f61e00592172b550",
-      "title": "Buccaneers vs Rams Predictions, Picks & Best Bets for Sunday Night Football Week 12",
-      "link": "https://sports.yahoo.com/article/buccaneers-vs-rams-predictions-picks-142500399.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:24:00+0000",
-      "summary": "Buccaneers vs. Rams predictions and NFL picks for Week 12 Sunday Night Football. Tampa WR Emeka Egbuka lights up L.A.'s secondary."
-    },
-    {
-      "id": "e72f3ce659df1b53",
-      "title": "Daughter of Kansas City Chiefs Owner Critical of Bad Bunny Halftime Show",
-      "link": "https://sports.yahoo.com/article/daughter-kansas-city-chiefs-owner-222109648.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:21:09+0000",
-      "summary": "Back in September, the NFL revealed that Spanish rapper Bad Bunny would be this year&#8217;s Super Bowl halftime performer. The"
-    },
-    {
-      "id": "ff20b715fe90bb01",
-      "title": "Jalen Hurts makes NFL history with 7th rushing touchdown of the season",
-      "link": "https://sports.yahoo.com/article/jalen-hurts-makes-nfl-history-221901640.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T22:19:01+0000",
-      "summary": "Jalen Hurts is the only QB since the 1970 NFL merger to rush for 7+ TDs in five consecutive seasons"
+      "id": "1772b0b7df19bc9b",
+      "title": "Colts squander late lead in OT loss to Chiefs",
+      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/118172/colts-squander-late-lead-in-ot-loss-to-chiefs",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-23T22:45:21+0000",
+      "summary": "The Indianapolis Colts fell apart late in Sunday’s 23-20 overtime loss as quarterback Patrick Mahomes and the Kansas City Chiefs erased an 11-point deficit to storm back in stunning fashion at Arrowhead Stadium.&#160; The Chiefs ran 91 offensive plays, compared to the Colts limited to just 50 plays. Kansas City (6-5) outgained Indianapolis 228-18 over [&#8230;]"
     },
     {
       "id": "a9dc7474bc2e43ac",
@@ -101,42 +128,6 @@
       "summary": "The Colts lost, 23-20, to the Kansas City Chiefs on Sunday at GEHA Field at Arrowhead Stadium, falling to 8-3 on the season."
     },
     {
-      "id": "3559d8ecdc23700c",
-      "title": "🏆 NFL playoff picture: AFC, NFC seed projections",
-      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T21:07:09+0000",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
-    },
-    {
-      "id": "4d9053561480ae99",
-      "title": "NFL draft risers, questions and notes: Which team should take Kenyon Sadiq in April?",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T20:14:54+0000",
-      "summary": "We have NFL draft notes through CFB Week 13, including why Kenyon Sadiq is TE1 and whether Utah could have two early-pick OTs."
-    },
-    {
-      "id": "14a494718647dc12",
-      "title": "Eagles' kelly green, Texans' battle red uniforms top NFL Week 12 threads",
-      "link": "https://espn.com/nfl/story/_/id/47014720/nfl-2025-week-12-uniforms",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T17:55:34+0000",
-      "summary": "It's a popular throwback leading the way in Week 12 of the NFL season."
-    },
-    {
-      "id": "adafcdb63f290e36",
-      "title": "NFL Week 12's fashionable arrivals, featuring Browns QB Shedeur Sanders",
-      "link": "https://espn.com/nfl/story/_/id/47040972/nfl-week-12-fashionable-arrivals-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T17:55:33+0000",
-      "summary": "NFL stars didn't just show up to play -- they showed up in style. Here are this week's best looks."
-    },
-    {
       "id": "d0df1eb580b0787a",
       "title": "Week 12 Colts vs. Chiefs Game Thread",
       "link": "https://stampedeblue.com/gamethreads/118140/week-12-colts-vs-chiefs-game-thread-jonathan-taylor-daniel-jones-patrick-mahomes-sauce-gardner-mooney-ward",
@@ -144,15 +135,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-23T17:55:00+0000",
       "summary": "The Indianapolis Colts are on the road to take on the Kansas City Chiefs in week 12 of the 2025 season, kickoff is at 1:00 p.m. EST. Fresh off of their bye the Colts travel to take on the 5-5 Chiefs. This Chiefs offense struggles against man coverage and has struggled to run the football this season. [&#8230;]"
-    },
-    {
-      "id": "dfed35e12aecc80d",
-      "title": "Welcome to Thanksgiving in the NFL: Everything you need to know",
-      "link": "https://espn.com/nfl/story/_/id/32646037/nfl-thanksgiving-day-games-history-lions-cowboys-play-every-year-moments-traditions-records",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T17:13:46+0000",
-      "summary": "This Thanksgiving Day tradition dates back to 1934. We revisit the beginning, the biggest performers and the best moments."
     },
     {
       "id": "1a404cbbea1946d7",
@@ -182,24 +164,6 @@
       "summary": "The Indianapolis Colts (8-2) travel to Arrowhead Stadium to take on the Kansas City Chiefs (5-5) (-3.5) at 1 PM EST for a key AFC clash down the season’s final stretch run here. The Colts lead the league in scoring (at 32.1 avg. ppg.) while their defense surrenders the 9th fewest points (20.6 avg. ppg.)—and [&#8230;]"
     },
     {
-      "id": "fb4446df6a166775",
-      "title": "Early offseason needs for all 32 NFL teams: Positions to upgrade, draft prospects to watch, more",
-      "link": "https://espn.com/nfl/story/_/id/47013074/2026-nfl-offseason-needs-free-agency-draft-prospects",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T14:19:13+0000",
-      "summary": "How can all 32 NFL teams improve during the offseason? We took an early look at positional needs, free agents to watch and intriguing draft fits."
-    },
-    {
-      "id": "8eecafbd2def99d1",
-      "title": "Reid's debut rankings for the 2026 NFL draft: The top 50 players",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47027232/2026-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T14:19:13+0000",
-      "summary": "Jordan Reid unveils his initial rankings for the 2026 draft class, with scouting reports at every position."
-    },
-    {
       "id": "757408d4035b2439",
       "title": "How to watch the Indianapolis Colts at Kansas City Chiefs on November 23, 2025",
       "link": "https://colts.com/news/how-to-watch-colts-at-chiefs-week-12-2025",
@@ -207,15 +171,6 @@
       "feed": "Colts.com",
       "published": "2025-11-23T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Kansas City Chiefs on Sunday, November 23 at 1:00 p.m. ET (Week 12)."
-    },
-    {
-      "id": "5fe97de381b51f74",
-      "title": "Inside the art of blocking a kick in the NFL: 'They're game changers'",
-      "link": "https://espn.com/nfl/story/_/id/47026887/inside-art-blocked-kick-nfl-strategy-technique",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-23T00:54:34+0000",
-      "summary": "The league has seen an uptick in blocked kicks, and ESPN's NFL Nation shares how players have done it."
     },
     {
       "id": "3bc5f04ffebc375a",
@@ -326,15 +281,6 @@
       "summary": "The Colts opened Ward's 21-day window to be activated from injured reserve on Wednesday, and Ward participated in all three practices this week."
     },
     {
-      "id": "130479482c8e854c",
-      "title": "What is the backup plan if Daniel Jones can’t go for the Colts?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118096/what-is-the-backup-plan-if-daniel-jones-cant-go-for-the-colts",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-21T14:22:00+0000",
-      "summary": "Let’s make this a quick article. There is no backup plan if Daniel Jones gets injured. Zero. The backup plan, as flawed as it may be, is currently healing a broken orbital bone after being smacked in the face during pregame warmups. That was it. That was the whole plan if Jones went down at [&#8230;]"
-    },
-    {
       "id": "503b762b86976a64",
       "title": "Indianapolis Colts: My Cause My Cleats",
       "link": "https://fox59.com/morning-news/indianapolis-colts-my-cause-my-cleats/",
@@ -396,15 +342,6 @@
       "feed": "Colts.com",
       "published": "2025-11-20T19:11:57+0000",
       "summary": "Colts defensive backs coach Jerome Henderson did extensive research on Sauce Gardner in 2022, while head coach Shane Steichen scouted Daniel Jones in 2019. Neither coach was with the Colts at the time, but the work they did three and six years ago has paid off in 2025."
-    },
-    {
-      "id": "8dc93faf423ea7d1",
-      "title": "Barnwell: Is Nick Sirianni the most scrutinized successful coach in NFL history?",
-      "link": "https://espn.com/nfl/story/_/id/47011446/2025-nfl-season-philadelphia-eagles-nick-sirianni-scrutiny-coaching-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-20T18:28:03+0000",
-      "summary": "The Eagles' head coach is 56-22 over five seasons, including two trips to the Super Bowl. Yet he's constantly under the microscope. Why?"
     },
     {
       "id": "22d7737a22ca4651",
@@ -540,6 +477,69 @@
       "feed": "CBS4Indy",
       "published": "2025-11-13T19:41:52+0000",
       "summary": "With the Indianapolis Colts on the bye week, the Colts Blue Zone crew takes a look at what's worked so far this season and explores some areas where the team can improve as Indy hits the home stretch. At 8-2, the Colts sit atop the AFC South and boast one of the league's top offenses. [...]"
+    },
+    {
+      "id": "932aa20a9e14fbb5",
+      "title": "Colts’ Jonathan Taylor AFC Offensive Player of the Week",
+      "link": "https://fox59.com/sports/colts/colts-jonathan-taylor-afc-offensive-player-of-the-week-3/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-12T19:38:25+0000",
+      "summary": "INDIANAPOLIS – The honors keep flowing in for Jonathan Taylor. The Indianapolis Colts’ veteran running back has been named AFC Offensive Player of the Week after being the catalyst for Sunday’s 31-25 overtime win over the Atlanta Falcons in Berlin. Taylor rushed 32 times for 244 yards and three touchdowns and added three receptions for [...]"
+    },
+    {
+      "id": "fc6a05142a575e07",
+      "title": "Matt Taylor discusses calling Colts game in Berlin",
+      "link": "https://fox59.com/sports/colts/matt-taylor-discusses-calling-colts-game-in-berlin/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-12T15:29:43+0000",
+      "summary": "The Indianapolis Colts came away with a thrilling 31-25 overtime win against the Atlanta Falcons. This was anything but a typical NFL matchup, as the team traveled to Germany for a \"home game.\" Matt Taylor, radio voice of the Colts, appeared on FOX59 Morning News to discuss the unique experience of calling the Nov. 9 [...]"
+    },
+    {
+      "id": "8c7c1604e81b09f1",
+      "title": "Colts, Kicking The Stigma encourage fans to focus on mental health during bye week",
+      "link": "https://colts.com/news/colts-kicking-the-stigma-encourage-fans-to-focus-on-mental-health-during-2025-bye-week",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-12T14:00:00+0000",
+      "summary": "The Colts' digital and social media channels will not publish content between Wednesday morning and Monday morning, and we encourage fans to take disconnect from devices during the bye week as well."
+    },
+    {
+      "id": "3609fafab0187bfe",
+      "title": "Colts hit bye at 8-2, but Daniel Jones’ protection must  be addressed; had lost 10 straight giving up 7 sacks",
+      "link": "https://fox59.com/sports/colts/colts-hit-bye-at-8-2-but-daniel-jones-protection-must-be-addressed-had-lost-10-straight-giving-up-7-sacks/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-11T00:52:42+0000",
+      "summary": "INDIANAPOLIS – Three bits of reality followed the Indianapolis Colts back home from Berlin and into their bye week. Item 1: At 8-2, they’re the No. 1 seed in the AFC and have created separation in the AFC South with 5-4 Jacksonville and 4-5 Houston. Item 2: Jonathan Taylor has positioned himself to be the first running [...]"
+    },
+    {
+      "id": "4b9674b401f70a1b",
+      "title": "5 Colts Things: More context for Jonathan Taylor's 17 touchdowns, plus Tyler Warren, Daniel Jones, Zaire Franklin and special teams make key plays to push Colts to 8-2 at bye week",
+      "link": "https://colts.com/news/5-colts-things-more-context-for-jonathan-taylor-s-17-touchdowns-plus-tyler-warren-daniel-jones-zaire-franklin-and-special-teams-make-key-plays-to-push-colts-to-8-2-at-bye-week",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T18:58:49+0000",
+      "summary": "The Colts' 31-25 overtime win over the Atlanta Falcons on Sunday sent them into their bye week with an 8-2 record and a 2.5-game lead in the AFC South."
+    },
+    {
+      "id": "c14520ce80bf6837",
+      "title": "Around the AFC South: Texans score 26 points in fourth quarter to take down Jaguars",
+      "link": "https://colts.com/news/around-the-afc-south-texans-fourth-quarter-comeback-jaguars-trevor-lawrence-colts-first-place",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-10T16:19:59+0000",
+      "summary": "With their overtime win over the Falcons on Sunday, the 8-2 Colts remain firmly in first place in the AFC South."
+    },
+    {
+      "id": "f5fadc3e0a13d82d",
+      "title": "Colts Blue Zone Podcast 440: Overtime Insanity as Colts Top Falcons",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-440-overtime-insanity-as-colts-top-falcons/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-10T15:59:53+0000",
+      "summary": "The Indianapolis Colts won a thriller in Berlin. Matt Adams recaps the game in the latest Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
     }
   ],
   "links": [
