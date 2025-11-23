@@ -1,6 +1,60 @@
 {
-  "updated": "2025-11-23T17:15:29+00:00",
+  "updated": "2025-11-23T17:38:33+00:00",
   "items": [
+    {
+      "id": "650e67390b2371b1",
+      "title": "NFL Week 12: Early afternoon games open thread",
+      "link": "https://sports.yahoo.com/article/nfl-week-12-early-afternoon-173000796.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-23T17:30:00+0000",
+      "summary": "Let’s watch some football!"
+    },
+    {
+      "id": "abceaf1403cfe46b",
+      "title": "NFL Early Games Discussion Thread",
+      "link": "https://sports.yahoo.com/article/nfl-early-games-discussion-thread-173000679.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-23T17:30:00+0000",
+      "summary": "Come and enjoy a relaxing day of non-Texans football with us!"
+    },
+    {
+      "id": "fe729d6188f23e9b",
+      "title": "49ers rooting guide for NFL Week 12 games",
+      "link": "https://sports.yahoo.com/article/49ers-rooting-guide-nfl-week-172509130.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-23T17:25:09+0000",
+      "summary": "Some Sunday morning and afternoon reference material for 49ers’ fans"
+    },
+    {
+      "id": "5d67c6e93994ada9",
+      "title": "Patriots fan rooting guide for NFL Week 12: Sunday edition",
+      "link": "https://sports.yahoo.com/article/patriots-fan-rooting-guide-nfl-235840936.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-23T17:17:25+0000",
+      "summary": "Who Patriots fans should be rooting for in Week 12 of the 2025 NFL season."
+    },
+    {
+      "id": "4d9053561480ae99",
+      "title": "NFL draft risers, questions and notes: Which team should take Kenyon Sadiq in April?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-23T17:17:10+0000",
+      "summary": "We have NFL draft notes through CFB Week 13, including why Kenyon Sadiq is TE1 and whether Utah could have two early-pick OTs."
+    },
+    {
+      "id": "2b9280c699691487",
+      "title": "NFL scores, results, injury updates, highlights from Sunday, Week 12",
+      "link": "https://sports.yahoo.com/article/nfl-scores-results-injury-updates-171500730.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-23T17:15:00+0000",
+      "summary": "Tracking all the NFL action here in Week 12"
+    },
     {
       "id": "dfed35e12aecc80d",
       "title": "Welcome to Thanksgiving in the NFL: Everything you need to know",
@@ -29,15 +83,6 @@
       "summary": "It's a popular throwback leading the way in Week 12 of the NFL season."
     },
     {
-      "id": "5af449ecb3613559",
-      "title": "Patriots game day roster: NFL Week 12 vs. Bengals",
-      "link": "https://sports.yahoo.com/article/patriots-game-day-roster-nfl-170359616.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T17:03:59+0000",
-      "summary": "A look at the Patriots’ game day roster for their Week 12 game on Sunday."
-    },
-    {
       "id": "1a404cbbea1946d7",
       "title": "Colts announce inactives for Week 12 against the Chiefs",
       "link": "https://stampedeblue.com/indianapolis-colts-news/118151/colts-announce-inactives-for-week-12-against-the-chiefs",
@@ -45,24 +90,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-23T16:58:19+0000",
       "summary": "The Indianapolis Colts announced their inactives for Week 12 on the road against the Kansas City Chiefs, with no real surprises ahead of this critical AFC clash among potential conference contenders: It looks as though undrafted rookie Jonathan Edwards, who’s made 3 starts for Indianapolis this season, is currently the ‘odd man out’ in the [&#8230;]"
-    },
-    {
-      "id": "66b39ee6abaaff3e",
-      "title": "Colts announce inactives for Week 12 against the Chiefs",
-      "link": "https://sports.yahoo.com/article/colts-announce-inactives-week-12-165819458.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T16:58:19+0000",
-      "summary": "No real surprising inactives for the Colts, as they’re about as healthy as they’ve ever been this year."
-    },
-    {
-      "id": "8aa59f0d0fd60eeb",
-      "title": "Eagles vs Cowboys Predictions, Picks & Best Bets for NFL Week 12 Today",
-      "link": "https://sports.yahoo.com/article/eagles-vs-cowboys-predictions-picks-140000604.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-23T16:56:00+0000",
-      "summary": "Get our top Eagles vs. Cowboys predictions ahead of Sunday's NFC East clash at AT&amp;T Stadium. Free NFL picks for November 23, 2025."
     },
     {
       "id": "3559d8ecdc23700c",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-10T18:58:49+0000",
       "summary": "The Colts' 31-25 overtime win over the Atlanta Falcons on Sunday sent them into their bye week with an 8-2 record and a 2.5-game lead in the AFC South."
-    },
-    {
-      "id": "c14520ce80bf6837",
-      "title": "Around the AFC South: Texans score 26 points in fourth quarter to take down Jaguars",
-      "link": "https://colts.com/news/around-the-afc-south-texans-fourth-quarter-comeback-jaguars-trevor-lawrence-colts-first-place",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-10T16:19:59+0000",
-      "summary": "With their overtime win over the Falcons on Sunday, the 8-2 Colts remain firmly in first place in the AFC South."
-    },
-    {
-      "id": "f5fadc3e0a13d82d",
-      "title": "Colts Blue Zone Podcast 440: Overtime Insanity as Colts Top Falcons",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-440-overtime-insanity-as-colts-top-falcons/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-10T15:59:53+0000",
-      "summary": "The Indianapolis Colts won a thriller in Berlin. Matt Adams recaps the game in the latest Blue Zone Podcast. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "31ed1cd8d23f78cb",
-      "title": "Colts fans from all over the world deliver remarkable atmosphere in Berlin before, during and after incredible overtime win over Falcons",
-      "link": "https://colts.com/news/colts-fans-from-all-over-the-world-deliver-remarkable-atmosphere-in-berlin-before-during-and-after-incredible-overtime-win-over-falcons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-10T15:19:28+0000",
-      "summary": "Colts fans from several continents descended upon Berlin this week to create a special environment of different cultures coming together because of one central thing: A love and passion for the Indianapolis Colts."
     }
   ],
   "links": [
