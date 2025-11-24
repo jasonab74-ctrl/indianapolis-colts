@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-24T06:53:41+00:00",
+  "updated": "2025-11-24T07:19:29+00:00",
   "items": [
     {
       "id": "cfed15d95086e9ab",
@@ -18,6 +18,15 @@
       "feed": "ESPN",
       "published": "2025-11-24T06:34:33+0000",
       "summary": "NFL teams remained petty as the calendar nears the holiday week, but one squad took it to another level."
+    },
+    {
+      "id": "60d249485265d213",
+      "title": "Rams defense suffocates Buccaneers, 34-7, to seal Sunday night victory",
+      "link": "https://sports.yahoo.com/article/rams-defense-suffocates-buccaneers-34-061436449.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-24T06:14:36+0000",
+      "summary": "The Los Angeles Rams beat the Tampa Bay Buccaneers, 34-7, on Sunday night in a performance that further solidified their place as the NFL's top team."
     },
     {
       "id": "5fe97de381b51f74",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-12T14:00:00+0000",
       "summary": "The Colts' digital and social media channels will not publish content between Wednesday morning and Monday morning, and we encourage fans to take disconnect from devices during the bye week as well."
-    },
-    {
-      "id": "3609fafab0187bfe",
-      "title": "Colts hit bye at 8-2, but Daniel Jones’ protection must  be addressed; had lost 10 straight giving up 7 sacks",
-      "link": "https://fox59.com/sports/colts/colts-hit-bye-at-8-2-but-daniel-jones-protection-must-be-addressed-had-lost-10-straight-giving-up-7-sacks/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-11T00:52:42+0000",
-      "summary": "INDIANAPOLIS – Three bits of reality followed the Indianapolis Colts back home from Berlin and into their bye week. Item 1: At 8-2, they’re the No. 1 seed in the AFC and have created separation in the AFC South with 5-4 Jacksonville and 4-5 Houston. Item 2: Jonathan Taylor has positioned himself to be the first running [...]"
     }
   ],
   "links": [
