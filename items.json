@@ -1,6 +1,24 @@
 {
-  "updated": "2025-11-24T14:19:35+00:00",
+  "updated": "2025-11-24T14:45:06+00:00",
   "items": [
+    {
+      "id": "c06b06a21480f39e",
+      "title": "2025 NFL Week 13 odds, betting: Full list of Week 13 spreads",
+      "link": "https://sports.yahoo.com/nfl/betting/article/2025-nfl-week-13-odds-betting-full-list-of-week-13-spreads-143234669.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-24T14:32:34+0000",
+      "summary": "The Kansas City Chiefs are road favorites at the Cowboys in Week 13."
+    },
+    {
+      "id": "1a526c3d458272cb",
+      "title": "How Christian McCaffrey became a scrimmage yard king on the verge of NFL history",
+      "link": "https://espn.com/nfl/story/_/id/47072294/san-francisco-49ers-christian-mccaffrey-become-scrimmage-yard-king",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-24T14:24:23+0000",
+      "summary": "McCaffrey, one of the best receiving running backs in NFL history, plays his former team on \"Monday Night Football.\""
+    },
     {
       "id": "0ef67965968d0287",
       "title": "Colts Blue Zone Podcast 443: Big Letdown from Colts in KC",
@@ -29,24 +47,6 @@
       "summary": "NFL teams remained petty as the calendar nears the holiday week, but one squad took it to another level."
     },
     {
-      "id": "04f7da568ce71cd1",
-      "title": "Will Campbell update from NFL Network reveals New England Patriots LT's injury",
-      "link": "https://sports.yahoo.com/article/campbell-nfl-network-reveals-england-140638821.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-24T14:06:38+0000",
-      "summary": "NFL Network's Ian Rapoport has provided an injury update on New England Patriots left tackle Will Campbell and it further suggests the rookie has avoided a season-ending injury."
-    },
-    {
-      "id": "090c824b9ae8481a",
-      "title": "Chiefs WR Rashee Rice reflects on late-game execution in comeback win",
-      "link": "https://sports.yahoo.com/article/chiefs-wr-rashee-rice-reflects-140100660.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-24T14:01:00+0000",
-      "summary": "During his postgame press conference, Chiefs receiver Rashee Rice reflected on late-game execution in the comeback win over the Colts | @EdEastonJr"
-    },
-    {
       "id": "a6275e33249267ef",
       "title": "The main thing to know from every Week 12 game: Rams sit atop NFC after Eagles' meltdown",
       "link": "https://espn.com/nfl/story/_/id/47012915/nfl-week-12-2025-season-questions-takeaways-lessons-stats-recap-every-game",
@@ -72,24 +72,6 @@
       "feed": "Stampede Blue",
       "published": "2025-11-24T13:00:00+0000",
       "summary": "Just a few short weeks ago the Indianapolis Colts were riding high and the Houston Texans were being left for dead by many. After losing two out of three and watching the Texans surge, this week’s matchup just got a lot more interesting. The Jaguars refuse to go away, and the Texans are catching up. [&#8230;]"
-    },
-    {
-      "id": "1a526c3d458272cb",
-      "title": "How Christian McCaffrey became a scrimmage yard king on the verge of NFL history",
-      "link": "https://espn.com/nfl/story/_/id/47072294/san-francisco-49ers-christian-mccaffrey-become-scrimmage-yard-king",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-24T12:06:28+0000",
-      "summary": "McCaffrey, one of the best receiving running backs in NFL history, plays his former team on \"Monday Night Football.\""
-    },
-    {
-      "id": "5fe97de381b51f74",
-      "title": "Inside the art of blocking a kick in the NFL: 'They're game changers'",
-      "link": "https://espn.com/nfl/story/_/id/47026887/inside-art-blocked-kick-nfl-strategy-technique",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-24T05:33:50+0000",
-      "summary": "The league has seen an uptick in blocked kicks, and ESPN's NFL Nation shares how players have done it."
     },
     {
       "id": "c0039070d914d724",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-15T03:53:21+0000",
       "summary": "INDIANAPOLIS – DeForest Buckner has taken a familiar approach in his attempt to return from a neck injury. The Indianapolis Colts’ veteran defensive tackle posted on social media Friday that he traveled to Panama this week to receive stem cell injections as part of his treatment for a neck injury that resulted in him being [...]"
+    },
+    {
+      "id": "57fc3bf31db9d703",
+      "title": "Colts Blue Zone Podcast 441: Bye Week Blitz",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-441-bye-week-blitz/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-13T19:41:52+0000",
+      "summary": "With the Indianapolis Colts on the bye week, the Colts Blue Zone crew takes a look at what's worked so far this season and explores some areas where the team can improve as Indy hits the home stretch. At 8-2, the Colts sit atop the AFC South and boast one of the league's top offenses. [...]"
+    },
+    {
+      "id": "932aa20a9e14fbb5",
+      "title": "Colts’ Jonathan Taylor AFC Offensive Player of the Week",
+      "link": "https://fox59.com/sports/colts/colts-jonathan-taylor-afc-offensive-player-of-the-week-3/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-12T19:38:25+0000",
+      "summary": "INDIANAPOLIS – The honors keep flowing in for Jonathan Taylor. The Indianapolis Colts’ veteran running back has been named AFC Offensive Player of the Week after being the catalyst for Sunday’s 31-25 overtime win over the Atlanta Falcons in Berlin. Taylor rushed 32 times for 244 yards and three touchdowns and added three receptions for [...]"
     }
   ],
   "links": [
