@@ -1,42 +1,6 @@
 {
-  "updated": "2025-11-25T04:46:29+00:00",
+  "updated": "2025-11-25T05:19:40+00:00",
   "items": [
-    {
-      "id": "97f05ef97205238a",
-      "title": "NFL Power Rankings entering Week 13: Bears can legitimize their run on Black Friday vs. Eagles, who took a tumble",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-entering-week-13-bears-can-legitimize-their-run-on-black-friday-vs-eagles-who-took-a-tumble-042038538.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-25T04:23:02+0000",
-      "summary": "The Bears remain in first place of the NFC North."
-    },
-    {
-      "id": "b2f9d80acb1408a8",
-      "title": "49ers WR Jauan Jennings smacks Panthers S Tre'von Moehrig after game",
-      "link": "https://sports.yahoo.com/nfl/article/49ers-wr-jauan-jennings-smacks-panthers-s-trevon-moehrig-after-game-041303497.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-25T04:13:03+0000",
-      "summary": "The NFL will likely review a postgame altercation after the 49ers' win."
-    },
-    {
-      "id": "d8883968c4936cb9",
-      "title": "Niners beat Panthers to boost NFL playoff chances",
-      "link": "https://sports.yahoo.com/articles/niners-beat-panthers-boost-nfl-040936593.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-25T04:09:36+0000",
-      "summary": "Brock Purdy threw for one touchdown and Christian McCaffrey ran for another to lift San Francisco over the Carolina Panthers 20-9 on Monday, boosting the 49ers' NFL playoff hopes.San Francisco answered on a 47-yard Matt Gay field goal to lift the 49ers ahead 10-3 at half-time."
-    },
-    {
-      "id": "b0ed810037bb5f7a",
-      "title": "NFL power rankings: Rams take over at top as Eagles, Bills, Steelers drop; Bears, Cowboys rise for Week 13",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-rams-top-054308886.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-25T04:04:00+0000",
-      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 12 of the 2025 NFL regular season? Here's an updated look from best to worst."
-    },
     {
       "id": "5b3873ddd8624bd2",
       "title": "👀 Browns poke fun at Raiders, lead NFL trolls",
@@ -84,7 +48,7 @@
     },
     {
       "id": "a6275e33249267ef",
-      "title": "The main thing to know from every Week 12 game: Rams sit atop NFC after Eagles' meltdown",
+      "title": "The main thing to know from every Week 12 game: 49ers make playoff push, while Panthers slump",
       "link": "https://espn.com/nfl/story/_/id/47012915/nfl-week-12-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-11-18T21:21:37+0000",
       "summary": "When Sauce Gardner takes the field for his second game in a Colts uniform on Sunday against the Kansas City Chiefs, he'll do so with a clear focus."
+    },
+    {
+      "id": "735e44c78c435c6e",
+      "title": "Colts release unofficial depth chart for Week 12 game vs. Kansas City Chiefs",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-12-game-vs-kansas-city-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-18T20:27:38+0000",
+      "summary": "The Colts released their Week 12 unofficial depth chart ahead of their game against the Kansas City Chiefs Sunday at Arrowhead Stadium. Check it out below:"
+    },
+    {
+      "id": "0e3b26b5b98a4fdf",
+      "title": "Colts sign DE Viliami Fehoko Jr., S George Odum, WR Eli Pancol, DT Chris Wormley to practice squad; release DE Tanoh Kpassagnon, TE Max Mang, CB Troy Pride Jr. from practice squad",
+      "link": "https://colts.com/news/colts-sign-de-viliami-fehoko-jr-s-george-odum-wr-eli-pancol-dt-chris-wormley-to-practice-squad-release-de-tanoh-kpassagnon-te-max-mang-cb-troy-pride-jr-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-18T18:55:44+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
+    },
+    {
+      "id": "b7b283f71f6776f7",
+      "title": "Colts are in good position at 8-2 after bye, but must 'go out and finish our business'",
+      "link": "https://fox59.com/sports/colts/colts-are-in-good-position-at-8-2-after-bye-but-must-go-out-and-finish-our-business/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-17T22:46:32+0000",
+      "summary": "INDIANAPOLIS – They’ve been in this situation before. As the Indianapolis Colts come out of their bye and prepare for the final seven games of the season, they’re in position to do something noteworthy. At 8-2, they’re the No. 3 seed in the AFC – New England and Denver are 9-2 – and are atop [...]"
+    },
+    {
+      "id": "74da56519593b699",
+      "title": "Colts return from bye week focused on Kansas City Chiefs, not previous accomplishments",
+      "link": "https://colts.com/news/colts-return-from-bye-week-focused-on-kansas-city-chiefs-not-previous-accomplishments",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-17T21:22:39+0000",
+      "summary": "The Colts re-convened at the Indiana Farm Bureau Football Center on Monday not satisfied with being 8-2, and with their focus firmly shifting to Sunday's matchup with the Chiefs in Kansas City."
     }
   ],
   "links": [
