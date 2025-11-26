@@ -1,32 +1,50 @@
 {
-  "updated": "2025-11-26T01:25:13+00:00",
+  "updated": "2025-11-26T02:58:14+00:00",
   "items": [
+    {
+      "id": "9ae3a6155d89ded5",
+      "title": "Jack Endries: Texas tight end prospect showing strong growth and NFL-level potential",
+      "link": "https://sports.yahoo.com/articles/jack-endries-texas-tight-end-022055418.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T02:20:55+0000",
+      "summary": "Texas tight end Jack Endries is emerging as a polished, reliable, pro-ready offensive weapon."
+    },
+    {
+      "id": "a93991ae797cdd73",
+      "title": "NFL Power Rankings: Denver Broncos move up without even playing in Week 12",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-denver-broncos-021900776.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T02:19:00+0000",
+      "summary": "Where do the Denver Broncos sit in the power rankings heading into Week 13?"
+    },
     {
       "id": "37185fe5553851ce",
       "title": "Panthers safety Moehrig suspended for low blow",
       "link": "https://espn.com/nfl/story/_/id/47099090/nfl-suspends-panthers-trevon-moehrig-one-game-low-blow",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-26T01:19:50+0000",
+      "published": "2025-11-26T01:26:18+0000",
       "summary": "The NFL has suspended Panthers safety Tre'von Moehrig one game without pay for striking 49ers wide receiver Jauan Jennings in the groin area Monday night."
     },
     {
-      "id": "8e100f0a6a4793e0",
-      "title": "NFL power rankings roundup: How Tennessee Titans fare entering Week 13",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-roundup-tennessee-010950349.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-26T01:09:50+0000",
-      "summary": "Here's where the Tennessee Titans stand in a multitude of power rankings from around the league as we head into Week 13."
+      "id": "9e325c9511d0775f",
+      "title": "Solak spins Week 12 forward: Should Browns stick with Sanders? Could Colts lose AFC South?",
+      "link": "https://espn.com/nfl/story/_/id/47073849/nfl-week-12-lessons-shedeur-sanders-colts-texans-jaguars-bengals-george-pickens",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-26T01:26:12+0000",
+      "summary": "Ben Solak sizes up Shedeur Sanders' first start, the sudden three-team race in the AFC South, George Pickens' next contract and Week 12 trends to watch."
     },
     {
-      "id": "678a39874d93ee9d",
-      "title": "NFL power rankings roundup 2025: How Commanders stack up in Week 13",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-roundup-2025-010814904.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-26T01:08:14+0000",
-      "summary": "Here's where the Washington Commanders stand in a multitude of power rankings from around the league as we head into Week 13."
+      "id": "3559d8ecdc23700c",
+      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
+      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-26T01:26:12+0000",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
     },
     {
       "id": "cf8ae5e26ac36fb2",
@@ -72,24 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-11-25T18:57:29+0000",
       "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "9e325c9511d0775f",
-      "title": "Solak spins Week 12 forward: Should Browns stick with Sanders? Could Colts lose AFC South?",
-      "link": "https://espn.com/nfl/story/_/id/47073849/nfl-week-12-lessons-shedeur-sanders-colts-texans-jaguars-bengals-george-pickens",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-25T17:14:17+0000",
-      "summary": "Ben Solak sizes up Shedeur Sanders' first start, the sudden three-team race in the AFC South, George Pickens' next contract and Week 12 trends to watch."
-    },
-    {
-      "id": "3559d8ecdc23700c",
-      "title": "NFL playoff picture projections: Updated chances to make the postseason, win divisions",
-      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-25T17:14:17+0000",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
     },
     {
       "id": "01214e9e30b2d269",
