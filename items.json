@@ -1,6 +1,69 @@
 {
-  "updated": "2025-11-26T14:20:25+00:00",
+  "updated": "2025-11-26T14:45:02+00:00",
   "items": [
+    {
+      "id": "e1ad26ae97978c71",
+      "title": "NFL analyst identifies issue facing Daniel Jones and Colts' offense",
+      "link": "https://sports.yahoo.com/articles/nfl-analyst-identifies-issue-facing-143249677.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:32:49+0000",
+      "summary": "An NFL analyst believes there is one very specific problem that Daniel Jones and the Colts' offense must overcome."
+    },
+    {
+      "id": "feef1b56871678d5",
+      "title": "Kansas City Chiefs vs. Dallas Cowboys: How to watch the NFL Thanksgiving Day game, kickoff time, TV channel and more",
+      "link": "https://sports.yahoo.com/nfl/article/kansas-city-chiefs-vs-dallas-cowboys-how-to-watch-the-nfl-thanksgiving-day-game-kickoff-time-tv-channel-and-more-143029422.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:30:29+0000",
+      "summary": "The Kansas City Chiefs and the Dallas Cowboys face off on Thanksgiving Day, here's how to tune in to the game."
+    },
+    {
+      "id": "9fc1a14785fc1d73",
+      "title": "Caleb Williams, Bears OL analysis: Sack allowed vs. Steelers, NFL Week 12",
+      "link": "https://sports.yahoo.com/articles/caleb-williams-bears-ol-analysis-143000291.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:30:00+0000",
+      "summary": "The Chicago Bears allowed just one sack to the Pittsburgh Steelers, and @wiltfongjr breaks i down here."
+    },
+    {
+      "id": "28c66678a193fef0",
+      "title": "Lions News: National predictions for Detroit Lions vs. Green Bay Packers",
+      "link": "https://sports.yahoo.com/articles/lions-news-national-predictions-detroit-143000565.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:30:00+0000",
+      "summary": "﻿A look at who some national NFL writers and analysts are picking for the Lions-Packers Thanksgiving Day matchup."
+    },
+    {
+      "id": "2fc32629c0701f18",
+      "title": "Is the Cardinals’ next quarterback in the 2026 NFL Draft class?",
+      "link": "https://sports.yahoo.com/articles/cardinals-next-quarterback-2026-nfl-141936705.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:19:36+0000",
+      "summary": "﻿The quarterback draft class this year is pretty good"
+    },
+    {
+      "id": "8c195f7132919fc8",
+      "title": "Matthew Berry’s Fantasy Football Rankings for Week 13 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/matthew-berry-fantasy-football-rankings-141722876.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:17:22+0000",
+      "summary": "Jalen Hurts, Christian McCaffrey, Jaxon Smith-Njigba, and Trey McBride highlight positional rankings for Week 13 of the 2025 NFL season."
+    },
+    {
+      "id": "7572956d218a0cee",
+      "title": "Cleveland star Myles Garrett piles up historic numbers as he chases a mark untouched since 2001",
+      "link": "https://sports.yahoo.com/articles/cleveland-star-myles-garrett-piles-141607726.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-26T14:16:07+0000",
+      "summary": "Cleveland star Myles Garrett’s push toward a historic sack record fuels a week of major performances, wild comebacks, and standout moments across the NFL."
+    },
     {
       "id": "d717314c03eb46d7",
       "title": "2025 NFL Thanksgiving Day games: How to watch, full schedule, streaming info and more",
@@ -9,24 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-26T14:15:03+0000",
       "summary": "How to watch all the NFL action this Thanksgiving."
-    },
-    {
-      "id": "62ea67282d9e78f6",
-      "title": "NFL power rankings: Where do the New York Jets rank ahead of Week 13?",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-where-york-141030494.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-26T14:10:30+0000",
-      "summary": "Check out where the Jets sit in national power rankings poll ahead of Week 13."
-    },
-    {
-      "id": "4051da253c261ca6",
-      "title": "NFL power rankings wonder about Joe Burrow 'magic' in Week 13",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-wonder-joe-140112767.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-26T14:01:12+0000",
-      "summary": "Those in charge of NFL power rankings think the Bengals are out...unless Joe Burrow has some magic in him."
     },
     {
       "id": "9bf7f62f56c5ee46",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-21T17:56:39+0000",
       "summary": "The Colts opened Ward's 21-day window to be activated from injured reserve on Wednesday, and Ward participated in all three practices this week."
-    },
-    {
-      "id": "503b762b86976a64",
-      "title": "Indianapolis Colts: My Cause My Cleats",
-      "link": "https://fox59.com/morning-news/indianapolis-colts-my-cause-my-cleats/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T14:21:00+0000",
-      "summary": "When the Indianapolis Colts take the field on Nov. 30 against the Houston Texans, their shoes will stand out. Players will sport unique footwear as part of the NFL's My Cause My Cleats program. Expect unusual color combinations and charities close to players' hearts. The Colts' Larra Overton joined FOX59 News to talk about the [...]"
-    },
-    {
-      "id": "a1b2b1e7b026231e",
-      "title": "Despite expanding game, the superpower of Colts’ Alec Pierce is getting deep",
-      "link": "https://fox59.com/sports/colts/despite-expanding-game-the-superpower-of-colts-alec-pierce-is-getting-deep/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T00:48:48+0000",
-      "summary": "INDIANAPOLIS – Listen to those around him, and Alec Pierce has spent the last four seasons expanding his game. The renowned home run hitter was committed to adding layers to his game. Pierce wanted to be an intermediate threat, which meant mastering the entire route tree: curls, slants, outs, the works. With one overriding caveat: [...]"
-    },
-    {
-      "id": "439a8caed2a22e79",
-      "title": "Practice Notebook: Colts emphasizing communication ahead of matchup vs. Chiefs",
-      "link": "https://colts.com/news/practice-notebook-colts-jonathan-taylor-daniel-jones-communication-arrowhead-stadium-environment-chiefs",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-20T21:04:30+0000",
-      "summary": "In preparing to enter a hostile environment in GEHA Field at Arrowhead Stadium, Jonathan Taylor and the rest of the Colts offense know communication must be at a premium."
-    },
-    {
-      "id": "e709cb9ac5b91bb4",
-      "title": "Alec Pierce is no longer just a deep threat. He's become an all-around receiver, and the Colts are making the most of it",
-      "link": "https://colts.com/news/alec-pierce-deep-threat-wide-receiver-route-tree-growth-reggie-wayne-shane-steichen-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-20T20:57:51+0000",
-      "summary": "Alec Pierce is currently on pace for over 1,000 receiving yards this season, but he only has two receptions for longer than 45 yards."
-    },
-    {
-      "id": "cf993b12286aff9b",
-      "title": "Colts Blue Zone Podcast 442: Colts-Chiefs Preview",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-442-colts-chiefs-preview/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-20T20:37:13+0000",
-      "summary": "The Colts (8-2) head to Arrowhead Stadium to take on the Kansas City Chiefs (5-5) in a key game for both teams. What do we expect with Indy coming off the bye week? Dave Griffiths, Mike Chappell and Matt Adams preview the Colts-Chiefs game, explore the impact of Tyler Warren and look at some key [...]"
     }
   ],
   "links": [
