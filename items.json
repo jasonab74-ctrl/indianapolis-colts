@@ -1,104 +1,68 @@
 {
-  "updated": "2025-11-27T17:39:08+00:00",
+  "updated": "2025-11-27T18:26:35+00:00",
   "items": [
+    {
+      "id": "3181303e5e5f1b65",
+      "title": "Daniel Jones injury update: Latest on Colts' QB fractured fibula",
+      "link": "https://sports.yahoo.com/articles/daniel-jones-injury-latest-colts-180631070.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T18:06:31+0000",
+      "summary": "What happened to Daniel Jones? Here's the latest on the injury the Colts' QB is dealing with."
+    },
+    {
+      "id": "abc8a523c521a404",
+      "title": "NFL Thanksgiving Day: Is the Chiefs’ Dynasty on the line against the Cowboys?",
+      "link": "https://sports.yahoo.com/articles/nfl-thanksgiving-day-chiefs-dynasty-180630212.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T18:06:30+0000",
+      "summary": "The Kansas City Chiefs' dynasty is on the line against the Dallas Cowboys on Thanksgiving Day at Jerry World."
+    },
+    {
+      "id": "c3fe764b4d23af00",
+      "title": "Will Daniel Jones play Sunday? Colts QB has fracture in leg per report",
+      "link": "https://sports.yahoo.com/articles/daniel-jones-play-sunday-colts-180354647.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T18:03:54+0000",
+      "summary": "Colts QB Daniel Jones is dealing with a fracture in his fibula per a report"
+    },
+    {
+      "id": "7a418069ec7f9bf5",
+      "title": "Will Daniel Jones play Sunday? Colts QB has fracture in leg per report",
+      "link": "https://sports.yahoo.com/articles/daniel-jones-play-sunday-colts-180354472.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T18:03:54+0000",
+      "summary": "Colts QB Daniel Jones is dealing with a fracture in his fibula per a report"
+    },
+    {
+      "id": "cb540dc57b029ebb",
+      "title": "Dallas Cowboys Rookie Tyler Booker Says 'Helping Inspire Students' Is All Part of the Game: 'It's Truly a Blessing' (Exclusive)",
+      "link": "https://sports.yahoo.com/articles/dallas-cowboys-rookie-tyler-booker-180000752.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T18:00:00+0000",
+      "summary": "The offensive guard is making an impact on and off the field during his first season in the NFL"
+    },
+    {
+      "id": "7afe73e14ad67b94",
+      "title": "Is Joe Brunner leaving after 2025 season?",
+      "link": "https://sports.yahoo.com/articles/joe-brunner-leaving-2025-season-180000448.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T18:00:00+0000",
+      "summary": "The Badgers guard could look at the NFL after this season."
+    },
     {
       "id": "41df56fa9e309894",
       "title": "Two more Thanksgiving NFL games: We have picks, predictions, storylines and more",
       "link": "https://espn.com/nfl/story/_/page/viewersguide47095843/nfl-thanksgiving-picks-schedule-fantasy-football-odds-injuries-stats-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-27T17:33:25+0000",
+      "published": "2025-11-27T17:56:42+0000",
       "summary": "Here's everything you need to know for Chiefs-Cowboys and Bengals-Ravens. Who will win the NFL's two remaining Thanksgiving games?"
-    },
-    {
-      "id": "b47eb137a50e1b0c",
-      "title": "Thanksgiving and NFL games open thread",
-      "link": "https://sports.yahoo.com/articles/thanksgiving-nfl-games-open-thread-173000550.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:30:00+0000",
-      "summary": "Poultry in motion"
-    },
-    {
-      "id": "d8670fb4fc838ced",
-      "title": "Week 13 NFL TV Schedule: Live game message board and fan discussion",
-      "link": "https://sports.yahoo.com/articles/week-13-nfl-tv-schedule-173000530.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:30:00+0000",
-      "summary": "NFL Week 13 live game message board and fan discussion"
-    },
-    {
-      "id": "edaa9bd8dca5e1c8",
-      "title": "Detroit Lions vs. Green Bay Packers discussion to kick off Thanksgiving",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-vs-green-bay-173000448.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:30:00+0000",
-      "summary": "The Detroit Lions kick off Week 13 of NFL action by hosting the Green Bay Packers for Thanksgiving Day."
-    },
-    {
-      "id": "e91ac7d347721c62",
-      "title": "NFL Thanksgiving Day live chat: Afternoon and Night schedule and odds",
-      "link": "https://sports.yahoo.com/articles/nfl-thanksgiving-day-live-chat-173000851.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:30:00+0000",
-      "summary": "Join us live for the NFLs Thanksgiving day early afternoon, late afternoon, and Thursday Night Football slate of games."
-    },
-    {
-      "id": "2deaab2ff3880225",
-      "title": "Thanksgiving Day NFL Discussion",
-      "link": "https://sports.yahoo.com/articles/thanksgiving-day-nfl-discussion-173000031.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:30:00+0000",
-      "summary": "The holiday season starts today!"
-    },
-    {
-      "id": "aa242d5a418147f4",
-      "title": "Who holds the record for most receiving yards in a single NFL season?",
-      "link": "https://sports.yahoo.com/articles/holds-record-most-receiving-yards-172235286.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:22:35+0000",
-      "summary": "Jaxson Smith-Njigba of the Seahawks is on pace to set a single-season receiving yardage record. Who would he surpass if he does it?"
-    },
-    {
-      "id": "eb7a83133c9091de",
-      "title": "Colts vs. Texans TV map: Will Week 13 game be televised in your area?",
-      "link": "https://sports.yahoo.com/articles/colts-vs-texans-tv-map-171819406.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:18:19+0000",
-      "summary": "Will Indianapolis Colts vs. Houston Texans be on TV in your area? Let's take a look."
-    },
-    {
-      "id": "5e215fd5310360f0",
-      "title": "NFL Thrives On Close Games, Parity & Expanded Metrics In Drive Toward Ratings Paydirt. Could Thanksgiving Day Be A Record-Breaker?",
-      "link": "https://sports.yahoo.com/articles/nfl-thrives-close-games-parity-171500361.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:15:00+0000",
-      "summary": "To borrow a football metaphor, the NFL has effectively been kicking with a “k-ball” this season, adding out-of-home and streaming viewership to its linear ratings. Even so, the league continues to split the uprights, extending its decades of dominance. Heading into a blockbuster four-game stretch over Thanksgiving and Black Friday, average viewership is up 6% …"
-    },
-    {
-      "id": "7d95c5dbe14ed1d4",
-      "title": "NFL Thanksgiving Day 2025 live discussion: A tripleheader football feast!",
-      "link": "https://sports.yahoo.com/articles/nfl-thanksgiving-day-2025-live-171500898.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:15:00+0000",
-      "summary": "Not one, not two, but three Thanksgiving games with playoff implications!"
-    },
-    {
-      "id": "6a49abfa56a57547",
-      "title": "Thanksgiving Thrillers: NFL storylines & Plots to Keep You Hooked!",
-      "link": "https://sports.yahoo.com/articles/thanksgiving-thrillers-nfl-storylines-plots-171317741.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T17:13:17+0000",
-      "summary": "Here are the storylines you should know and the players to keep an eye on as you prepare for a three-game NFL slate on Thanksgiving Day."
     },
     {
       "id": "734101430fe5bc91",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-11-21T18:32:48+0000",
       "summary": "Colts cornerback Charvarius Ward Sr. cleared concussion protocol, meaning he's set to play opposite Sauce Gardner against the Kansas City Chiefs in Week 12."
+    },
+    {
+      "id": "9932d453f7f44dee",
+      "title": "Daniel Jones 'ready to go' for Week 12's game vs. Kansas City Chiefs",
+      "link": "https://colts.com/news/daniel-jones-ready-to-go-for-week-12-s-game-vs-kansas-city-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-21T18:01:21+0000",
+      "summary": "Jones popped up on the Colts' practice report as a limited participant in Thursday's practice, but he was a full participant Friday and will play Sunday against the Chiefs."
+    },
+    {
+      "id": "11fa0fffc47c58b6",
+      "title": "Colts do not rule out any players for Week 12 game vs. Kansas City Chiefs; CB Charvarius Ward Sr. clears concussion protocol",
+      "link": "https://colts.com/news/colts-do-not-rule-out-any-players-for-week-12-game-vs-kansas-city-chiefs-cb-charvarius-ward-sr-clears-concussion-protocol",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-21T17:56:39+0000",
+      "summary": "The Colts opened Ward's 21-day window to be activated from injured reserve on Wednesday, and Ward participated in all three practices this week."
+    },
+    {
+      "id": "503b762b86976a64",
+      "title": "Indianapolis Colts: My Cause My Cleats",
+      "link": "https://fox59.com/morning-news/indianapolis-colts-my-cause-my-cleats/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-21T14:21:00+0000",
+      "summary": "When the Indianapolis Colts take the field on Nov. 30 against the Houston Texans, their shoes will stand out. Players will sport unique footwear as part of the NFL's My Cause My Cleats program. Expect unusual color combinations and charities close to players' hearts. The Colts' Larra Overton joined FOX59 News to talk about the [...]"
+    },
+    {
+      "id": "a1b2b1e7b026231e",
+      "title": "Despite expanding game, the superpower of Colts’ Alec Pierce is getting deep",
+      "link": "https://fox59.com/sports/colts/despite-expanding-game-the-superpower-of-colts-alec-pierce-is-getting-deep/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-21T00:48:48+0000",
+      "summary": "INDIANAPOLIS – Listen to those around him, and Alec Pierce has spent the last four seasons expanding his game. The renowned home run hitter was committed to adding layers to his game. Pierce wanted to be an intermediate threat, which meant mastering the entire route tree: curls, slants, outs, the works. With one overriding caveat: [...]"
     }
   ],
   "links": [
