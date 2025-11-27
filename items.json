@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-27T11:17:39+00:00",
+  "updated": "2025-11-27T11:38:46+00:00",
   "items": [
+    {
+      "id": "ed1d9895d45bf558",
+      "title": "Week 13 NFL Survivor pool strategy with safe, value, trap picks",
+      "link": "https://sports.yahoo.com/articles/week-13-nfl-survivor-pool-111500822.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T11:15:00+0000",
+      "summary": "It’s time to figure out your Survivor picks for the 2025 season. We’ll break down safe, value, and trap picks heading into Week 13."
+    },
     {
       "id": "eda2921d612428ce",
       "title": "NFL Thanksgiving Day schedule a hit, could lead to ratings record",
@@ -29,6 +38,15 @@
       "summary": "Cowboys vs Chiefs on Thanksgiving has Taylor Swift rumors, key injuries, and could become the highest watched regular season game in NFL history"
     },
     {
+      "id": "eb8994ab9b2d4bed",
+      "title": "What NFL teams are playing on Thanksgiving? Is Joe Burrow back?",
+      "link": "https://sports.yahoo.com/articles/nfl-teams-playing-thanksgiving-joe-110428678.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T11:04:28+0000",
+      "summary": "See who is playing across the NFL on Thanksgiving and Black Friday, including the expected return of Joe Burrow."
+    },
+    {
       "id": "b977734f89116926",
       "title": "What is Turducken? John Madden and the iconic Thanksgiving dish",
       "link": "https://sports.yahoo.com/articles/turducken-john-madden-iconic-thanksgiving-110325192.html",
@@ -36,42 +54,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-27T11:03:25+0000",
       "summary": "Turducken's is a popular Thanksgiving dish thanks in no small part to the NFL. Here's how it rose to national prominence."
-    },
-    {
-      "id": "09e5317168683045",
-      "title": "NFL Thanksgiving games: Interesting facts and history of football tradition",
-      "link": "https://sports.yahoo.com/articles/nfl-thanksgiving-games-interesting-facts-110239841.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T11:02:39+0000",
-      "summary": "The NFL has played a game on Thanksgiving almost every year for decades. Here's the NFL's Thanksgiving history, including every team's record:"
-    },
-    {
-      "id": "f35141166316f6b5",
-      "title": "Chiefs playoff picture: Updated chances for Kansas City to make 2025 NFL postseason in Week 13",
-      "link": "https://sports.yahoo.com/articles/chiefs-playoff-picture-updated-chances-110001159.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T11:00:01+0000",
-      "summary": "Here is a look at Kansas City's path to the playoffs in Week 13."
-    },
-    {
-      "id": "576dea25a388487f",
-      "title": "Sporticast 505: Amazon’s Black Friday Takeover Continues",
-      "link": "https://sports.yahoo.com/articles/sporticast-505-amazon-black-friday-110000492.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T11:00:00+0000",
-      "summary": "On the latest Sporticast episode, hosts Scott Soshnick and Eben Novy-Williams discuss some of the biggest sports business stories of the week, including the evolution of Thanksgiving and Black Friday as must-watch live sports holidays. The NFL has long dominated Thanksgiving, and will have three games on Thursday once again. The afternoon one, a CBS …"
-    },
-    {
-      "id": "7c581b5d3ac4fb94",
-      "title": "Full list of Week 13 straight-up picks with confidence levels",
-      "link": "https://sports.yahoo.com/articles/full-list-week-13-straight-110000804.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T11:00:00+0000",
-      "summary": "We make picks for all 16 NFL games with levels of confidence ahead of Week 13."
     },
     {
       "id": "2df05e1b6c318ed2",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-21T17:56:39+0000",
       "summary": "The Colts opened Ward's 21-day window to be activated from injured reserve on Wednesday, and Ward participated in all three practices this week."
+    },
+    {
+      "id": "503b762b86976a64",
+      "title": "Indianapolis Colts: My Cause My Cleats",
+      "link": "https://fox59.com/morning-news/indianapolis-colts-my-cause-my-cleats/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-21T14:21:00+0000",
+      "summary": "When the Indianapolis Colts take the field on Nov. 30 against the Houston Texans, their shoes will stand out. Players will sport unique footwear as part of the NFL's My Cause My Cleats program. Expect unusual color combinations and charities close to players' hearts. The Colts' Larra Overton joined FOX59 News to talk about the [...]"
+    },
+    {
+      "id": "a1b2b1e7b026231e",
+      "title": "Despite expanding game, the superpower of Colts’ Alec Pierce is getting deep",
+      "link": "https://fox59.com/sports/colts/despite-expanding-game-the-superpower-of-colts-alec-pierce-is-getting-deep/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-21T00:48:48+0000",
+      "summary": "INDIANAPOLIS – Listen to those around him, and Alec Pierce has spent the last four seasons expanding his game. The renowned home run hitter was committed to adding layers to his game. Pierce wanted to be an intermediate threat, which meant mastering the entire route tree: curls, slants, outs, the works. With one overriding caveat: [...]"
     }
   ],
   "links": [
