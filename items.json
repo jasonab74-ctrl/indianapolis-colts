@@ -1,59 +1,14 @@
 {
-  "updated": "2025-11-27T05:43:23+00:00",
+  "updated": "2025-11-27T06:30:30+00:00",
   "items": [
     {
-      "id": "229d8eb4e586ea62",
-      "title": "Micah Parsons is two sacks away from a new NFL record",
-      "link": "https://sports.yahoo.com/articles/micah-parsons-two-sacks-away-052136542.html",
+      "id": "42caa0179309ecde",
+      "title": "What time is the NFL Black Friday game? TV schedule, channel, live stream to watch Eagles vs. Bears in Week 13",
+      "link": "https://sports.yahoo.com/articles/time-nfl-black-friday-game-055001643.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-27T05:21:36+0000",
-      "summary": "Browns defensive end Myles Garrett is five sacks away from the single-season sack record."
-    },
-    {
-      "id": "e57ef4a4b83b0832",
-      "title": "What channel is Cowboys vs. Chiefs on today? Time, TV schedule, live stream to watch 2025 NFL Thanksgiving game",
-      "link": "https://sports.yahoo.com/articles/channel-cowboys-vs-chiefs-today-052002178.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T05:20:02+0000",
-      "summary": "Here's how to watch the Thanksgiving matchup between the Chiefs and Cowboys."
-    },
-    {
-      "id": "78fcae2b8e702864",
-      "title": "NFL insider's reason 49ers waived $24.9 million in guarantees for WR",
-      "link": "https://sports.yahoo.com/articles/nfl-insiders-reason-49ers-waived-051512988.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T05:15:12+0000",
-      "summary": "ESPN's Jeremy Fowler provided a reason for the San Francisco 49ers waiving the guarantees on Brandon Aiyuk's contract."
-    },
-    {
-      "id": "ebe665a4f516ca47",
-      "title": "What channel is Lions vs. Packers on today? Time, TV schedule, live stream to watch 2025 NFL Thanksgiving game",
-      "link": "https://sports.yahoo.com/articles/channel-lions-vs-packers-today-051001436.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T05:10:01+0000",
-      "summary": "Here's everything you need to know to watch the Thanksgiving matchup between the Lions and Packers, including TV and streaming information."
-    },
-    {
-      "id": "c6ed16926b7ea562",
-      "title": "NFL games on TV in Canada this week: Full schedule, times, channels to watch Week 13 football live",
-      "link": "https://sports.yahoo.com/articles/nfl-games-tv-canada-week-051001892.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T05:10:01+0000",
-      "summary": "All you need to know to watch the NFL's Week 13 games, including Thursday and Friday matchups."
-    },
-    {
-      "id": "6e77f5096148a1cd",
-      "title": "Before Turducken, College Football Used to Eat Up Thanksgiving",
-      "link": "https://sports.yahoo.com/articles/turducken-college-football-used-eat-050100642.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-27T05:01:00+0000",
-      "summary": "Before John Madden and a certain gastronomic Matryoshka doll helped establish the NFL as the main course of America’s Thanksgiving celebrations, the holiday was dominated by simpler eats … and college football. As much as the Detroit Lions have clocked in for 85 of these feast-day games since suiting up for their very first in 1934, …"
+      "published": "2025-11-27T05:50:01+0000",
+      "summary": "All you need to know to watch the NFL Black Friday game between the Eagles and Bears."
     },
     {
       "id": "2df05e1b6c318ed2",
@@ -540,6 +495,51 @@
       "feed": "CBS4Indy",
       "published": "2025-11-21T00:48:48+0000",
       "summary": "INDIANAPOLIS – Listen to those around him, and Alec Pierce has spent the last four seasons expanding his game. The renowned home run hitter was committed to adding layers to his game. Pierce wanted to be an intermediate threat, which meant mastering the entire route tree: curls, slants, outs, the works. With one overriding caveat: [...]"
+    },
+    {
+      "id": "439a8caed2a22e79",
+      "title": "Practice Notebook: Colts emphasizing communication ahead of matchup vs. Chiefs",
+      "link": "https://colts.com/news/practice-notebook-colts-jonathan-taylor-daniel-jones-communication-arrowhead-stadium-environment-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-20T21:04:30+0000",
+      "summary": "In preparing to enter a hostile environment in GEHA Field at Arrowhead Stadium, Jonathan Taylor and the rest of the Colts offense know communication must be at a premium."
+    },
+    {
+      "id": "e709cb9ac5b91bb4",
+      "title": "Alec Pierce is no longer just a deep threat. He's become an all-around receiver, and the Colts are making the most of it",
+      "link": "https://colts.com/news/alec-pierce-deep-threat-wide-receiver-route-tree-growth-reggie-wayne-shane-steichen-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-20T20:57:51+0000",
+      "summary": "Alec Pierce is currently on pace for over 1,000 receiving yards this season, but he only has two receptions for longer than 45 yards."
+    },
+    {
+      "id": "cf993b12286aff9b",
+      "title": "Colts Blue Zone Podcast 442: Colts-Chiefs Preview",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-442-colts-chiefs-preview/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-20T20:37:13+0000",
+      "summary": "The Colts (8-2) head to Arrowhead Stadium to take on the Kansas City Chiefs (5-5) in a key game for both teams. What do we expect with Indy coming off the bye week? Dave Griffiths, Mike Chappell and Matt Adams preview the Colts-Chiefs game, explore the impact of Tyler Warren and look at some key [...]"
+    },
+    {
+      "id": "9f75e22fd739937f",
+      "title": "Sauce Gardner, Daniel Jones and a lesson about the NFL Draft",
+      "link": "https://colts.com/news/sauce-gardner-daniel-jones-and-a-lesson-about-the-nfl-draft",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-20T19:11:57+0000",
+      "summary": "Colts defensive backs coach Jerome Henderson did extensive research on Sauce Gardner in 2022, while head coach Shane Steichen scouted Daniel Jones in 2019. Neither coach was with the Colts at the time, but the work they did three and six years ago has paid off in 2025."
+    },
+    {
+      "id": "22d7737a22ca4651",
+      "title": "The Colts Show Mailbag: Chiefs' rare losing streak, turnovers & sacks add up before bye week, Colts-Patriots rivalry re-ignited?",
+      "link": "https://colts.com/news/the-colts-show-mailbag-chiefs-rare-losing-streak-turnovers-sacks-add-up-before-bye-week-colts-patriots-rivalry-re-ignited",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-20T17:19:14+0000",
+      "summary": "The Colts Show Mailbag returns for Week 12 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
     }
   ],
   "links": [
