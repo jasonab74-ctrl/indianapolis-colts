@@ -1,13 +1,31 @@
 {
-  "updated": "2025-11-27T20:39:18+00:00",
+  "updated": "2025-11-27T21:16:49+00:00",
   "items": [
+    {
+      "id": "5f3df6bb702bab1f",
+      "title": "NFL Thanksgiving Football: Kansas City Chiefs vs Dallas Cowboys",
+      "link": "https://sports.yahoo.com/articles/nfl-thanksgiving-football-kansas-city-210000430.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T21:00:00+0000",
+      "summary": "Let’s watch more Turkey Day football!"
+    },
+    {
+      "id": "775bb52cc3355410",
+      "title": "NFL Inactive Report",
+      "link": "https://sports.yahoo.com/articles/nfl-inactive-report-204818891.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-27T20:48:18+0000",
+      "summary": ""
+    },
     {
       "id": "a2bc10b3802de029",
       "title": "Colts' Jones has lingering injury; insists he'll play",
       "link": "https://espn.com/nfl/story/_/id/47120816/daniel-jones-dealing-lingering-injury-insists-play",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-27T20:04:11+0000",
+      "published": "2025-11-27T20:40:46+0000",
       "summary": "Colts QB Daniel Jones is battling a fibula injury but says he will be ready for Sunday's game vs. the Texans."
     },
     {
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-20T21:04:30+0000",
       "summary": "In preparing to enter a hostile environment in GEHA Field at Arrowhead Stadium, Jonathan Taylor and the rest of the Colts offense know communication must be at a premium."
-    },
-    {
-      "id": "e709cb9ac5b91bb4",
-      "title": "Alec Pierce is no longer just a deep threat. He's become an all-around receiver, and the Colts are making the most of it",
-      "link": "https://colts.com/news/alec-pierce-deep-threat-wide-receiver-route-tree-growth-reggie-wayne-shane-steichen-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-20T20:57:51+0000",
-      "summary": "Alec Pierce is currently on pace for over 1,000 receiving yards this season, but he only has two receptions for longer than 45 yards."
-    },
-    {
-      "id": "cf993b12286aff9b",
-      "title": "Colts Blue Zone Podcast 442: Colts-Chiefs Preview",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-442-colts-chiefs-preview/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-20T20:37:13+0000",
-      "summary": "The Colts (8-2) head to Arrowhead Stadium to take on the Kansas City Chiefs (5-5) in a key game for both teams. What do we expect with Indy coming off the bye week? Dave Griffiths, Mike Chappell and Matt Adams preview the Colts-Chiefs game, explore the impact of Tyler Warren and look at some key [...]"
     }
   ],
   "links": [
