@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-28T04:22:46+00:00",
+  "updated": "2025-11-28T04:45:04+00:00",
   "items": [
+    {
+      "id": "ea6483620f6e486c",
+      "title": "Why Todd McShay's NFL comparison for Michigan's Bryce Underwood is far-fetched",
+      "link": "https://sports.yahoo.com/articles/why-todd-mcshays-nfl-comparison-042201957.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-28T04:22:01+0000",
+      "summary": "The Wolverines QB got a good compliment."
+    },
     {
       "id": "a2bc10b3802de029",
       "title": "Colts' Jones has lingering injury; insists he'll play",
@@ -9,33 +18,6 @@
       "feed": "ESPN",
       "published": "2025-11-28T04:11:38+0000",
       "summary": "Colts QB Daniel Jones is battling a fibula injury but says he will be ready for Sunday's game vs. the Texans."
-    },
-    {
-      "id": "da30cac7a3f48767",
-      "title": "Ravens defensive back Nate Wiggins injured vs Bengals in NFL Week 13",
-      "link": "https://sports.yahoo.com/articles/ravens-defensive-back-nate-wiggins-032342194.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-28T03:23:42+0000",
-      "summary": "The Ravens declared defensive back Nate Wiggins out shortly after Wiggins limped off the field at the end of a play in the third quarter."
-    },
-    {
-      "id": "169199566e8bae17",
-      "title": "Ravens defensive back Nate Wiggins injured vs Bengals in NFL Week 13",
-      "link": "https://sports.yahoo.com/articles/ravens-defensive-back-nate-wiggins-032342703.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-28T03:23:42+0000",
-      "summary": "The Ravens declared defensive back Nate Wiggins out shortly after Wiggins limped off the field at the end of a play in the third quarter."
-    },
-    {
-      "id": "7030c2c4c8bc31a3",
-      "title": "Eric Weddle dismisses rumors of leaving Rancho Bernardo (Calif.)",
-      "link": "https://sports.yahoo.com/articles/eric-weddle-dismisses-rumors-leaving-031508754.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-28T03:15:08+0000",
-      "summary": "Rancho Bernardo head coach Eric Weddle on Thursday addressed rumors of himself leaving the Broncos for another California high school football coaching job. As far as Weddle is concerned, he’s not going anywhere, anytime soon, according to a post he’s made on X, formerly known as Twitter. The former longtime NFL defensive back and Super Bowl champion, who […]"
     },
     {
       "id": "a3fc899afd62cf86",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-20T21:04:30+0000",
       "summary": "In preparing to enter a hostile environment in GEHA Field at Arrowhead Stadium, Jonathan Taylor and the rest of the Colts offense know communication must be at a premium."
+    },
+    {
+      "id": "e709cb9ac5b91bb4",
+      "title": "Alec Pierce is no longer just a deep threat. He's become an all-around receiver, and the Colts are making the most of it",
+      "link": "https://colts.com/news/alec-pierce-deep-threat-wide-receiver-route-tree-growth-reggie-wayne-shane-steichen-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-20T20:57:51+0000",
+      "summary": "Alec Pierce is currently on pace for over 1,000 receiving yards this season, but he only has two receptions for longer than 45 yards."
+    },
+    {
+      "id": "cf993b12286aff9b",
+      "title": "Colts Blue Zone Podcast 442: Colts-Chiefs Preview",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-442-colts-chiefs-preview/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-20T20:37:13+0000",
+      "summary": "The Colts (8-2) head to Arrowhead Stadium to take on the Kansas City Chiefs (5-5) in a key game for both teams. What do we expect with Indy coming off the bye week? Dave Griffiths, Mike Chappell and Matt Adams preview the Colts-Chiefs game, explore the impact of Tyler Warren and look at some key [...]"
     }
   ],
   "links": [
