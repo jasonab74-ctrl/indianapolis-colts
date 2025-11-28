@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-28T22:17:23+00:00",
+  "updated": "2025-11-28T22:40:11+00:00",
   "items": [
+    {
+      "id": "29f9ae7e8e00b3f0",
+      "title": "Everything Texans' DeMeco Ryans said ahead of Week 13 battle vs. Colts",
+      "link": "https://sports.yahoo.com/articles/everything-texans-demeco-ryans-said-222210747.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-28T22:22:10+0000",
+      "summary": "Here's everything Texans head coach DeMeco Ryans said ahead of Sunday's trip to Indianapolis to take on the Colts, including an update on C.J. Stroud."
+    },
     {
       "id": "5a4b1bc0c73a6f45",
       "title": "Texans QB Stroud (concussion) OK to face Colts",
@@ -9,24 +18,6 @@
       "feed": "ESPN",
       "published": "2025-11-28T22:12:59+0000",
       "summary": "Texans quarterback C.J. Stroud will start Sunday against the Colts after missing the past three games with a concussion."
-    },
-    {
-      "id": "f19987db81246541",
-      "title": "2026 NFL draft race to the top: Browns motivated or race to the bottom?",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-race-top-220038419.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-28T22:00:38+0000",
-      "summary": "The Cleveland Browns race to the bottom of the NFL, top of the 2026 NFL draft is on. A look at the competition for the top pick"
-    },
-    {
-      "id": "5956aacd44dc739c",
-      "title": "C.J. Stroud cleared to return Sunday vs. Colts",
-      "link": "https://sports.yahoo.com/articles/c-j-stroud-cleared-return-214800172.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-28T21:48:00+0000",
-      "summary": "The Texans quarterback has missed the past three games while in concussion protocol."
     },
     {
       "id": "5c1cb6da1d202dbf",
@@ -45,15 +36,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-28T20:02:58+0000",
       "summary": "INDIANAPOLIS – Daniel Jones and C.J. Stroud will share the spotlight in Sunday’s AFC South showdown at Lucas Oil Stadium. Jones, who is reportedly dealing with a fractured fibula, was a full participant in Friday’s practice and will lead the division-leading Indianapolis Colts against Houston. “He’s ready to go,’’ Shane Steichen said. “He’s like, ‘I’m [...]"
-    },
-    {
-      "id": "eb6c1d7a4f05ade7",
-      "title": "Colts QB Daniel Jones is facing skepticism once again, and at a bad time",
-      "link": "https://espn.com/nfl/story/_/id/47100388/indianapolis-colts-quarterback-daniel-jones-needs-regain-form-vs-houston-texans",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-28T19:57:59+0000",
-      "summary": "Indianapolis and its quarterback have lost two of its past three games and the schedule is getting tougher."
     },
     {
       "id": "ebfa76c92ced2b62",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-21T18:32:48+0000",
       "summary": "Colts cornerback Charvarius Ward Sr. cleared concussion protocol, meaning he's set to play opposite Sauce Gardner against the Kansas City Chiefs in Week 12."
+    },
+    {
+      "id": "9932d453f7f44dee",
+      "title": "Daniel Jones 'ready to go' for Week 12's game vs. Kansas City Chiefs",
+      "link": "https://colts.com/news/daniel-jones-ready-to-go-for-week-12-s-game-vs-kansas-city-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-21T18:01:21+0000",
+      "summary": "Jones popped up on the Colts' practice report as a limited participant in Thursday's practice, but he was a full participant Friday and will play Sunday against the Chiefs."
+    },
+    {
+      "id": "11fa0fffc47c58b6",
+      "title": "Colts do not rule out any players for Week 12 game vs. Kansas City Chiefs; CB Charvarius Ward Sr. clears concussion protocol",
+      "link": "https://colts.com/news/colts-do-not-rule-out-any-players-for-week-12-game-vs-kansas-city-chiefs-cb-charvarius-ward-sr-clears-concussion-protocol",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-21T17:56:39+0000",
+      "summary": "The Colts opened Ward's 21-day window to be activated from injured reserve on Wednesday, and Ward participated in all three practices this week."
     }
   ],
   "links": [
