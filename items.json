@@ -1,32 +1,50 @@
 {
-  "updated": "2025-11-28T16:23:38+00:00",
+  "updated": "2025-11-28T16:46:06+00:00",
   "items": [
     {
-      "id": "439c2d13b77f10cc",
-      "title": "2 storylines to watch in Bears-Eagles NFL Black Friday clash",
-      "link": "https://sports.yahoo.com/articles/2-storylines-watch-bears-eagles-160318541.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-28T16:03:18+0000",
-      "summary": "Here are a couple of storylines to keep in the back of your mind as you watch the NFL's Black Friday showdown between the Bears and the Eagles."
+      "id": "111fb153d9b90358",
+      "title": "Questions, takeaways from Thanksgiving matchups: Our reporters break down every game",
+      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-28T16:40:07+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
     },
     {
-      "id": "405baf296b2efdc6",
-      "title": "NFL picks: Week 13 big underdog predictions",
-      "link": "https://sports.yahoo.com/articles/nfl-picks-week-13-big-160246147.html",
+      "id": "5834f7cff1072590",
+      "title": "NFL Week 13 Bet of the Week",
+      "link": "https://sports.yahoo.com/articles/nfl-week-13-bet-week-163409401.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-28T16:02:46+0000",
-      "summary": "Jess Root and Howard Balzer try and predict which big underdog will surprise in Week 13."
+      "published": "2025-11-28T16:34:09+0000",
+      "summary": "FTN’s NFL Week 13 Bet of the Week is powered by our advanced model that simulates every game 10,000 times. Find this week’s top edge, complete with true odds and expert analysis. FTN’s NFL Bet of the Week: Saints +5.5&hellip;"
     },
     {
-      "id": "3ee9c5671ee783ec",
-      "title": "NFL Black Friday 2025: Bears vs. Eagles odds, predictions",
-      "link": "https://sports.yahoo.com/articles/nfl-black-friday-2025-bears-160000909.html",
+      "id": "5ea2141b4c69d2ed",
+      "title": "Where does Texans' C.J. Stroud rank among QBs in QBR entering Week 13?",
+      "link": "https://sports.yahoo.com/articles/where-does-texans-c-j-163317091.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-28T16:00:00+0000",
-      "summary": "Week 13 is on to day two of four days of NFL football with today’s Black Friday game featuring the Chicago Bears and Philadelphia Eagles. We have our picks for the game."
+      "published": "2025-11-28T16:33:17+0000",
+      "summary": "Where does C.J. Stroud stack up among quarterback QBRs entering Week 13's AFC South showdown between the Texans and Colts?"
+    },
+    {
+      "id": "9f9397a82a576bfe",
+      "title": "College football Friday: Rivalry Week 2025 draft prospects for the NY Giants",
+      "link": "https://sports.yahoo.com/articles/college-football-friday-rivalry-week-163000097.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-28T16:30:00+0000",
+      "summary": "Which 2026 NFL Draft prospects should NY Giants fans watch on the first day of Rivalry Weekend?"
+    },
+    {
+      "id": "ec5b2bdaeee3aeb5",
+      "title": "Puka Nacua names his top 3 WRs in the NFL this season",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-names-top-3-162014292.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-28T16:20:14+0000",
+      "summary": "Puka Nacua named the top three receivers in the NFL this year, led by a division rival who's broken out in a big way."
     },
     {
       "id": "f1891a72526b2bb8",
@@ -72,15 +90,6 @@
       "feed": "ESPN",
       "published": "2025-11-28T13:42:14+0000",
       "summary": "Our experts dive in to the lines and player props that offer value for Week 13 and share their tips and bets."
-    },
-    {
-      "id": "111fb153d9b90358",
-      "title": "Questions, takeaways from Thanksgiving matchups: Our reporters break down every game",
-      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-28T04:59:21+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
     },
     {
       "id": "f456d99461624fd6",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-21T14:21:00+0000",
       "summary": "When the Indianapolis Colts take the field on Nov. 30 against the Houston Texans, their shoes will stand out. Players will sport unique footwear as part of the NFL's My Cause My Cleats program. Expect unusual color combinations and charities close to players' hearts. The Colts' Larra Overton joined FOX59 News to talk about the [...]"
-    },
-    {
-      "id": "a1b2b1e7b026231e",
-      "title": "Despite expanding game, the superpower of Colts’ Alec Pierce is getting deep",
-      "link": "https://fox59.com/sports/colts/despite-expanding-game-the-superpower-of-colts-alec-pierce-is-getting-deep/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T00:48:48+0000",
-      "summary": "INDIANAPOLIS – Listen to those around him, and Alec Pierce has spent the last four seasons expanding his game. The renowned home run hitter was committed to adding layers to his game. Pierce wanted to be an intermediate threat, which meant mastering the entire route tree: curls, slants, outs, the works. With one overriding caveat: [...]"
     }
   ],
   "links": [
