@@ -1,14 +1,32 @@
 {
-  "updated": "2025-11-29T21:16:13+00:00",
+  "updated": "2025-11-29T21:37:39+00:00",
   "items": [
+    {
+      "id": "0700abed2e13644e",
+      "title": "NFL fines Jauan Jennings $12,172 for striking Tre'von Moehrig",
+      "link": "https://sports.yahoo.com/articles/nfl-fines-jauan-jennings-12-211540785.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-29T21:15:40+0000",
+      "summary": "In the end, Moehrig was suspended and Jennings was fined."
+    },
     {
       "id": "b710fcd6749a2ea3",
       "title": "Smyth elevated to Saints' active roster before NFL debut",
       "link": "https://sports.yahoo.com/articles/smyth-elevated-saints-active-roster-205622753.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-29T21:08:11+0000",
-      "summary": "Charlie Smyth is set to start his first regular season game for the New Orleans Saints against Miami Dolphins on Saturday after he was elevated to their active roster on Saturday."
+      "published": "2025-11-29T21:15:06+0000",
+      "summary": "Former Gaelic footballer Charlie Smyth is set to start his first regular season game for the New Orleans Saints against Miami Dolphins on Sunday after he was elevated to their active roster on Saturday."
+    },
+    {
+      "id": "0c25c57b045ec766",
+      "title": "Texans at Colts: How to watch, TV schedule, and more",
+      "link": "https://sports.yahoo.com/articles/texans-colts-watch-tv-schedule-211240063.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-29T21:12:40+0000",
+      "summary": "Wanna watch a Texans game? We can help you with that."
     },
     {
       "id": "65e29a2e01aa03e7",
@@ -27,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-11-29T21:04:37+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
-    },
-    {
-      "id": "9e232640a4a59a93",
-      "title": "Saints activate Northern Ireland native Charlie Smyth as their new kicker vs. Miami",
-      "link": "https://sports.yahoo.com/articles/saints-activate-northern-ireland-native-205621654.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-29T20:56:21+0000",
-      "summary": "The New Orleans Saints have decided to let Charlie Smyth, a former Gaelic football player from Northern Ireland, take over place kicking and kickoff duties on Sunday in Miami, when he will make his NFL regular-season debut.  Smyth, who came to the Saints in 2024 as part of the NFL’s International Pathways Program, replaces Blake Grupe, who was cut on Tuesday after his two missed field goal attempts last Sunday raised his total of misses to eight.  Smyth kicked in the preseason, hitting all four attempts, including two from 50-plus yards."
     },
     {
       "id": "ce17a6fdc71a4862",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-21T22:46:32+0000",
       "summary": "INDIANAPOLIS – Charvarius Ward didn’t need to see the video detailing events that left him with a concussion and lingering, serious symptoms that had him questioning whether he would ever play again. “I experienced it,’’ the Indianapolis Colts’ veteran cornerback said Friday. Ward called his collision with teammate Drew Ogletree freaky while each was going [...]"
-    },
-    {
-      "id": "bd3d843c55a6b0bb",
-      "title": "Colts CB Charvarius Ward Sr. on return from concussion: 'I feel like me again'",
-      "link": "https://colts.com/news/colts-cb-charvarius-ward-sr-on-return-from-concussion-i-feel-like-me-again",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-21T20:11:07+0000",
-      "summary": "Charvarius Ward Sr. cleared concussion protocol this week and is line to return against the Kansas City Chiefs in his first game since sustaining a concussion he described as \"scary\" prior to the Colts' Week 6 win over the Arizona Cardinals."
     }
   ],
   "links": [
