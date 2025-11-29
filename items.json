@@ -1,14 +1,41 @@
 {
-  "updated": "2025-11-29T20:40:49+00:00",
+  "updated": "2025-11-29T21:16:13+00:00",
   "items": [
+    {
+      "id": "b710fcd6749a2ea3",
+      "title": "Smyth elevated to Saints' active roster before NFL debut",
+      "link": "https://sports.yahoo.com/articles/smyth-elevated-saints-active-roster-205622753.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-29T21:08:11+0000",
+      "summary": "Charlie Smyth is set to start his first regular season game for the New Orleans Saints against Miami Dolphins on Saturday after he was elevated to their active roster on Saturday."
+    },
     {
       "id": "65e29a2e01aa03e7",
       "title": "Final prep for NFL Week 13: We have sleepers, QB questions, trends to watch and more",
       "link": "https://espn.com/nfl/story/_/id/47107345/2025-nfl-week-13-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-11-29T19:03:55+0000",
+      "published": "2025-11-29T21:05:29+0000",
       "summary": "Should we be concerned about Brock Purdy? Could the Titans and Browns pull off upsets? And is Trevor Lawrence startable in fantasy in Week 13?"
+    },
+    {
+      "id": "111fb153d9b90358",
+      "title": "Questions, takeaways from Thanksgiving matchups: Our reporters break down every game",
+      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-29T21:04:37+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
+    },
+    {
+      "id": "9e232640a4a59a93",
+      "title": "Saints activate Northern Ireland native Charlie Smyth as their new kicker vs. Miami",
+      "link": "https://sports.yahoo.com/articles/saints-activate-northern-ireland-native-205621654.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-29T20:56:21+0000",
+      "summary": "The New Orleans Saints have decided to let Charlie Smyth, a former Gaelic football player from Northern Ireland, take over place kicking and kickoff duties on Sunday in Miami, when he will make his NFL regular-season debut.  Smyth, who came to the Saints in 2024 as part of the NFL’s International Pathways Program, replaces Blake Grupe, who was cut on Tuesday after his two missed field goal attempts last Sunday raised his total of misses to eight.  Smyth kicked in the preseason, hitting all four attempts, including two from 50-plus yards."
     },
     {
       "id": "ce17a6fdc71a4862",
@@ -45,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-11-29T12:15:03+0000",
       "summary": "Houston has won three straight without their starting QB, who returns ahead of a huge matchup against the Colts."
-    },
-    {
-      "id": "111fb153d9b90358",
-      "title": "Questions, takeaways from Thanksgiving matchups: Our reporters break down every game",
-      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-28T23:42:14+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
     },
     {
       "id": "5c1cb6da1d202dbf",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-21T20:11:07+0000",
       "summary": "Charvarius Ward Sr. cleared concussion protocol this week and is line to return against the Kansas City Chiefs in his first game since sustaining a concussion he described as \"scary\" prior to the Colts' Week 6 win over the Arizona Cardinals."
-    },
-    {
-      "id": "d5d6fbe161dd6989",
-      "title": "Daniel Jones, Charvarius Ward full go for Colts’ trip to Kansas City",
-      "link": "https://fox59.com/sports/colts/daniel-jones-charvarius-ward-full-go-for-colts-trip-to-kansas-city/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T19:53:06+0000",
-      "summary": "INDIANAPOLIS – The quarterback and cornerback are good to go. As the Indianapolis Colts eye Sunday’s showdown with the Kansas City Chiefs in Arrowhead Stadium, they’ll have the services of Daniel Jones and Charvarius Ward. Jones was a full participant Friday’s practice after being limited Thursday when he experienced discomfort with his fibula. The Colts [...]"
-    },
-    {
-      "id": "43e5af0c88f0836b",
-      "title": "Colts-Chiefs preview: With Charvarius Ward Sr. back and Sauce Gardner settled in, Colts' secondary prepared for challenge of Patrick Mahomes, Andy Reid in Week 12",
-      "link": "https://colts.com/news/colts-chiefs-preview-with-charvarius-ward-sr-back-and-sauce-gardner-settled-in-colts-secondary-prepared-for-challenge-of-patrick-mahomes-andy-reid-in-week-12",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-21T18:32:48+0000",
-      "summary": "Colts cornerback Charvarius Ward Sr. cleared concussion protocol, meaning he's set to play opposite Sauce Gardner against the Kansas City Chiefs in Week 12."
     }
   ],
   "links": [
