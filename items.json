@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-29T07:37:44+00:00",
+  "updated": "2025-11-29T08:23:49+00:00",
   "items": [
     {
       "id": "111fb153d9b90358",
@@ -9,15 +9,6 @@
       "feed": "ESPN",
       "published": "2025-11-28T23:42:14+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
-    },
-    {
-      "id": "5c1cb6da1d202dbf",
-      "title": "The Colts season in a vacuum from the negative side",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118435/the-colts-season-in-a-vacuum-from-the-negative-side",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-28T20:22:30+0000",
-      "summary": "Stampede Blue’s own, Clydesdales, presented the Indianapolis Colts season in a vacuum from the positive side. That may be all well and good, but let’s take a look from the inverse. As he put it, we are entering the “when it matters phase” and the luster has certainly worn off the feel good story that [&#8230;]"
     },
     {
       "id": "7d6a851f4eb67e17",
@@ -65,15 +56,6 @@
       "summary": "Daniel Jones (fibula) was a full participant in practice on Friday."
     },
     {
-      "id": "df49e6f43842e9f6",
-      "title": "Why has Josh Downs been featured less in the Colts offense?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118385/why-has-colts-wr-josh-downs-been-less-of-a-focal-point-in-the-offense",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-28T17:00:00+0000",
-      "summary": "Indianapolis, IN — Indianapolis Colts wide receiver Josh Downs has been a fan favorite since being drafted in the third round of the 2023 NFL Draft. Wildly considered a ‘steal’ of a draft selection, Downs’ draft day reaction was captured and subsequently viewed as fuel for the young wideout. His grateful yet determined demeanor suggested [&#8230;]"
-    },
-    {
       "id": "f1891a72526b2bb8",
       "title": "The Colts Show Mailbag: Late-game play-calling, offensive efficiency & more heading into Week 13",
       "link": "https://colts.com/news/the-colts-show-mailbag-late-game-play-calling-offensive-efficiency-more-heading-into-week-13",
@@ -81,15 +63,6 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "22dff5d5e9fee289",
-      "title": "The Colts season in a vacuum from the positive side.",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118357/the-colts-season-in-a-vacuum-from-the-positive-side",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-28T15:20:26+0000",
-      "summary": "If we take momentum and emotion out of the equation that has been the Colts season to this point, I think we might actually be able to feel good heading into Thanksgiving weekend and the unofficial “When it matters” season. Some of the shine of a 7 &#8211; 1 start has worn off and we [&#8230;]"
     },
     {
       "id": "d20a24d8d36aeeb6",
@@ -254,6 +227,15 @@
       "summary": "Close to 70 Indianapolis Colts players – as well as the Irsay family, General Manager Chris Ballard and Head Coach Shane Steichen and others – will wear customized cleats and shoes that highlight charitable organizations in Indiana and beyond during this season’s My Cause My Cleats game this Sunday vs. the Houston Texans."
     },
     {
+      "id": "108d07b6fae94c68",
+      "title": "Believe it or not, Colts fans have a lot to be thankful for",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118354/believe-it-or-not-colts-fans-have-a-lot-to-be-thankful-for",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-26T13:12:00+0000",
+      "summary": "Writing this on the heels of a disappointing loss makes the sentiment that fans of the Indianapolis Colts have plenty to be thankful for this year a more challenging prospect, but that doesn’t change the facts. While the footing may have become uneven, the Colts are still leading the AFC South and are in the [&#8230;]"
+    },
+    {
       "id": "59bd1f560a2dce6f",
       "title": "GAMEDAY ALERT: Road closures and delays expected for Colts fans",
       "link": "https://colts.com/news/indianapolis-construction-road-closures-green-bay-packers-gameday-traffic-2025",
@@ -261,6 +243,24 @@
       "feed": "Colts.com",
       "published": "2025-11-26T13:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
+    },
+    {
+      "id": "f96ba4252035a2ef",
+      "title": "Five former Colts named Semifinalists for Pro Football HoF Class of 2026",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/118348/five-former-colts-named-semifinalists-for-pro-football-hof-class-of-2026",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-26T05:11:10+0000",
+      "summary": "The Indianapolis Colts have five former players named among the 26 modern-era semfinalists for the Pro Football Hall of Fame’s Class of 2026: running back Frank Gore, defensive end/outside linebacker Robert Mathis, quarterback Philip Rivers, placekicker Adam Vinatieri, and wide receiver Reggie Wayne. Both Gore (2015-17) and Rivers (2020) had short stints in Indianapolis, and [&#8230;]"
+    },
+    {
+      "id": "67e5ec065b004c8a",
+      "title": "Colts make roster moves with WR Ashton Dulin missing multiple weeks with injury",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/118343/colts-make-roster-moves-with-wr-ashton-dulins-injury",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-26T04:36:08+0000",
+      "summary": "The Indianapolis Colts announced on Tuesday that wide receiver Ashton Dulin (hamstring) has been placed on injured reserve, and the team signed veteran safety George Odum to the 53-man active roster from the practice squad in a corresponding roster move. The Colts also re-signed released cornerback Cameron Mitchell back to the team’s practice squad. Dulin [&#8230;]"
     },
     {
       "id": "cf8ae5e26ac36fb2",
