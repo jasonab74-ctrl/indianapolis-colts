@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-29T13:25:27+00:00",
+  "updated": "2025-11-29T13:42:05+00:00",
   "items": [
     {
       "id": "bd9a7cd85fd41f9c",
@@ -18,15 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-29T13:15:00+0000",
       "summary": "This is about as close to a “must-win” as the Buffalo Bills have faced in the 2025 NFL regular season."
-    },
-    {
-      "id": "e019aa5db60dabe5",
-      "title": "NFL analyst has Jaguars on upset alert vs. Titans in Week 13",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-jaguars-upset-alert-130343119.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-29T13:03:43+0000",
-      "summary": "One NFL analyst has the Jacksonville Jaguars on upset alert against the Titans in Week 13."
     },
     {
       "id": "4782dab8bd65f9e0",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-21T18:32:48+0000",
       "summary": "Colts cornerback Charvarius Ward Sr. cleared concussion protocol, meaning he's set to play opposite Sauce Gardner against the Kansas City Chiefs in Week 12."
+    },
+    {
+      "id": "9932d453f7f44dee",
+      "title": "Daniel Jones 'ready to go' for Week 12's game vs. Kansas City Chiefs",
+      "link": "https://colts.com/news/daniel-jones-ready-to-go-for-week-12-s-game-vs-kansas-city-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-21T18:01:21+0000",
+      "summary": "Jones popped up on the Colts' practice report as a limited participant in Thursday's practice, but he was a full participant Friday and will play Sunday against the Chiefs."
     }
   ],
   "links": [
