@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-29T05:41:34+00:00",
+  "updated": "2025-11-29T06:27:13+00:00",
   "items": [
+    {
+      "id": "b92a9871df6ea262",
+      "title": "Bryce Underwood would be wrong to rush Michigan career in comparison to 213-TD QB",
+      "link": "https://sports.yahoo.com/articles/bryce-underwood-wrong-rush-michigan-055720245.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-29T05:57:20+0000",
+      "summary": "Michigan quarterback Bryce Underwood is off to a good start in Ann Arbor. Although going into the NFL was a good goal, he shouldn't force it too early."
+    },
     {
       "id": "111fb153d9b90358",
       "title": "Questions, takeaways from Thanksgiving matchups: Our reporters break down every game",
@@ -9,15 +18,6 @@
       "feed": "ESPN",
       "published": "2025-11-28T23:42:14+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
-    },
-    {
-      "id": "5c1cb6da1d202dbf",
-      "title": "The Colts season in a vacuum from the negative side",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118435/the-colts-season-in-a-vacuum-from-the-negative-side",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-28T20:22:30+0000",
-      "summary": "Stampede Blue’s own, Clydesdales, presented the Indianapolis Colts season in a vacuum from the positive side. That may be all well and good, but let’s take a look from the inverse. As he put it, we are entering the “when it matters phase” and the luster has certainly worn off the feel good story that [&#8230;]"
     },
     {
       "id": "7d6a851f4eb67e17",
@@ -252,6 +252,15 @@
       "feed": "Colts.com",
       "published": "2025-11-26T14:00:41+0000",
       "summary": "Close to 70 Indianapolis Colts players – as well as the Irsay family, General Manager Chris Ballard and Head Coach Shane Steichen and others – will wear customized cleats and shoes that highlight charitable organizations in Indiana and beyond during this season’s My Cause My Cleats game this Sunday vs. the Houston Texans."
+    },
+    {
+      "id": "108d07b6fae94c68",
+      "title": "Believe it or not, Colts fans have a lot to be thankful for",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118354/believe-it-or-not-colts-fans-have-a-lot-to-be-thankful-for",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-26T13:12:00+0000",
+      "summary": "Writing this on the heels of a disappointing loss makes the sentiment that fans of the Indianapolis Colts have plenty to be thankful for this year a more challenging prospect, but that doesn’t change the facts. While the footing may have become uneven, the Colts are still leading the AFC South and are in the [&#8230;]"
     },
     {
       "id": "59bd1f560a2dce6f",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-21T14:21:00+0000",
       "summary": "When the Indianapolis Colts take the field on Nov. 30 against the Houston Texans, their shoes will stand out. Players will sport unique footwear as part of the NFL's My Cause My Cleats program. Expect unusual color combinations and charities close to players' hearts. The Colts' Larra Overton joined FOX59 News to talk about the [...]"
-    },
-    {
-      "id": "a1b2b1e7b026231e",
-      "title": "Despite expanding game, the superpower of Colts’ Alec Pierce is getting deep",
-      "link": "https://fox59.com/sports/colts/despite-expanding-game-the-superpower-of-colts-alec-pierce-is-getting-deep/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T00:48:48+0000",
-      "summary": "INDIANAPOLIS – Listen to those around him, and Alec Pierce has spent the last four seasons expanding his game. The renowned home run hitter was committed to adding layers to his game. Pierce wanted to be an intermediate threat, which meant mastering the entire route tree: curls, slants, outs, the works. With one overriding caveat: [...]"
     }
   ],
   "links": [
