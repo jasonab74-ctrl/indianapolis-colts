@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-30T11:14:36+00:00",
+  "updated": "2025-11-30T11:36:52+00:00",
   "items": [
     {
       "id": "cf8ae5e26ac36fb2",
@@ -11,6 +11,24 @@
       "summary": "TV broadcast, radio and streaming information for Houston Texans at Indianapolis Colts on Sunday, November 30 at 1:00 p.m. ET (Week 13)."
     },
     {
+      "id": "47c6c9926f5d6ec5",
+      "title": "Sunday Dawg Chow (11/30): Juice and vibes in Cleveland!",
+      "link": "https://sports.yahoo.com/articles/sunday-dawg-chow-11-30-113000234.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T11:30:00+0000",
+      "summary": "﻿﻿The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow."
+    },
+    {
+      "id": "b2212b162e5cfa36",
+      "title": "Steelers scout pair of sliding QB prospects in 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/steelers-scout-pair-sliding-qb-111528652.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T11:15:28+0000",
+      "summary": "The Steelers showed up at Clemson vs South Carolina to check out their quarterbacks as potential prospects for the 2026 NFL draft."
+    },
+    {
       "id": "018963b8715c83c3",
       "title": "Zack Martin thought he'd end up with New York Giants in 2014",
       "link": "https://sports.yahoo.com/articles/zack-martin-thought-hed-end-110342335.html",
@@ -18,6 +36,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-11-30T11:03:42+0000",
       "summary": "Zack Martin was close friends with New York Giants personnel and believed they would select him in the 2024 NFL draft, but then came Odell Beckham Jr."
+    },
+    {
+      "id": "d9ec3fd58c0a8772",
+      "title": "Former NFL QB Disses People Who Don't Believe in Packers' Jordan Love",
+      "link": "https://sports.yahoo.com/articles/former-nfl-qb-disses-people-110003315.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T11:00:03+0000",
+      "summary": "ESPN's Dan Orlovsky unleashes a fiery critique, calling out doubters of Jordan Love's elite NFL QB status after a four-touchdown performance in the Green Bay Packers' win over the Detroit Lions on Thanksgiving."
     },
     {
       "id": "cd73f3bf7140f2b4",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-22T16:38:59+0000",
       "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "f62af989c42f4b5d",
-      "title": "Charvarius Ward thought career might be over after concussion, but now ‘I feel like me again. I feel like Mooney’",
-      "link": "https://fox59.com/sports/colts/charvarius-ward-thought-career-might-be-over-after-concussion-but-now-i-feel-like-me-again-i-feel-like-mooney/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T22:46:32+0000",
-      "summary": "INDIANAPOLIS – Charvarius Ward didn’t need to see the video detailing events that left him with a concussion and lingering, serious symptoms that had him questioning whether he would ever play again. “I experienced it,’’ the Indianapolis Colts’ veteran cornerback said Friday. Ward called his collision with teammate Drew Ogletree freaky while each was going [...]"
-    },
-    {
-      "id": "bd3d843c55a6b0bb",
-      "title": "Colts CB Charvarius Ward Sr. on return from concussion: 'I feel like me again'",
-      "link": "https://colts.com/news/colts-cb-charvarius-ward-sr-on-return-from-concussion-i-feel-like-me-again",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-21T20:11:07+0000",
-      "summary": "Charvarius Ward Sr. cleared concussion protocol this week and is line to return against the Kansas City Chiefs in his first game since sustaining a concussion he described as \"scary\" prior to the Colts' Week 6 win over the Arizona Cardinals."
-    },
-    {
-      "id": "d5d6fbe161dd6989",
-      "title": "Daniel Jones, Charvarius Ward full go for Colts’ trip to Kansas City",
-      "link": "https://fox59.com/sports/colts/daniel-jones-charvarius-ward-full-go-for-colts-trip-to-kansas-city/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-21T19:53:06+0000",
-      "summary": "INDIANAPOLIS – The quarterback and cornerback are good to go. As the Indianapolis Colts eye Sunday’s showdown with the Kansas City Chiefs in Arrowhead Stadium, they’ll have the services of Daniel Jones and Charvarius Ward. Jones was a full participant Friday’s practice after being limited Thursday when he experienced discomfort with his fibula. The Colts [...]"
     }
   ],
   "links": [
