@@ -1,32 +1,86 @@
 {
-  "updated": "2025-11-30T21:16:31+00:00",
+  "updated": "2025-11-30T21:37:48+00:00",
   "items": [
     {
-      "id": "c6c0a0ef6b93926d",
-      "title": "Texans win their fourth in a row, beat Colts 20-16",
-      "link": "https://sports.yahoo.com/articles/texans-win-fourth-row-beat-210745591.html",
+      "id": "db4d1c813f259003",
+      "title": "Colts AFC South lead now gone following latest loss to Texans",
+      "link": "https://sports.yahoo.com/articles/colts-afc-south-lead-now-213101612.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:07:45+0000",
-      "summary": "The Texans won their fourth game in a row and fifth in six games, pulling closer in the AFC South standings."
+      "published": "2025-11-30T21:31:01+0000",
+      "summary": "The Colts' lead in the AFC South division race is now gone following their latest loss."
+    },
+    {
+      "id": "8577aab5567bcf76",
+      "title": "AFC Playoff Picture: Indianapolis Colts fall behind the Jacksonville Jaguars in AFC South",
+      "link": "https://sports.yahoo.com/articles/afc-playoff-picture-indianapolis-colts-212921631.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T21:29:21+0000",
+      "summary": "The Indianapolis Colts, once way out in front in the AFC South, are now in second place."
+    },
+    {
+      "id": "00aa63498ee80c98",
+      "title": "Panthers take advantage of Stafford's 3 turnovers to end Rams' 6-game win streak with 31-28 victory",
+      "link": "https://sports.yahoo.com/articles/panthers-advantage-staffords-3-turnovers-212544575.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T21:25:44+0000",
+      "summary": "Bryce Young completed 15 of 20 passes for 206 yards and three touchdowns — two of them coming on fourth down — and the Carolina Panthers forced three turnovers by Matthew Stafford to beat Los Angeles 31-28 on Sunday and snap the Rams' six-game winning streak.  The Panthers intercepted Stafford twice with Mike Jackson returning one for a 48-yard touchdown and ended the 37-year-old’s NFL record of 28 straight TD passes without an interception.  Derrick Brown, who tipped a ball resulting in one of Stafford’s first pick, came up with a key strip-sack with 2:25 left in the game to preserve the win."
     },
     {
       "id": "d2149e9f46473790",
-      "title": "NFL playoff picture: What Texans’ win over Colts means",
+      "title": "NFL playoff picture: What Texans win over Colts means in Week 13",
       "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-texans-win-210522113.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:05:22+0000",
+      "published": "2025-11-30T21:23:42+0000",
       "summary": "How did Texans-Colts impact the AFC playoff race?"
     },
     {
-      "id": "433149e2acefdf0e",
-      "title": "Where Colts, Jaguars, Texans sit in AFC South, playoff picture after Week 13",
-      "link": "https://sports.yahoo.com/articles/where-colts-jaguars-texans-sit-210518341.html",
+      "id": "645a807765959219",
+      "title": "Thoughts on Colts coming up short (again) vs Texans, falling out of 1st in AFC South",
+      "link": "https://sports.yahoo.com/articles/thoughts-colts-coming-short-again-212114963.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:05:18+0000",
-      "summary": "Where the Indianapolis Colts, Jacksonville Jaguars, and Houston Texans sit in the AFC South and playoff picture after Week 13."
+      "published": "2025-11-30T21:21:14+0000",
+      "summary": "The Colts for the third time in four games, fall behind the Jaguars in AFC South"
+    },
+    {
+      "id": "111fb153d9b90358",
+      "title": "Questions, takeaways from Week 13 matchups: Our reporters break down every game",
+      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-11-30T21:20:23+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
+    },
+    {
+      "id": "c8cc6d90c6cc0ab5",
+      "title": "Colts RB Jonathan Taylor stats, numbers today in Week 13 vs. Houston Texans",
+      "link": "https://sports.yahoo.com/articles/colts-rb-jonathan-taylor-stats-211753592.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T21:17:53+0000",
+      "summary": "Jonathan Taylor stats, rushing yards and touchdowns against the Houston Texans in NFL Week 13 action."
+    },
+    {
+      "id": "28265449aefa4995",
+      "title": "NFL Winners and Losers: After Rams loss, it's hard to find any reliable Super Bowl contenders",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-winners-and-losers-after-rams-loss-its-hard-to-find-any-reliable-super-bowl-contenders-211728814.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T21:17:28+0000",
+      "summary": "The Rams were the consensus pick as the NFL's top team. Maybe not anymore."
+    },
+    {
+      "id": "439c6543c45531c7",
+      "title": "Smyth kicks field goal on NFL debut for Saints",
+      "link": "https://sports.yahoo.com/articles/smyth-kicks-field-goal-nfl-211451502.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T21:14:51+0000",
+      "summary": "Charlie Smyth kicks a 56-yard field goal in his first regular season game for the New Orleans Saints as they fell to a defeat against the Miami Dolphins."
     },
     {
       "id": "1d6bdb4d337e5a35",
@@ -38,24 +92,6 @@
       "summary": "INDIANAPOLIS - The AFC South is officially a race after the Indianapolis Colts dropped their their third game in their last four as the Houston Texans won, 20-16 at Lucas Oil Stadium on Sunday. The Colts and Jaguars are now tied atop the division at 8-4 after Jacksonville blew out Tennessee on Sunday with the [...]"
     },
     {
-      "id": "de863d8a6d73cfe7",
-      "title": "Texans upend Colts 20-16, tightening AFC South race with controversial go-ahead drive",
-      "link": "https://sports.yahoo.com/nfl/article/texans-upend-colts-20-16-tightening-afc-south-race-with-controversial-go-ahead-drive-210238577.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:02:38+0000",
-      "summary": "Houston continues its surge up the standings as Indianapolis' struggles continue"
-    },
-    {
-      "id": "c8d364e0df86c92b",
-      "title": "NFL world reacts to Bears taking over as NFC's No. 1 seed",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-bears-taking-210200443.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:02:00+0000",
-      "summary": "The Chicago Bears are the No. 1 seed in the NFC after the Carolina Panthers defeated the Los Angeles Rams. Here's how the NFL world reacted."
-    },
-    {
       "id": "9ecdf465837937f0",
       "title": "Colts unable to mount comeback vs. Houston Texans, losing first home game of season",
       "link": "https://colts.com/news/colts-first-home-loss-houston-texans-alec-pierce-josh-downs-daniel-jones-cj-stroud-week-13",
@@ -63,42 +99,6 @@
       "feed": "Colts.com",
       "published": "2025-11-30T21:01:56+0000",
       "summary": "The Colts lost 20-16 at Lucas Oil Stadium on Sunday, falling to 8-4."
-    },
-    {
-      "id": "96696f71206a15ca",
-      "title": "Instant takeaways from Colts division loss to Texans in Week 13",
-      "link": "https://sports.yahoo.com/articles/instant-takeaways-colts-division-loss-210156641.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:01:56+0000",
-      "summary": "Here are the instant takeaways from the Colts' Week 13 loss to the Texans."
-    },
-    {
-      "id": "4ead4bdf357d4308",
-      "title": "NFL Week 13 Late Games: Live Discussion",
-      "link": "https://sports.yahoo.com/articles/nfl-week-13-games-live-210000111.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:00:00+0000",
-      "summary": "Week 13 continues with the afternoon games as we wait for the Denver Broncos tonight! With so few games, I often merge these discussion threads into the early game window, but two of three are games we should be paying attention to. Ideally, the Chargers choke and lose to the Raiders. I’m not counting on […]"
-    },
-    {
-      "id": "23d0fb992edb0362",
-      "title": "NFL playoff picture: Updated AFC, NFC standings for Week 13 of 2025 season",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-updated-afc-053002240.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:00:00+0000",
-      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 13, from top seeds to final wild cards in both conferences."
-    },
-    {
-      "id": "89e37932969c4bd5",
-      "title": "NFL Week 13 live chat: Late Afternoon and SNF schedule and odds",
-      "link": "https://sports.yahoo.com/articles/nfl-week-13-live-chat-210000298.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T21:00:00+0000",
-      "summary": "Join us live for the NFLs late afternoon, and Sunday Night Football slate of games."
     },
     {
       "id": "271eb8c0b0f94196",
@@ -110,6 +110,15 @@
       "summary": "Colts cornerback Sauce Gardner sustained a left calf injury early in Sunday's game against the Texans and has been ruled out for the remainder of the day."
     },
     {
+      "id": "4e2ae9d91f31a13c",
+      "title": "Colts CB Sauce Gardner ruled out for remainder of Texans game",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/118497/colts-cb-sauce-gardner-ruled-out-for-remainder-of-texans-game",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-30T19:05:44+0000",
+      "summary": "Indianapolis Colts starting cornerback Sauce Gardner has been ruled out for the remainder of Sunday’s home game against the Houston Texans after suffering a calf injury: Gardner suffered the non-contact injury early in the first quarter and was seen gingerly leaving the field with the help of the Colts training staff and was supported to [&#8230;]"
+    },
+    {
       "id": "d7db94ef3633d917",
       "title": "Sauce Gardner sustains calf injury in first quarter of Colts' Week 13 game vs. Texans, will not return",
       "link": "https://colts.com/news/sauce-gardner-sustains-calf-injury-in-first-quarter-of-colts-week-13-game-vs-texans-questionable-to-return",
@@ -117,15 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-11-30T18:14:17+0000",
       "summary": "Gardner exited the game in the first quarter."
-    },
-    {
-      "id": "65e29a2e01aa03e7",
-      "title": "Final prep for NFL Week 13: We have sleepers, QB questions, trends to watch and more",
-      "link": "https://espn.com/nfl/story/_/id/47107345/2025-nfl-week-13-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-30T17:58:24+0000",
-      "summary": "Should we be concerned about Brock Purdy? Could the Titans and Browns pull off upsets? And is Trevor Lawrence startable in fantasy in Week 13?"
     },
     {
       "id": "d0af5ff17f731315",
@@ -207,15 +207,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-30T16:16:07+0000",
       "summary": "INDIANAPOLIS — The roof is closed as the Colts prepare to defend home turf against the 6-5 Houston Texans.  The Indianapolis Colts enter the matchup with an 8-3 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts dropped a 20-23 contest against [...]"
-    },
-    {
-      "id": "111fb153d9b90358",
-      "title": "Questions, takeaways from Thanksgiving matchups: Our reporters break down every game",
-      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-11-30T15:28:52+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game, starting with Thanksgiving Day matchups."
     },
     {
       "id": "cf8ae5e26ac36fb2",
@@ -351,15 +342,6 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "22dff5d5e9fee289",
-      "title": "The Colts season in a vacuum from the positive side.",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118357/the-colts-season-in-a-vacuum-from-the-positive-side",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-28T15:20:26+0000",
-      "summary": "If we take momentum and emotion out of the equation that has been the Colts season to this point, I think we might actually be able to feel good heading into Thanksgiving weekend and the unofficial “When it matters” season. Some of the shine of a 7 &#8211; 1 start has worn off and we [&#8230;]"
     },
     {
       "id": "4eb73ecd0ae9c88e",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-24T19:17:52+0000",
       "summary": "Colts Ring of Honor wide receiver Bill Brooks offers his thoughts on the Colts’ loss to the Kansas City Chiefs and how the team should approach the final stretch of the regular season."
+    },
+    {
+      "id": "cb023fca9da79306",
+      "title": "Around the AFC South: Jaguars win in OT, Titans fall to Seahawks",
+      "link": "https://colts.com/news/afc-south-jaguars-trevor-lawrence-overtime-cardinals-titans-seahawks-cam-ward-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-24T14:46:58+0000",
+      "summary": "The Colts remain in first place in the AFC South, but the Jaguars are right on their heels after Week 12."
+    },
+    {
+      "id": "03775727dd9a91c0",
+      "title": "Colts, IHSAA honor high school 'Officiating Crew of the Month' for November",
+      "link": "https://colts.com/news/colts-ihsaa-honor-high-school-officiating-crew-of-the-month-for-november",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-24T14:29:00+0000",
+      "summary": "This month's crew exemplifies a deep commitment to their communities, not only through officiating but also through meaningful service."
     }
   ],
   "links": [
