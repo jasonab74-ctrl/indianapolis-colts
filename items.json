@@ -1,14 +1,50 @@
 {
-  "updated": "2025-11-30T20:20:21+00:00",
+  "updated": "2025-11-30T20:41:05+00:00",
   "items": [
     {
-      "id": "e03d404629ec450b",
-      "title": "Questionable PI call helps Colts forge a 13-13 tie",
-      "link": "https://sports.yahoo.com/articles/questionable-pi-call-helps-colts-200920849.html",
+      "id": "ba535f7d024346ec",
+      "title": "Shedeur Sanders live stats: Updated Browns vs. 49ers score, highlights from Week 13 NFL game",
+      "link": "https://sports.yahoo.com/articles/shedeur-sanders-live-stats-updated-170001350.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-11-30T20:09:20+0000",
-      "summary": "Officials called a 32-yard pass interference penalty on Texans safety Calen Bullock on third-and-19 from the Houston 44."
+      "published": "2025-11-30T20:35:00+0000",
+      "summary": "The Sporting News is tracking Shedeur Sanders's stats against the 49ers in Week 13. Follow along for live updates on how the rookie quarterback is faring in his second career start."
+    },
+    {
+      "id": "9f3312f7797f0728",
+      "title": "Puka Nacua’s backhanded one-hander is NFL’s best catch this year",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-backhanded-one-hander-203040440.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T20:30:40+0000",
+      "summary": "This was absurd from Puka Nacua."
+    },
+    {
+      "id": "8b4634aa6c7d10d7",
+      "title": "Ka'imi Fairbairn appeared to miss extra point for Texans vs. Colts, but they called it good",
+      "link": "https://sports.yahoo.com/articles/kaimi-fairbairn-appeared-miss-extra-202829917.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T20:28:29+0000",
+      "summary": "This didn't seem right."
+    },
+    {
+      "id": "9808786e3b6be399",
+      "title": "Questionable PI call helps Texans to 20-13 lead",
+      "link": "https://sports.yahoo.com/articles/questionable-pi-call-helps-texans-202602519.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T20:26:02+0000",
+      "summary": "The Colts benefited from a questionable pass interference call against the Texans on their game-tying touchdown drive."
+    },
+    {
+      "id": "19095caaf11d57a5",
+      "title": "Top photos from Week 13 of the NFL season",
+      "link": "https://sports.yahoo.com/articles/top-photos-week-13-nfl-202411156.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-11-30T20:24:11+0000",
+      "summary": ""
     },
     {
       "id": "271eb8c0b0f94196",
@@ -18,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-11-30T20:09:12+0000",
       "summary": "Colts cornerback Sauce Gardner sustained a left calf injury early in Sunday's game against the Texans and has been ruled out for the remainder of the day."
-    },
-    {
-      "id": "0fd04ad811d169ac",
-      "title": "Seahawks vs. Vikings live updates: NFL season game score, highlights",
-      "link": "https://sports.yahoo.com/articles/seahawks-vs-vikings-live-updates-200507433.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T20:05:07+0000",
-      "summary": "Follow along with Seahawks Wire's live blog for the Week 13 rematch between the Seahawks and Vikings!"
-    },
-    {
-      "id": "a32142a212d38da0",
-      "title": "Bears QB Caleb Williams becomes NFL leader in unique passing category",
-      "link": "https://sports.yahoo.com/articles/bears-qb-caleb-williams-becomes-200218288.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-11-30T20:02:18+0000",
-      "summary": "The Bears quarterback is one of the best in the league taking care of the football."
     },
     {
       "id": "4e2ae9d91f31a13c",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-23T23:49:32+0000",
       "summary": "The Colts, on both sides of the ball, came away from Sunday's loss to the Kansas City Chiefs feeling like they didn't make enough critical, high-leverage plays to beat a team with a Hall of Fame-level coach and quarterback."
-    },
-    {
-      "id": "93323470c1c49684",
-      "title": "Colts head coach Shane Steichen on offensive issues in Week 12 loss to Chiefs: 'It starts with me'",
-      "link": "https://colts.com/news/colts-head-coach-shane-steichen-on-offensive-issues-in-week-12-loss-to-chiefs-it-starts-with-me",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-23T23:11:24+0000",
-      "summary": "The Colts went three-and-out on their final four offensive possessions in Sunday's 23-20 overtime loss to the Kansas City Chiefs."
-    },
-    {
-      "id": "db7e80be297f38f5",
-      "title": "Colts fail to outlast the Chiefs, fall 23-20 in Kansas City",
-      "link": "https://fox59.com/sports/colts/colts-couldnt-outlast-the-chiefs-in-an-overtime-loss-23-20/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-23T21:37:43+0000",
-      "summary": "KANSAS CITY, Mo. — After a fast start, the Colts were stifled in the second half as they were defeated by Patrick Mahomes and the Kansas City Chiefs on Sunday at Arrowhead Stadium. After the Colts failed to score on their first possession, Laiatu Latu intercepted a Mahomes pass deep in Chiefs territory to set [...]"
     }
   ],
   "links": [
