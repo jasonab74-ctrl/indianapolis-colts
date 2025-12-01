@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-01T08:30:12+00:00",
+  "updated": "2025-12-01T08:55:47+00:00",
   "items": [
+    {
+      "id": "d64fd4519b2c0ee5",
+      "title": "Broncos one-score games: Denver sets NFL record with latest comeback victory over Commanders",
+      "link": "https://sports.yahoo.com/articles/broncos-one-score-games-denver-082021122.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T08:20:21+0000",
+      "summary": "Denver has found ways to win despite playing many close games."
+    },
     {
       "id": "d34e6bf3d9e0a2fe",
       "title": "In the NFL’s season of meh, even the battered 49ers are Super Bowl contenders",
@@ -27,24 +36,6 @@
       "feed": "ESPN",
       "published": "2025-12-01T07:48:55+0000",
       "summary": "NFL teams didn't take the holiday week off from being petty at their opponents after big wins."
-    },
-    {
-      "id": "20f171ece133a4d2",
-      "title": "Which NFL teams have been eliminated from the playoffs already?",
-      "link": "https://sports.yahoo.com/articles/nfl-teams-eliminated-playoffs-already-072244948.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T07:22:44+0000",
-      "summary": "The New York Giants have some company.  The Giants had the unflattering distinction of being the first team eliminated from playoff contention this season when they fell to 2-10 last week.  Through Week 13 of the 2025 NFL season, a total of five teams have been officially eliminated from playoff contention, much to the chagrin of their respective fanbases."
-    },
-    {
-      "id": "bab42f146e046c1c",
-      "title": "NFL world reacts to Commanders' Week 13 loss to Broncos",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-commanders-week-071719929.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T07:17:19+0000",
-      "summary": "Social media reacted to the Commanders' loss to Broncos, including the questionable officiating."
     },
     {
       "id": "111fb153d9b90358",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-11-24T22:19:15+0000",
       "summary": "INDIANAPOLIS – Whatever was off with the Indianapolis Colts’ offense Sunday at Arrowhead Stadium – and it most definitely wasn’t up to snuff – apparently wasn’t a result of Daniel Jones’ fibula injury. Monday afternoon, Shane Steichen offered only a superficial assessment of Jones’ health status, which became an issue during practice last week as [...]"
+    },
+    {
+      "id": "221c481a36efb4e7",
+      "title": "5 Colts Things: Shane Steichen addresses late-game offensive slide, issues pop up on first down rushes, evaluating Charvarius Ward Sr. and Sauce Gardner in Week 12 loss to Kansas City Chiefs",
+      "link": "https://colts.com/news/5-colts-things-shane-steichen-addresses-late-game-offensive-slide-issues-pop-up-on-first-down-rushes-evaluating-charvarius-ward-sr-and-sauce-gardner-in-week-12-loss-to-kansas-city-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-24T20:29:22+0000",
+      "summary": "The Colts' 23-20 loss to the Kansas City Chiefs on Sunday dropped them to 8-3 on the season. Here are five key takeaways from Week 12:"
     }
   ],
   "links": [
