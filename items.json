@@ -1,6 +1,42 @@
 {
-  "updated": "2025-12-01T19:20:07+00:00",
+  "updated": "2025-12-01T19:40:55+00:00",
   "items": [
+    {
+      "id": "7e984e1ef5b5f94a",
+      "title": "7 Colts top 10 in early Pro Bowl voting at respective position groups",
+      "link": "https://sports.yahoo.com/articles/7-colts-top-10-early-192400244.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T19:24:00+0000",
+      "summary": "Seven Indianapolis Colts player rank among the top 10 at their respective position groups in early Pro Bowl voting."
+    },
+    {
+      "id": "111fb153d9b90358",
+      "title": "What we learned from all Week 13 games, including Broncos’ shot at No. 1 AFC seed",
+      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-01T19:19:42+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game."
+    },
+    {
+      "id": "a8edeaccdff976d8",
+      "title": "Daily Slop: 2 Dec 25 – Commanders look like a different team as Terry McLaurin and others return from injury",
+      "link": "https://sports.yahoo.com/articles/daily-slop-2-dec-25-191649306.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T19:16:49+0000",
+      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
+    },
+    {
+      "id": "1040220f2817c581",
+      "title": "2026 NFL Mock Draft Monday: Minnesota Vikings need a lot of help",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-monday-191547798.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T19:15:47+0000",
+      "summary": "It's never too early to hit the draft simulator, as we bring you a full seven-round mock draft for the Minnesota Vikings for the 2025 NFL Draft!"
+    },
     {
       "id": "64977de4e90ace91",
       "title": "Colts' NFL playoffs standings, odds, scenarios, tiebreakers: Week 14 game at Jaguars pivotal in AFC South race",
@@ -9,42 +45,6 @@
       "feed": "Colts.com",
       "published": "2025-12-01T19:11:03+0000",
       "summary": "The Colts still control their own destiny in the AFC South, but need a win over the Jaguars on Saturday at EverBank Stadium to continue to do so."
-    },
-    {
-      "id": "7e7e708f9f2d8ce9",
-      "title": "Rock Bottom? Jonathan Gannon’s Cardinals Just Hit a New Low in Arizona",
-      "link": "https://sports.yahoo.com/articles/rock-bottom-jonathan-gannon-cardinals-190809615.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T19:08:09+0000",
-      "summary": "The Arizona Cardinals may have officially hit rock bottom under head coach Jonathan Gannonbeing eliminated from NFL playoffs contention the earliest ever in their time in the desert. After another..."
-    },
-    {
-      "id": "78d87649680c58a4",
-      "title": "NFL Injury Report: Tracking latest news, updates for Jayden Daniels, Justin Herbert, more for fantasy football in Week 14",
-      "link": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-tracking-latest-news-updates-for-jayden-daniels-justin-herbert-more-for-fantasy-football-in-week-14-190152209.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T19:01:52+0000",
-      "summary": "We're tracking the latest NFL injury news and updates to help you with your fantasy football lineups in Week 14."
-    },
-    {
-      "id": "f6bb02f4e7ca6a2f",
-      "title": "Latest injury update and timeline on Colts' CB Sauce Gardner",
-      "link": "https://sports.yahoo.com/articles/latest-injury-timeline-colts-cb-190140299.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T19:01:40+0000",
-      "summary": "Here is the latest injury update and timeline on Colts CB Sauce Gardner from one NFL insider."
-    },
-    {
-      "id": "2107a33e446160a2",
-      "title": "Browns predicted to add Shedeur Sanders replacement in first round of 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/browns-predicted-add-shedeur-sanders-190015172.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T19:00:15+0000",
-      "summary": "It's time to look ahead to the draft for fans in Cleveland."
     },
     {
       "id": "b953b3f8f95a8f72",
@@ -81,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-12-01T16:21:41+0000",
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
-    },
-    {
-      "id": "111fb153d9b90358",
-      "title": "What we learned from all Week 13 games, including Broncos’ shot at No. 1 AFC seed",
-      "link": "https://espn.com/nfl/story/_/id/47098730/nfl-week-13-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-01T16:16:07+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 13 game."
     },
     {
       "id": "b446bca771dac553",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-11-25T20:03:50+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts have lost Ashton Dulin for at least the next four games. The versatile veteran has been placed on the injured reserve list after suffering a hamstring injury in Sunday’s 23-20 overtime loss to the Kansas City Chiefs. Dulin’s absence will impact two areas. He provides quality depth at wide receiver [...]"
+    },
+    {
+      "id": "5bd891808cd8e3e8",
+      "title": "Colts place WR Ashton Dulin on injured reserve, sign S George Odum to 53-man roster from practice squad; sign CB Cameron Mitchell to practice squad",
+      "link": "https://colts.com/news/colts-place-wr-ashton-dulin-on-injured-reserve-sign-s-george-odum-to-53-man-roster-from-practice-squad-sign-cb-cameron-mitchell-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-25T18:57:29+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
     }
   ],
   "links": [
