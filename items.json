@@ -1,6 +1,51 @@
 {
-  "updated": "2025-12-01T20:19:34+00:00",
+  "updated": "2025-12-01T20:39:08+00:00",
   "items": [
+    {
+      "id": "4dd5ef1c343b7692",
+      "title": "Texans' defense shines in 20-16 win over Colts as Stroud returns",
+      "link": "https://sports.yahoo.com/articles/texans-defense-shines-20-16-202920374.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T20:29:20+0000",
+      "summary": "The Houston Texans got quarterback C.J. Stroud back after a three-game absence Sunday.  While Stroud was strong in his return from a concussion, it was the top-rated defense that continued to carry the team in a 20-16 win over the Indianapolis Colts.  Houston became the first team this season to limit the Colts to fewer than 20 points after they entered the game averaging an NFL-best 31 points a game."
+    },
+    {
+      "id": "5b06f5ec2d091f5d",
+      "title": "Sean Payton pinpoints what makes Denver Broncos QB Bo Nix the most clutch quarterback in the NFL",
+      "link": "https://sports.yahoo.com/articles/sean-payton-pinpoints-makes-denver-202553325.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T20:25:53+0000",
+      "summary": "Bo Nix is the most clutch quarterback in the entire NFL. And he's on the verge of having the most clutch season in Denver Broncos history. Sean Payton pointed to..."
+    },
+    {
+      "id": "23c1df5a293f4eaf",
+      "title": "Gardner's Achilles OK; Colts not mulling IR move",
+      "link": "https://espn.com/nfl/story/_/id/47168474/colts-say-sauce-gardner-achilles-ok-ir-move-not-being-mulled",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-01T20:25:36+0000",
+      "summary": "Star Indianapolis Colts cornerback Sauce Gardner did not damage his Achilles on Sunday, but his calf injury will sideline him for an undetermined length of time, coach Shane Steichen said Monday."
+    },
+    {
+      "id": "b953b3f8f95a8f72",
+      "title": "Thielen cut to seek bigger role in last NFL season",
+      "link": "https://espn.com/nfl/story/_/id/47167185/vikings-waive-thielen-let-wr-find-bigger-role-last-season",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-01T20:25:36+0000",
+      "summary": "The Vikings have waived Adam Thielen at the veteran wide receiver's request, the team announced Monday."
+    },
+    {
+      "id": "5fa0fbac6928e6a9",
+      "title": "Colts coach Shane Steichen noncommittal on kicker Michael Badgley",
+      "link": "https://sports.yahoo.com/articles/colts-coach-shane-steichen-noncommittal-201854741.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T20:18:54+0000",
+      "summary": "Badgley has now missed three extra points, and Steichen has been clear that the Colts need him to make those kicks."
+    },
     {
       "id": "dd86c658f5bff3d1",
       "title": "NFL world reacts to Panthers' shocking Week 13 upset of Rams",
@@ -11,24 +56,6 @@
       "summary": "The Panthers shook the NFL with their Week 13 upset of the Rams. Here are the best reactions to the win from around the league . . ."
     },
     {
-      "id": "27fd4d47d2e2bd63",
-      "title": "Texans QB C.J. Stroud weighs in on first game back in win over Colts",
-      "link": "https://sports.yahoo.com/articles/texans-qb-c-j-stroud-200510828.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T20:05:10+0000",
-      "summary": "Consider Sunday's 20-16 win over the Indianapolis Colts quarterback C.J. Stroud's mulligan game in his return for the Houston Texans."
-    },
-    {
-      "id": "e6dd11818da653a1",
-      "title": "Colts cornerback Sauce Gardner avoids Achilles tendon injury, but will miss time with sore calf",
-      "link": "https://sports.yahoo.com/articles/colts-cornerback-sauce-gardner-avoids-200203604.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T20:02:03+0000",
-      "summary": "Indianapolis Colts coach Shane Steichen said Monday that starting cornerback Sauce Gardner is expected to miss “some time” after injuring his left calf during Sunday's 20-16 loss to the Houston Texans but that Gardner avoided hurting his Achilles tendon.  Steichen didn't provide details on how much time the two-time All-Pro might miss but said he believed Gardner would return this season and that he's not expected to go on injured reserve.  Gardner did not speak with reporters Monday but said after the game he didn't think he hurt the Achilles tendon because the pain he felt was higher in his leg."
-    },
-    {
       "id": "d4329a18ed92357e",
       "title": "Shane Steichen: Colts will not place Sauce Gardner on injured reserve, expect cornerback to return during 2025 season",
       "link": "https://colts.com/news/shane-steichen-colts-will-not-place-sauce-gardner-on-injured-reserve-expect-cornerback-to-return-during-2025-season",
@@ -36,33 +63,6 @@
       "feed": "Colts.com",
       "published": "2025-12-01T20:01:01+0000",
       "summary": "Gardner sustained a calf injury in the first quarter of the Colts' Week 13 loss to the Houston Texans."
-    },
-    {
-      "id": "23c1df5a293f4eaf",
-      "title": "Gardner's Achilles OK; Colts not mulling IR move",
-      "link": "https://espn.com/nfl/story/_/id/47168474/colts-say-sauce-gardner-achilles-ok-ir-move-not-being-mulled",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-01T19:57:06+0000",
-      "summary": "Star Indianapolis Colts cornerback Sauce Gardner did not damage his Achilles on Sunday, but his calf injury will sideline him for an undetermined length of time, coach Shane Steichen said Monday."
-    },
-    {
-      "id": "b953b3f8f95a8f72",
-      "title": "Thielen cut to seek bigger role in last NFL season",
-      "link": "https://espn.com/nfl/story/_/id/47167185/vikings-waive-thielen-let-wr-find-bigger-role-last-season",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-01T19:57:06+0000",
-      "summary": "The Vikings have waived Adam Thielen at the veteran wide receiver's request, the team announced Monday."
-    },
-    {
-      "id": "1e5e6dfd274c7d73",
-      "title": "Shane Steichen: Sauce Gardner will miss time, but is not expected to land on IR",
-      "link": "https://sports.yahoo.com/articles/shane-steichen-sauce-gardner-miss-195610382.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T19:56:10+0000",
-      "summary": "Colts head coach Shane Steichen had a positive update on cornerback Sauce Gardner during his Monday news conference."
     },
     {
       "id": "111fb153d9b90358",
@@ -80,7 +80,7 @@
       "source": "Colts.com",
       "feed": "Colts.com",
       "published": "2025-12-01T19:11:03+0000",
-      "summary": "The Colts still control their own destiny in the AFC South, but need a win over the Jaguars on Saturday at EverBank Stadium to continue to do so."
+      "summary": "The Colts still control their own destiny in the AFC South, but need a win over the Jaguars on Sunday at EverBank Stadium to continue to do so."
     },
     {
       "id": "ae80eedfbffd18ef",
