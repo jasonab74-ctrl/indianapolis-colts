@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-01T06:32:12+00:00",
+  "updated": "2025-12-01T07:22:06+00:00",
   "items": [
     {
       "id": "e92979325d4377bf",
@@ -27,33 +27,6 @@
       "feed": "ESPN",
       "published": "2025-12-01T06:22:43+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 13 game."
-    },
-    {
-      "id": "1d8d8cd64c57111c",
-      "title": "NFL Week 13 INSTANT reactions: Panthers' HUGE upset, division race predictions, are the Ravens even good?",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-week-13-instant-reactions-panthers-huge-upset-division-race-predictions-are-the-ravens-even-good-060154698.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T06:01:32+0000",
-      "summary": "Nate Tice & Charles McDonald give their instant reactions and takeaways from Week 13 of NFL action."
-    },
-    {
-      "id": "68f9d9868d181565",
-      "title": "Week 13 INSTANT fantasy takeaways: Panthers stun Rams + Colts collapse + Holiday games reactions",
-      "link": "https://sports.yahoo.com/fantasy/article/week-13-instant-fantasy-takeaways-panthers-stun-rams--colts-collapse--holiday-games-reactions-055454361.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T05:55:15+0000",
-      "summary": "Matt Harmon and Chris Allen provide their instant fantasy reactions to all the action in Week 13, including the four games that took place on Thanksgiving and Black Friday. Harmon and Allen reveal the boom and bust players of Week 13 and do deep dives on the games with the biggest fantasy and playoff implications for the rest of the season."
-    },
-    {
-      "id": "65a16da2795efa51",
-      "title": "Young dazzles as Panthers upset Rams, Bills down Steelers",
-      "link": "https://sports.yahoo.com/articles/young-inspires-panthers-upset-rams-215026729.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T05:41:55+0000",
-      "summary": "Bryce Young threw three touchdowns as the Carolina Panthers upset the in-form Los Angeles Rams 31-28 on Sunday with the NFL playoff race tightening. Young, the No.1 pick in the 2023 draft who has struggled to find consistent form in his first three seasons in the NFL, said he never had any doubt about attempting to convert his two fourth-down touchdown passes."
     },
     {
       "id": "c19952966a1368ca",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-11-24T22:19:15+0000",
       "summary": "INDIANAPOLIS – Whatever was off with the Indianapolis Colts’ offense Sunday at Arrowhead Stadium – and it most definitely wasn’t up to snuff – apparently wasn’t a result of Daniel Jones’ fibula injury. Monday afternoon, Shane Steichen offered only a superficial assessment of Jones’ health status, which became an issue during practice last week as [...]"
+    },
+    {
+      "id": "221c481a36efb4e7",
+      "title": "5 Colts Things: Shane Steichen addresses late-game offensive slide, issues pop up on first down rushes, evaluating Charvarius Ward Sr. and Sauce Gardner in Week 12 loss to Kansas City Chiefs",
+      "link": "https://colts.com/news/5-colts-things-shane-steichen-addresses-late-game-offensive-slide-issues-pop-up-on-first-down-rushes-evaluating-charvarius-ward-sr-and-sauce-gardner-in-week-12-loss-to-kansas-city-chiefs",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-24T20:29:22+0000",
+      "summary": "The Colts' 23-20 loss to the Kansas City Chiefs on Sunday dropped them to 8-3 on the season. Here are five key takeaways from Week 12:"
+    },
+    {
+      "id": "20014901018a262f",
+      "title": "Bill Brooks' Breakdown: What went wrong in Colts' loss to Chiefs in Week 12",
+      "link": "https://colts.com/news/bill-brooks-breakdown-colts-loss-chiefs-daniel-jones-week-12-afc-south",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-24T19:17:52+0000",
+      "summary": "Colts Ring of Honor wide receiver Bill Brooks offers his thoughts on the Colts’ loss to the Kansas City Chiefs and how the team should approach the final stretch of the regular season."
+    },
+    {
+      "id": "cb023fca9da79306",
+      "title": "Around the AFC South: Jaguars win in OT, Titans fall to Seahawks",
+      "link": "https://colts.com/news/afc-south-jaguars-trevor-lawrence-overtime-cardinals-titans-seahawks-cam-ward-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-24T14:46:58+0000",
+      "summary": "The Colts remain in first place in the AFC South, but the Jaguars are right on their heels after Week 12."
     }
   ],
   "links": [
