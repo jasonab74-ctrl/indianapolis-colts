@@ -1,6 +1,51 @@
 {
-  "updated": "2025-12-01T21:16:14+00:00",
+  "updated": "2025-12-01T21:36:19+00:00",
   "items": [
+    {
+      "id": "6b73cc721b59c342",
+      "title": "Eagles sign Joe Burrow's former LSU WR teammate",
+      "link": "https://sports.yahoo.com/articles/eagles-sign-joe-burrows-former-212233673.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T21:22:33+0000",
+      "summary": "Philadelphia has added one of the fastest wideouts in the NFL to its practice squad."
+    },
+    {
+      "id": "ad0cb0ee1a809ef3",
+      "title": "'Here we go' - what's it like to make your NFL debut?",
+      "link": "https://sports.yahoo.com/articles/whats-nfl-debut-210558678.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T21:21:39+0000",
+      "summary": "After dreaming of playing in the NFL, Charlie Smyth says making his debut for the New Orleans Saints was &quot;the moment I've been waiting for&quot;."
+    },
+    {
+      "id": "15a87f6b9b978ad0",
+      "title": "Dolphins are on a win streak, but are they truly back in the playoff hunt?",
+      "link": "https://sports.yahoo.com/articles/dolphins-win-streak-truly-back-211700539.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-01T21:17:00+0000",
+      "summary": "MIAMI GARDENS — The Miami Dolphins have won three consecutive games and four of the last five after squeaking by the New Orleans Saints, 21-17. They completed an undefeated November (3-0), aided by their last loss being a Thursday nighter on Oct. 30 instead of Week 9’s Sunday, Nov. 2 while also having their bye week within the month. Most NFL teams winning at this clip crossing over into ..."
+    },
+    {
+      "id": "23c1df5a293f4eaf",
+      "title": "Gardner's Achilles OK; Colts not mulling IR move",
+      "link": "https://espn.com/nfl/story/_/id/47168474/colts-say-sauce-gardner-achilles-ok-ir-move-not-being-mulled",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-01T21:14:57+0000",
+      "summary": "Star Indianapolis Colts cornerback Sauce Gardner did not damage his Achilles on Sunday, but his calf injury will sideline him for an undetermined length of time, coach Shane Steichen said Monday."
+    },
+    {
+      "id": "b953b3f8f95a8f72",
+      "title": "Thielen cut to seek bigger role in last NFL season",
+      "link": "https://espn.com/nfl/story/_/id/47167185/vikings-waive-thielen-let-wr-find-bigger-role-last-season",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-01T21:14:57+0000",
+      "summary": "The Vikings have waived Adam Thielen at the veteran wide receiver's request, the team announced Monday."
+    },
     {
       "id": "40816c9465350d73",
       "title": "Texans PFF grades: Top & Bottom defensive players in win vs. Colts",
@@ -11,40 +56,13 @@
       "summary": "Here are the top offensive players for the Texans in their 20-16 win in Week 13 against the Colts at Lucas Oil Stadium"
     },
     {
-      "id": "ad0cb0ee1a809ef3",
-      "title": "'Here we go' - What's it like to make your NFL debut?",
-      "link": "https://sports.yahoo.com/articles/whats-nfl-debut-210558678.html",
+      "id": "a69b907a89b65bfa",
+      "title": "Saints kicker Charlie Smyth's hometown had an incredible reaction to his 56-yard field goal",
+      "link": "https://sports.yahoo.com/articles/saints-kicker-charlie-smyths-hometown-211030384.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-01T21:05:58+0000",
-      "summary": "After dreaming of playing in the NFL, Charlie Smyth says making his debut for the New Orleans Saints was &quot;the moment I've been waiting for&quot;."
-    },
-    {
-      "id": "f55abd4d409e0b97",
-      "title": "Colts' Shane Steichen updates status of Sauce Gardner's calf injury",
-      "link": "https://sports.yahoo.com/articles/colts-shane-steichen-updates-status-210200768.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T21:02:00+0000",
-      "summary": "Colts coach Shane Steichen said CB Sauce Gardner will miss an undetermined amount of time with a calf injury; what we know"
-    },
-    {
-      "id": "4869f4dc87383932",
-      "title": "Colts’ Sauce Gardner unlikely to play against Seattle Seahawks",
-      "link": "https://sports.yahoo.com/articles/colts-sauce-gardner-unlikely-play-210159801.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T21:01:59+0000",
-      "summary": "With Sauce Gardner “week-to-week” with a calf injury, it looks unlikely that he plays against Seattle"
-    },
-    {
-      "id": "2d90fe214d660395",
-      "title": "TreVeyon Henderson, Rhamondre Stevenson fantasy football start or sit advice for Week 13",
-      "link": "https://sports.yahoo.com/articles/treveyon-henderson-rhamondre-stevenson-fantasy-205922915.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T20:59:22+0000",
-      "summary": "Week 13 NFL fantasy football advice for New England Patriots running backs TreVeyon Henderson and Rhamondre Stevenson."
+      "published": "2025-12-01T21:10:30+0000",
+      "summary": "Charlie Smyth nailed his first NFL field goal from 56 yards out."
     },
     {
       "id": "3273f1a217fbdae0",
@@ -54,42 +72,6 @@
       "feed": "Colts.com",
       "published": "2025-12-01T20:57:04+0000",
       "summary": "The Colts’ 20-16 loss to the Houston Texans on Sunday featured three controversial officiating decisions. Colts Ring of Honor wide receiver Bill Brooks offers his perspective on how NFL players deal with those situations during and after games."
-    },
-    {
-      "id": "dc309d4f83aa7cff",
-      "title": "Detroit Lions' Jahmyr Gibbs top-5 in Pro Bowl votes, 2nd among RBs",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-jahmyr-gibbs-top-205054557.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T20:50:54+0000",
-      "summary": "Detroit Lions running back Jahmyr Gibbs is No. 5 overall in early Pro Bowl voting, though he's only No. 2 among RBs, behind the Colts' Jonathan Taylor."
-    },
-    {
-      "id": "b5e53703435bffeb",
-      "title": "Titans match longest home skid in Tennessee with 7th straight loss this season",
-      "link": "https://sports.yahoo.com/articles/titans-match-longest-home-skid-204947230.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-01T20:49:47+0000",
-      "summary": "Becoming the first AFC team officially eliminated from playoff contention was only a matter of time for the NFL's lone one-win team.  The Titans (1-11) continue hurting themselves with the same mistakes made under coach Brian Callahan and his replacement Mike McCoy.  The No. 1 overall pick in April still is looking for his first home victory in the NFL."
-    },
-    {
-      "id": "23c1df5a293f4eaf",
-      "title": "Gardner's Achilles OK; Colts not mulling IR move",
-      "link": "https://espn.com/nfl/story/_/id/47168474/colts-say-sauce-gardner-achilles-ok-ir-move-not-being-mulled",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-01T20:25:36+0000",
-      "summary": "Star Indianapolis Colts cornerback Sauce Gardner did not damage his Achilles on Sunday, but his calf injury will sideline him for an undetermined length of time, coach Shane Steichen said Monday."
-    },
-    {
-      "id": "b953b3f8f95a8f72",
-      "title": "Thielen cut to seek bigger role in last NFL season",
-      "link": "https://espn.com/nfl/story/_/id/47167185/vikings-waive-thielen-let-wr-find-bigger-role-last-season",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-01T20:25:36+0000",
-      "summary": "The Vikings have waived Adam Thielen at the veteran wide receiver's request, the team announced Monday."
     },
     {
       "id": "d4329a18ed92357e",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-26T20:04:50+0000",
       "summary": "The Indianapolis Colts (8-3) and Houston Texans (6-5) are heading in separate directions. The Colts have lost two of three while the Texans have won three in a row and look forward to the return of quarterback CJ Stroud. Dave Griffiths, Mike Chappell and Matt Adams preview this pivotal AFC South showdown in the latest [...]"
+    },
+    {
+      "id": "b5d0f5d70af81093",
+      "title": "Practice Notebook: Daniel Jones limited, but 'good to go' for Week 13",
+      "link": "https://colts.com/news/practice-notebook-daniel-jones-limited-but-good-to-go-for-week-13",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-26T19:46:20+0000",
+      "summary": "The Colts held a walkthrough on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "f1d35b274cd2c70b",
+      "title": "Colts DT DeForest Buckner nominated for 2025 Art Rooney Sportsmanship Award",
+      "link": "https://colts.com/news/colts-dt-deforest-buckner-nominated-for-2025-art-rooney-sportsmanship-award",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-26T16:01:58+0000",
+      "summary": "Art Rooney Sportsmanship Award nominees are chosen for their demonstration of on-field sportsmanship."
     }
   ],
   "links": [
