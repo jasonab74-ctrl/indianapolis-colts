@@ -1,14 +1,14 @@
 {
-  "updated": "2025-12-02T11:18:39+00:00",
+  "updated": "2025-12-02T11:39:31+00:00",
   "items": [
     {
-      "id": "60549bfe15c02e47",
-      "title": "NFL power rankings Week 14: Do surging Patriots take top spot after Rams loss?",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-14-105545723.html",
+      "id": "928428c82bd93d82",
+      "title": "NFL power rankings: Arizona Cardinals slip one spot in Week 14",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-arizona-cardinals-113142148.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-02T10:55:45+0000",
-      "summary": "The Rams lost Sunday, but will they also vacate power poll's No. 1 ranking?"
+      "published": "2025-12-02T11:31:42+0000",
+      "summary": "The Cardinals lose again but fall only a single spot."
     },
     {
       "id": "e0ad9da9f1b43ebf",
@@ -63,6 +63,15 @@
       "feed": "ESPN",
       "published": "2025-12-02T00:27:41+0000",
       "summary": "The Jaguars will play the Colts on Sunday -- with sole possession of first place in the AFC South on the line."
+    },
+    {
+      "id": "d319c9d94343ba63",
+      "title": "The Colts’ remaining schedule is a gauntlet",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118603/the-colts-remaining-schedule-is-a-gauntlet",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-02T00:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts are fresh off consecutive losses for the first time this season, and have lost three of their last four games. This stretch includes a bye week that is often regarded as a much-needed break, yet the Colts have only provided questions than answers since. The Colts famously began the [&#8230;]"
     },
     {
       "id": "17e9b2370d5d70ec",
@@ -146,6 +155,15 @@
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
     },
     {
+      "id": "b446bca771dac553",
+      "title": "Monday Morning Awards: Week 13 vs. Texans",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118543/monday-morning-awards-week-13-vs-texans",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-01T14:56:34+0000",
+      "summary": "8-4 after an ugly loss, where the defense seemed to be the only ones that wanted the Colts to win, including the refs. Opposing teams seemed to have figured out the Colts’ offense, rendering it useless in three of the past four games, and the playoffs seem to be slipping once again from the grasps [&#8230;]"
+    },
+    {
       "id": "92b542fb1aa20593",
       "title": "Around the AFC South: Colts and Jaguars tied for first place in division after Jaguars' Week 13 win",
       "link": "https://colts.com/news/afc-south-jaguars-colts-tied-first-place-jaguars-week-13-win-trevor-lawrence-jakobi-meyers",
@@ -162,6 +180,33 @@
       "feed": "CBS4Indy",
       "published": "2025-12-01T14:19:04+0000",
       "summary": "The Indianapolis Colts dropped a key AFC South game to the Houston Texans at Lucas Oil Stadium. The loss took the Colts out of the divisional lead and kicked them back to a Wild Card spot in the playoff race. Matt Adams recaps the game in the latest Blue Zone Podcast. Find the Colts Blue [...]"
+    },
+    {
+      "id": "217537ba99e01914",
+      "title": "Colts-Jaguars opening odds: The AFC South is on the line",
+      "link": "https://stampedeblue.com/indianapolis-colts-odds/118580/colts-jaguars-opening-odds-the-afc-south-is-on-the-line",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-01T13:26:00+0000",
+      "summary": "Well, this one isn’t fun. The Indianapolis Colts are fading fast and are now headed to the one place in the NFL they simply can’t win. The Colts haven’t won in Jacksonville since 2014, and this looking like less and less of the year they get the job done. The Jaguars are on the climb [&#8230;]"
+    },
+    {
+      "id": "c19952966a1368ca",
+      "title": "AFC Playoff Picture: Indianapolis Colts fall behind the Jacksonville Jaguars in AFC South",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/118511/afc-playoff-picture-indianapolis-colts-fall-behind-the-jacksonville-jaguars-in-afc-south",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-01T05:02:05+0000",
+      "summary": "The entire AFC South played each other on Sunday it it rocked the standings in the division. The Houston Texans beat the Indianapolis Colts and the Jacksonville Jaguars beat the Tennessee Titans. The Jaguars take the record vs common opponents tiebreaker and the lead in the division by a slim margin. The Jaguars have wins [&#8230;]"
+    },
+    {
+      "id": "b11c911f6443b6fd",
+      "title": "Breaking: Sauce Gardner avoids major injury, should be out a couple of weeks",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/118572/breaking-sauce-gardner-avoids-major-injury-should-be-out-a-couple-of-weeks",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-01T02:25:15+0000",
+      "summary": "According to Jordan Schultz, Colts’ All-Pro cornerback and recent acquisition Sauce Gardner has avoided a much dreaded Achilles tear and suffered a mild calf strain, which should sideline him at least a couple of weeks. Gardner suffered the injury early in the first quarter, and it being a non-contact injury to such a sensible area [&#8230;]"
     },
     {
       "id": "7ff2bb849abebde1",
@@ -189,6 +234,15 @@
       "feed": "Colts.com",
       "published": "2025-11-30T23:03:57+0000",
       "summary": "The Colts' 20-16 loss to the Houston Texans on Sunday was their third in four games, and, for now, dropped them out of first place in the AFC South."
+    },
+    {
+      "id": "e61fc356d22d729d",
+      "title": "Colts continue to fade fast with 20-16 home loss to Houston",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118531/colts-continue-to-fade-fast-with-20-16-home-loss-to-houston",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-11-30T22:44:58+0000",
+      "summary": "Perhaps it’s being jaded from recent late season franchise collapses, but the Indianapolis Colts continue to fade at the wrong time—having now lost 3 of their last 4 games with a 20-16 home loss on Sunday to the Houston Texans. The Colts are now tied atop the AFC South with the suddenly surging Jacksonville Jaguars, [&#8230;]"
     },
     {
       "id": "6b1991c5d473769e",
@@ -224,16 +278,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2025-11-30T22:00:42+0000",
-      "summary": "The Indianapolis Colts let an early lead in the AFC South standings slip away in Week 13, falling 20-16 to the Houston Texans at Lucas Oil Stadium. The Colts left points on the board in a loss littered with missed opportunities, featuring two turnovers on downs deep inside Texans territory, plus a puzzling punt late [&#8230;]"
-    },
-    {
-      "id": "c19952966a1368ca",
-      "title": "AFC Playoff Picture: Indianapolis Colts fall behind the Jacksonville Jaguars in AFC South",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118511/afc-playoff-picture-indianapolis-colts-fall-behind-the-jacksonville-jaguars-in-afc-south",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-30T21:29:21+0000",
-      "summary": "The entire AFC South played each other on Sunday it it rocked the standings in the division. The Houston Texans beat the Indianapolis Colts and the Jacksonville Jaguars beat the Tennessee Titans. The Jaguars take the record vs common opponents tiebreaker and the lead in the division by a slim margin. We will keep updating. [&#8230;]"
+      "summary": "The Indianapolis Colts let an early lead in the AFC South standings slip away in Week 13, falling 20-16 to the Houston Texans at Lucas Oil Stadium. Indianapolis left points on the board in a loss littered with missed opportunities. The season-low scoring effort featured two turnovers on downs deep inside Texans territory, plus a [&#8230;]"
     },
     {
       "id": "1d6bdb4d337e5a35",
@@ -308,24 +353,6 @@
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their football careers. With Indianapolis set to host the Big Ten Championship Game next weekend between No. 1 Ohio State and No. 2 Indiana, Chris asks the players what is their favorite memory of playing college football."
     },
     {
-      "id": "cf5827b9a79d776b",
-      "title": "Where to Watch: Colts hosting Houston Texans for Week 13",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118472/where-to-watch-colts-hosts-houston-texans-for-week-13",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-30T17:11:34+0000",
-      "summary": "The Indianapolis Colts (8-3) host the Houston Texans (6-5) for Week 13 at 1 PM EST in a critical divisional clash that could have major playoff implications down the season’s final stretch run—as well as potential AFC South bragging rights when it’s all said and done. Having lost two of their last three games, Indianapolis [&#8230;]"
-    },
-    {
-      "id": "b046db4735d82b12",
-      "title": "Report: Colts rookie TE Tyler Warren expected to play versus Texans",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118466/report-colts-rookie-te-tyler-warren-expected-to-play-versus-texans",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-30T16:36:27+0000",
-      "summary": "According to NFL Network’s Tom Pelissero, Indianapolis Colts rookie tight end Tyler Warren is expected to play on Sunday at home against the Houston Texans—and is reportedly “good to go”: The Colts rookie tight end received a new ‘questionable’ injury designation on Saturday with a freshly listed illness, but all indications are currently that’ll be [&#8230;]"
-    },
-    {
       "id": "32053153490abc56",
       "title": "Colts announce 6 inactive players for Week 13 game vs. Houston Texans",
       "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-13-game-vs-houston-texans-tyler-warren",
@@ -360,33 +387,6 @@
       "feed": "Colts.com",
       "published": "2025-11-30T12:56:00+0000",
       "summary": "Kicking The Stigma today unveiled a new apparel line at Shop.Colts.com and in-store at the Colts Pro Shop at Lucas Oil Stadium."
-    },
-    {
-      "id": "cd73f3bf7140f2b4",
-      "title": "Colts elevate veteran DT Chris Wormley from the practice squad before Texans game",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118460/colts-elevate-veteran-dt-chris-wormley-from-the-practice-squad-before-texans-game",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-29T22:10:24+0000",
-      "summary": "The Indianapolis Colts announced on Saturday that the team has promoted veteran defensive tackle Chris Wormley from the practice squad to the active roster ahead of Sunday’s home game against the Houston Texans. Regarding Wormley, who was signed to the Colts practice squad a few weeks ago: Originally a 2017 3rd round pick of the [&#8230;]"
-    },
-    {
-      "id": "1679f2e35f9d2587",
-      "title": "Colts rookie tight end Tyler Warren added to injury report",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118451/colts-rookie-tight-end-tyler-warren-added-to-injury-report",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-29T21:53:57+0000",
-      "summary": "The Indianapolis Colts announced on Saturday that rookie tight end Tyler Warren has been added to their injury report, heading into a critical divisional home game against Houston on Sunday, with a ‘questionable’ designation because of a newly listed illness. This year’s first round pick of the Colts has 55 receptions for 662 total receiving [&#8230;]"
-    },
-    {
-      "id": "c25fd526ee36fb21",
-      "title": "Indianapolis Colts Injury Report: Relatively Healthy Team Ahead of Houston",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/118440/indianapolis-colts-injury-report-relatively-healthy-team-heading-to-houston",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-11-29T21:39:21+0000",
-      "summary": "Indianapolis Colts linebacker Jaylon Carlies (ankle) was a full participant at practice on Friday. However, he has been ruled OUT of Sunday’s game against the Houston Texans. Carlies had put together two full weeks if practice since his practice window was opened from being on injured reserve. If he practices again next week and doesn’t [&#8230;]"
     },
     {
       "id": "ce17a6fdc71a4862",
