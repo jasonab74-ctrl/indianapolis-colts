@@ -1,13 +1,22 @@
 {
-  "updated": "2025-12-02T05:18:52+00:00",
+  "updated": "2025-12-02T05:43:18+00:00",
   "items": [
+    {
+      "id": "5d7f11fb340ebfe4",
+      "title": "Hard Knocks in-season schedule 2025: How to watch, stream HBO NFL series following NFC East",
+      "link": "https://sports.yahoo.com/articles/hard-knocks-season-schedule-2025-053002248.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-02T05:30:02+0000",
+      "summary": "The Sporting News has all the details on the Hard Knocks in-season schedule."
+    },
     {
       "id": "b55332134ef77b11",
       "title": "Drake Maye strengthens MVP case against Giants; Patriots win 10th straight",
       "link": "https://espn.com/nfl/story/_/id/47172450/nfl-monday-night-football-patriots-giants-drake-maye-jaxson-dart",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-02T05:11:44+0000",
+      "published": "2025-12-02T05:22:23+0000",
       "summary": "New England is the first team to 11 wins in the NFL, and showed why against the visiting Giants."
     },
     {
@@ -36,24 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-02T04:48:47+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 13 game."
-    },
-    {
-      "id": "b57692b18689da49",
-      "title": "Patriots on brink of playoffs after Giants rout",
-      "link": "https://sports.yahoo.com/articles/patriots-brink-playoffs-giants-rout-043901257.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-02T04:39:01+0000",
-      "summary": "The resurgent New England Patriots continued their march towards the NFL playoffs on Monday with a 33-15 demolition of the New York Giants at Foxborough.The win leaves the Patriots within touching distance of returning to the postseason after missing out on the playoffs over the past three seasons."
-    },
-    {
-      "id": "d9bcaf28ea2aef0c",
-      "title": "NY Giants vs. New England Patriots final score, results, stats, recap NFL Week 12",
-      "link": "https://sports.yahoo.com/articles/ny-giants-vs-england-patriots-041612678.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-02T04:28:56+0000",
-      "summary": "Giants lose seventh straight game, fall to 2-11"
     },
     {
       "id": "010e447ec645ce23",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-26T19:46:20+0000",
       "summary": "The Colts held a walkthrough on Wednesday at the Indiana Farm Bureau Football Center."
+    },
+    {
+      "id": "f1d35b274cd2c70b",
+      "title": "Colts DT DeForest Buckner nominated for 2025 Art Rooney Sportsmanship Award",
+      "link": "https://colts.com/news/colts-dt-deforest-buckner-nominated-for-2025-art-rooney-sportsmanship-award",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-26T16:01:58+0000",
+      "summary": "Art Rooney Sportsmanship Award nominees are chosen for their demonstration of on-field sportsmanship."
     }
   ],
   "links": [
