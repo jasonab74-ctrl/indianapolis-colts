@@ -1,14 +1,32 @@
 {
-  "updated": "2025-12-03T22:43:26+00:00",
+  "updated": "2025-12-03T23:17:05+00:00",
   "items": [
     {
-      "id": "9cd309c4cb73c8ff",
-      "title": "Historic rating: Cowboys Thanksgiving win shatters viewership record",
-      "link": "https://sports.yahoo.com/articles/historic-rating-cowboys-thanksgiving-win-223442695.html",
+      "id": "9b45751466111a41",
+      "title": "Cowboys, Chiefs on Thanksgiving sets NFL record",
+      "link": "https://espn.com/nfl/story/_/id/47191100/cowboys-chiefs-thanksgiving-game-sets-nfl-viewership-record",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-03T23:12:23+0000",
+      "summary": "The Dallas Cowboys versus Kansas City Chiefs game on Thanksgiving Day averaged 57.23 million viewers on CBS, making it the most watched regular-season game in NFL history."
+    },
+    {
+      "id": "996d31077554ecf3",
+      "title": "Colts with several top vote-getters after first wave of Pro Bowl voting",
+      "link": "https://sports.yahoo.com/articles/colts-several-top-vote-getters-230000014.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-03T22:34:42+0000",
-      "summary": "The Dallas Cowboys versus the Kansas City matchup shattered the NFL's viewership record for most watched regular season matchup in NFL history."
+      "published": "2025-12-03T23:00:00+0000",
+      "summary": "The Indianapolis Colts are well-represented after the initial wave of fan voting."
+    },
+    {
+      "id": "8ce50259accd662a",
+      "title": "Josh Downs, Kenny Moore among those on Colts' Week 14 injury report",
+      "link": "https://sports.yahoo.com/articles/josh-downs-kenny-moore-among-225938920.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-03T22:59:38+0000",
+      "summary": "Here are the latest practice status updates from the Indianapolis Colts' first Week 14 injury report."
     },
     {
       "id": "200be431f28d0560",
@@ -18,24 +36,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-03T22:05:23+0000",
       "summary": "INDIANAPOLIS – The life of an NFL kicker was on full display Wednesday. As Blake Grupe walked into the Indianapolis Colts locker room and the media began forming a semi-circle around his cubicle, everyone had to navigate his carry-on luggage and backpack that had found a temporary home in front of his new home. “Yeah, [...]"
-    },
-    {
-      "id": "9b45751466111a41",
-      "title": "Cowboys, Chiefs on Thanksgiving sets NFL record",
-      "link": "https://espn.com/nfl/story/_/id/47191100/cowboys-chiefs-thanksgiving-game-sets-nfl-viewership-record",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-03T21:39:32+0000",
-      "summary": "The Dallas Cowboys versus Kansas City Chiefs game on Thanksgiving Day averaged 57.23 million viewers on CBS, making it the most watched regular-season game in NFL history."
-    },
-    {
-      "id": "32c1756212002337",
-      "title": "Colts' Richardson still not cleared for IR return",
-      "link": "https://espn.com/nfl/story/_/id/47192479/colts-anthony-richardson-sr-ir-not-cleared-return",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-03T21:39:32+0000",
-      "summary": "Colts QB Anthony Richardson remains on IR and still is not cleared for football-related activities."
     },
     {
       "id": "ad2a13f02c054694",
