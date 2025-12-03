@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-03T21:17:48+00:00",
+  "updated": "2025-12-03T21:37:29+00:00",
   "items": [
-    {
-      "id": "ccccd11e9ad873be",
-      "title": "Chargers draft CB with NFL bloodlines in new 2026 mock draft",
-      "link": "https://sports.yahoo.com/articles/chargers-draft-cb-nfl-bloodlines-210744481.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T21:07:44+0000",
-      "summary": "The Chargers land top cornerback prospect in a new 2026 NFL mock draft."
-    },
     {
       "id": "9b45751466111a41",
       "title": "Cowboys, Chiefs on Thanksgiving sets NFL record",
@@ -27,24 +18,6 @@
       "feed": "ESPN",
       "published": "2025-12-03T21:07:26+0000",
       "summary": "Colts QB Anthony Richardson remains on IR and still is not cleared for football-related activities."
-    },
-    {
-      "id": "d015aaa140da4173",
-      "title": "Daniel Jones full in Wednesday's practice, wearing 3D-printed pad on leg",
-      "link": "https://sports.yahoo.com/articles/daniel-jones-full-wednesdays-practice-210356511.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T21:03:56+0000",
-      "summary": "Colts quarterback Daniel Jones' plan to remain on the field despite a fibula injury includes a little help from his friends."
-    },
-    {
-      "id": "81c5b3f4767e6478",
-      "title": "Travis Kelce’s Kansas City Chiefs Help Shatter NFL Viewership Record on Thanksgiving Day",
-      "link": "https://sports.yahoo.com/articles/travis-kelce-kansas-city-chiefs-210029669.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T21:00:29+0000",
-      "summary": "Football fans across the country were glued to their TVs before and after stuffing themselves with turkey and pie on Thanksgiving. According to Nielsen data released by the NFL, Thanksgiving Day 2025 ranked as the highest Thanksgiving Day viewership average on record, which dates back to 1988. Three games were played on Thursday, November 27, […]"
     },
     {
       "id": "ad2a13f02c054694",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
+    },
+    {
+      "id": "4eb73ecd0ae9c88e",
+      "title": "Colts-Texans preview: NFL's top offense meets NFL's top defense in Week 13 AFC South showdown",
+      "link": "https://colts.com/news/colts-texans-preview-nfl-s-top-offense-meets-nfl-s-top-defense-in-week-13-afc-south-showdown",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-28T14:00:19+0000",
+      "summary": "The Colts return to Lucas Oil Stadium for the first time in over a month to host the Houston Texans on Sunday, kicking off a stretch of four AFC South games in the final six weeks of the 2025 season."
+    },
+    {
+      "id": "7bfd0f81fc6763b9",
+      "title": "Practice Notebook: Daniel Jones, Jonathan Taylor preparing to face 'tough challenge' presented by Texans defense",
+      "link": "https://colts.com/news/practice-notebook-daniel-jones-jonathan-taylor-preparing-to-face-tough-challenge-presented-by-texans-defense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-27T18:47:42+0000",
+      "summary": "The Colts play the Houston Texans in a crucial AFC South matchup at Lucas Oil Stadium on Sunday."
+    },
+    {
+      "id": "da206cc70c733dbd",
+      "title": "Report: Colts’ Daniel Jones playing with fractured fibula",
+      "link": "https://fox59.com/sports/colts/report-colts-daniel-jones-playing-with-fractured-fibula/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-27T18:38:19+0000",
+      "summary": "INDIANAPOLIS – Daniel Jones reportedly is dealing with a fractured fibula, and that likely will be the case for the remainder of the season. That’s the latest update on the Indianapolis Colts’ starting quarterback, who’s been dealing with an unspecified fibula injury for the past two weeks. The team would not confirm or deny a [...]"
     }
   ],
   "links": [
