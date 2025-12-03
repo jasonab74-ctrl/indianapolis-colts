@@ -1,13 +1,40 @@
 {
-  "updated": "2025-12-03T21:37:29+00:00",
+  "updated": "2025-12-03T22:19:28+00:00",
   "items": [
+    {
+      "id": "ef3e6969eb01b1ef",
+      "title": "NFL Week 14 fantasy picks: Start 'em, Sit 'em",
+      "link": "https://sports.yahoo.com/articles/nfl-week-14-fantasy-picks-221037265.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-03T22:10:37+0000",
+      "summary": "Which players should be called upon and who should be benched in Week 14 of Fantasy Football?"
+    },
+    {
+      "id": "200be431f28d0560",
+      "title": "Colts hoping Blake Grupe steadies kicking issues",
+      "link": "https://fox59.com/sports/colts-hoping-blake-grupe-steadies-kicking-issues/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-03T22:05:23+0000",
+      "summary": "INDIANAPOLIS – The life of an NFL kicker was on full display Wednesday. As Blake Grupe walked into the Indianapolis Colts locker room and the media began forming a semi-circle around his cubicle, everyone had to navigate his carry-on luggage and backpack that had found a temporary home in front of his new home. “Yeah, [...]"
+    },
+    {
+      "id": "4eddfd379682bf37",
+      "title": "Drake Maye, Jonathan Taylor, Jaxon Smith-Njigba still No. 1 this week",
+      "link": "https://sports.yahoo.com/articles/drake-maye-jonathan-taylor-jaxon-220309465.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-03T22:03:09+0000",
+      "summary": "The No. 1 player in each category has not changed."
+    },
     {
       "id": "9b45751466111a41",
       "title": "Cowboys, Chiefs on Thanksgiving sets NFL record",
       "link": "https://espn.com/nfl/story/_/id/47191100/cowboys-chiefs-thanksgiving-game-sets-nfl-viewership-record",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-03T21:07:26+0000",
+      "published": "2025-12-03T21:39:32+0000",
       "summary": "The Dallas Cowboys versus Kansas City Chiefs game on Thanksgiving Day averaged 57.23 million viewers on CBS, making it the most watched regular-season game in NFL history."
     },
     {
@@ -16,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/47192479/colts-anthony-richardson-sr-ir-not-cleared-return",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-03T21:07:26+0000",
+      "published": "2025-12-03T21:39:32+0000",
       "summary": "Colts QB Anthony Richardson remains on IR and still is not cleared for football-related activities."
     },
     {
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "4eb73ecd0ae9c88e",
-      "title": "Colts-Texans preview: NFL's top offense meets NFL's top defense in Week 13 AFC South showdown",
-      "link": "https://colts.com/news/colts-texans-preview-nfl-s-top-offense-meets-nfl-s-top-defense-in-week-13-afc-south-showdown",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-28T14:00:19+0000",
-      "summary": "The Colts return to Lucas Oil Stadium for the first time in over a month to host the Houston Texans on Sunday, kicking off a stretch of four AFC South games in the final six weeks of the 2025 season."
-    },
-    {
-      "id": "7bfd0f81fc6763b9",
-      "title": "Practice Notebook: Daniel Jones, Jonathan Taylor preparing to face 'tough challenge' presented by Texans defense",
-      "link": "https://colts.com/news/practice-notebook-daniel-jones-jonathan-taylor-preparing-to-face-tough-challenge-presented-by-texans-defense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-27T18:47:42+0000",
-      "summary": "The Colts play the Houston Texans in a crucial AFC South matchup at Lucas Oil Stadium on Sunday."
-    },
-    {
-      "id": "da206cc70c733dbd",
-      "title": "Report: Colts’ Daniel Jones playing with fractured fibula",
-      "link": "https://fox59.com/sports/colts/report-colts-daniel-jones-playing-with-fractured-fibula/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-27T18:38:19+0000",
-      "summary": "INDIANAPOLIS – Daniel Jones reportedly is dealing with a fractured fibula, and that likely will be the case for the remainder of the season. That’s the latest update on the Indianapolis Colts’ starting quarterback, who’s been dealing with an unspecified fibula injury for the past two weeks. The team would not confirm or deny a [...]"
     }
   ],
   "links": [
