@@ -1,14 +1,14 @@
 {
-  "updated": "2025-12-03T22:19:28+00:00",
+  "updated": "2025-12-03T22:43:26+00:00",
   "items": [
     {
-      "id": "ef3e6969eb01b1ef",
-      "title": "NFL Week 14 fantasy picks: Start 'em, Sit 'em",
-      "link": "https://sports.yahoo.com/articles/nfl-week-14-fantasy-picks-221037265.html",
+      "id": "9cd309c4cb73c8ff",
+      "title": "Historic rating: Cowboys Thanksgiving win shatters viewership record",
+      "link": "https://sports.yahoo.com/articles/historic-rating-cowboys-thanksgiving-win-223442695.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-03T22:10:37+0000",
-      "summary": "Which players should be called upon and who should be benched in Week 14 of Fantasy Football?"
+      "published": "2025-12-03T22:34:42+0000",
+      "summary": "The Dallas Cowboys versus the Kansas City matchup shattered the NFL's viewership record for most watched regular season matchup in NFL history."
     },
     {
       "id": "200be431f28d0560",
@@ -18,15 +18,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-03T22:05:23+0000",
       "summary": "INDIANAPOLIS – The life of an NFL kicker was on full display Wednesday. As Blake Grupe walked into the Indianapolis Colts locker room and the media began forming a semi-circle around his cubicle, everyone had to navigate his carry-on luggage and backpack that had found a temporary home in front of his new home. “Yeah, [...]"
-    },
-    {
-      "id": "4eddfd379682bf37",
-      "title": "Drake Maye, Jonathan Taylor, Jaxon Smith-Njigba still No. 1 this week",
-      "link": "https://sports.yahoo.com/articles/drake-maye-jonathan-taylor-jaxon-220309465.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T22:03:09+0000",
-      "summary": "The No. 1 player in each category has not changed."
     },
     {
       "id": "9b45751466111a41",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
+    },
+    {
+      "id": "4eb73ecd0ae9c88e",
+      "title": "Colts-Texans preview: NFL's top offense meets NFL's top defense in Week 13 AFC South showdown",
+      "link": "https://colts.com/news/colts-texans-preview-nfl-s-top-offense-meets-nfl-s-top-defense-in-week-13-afc-south-showdown",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-28T14:00:19+0000",
+      "summary": "The Colts return to Lucas Oil Stadium for the first time in over a month to host the Houston Texans on Sunday, kicking off a stretch of four AFC South games in the final six weeks of the 2025 season."
     }
   ],
   "links": [
