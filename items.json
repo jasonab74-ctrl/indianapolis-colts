@@ -1,41 +1,32 @@
 {
-  "updated": "2025-12-03T15:21:45+00:00",
+  "updated": "2025-12-03T15:45:38+00:00",
   "items": [
+    {
+      "id": "5c7d0224d7c7ec4a",
+      "title": "Most accurate? Dak. Fastest rusher? Gibbs. We chose the NFL's top talent at 109 skills",
+      "link": "https://espn.com/nfl/story/_/id/47166741/best-nfl-players-109-different-skills-top-traits-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-03T15:33:49+0000",
+      "summary": "Most accurate passer? Dak Prescott. Most explosive edge rusher? Myles Garrett. We named the NFL's best players in 109 specific skill areas."
+    },
+    {
+      "id": "991f00bab6942224",
+      "title": "2026 NFL draft: New York Giants remain slated to select 2nd overall",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-york-giants-153040823.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-03T15:30:40+0000",
+      "summary": "If the regular season were to end today (and we know it doesn't), the New York Giants would select second overall in the 2026 NFL draft."
+    },
     {
       "id": "b833dbdd3b4a46ec",
       "title": "Colts make change at kicker but pass on Tucker",
       "link": "https://espn.com/nfl/story/_/id/47181223/colts-waive-kicker-michael-badgley-sign-blake-grupe",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-03T15:09:25+0000",
+      "published": "2025-12-03T15:28:43+0000",
       "summary": "The Colts waived kicker Michael Badgley on Tuesday, then signed former Saints kicker Blake Grupe to their practice squad after a tryout that included former Ravens great Justin Tucker."
-    },
-    {
-      "id": "e53d69dcd3eb64da",
-      "title": "Colt Knost is getting a promotion at CBS Sports. What's next?",
-      "link": "https://sports.yahoo.com/articles/colt-knost-getting-promotion-cbs-150118586.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T15:01:18+0000",
-      "summary": "Colt Knost will be getting fewer steps in at PGA Tour events next season as part of a new look for CBS Sports’ golf broadcast team in 2026."
-    },
-    {
-      "id": "89d8c58650504e68",
-      "title": "Carolina Panthers 2026 NFL Draft Prospect Profile: Sonny Styles",
-      "link": "https://sports.yahoo.com/articles/carolina-panthers-2026-nfl-draft-150000757.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T15:00:00+0000",
-      "summary": "Let’s take a closer look at one of the prospects the Panthers could select in the 2026 NFL Draft."
-    },
-    {
-      "id": "51c8abaffe31e8fe",
-      "title": "Patriots position grades from win over Giants in NFL Week 13",
-      "link": "https://sports.yahoo.com/articles/patriots-position-grades-win-over-150000129.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-03T15:00:00+0000",
-      "summary": "Grading each position group on the Patriots’ roster after their win in Week 13."
     },
     {
       "id": "5acfbdd8d5c969ae",
@@ -54,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-03T12:28:36+0000",
       "summary": "Daniel Jones is playing hurt, Jonathan Taylor is slumping, and the kicking game has been shaky at best."
-    },
-    {
-      "id": "5c7d0224d7c7ec4a",
-      "title": "The NFL's best at everything: Picking the top players at 109 different skills",
-      "link": "https://espn.com/nfl/story/_/id/47166741/best-nfl-players-109-different-skills-top-traits-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-03T12:21:40+0000",
-      "summary": "Most accurate passer? Dak Prescott. Most explosive edge rusher? Myles Garrett. We named the NFL's best players in 109 specific skill areas."
     },
     {
       "id": "efadaa02445af306",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-27T18:38:19+0000",
       "summary": "INDIANAPOLIS – Daniel Jones reportedly is dealing with a fractured fibula, and that likely will be the case for the remainder of the season. That’s the latest update on the Indianapolis Colts’ starting quarterback, who’s been dealing with an unspecified fibula injury for the past two weeks. The team would not confirm or deny a [...]"
+    },
+    {
+      "id": "9a68c22813b4428a",
+      "title": "There’s heightened urgency for Colts, Daniel Jones to regain earlier successes",
+      "link": "https://fox59.com/sports/colts/theres-heightened-urgency-for-colts-daniel-jones-to-regain-earlier-successes/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-26T23:41:08+0000",
+      "summary": "INDIANAPOLIS – There will be no lack of urgency Sunday at Lucas Oil Stadium. The only real issue: Which team feels it more? The Indianapolis Colts? They’ll be home for the first time in 36 days and it’s not a stretch to insist a team that has lost two of its last three – remember [...]"
+    },
+    {
+      "id": "966f7d3848deeec5",
+      "title": "Kenny Moore II, inspired by Colts' Kicking the Stigma campaign, opens up about his mental health: 'It's given me the vulnerability to speak up'",
+      "link": "https://colts.com/news/kenny-moore-ii-colts-kicking-the-stigma-my-cause-my-cleats-mental-health-awareness-cardinal-ritter",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-26T21:30:47+0000",
+      "summary": "Moore will be among the many Colts players and staff to represent Kicking the Stigma in the Colts' My Cause, My Cleats game on Sunday."
     }
   ],
   "links": [
