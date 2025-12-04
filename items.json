@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-04T08:27:57+00:00",
+  "updated": "2025-12-04T08:53:15+00:00",
   "items": [
+    {
+      "id": "fcd5b00a9f02c119",
+      "title": "Broncos are second team in NFL history to win four straight games by three points or less",
+      "link": "https://sports.yahoo.com/articles/broncos-second-team-nfl-history-084527431.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-04T08:45:27+0000",
+      "summary": "The only other team in NFL history to win four straight games by three points or less was the 1986 Giants. They went on to win the Super Bowl."
+    },
     {
       "id": "9b45751466111a41",
       "title": "Cowboys, Chiefs on Thanksgiving sets NFL record",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-28T14:00:19+0000",
       "summary": "The Colts return to Lucas Oil Stadium for the first time in over a month to host the Houston Texans on Sunday, kicking off a stretch of four AFC South games in the final six weeks of the 2025 season."
-    },
-    {
-      "id": "7bfd0f81fc6763b9",
-      "title": "Practice Notebook: Daniel Jones, Jonathan Taylor preparing to face 'tough challenge' presented by Texans defense",
-      "link": "https://colts.com/news/practice-notebook-daniel-jones-jonathan-taylor-preparing-to-face-tough-challenge-presented-by-texans-defense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-27T18:47:42+0000",
-      "summary": "The Colts play the Houston Texans in a crucial AFC South matchup at Lucas Oil Stadium on Sunday."
     }
   ],
   "links": [
