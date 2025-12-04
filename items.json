@@ -1,32 +1,23 @@
 {
-  "updated": "2025-12-04T13:35:44+00:00",
+  "updated": "2025-12-04T14:20:37+00:00",
   "items": [
     {
-      "id": "d88cbbb84afe175d",
-      "title": "3 NFL teams that cannot afford to lose in Week 14",
-      "link": "https://sports.yahoo.com/articles/3-nfl-teams-cannot-afford-132629644.html",
+      "id": "f2d83c5dd20e6753",
+      "title": "All 32 NFL quarterbacks (including Bo Nix) ranked by Total QBR in Week 14",
+      "link": "https://sports.yahoo.com/articles/32-nfl-quarterbacks-including-bo-140027139.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-04T13:26:29+0000",
-      "summary": "These three NFL teams are in must-win situations entering this weekend."
+      "published": "2025-12-04T14:00:27+0000",
+      "summary": "Bo Nix ranks 21st among starting quarterbacks with a 54.0 Total QBR rating going into Week 14."
     },
     {
-      "id": "5a7da7a6833d5c10",
-      "title": "2026 NFL draft order: Browns race to the bottom of standings, top position",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-order-browns-131121070.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-04T13:11:21+0000",
-      "summary": "The 2026 NFL draft order continues to be in flux, can the Cleveland Browns race to the bottom to get the top pick?"
-    },
-    {
-      "id": "ef1d1ea942cb17d6",
-      "title": "Why the Browns are favored against the Titans in Week 14",
-      "link": "https://sports.yahoo.com/articles/why-browns-favored-against-titans-130807838.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-04T13:08:07+0000",
-      "summary": "2 struggling NFL franchises will face off in Cleveland, Ohio with the Browns favored over the Titans in Week 14"
+      "id": "910c848bc9d8f15e",
+      "title": "Which NFL players and coaches have the most at stake? We picked out 17 under pressure",
+      "link": "https://espn.com/nfl/story/_/id/47179286/2025-nfl-season-players-coaches-most-gain-lose-pressure-stake-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-04T13:55:59+0000",
+      "summary": "Kenneth Walker III, Jonathan Gannon, Shedeur Sanders and Matt Eberflus are among those with a lot to gain -- or lose -- over the season's final five weeks."
     },
     {
       "id": "894688628700b5bb",
@@ -45,15 +36,6 @@
       "feed": "ESPN",
       "published": "2025-12-04T12:41:52+0000",
       "summary": "The Dallas Cowboys versus Kansas City Chiefs game on Thanksgiving Day averaged 57.23 million viewers on CBS, making it the most-watched regular-season game in NFL history."
-    },
-    {
-      "id": "910c848bc9d8f15e",
-      "title": "Which NFL players and coaches have the most at stake? We picked out 17 under pressure",
-      "link": "https://espn.com/nfl/story/_/id/47179286/2025-nfl-season-players-coaches-most-gain-lose-pressure-stake-playoffs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-04T12:41:49+0000",
-      "summary": "Kenneth Walker III, Jonathan Gannon, Shedeur Sanders and Matt Eberflus are among those with a lot to gain -- or lose -- over the NFL season's final five weeks."
     },
     {
       "id": "5c7d0224d7c7ec4a",
@@ -83,9 +65,9 @@
       "summary": "The Indianapolis Colts may currently be amidst a fast track to implosion, but they’ve maintained enough individual success throughout the regular season that NFL fans far and wide are noticing. The NFL held its first round of fan voting for the 2025 Pro Bowl Games this past week, with several Colts players emerging as top [&#8230;]"
     },
     {
-      "id": "200be431f28d0560",
+      "id": "6ca0b8405eea16d4",
       "title": "Colts hoping Blake Grupe steadies kicking issues",
-      "link": "https://fox59.com/sports/colts-hoping-blake-grupe-steadies-kicking-issues/",
+      "link": "https://fox59.com/sports/colts/colts-hoping-blake-grupe-steadies-kicking-issues/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-12-03T22:05:23+0000",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
+    },
+    {
+      "id": "4eb73ecd0ae9c88e",
+      "title": "Colts-Texans preview: NFL's top offense meets NFL's top defense in Week 13 AFC South showdown",
+      "link": "https://colts.com/news/colts-texans-preview-nfl-s-top-offense-meets-nfl-s-top-defense-in-week-13-afc-south-showdown",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-28T14:00:19+0000",
+      "summary": "The Colts return to Lucas Oil Stadium for the first time in over a month to host the Houston Texans on Sunday, kicking off a stretch of four AFC South games in the final six weeks of the 2025 season."
+    },
+    {
+      "id": "7bfd0f81fc6763b9",
+      "title": "Practice Notebook: Daniel Jones, Jonathan Taylor preparing to face 'tough challenge' presented by Texans defense",
+      "link": "https://colts.com/news/practice-notebook-daniel-jones-jonathan-taylor-preparing-to-face-tough-challenge-presented-by-texans-defense",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-27T18:47:42+0000",
+      "summary": "The Colts play the Houston Texans in a crucial AFC South matchup at Lucas Oil Stadium on Sunday."
     }
   ],
   "links": [
