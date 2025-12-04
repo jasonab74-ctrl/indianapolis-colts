@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T05:19:14+00:00",
+  "updated": "2025-12-04T05:43:14+00:00",
   "items": [
     {
       "id": "bcb80eb915cd5008",
@@ -18,15 +18,6 @@
       "feed": "ESPN",
       "published": "2025-12-04T04:39:06+0000",
       "summary": "The Dallas Cowboys versus Kansas City Chiefs game on Thanksgiving Day averaged 57.23 million viewers on CBS, making it the most-watched regular-season game in NFL history."
-    },
-    {
-      "id": "9d2c32a6f9b3d768",
-      "title": "Roger Goodell says NFL is considering a second Black Friday game",
-      "link": "https://sports.yahoo.com/articles/roger-goodell-says-nfl-considering-042005874.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-04T04:20:05+0000",
-      "summary": "Yes, the NFL will keep looking for ways to stuff more cheese into the pizza crust."
     },
     {
       "id": "4f7f624afce1e9a1",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-11-28T15:53:55+0000",
       "summary": "The Colts Show Mailbag returns for Week 13 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
+    },
+    {
+      "id": "4eb73ecd0ae9c88e",
+      "title": "Colts-Texans preview: NFL's top offense meets NFL's top defense in Week 13 AFC South showdown",
+      "link": "https://colts.com/news/colts-texans-preview-nfl-s-top-offense-meets-nfl-s-top-defense-in-week-13-afc-south-showdown",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-28T14:00:19+0000",
+      "summary": "The Colts return to Lucas Oil Stadium for the first time in over a month to host the Houston Texans on Sunday, kicking off a stretch of four AFC South games in the final six weeks of the 2025 season."
     }
   ],
   "links": [
