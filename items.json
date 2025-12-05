@@ -1,14 +1,50 @@
 {
-  "updated": "2025-12-05T16:24:50+00:00",
+  "updated": "2025-12-05T16:49:48+00:00",
   "items": [
     {
-      "id": "173dc3b3b33f5f36",
-      "title": "Our guide to every Week 14 NFL game: Matchup previews, predictions, picks and nuggets",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47200964/nfl-week-14-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-05T15:01:04+0000",
-      "summary": "Shedeur Sanders vs. Cam Ward. Joe Burrow vs. Josh Allen. We have picks and stats for every game."
+      "id": "a20584c5cca4b3fe",
+      "title": "Week 14 NFL odds, picks, predictions: Our NFL best bets, including a play in Texans-Chiefs",
+      "link": "https://sports.yahoo.com/nfl/betting/article/week-14-nfl-odds-picks-predictions-our-nfl-best-bets-including-a-play-in-texans-chiefs-164216226.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T16:42:16+0000",
+      "summary": "Our NFL handicappers give their best bets for Week 14 of the season."
+    },
+    {
+      "id": "71f379d047e2781e",
+      "title": "LISTEN: Derrick Henry expects a physical battle against rival Steelers in matchup for first place",
+      "link": "https://sports.yahoo.com/articles/listen-derrick-henry-expects-physical-163743145.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T16:37:43+0000",
+      "summary": "Ravens five-time Pro Bowl running back Derrick Henry discusses Baltimore’s upcoming game against the Pittsburgh Steelers for first place in the AFC North, how he’s sustained excellence for a decade in the NFL and being nominated for the Walter Payton Man of the Year award.  Various NFL Players: Hey, this is Russell Wilson.  This is Joe Montana."
+    },
+    {
+      "id": "07d8d3bb79265399",
+      "title": "Steelers S DeShon Elliott is the NFLPA Community MVP for Week 14",
+      "link": "https://sports.yahoo.com/articles/steelers-deshon-elliott-nflpa-community-162938886.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T16:29:38+0000",
+      "summary": "The NFL Players Association announced that Steelers safety DeShon Elliott has been named their Community MVP for Week 14."
+    },
+    {
+      "id": "ee50f5ab8afafbd1",
+      "title": "Former Steelers WR gets blasted by media for lack of effort",
+      "link": "https://sports.yahoo.com/articles/former-steelers-wr-gets-blasted-162911320.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T16:29:11+0000",
+      "summary": "Former NFL player Richard Sherman didn't hold back on George Pickens for his lack of effort on Thursday night."
+    },
+    {
+      "id": "c4df76eba8b02f37",
+      "title": "Eagles News: Philadelphia’s next two opponents have the worst offensive lines in the NFL",
+      "link": "https://sports.yahoo.com/articles/eagles-news-philadelphia-next-two-162908283.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T16:29:08+0000",
+      "summary": "Philadelphia Eagles news and links for 12/5/25."
     },
     {
       "id": "fad629a6c246b651",
@@ -16,7 +52,7 @@
       "link": "https://espn.com/nfl/story/_/id/47204664/vikings-justin-jefferson-one-most-difficult-seasons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-05T14:34:43+0000",
+      "published": "2025-12-05T16:29:03+0000",
       "summary": "Vikings wide receiver Justin Jefferson opened up on his frustrations Thursday, calling this season \"one of the most difficult\" in his NFL career."
     },
     {
@@ -25,7 +61,7 @@
       "link": "https://espn.com/nfl/story/_/id/47201848/darius-slay-not-reporting-bills-mulls-nfl-future",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-05T14:34:43+0000",
+      "published": "2025-12-05T16:29:02+0000",
       "summary": "Darius Slay, who was claimed by the Bills on waivers, is unsure whether he wants to continue playing and will not be reporting to Buffalo."
     },
     {
@@ -34,8 +70,17 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-05T14:34:43+0000",
+      "published": "2025-12-05T16:29:02+0000",
       "summary": "Matt Miller unveils his initial prospect rankings for the 2026 NFL draft, stacking his top 50 players and breaking down their best traits."
+    },
+    {
+      "id": "173dc3b3b33f5f36",
+      "title": "Our guide to every Week 14 NFL game: Matchup previews, predictions, picks and nuggets",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47200964/nfl-week-14-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T15:01:04+0000",
+      "summary": "Shedeur Sanders vs. Cam Ward. Joe Burrow vs. Josh Allen. We have picks and stats for every game."
     },
     {
       "id": "d6f481a19cd489de",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-30T18:14:17+0000",
       "summary": "Gardner exited the game in the first quarter."
-    },
-    {
-      "id": "e803a684c89eb973",
-      "title": "Keys to the Game: Colts vs. Texans",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-texans-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-30T17:17:20+0000",
-      "summary": "INDIANAPOLIS - The AFC South standings have suddenly tightened up after the Colts lost two of their last three games. They now enter the final stretch of the season with four critical division games, starting with Sunday's matchup with Houston. IndyStar insider Joel A. Erickson gives his keys to the game on Blue Zone if [...]"
-    },
-    {
-      "id": "eee47c892ada8130",
-      "title": "Sideline to Sideline: Favorite College Moment",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-college-moment/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-30T17:13:58+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their football careers. With Indianapolis set to host the Big Ten Championship Game next weekend between No. 1 Ohio State and No. 2 Indiana, Chris asks the players what is their favorite memory of playing college football."
-    },
-    {
-      "id": "32053153490abc56",
-      "title": "Colts announce 6 inactive players for Week 13 game vs. Houston Texans",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-13-game-vs-houston-texans-tyler-warren",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-30T16:30:53+0000",
-      "summary": "The Colts did not rule any players out due to injury prior to Sunday's game at Lucas Oil Stadium."
-    },
-    {
-      "id": "db9b47c1455d27c8",
-      "title": "Lucas Oil's roof is closed for Colts vs. Texans",
-      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-closed-for-colts-vs-texans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-30T16:16:07+0000",
-      "summary": "INDIANAPOLIS — The roof is closed as the Colts prepare to defend home turf against the 6-5 Houston Texans.  The Indianapolis Colts enter the matchup with an 8-3 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts dropped a 20-23 contest against [...]"
-    },
-    {
-      "id": "cf8ae5e26ac36fb2",
-      "title": "How to watch the Houston Texans at Indianapolis Colts on November 30, 2025",
-      "link": "https://colts.com/news/how-to-watch-texans-at-colts-week-13-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-30T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Houston Texans at Indianapolis Colts on Sunday, November 30 at 1:00 p.m. ET (Week 13)."
     }
   ],
   "links": [
