@@ -1,6 +1,96 @@
 {
-  "updated": "2025-12-05T11:39:05+00:00",
+  "updated": "2025-12-05T12:40:03+00:00",
   "items": [
+    {
+      "id": "0a192a7eb836f79c",
+      "title": "New NFL draft rankings: Miller stacks the top 50 prospects on his board",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T12:27:05+0000",
+      "summary": "Matt Miller unveils his initial prospect rankings for the 2026 NFL draft, stacking his top 50 players and breaking down their best traits."
+    },
+    {
+      "id": "012b8d1564f752a0",
+      "title": "NFL Week 14's fashionable arrivals, featuring Cowboys WR CeeDee Lamb",
+      "link": "https://espn.com/nfl/story/_/id/47205229/nfl-week-14-fashionable-arrivals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T12:26:10+0000",
+      "summary": "Players around the league made sure to show out with fashionable arrivals in Week 14."
+    },
+    {
+      "id": "74e5e13f684c30a2",
+      "title": "My Cause, My Cleats: Players step out in support of the V Foundation and other causes",
+      "link": "https://espn.com/nfl/story/_/id/47194192/nfl-players-honor-v-foundation-custom-cleats",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T12:26:10+0000",
+      "summary": "NFL players use custom cleats to spotlight cancer research and other causes close to their hearts."
+    },
+    {
+      "id": "99b61d598051f495",
+      "title": "Titans Chimere Dike leads the NFL in all-purpose yards this season",
+      "link": "https://sports.yahoo.com/articles/titans-chimere-dike-leads-nfl-122421007.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T12:24:21+0000",
+      "summary": "Dike has a surprising 1,921 yards, ahead of Christian McCaffrey, Bijan Robinson, and Jonathan Taylor, a gap that has turned heads around the league"
+    },
+    {
+      "id": "7845fa7199c6d680",
+      "title": "Colts teammates praise Daniel Jones for playing through pain",
+      "link": "https://espn.com/nfl/story/_/id/47204700/indianapolis-colts-daniel-jones-plays-pain",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T12:20:20+0000",
+      "summary": "Jones has soldiered on despite a left fibula stress fracture, and the Colts love him for it."
+    },
+    {
+      "id": "b82199e175b21f54",
+      "title": "10 NFL veterans who could unexpectedly be on the move this offseason: Surprise cut, trade candidates",
+      "link": "https://espn.com/nfl/story/_/id/47201187/2026-nfl-offseason-predictions-surprise-candidates-cuts-free-agents-trades-salary-cap",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T12:20:17+0000",
+      "summary": "Would the Eagles trade A.J. Brown in the offseason? Could the Ravens face salary cap decisions on two stars? Is Kyler Murray's time in Arizona running out?"
+    },
+    {
+      "id": "9cbff580a9a2569c",
+      "title": "NFC wild-card standings: How Lions' win over Cowboys impacts 2025 NFL playoff picture",
+      "link": "https://sports.yahoo.com/articles/nfc-wild-card-standings-lions-044138067.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T12:17:00+0000",
+      "summary": "Thursday's Week 14 matchup had some significant consequences for the bottom of the potential NFC playoff bracket."
+    },
+    {
+      "id": "173dc3b3b33f5f36",
+      "title": "Our guide to every Week 14 NFL game: Matchup previews, predictions, picks and nuggets",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47200964/nfl-week-14-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T12:16:43+0000",
+      "summary": "Shedeur Sanders vs. Cam Ward? Joe Burrow vs. Josh Allen? Picks, predictions and stats for every Week 14 game."
+    },
+    {
+      "id": "4349f9863cc1e988",
+      "title": "Cowboys vs. Lions final score, results: Detroit keeps playoff hopes alive, while Dallas' chances plummet with loss",
+      "link": "https://sports.yahoo.com/articles/cowboys-vs-lions-live-score-220002557.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T12:12:00+0000",
+      "summary": "The Sporting News tracked scoring updates and highlights for Cowboys vs. Lions on &quot;Thursday Night Football.&quot; Here are the complete results from the NFL Week 14 prime-time game."
+    },
+    {
+      "id": "d6f481a19cd489de",
+      "title": "Myles Garrett's journey to the NFL sack record: 'It is written'",
+      "link": "https://espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-05T11:00:05+0000",
+      "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
+    },
     {
       "id": "fad629a6c246b651",
       "title": "Vikes' Jefferson: '25 one of most difficult seasons",
@@ -27,15 +117,6 @@
       "feed": "ESPN",
       "published": "2025-12-05T07:58:50+0000",
       "summary": "We named the NFL's best players in 109 specific skill areas. Where do Dak Prescott, Myles Garrett, Jahmyr Gibbs and others stand out?"
-    },
-    {
-      "id": "012b8d1564f752a0",
-      "title": "NFL Week 14's fashionable arrivals, featuring Cowboys WR CeeDee Lamb",
-      "link": "https://espn.com/nfl/story/_/id/47205229/nfl-week-14-fashionable-arrivals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-05T00:02:31+0000",
-      "summary": "Players around the league made sure to show out with fashionable arrivals in Week 14."
     },
     {
       "id": "67b5c952ace06340",
@@ -117,33 +198,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-04T16:45:07+0000",
       "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
-    },
-    {
-      "id": "74e5e13f684c30a2",
-      "title": "My Cause, My Cleats: Players step out in support of the V Foundation and other causes",
-      "link": "https://espn.com/nfl/story/_/id/47194192/nfl-players-honor-v-foundation-custom-cleats",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-04T15:47:17+0000",
-      "summary": "NFL players use custom cleats to spotlight cancer research and other causes close to their hearts."
-    },
-    {
-      "id": "3e204fa966c9efb1",
-      "title": "The Playbook: Shadow Reports, lineup locks for Week 14",
-      "link": "https://espn.com/fantasy/football/story/_/id/47176232/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-14-shadow-reports-mike-clay",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-04T15:24:17+0000",
-      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
-    },
-    {
-      "id": "910c848bc9d8f15e",
-      "title": "Barnwell's end of the year prove-it list: 17 NFL coaches and players with something at stake",
-      "link": "https://espn.com/nfl/story/_/id/47179286/2025-nfl-season-players-coaches-most-gain-lose-pressure-stake-playoffs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-04T15:07:39+0000",
-      "summary": "Kenneth Walker III, Jonathan Gannon, Shedeur Sanders and Matt Eberflus are among those with a lot to gain -- or lose -- over the season's final five weeks."
     },
     {
       "id": "f6017ad34edebbcf",
@@ -254,15 +308,6 @@
       "summary": "According to NFL Network’s Ian Rapoport and Tom Pelissero, Indianapolis Colts former NFL All-Pro cornerback Sauce Gardner will not currently be placed on injured reserve with the calf strain he suffered during last Sunday’s home loss to the Houston Texans: Not only did Gardner seemingly avoid a long-term injury this year, such as a torn [&#8230;]"
     },
     {
-      "id": "b9bb72dbad80aedd",
-      "title": "Survivor pool strategy: Broncos, Packers among top options in Week 14",
-      "link": "https://espn.com/espn/betting/story/_/id/47189712/nfl-eliminator-challenge-week-14-survivor-pool-strategy-advice-picks-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-03T17:08:28+0000",
-      "summary": "NFL survivor pool strategy, predictions and picks for ESPN Eliminator Challenge Week 14, including teams to pick or save for later."
-    },
-    {
       "id": "5acfbdd8d5c969ae",
       "title": "Colts sign K Blake Grupe to practice squad, release C Jimmy Morrissey from practice squad",
       "link": "https://colts.com/news/colts-sign-k-blake-grupe-to-practice-squad-release-jimmy-morrissey",
@@ -324,15 +369,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-02T19:42:08+0000",
       "summary": "INDIANAPOLIS — The annual My Cause My Cleats game is one of the NFL’s best campaigns, giving players the chance to raise money and awareness for various initiatives. Colts linebacker Chad Muma’s life changed when he was diagnosed with Type 1 diabetes as a teenager. Once he got to the NFL, he created his own foundation, [...]"
-    },
-    {
-      "id": "16e41a21c2fa1ca4",
-      "title": "Welcome to NFL draft season: 30 questions on the QBs, standout prospects and risers to watch",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47097046/2026-nfl-draft-questions-top-prospects-qb-class-risers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-02T16:25:50+0000",
-      "summary": "Who's in the hunt to go No. 1? How does the QB class look? Which teams need defense? And who could rise at the combine? Let's answer big questions on this class."
     },
     {
       "id": "c1e8b46700cefe75",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-11-30T17:17:20+0000",
       "summary": "INDIANAPOLIS - The AFC South standings have suddenly tightened up after the Colts lost two of their last three games. They now enter the final stretch of the season with four critical division games, starting with Sunday's matchup with Houston. IndyStar insider Joel A. Erickson gives his keys to the game on Blue Zone if [...]"
-    },
-    {
-      "id": "eee47c892ada8130",
-      "title": "Sideline to Sideline: Favorite College Moment",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-favorite-college-moment/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-30T17:13:58+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their football careers. With Indianapolis set to host the Big Ten Championship Game next weekend between No. 1 Ohio State and No. 2 Indiana, Chris asks the players what is their favorite memory of playing college football."
-    },
-    {
-      "id": "32053153490abc56",
-      "title": "Colts announce 6 inactive players for Week 13 game vs. Houston Texans",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-13-game-vs-houston-texans-tyler-warren",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-30T16:30:53+0000",
-      "summary": "The Colts did not rule any players out due to injury prior to Sunday's game at Lucas Oil Stadium."
-    },
-    {
-      "id": "db9b47c1455d27c8",
-      "title": "Lucas Oil's roof is closed for Colts vs. Texans",
-      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-closed-for-colts-vs-texans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-30T16:16:07+0000",
-      "summary": "INDIANAPOLIS — The roof is closed as the Colts prepare to defend home turf against the 6-5 Houston Texans.  The Indianapolis Colts enter the matchup with an 8-3 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts dropped a 20-23 contest against [...]"
-    },
-    {
-      "id": "cf8ae5e26ac36fb2",
-      "title": "How to watch the Houston Texans at Indianapolis Colts on November 30, 2025",
-      "link": "https://colts.com/news/how-to-watch-texans-at-colts-week-13-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-30T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Houston Texans at Indianapolis Colts on Sunday, November 30 at 1:00 p.m. ET (Week 13)."
     }
   ],
   "links": [
