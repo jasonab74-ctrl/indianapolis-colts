@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-05T07:20:04+00:00",
+  "updated": "2025-12-05T07:40:22+00:00",
   "items": [
+    {
+      "id": "ce92386325d51f0d",
+      "title": "Longhorns Daily News: Texas QB Arch Manning among this year’s Earl Campbell Tyler Rose Award semifinalists",
+      "link": "https://sports.yahoo.com/articles/longhorns-daily-news-texas-qb-073148009.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T07:31:48+0000",
+      "summary": "Longhorns starting quarterback Arch Manning is among this year’s 22 semifinalists for the Earl Campbell Tyler Rose Award, the award’s committee representatives announced earlier this week. The award is designated for FBS’ top offensive player who also incorporates traits associated with the award’s namesake, former Texas running back and NFL legend Earl Campbell, such as […]"
+    },
     {
       "id": "fad629a6c246b651",
       "title": "Vikes' Jefferson: '25 one of most difficult seasons",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-30T16:30:53+0000",
       "summary": "The Colts did not rule any players out due to injury prior to Sunday's game at Lucas Oil Stadium."
-    },
-    {
-      "id": "db9b47c1455d27c8",
-      "title": "Lucas Oil's roof is closed for Colts vs. Texans",
-      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-closed-for-colts-vs-texans/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-11-30T16:16:07+0000",
-      "summary": "INDIANAPOLIS — The roof is closed as the Colts prepare to defend home turf against the 6-5 Houston Texans.  The Indianapolis Colts enter the matchup with an 8-3 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts dropped a 20-23 contest against [...]"
     }
   ],
   "links": [
