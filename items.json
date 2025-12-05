@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-05T05:18:59+00:00",
+  "updated": "2025-12-05T05:43:51+00:00",
   "items": [
     {
       "id": "4349f9863cc1e988",
@@ -27,33 +27,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-05T05:02:00+0000",
       "summary": "Here's a closer look at the Dallas Cowboys' chances to make the postseason."
-    },
-    {
-      "id": "08ef98d024134e88",
-      "title": "Lions playoff picture: Updated chances for Detroit to make 2025 NFL postseason after Week 14 win over Cowboys",
-      "link": "https://sports.yahoo.com/articles/lions-playoff-picture-updated-chances-070001076.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-05T04:46:00+0000",
-      "summary": "Here's a closer look at the Detroit Lions' chances to make the postseason."
-    },
-    {
-      "id": "c2be709313afeca9",
-      "title": "Lions' Jahmyr Gibbs makes football history only ever done before by Barry Sanders in entire NFL",
-      "link": "https://sports.yahoo.com/articles/lions-jahmyr-gibbs-makes-football-044320344.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-05T04:43:20+0000",
-      "summary": "This is magic from Gibbs."
-    },
-    {
-      "id": "5a319019b2ebd274",
-      "title": "Amon-Ra St. Brown, Lions out-tough Cowboys 44-30 to boost playoff odds",
-      "link": "https://sports.yahoo.com/articles/amon-ra-st-brown-lions-043721008.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-05T04:37:21+0000",
-      "summary": "Jahmyr Gibbs ran for 3 TDs, Amon-Ra St. Brown had a key catch late in the 4th quarter and Detroit Lions stayed alive in NFL playoff hunt vs Cowboys."
     },
     {
       "id": "fad629a6c246b651",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-11-30T22:15:47+0000",
       "summary": "Badgley has now missed three PATs this season."
+    },
+    {
+      "id": "1d6bdb4d337e5a35",
+      "title": "Texans hand Colts second straight loss, 20-16",
+      "link": "https://fox59.com/sports/colts/texans-hand-colts-second-straight-loss-20-16/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-30T21:02:55+0000",
+      "summary": "INDIANAPOLIS — The race for the AFC South Division title is heating up. The Colts fell to the Texans, 20-16, on Sunday at Lucas Oil Stadium. Indianapolis has lost three of its last four games. The Colts and Jaguars are now tied atop the division at 8-4 after Jacksonville blew out Tennessee on Sunday. The [...]"
+    },
+    {
+      "id": "9ecdf465837937f0",
+      "title": "Colts unable to mount comeback vs. Houston Texans, losing first home game of season",
+      "link": "https://colts.com/news/colts-first-home-loss-houston-texans-alec-pierce-josh-downs-daniel-jones-cj-stroud-week-13",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T21:01:56+0000",
+      "summary": "The Colts lost 20-16 at Lucas Oil Stadium on Sunday, falling to 8-4."
+    },
+    {
+      "id": "d7db94ef3633d917",
+      "title": "Sauce Gardner sustains calf injury in first quarter of Colts' Week 13 game vs. Texans, will not return",
+      "link": "https://colts.com/news/sauce-gardner-sustains-calf-injury-in-first-quarter-of-colts-week-13-game-vs-texans-questionable-to-return",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T18:14:17+0000",
+      "summary": "Gardner exited the game in the first quarter."
     }
   ],
   "links": [
