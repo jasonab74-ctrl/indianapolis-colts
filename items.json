@@ -1,23 +1,23 @@
 {
-  "updated": "2025-12-05T20:21:45+00:00",
+  "updated": "2025-12-05T20:43:36+00:00",
   "items": [
+    {
+      "id": "00513459094881fb",
+      "title": "NFL picks, predictions for Week 14:Baltimore Ravens vs Pittsburgh Steelers",
+      "link": "https://sports.yahoo.com/articles/nfl-picks-predictions-week-14-202650850.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-05T20:26:50+0000",
+      "summary": "Picks and predictions for the Baltimore Ravens and Pittsburgh Steelers Week 14 NFL matchup at M&amp;T Bank Stadium."
+    },
     {
       "id": "0a192a7eb836f79c",
       "title": "🏈 2026 draft rankings: Miller's top 50 prospects",
       "link": "https://espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-05T20:20:04+0000",
+      "published": "2025-12-05T20:24:58+0000",
       "summary": "Matt Miller unveils his initial prospect rankings for the 2026 NFL draft, stacking his top 50 players and breaking down their best traits."
-    },
-    {
-      "id": "a33b7c0fe551c92e",
-      "title": "Exclusive Booger McFarland Interview: ACL's & NFL coaching hot seats",
-      "link": "https://sports.yahoo.com/articles/exclusive-booger-mcfarland-interview-acls-201203946.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-05T20:12:03+0000",
-      "summary": "It seems like we take one step forward with head injuries and two steps back when it comes to ACL injuries."
     },
     {
       "id": "7845fa7199c6d680",
@@ -36,24 +36,6 @@
       "feed": "ESPN",
       "published": "2025-12-05T20:05:42+0000",
       "summary": "Would the Eagles trade A.J. Brown in the offseason? Could the Ravens face salary cap decisions on two stars? Is Kyler Murray's time in Arizona running out?"
-    },
-    {
-      "id": "583a3308d92d3780",
-      "title": "Fantasy Football Live! Watch Sunday for last-minute start/sit advice and rankings updates for Week 14",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-live-watch-sunday-for-last-minute-startsit-advice-and-rankings-updates-for-week-14-200503735.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-05T20:05:03+0000",
-      "summary": "Week 14 of the NFL season is here, so lean on Fantasy Football Live to help get your lineup ready on Sunday."
-    },
-    {
-      "id": "7d2af18cb102b1e2",
-      "title": "Nebraska running back Emmett Johnson declares for the NFL draft",
-      "link": "https://sports.yahoo.com/articles/nebraska-running-back-emmett-johnson-200255161.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-05T20:02:55+0000",
-      "summary": "Nebraska running back Emmett Johnson declared for the NFL draft on Friday."
     },
     {
       "id": "179e6faecba75ff0",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-11-30T17:13:58+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their football careers. With Indianapolis set to host the Big Ten Championship Game next weekend between No. 1 Ohio State and No. 2 Indiana, Chris asks the players what is their favorite memory of playing college football."
+    },
+    {
+      "id": "32053153490abc56",
+      "title": "Colts announce 6 inactive players for Week 13 game vs. Houston Texans",
+      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-13-game-vs-houston-texans-tyler-warren",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T16:30:53+0000",
+      "summary": "The Colts did not rule any players out due to injury prior to Sunday's game at Lucas Oil Stadium."
+    },
+    {
+      "id": "db9b47c1455d27c8",
+      "title": "Lucas Oil's roof is closed for Colts vs. Texans",
+      "link": "https://fox59.com/sports/colts/lucas-oils-roof-is-closed-for-colts-vs-texans/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-30T16:16:07+0000",
+      "summary": "INDIANAPOLIS — The roof is closed as the Colts prepare to defend home turf against the 6-5 Houston Texans.  The Indianapolis Colts enter the matchup with an 8-3 record and are determined to add another notch in the win column in front of their hometown fans.  Last week, the Colts dropped a 20-23 contest against [...]"
     }
   ],
   "links": [
