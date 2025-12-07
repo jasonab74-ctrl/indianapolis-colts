@@ -1,13 +1,22 @@
 {
-  "updated": "2025-12-06T23:38:16+00:00",
+  "updated": "2025-12-07T01:43:33+00:00",
   "items": [
+    {
+      "id": "1e7d077b3e2b6043",
+      "title": "Raiders-Broncos Preview Capsule: Top prop players to watch",
+      "link": "https://sports.yahoo.com/articles/raiders-broncos-preview-capsule-top-013029938.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-07T01:30:29+0000",
+      "summary": "The Denver Broncos aren't the prettiest division leader, but they could be regarded as one of the most dangerous with one of the most stringent defensive units in the NFL."
+    },
     {
       "id": "e685e763937be5a1",
       "title": "AB eyes case dismissal, cites 'Stand Your Ground'",
       "link": "https://espn.com/nfl/story/_/id/47223268/antonio-brown-eyes-case-dismissal-cites-stand-your-ground",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-06T23:13:49+0000",
+      "published": "2025-12-07T00:33:38+0000",
       "summary": "Former NFL wide receiver Antonio Brown filed a motion this week to dismiss the second-degree attempted murder charge against him in Miami based on Florida's \"Stand Your Ground\" law."
     },
     {
@@ -16,8 +25,17 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-06T23:13:49+0000",
+      "published": "2025-12-07T00:33:38+0000",
       "summary": "Matt Miller unveils his initial prospect rankings for the 2026 NFL draft, stacking his top 50 players and breaking down their best traits."
+    },
+    {
+      "id": "f58893fd3cd8e7ef",
+      "title": "One more look at NFL Week 14: We have sleepers, QB questions, trends to watch and more",
+      "link": "https://espn.com/nfl/story/_/id/47192594/2025-nfl-week-14-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-07T00:00:37+0000",
+      "summary": "Can the Falcons stop Jaxon Smith-Njigba? Does Adonai Mitchell have fantasy upside? Could the Raiders put the Broncos on upset watch?"
     },
     {
       "id": "012b8d1564f752a0",
@@ -36,15 +54,6 @@
       "feed": "ESPN",
       "published": "2025-12-06T22:30:21+0000",
       "summary": "NFL players use custom cleats to spotlight cancer research and other causes close to their hearts."
-    },
-    {
-      "id": "f58893fd3cd8e7ef",
-      "title": "One more look at NFL Week 14: We have sleepers, QB questions, trends to watch and more",
-      "link": "https://espn.com/nfl/story/_/id/47192594/2025-nfl-week-14-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-06T22:28:49+0000",
-      "summary": "Can the Falcons stop Jaxon Smith-Njigba? Does Adonai Mitchell have fantasy upside? Could the Raiders put the Broncos on upset watch?"
     },
     {
       "id": "0cb6720311c467b4",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-11-30T21:01:56+0000",
       "summary": "The Colts lost 20-16 at Lucas Oil Stadium on Sunday, falling to 8-4."
-    },
-    {
-      "id": "d7db94ef3633d917",
-      "title": "Sauce Gardner sustains calf injury in first quarter of Colts' Week 13 game vs. Texans, will not return",
-      "link": "https://colts.com/news/sauce-gardner-sustains-calf-injury-in-first-quarter-of-colts-week-13-game-vs-texans-questionable-to-return",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-11-30T18:14:17+0000",
-      "summary": "Gardner exited the game in the first quarter."
     }
   ],
   "links": [
