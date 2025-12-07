@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-07T11:14:26+00:00",
+  "updated": "2025-12-07T11:36:39+00:00",
   "items": [
+    {
+      "id": "3ba440941c8a7fd7",
+      "title": "Sunday Dawg Chow (12/7): A day for hot takes on rookie QBs",
+      "link": "https://sports.yahoo.com/articles/sunday-dawg-chow-12-7-113000499.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-07T11:30:00+0000",
+      "summary": "﻿﻿﻿The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow."
+    },
     {
       "id": "f45f6ca6a7af31b6",
       "title": "Can Myles Garrett break NFL sack record against Titans?",
@@ -27,60 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-07T11:01:41+0000",
       "summary": "Are the New England Patriots playing today? Here's a look at the NFL schedule and games today and which teams are on a bye this week."
-    },
-    {
-      "id": "4e5ca4c619350dbc",
-      "title": "Chiefs playoff picture: Updated chances for Kansas City to make 2025 NFL postseason in Week 14",
-      "link": "https://sports.yahoo.com/articles/chiefs-playoff-picture-updated-chances-110001663.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T11:00:01+0000",
-      "summary": "Here's a closer look at the Kansas City Chiefs' chances to make the postseason."
-    },
-    {
-      "id": "deabf0908ba84f79",
-      "title": "Commanders vs Vikings NFL Week 14: How to watch, TV schedule, online stream, injury report and more",
-      "link": "https://sports.yahoo.com/articles/commanders-vs-vikings-nfl-week-110000507.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T11:00:00+0000",
-      "summary": "How to watch, listen to, and stream the Washington Commanders vs Minnesota Vikings"
-    },
-    {
-      "id": "88047bfdf859ded1",
-      "title": "Is Taylor Swift at Chiefs vs. Texans today? Updates on if star is watching Travis Kelce in NFL Week 14 game",
-      "link": "https://sports.yahoo.com/articles/taylor-swift-chiefs-vs-texans-105001833.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T10:50:01+0000",
-      "summary": "The Sporting News has all the updates on whether Taylor Swift is at the Chiefs vs. Texans game."
-    },
-    {
-      "id": "2250f3c21aed7b14",
-      "title": "NFL quarterback ranking: Where does Jets' Tyrod Taylor sit in Week 14?",
-      "link": "https://sports.yahoo.com/articles/nfl-quarterback-ranking-where-does-104542326.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T10:45:42+0000",
-      "summary": "Here's where Jets QB Tyrod Taylor ranks among his peers heading in Week 14."
-    },
-    {
-      "id": "a15df8a58170228b",
-      "title": "NFL quarterback rankings: Where does Bills' Josh Allen sit in Week 14?",
-      "link": "https://sports.yahoo.com/articles/nfl-quarterback-rankings-where-does-104532777.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T10:45:32+0000",
-      "summary": "Here's where Bills QB Josh Allen ranks among his peers heading in Week 14."
-    },
-    {
-      "id": "6bb22cc93a52f434",
-      "title": "How to watch Chiefs vs. Texans today: Time, TV channel for Week 14",
-      "link": "https://sports.yahoo.com/articles/watch-chiefs-vs-texans-today-104516981.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T10:45:16+0000",
-      "summary": "Here's everything you need to know to watch the Kansas City Chiefs take on the Houston Texans in Week 14 of the 2025 NFL season."
     },
     {
       "id": "e685e763937be5a1",
@@ -540,6 +495,51 @@
       "feed": "CBS4Indy",
       "published": "2025-12-01T14:19:04+0000",
       "summary": "The Indianapolis Colts dropped a key AFC South game to the Houston Texans at Lucas Oil Stadium. The loss took the Colts out of the divisional lead and kicked them back to a Wild Card spot in the playoff race. Matt Adams recaps the game in the latest Blue Zone Podcast. Find the Colts Blue [...]"
+    },
+    {
+      "id": "adb33b020690990f",
+      "title": "Colts Notebook: Refs stand by controversial calls",
+      "link": "https://fox59.com/sports/colts/colts-notebook-refs-stand-by-controversial-calls/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-01T01:47:56+0000",
+      "summary": "INDIANAPOLIS — The sellout crowd at Lucas Oil Stadium Sunday had had enough. It was early in the fourth quarter in a 13-13 game, and the Houston Texans were driving. Third-and-15 at the Colts 25-yard line. First, the play clock seemed to expire as C.J. Stroud was waiting for the shotgun snap. No penalty. Next, [...]"
+    },
+    {
+      "id": "1821d030362b074c",
+      "title": "Colts’ slide continues with loss to Houston; things are teetering",
+      "link": "https://fox59.com/sports/colts/colts-slide-continues-with-loss-to-houston-things-are-teetering/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-01T01:04:32+0000",
+      "summary": "INDIANAPOLIS — A team that not so long ago was the toast of the NFL and AFC has sprung some serious leaks, and is listing. In fact, the Indianapolis Colts are another loss — they’re at Death Valley/Jacksonville next Sunday — away from everyone outside of the locker room reaching for the panic button. Many [...]"
+    },
+    {
+      "id": "60afa88800a0acc2",
+      "title": "As Colts' lead in AFC South evaporates, team looks inward after loss to Texans: 'We've got to get back on track this week against Jacksonville'",
+      "link": "https://colts.com/news/as-colts-lead-in-afc-south-evaporates-team-looks-inward-after-loss-to-texans-we-ve-got-to-get-back-on-track-this-week-against-jacksonville",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T23:03:57+0000",
+      "summary": "The Colts' 20-16 loss to the Houston Texans on Sunday was their third in four games, and, for now, dropped them out of first place in the AFC South."
+    },
+    {
+      "id": "6b1991c5d473769e",
+      "title": "Colts cornerback Sauce Gardner provides update on calf injury",
+      "link": "https://colts.com/news/colts-cornerback-sauce-gardner-provides-update-on-calf-injury-houston-texans-week-13",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T22:34:08+0000",
+      "summary": "Gardner sustained a calf injury early in the first quarter of the Colts' Week 13 game against the Houston Texans on Sunday."
+    },
+    {
+      "id": "6b206fa5dc0bdcf8",
+      "title": "Colts decline to blame controversial officiating decisions on Week 13 loss to Texans: 'You gotta live with it regardless'",
+      "link": "https://colts.com/news/colts-decline-to-blame-controversial-officiating-decisions-on-week-13-loss-to-texans-you-gotta-live-with-it-regardless",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T22:32:52+0000",
+      "summary": "Three controversial officiating decisions were part of the Houston Texans' go-ahead touchdown drive in the fourth quarter of Sunday's game at Lucas Oil Stadium."
     }
   ],
   "links": [
