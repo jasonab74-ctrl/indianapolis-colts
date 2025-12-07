@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-07T08:23:06+00:00",
+  "updated": "2025-12-07T08:44:22+00:00",
   "items": [
     {
       "id": "99abcb63acc83732",
@@ -36,24 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-07T07:50:02+0000",
       "summary": "The Broncos take their 10-2 record into Las Vegas."
-    },
-    {
-      "id": "513310a85db51b58",
-      "title": "What channel is Buccaneers vs. Saints on today? Live stream, time, TV schedule to watch NFL Week 14 game",
-      "link": "https://sports.yahoo.com/articles/channel-buccaneers-vs-saints-today-073002957.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T07:30:02+0000",
-      "summary": "The Buccaneers look to continue their playoff push against the Saints."
-    },
-    {
-      "id": "bb5685997c8ce08d",
-      "title": "What channel is Ravens vs. Steelers on today? Live stream, time, TV schedule to watch NFL Week 14 game",
-      "link": "https://sports.yahoo.com/articles/channel-ravens-vs-steelers-today-072002238.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T07:20:02+0000",
-      "summary": "Here's how to watch this crucial AFC North matchup."
     },
     {
       "id": "e685e763937be5a1",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-11-30T23:03:57+0000",
       "summary": "The Colts' 20-16 loss to the Houston Texans on Sunday was their third in four games, and, for now, dropped them out of first place in the AFC South."
+    },
+    {
+      "id": "6b1991c5d473769e",
+      "title": "Colts cornerback Sauce Gardner provides update on calf injury",
+      "link": "https://colts.com/news/colts-cornerback-sauce-gardner-provides-update-on-calf-injury-houston-texans-week-13",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T22:34:08+0000",
+      "summary": "Gardner sustained a calf injury early in the first quarter of the Colts' Week 13 game against the Houston Texans on Sunday."
+    },
+    {
+      "id": "6b206fa5dc0bdcf8",
+      "title": "Colts decline to blame controversial officiating decisions on Week 13 loss to Texans: 'You gotta live with it regardless'",
+      "link": "https://colts.com/news/colts-decline-to-blame-controversial-officiating-decisions-on-week-13-loss-to-texans-you-gotta-live-with-it-regardless",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T22:32:52+0000",
+      "summary": "Three controversial officiating decisions were part of the Houston Texans' go-ahead touchdown drive in the fourth quarter of Sunday's game at Lucas Oil Stadium."
     }
   ],
   "links": [
