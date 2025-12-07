@@ -1,42 +1,6 @@
 {
-  "updated": "2025-12-07T08:44:22+00:00",
+  "updated": "2025-12-07T09:18:10+00:00",
   "items": [
-    {
-      "id": "99abcb63acc83732",
-      "title": "Updated 2026 NFL Draft order: Titans, Saints on pace to claim top selections entering Week 14",
-      "link": "https://sports.yahoo.com/articles/updated-2026-nfl-draft-order-080002341.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T08:00:02+0000",
-      "summary": "Can anyone get in the Titans' way of another No. 1 pick?"
-    },
-    {
-      "id": "05423f74c8d7754f",
-      "title": "Bills playoff picture: Updated chances for Buffalo to make 2025 NFL postseason in Week 14",
-      "link": "https://sports.yahoo.com/articles/bills-playoff-picture-updated-chances-080002683.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T08:00:02+0000",
-      "summary": "Here's a closer latest look at the Buffalo Bills' chances to either win the AFC East or earn a wild-card berth."
-    },
-    {
-      "id": "e7c1a46a11416223",
-      "title": "What channel is Packers vs. Bears on today? Live stream, time, TV schedule to watch NFL Week 14 game",
-      "link": "https://sports.yahoo.com/articles/channel-packers-vs-bears-today-080002160.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T08:00:02+0000",
-      "summary": "All you need to know to watch Packers vs. Bears in Week 14, including TV and live streaming info."
-    },
-    {
-      "id": "23cd1fa9b5d82908",
-      "title": "What channel is Raiders vs. Broncos on today? Live stream, time, TV schedule to watch NFL Week 14 game",
-      "link": "https://sports.yahoo.com/articles/channel-raiders-vs-broncos-today-075002855.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T07:50:02+0000",
-      "summary": "The Broncos take their 10-2 record into Las Vegas."
-    },
     {
       "id": "e685e763937be5a1",
       "title": "AB eyes case dismissal, cites 'Stand Your Ground'",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-11-30T22:32:52+0000",
       "summary": "Three controversial officiating decisions were part of the Houston Texans' go-ahead touchdown drive in the fourth quarter of Sunday's game at Lucas Oil Stadium."
+    },
+    {
+      "id": "e2d8c67a86470193",
+      "title": "Colts kicker Michael Badgley on missed PAT vs. Texans: 'You got to make those points'",
+      "link": "https://colts.com/news/colts-kicker-michael-badgley-on-missed-pat-vs-texans-you-got-to-make-those-points",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T22:15:47+0000",
+      "summary": "Badgley has now missed three PATs this season."
+    },
+    {
+      "id": "1d6bdb4d337e5a35",
+      "title": "Texans hand Colts second straight loss, 20-16",
+      "link": "https://fox59.com/sports/colts/texans-hand-colts-second-straight-loss-20-16/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-11-30T21:02:55+0000",
+      "summary": "INDIANAPOLIS — The race for the AFC South Division title is heating up. The Colts fell to the Texans, 20-16, on Sunday at Lucas Oil Stadium. Indianapolis has lost three of its last four games. The Colts and Jaguars are now tied atop the division at 8-4 after Jacksonville blew out Tennessee on Sunday. The [...]"
+    },
+    {
+      "id": "9ecdf465837937f0",
+      "title": "Colts unable to mount comeback vs. Houston Texans, losing first home game of season",
+      "link": "https://colts.com/news/colts-first-home-loss-houston-texans-alec-pierce-josh-downs-daniel-jones-cj-stroud-week-13",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T21:01:56+0000",
+      "summary": "The Colts lost 20-16 at Lucas Oil Stadium on Sunday, falling to 8-4."
+    },
+    {
+      "id": "d7db94ef3633d917",
+      "title": "Sauce Gardner sustains calf injury in first quarter of Colts' Week 13 game vs. Texans, will not return",
+      "link": "https://colts.com/news/sauce-gardner-sustains-calf-injury-in-first-quarter-of-colts-week-13-game-vs-texans-questionable-to-return",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-11-30T18:14:17+0000",
+      "summary": "Gardner exited the game in the first quarter."
     }
   ],
   "links": [
