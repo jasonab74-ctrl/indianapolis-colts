@@ -1,6 +1,42 @@
 {
-  "updated": "2025-12-08T04:52:47+00:00",
+  "updated": "2025-12-08T05:21:37+00:00",
   "items": [
+    {
+      "id": "3e87db320796a1e5",
+      "title": "Texans playoff picture: Updated chances for Houston to make 2025 NFL postseason after Week 14 win vs. Chiefs",
+      "link": "https://sports.yahoo.com/articles/texans-playoff-picture-updated-chances-113001256.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T04:55:00+0000",
+      "summary": "Here is a look at Houston's path to the playoffs in Week 14."
+    },
+    {
+      "id": "afba0ec1a87b9b8c",
+      "title": "Will Daniel Jones start for the Colts in '26? Is the front office safe? Key questions for Indy",
+      "link": "https://espn.com/nfl/story/_/id/47242281/indianapolis-colts-daniel-jones-shane-steichen-chris-ballard-anthony-richardson",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T04:54:31+0000",
+      "summary": "Will coach Shane Steichen and GM Chris Ballard survive a late-season freefall? What's next at QB in Indy?"
+    },
+    {
+      "id": "82a8aeebd65642a9",
+      "title": "NFL playoff picture: What Jaguars win over Colts means in AFC standings",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-jaguars-win-211645125.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T04:46:52+0000",
+      "summary": "How Jacksonville’s win over Indianapolis impacted the AFC South standings, as well as the AFC overall"
+    },
+    {
+      "id": "4798bc5e4f89b613",
+      "title": "NFL standings: Updated AFC, NFC playoff pictures after Week 14 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/nfl-standings-updated-afc-nfc-120002720.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T04:42:02+0000",
+      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 14, from top seeds to final wild cards in both conferences."
+    },
     {
       "id": "abd7255c7190a719",
       "title": "Shedeur Sanders scores four touchdowns in close loss",
@@ -11,6 +47,15 @@
       "summary": "Former Colorado star Shedeur Sanders put on a show Sunday, even if the scoreboard did not cooperate. The Cleveland Browns fell 31–29 to the Titans, but the rookie quarterback gave Buffs fans plenty to cheer about, stacking production, showing poise, and a little late drama into his biggest NFL outing yet. Sanders went 23 of […]"
     },
     {
+      "id": "4e5ca4c619350dbc",
+      "title": "Chiefs playoff picture: Updated chance for Kansas City to make 2025 NFL postseason after Week 14 loss to Texans",
+      "link": "https://sports.yahoo.com/articles/chiefs-playoff-picture-updated-chances-110001663.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T04:37:00+0000",
+      "summary": "Here's a closer look at the Kansas City Chiefs' chances to make the postseason."
+    },
+    {
       "id": "91610530695e7453",
       "title": "Kansas City Chiefs' Playoff Chances in Doubt After “Sunday Night Football” Loss to Houston Texans",
       "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-playoff-chances-043529534.html",
@@ -18,33 +63,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-08T04:35:29+0000",
       "summary": "The Texans, owners of the NFL's top defense, held the Chiefs scoreless in the first half, and star tight end Travis Kelce only had one reception for eight yards"
-    },
-    {
-      "id": "d71e420ac72f2a62",
-      "title": "NFL playoff picture: What Texans win over Chiefs means in Week 14",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-texans-win-043448309.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T04:34:48+0000",
-      "summary": "The Texans went into Arrowhead and beat the Chiefs. We break down the AFC playoff standings what this means for the NFL playoff picture."
-    },
-    {
-      "id": "d6fb9d2c1f19dc0a",
-      "title": "Can the Kansas City Chiefs still make the NFL Playoffs?",
-      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-still-nfl-043205248.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T04:32:05+0000",
-      "summary": "At 6-7 after their home loss to the Houston Texans, are the Kansas City Chiefs mathematically eliminated from the postseason?"
-    },
-    {
-      "id": "afba0ec1a87b9b8c",
-      "title": "Will Daniel Jones start for the Colts in '26? Is the front office safe? Key questions for Indy",
-      "link": "https://espn.com/nfl/story/_/id/47242281/indianapolis-colts-daniel-jones-shane-steichen-chris-ballard-anthony-richardson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-08T04:20:02+0000",
-      "summary": "Will coach Shane Steichen and GM Chris Ballard survive a late-season freefall? What's next at QB in Indy?"
     },
     {
       "id": "188769d1a91296d8",
@@ -75,7 +93,7 @@
     },
     {
       "id": "847567ed4515f8a6",
-      "title": "What actually matters in every Week 14 game: Statement wins in playoff hunt for Bills, Packers, Steelers",
+      "title": "What matters in every Week 14 game: Statement wins in playoff hunt for Texans, Bills, Packers, Steelers",
       "link": "https://espn.com/nfl/story/_/id/47214975/nfl-week-14-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-02T20:23:47+0000",
       "summary": "Buckner has been sidelined since Week 10, while Gardner sustained a calf injury two plays into the Colts' Week 13 loss to the Houston Texans."
-    },
-    {
-      "id": "9d9c6f4406178fa6",
-      "title": "Colts linebacker surprises fan with My Cause, My Cleats design",
-      "link": "https://fox59.com/sports/colts/colts-linebacker-surprises-fan-with-my-cause-my-cleats-design/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-02T19:42:08+0000",
-      "summary": "INDIANAPOLIS — The annual My Cause My Cleats game is one of the NFL’s best campaigns, giving players the chance to raise money and awareness for various initiatives. Colts linebacker Chad Muma’s life changed when he was diagnosed with Type 1 diabetes as a teenager. Once he got to the NFL, he created his own foundation, [...]"
-    },
-    {
-      "id": "c1e8b46700cefe75",
-      "title": "Colts Cheerleaders announce audition dates for 2026 squad",
-      "link": "https://colts.com/news/colts-cheerleaders-announce-audition-dates-for-2026-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-02T15:00:00+0000",
-      "summary": "The Indianapolis Colts Cheerleaders have released dates and deadlines for the 2026 Colts Cheer Auditions, presented by Tyler Mason Salon & Spa, the Salon Choice of the Colts Cheerleaders."
     }
   ],
   "links": [
