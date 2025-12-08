@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-08T15:43:07+00:00",
+  "updated": "2025-12-08T16:26:57+00:00",
   "items": [
     {
       "id": "afba0ec1a87b9b8c",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/47242281/indianapolis-colts-daniel-jones-shane-steichen-chris-ballard-anthony-richardson",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-08T15:31:25+0000",
+      "published": "2025-12-08T16:18:25+0000",
       "summary": "Will coach Shane Steichen and GM Chris Ballard survive a late-season freefall? What's next at QB in Indy?"
     },
     {
@@ -16,44 +16,62 @@
       "link": "https://sports.yahoo.com/articles/rodgers-keeps-hopes-alive-end-152724545.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-08T15:27:24+0000",
+      "published": "2025-12-08T16:15:02+0000",
       "summary": "Our pick of week 14 in the NFL as Aaron Rodgers salvages his season but it could be game over for the Kansas City Chiefs, while Josh Allen again shines for Buffalo"
     },
     {
-      "id": "fabb2dc516686f98",
-      "title": "Barnwell sorts through NFL playoff race chaos: Are the Colts, Chiefs and Ravens finished?",
-      "link": "https://espn.com/nfl/story/_/id/47236762/2025-nfl-week-14-playoff-picture-jaguars-colts-packers-bears-steelers-ravens-texans-chiefs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-08T15:25:22+0000",
-      "summary": "Daniel Jones' injury, the Ravens' red zone woes, the Bears' defensive mistakes and the Chiefs' drop issues meant big changes in the race for the postseason."
-    },
-    {
-      "id": "47d8b7341867e8dd",
-      "title": "Did the College Football Playoff committee get it right?",
-      "link": "https://sports.yahoo.com/college-football/article/did-the-college-football-playoff-committee-get-it-right-152443105.html",
+      "id": "5e484a26c0a50c81",
+      "title": "Jordan Love makes a surge in MVP odds",
+      "link": "https://sports.yahoo.com/articles/jordan-love-makes-surge-mvp-160917277.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-08T15:24:43+0000",
-      "summary": "In today's edition: The CFP field is set, NFL Sunday scoreboard, Miami wins MLS Cup, Norris wins F1 title, Kent to Cooperstown, &quot;Google me,&quot; and more."
+      "published": "2025-12-08T16:09:17+0000",
+      "summary": "The NFL MVP race still has two clear finalists."
     },
     {
-      "id": "93551cb053e98df5",
-      "title": "Colts’ Monday Morning Awards: Week 14 @Duval",
-      "link": "https://sports.yahoo.com/articles/colts-monday-morning-awards-week-151840857.html",
+      "id": "241451b7bd43cb12",
+      "title": "Detroit Lions playoff chances, odds after NFL Week 14 games",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-playoff-chances-odds-160726399.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-08T15:18:40+0000",
-      "summary": "8-5, three losses in a row, and once again the Colts would have been better off just forfeiting the Duval game in advance. Starting quarterback Daniel Jones is done for the year with a torn Achilles, and that is basically the season for Indy, a season that started 7-1 and looked all but destined for […]"
+      "published": "2025-12-08T16:07:26+0000",
+      "summary": "Detroit Lions chances to make the 2025 NFC playoffs went down slightly after Green Bay Packers win over Chicago Bears, but there is good news, too."
     },
     {
-      "id": "b695c46bdff19a18",
-      "title": "Colts playoff and division probabilities after Week 14 loss",
-      "link": "https://sports.yahoo.com/articles/colts-playoff-division-probabilities-week-151515833.html",
+      "id": "478e223f97906f3c",
+      "title": "Daniel Jones is hurt. No 1st-round picks. What's the future of the Colts at QB?",
+      "link": "https://sports.yahoo.com/articles/daniel-jones-hurt-no-1st-160118565.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-08T15:15:15+0000",
-      "summary": "Here is where the Colts' playoff and division probabilities stand after their Week 14 loss."
+      "published": "2025-12-08T16:01:18+0000",
+      "summary": "Daniel Jones is likely out through the start of next season. Anthony Richardson is hurt. First-round picks are traded. Who can the Colts get at QB?"
+    },
+    {
+      "id": "8a41f34fab4bfc8d",
+      "title": "Daniel Jones is hurt. No 1st-round picks. What's the future of the Colts at QB?",
+      "link": "https://sports.yahoo.com/articles/daniel-jones-hurt-no-1st-160118853.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T16:01:18+0000",
+      "summary": "Daniel Jones is likely out through the start of next season. Anthony Richardson is hurt. First-round picks are traded. Who can the Colts get at QB?"
+    },
+    {
+      "id": "73959cc615be2899",
+      "title": "Colts' best option to replace Daniel Jones is available in free agency right now",
+      "link": "https://sports.yahoo.com/articles/colts-best-option-replace-daniel-160055372.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T16:00:55+0000",
+      "summary": "The Indianapolis Colts need to make a move at quarterback if they want any chance to save their season in the wake of the Daniel Jones injury. There is a veteran available in free agency right now who could help."
+    },
+    {
+      "id": "cd6eff824274c2d5",
+      "title": "Around the AFC South: Texans take down Chiefs to move to second in division, Titans beat Browns",
+      "link": "https://colts.com/news/around-the-afc-south-standings-texans-cj-stroud-patrick-mahomes-chiefs-sunday-night-playoffs-titans-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T15:57:40+0000",
+      "summary": "Following their loss to the Jacksonville Jaguars on Sunday, the Colts are now third in the AFC South."
     },
     {
       "id": "188769d1a91296d8",
@@ -61,7 +79,7 @@
       "link": "https://espn.com/nfl/story/_/id/47236840/colts-qb-daniel-jones-suffers-achilles-injury-ruled-out",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-08T15:11:01+0000",
+      "published": "2025-12-08T15:42:42+0000",
       "summary": "Colts quarterback Daniel Jones suffered a season-ending torn Achilles in the first quarter of Sunday's loss to the Jaguars."
     },
     {
@@ -70,7 +88,7 @@
       "link": "https://espn.com/nfl/story/_/id/47241589/jaguars-atop-afc-south-beating-colts-accept-not-going-get-respect",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-08T15:11:01+0000",
+      "published": "2025-12-08T15:42:42+0000",
       "summary": "\"At the end of the day, I feel like no one likes us except for us,\" Travis Etienne Jr. said after the Jaguars beat the Colts on Sunday to take control of the AFC South. \"We're not going to get their respect. We kind of don't even care.\""
     },
     {
@@ -79,8 +97,26 @@
       "link": "https://espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-08T15:11:00+0000",
+      "published": "2025-12-08T15:42:41+0000",
       "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
+    },
+    {
+      "id": "fabb2dc516686f98",
+      "title": "Barnwell sorts through NFL playoff race chaos: Are the Colts, Chiefs and Ravens finished?",
+      "link": "https://espn.com/nfl/story/_/id/47236762/2025-nfl-week-14-playoff-picture-jaguars-colts-packers-bears-steelers-ravens-texans-chiefs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T15:42:37+0000",
+      "summary": "Daniel Jones' injury, the Ravens' red zone woes, the Bears' defensive mistakes and the Chiefs' drop issues meant big changes in the race for the postseason."
+    },
+    {
+      "id": "48ea574603733635",
+      "title": "Colts’ Monday Morning Awards: Week 14 @Duval",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/118931/colts-monday-morning-awards-week-14-duval",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-08T15:18:40+0000",
+      "summary": "8-5, three losses in a row, and once again the Colts would have been better off just forfeiting the Duval game in advance. Starting quarterback Daniel Jones is done for the year with a torn Achilles, and that is basically the season for Indy, a season that started 7-1 and looked all but destined for [&#8230;]"
     },
     {
       "id": "d449fafeaa782275",
@@ -90,6 +126,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T14:48:13+0000",
       "summary": "The Indianapolis Colts fell to 8-5 with a 36-19 loss to the Jacksonville Jaguars and lost their quarterback in the process. Matt Adams recaps the game and explores where the Colts go from here. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
+    },
+    {
+      "id": "a8837e68b0919053",
+      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
+      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-08T13:27:08+0000",
+      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts fell out of playoff position entirely. The Denver Broncos won on Sunday [&#8230;]"
     },
     {
       "id": "847567ed4515f8a6",
@@ -153,15 +198,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T01:52:56+0000",
       "summary": "INDIANAPOLIS —The question no longer is whether the Indianapolis Colts can find a way to halt their death spiral and limp into the playoffs. Cue Jim Mora if you want an appropriate sound bite. Playoffs??? After their latest misadventure in Jacksonville — Sunday’s 36-19 loss that extended their road losing streak to the Jaguars to [...]"
-    },
-    {
-      "id": "a8837e68b0919053",
-      "title": "AFC Playoff Picture: Indianapolis Colts drop in wild card race",
-      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-08T01:14:29+0000",
-      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts would fall out of playoff position entirely. The Denver Broncos won on [&#8230;]"
     },
     {
       "id": "308886f266a688cc",
@@ -306,15 +342,6 @@
       "feed": "Colts.com",
       "published": "2025-12-07T18:51:41+0000",
       "summary": "Rookie quarterback Riley Leonard came in after Jones exited the game."
-    },
-    {
-      "id": "e7a37f001873929e",
-      "title": "Week 14 Colts vs. Jaguars Game Thread",
-      "link": "https://stampedeblue.com/gamethreads/118818/week-14-colts-vs-jaguars-game-thread",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-07T17:55:00+0000",
-      "summary": "The&#160;Indianapolis Colts&#160;are on the road to take on the Jacksonville Jaguars in week 14 of the 2025 season, kickoff is at 1:00 p.m. EST. Well we’ve hit that part of the season we were all dreading and things are not going great. But how bad is it, really? Indy’s worst loss of the season was [&#8230;]"
     },
     {
       "id": "bc8a07c8f1e94cf3",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-03T13:43:51+0000",
       "summary": "The roster move comes after the Colts waived kicker Michael Badgley."
-    },
-    {
-      "id": "c7c07d303b8553ec",
-      "title": "Colts release unofficial depth chart for Week 14 game vs. Jacksonville Jaguars",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-14-game-vs-jacksonville-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-02T21:06:53+0000",
-      "summary": "The Colts released their Week 14 unofficial depth chart ahead of their game against the Jacksonville Jaguars Sunday at EverBank Stadium. Check it out below:"
-    },
-    {
-      "id": "28539d13c696c776",
-      "title": "Colts waive K Michael Badgley, sign ex-Saint Blake Grupe",
-      "link": "https://fox59.com/sports/colts/colts-waive-k-michael-badgley/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-02T21:05:48+0000",
-      "summary": "INDIANAPOLIS – Enough was enough. Two days after missing his third PAT in seven games, Michael Badgley has been waived. The Indianapolis Colts decided they no longer had trust in Badgley, who had handled their kicking since Spencer Shrader suffered a season-ending knee injury against the Las Vegas Raiders. According to a person with knowledge [...]"
-    },
-    {
-      "id": "664b2b51d2763996",
-      "title": "Colts waive K Michael Badgley",
-      "link": "https://colts.com/news/colts-waive-k-michael-badgley-roster-move-week-14-brian-mason",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-02T20:39:51+0000",
-      "summary": "The Colts made the roster move on Tuesday."
     }
   ],
   "links": [
