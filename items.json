@@ -1,14 +1,41 @@
 {
-  "updated": "2025-12-08T13:34:02+00:00",
+  "updated": "2025-12-08T14:21:13+00:00",
   "items": [
     {
-      "id": "fdb40d8d47a44995",
-      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
-      "link": "https://sports.yahoo.com/articles/afc-playoff-picture-indianapolis-colts-232206279.html",
+      "id": "ea902996a0f6dd7d",
+      "title": "Key takeaways, stats from Jaguars through Week 14",
+      "link": "https://sports.yahoo.com/articles/key-takeaways-stats-jaguars-week-140606848.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
+      "published": "2025-12-08T14:06:06+0000",
+      "summary": "Since the bye week, Trevor Lawrence’s 12 total touchdowns rank third among NFL quarterbacks."
+    },
+    {
+      "id": "221aed99073d40a5",
+      "title": "Fernando Mendoza looks like a QB the Raiders should consider drafting",
+      "link": "https://sports.yahoo.com/articles/fernando-mendoza-looks-qb-raiders-140147530.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T14:01:47+0000",
+      "summary": "Fernando Mendoza looks like a QB the Las Vegas Raiders should consider selecting in the 2026 NFL draft."
+    },
+    {
+      "id": "fabb2dc516686f98",
+      "title": "How Week 14 shook up the NFL playoff picture: What now for the Colts, Chiefs, Ravens and Bears?",
+      "link": "https://espn.com/nfl/story/_/id/47236762/2025-nfl-week-14-playoff-picture-jaguars-colts-packers-bears-steelers-ravens-texans-chiefs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T13:51:45+0000",
+      "summary": "Daniel Jones' injury, the Ravens' red zone woes, the Bears' defensive mistakes and the Chiefs' drop issues meant big changes in the race for the postseason."
+    },
+    {
+      "id": "a8837e68b0919053",
+      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
+      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2025-12-08T13:27:08+0000",
-      "summary": "The Indianapolis Colts dropped from a wild card spot to “in the hunt” in the AFC playoff picture on Sunday."
+      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts fell out of playoff position entirely. The Denver Broncos won on Sunday [&#8230;]"
     },
     {
       "id": "afba0ec1a87b9b8c",
@@ -65,33 +92,6 @@
       "summary": "Did Josh Allen put Buffalo in position to win its division? Could Raiders have a new QB? We overreact to Week 14."
     },
     {
-      "id": "9da8374b07d49a8f",
-      "title": "Jonathan Taylor: &quot;Devastating&quot; to lose Daniel Jones",
-      "link": "https://sports.yahoo.com/articles/jonathan-taylor-devastating-lose-daniel-131138875.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T13:11:38+0000",
-      "summary": "Jones tore his Achilles in Sunday's loss to the Jaguars."
-    },
-    {
-      "id": "53928faa1d39b3f1",
-      "title": "Monday Night Football: How to watch the Philadelphia Eagles vs. L.A. Chargers NFL game tonight",
-      "link": "https://sports.yahoo.com/nfl/article/monday-night-football-how-to-watch-the-philadelphia-eagles-vs-la-chargers-nfl-game-tonight-130506431.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T13:05:06+0000",
-      "summary": "How to watch this week's Monday Night Football game between the Eagles and the Chargers."
-    },
-    {
-      "id": "d2c18e670059f21e",
-      "title": "Giants-Commanders odds, NFL Week 15: New York favored to win at home",
-      "link": "https://sports.yahoo.com/articles/giants-commanders-odds-nfl-week-130425246.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T13:04:25+0000",
-      "summary": "The reeling Commanders appear to be a bigger mess than the Giants right now."
-    },
-    {
       "id": "97145058f95029e3",
       "title": "Colts-Seahawks opening odds: Things have certainly changed",
       "link": "https://stampedeblue.com/indianapolis-colts-odds/118890/colts-seahawks-opening-odds-things-have-certainly-changed",
@@ -144,15 +144,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T01:52:56+0000",
       "summary": "INDIANAPOLIS —The question no longer is whether the Indianapolis Colts can find a way to halt their death spiral and limp into the playoffs. Cue Jim Mora if you want an appropriate sound bite. Playoffs??? After their latest misadventure in Jacksonville — Sunday’s 36-19 loss that extended their road losing streak to the Jaguars to [...]"
-    },
-    {
-      "id": "a8837e68b0919053",
-      "title": "AFC Playoff Picture: Indianapolis Colts drop in wild card race",
-      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-08T01:14:29+0000",
-      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts would fall out of playoff position entirely. The Denver Broncos won on [&#8230;]"
     },
     {
       "id": "308886f266a688cc",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-02T19:42:08+0000",
       "summary": "INDIANAPOLIS — The annual My Cause My Cleats game is one of the NFL’s best campaigns, giving players the chance to raise money and awareness for various initiatives. Colts linebacker Chad Muma’s life changed when he was diagnosed with Type 1 diabetes as a teenager. Once he got to the NFL, he created his own foundation, [...]"
+    },
+    {
+      "id": "c1e8b46700cefe75",
+      "title": "Colts Cheerleaders announce audition dates for 2026 squad",
+      "link": "https://colts.com/news/colts-cheerleaders-announce-audition-dates-for-2026-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-02T15:00:00+0000",
+      "summary": "The Indianapolis Colts Cheerleaders have released dates and deadlines for the 2026 Colts Cheer Auditions, presented by Tyler Mason Salon & Spa, the Salon Choice of the Colts Cheerleaders."
     }
   ],
   "links": [
