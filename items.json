@@ -1,14 +1,23 @@
 {
-  "updated": "2025-12-07T23:37:39+00:00",
+  "updated": "2025-12-08T01:27:40+00:00",
   "items": [
     {
       "id": "188769d1a91296d8",
-      "title": "Colts QB Jones hurts Achilles; 'doesn't look good'",
+      "title": "Colts brace for worst as QB Jones hurts Achilles",
       "link": "https://espn.com/nfl/story/_/id/47236840/colts-qb-daniel-jones-suffers-achilles-injury-ruled-out",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-07T23:29:33+0000",
+      "published": "2025-12-08T01:17:30+0000",
       "summary": "Colts quarterback Daniel Jones went down with a noncontact injury to his right Achilles, leaving him in obvious pain and out for the remainder of Sunday's pivotal AFC South game against the Jaguars."
+    },
+    {
+      "id": "cda78e31b9b53d88",
+      "title": "9-4 Jaguars: Nobody respects us -- 'which is fine'",
+      "link": "https://espn.com/nfl/story/_/id/47241589/jaguars-atop-afc-south-beating-colts-accept-not-going-get-respect",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T01:17:30+0000",
+      "summary": "\"At the end of the day, I feel like no one likes us except for us,\" Travis Etienne Jr. said after the Jaguars beat the Colts on Sunday to take control of the AFC South. \"We're not going to get their respect. We kind of don't even care.\""
     },
     {
       "id": "0a192a7eb836f79c",
@@ -16,17 +25,8 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-07T23:29:33+0000",
+      "published": "2025-12-08T01:17:30+0000",
       "summary": "Matt Miller unveils his initial prospect rankings for the 2026 NFL draft, stacking his top 50 players and breaking down their best traits."
-    },
-    {
-      "id": "cb6c9cf9067972e5",
-      "title": "NFL Week 13 fines: No Arizona Cardinals are fined",
-      "link": "https://sports.yahoo.com/articles/nfl-week-13-fines-no-232912336.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T23:29:12+0000",
-      "summary": "In the Cardinals-Bucs game, two Buccaneers players were fined, but no one on the Cardinals received one."
     },
     {
       "id": "a8837e68b0919053",
@@ -34,8 +34,8 @@
       "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
-      "published": "2025-12-07T23:22:06+0000",
-      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts would fall out of playoff position entirely. The Denver Broncos play late [&#8230;]"
+      "published": "2025-12-08T01:14:29+0000",
+      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts would fall out of playoff position entirely. The Denver Broncos won on [&#8230;]"
     },
     {
       "id": "fdb40d8d47a44995",
@@ -43,8 +43,26 @@
       "link": "https://sports.yahoo.com/articles/afc-playoff-picture-indianapolis-colts-232206279.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-07T23:22:06+0000",
+      "published": "2025-12-08T01:14:29+0000",
       "summary": "The Indianapolis Colts are in danger of dropping out of the playoff picture on Sunday."
+    },
+    {
+      "id": "308886f266a688cc",
+      "title": "Week 14 winners and losers: Josh Allen, Jaxon Smith-Njigba deliver; Jonathan Taylor, Bijan Robinson struggle",
+      "link": "https://espn.com/fantasy/football/story/_/page/FFSundayHighLows-47240329/nfl-week-14-fantasy-football-winners-losers-injuries-rankings-more",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T00:59:48+0000",
+      "summary": "Josh Allen, Puka Nacua and Jaxon Smith-Njigba led the way with big Week 14 performances, while Jonathan Taylor, Bijan Robinson and Ashton Jeanty were among the biggest disappointments."
+    },
+    {
+      "id": "847567ed4515f8a6",
+      "title": "What actually matters off every Week 14 game: Statement wins in playoff hunt for Bills, Packers, Steelers",
+      "link": "https://espn.com/nfl/story/_/id/47214975/nfl-week-14-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T00:59:31+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 14 game."
     },
     {
       "id": "30831aa867ba64e1",
@@ -56,15 +74,6 @@
       "summary": "Rookie quarterback Riley Leonard played three quarters in the Colts’ 36-19 loss to the Jacksonville Jaguars after Jones left the game with an Achilles injury."
     },
     {
-      "id": "6a6bc6818f2e5c73",
-      "title": "Washington Commanders look like the NFL's worst team",
-      "link": "https://sports.yahoo.com/articles/washington-commanders-look-nfls-worst-231016275.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-07T23:10:16+0000",
-      "summary": "There are some ugly truths about the 2025 Commanders after suffering another embarrassing blowout loss."
-    },
-    {
       "id": "4d9053561480ae99",
       "title": "NFL draft risers, questions and notes: Which prospects stood out in the conference title games?",
       "link": "https://espn.com/nfl/draft2026/story/_/id/45531306/2026-nfl-draft-notebook-questions-latest-updates-risers-cfb-prospects",
@@ -72,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-12-07T23:10:15+0000",
       "summary": "We have NFL draft notes for every week of the college football season, including why Sonny Styles and Zachariah Branch stood out in Championship Week."
-    },
-    {
-      "id": "847567ed4515f8a6",
-      "title": "What do Week 14 games mean for the rest of the season? We hit big questions, key stats and QB breakouts",
-      "link": "https://espn.com/nfl/story/_/id/47214975/nfl-week-14-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-07T23:09:33+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 14 game."
     },
     {
       "id": "9ee6128fdd8f78a5",
@@ -93,7 +93,7 @@
     },
     {
       "id": "012b8d1564f752a0",
-      "title": "NFL Week 14's fashionable arrivals, featuring Jets' Quincy Williams",
+      "title": "NFL Week 14's fashionable arrivals, featuring Chiefs TE Travis Kelce",
       "link": "https://espn.com/nfl/story/_/id/47205229/nfl-week-14-fashionable-arrivals",
       "source": "ESPN",
       "feed": "ESPN",
@@ -189,15 +189,6 @@
       "feed": "Colts.com",
       "published": "2025-12-07T18:51:41+0000",
       "summary": "Rookie quarterback Riley Leonard came in after Jones exited the game."
-    },
-    {
-      "id": "b82199e175b21f54",
-      "title": "10 NFL veterans who could unexpectedly be on the move this offseason: Surprise cut, trade candidates",
-      "link": "https://espn.com/nfl/story/_/id/47201187/2026-nfl-offseason-predictions-surprise-candidates-cuts-free-agents-trades-salary-cap",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-07T18:03:24+0000",
-      "summary": "Would the Eagles trade A.J. Brown in the offseason? Could the Ravens face salary cap decisions on two stars? Is Kyler Murray's time in Arizona running out?"
     },
     {
       "id": "e7a37f001873929e",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-01T19:11:03+0000",
       "summary": "The Colts still control their own destiny in the AFC South, but need a win over the Jaguars on Sunday at EverBank Stadium to continue to do so."
+    },
+    {
+      "id": "ae80eedfbffd18ef",
+      "title": "Colts expect Sauce Gardner to return this season; Achilles ‘is good’",
+      "link": "https://fox59.com/sports/colts/colts-hopeful-sauce-gardner-returns-this-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-01T17:01:36+0000",
+      "summary": "INDIANAPOLIS – Sauce Gardner’s season isn’t over. The veteran cornerback suffered what’s believed to be a strained left calf in the first quarter of the Indianapolis Colts’ 20-16 loss to Houston Sunday at Lucas Oil Stadium, and a person with knowledge of the situation said Monday morning the team believes it’s a “week-to-week’’ injury. Coach [...]"
     }
   ],
   "links": [
