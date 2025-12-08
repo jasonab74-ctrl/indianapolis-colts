@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-08T05:45:30+00:00",
+  "updated": "2025-12-08T06:33:28+00:00",
   "items": [
+    {
+      "id": "d477ba699acaee2e",
+      "title": "Texans down Chiefs, Steelers and Bills post NFL wins",
+      "link": "https://sports.yahoo.com/articles/steelers-battle-past-ravens-allen-220927533.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T05:56:09+0000",
+      "summary": "Houston quarterback C.J. Stroud out-dueled Kansas City star Patrick Mahomes to lead the Texans to a 20-10 victory on Sunday that left the Chiefs' NFL playoff hopes hanging by a thread.But the Texans defense clamped down in the fourth, when the Chiefs were twice unable to convert on fourth down."
+    },
+    {
+      "id": "6473b24d4e6b8fe7",
+      "title": "Week 14 INSTANT fantasy takeaways: Packers beat Bears, Colts lose Daniel Jones for season, Josh Allen goes OFF",
+      "link": "https://sports.yahoo.com/fantasy/article/week-14-instant-fantasy-takeaways-packers-beat-bears-colts-lose-daniel-jones-for-season-josh-allen-goes-off-054649085.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-08T05:47:01+0000",
+      "summary": "Matt Harmon and Chris Allen provide their instant fantasy reactions to all the action in Week 14. The two place games in three fantasy buckets: Games we care about the most, games we sort of care about and games that could have been an email."
+    },
     {
       "id": "e97e8c117e98478f",
       "title": "NFL Week 14 INSTANT reactions: Packers catch the Bears, are Chiefs really dead? What's wrong with the Bucs?",
@@ -27,60 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-08T05:36:45+0000",
       "summary": "The Browns' vet edge rusher and Denver's defense are on pace to rewrite the single-season sacks record book."
-    },
-    {
-      "id": "2de7db25717aa291",
-      "title": "Which NFL teams are 6-7? Why Chiefs became a meme in Week 14",
-      "link": "https://sports.yahoo.com/articles/nfl-teams-6-7-why-021824162.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T05:20:00+0000",
-      "summary": "Kansas City's record might go viral with the loss."
-    },
-    {
-      "id": "210acf4e95aa0f3b",
-      "title": "NFL Draft order: Tennessee Titans fall from first with their win",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-order-tennessee-titans-220312466.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T05:16:16+0000",
-      "summary": "The Tennessee Titans fell from the top spot in the 2026 NFL Draft with their win."
-    },
-    {
-      "id": "30f2618410eeda8f",
-      "title": "AFC South standings: How Jaguars' win over Colts, Texans' victory shakes up division race with Texans",
-      "link": "https://sports.yahoo.com/articles/afc-south-standings-jaguars-win-211033491.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T05:10:33+0000",
-      "summary": "Jacksonville took control of the division race."
-    },
-    {
-      "id": "d129ff9a08154d25",
-      "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule, live stream for NFL Week 14 game",
-      "link": "https://sports.yahoo.com/articles/plays-monday-night-football-tonight-051001462.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T05:10:01+0000",
-      "summary": "A pair of 8-4 teams enter with some major question marks on &quot;Monday Night Football.&quot;"
-    },
-    {
-      "id": "99abcb63acc83732",
-      "title": "Updated 2026 NFL Draft order: Giants, Raiders overtake Titans on pace to claim top selection after late window in Week 14",
-      "link": "https://sports.yahoo.com/articles/updated-2026-nfl-draft-order-080002341.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T05:10:00+0000",
-      "summary": "A Titans Week 14 victory, plus Raiders and Commanders losses, shook up the projected NFL Draft order."
-    },
-    {
-      "id": "3e87db320796a1e5",
-      "title": "Texans playoff picture: Updated chances for Houston to make 2025 NFL postseason after Week 14 win vs. Chiefs",
-      "link": "https://sports.yahoo.com/articles/texans-playoff-picture-updated-chances-113001256.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-08T04:55:00+0000",
-      "summary": "Here is a look at Houston's path to the playoffs in Week 14."
     },
     {
       "id": "afba0ec1a87b9b8c",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2025-12-02T21:05:48+0000",
       "summary": "INDIANAPOLIS – Enough was enough. Two days after missing his third PAT in seven games, Michael Badgley has been waived. The Indianapolis Colts decided they no longer had trust in Badgley, who had handled their kicking since Spencer Shrader suffered a season-ending knee injury against the Las Vegas Raiders. According to a person with knowledge [...]"
+    },
+    {
+      "id": "664b2b51d2763996",
+      "title": "Colts waive K Michael Badgley",
+      "link": "https://colts.com/news/colts-waive-k-michael-badgley-roster-move-week-14-brian-mason",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-02T20:39:51+0000",
+      "summary": "The Colts made the roster move on Tuesday."
+    },
+    {
+      "id": "bd79e70b3e9159bc",
+      "title": "How Colts DC Lou Anarumo is handling late-season injuries to DeForest Buckner, Sauce Gardner",
+      "link": "https://colts.com/news/how-colts-dc-lou-anarumo-is-handling-late-season-injuries-to-deforest-buckner-sauce-gardner",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-02T20:23:47+0000",
+      "summary": "Buckner has been sidelined since Week 10, while Gardner sustained a calf injury two plays into the Colts' Week 13 loss to the Houston Texans."
+    },
+    {
+      "id": "9d9c6f4406178fa6",
+      "title": "Colts linebacker surprises fan with My Cause, My Cleats design",
+      "link": "https://fox59.com/sports/colts/colts-linebacker-surprises-fan-with-my-cause-my-cleats-design/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-02T19:42:08+0000",
+      "summary": "INDIANAPOLIS — The annual My Cause My Cleats game is one of the NFL’s best campaigns, giving players the chance to raise money and awareness for various initiatives. Colts linebacker Chad Muma’s life changed when he was diagnosed with Type 1 diabetes as a teenager. Once he got to the NFL, he created his own foundation, [...]"
+    },
+    {
+      "id": "c1e8b46700cefe75",
+      "title": "Colts Cheerleaders announce audition dates for 2026 squad",
+      "link": "https://colts.com/news/colts-cheerleaders-announce-audition-dates-for-2026-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-02T15:00:00+0000",
+      "summary": "The Indianapolis Colts Cheerleaders have released dates and deadlines for the 2026 Colts Cheer Auditions, presented by Tyler Mason Salon & Spa, the Salon Choice of the Colts Cheerleaders."
     }
   ],
   "links": [
