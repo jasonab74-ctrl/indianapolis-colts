@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-09T05:19:19+00:00",
+  "updated": "2025-12-09T05:43:41+00:00",
   "items": [
+    {
+      "id": "4bae9a5b0cfd9413",
+      "title": "Jalen Hurts Becomes the First NFL Player in Recorded History With Two Turnovers on the Same Play",
+      "link": "https://sports.yahoo.com/articles/jalen-hurts-becomes-first-nfl-052128421.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-09T05:21:28+0000",
+      "summary": "Philadelphia Eagles quarterback Jalen Hurts committed two turnovers on the same play in a losing effort against the Los Angeles Chargers on Monday Night Football."
+    },
+    {
+      "id": "a1ec0a36484bee6d",
+      "title": "Chargers playoff picture: Updated chances for Los Angeles to make 2025 NFL postseason in Week 14",
+      "link": "https://sports.yahoo.com/articles/chargers-playoff-picture-updated-chances-191345012.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-09T05:18:45+0000",
+      "summary": "Los Angeles sits in the thick of the AFC wild card race"
+    },
     {
       "id": "6cdc359bece42982",
       "title": "NFL Power Rankings entering Week 15: Why can't the Texans make a run in a flawed and weird AFC?",
@@ -47,6 +65,15 @@
       "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 14, from top seeds to final wild cards in both conferences."
     },
     {
+      "id": "a8837e68b0919053",
+      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
+      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-09T04:57:48+0000",
+      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts fell out of playoff position entirely. The Denver Broncos won on Sunday [&#8230;]"
+    },
+    {
       "id": "fdb40d8d47a44995",
       "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
       "link": "https://sports.yahoo.com/articles/afc-playoff-picture-indianapolis-colts-232206279.html",
@@ -63,33 +90,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-09T04:53:38+0000",
       "summary": "Philadelphia is lucky."
-    },
-    {
-      "id": "e220acbcebe6f04c",
-      "title": "NFL Week 14 photos: Chargers wear best uniforms in NFL against Eagles",
-      "link": "https://sports.yahoo.com/articles/nfl-week-14-photos-chargers-045007681.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-09T04:50:07+0000",
-      "summary": "The Chargers may not have been splendid on the field but they certainly were dazzling in their powder blue uniforms."
-    },
-    {
-      "id": "d1efa3aa460d0f90",
-      "title": "Eagles vs. Chargers live score, updates, highlights from NFL 'Monday Night Football' game",
-      "link": "https://sports.yahoo.com/articles/eagles-vs-chargers-live-score-223001577.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-09T04:47:00+0000",
-      "summary": "The Sporting News is tracking LIVE scores, updates and highlights as the Eagles take on the Chargers. Follow along for all the action from Week 14's &quot;Monday Night Football&quot; matchup."
-    },
-    {
-      "id": "2972f3c8f15e7859",
-      "title": "NFL overtime rules: What to know for the 2025 season",
-      "link": "https://sports.yahoo.com/articles/nfl-overtime-rules-know-2025-043114194.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-09T04:31:14+0000",
-      "summary": "The Los Angeles Chargers and Philadelphia Eagles are headed to overtime on &quot;Monday Night Football.&quot; Here's how the game could end."
     },
     {
       "id": "0a0059dc1a8f8837",
@@ -120,7 +120,7 @@
     },
     {
       "id": "9ee6128fdd8f78a5",
-      "title": "Seahawks put spin on OutKast, Migos album covers to poke fun at Falcons",
+      "title": "'Birds aren't real': Chargers poke fun at Eagles after win, topping NFL Week 14 trolls",
       "link": "https://espn.com/nfl/story/_/id/47240002/nfl-week-14-trolls",
       "source": "ESPN",
       "feed": "ESPN",
@@ -344,15 +344,6 @@
       "summary": "The Indianapolis Colts fell to 8-5 with a 36-19 loss to the Jacksonville Jaguars and lost their quarterback in the process. Matt Adams recaps the game and explores where the Colts go from here. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
     },
     {
-      "id": "a8837e68b0919053",
-      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
-      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-08T13:27:08+0000",
-      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts fell out of playoff position entirely. The Denver Broncos won on Sunday [&#8230;]"
-    },
-    {
       "id": "97145058f95029e3",
       "title": "Colts-Seahawks opening odds: Things have certainly changed",
       "link": "https://stampedeblue.com/indianapolis-colts-odds/118890/colts-seahawks-opening-odds-things-have-certainly-changed",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-04T22:49:05+0000",
       "summary": "INDIANAPOLIS – A major addition has resulted in a few expected subtractions. Tyler Warren continues to exceed the lofty expectations that followed him into the NFL as the 14th overall pick in the April draft by the Indianapolis Colts. He already has shattered the franchise record for receptions by a rookie tight end – 58, 13 [...]"
+    },
+    {
+      "id": "c5dcf9435aedfacd",
+      "title": "Kenny Moore II's 'purpose-driven personality' earns him Colts' 2025 Walter Payton Man of the Year nomination",
+      "link": "https://colts.com/news/kenny-moore-ii-purpose-driven-personality-colts-2025-walter-payton-man-of-the-year-nomination-kalen-jackson-kicking-the-stigma-cardinal-ritter-teacher",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-04T21:38:18+0000",
+      "summary": "Moore is the first Colts player to ever be nominated for the NFL's most prestigious individual honor three times."
     }
   ],
   "links": [
