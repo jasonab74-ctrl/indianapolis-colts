@@ -1,33 +1,6 @@
 {
-  "updated": "2025-12-09T11:18:37+00:00",
+  "updated": "2025-12-09T11:39:40+00:00",
   "items": [
-    {
-      "id": "14246f309665ac2c",
-      "title": "NFL Power Rankings by division entering Week 15",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-division-entering-110452236.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-09T11:04:52+0000",
-      "summary": "There are teams making strong cases as playoff contenders and they are stepping up in the Power Rankings."
-    },
-    {
-      "id": "914248817ee68af9",
-      "title": "NFL playoff picture: What Chargers win over Eagles means in Week 14",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-chargers-win-110000570.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-09T11:00:00+0000",
-      "summary": "It wasn’t pretty, but the Chargers beat the Eagles to close out Week 14. We break down what the NFL playoff picture looks like after Monday Night Football."
-    },
-    {
-      "id": "b510a3c801bd64ae",
-      "title": "Jalen Hurts had an unprecedented two turnovers on one play",
-      "link": "https://sports.yahoo.com/articles/jalen-hurts-had-unprecedented-two-105709900.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-09T10:57:09+0000",
-      "summary": "Eagles quarterback Jalen Hurts did something on Monday night that may never have happened before in the NFL: He turned the ball over twice on one play."
-    },
     {
       "id": "0a0059dc1a8f8837",
       "title": "Sources: Ailing Colts to work out retired QB Rivers",
@@ -63,6 +36,15 @@
       "feed": "ESPN",
       "published": "2025-12-09T05:37:12+0000",
       "summary": "Will coach Shane Steichen and GM Chris Ballard survive a late-season freefall? What's next at QB in Indy?"
+    },
+    {
+      "id": "a8837e68b0919053",
+      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
+      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-09T04:57:48+0000",
+      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts fell out of playoff position entirely. The Denver Broncos won on Sunday [&#8230;]"
     },
     {
       "id": "9ee6128fdd8f78a5",
@@ -279,15 +261,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T14:48:13+0000",
       "summary": "The Indianapolis Colts fell to 8-5 with a 36-19 loss to the Jacksonville Jaguars and lost their quarterback in the process. Matt Adams recaps the game and explores where the Colts go from here. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "a8837e68b0919053",
-      "title": "AFC Playoff Picture: Indianapolis Colts drop out of wild card spot",
-      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/118866/afc-playoff-picture-indianapolis-colts-drop-in-wild-card-race",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-08T13:27:08+0000",
-      "summary": "With their loss to the Jacksonville Jaguars, the Indianapolis Colts fell behind the Buffalo Bills in the AFC wild card race in addition to falling further behind the Jags in the AFC South. With a Houston Texans win on Sunday night, the Colts fell out of playoff position entirely. The Denver Broncos won on Sunday [&#8230;]"
     },
     {
       "id": "97145058f95029e3",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-12-03T22:05:23+0000",
       "summary": "INDIANAPOLIS – The life of an NFL kicker was on full display Wednesday. As Blake Grupe walked into the Indianapolis Colts locker room and the media began forming a semi-circle around his cubicle, everyone had to navigate his carry-on luggage and backpack that had found a temporary home in front of his new home. “Yeah, [...]"
+    },
+    {
+      "id": "ad2a13f02c054694",
+      "title": "Practice Notebook: Colts see 'no restrictions' on Daniel Jones, offense amid QB's fibula injury",
+      "link": "https://colts.com/news/practice-notebook-colts-see-no-restrictions-on-daniel-jones-offense-amid-qb-s-fibula-injury",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-03T20:46:04+0000",
+      "summary": "Jones was listed as a full participant in the Colts' Wednesday practice report."
+    },
+    {
+      "id": "14c258b52ab5f057",
+      "title": "New Colts kicker Blake Grupe ready to contribute to 'meaningful football'",
+      "link": "https://colts.com/news/colts-kicker-blake-grupe-meaningful-football-notre-dame-shane-steichen-brian-mason",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-03T20:08:02+0000",
+      "summary": "The Colts signed Grupe to the practice squad on Wednesday."
+    },
+    {
+      "id": "213ab26a641e4b7f",
+      "title": "2025 Colts playoff tickets available now",
+      "link": "https://colts.com/news/2025-colts-playoff-tickets-available-now",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-03T18:00:00+0000",
+      "summary": "While NFL Playoff matchups will not be determined until the final regular season games have been completed, the NFL requires ticket information be provided to fans in preparation for the possibility of the Colts hosting playoff games."
     }
   ],
   "links": [
