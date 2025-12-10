@@ -1,23 +1,95 @@
 {
-  "updated": "2025-12-10T16:26:49+00:00",
+  "updated": "2025-12-10T16:53:06+00:00",
   "items": [
     {
-      "id": "f560a4365284f214",
-      "title": "Colts sign grandfather Rivers, 44, out of retirement",
-      "link": "https://sports.yahoo.com/articles/colts-sign-grandfather-rivers-44-162046024.html",
+      "id": "0ca015f605a9665c",
+      "title": "Shane Steichen: Philip Rivers is excited to be back, &quot;We'll see&quot; who starts on Sunday",
+      "link": "https://sports.yahoo.com/articles/shane-steichen-philip-rivers-excited-164826881.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-10T16:20:46+0000",
-      "summary": "Quarterback Philip Rivers has come out of retirement to rejoin the Indianapolis Colts, five years after the 44-year-old grandfather last played in the NFL."
+      "published": "2025-12-10T16:48:26+0000",
+      "summary": "&quot;His passion and his obsession for the game is unmatched. For him to come back and want to do this at 44 years old I think is incredible,&quot; Steichen said."
     },
     {
-      "id": "58769f76a5831690",
-      "title": "The Rams' red zone offense and defense are the best in the NFL",
-      "link": "https://sports.yahoo.com/articles/rams-red-zone-offense-defense-161847720.html",
+      "id": "70983019e6f35b35",
+      "title": "New injury update in Week 15 for Colts' DT DeForest Buckner",
+      "link": "https://sports.yahoo.com/articles/injury-week-15-colts-dt-164654476.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-10T16:18:47+0000",
-      "summary": "L.A. knows how to play its best football in the areas of the field that matter."
+      "published": "2025-12-10T16:46:54+0000",
+      "summary": "Here is the latest injury update on Colts' DT DeForest Buckner heading into the team's Week 15 matchup."
+    },
+    {
+      "id": "c2af7f714c7f6bfc",
+      "title": "Will Philip Rivers be Colts starting quarterback at Seahawks? What we know",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-colts-starting-quarterback-164311741.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T16:43:11+0000",
+      "summary": "The Colts signed 44-year-old veteran Philip Rivers out of retirement to the practice squad. We're learning more about who will be the Colts quarterback."
+    },
+    {
+      "id": "d6b103827119cfac",
+      "title": "Mike Tomlin missed a golden opportunity to nudge the catch rule in the right direction",
+      "link": "https://sports.yahoo.com/articles/mike-tomlin-missed-golden-opportunity-164123115.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T16:41:23+0000",
+      "summary": "There's a common pattern when it comes to bad calls in NFL officiating."
+    },
+    {
+      "id": "bf7ae1948a56e94c",
+      "title": "Browns' mock draft predicted to keep explosive Buckeye star in Ohio",
+      "link": "https://sports.yahoo.com/articles/browns-mock-draft-predicted-keep-164000256.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T16:40:00+0000",
+      "summary": "Could this Ohio State Buckeye find his NFL home in Cleveland?"
+    },
+    {
+      "id": "f00c4da8823e4103",
+      "title": "Colts designate DT DeForest Buckner to return to practice",
+      "link": "https://colts.com/news/colts-designate-dt-deforest-buckner-to-return-to-practice-week-15-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-10T16:36:18+0000",
+      "summary": "Buckner was placed on injured reserve with a neck injury in Week 10."
+    },
+    {
+      "id": "4e2abcb7826bba8a",
+      "title": "Colts put Charvarius Ward on injured reserve, promote QB Brett Rypien",
+      "link": "https://sports.yahoo.com/articles/colts-put-charvarius-ward-injured-163512021.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T16:35:12+0000",
+      "summary": "The Indianapolis Colts placed Charvarius Ward on injured reserve and signed Brett Rypien from their practice squad, they announced Wednesday."
+    },
+    {
+      "id": "bc604f1178d6df51",
+      "title": "NFL Week 15 television maps: New York Giants vs. Washington Commanders",
+      "link": "https://sports.yahoo.com/articles/nfl-week-15-television-maps-163054576.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T16:30:54+0000",
+      "summary": "Week 15 NFL television maps are out and if you're in green, you'll get to watch the New York Giants vs. Commanders on your local FOX station."
+    },
+    {
+      "id": "aca7a103e8e84cfc",
+      "title": "Houston Texans NFL Power Rankings: Week 15",
+      "link": "https://sports.yahoo.com/articles/houston-texans-nfl-power-rankings-163000359.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T16:30:00+0000",
+      "summary": "Where do the Texans land after their season-changing win over the Chiefs?"
+    },
+    {
+      "id": "23c972c911045515",
+      "title": "Yates' new NFL mock draft: 32 first-round pick predictions for 2026 -- including one big trade",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47243299/2026-nfl-mock-draft-first-round-predictions-32-picks-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T16:27:04+0000",
+      "summary": "Which teams need a quarterback? Could Ohio State dominate the first round? Field Yates projects the opening 32 picks of next year's draft."
     },
     {
       "id": "6be2e9cbd3da0c57",
@@ -36,42 +108,6 @@
       "feed": "ESPN",
       "published": "2025-12-10T16:11:53+0000",
       "summary": "Ranking teams 1-32. We also looked at the most surprising statistical rankings for each team."
-    },
-    {
-      "id": "0ae0c694b4c29cb0",
-      "title": "Buccaneers land dominant ACC defender in latest 2026 NFL Mock Draft",
-      "link": "https://sports.yahoo.com/articles/buccaneers-land-dominant-acc-defender-161103750.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T16:11:03+0000",
-      "summary": "The Bucs land a much needed edge rusher in the latest 2026 NFL Mock Draft."
-    },
-    {
-      "id": "a953e1778230e400",
-      "title": "Tim Jenkins breaks down the film from Bo Nix’s 21st career win",
-      "link": "https://sports.yahoo.com/articles/tim-jenkins-breaks-down-film-161002028.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T16:10:02+0000",
-      "summary": "Is Bo Nix's recent level of play sustainable? &quot;Absolutely,&quot; said former NFL quarterback Tim Jenkins."
-    },
-    {
-      "id": "5f41f0ff45281f56",
-      "title": "Cowboys predicted to make up for Micah Parsons trade in 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/cowboys-predicted-micah-parsons-trade-160814392.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T16:08:14+0000",
-      "summary": "The Dallas Cowboys are predicted to be looking to plug the hole left by Micah Parsons early in the 2026 NFL Draft."
-    },
-    {
-      "id": "e6b080c479f0b496",
-      "title": "Philip Rivers will wear Daniel Jones' No. 17 in second stint with Colts",
-      "link": "https://sports.yahoo.com/articles/philip-rivers-wear-no-17-160720875.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T16:07:20+0000",
-      "summary": "Those vintage No. 17 jerseys from 2020 are officially back in style."
     },
     {
       "id": "a5df294a15230957",
@@ -144,15 +180,6 @@
       "feed": "Colts.com",
       "published": "2025-12-10T14:50:29+0000",
       "summary": "The Colts made the roster moves on Wednesday."
-    },
-    {
-      "id": "23c972c911045515",
-      "title": "Yates' new NFL mock draft: 32 first-round pick predictions for 2026 -- including one big trade",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47243299/2026-nfl-mock-draft-first-round-predictions-32-picks-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-10T14:35:46+0000",
-      "summary": "Which teams need a quarterback? Could Ohio State dominate the first round? Field Yates projects the opening 32 picks of next year's draft."
     },
     {
       "id": "455162e0440a513e",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-07T18:51:41+0000",
       "summary": "Rookie quarterback Riley Leonard came in after Jones exited the game."
-    },
-    {
-      "id": "bc8a07c8f1e94cf3",
-      "title": "Keys to the Game: Colts at Jaguars",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-jaguars-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-07T17:23:57+0000",
-      "summary": "INDIANAPOLIS - The Colts haven't won in Jacksonville since the last time they won the AFC South championship, back in 2014 when Andrew Luck was still starting at quarterback. IndyStar insider Joel A. Erickson has the keys to the Colts finally snapping their skid at EverBank Stadium."
-    },
-    {
-      "id": "599417172107f932",
-      "title": "Sideline to Sideline: Off the field",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-off-the-field/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-07T17:23:23+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question as they walk the field sideline to sideline. This Sunday, Chris asks the players what they like to do off the field and away from the game of football."
-    },
-    {
-      "id": "915f58a3cce808f6",
-      "title": "Colts announce 7 inactive players for Week 14 game vs. Jacksonville Jaguars",
-      "link": "https://colts.com/news/colts-7-inactive-players-week-14-game-jacksonville-jaguars-sauce-gardner-tyquan-lewis",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-07T16:30:05+0000",
-      "summary": "The Colts on Friday ruled out cornerback Sauce Gardner (calf)."
     }
   ],
   "links": [
