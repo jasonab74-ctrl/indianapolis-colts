@@ -1,6 +1,78 @@
 {
-  "updated": "2025-12-10T12:41:31+00:00",
+  "updated": "2025-12-10T13:36:20+00:00",
   "items": [
+    {
+      "id": "497635edb90b473e",
+      "title": "NFL will play games in Munich in 2026, 2028",
+      "link": "https://sports.yahoo.com/articles/nfl-play-games-munich-2026-132335347.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T13:23:35+0000",
+      "summary": "The NFL will be back in Munich during the 2026 season."
+    },
+    {
+      "id": "704ce450d44975ce",
+      "title": "NFL announces it will play regular season games in Munich, Germany in 2026 and 2028",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-announces-it-will-play-regular-season-games-in-munich-germany-in-2026-and-2028-131911807.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T13:19:11+0000",
+      "summary": "Next season will mark the third time the NFL has played a game in Munich, Germany."
+    },
+    {
+      "id": "43a7fb63c3c15956",
+      "title": "NFL legend fed up with NIL after getting burned by UCLA transfer",
+      "link": "https://sports.yahoo.com/articles/nfl-legend-fed-nil-getting-131401925.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T13:14:01+0000",
+      "summary": "Troy Aikman has had enough with NIL, announcing he won't cut checks for UCLA players any longer."
+    },
+    {
+      "id": "a5e01e14c81b5c3d",
+      "title": "What to expect from Taylor, other Colts if Rivers starts",
+      "link": "https://espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T13:06:08+0000",
+      "summary": "Eric Moody breaks down what it would mean for Jonathan Taylor, Michael Pittman Jr. and the rest of the Colts if Philip Rivers starts Sunday against Seattle."
+    },
+    {
+      "id": "455162e0440a513e",
+      "title": "Inside the Colts' signing of Philip Rivers out of retirement",
+      "link": "https://espn.com/nfl/story/_/id/47262315/indianapolis-colts-philip-rivers-daniel-jones-quarterback-44-years-old",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T13:05:12+0000",
+      "summary": "Philip Rivers hasn't taken a snap since 2020, but he might be about to enter a playoff race against elite defenses."
+    },
+    {
+      "id": "306e033ec7c94214",
+      "title": "Tim Tebow believes in the Chiefs during a challenging season",
+      "link": "https://sports.yahoo.com/articles/tim-tebow-believes-chiefs-during-130143382.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T13:01:43+0000",
+      "summary": "During his conversation with @EdEastonJr, retired NFL quarterback Tim Tebow discussed the Kansas City Chiefs' challenging 2025 season"
+    },
+    {
+      "id": "6be2e9cbd3da0c57",
+      "title": "NFL Week 15 buzz: What we're hearing about Daniel Jones, the upcoming coaching carousel and more",
+      "link": "https://espn.com/nfl/story/_/id/47257276/nfl-week-15-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T12:54:03+0000",
+      "summary": "What effect will Jones' injury have on the offseason QB market? How many coaching jobs could be open? Here's the latest NFL intel heading into Week 15."
+    },
+    {
+      "id": "7a48c9ba1c0dcf16",
+      "title": "NFL Power Rankings: New 1-32 poll, plus the most shocking statistics of the season",
+      "link": "https://espn.com/nfl/story/_/id/47189899/nfl-week-15-power-rankings-poll-32-teams-2025-most-shocking-statistics",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T12:54:03+0000",
+      "summary": "Ranking teams 1-32. We also looked at the most surprising statistical rankings for each team."
+    },
     {
       "id": "452a1817959af212",
       "title": "Phillip Rivers to the Colts in 2025 is Poetic Perfection",
@@ -9,15 +81,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-10T12:17:00+0000",
       "summary": "When telling the story of the NFL, there are many chapters and footnotes one must remember to encapsulate what this sport and league is all about. The Colts in their lengthy history have no shortage of these to tell. They can range wildly in tone and emotions. From a heartwarming story of players rallying behind [&#8230;]"
-    },
-    {
-      "id": "0837c990ee5d435d",
-      "title": "Phillip Rivers to the Colts in 2025 is Poetic Perfection",
-      "link": "https://sports.yahoo.com/articles/phillip-rivers-colts-2025-poetic-121700741.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T12:17:00+0000",
-      "summary": "Rivers isn’t just the best fit possible at this point of the season, his unconventional return to the NFL is pure poetry."
     },
     {
       "id": "a5df294a15230957",
@@ -56,15 +119,6 @@
       "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
     },
     {
-      "id": "a0eeec1f5c2b8ff5",
-      "title": "6 quick takeaways from Colts' Week 15 depth chart after roster moves",
-      "link": "https://sports.yahoo.com/articles/6-quick-takeaways-colts-week-121430150.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T12:14:30+0000",
-      "summary": "Here are six quick observations from the Indianapolis Colts' updated Week 15 depth chart."
-    },
-    {
       "id": "23c972c911045515",
       "title": "Yates' new NFL mock draft: 32 first-round pick predictions for 2026 -- including one big trade",
       "link": "https://espn.com/nfl/draft2026/story/_/id/47243299/2026-nfl-mock-draft-first-round-predictions-32-picks-field-yates",
@@ -72,33 +126,6 @@
       "feed": "ESPN",
       "published": "2025-12-10T11:20:33+0000",
       "summary": "Which teams need a quarterback? Could Ohio State dominate the first round? Field Yates projects the opening 32 picks of next year's draft."
-    },
-    {
-      "id": "fabb2dc516686f98",
-      "title": "Barnwell sorts through NFL playoff race chaos: Are the Colts, Chiefs and Ravens finished?",
-      "link": "https://espn.com/nfl/story/_/id/47236762/2025-nfl-week-14-playoff-picture-jaguars-colts-packers-bears-steelers-ravens-texans-chiefs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-10T05:08:17+0000",
-      "summary": "Daniel Jones' injury, the Ravens' red zone woes, the Bears' defensive mistakes and the Chiefs' drop issues meant big changes in the race for the postseason."
-    },
-    {
-      "id": "847567ed4515f8a6",
-      "title": "What do Week 14 games mean for the rest of the season?",
-      "link": "https://espn.com/nfl/story/_/id/47214975/nfl-week-14-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-10T05:08:17+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 14 game."
-    },
-    {
-      "id": "7a48c9ba1c0dcf16",
-      "title": "NFL Power Rankings: New 1-32 poll, plus the most shocking statistics of the season",
-      "link": "https://espn.com/nfl/story/_/id/47189899/nfl-week-15-power-rankings-poll-32-teams-2025-most-shocking-statistics",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-10T05:06:46+0000",
-      "summary": "Ranking teams 1-32. We also looked at the most surprising statistical rankings for each team."
     },
     {
       "id": "9ff6c03910d7961d",
@@ -117,15 +144,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-09T22:15:36+0000",
       "summary": "INDIANAPOLIS – The speculation spread across the NFL landscape. The quarterback-needy Indianapolis Colts are bringing in 44-year-old Philip Rivers for a workout. The news finally made its way to Frank Reich, who was Rivers’ last head coach in 2020, with those same Colts. His initial reaction? The Rivers thing. Isn’t that crazy? Well, no. “No, [...]"
-    },
-    {
-      "id": "a5e01e14c81b5c3d",
-      "title": "Fantasy football buzz: What to expect from Taylor, other Colts if Rivers starts",
-      "link": "https://espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-09T20:56:19+0000",
-      "summary": "Eric Moody breaks down what it would mean for Jonathan Taylor, Michael Pittman Jr. and the rest of the Colts if Philip Rivers starts Sunday against Seattle."
     },
     {
       "id": "860432820cfa0396",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-05T17:51:08+0000",
       "summary": "Gardner (calf) did not participate in practice this week."
-    },
-    {
-      "id": "4aa02b379ce1b947",
-      "title": "Emergence of rookie Tyler Warren has meant fewer opportunities for other Colts, most notably Josh Downs",
-      "link": "https://fox59.com/sports/colts/emergence-of-rookie-tyler-warren-has-meant-fewer-opportunities-for-other-colts-most-notably-josh-downs/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-04T22:49:05+0000",
-      "summary": "INDIANAPOLIS – A major addition has resulted in a few expected subtractions. Tyler Warren continues to exceed the lofty expectations that followed him into the NFL as the 14th overall pick in the April draft by the Indianapolis Colts. He already has shattered the franchise record for receptions by a rookie tight end – 58, 13 [...]"
-    },
-    {
-      "id": "c5dcf9435aedfacd",
-      "title": "Kenny Moore II's 'purpose-driven personality' earns him Colts' 2025 Walter Payton Man of the Year nomination",
-      "link": "https://colts.com/news/kenny-moore-ii-purpose-driven-personality-colts-2025-walter-payton-man-of-the-year-nomination-kalen-jackson-kicking-the-stigma-cardinal-ritter-teacher",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-04T21:38:18+0000",
-      "summary": "Moore is the first Colts player to ever be nominated for the NFL's most prestigious individual honor three times."
     }
   ],
   "links": [
