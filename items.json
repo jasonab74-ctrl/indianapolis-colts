@@ -1,13 +1,31 @@
 {
-  "updated": "2025-12-10T04:06:49+00:00",
+  "updated": "2025-12-10T04:52:14+00:00",
   "items": [
+    {
+      "id": "9f55acf3fea1e80a",
+      "title": "Clemson DE TJ Parker will enter 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/clemson-tj-parker-enter-2026-041117842.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T04:11:17+0000",
+      "summary": "Clemson edge rusher T.J. Parker announced he will enter the 2026 NFL Draft. He was one of the Tigers' top edge rushers this season."
+    },
+    {
+      "id": "1d547bfc46fbad5c",
+      "title": "Marietta (Ga.) to play in London versus NFL Academy in 2026",
+      "link": "https://sports.yahoo.com/articles/marietta-ga-play-london-versus-041024106.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T04:10:24+0000",
+      "summary": "When the Marietta Blue Devils (Ga.) get into the beginning stages of their 2026 Georgia high school football season, they’ll be packing their bags and heading across the pond. The Blue Devils’ football program posted on their official handle Tuesday night, announcing that they will face NFL Academy next 2026 season on Aug. 21 in […]"
+    },
     {
       "id": "7a48c9ba1c0dcf16",
       "title": "NFL Power Rankings: New 1-32 poll, plus the most shocking statistics of the season",
       "link": "https://espn.com/nfl/story/_/id/47189899/nfl-week-15-power-rankings-poll-32-teams-2025-most-shocking-statistics",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T04:01:23+0000",
+      "published": "2025-12-10T04:05:06+0000",
       "summary": "Ranking teams 1-32. We also looked at the most surprising statistical rankings for each team."
     },
     {
@@ -45,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-12-10T04:01:03+0000",
       "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
-    },
-    {
-      "id": "eb22b14fc2d8c063",
-      "title": "Colts announce roster moves, placing QB Daniel Jones on IR among them",
-      "link": "https://sports.yahoo.com/articles/colts-announce-roster-moves-placing-033034923.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T03:30:34+0000",
-      "summary": "With a slew of key injuries, the Colts are making some roster moves to keep their season alive."
     },
     {
       "id": "68ef73ea7fb45bb9",
@@ -108,6 +117,15 @@
       "feed": "Colts.com",
       "published": "2025-12-09T20:14:00+0000",
       "summary": "Galbreath, from Cardinal Ritter High School, becomes the first-ever Colts High School Woman of the Year."
+    },
+    {
+      "id": "0f8a730aa167b769",
+      "title": "Colts’ Stock Up/Stock Down: Week 14 @Duval",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119046/colts-stock-up-stock-down-week-14-duval",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-09T19:30:38+0000",
+      "summary": "Stock Up Colts’ wide receivers The Colts were in passing mode most of the game after going down 14 points early in the second quarter, and the wide receivers took full advantage of the opportunity presented. Pierce and Pittman combined for 13 catches on 20 targets and close to 160 yards, while Josh Downs also [&#8230;]"
     },
     {
       "id": "fabb2dc516686f98",
@@ -306,15 +324,6 @@
       "feed": "Colts.com",
       "published": "2025-12-08T19:20:37+0000",
       "summary": "Jones sustained a torn Achilles' late in the first quarter of the Colts' Week 14 loss to the Jacksonville Jaguars on Sunday."
-    },
-    {
-      "id": "043dfada070d5f01",
-      "title": "2026 NFL Draft Big Board Rankings: Top 100 Prospects",
-      "link": "https://stampedeblue.com/nfl-draft/118806/2026-nfl-draft-big-board-rankings-top-100-prospects",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-08T19:00:00+0000",
-      "summary": "The 2026 Draft Class is filled with talented players, giving plenty of NFL franchises the opportunity to add to their rosters. Defense has the edge over Offense in the Round 1 and Round 1-2 Graded players, with 23/39 players lining up on that side of the line. They are led by 3 fantastic prospects, the [&#8230;]"
     },
     {
       "id": "892b5767f223c1b2",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-04T20:36:58+0000",
       "summary": "Taylor explained the importance of staying disciplined and focused ahead of the Colts' Week 14 game against the Jacksonville Jaguars."
-    },
-    {
-      "id": "2c7312449c84ef81",
-      "title": "The Colts Show Mailbag: Offensive line, coin tosses, expectations for Blake Grupe",
-      "link": "https://colts.com/news/the-colts-show-mailbag-offensive-line-coin-tosses-expectations-for-blake-grupe",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-04T19:45:51+0000",
-      "summary": "The Colts Show Mailbag returns for Week 14 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
     }
   ],
   "links": [
