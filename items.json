@@ -1,14 +1,14 @@
 {
-  "updated": "2025-12-10T03:21:28+00:00",
+  "updated": "2025-12-10T04:06:49+00:00",
   "items": [
     {
-      "id": "43181b66b031621b",
-      "title": "NFL fans are flabbergasted by Colts' betting line odds vs. the Seahawks",
-      "link": "https://sports.yahoo.com/articles/nfl-fans-flabbergasted-colts-betting-030558629.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-10T03:05:58+0000",
-      "summary": "This is quite the spread."
+      "id": "7a48c9ba1c0dcf16",
+      "title": "NFL Power Rankings: New 1-32 poll, plus the most shocking statistics of the season",
+      "link": "https://espn.com/nfl/story/_/id/47189899/nfl-week-15-power-rankings-poll-32-teams-2025-most-shocking-statistics",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T04:01:23+0000",
+      "summary": "Ranking teams 1-32. We also looked at the most surprising statistical rankings for each team."
     },
     {
       "id": "a5df294a15230957",
@@ -16,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47257581/sources-qb-philip-rivers-unretiring-sign-colts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T00:05:54+0000",
+      "published": "2025-12-10T04:01:03+0000",
       "summary": "Philip Rivers, who has not played in the NFL since 2020, is signing to the Colts' practice squad, sources told ESPN's Adam Schefter on Tuesday."
     },
     {
@@ -25,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47257925/top-rated-dt-peter-woods-clemson-declares-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T00:05:54+0000",
+      "published": "2025-12-10T04:01:03+0000",
       "summary": "Top-rated defensive tackle Peter Woods of Clemson is declaring for the NFL draft."
     },
     {
@@ -34,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47258393/ex-chargers-cb-quentin-jammer-says-played-drunk",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T00:05:54+0000",
+      "published": "2025-12-10T04:01:03+0000",
       "summary": "Former San Diego Chargers cornerback Quentin Jammer posted to social media that he played several games while intoxicated during his NFL career."
     },
     {
@@ -43,8 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T00:05:54+0000",
+      "published": "2025-12-10T04:01:03+0000",
       "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
+    },
+    {
+      "id": "eb22b14fc2d8c063",
+      "title": "Colts announce roster moves, placing QB Daniel Jones on IR among them",
+      "link": "https://sports.yahoo.com/articles/colts-announce-roster-moves-placing-033034923.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T03:30:34+0000",
+      "summary": "With a slew of key injuries, the Colts are making some roster moves to keep their season alive."
     },
     {
       "id": "68ef73ea7fb45bb9",
@@ -101,15 +110,6 @@
       "summary": "Galbreath, from Cardinal Ritter High School, becomes the first-ever Colts High School Woman of the Year."
     },
     {
-      "id": "0f8a730aa167b769",
-      "title": "Colts’ Stock Up/Stock Down: Week 14 @Duval",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119046/colts-stock-up-stock-down-week-14-duval",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-09T19:30:38+0000",
-      "summary": "Stock Up Colts’ wide receivers The Colts were in passing mode most of the game after going down 14 points early in the second quarter, and the wide receivers took full advantage of the opportunity presented. Pierce and Pittman combined for 13 catches on 20 targets and close to 160 yards, while Josh Downs also [&#8230;]"
-    },
-    {
       "id": "fabb2dc516686f98",
       "title": "Barnwell sorts through NFL playoff race chaos: Are the Colts, Chiefs and Ravens finished?",
       "link": "https://espn.com/nfl/story/_/id/47236762/2025-nfl-week-14-playoff-picture-jaguars-colts-packers-bears-steelers-ravens-texans-chiefs",
@@ -126,15 +126,6 @@
       "feed": "ESPN",
       "published": "2025-12-09T19:19:45+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 14 game."
-    },
-    {
-      "id": "7a48c9ba1c0dcf16",
-      "title": "NFL Power Rankings: New 1-32 poll, plus the most shocking statistics of the season",
-      "link": "https://espn.com/nfl/story/_/id/47189899/nfl-week-15-power-rankings-poll-32-teams-2025-most-shocking-statistics",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-09T19:19:37+0000",
-      "summary": "Ranking teams 1-32. We also looked at the most surprising statistical rankings for each team."
     },
     {
       "id": "6b28395d301fa376",
@@ -315,6 +306,15 @@
       "feed": "Colts.com",
       "published": "2025-12-08T19:20:37+0000",
       "summary": "Jones sustained a torn Achilles' late in the first quarter of the Colts' Week 14 loss to the Jacksonville Jaguars on Sunday."
+    },
+    {
+      "id": "043dfada070d5f01",
+      "title": "2026 NFL Draft Big Board Rankings: Top 100 Prospects",
+      "link": "https://stampedeblue.com/nfl-draft/118806/2026-nfl-draft-big-board-rankings-top-100-prospects",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-08T19:00:00+0000",
+      "summary": "The 2026 Draft Class is filled with talented players, giving plenty of NFL franchises the opportunity to add to their rosters. Defense has the edge over Offense in the Round 1 and Round 1-2 Graded players, with 23/39 players lining up on that side of the line. They are led by 3 fantastic prospects, the [&#8230;]"
     },
     {
       "id": "892b5767f223c1b2",
