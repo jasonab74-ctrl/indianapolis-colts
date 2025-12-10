@@ -1,41 +1,59 @@
 {
-  "updated": "2025-12-10T22:44:20+00:00",
+  "updated": "2025-12-10T23:16:56+00:00",
   "items": [
     {
-      "id": "17dea4dd7d6cde0c",
-      "title": "All 32 NFL teams (including Texans) ranked by FPI ratings post-Week 14",
-      "link": "https://sports.yahoo.com/articles/32-nfl-teams-including-texans-222954828.html",
+      "id": "5fffced0a64e4de1",
+      "title": "NFL schedules Texans-Chargers, Ravens-Packers for Saturday, December 27",
+      "link": "https://sports.yahoo.com/articles/nfl-schedules-texans-chargers-ravens-230800610.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-10T22:29:54+0000",
-      "summary": "Here's where the Texans stack up in FPI ratings entering their Week 15 showdown against the Arizona Cardinals on Sunday afternoon at NRG Stadium."
+      "published": "2025-12-10T23:08:00+0000",
+      "summary": "The NFL has announced two Saturday games for the Week 17 schedule."
     },
     {
-      "id": "12d9783cf388e21a",
-      "title": "NFL Week 15 fantasy picks: Start 'em, Sit 'em",
-      "link": "https://sports.yahoo.com/articles/nfl-week-15-fantasy-picks-222311845.html",
+      "id": "fc4c01764a287c59",
+      "title": "NFL insider floats idea of Bengals' Al Golden getting another chance",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-floats-idea-bengals-230048028.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-10T22:23:11+0000",
-      "summary": "The playoffs on are in Fantasy Football so the time is right to make correct choices."
+      "published": "2025-12-10T23:00:48+0000",
+      "summary": "Does Bengals DC Al Golden deserve another chance in 2026?"
     },
     {
-      "id": "7e34bac08c1ec97e",
-      "title": "Alec Pierce injury: Latest practice status update for Colts' WR",
-      "link": "https://sports.yahoo.com/articles/alec-pierce-injury-latest-practice-221728094.html",
+      "id": "c2f06c150225004f",
+      "title": "Seahawks learn the day, time of Carolina game. What about week 18 at 49ers?",
+      "link": "https://sports.yahoo.com/articles/seahawks-learn-day-time-carolina-225653954.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-10T22:17:28+0000",
-      "summary": "Here is the latest injury update for Indianapolis Colts WR Alec Pierce in Week 15."
+      "published": "2025-12-10T22:56:53+0000",
+      "summary": "NFL announces the Seahawks get a full “mini-bye” following their Thursday, Dec. 18 home game against the Rams, before playing in Charlotte."
     },
     {
-      "id": "dc9dbbf6bf95cb0f",
-      "title": "Ranking the 10 best defensive tackles in the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/ranking-10-best-defensive-tackles-221724838.html",
+      "id": "fefa8139a3a7dbed",
+      "title": "'Let's freaking go': Philip Rivers on coming out of retirement to join Colts",
+      "link": "https://sports.yahoo.com/articles/lets-freaking-philip-rivers-coming-225507889.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-10T22:17:24+0000",
-      "summary": "This class is very strong up the middle."
+      "published": "2025-12-10T22:55:07+0000",
+      "summary": "Philip Rivers, after working out twice with the Colts, decided he was ready to unretire. What are some of the challenges he'll need to overcome?"
+    },
+    {
+      "id": "80bfc46cfaedc26b",
+      "title": "Former Panthers pass rusher announces retirement from NFL",
+      "link": "https://sports.yahoo.com/articles/former-panthers-pass-rusher-announces-225127386.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T22:51:27+0000",
+      "summary": "A former Panthers pass rusher, who spent all but four days of his NFL career in Carolina, announced his retirement on Wednesday."
+    },
+    {
+      "id": "f0b0ecaec49f429d",
+      "title": "NFL betting, odds, lines: Betting trends to know for Week 15's biggest games",
+      "link": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-lines-betting-trends-to-know-for-week-15s-biggest-games-225001699.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-10T22:50:01+0000",
+      "summary": "With five matchups carrying postseason implications, we’re highlighting each in our weekly batch of NFL betting trends designed to assist with your Week 15 handicapping."
     },
     {
       "id": "4527095d63320ab3",
@@ -43,8 +61,17 @@
       "link": "https://espn.com/nfl/story/_/id/47267938/philip-rivers-anticipated-colts-call-daniel-jones-injury",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T22:04:24+0000",
+      "published": "2025-12-10T22:43:56+0000",
       "summary": "The Colts will wait to see how this week of practice goes before deciding who will start Sunday at quarterback but Philip Rivers, 44, is under serious consideration."
+    },
+    {
+      "id": "1b7b17d473323bfe",
+      "title": "NFL memo outlines priorities for new referee CBA",
+      "link": "https://espn.com/nfl/story/_/id/47270473/with-referees-union-cba-set-expire-end-nfl-outlines-priorities-memo-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-10T22:43:56+0000",
+      "summary": "NFL teams were informed in a memo Wednesday that the collective bargaining agreement between the league and NFL Referees Association expires at the end of May, making this current season the final one of the existing agreement."
     },
     {
       "id": "d6f481a19cd489de",
@@ -52,7 +79,7 @@
       "link": "https://espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T22:04:24+0000",
+      "published": "2025-12-10T22:43:55+0000",
       "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
     },
     {
@@ -61,7 +88,7 @@
       "link": "https://espn.com/nfl/story/_/id/47268898/nfl-playoff-picture-2025-clinching-scenarios-division-races",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-10T21:36:08+0000",
+      "published": "2025-12-10T22:40:28+0000",
       "summary": "Zero teams have clinched a playoff spot this NFL season. Here's how three of them could get into the postseason in Week 15."
     },
     {
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-07T23:11:10+0000",
       "summary": "Rookie quarterback Riley Leonard played three quarters in the Colts’ 36-19 loss to the Jacksonville Jaguars after Jones left the game with an Achilles injury."
-    },
-    {
-      "id": "e453995f922b5356",
-      "title": "Colts QB Daniel Jones' Achilles' injury 'not looking good,' head coach Shane Steichen says",
-      "link": "https://colts.com/news/colts-qb-daniel-jones-achilles-injury-not-looking-good-head-coach-shane-steichen-says",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-07T21:36:24+0000",
-      "summary": "Jones sustained an Achilles' injury in the first quarter of the Colts' 36-19 loss to the Jacksonville Jaguars on Sunday at EverBank Stadium."
-    },
-    {
-      "id": "d352c10121f84de4",
-      "title": "Colts lose third straight game as Daniel Jones leaves with injury",
-      "link": "https://fox59.com/sports/colts/colts-lose-third-straight-game-as-daniel-jones-leaves-with-injury/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-07T21:18:43+0000",
-      "summary": "INDIANAPOLIS - The Indianapolis Colts' downward spiral continued on Sunday afternoon in Jacksonville as the Jaguars handed them their third straight loss, 36-19. The Colts may also have lost their starting quarterback for the foreseeable future as Daniel Jones exited the game late in the first quarter with a right Achilles injury. He was already [...]"
-    },
-    {
-      "id": "92eddf03bbb8f974",
-      "title": "Daniel Jones sustains Achilles injury in Colts' loss to Jaguars",
-      "link": "https://colts.com/news/daniel-jones-sustains-achilles-injury-in-colts-loss-to-jaguars-riley-leonard-backup-quarterback",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-07T21:15:06+0000",
-      "summary": "Rookie Riley Leonard took over at quarterback after Jones exited Sunday's game near the end of the first quarter."
     }
   ],
   "links": [
