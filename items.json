@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-11T10:48:36+00:00",
+  "updated": "2025-12-11T11:18:05+00:00",
   "items": [
+    {
+      "id": "d51cca95fe6574ea",
+      "title": "Chiefs Wire Podcast Interview Series: Retired NFL Defensive Back Erik Coleman",
+      "link": "https://sports.yahoo.com/articles/chiefs-wire-podcast-interview-series-110016491.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-11T11:00:16+0000",
+      "summary": "Chiefs Wire Podcast Interview Series: @EdEastonJr chats with retired NFL defensive back Erik Coleman"
+    },
+    {
+      "id": "f7c0f9a59339356e",
+      "title": "Full list of Week 15 straight-up picks with confidence levels",
+      "link": "https://sports.yahoo.com/articles/full-list-week-15-straight-110000954.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-11T11:00:00+0000",
+      "summary": "We make picks for all 16 NFL games with levels of confidence ahead of Week 15."
+    },
     {
       "id": "eabf6ccf2eef4504",
       "title": "NFL playoff clinching scenarios: Which teams can secure a berth in Week 15?",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-07T21:36:24+0000",
       "summary": "Jones sustained an Achilles' injury in the first quarter of the Colts' 36-19 loss to the Jacksonville Jaguars on Sunday at EverBank Stadium."
-    },
-    {
-      "id": "d352c10121f84de4",
-      "title": "Colts lose third straight game as Daniel Jones leaves with injury",
-      "link": "https://fox59.com/sports/colts/colts-lose-third-straight-game-as-daniel-jones-leaves-with-injury/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-07T21:18:43+0000",
-      "summary": "INDIANAPOLIS - The Indianapolis Colts' downward spiral continued on Sunday afternoon in Jacksonville as the Jaguars handed them their third straight loss, 36-19. The Colts may also have lost their starting quarterback for the foreseeable future as Daniel Jones exited the game late in the first quarter with a right Achilles injury. He was already [...]"
-    },
-    {
-      "id": "92eddf03bbb8f974",
-      "title": "Daniel Jones sustains Achilles injury in Colts' loss to Jaguars",
-      "link": "https://colts.com/news/daniel-jones-sustains-achilles-injury-in-colts-loss-to-jaguars-riley-leonard-backup-quarterback",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-07T21:15:06+0000",
-      "summary": "Rookie Riley Leonard took over at quarterback after Jones exited Sunday's game near the end of the first quarter."
     }
   ],
   "links": [
