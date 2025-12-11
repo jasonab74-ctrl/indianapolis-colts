@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-11T04:08:49+00:00",
+  "updated": "2025-12-11T04:54:25+00:00",
   "items": [
     {
       "id": "3bec03520e242c25",
@@ -9,15 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-11T03:45:27+0000",
       "summary": "The San Francisco 49ers are in line to face Philip Rivers when they visit the Indianapolis Colts in Week 16."
-    },
-    {
-      "id": "afc7e40d2afdcd0e",
-      "title": "Colts Week 15 injury report: Buckner returns; Gardner doesn't practice",
-      "link": "https://sports.yahoo.com/articles/colts-week-15-injury-report-034157260.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-11T03:41:57+0000",
-      "summary": "On the Colts' first Week 15 injury report, 10 players were listed including DeForest Buckner, Sauce Gardner, and Alec Pierce."
     },
     {
       "id": "e29596040934e7c3",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-07T21:36:24+0000",
       "summary": "Jones sustained an Achilles' injury in the first quarter of the Colts' 36-19 loss to the Jacksonville Jaguars on Sunday at EverBank Stadium."
+    },
+    {
+      "id": "d352c10121f84de4",
+      "title": "Colts lose third straight game as Daniel Jones leaves with injury",
+      "link": "https://fox59.com/sports/colts/colts-lose-third-straight-game-as-daniel-jones-leaves-with-injury/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-07T21:18:43+0000",
+      "summary": "INDIANAPOLIS - The Indianapolis Colts' downward spiral continued on Sunday afternoon in Jacksonville as the Jaguars handed them their third straight loss, 36-19. The Colts may also have lost their starting quarterback for the foreseeable future as Daniel Jones exited the game late in the first quarter with a right Achilles injury. He was already [...]"
     }
   ],
   "links": [
