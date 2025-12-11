@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-11T19:21:13+00:00",
+  "updated": "2025-12-11T19:40:17+00:00",
   "items": [
     {
       "id": "72935c18c13cd241",
@@ -9,51 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-11T19:14:22+0000",
       "summary": "Josh Allen and Puka Nacua made NFL history in Week 14 and have been recognized for their performances."
-    },
-    {
-      "id": "20d5b3751f8f9170",
-      "title": "Marvin Mims, Rhashid Shaheed honored by NFL for Week 14 return TDs",
-      "link": "https://sports.yahoo.com/articles/marvin-mims-rhashid-shaheed-honored-190538848.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-11T19:05:38+0000",
-      "summary": "The NFL has honored a pair of wide receivers as the Week 14 Special Teams Players of the Week after they secured touchdowns on returns this past week."
-    },
-    {
-      "id": "c4ea1039c679f010",
-      "title": "Announcers revealed for Colts Week 15 matchup vs. Seahawks",
-      "link": "https://sports.yahoo.com/articles/announcers-revealed-colts-week-15-190440033.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-11T19:04:40+0000",
-      "summary": "The announcers for the Indianapolis Colts' Week 15 matchup with the Seattle Seahawks have been revealed."
-    },
-    {
-      "id": "80fdc0da3d111005",
-      "title": "Joel Smyth's Fantasy Football PPR Rankings for Week 15",
-      "link": "https://sports.yahoo.com/fantasy/article/joel-smyths-fantasy-football-ppr-rankings-for-week-15-190430280.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-11T19:04:30+0000",
-      "summary": "Here are Joel Smyth's PPR fantasy football rankings for Week 15 of the 2025 NFL season."
-    },
-    {
-      "id": "d2793c7e1c60b406",
-      "title": "NFL Expert Picks for Week 15 of 2025",
-      "link": "https://sports.yahoo.com/articles/nfl-expert-picks-week-15-190000147.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-11T19:00:00+0000",
-      "summary": "Our picks for Week 15 in the NFL."
-    },
-    {
-      "id": "e38cccfe6634f318",
-      "title": "Rasul Douglas honored by NFL after shattering 15-year streak",
-      "link": "https://sports.yahoo.com/articles/rasul-douglas-honored-nfl-shattering-185941301.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-11T18:59:41+0000",
-      "summary": "Rasul Douglas and Al-Quadin Muhammed were honored by the NFL for their strong defensive performances in Week 14."
     },
     {
       "id": "4527095d63320ab3",
@@ -540,6 +495,51 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T14:48:13+0000",
       "summary": "The Indianapolis Colts fell to 8-5 with a 36-19 loss to the Jacksonville Jaguars and lost their quarterback in the process. Matt Adams recaps the game and explores where the Colts go from here. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
+    },
+    {
+      "id": "d6f481a19cd489de",
+      "title": "Myles Garrett's journey to the NFL sack record: 'It is written'",
+      "link": "https://espn.com/nfl/story/_/id/47203616/myles-garrett-cleveland-browns-sacks-record-journey-pass-rushing-nfl-history-written",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T05:36:45+0000",
+      "summary": "Four sacks shy of making NFL history, the Cleveland Browns veteran is among the all-time great pass rushers."
+    },
+    {
+      "id": "d4d27c869da83059",
+      "title": "Two vulnerable NFL sack records: Tracking pace for Garrett (20!), Broncos' D (55!)",
+      "link": "https://espn.com/nfl/story/_/id/47100067/tracking-sacks-record-cleveland-browns-myles-garrett-denver-broncos-pace-nfl-single-season-player-team",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-08T05:36:45+0000",
+      "summary": "The Browns' vet edge rusher and Denver's defense are on pace to rewrite the single-season sacks record book."
+    },
+    {
+      "id": "640da20495f483cc",
+      "title": "Colts’ late fade continues, and now they’ll be without Daniel Jones",
+      "link": "https://fox59.com/sports/colts/colts-late-fade-continues-and-now-theyll-be-without-daniel-jones/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-08T01:52:56+0000",
+      "summary": "INDIANAPOLIS —The question no longer is whether the Indianapolis Colts can find a way to halt their death spiral and limp into the playoffs. Cue Jim Mora if you want an appropriate sound bite. Playoffs??? After their latest misadventure in Jacksonville — Sunday’s 36-19 loss that extended their road losing streak to the Jaguars to [...]"
+    },
+    {
+      "id": "30831aa867ba64e1",
+      "title": "Colts locker room reacts to Daniel Jones' Achilles injury: 'We all in this together'",
+      "link": "https://colts.com/news/colts-locker-room-reacts-daniel-jones-achilles-injury-riley-leonard-shane-steichen-jaguars-quarterback",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-07T23:11:10+0000",
+      "summary": "Rookie quarterback Riley Leonard played three quarters in the Colts’ 36-19 loss to the Jacksonville Jaguars after Jones left the game with an Achilles injury."
+    },
+    {
+      "id": "e453995f922b5356",
+      "title": "Colts QB Daniel Jones' Achilles' injury 'not looking good,' head coach Shane Steichen says",
+      "link": "https://colts.com/news/colts-qb-daniel-jones-achilles-injury-not-looking-good-head-coach-shane-steichen-says",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-07T21:36:24+0000",
+      "summary": "Jones sustained an Achilles' injury in the first quarter of the Colts' 36-19 loss to the Jacksonville Jaguars on Sunday at EverBank Stadium."
     }
   ],
   "links": [
