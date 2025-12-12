@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T17:18:43+00:00",
+  "updated": "2025-12-12T17:43:14+00:00",
   "items": [
     {
       "id": "5c633e5ecda4ca5a",
@@ -7,26 +7,35 @@
       "link": "https://espn.com/nfl/story/_/id/47286647/jets-rookie-brady-cook-make-first-nfl-start-vs-jaguars",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-12T17:13:26+0000",
+      "published": "2025-12-12T17:33:44+0000",
       "summary": "The New York Jets will turn to Brady Cook as their starter Sunday against the Jacksonville Jaguars, giving the rookie his first start in the NFL."
     },
     {
-      "id": "d662a1a6382e5dc3",
-      "title": "Texans minority owner Loya suspended, fined",
-      "link": "https://espn.com/nfl/story/_/id/47279188/texans-minority-owner-javier-loya-suspended-fined-500k",
+      "id": "b66d4b634d39b08f",
+      "title": "Ranking the top nine NFL head coaching candidates: Which coordinators could land an open job?",
+      "link": "https://espn.com/nfl/story/_/id/47259365/ranking-nfl-head-coach-candidates-2026-carousel-interviews-coordinators-hirings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-12T17:13:26+0000",
-      "summary": "Texans minority owner Javier Loya has been suspended indefinitely by the NFL and fined $500,000 after the league determined he violated the personal conduct policy."
+      "published": "2025-12-12T17:30:51+0000",
+      "summary": "Will former head coaches Vance Joseph and Matt Nagy get another shot? Could Joe Brady get interviews? We stacked the hottest coaching candidates right now."
     },
     {
-      "id": "f713973f678d44ee",
-      "title": "Week 15 NFL odds, picks, predictions: Our NFL best bets, including a play in Chargers-Chiefs",
-      "link": "https://sports.yahoo.com/nfl/betting/article/week-15-nfl-odds-picks-predictions-our-nfl-best-bets-including-a-play-in-chargers-chiefs-170336379.html",
+      "id": "7fb4009096b2a663",
+      "title": "Our guide to every Week 15 NFL game: Matchup previews, predictions and what's at stake",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47256881/nfl-week-15-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T17:28:29+0000",
+      "summary": "Who can improve their chances of making the playoffs? And who is likely out? Picks, predictions and stats for every game."
+    },
+    {
+      "id": "d48818cd987b0463",
+      "title": "Micah's expectations for NFC North in NFL Week 15",
+      "link": "https://sports.yahoo.com/articles/micahs-expectations-nfc-north-nfl-171903608.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-12T17:03:36+0000",
-      "summary": "Our NFL handicappers give their best bets for Week 15 of the season."
+      "published": "2025-12-12T17:19:03+0000",
+      "summary": "The Bears have a shot to get a bounce-back win, while the Packers and Lions will fight hard to maintain their momentum"
     },
     {
       "id": "903706e7c5725e55",
@@ -36,24 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-12T15:48:04+0000",
       "summary": "It's uncertain what the QB has left on the field, but Rivers hasn't lost his enthusiasm, and that's big in Indy."
-    },
-    {
-      "id": "7fb4009096b2a663",
-      "title": "Our guide to every Week 15 NFL game: Matchup previews, predictions and what's at stake",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47256881/nfl-week-15-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T15:27:11+0000",
-      "summary": "Who can improve their chances of making the playoffs? And who is likely out? Picks, predictions and stats for every game."
-    },
-    {
-      "id": "b66d4b634d39b08f",
-      "title": "Ranking the top nine NFL head coaching candidates: Which coordinators could land an open job?",
-      "link": "https://espn.com/nfl/story/_/id/47259365/ranking-nfl-head-coach-candidates-2026-carousel-interviews-coordinators-hirings",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T15:06:05+0000",
-      "summary": "Will former head coaches Vance Joseph and Matt Nagy get another shot? Could Joe Brady get interviews? We stacked the hottest coaching candidates right now."
     },
     {
       "id": "56d7ea82b519b181",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-08T15:57:40+0000",
       "summary": "Following their loss to the Jacksonville Jaguars on Sunday, the Colts are now third in the AFC South."
+    },
+    {
+      "id": "f57f8df5491f768b",
+      "title": "New Palestine's Kyle Ralph named Colts High School 'Coach of the Year'",
+      "link": "https://colts.com/news/new-palestine-s-kyle-ralph-named-colts-high-school-coach-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T15:00:00+0000",
+      "summary": "Ralph, who led the New Palestine Dragons to back-to-back state championships for the second time in his career, has continued to achieve new heights as a coach."
     }
   ],
   "links": [
