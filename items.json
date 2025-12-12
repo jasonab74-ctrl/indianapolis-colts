@@ -1,13 +1,31 @@
 {
-  "updated": "2025-12-12T01:38:32+00:00",
+  "updated": "2025-12-12T03:22:16+00:00",
   "items": [
+    {
+      "id": "ce4844fd5a0efead",
+      "title": "Colts timeline of starting QBs: Philip Rivers set to re-join Daniel Jones, Carson Wentz in post-Andrew Luck era",
+      "link": "https://sports.yahoo.com/articles/colts-timeline-starting-qbs-philip-184018726.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T03:04:00+0000",
+      "summary": "Since Andrew Luck retired, it's been a revolving door at quarterback for the Indianapolis Colts."
+    },
+    {
+      "id": "9bba82e7accb85c7",
+      "title": "League announces changes to 2026 NFL Draft for teams",
+      "link": "https://sports.yahoo.com/articles/league-announces-changes-2026-nfl-025447746.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T02:54:47+0000",
+      "summary": "The NFL announced changes to the first round of the NFL Draft on Wednesday."
+    },
     {
       "id": "dd8897791866dc61",
       "title": "The NFL's best player through 14 games is ...? Barnwell stacks 15 MVP candidates and picks the winner",
       "link": "https://espn.com/nfl/story/_/id/47259279/2025-nfl-mvp-candidates-ranking-tiers-stafford-maye-love-garrett-darnold",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-12T01:21:55+0000",
+      "published": "2025-12-12T02:26:58+0000",
       "summary": "Let's make the MVP cases for 15 players -- including a ranking of the top five. Can anyone catch Matthew Stafford or Drake Maye? Is there a non-QB in the mix?"
     },
     {
@@ -36,42 +54,6 @@
       "feed": "ESPN",
       "published": "2025-12-12T01:12:57+0000",
       "summary": "The NFL uniform scene is off to a strong start with Thursday's game, but the week ends well, too."
-    },
-    {
-      "id": "60d1a2f72827c4ec",
-      "title": "Clemson defensive tackle DeMonte Capehart declares for the NFL draft",
-      "link": "https://sports.yahoo.com/articles/clemson-defensive-tackle-demonte-capehart-010527915.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T01:05:27+0000",
-      "summary": "Another Clemson player says his goodbye to Clemson as he heads to the 2026 NFL draft."
-    },
-    {
-      "id": "eb5f3a163d322033",
-      "title": "Week 15 NFL TV Schedule: Live game message board and fan discussion",
-      "link": "https://sports.yahoo.com/articles/week-15-nfl-tv-schedule-010000512.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T01:00:00+0000",
-      "summary": "NFL Week 15 live game message board and fan discussion"
-    },
-    {
-      "id": "d6297c2abd5dcbf8",
-      "title": "NFL quarterback rankings entering Week 15",
-      "link": "https://sports.yahoo.com/articles/nfl-quarterback-rankings-entering-week-005749068.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T00:57:49+0000",
-      "summary": "How all 32 NFL starting quarterbacks stack up after Week 14 of the 2025 season."
-    },
-    {
-      "id": "04305b4debc4b288",
-      "title": "Patriots rooting guide and discussion for NFL Week 15",
-      "link": "https://sports.yahoo.com/articles/patriots-rooting-guide-discussion-nfl-005654859.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T00:56:54+0000",
-      "summary": "Who Patriots fans should be rooting for in Week 15 of the 2025 NFL season."
     },
     {
       "id": "d662a1a6382e5dc3",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-08T19:20:37+0000",
       "summary": "Jones sustained a torn Achilles' late in the first quarter of the Colts' Week 14 loss to the Jacksonville Jaguars on Sunday."
+    },
+    {
+      "id": "892b5767f223c1b2",
+      "title": "Achilles injury ends season for Colts’ Daniel Jones",
+      "link": "https://fox59.com/sports/colts/achilles-injury-ends-season-for-colts-daniel-jones/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-08T18:39:13+0000",
+      "summary": "INDIANAPOLIS – Daniel Jones’ first season with the Indianapolis Colts is over. As the team feared, the team's starting quarterback tore his right Achilles tendon in the first quarter of Sunday’s 36-19 loss at Jacksonville, according to a source with knowledge of the situation. A Monday MRI confirmed what the Colts had anticipated. Jones, who [...]"
+    },
+    {
+      "id": "cd6eff824274c2d5",
+      "title": "Around the AFC South: Texans take down Chiefs to move to second in division, Titans beat Browns",
+      "link": "https://colts.com/news/around-the-afc-south-standings-texans-cj-stroud-patrick-mahomes-chiefs-sunday-night-playoffs-titans-colts",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T15:57:40+0000",
+      "summary": "Following their loss to the Jacksonville Jaguars on Sunday, the Colts are now third in the AFC South."
     }
   ],
   "links": [
