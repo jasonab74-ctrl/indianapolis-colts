@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-12T07:22:14+00:00",
+  "updated": "2025-12-12T07:42:40+00:00",
   "items": [
+    {
+      "id": "d662a1a6382e5dc3",
+      "title": "Texans minority owner Loya suspended, fined",
+      "link": "https://espn.com/nfl/story/_/id/47279188/texans-minority-owner-javier-loya-suspended-fined-500k",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T07:27:33+0000",
+      "summary": "Texans minority owner Javier Loya has been suspended indefinitely by the NFL and fined $500,000 after the league determined he violated the personal conduct policy."
+    },
     {
       "id": "b96868f4107d01ca",
       "title": "Pitts' performance is most productive by NFL tight end since 1996, helps Falcons beat Bucs",
@@ -11,24 +20,6 @@
       "summary": "Catch by catch, Kyle Pitts Sr. put the mistake-prone Atlanta Falcons on his back and carried them to a thrilling comeback victory over the Tampa Bay Buccaneers.  Thursday night got even better for the fifth-year pro when the former University of Florida star learned his 11-reception, 166-yard, three-touchdown performance that keyed a 29-28 win was the most productive game by an NFL tight end in nearly three decades.  The previous tight end to finish with at least 10 catches, 150 yards receiving and three TDs in a game was Hall of Famer Shannon Sharpe in 1996."
     },
     {
-      "id": "d662a1a6382e5dc3",
-      "title": "Texans minority owner Loya suspended, fined",
-      "link": "https://espn.com/nfl/story/_/id/47279188/texans-minority-owner-javier-loya-suspended-fined-500k",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T06:35:53+0000",
-      "summary": "Texans minority owner Javier Loya has been suspended indefinitely by the NFL and fined $500,000 after the league determined he violated the personal conduct policy."
-    },
-    {
-      "id": "4527095d63320ab3",
-      "title": "Rivers an option to start; Colts in wait-see mode",
-      "link": "https://espn.com/nfl/story/_/id/47267938/philip-rivers-anticipated-colts-call-daniel-jones-injury",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T06:35:53+0000",
-      "summary": "The Colts will wait to see how this week of practice goes before deciding who will start Sunday at quarterback but Philip Rivers, 44, is under serious consideration."
-    },
-    {
       "id": "f12f9c10a5024aaa",
       "title": "Woody Marks among Week 15's top 30 predicted anytime touchdown scorers",
       "link": "https://espn.com/espn/betting/story/_/id/47279189/nfl-week-15-touchdown-odds-predictions",
@@ -36,15 +27,6 @@
       "feed": "ESPN",
       "published": "2025-12-12T06:13:37+0000",
       "summary": "Jonathan Taylor, Woody Marks and Bijan Robinson are among top predictions for anytime touchdown props in Week 15."
-    },
-    {
-      "id": "e20eced753b78cb1",
-      "title": "Fernando Mendoza mock draft projection: Will Indiana QB go No. 1 overall in 2026 NFL Draft?",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-mock-draft-projection-060001069.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T06:00:01+0000",
-      "summary": "Fernando Mendoza has emerged as the top quarterback prospect for the first round after a Heisman-finalist season."
     },
     {
       "id": "a6193898553745e5",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-08T15:57:40+0000",
       "summary": "Following their loss to the Jacksonville Jaguars on Sunday, the Colts are now third in the AFC South."
+    },
+    {
+      "id": "f57f8df5491f768b",
+      "title": "New Palestine's Kyle Ralph named Colts High School 'Coach of the Year'",
+      "link": "https://colts.com/news/new-palestine-s-kyle-ralph-named-colts-high-school-coach-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T15:00:00+0000",
+      "summary": "Ralph, who led the New Palestine Dragons to back-to-back state championships for the second time in his career, has continued to achieve new heights as a coach."
+    },
+    {
+      "id": "d449fafeaa782275",
+      "title": "Colts Blue Zone Podcast 447: Things Fall Apart in Jacksonville",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-447-things-fall-apart-in-jacksonville/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-08T14:48:13+0000",
+      "summary": "The Indianapolis Colts fell to 8-5 with a 36-19 loss to the Jacksonville Jaguars and lost their quarterback in the process. Matt Adams recaps the game and explores where the Colts go from here. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
     }
   ],
   "links": [
