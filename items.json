@@ -1,6 +1,33 @@
 {
-  "updated": "2025-12-12T21:17:36+00:00",
+  "updated": "2025-12-12T21:38:11+00:00",
   "items": [
+    {
+      "id": "bae73985594da2e7",
+      "title": "Clemson has five players invited to the upcoming Senior Bowl",
+      "link": "https://sports.yahoo.com/articles/clemson-five-players-invited-upcoming-212556938.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T21:25:56+0000",
+      "summary": "Five Clemson players have earned the right to attend the Senior Bowl and make their case for NFL scouts."
+    },
+    {
+      "id": "4448c871971453e8",
+      "title": "Big Favorites, Bills-Patriots Highlight NFL’s Tough Slate in Week 15",
+      "link": "https://sports.yahoo.com/articles/big-favorites-bills-patriots-highlight-212500954.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T21:25:00+0000",
+      "summary": "Buffalo is getting a lot of action from the public ahead of a major AFC East showdown."
+    },
+    {
+      "id": "fcabd4326caf8217",
+      "title": "Sean Payton reacts to Sam Ehlinger's decision: 'That's a big deal'",
+      "link": "https://sports.yahoo.com/articles/sean-payton-reacts-sam-ehlingers-211937664.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T21:19:37+0000",
+      "summary": "&quot;That's a big deal,&quot; Sean Payton said of Sam Ehlinger turning down an offer from the Colts to remain with the Broncos."
+    },
     {
       "id": "c5afe032da090aee",
       "title": "Seahawks rule 1 player OUT for Sunday, 3 are QUESTIONABLE vs Colts",
@@ -18,42 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-12T21:08:12+0000",
       "summary": "Sunday marks 7,034 days since Philip Rivers made his first NFL start."
-    },
-    {
-      "id": "b9e96c3e4cb94be2",
-      "title": "From troubled youth to NFL star: Garett Bolles' journey",
-      "link": "https://sports.yahoo.com/articles/troubled-youth-nfl-star-garett-210342406.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T21:03:42+0000",
-      "summary": "His first career Pro Bowl nod is tantalizingly within reach for nine-year NFL veteran Garett Bolles, whose renaissance on the gridiron mirrors his awakening off the field.  The Broncos' left tackle has polished the rough edges of his game over the years to go from a raw latecomer to football (he was a lacrosse star as a kid) to one of the league's best blindside protectors.  Early on, he was derided by Broncos fans for his propensity for penalties."
-    },
-    {
-      "id": "60f41a670b049787",
-      "title": "Colts QB Riley Leonard does not have an injury designation",
-      "link": "https://sports.yahoo.com/articles/colts-qb-riley-leonard-does-210043854.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T21:00:43+0000",
-      "summary": "It remains to be seen whether Colts rookie Riley Leonard will make his first career start, but he is good to go for Sunday."
-    },
-    {
-      "id": "867b9c85448acf29",
-      "title": "Bitter Cold, Even Subzero Wind Chills To Impact NFL Games This Weekend",
-      "link": "https://sports.yahoo.com/articles/bitter-cold-even-subzero-wind-175000383.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T21:00:00+0000",
-      "summary": "This week it's all about an arctic blast that will bring frigid air and gusty winds. Wind chills below zero could be felt in some NFL stadiums in week 15."
-    },
-    {
-      "id": "ce4963835167b507",
-      "title": "4 Colts players out, one questionable in Week 15 v. Seahawks",
-      "link": "https://sports.yahoo.com/articles/4-colts-players-one-questionable-205956640.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-12T20:59:56+0000",
-      "summary": "On the Colts final Week 15 injury report, four players are out and another is questionable."
     },
     {
       "id": "cf296861e51a9b0c",
@@ -89,7 +80,7 @@
       "source": "Colts.com",
       "feed": "Colts.com",
       "published": "2025-12-12T18:00:00+0000",
-      "summary": "Galbreath, from Cardinal Ritter High School, becomes the first-ever Colts High School Woman of the Year."
+      "summary": "Eastern Hancock High School’s Manship has been announced as the winner of the 2025 award."
     },
     {
       "id": "382ba184f773b9cd",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-08T21:59:30+0000",
       "summary": "The Colts' 36-19 loss to the Jacksonville Jaguars on Sunday dropped them to 8-5 on the season, and was their third consecutive defeat."
+    },
+    {
+      "id": "0089c8eed7a1d8e9",
+      "title": "Bill Brooks' Breakdown: How an NFL team regroups after losing its starting QB",
+      "link": "https://colts.com/news/bill-brooks-breakdown-colts-daniel-jones-achilles-riley-leonard-backup-team-regroup",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T21:29:26+0000",
+      "summary": "Daniel Jones sustained a season-ending Achilles injury during the Colts’ 36-19 loss to the Jacksonville Jaguars on Sunday. Colts Ring of Honor wide receiver Bill Brooks gives his insight into how NFL players process losing their leader in such a shocking way."
     }
   ],
   "links": [
