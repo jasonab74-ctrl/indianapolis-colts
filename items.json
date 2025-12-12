@@ -1,14 +1,23 @@
 {
-  "updated": "2025-12-12T23:18:59+00:00",
+  "updated": "2025-12-12T23:39:22+00:00",
   "items": [
     {
-      "id": "0c21a0e2792b91a8",
-      "title": "Panthers’ Tetairoa McMillan sits down with Channel 9 amidst breakout rookie season",
-      "link": "https://sports.yahoo.com/articles/panthers-tetairoa-mcmillan-sits-down-230308496.html",
+      "id": "46c73093a6dbb56e",
+      "title": "NFL 'troubled' by rise of sports prediction markets",
+      "link": "https://espn.com/nfl/story/_/id/47288011/nfl-troubled-rise-sports-prediction-markets",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T23:24:33+0000",
+      "summary": "The NFL expressed its concern about the rise of prediction markets to a congressional committee Thursday, stating that the league is particularly troubled by sports contracts being offered in states where traditional betting has not been legalized."
+    },
+    {
+      "id": "eb7918493aad8d3a",
+      "title": "Arion Carter declares for 2026 NFL Draft, opts out of bowl",
+      "link": "https://sports.yahoo.com/articles/arion-carter-declares-2026-nfl-232348355.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-12T23:03:08+0000",
-      "summary": "Carolina Panthers wide receiver Tetairoa McMillan is making a strong case for NFL Rookie of the Year as he climbs the ranks among Panthers’ rookies for receiving yards and touchdowns."
+      "published": "2025-12-12T23:23:48+0000",
+      "summary": "Another Tennessee defender enters the draft."
     },
     {
       "id": "7fb4009096b2a663",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-08T19:41:43+0000",
       "summary": "Head coach Shane Steichen said the Colts could also make an additional roster move at quarterback this week with Daniel Jones sustaining a season-ending Achilles' injury against the Jacksonville Jaguars."
-    },
-    {
-      "id": "32558469dbf3a4a2",
-      "title": "Colts head coach Shane Steichen confirms QB Daniel Jones sustained season-ending torn Achilles' vs. Jaguars",
-      "link": "https://colts.com/news/colts-head-coach-shane-steichen-confirms-qb-daniel-jones-sustained-season-ending-torn-achilles-vs-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-08T19:20:37+0000",
-      "summary": "Jones sustained a torn Achilles' late in the first quarter of the Colts' Week 14 loss to the Jacksonville Jaguars on Sunday."
     }
   ],
   "links": [
