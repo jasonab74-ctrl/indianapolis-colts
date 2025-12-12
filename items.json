@@ -1,14 +1,95 @@
 {
-  "updated": "2025-12-12T12:41:15+00:00",
+  "updated": "2025-12-12T13:33:38+00:00",
   "items": [
     {
-      "id": "49696bf124948bb3",
-      "title": "NFL experts predict winner of Jaguars vs. Jets Week 15 matchup",
-      "link": "https://sports.yahoo.com/articles/nfl-experts-predict-winner-jaguars-121748866.html",
+      "id": "7fb4009096b2a663",
+      "title": "Our guide to every Week 15 NFL game: Matchup previews, predictions and what's at stake",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47256881/nfl-week-15-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T13:23:45+0000",
+      "summary": "Who can improve their chances of making the playoffs? And who is likely out? Picks, predictions and stats for every Week 15 game."
+    },
+    {
+      "id": "56d7ea82b519b181",
+      "title": "Daniel Jones thanks Colts organization, fans for support following season-ending Achilles injury",
+      "link": "https://colts.com/news/daniel-jones-thanks-colts-organization-fans-for-support-following-season-ending-achilles-injury",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-12T13:22:32+0000",
+      "summary": "Jones posted on Instagram Thursday night expressing his gratitude for the encouragement he's received over the last few days."
+    },
+    {
+      "id": "258c846d126529aa",
+      "title": "NFL Week 15's fashionable arrivals, featuring Bucs QB Baker Mayfield",
+      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T13:16:45+0000",
+      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
+    },
+    {
+      "id": "c53fe4719dd245d7",
+      "title": "Bucs' Creamsicles, Falcons' throwbacks top Week 15 uniforms",
+      "link": "https://espn.com/nfl/story/_/id/47251841/nfl-2025-week-15-uniforms",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T13:16:45+0000",
+      "summary": "The NFL uniform scene is off to a strong start with Thursday's game, but the week ends well, too."
+    },
+    {
+      "id": "3559d8ecdc23700c",
+      "title": "NFL playoff picture: Updated projections, chances to make the postseason",
+      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T13:15:45+0000",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to Super Bowl LX."
+    },
+    {
+      "id": "23d24a8b2c86a584",
+      "title": "New York Giants' Charlie Bullen: Abdul Carter turned a corner after benchings",
+      "link": "https://sports.yahoo.com/articles/york-giants-charlie-bullen-abdul-130232361.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-12T12:17:48+0000",
-      "summary": "Here is who the NFL experts are predicting wins the Jaguars vs. Jets Week 15 game."
+      "published": "2025-12-12T13:02:32+0000",
+      "summary": "It was a lesson in NFL humility but after a pair of benchings, New York Giants rookie Abdul Carter has traded tardiness for extra study."
+    },
+    {
+      "id": "1f6642617a03d105",
+      "title": "Texas A&M star Edge talks NFL future and college playoff run",
+      "link": "https://sports.yahoo.com/articles/texas-m-star-edge-talks-130143065.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T13:01:43+0000",
+      "summary": "Check out The Draft Network's Justin Melo's recent interview with Texas A&amp;M star Edge Cashius Howell ahead of the CFP."
+    },
+    {
+      "id": "54c4d0cfb12613e9",
+      "title": "Tim Tebow discusses the Allstate Wuerffel Trophy legacy",
+      "link": "https://sports.yahoo.com/articles/tim-tebow-discusses-allstate-wuerffel-130041392.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-12T13:00:41+0000",
+      "summary": "During his conversation with @EdEastonJr, retired NFL quarterback Tim Tebow discussed the Wuerffel Trophy legacy"
+    },
+    {
+      "id": "20e5ab89b1b55d71",
+      "title": "Philip Rivers returning to the Colts is the thing of movies",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119206/philip-rivers-returning-to-the-colts-is-the-thing-of-movies",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-12T13:00:00+0000",
+      "summary": "Get your popcorn ready because things are about to get good or go terribly wrong. Either way, the scene the Indianapolis Colts are setting due to their reunion with Philip Rivers will be the thing of movies. How could it not be? The man is 44-years old and has been away from the NFL for [&#8230;]"
+    },
+    {
+      "id": "b66d4b634d39b08f",
+      "title": "Ranking the top nine NFL head coaching candidates: Which coordinators could land an open job?",
+      "link": "https://espn.com/nfl/story/_/id/47259365/ranking-nfl-head-coach-candidates-2026-carousel-interviews-coordinators-hirings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-12T12:55:41+0000",
+      "summary": "Will former head coaches Vance Joseph and Matt Nagy get another shot? Could Joe Brady get interviews? We stacked the hottest coaching candidates right now."
     },
     {
       "id": "d662a1a6382e5dc3",
@@ -74,24 +155,6 @@
       "summary": "It's uncertain what the QB has left on the field, but Rivers hasn't lost his enthusiasm, and that's big in Indy."
     },
     {
-      "id": "258c846d126529aa",
-      "title": "NFL Week 15's fashionable arrivals, featuring Bucs QB Baker Mayfield",
-      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T01:12:57+0000",
-      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
-    },
-    {
-      "id": "c53fe4719dd245d7",
-      "title": "Bucs' Creamsicles, Falcons' throwbacks top Week 15 uniforms",
-      "link": "https://espn.com/nfl/story/_/id/47251841/nfl-2025-week-15-uniforms",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T01:12:57+0000",
-      "summary": "The NFL uniform scene is off to a strong start with Thursday's game, but the week ends well, too."
-    },
-    {
       "id": "7a48c9ba1c0dcf16",
       "title": "NFL Power Rankings: New 1-32 poll, plus the most shocking statistics of the season",
       "link": "https://espn.com/nfl/story/_/id/47189899/nfl-week-15-power-rankings-poll-32-teams-2025-most-shocking-statistics",
@@ -153,15 +216,6 @@
       "feed": "Colts.com",
       "published": "2025-12-11T20:45:42+0000",
       "summary": "Colts defensive tackle DeForest Buckner returned to practice this week, but has been on injured reserve since early November with a neck injury he sustained in Week 9 against the Pittsburgh Steelers."
-    },
-    {
-      "id": "eabf6ccf2eef4504",
-      "title": "NFL playoff clinching scenarios: Which teams can secure a berth in Week 15?",
-      "link": "https://espn.com/nfl/story/_/id/47268898/nfl-playoff-picture-2025-clinching-scenarios-division-races",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-11T20:16:50+0000",
-      "summary": "Zero teams have clinched a playoff spot this NFL season. Here's how three of them could get into the postseason in Week 15."
     },
     {
       "id": "3eb57459e0dd995c",
@@ -279,15 +333,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-10T18:33:48+0000",
       "summary": "The Indianapolis Colts announced on Wednesday that the team has placed starting veteran cornerback Charvarius Ward on injured reserve, who suffered his third concussion of the season. While such a roster move means that Ward will be out for the remainder of the 2025 regular season, he likely will have to perform his own contemplation [&#8230;]"
-    },
-    {
-      "id": "f7ab1c154f2d3f6a",
-      "title": "Some reasons for the Colts to move on from Steichen and Ballard",
-      "link": "https://stampedeblue.com/indianapolis-colts-coaching-staff/118938/some-reasons-for-the-colts-to-move-on-from-steichen-and-ballard",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T18:20:11+0000",
-      "summary": "Let me start by saying that much of what you read from here on will be more fan based, than journalistically based. It is not as if anyone was getting me confused with Frank Deford anyway, but I always hope that at the end of an article, you feel like responding. It doesn’t matter whether [&#8230;]"
     },
     {
       "id": "a73d2d630de508d4",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-08T19:41:43+0000",
       "summary": "Head coach Shane Steichen said the Colts could also make an additional roster move at quarterback this week with Daniel Jones sustaining a season-ending Achilles' injury against the Jacksonville Jaguars."
-    },
-    {
-      "id": "32558469dbf3a4a2",
-      "title": "Colts head coach Shane Steichen confirms QB Daniel Jones sustained season-ending torn Achilles' vs. Jaguars",
-      "link": "https://colts.com/news/colts-head-coach-shane-steichen-confirms-qb-daniel-jones-sustained-season-ending-torn-achilles-vs-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-08T19:20:37+0000",
-      "summary": "Jones sustained a torn Achilles' late in the first quarter of the Colts' Week 14 loss to the Jacksonville Jaguars on Sunday."
-    },
-    {
-      "id": "892b5767f223c1b2",
-      "title": "Achilles injury ends season for Colts’ Daniel Jones",
-      "link": "https://fox59.com/sports/colts/achilles-injury-ends-season-for-colts-daniel-jones/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-08T18:39:13+0000",
-      "summary": "INDIANAPOLIS – Daniel Jones’ first season with the Indianapolis Colts is over. As the team feared, the team's starting quarterback tore his right Achilles tendon in the first quarter of Sunday’s 36-19 loss at Jacksonville, according to a source with knowledge of the situation. A Monday MRI confirmed what the Colts had anticipated. Jones, who [...]"
-    },
-    {
-      "id": "cd6eff824274c2d5",
-      "title": "Around the AFC South: Texans take down Chiefs to move to second in division, Titans beat Browns",
-      "link": "https://colts.com/news/around-the-afc-south-standings-texans-cj-stroud-patrick-mahomes-chiefs-sunday-night-playoffs-titans-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-08T15:57:40+0000",
-      "summary": "Following their loss to the Jacksonville Jaguars on Sunday, the Colts are now third in the AFC South."
-    },
-    {
-      "id": "f57f8df5491f768b",
-      "title": "New Palestine's Kyle Ralph named Colts High School 'Coach of the Year'",
-      "link": "https://colts.com/news/new-palestine-s-kyle-ralph-named-colts-high-school-coach-of-the-year",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-08T15:00:00+0000",
-      "summary": "Ralph, who led the New Palestine Dragons to back-to-back state championships for the second time in his career, has continued to achieve new heights as a coach."
-    },
-    {
-      "id": "d449fafeaa782275",
-      "title": "Colts Blue Zone Podcast 447: Things Fall Apart in Jacksonville",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-447-things-fall-apart-in-jacksonville/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-08T14:48:13+0000",
-      "summary": "The Indianapolis Colts fell to 8-5 with a 36-19 loss to the Jacksonville Jaguars and lost their quarterback in the process. Matt Adams recaps the game and explores where the Colts go from here. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
     }
   ],
   "links": [
