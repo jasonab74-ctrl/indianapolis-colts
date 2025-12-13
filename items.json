@@ -1,14 +1,50 @@
 {
-  "updated": "2025-12-13T12:36:37+00:00",
+  "updated": "2025-12-13T13:26:00+00:00",
   "items": [
     {
-      "id": "2a892d5fa310d877",
-      "title": "NFL analyst has Jaguars' Liam Coen among Coach of the Year candidates",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-jaguars-liam-coen-122251493.html",
+      "id": "797464a97389e022",
+      "title": "Can Philip Rivers fend off Matt Stafford on NFL career passing list?",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-fend-off-matt-131221899.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-13T12:22:51+0000",
-      "summary": "One NFL analyst has the Jaguars' Liam Coen listed among NFL Coach of the Year candidates."
+      "published": "2025-12-13T13:12:21+0000",
+      "summary": "With Stafford close to overtaking Rivers on the list (and Rivers not far behind another legendary quarterback), we could see some movement this year."
+    },
+    {
+      "id": "066af945ea9df9c8",
+      "title": "Who has advantage in Colts vs. Seahawks Week 15 game?",
+      "link": "https://sports.yahoo.com/articles/advantage-colts-vs-seahawks-week-130618520.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T13:06:18+0000",
+      "summary": "Which team has the advantage and where in the Colts' Week 15 matchup against the Seahawks."
+    },
+    {
+      "id": "44a6856976a0917c",
+      "title": "2026 NFL mock draft: Rams upgrade offense in first round",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-rams-130203064.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T13:02:03+0000",
+      "summary": "The Los Angeles Rams could upgrade their offense in the 2026 draft."
+    },
+    {
+      "id": "438e4b53fcfcf311",
+      "title": "Tim Tebow reflects on the pressures of the Heisman Trophy ceremony",
+      "link": "https://sports.yahoo.com/articles/tim-tebow-reflects-pressures-heisman-130031240.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T13:00:31+0000",
+      "summary": "During his conversation with @EdEastonJr, retired NFL quarterback Tim Tebow reflected on the pressures of the Heisman Trophy ceremony"
+    },
+    {
+      "id": "02882614b2c4c0e9",
+      "title": "The NFL’s new class of QBs is already knocking out its old stars",
+      "link": "https://sports.yahoo.com/articles/nfl-class-qbs-already-knocking-130000451.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T13:00:00+0000",
+      "summary": "Quarterbacks are to the NFL what a duck bill is to a duck. Without them, even if it walks like a duck and quacks like a duck, is it even a duck? I am in the tippy-tippy top of quarterback-obsessed NFL writers — if you do not have a quarterback I do not respect, I do […]"
     },
     {
       "id": "46c73093a6dbb56e",
@@ -38,15 +74,6 @@
       "summary": "We're looking ahead to how the 14-team playoff picture could line up en route to Super Bowl LX."
     },
     {
-      "id": "b2efd5b51dcf29c8",
-      "title": "Will Trey McBride break an impressive record held by Travis Kelce in Week 15?",
-      "link": "https://sports.yahoo.com/articles/trey-mcbride-break-impressive-record-121301410.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T12:13:01+0000",
-      "summary": "McBride has a shot to put his name in the record books, and further establish himself as arguably the NFL's best tight end in Week 15."
-    },
-    {
       "id": "37f4471863c730e2",
       "title": "Last-minute prep on NFL Week 15: We have sleepers, QB questions, trends to watch and more",
       "link": "https://espn.com/nfl/story/_/id/47266568/2025-nfl-week-15-predictions-fantasy-sleepers-upsets-bets-stats-quarterbacks",
@@ -56,31 +83,13 @@
       "summary": "Big day for Ladd McConkey? Fantasy upside for Isaiah Likely? An advantage for Drake Maye? Lofty stat predictions for Christian Watson? Let's look at Week 15."
     },
     {
-      "id": "7d54ab036d2e0955",
-      "title": "Week 15 NFL TV map: Will Colts vs. Seahawks be televised in your area?",
-      "link": "https://sports.yahoo.com/articles/week-15-nfl-tv-map-120531199.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T12:05:31+0000",
-      "summary": "Will the Colts vs. Seahawks game be on TV in your area?"
-    },
-    {
-      "id": "33d48a707805c648",
-      "title": "Cincinnati Bengals NFL draft top positions of need for 2026",
-      "link": "https://sports.yahoo.com/articles/cincinnati-bengals-nfl-draft-top-120100723.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T12:01:00+0000",
-      "summary": "The Bengals have to find a game-changer on defense."
-    },
-    {
-      "id": "2cf5d99294e1e22f",
-      "title": "NFL.com previews Broncos-Packers (and experts make game picks)",
-      "link": "https://sports.yahoo.com/articles/nfl-com-previews-broncos-packers-120054397.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T12:00:54+0000",
-      "summary": "Most NFL experts are backing the Packers to beat the Broncos."
+      "id": "cf296861e51a9b0c",
+      "title": "Colts-Seahawks preview: Philip Rivers isn't here to save the season. But will he play in Week 15?",
+      "link": "https://colts.com/news/colts-seahawks-preview-philip-rivers-isn-t-here-to-save-the-season-but-will-he-play-in-week-15",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-13T11:00:00+0000",
+      "summary": "The Colts, as of Friday afternoon, have not decided who will play quarterback on Sunday against the Seattle Seahawks. But if it's Philip Rivers, he won't be expected to be the only reason why the Colts pull out of a three-game losing streak."
     },
     {
       "id": "0b4a9f925ff11978",
@@ -90,15 +99,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-13T02:58:31+0000",
       "summary": "The Indianapolis Colts today released their Friday injury report for Week 15 of the NFL season against the Seattle Seahawks on Sunday. Right tackle Braden Smith has been ruled OUT for this Sunday’s game against the Seattle Seahawks due to neck and concussion injuries. Smith has been unable to practice all week, and therefore, will [&#8230;]"
-    },
-    {
-      "id": "cf296861e51a9b0c",
-      "title": "Colts-Seahawks preview: Philip Rivers isn't here to save the season. But will he play in Week 15?",
-      "link": "https://colts.com/news/colts-seahawks-preview-philip-rivers-isn-t-here-to-save-the-season-but-will-he-play-in-week-15",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-12T20:28:18+0000",
-      "summary": "The Colts, as of Friday afternoon, have not decided who will play quarterback on Sunday against the Seattle Seahawks. But if it's Philip Rivers, he won't be expected to be the only reason why the Colts pull out of a three-game losing streak."
     },
     {
       "id": "b66d4b634d39b08f",
@@ -153,24 +153,6 @@
       "feed": "Colts.com",
       "published": "2025-12-12T13:22:32+0000",
       "summary": "Jones posted on Instagram Thursday night expressing his gratitude for the encouragement he's received over the last few days."
-    },
-    {
-      "id": "258c846d126529aa",
-      "title": "NFL Week 15's fashionable arrivals, featuring Bucs QB Baker Mayfield",
-      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T13:16:45+0000",
-      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
-    },
-    {
-      "id": "c53fe4719dd245d7",
-      "title": "Bucs' Creamsicles, Falcons' throwbacks top Week 15 uniforms",
-      "link": "https://espn.com/nfl/story/_/id/47251841/nfl-2025-week-15-uniforms",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-12T13:16:45+0000",
-      "summary": "The NFL uniform scene is off to a strong start with Thursday's game, but the week ends well, too."
     },
     {
       "id": "20e5ab89b1b55d71",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-08T21:29:26+0000",
       "summary": "Daniel Jones sustained a season-ending Achilles injury during the Colts’ 36-19 loss to the Jacksonville Jaguars on Sunday. Colts Ring of Honor wide receiver Bill Brooks gives his insight into how NFL players process losing their leader in such a shocking way."
+    },
+    {
+      "id": "466ee7681c7716a3",
+      "title": "Colts playoff hopes derailed by Jones' Achilles tendon",
+      "link": "https://fox59.com/sports/colts/colts-playoff-hopes-derailed-by-jones-achilles-tendon/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-08T20:03:33+0000",
+      "summary": "INDIANAPOLIS -- In Greek mythology, Achilles was a hero of the Trojan War but had one weakness…apparently the same one that has laid low two Indianapolis sports heroes in the last six months -- a ruptured lower leg tendon. That would be the Achilles heel for you amateur sports and Greek mythology fans playing along [...]"
+    },
+    {
+      "id": "7a5863b05391546a",
+      "title": "Shane Steichen says Braden Smith, Charvarius Ward Sr. both in concussion protocol",
+      "link": "https://colts.com/news/shane-steichen-injury-updates-braden-smith-charvarius-ward-concussion-protocol-jaguars",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T19:54:29+0000",
+      "summary": "This marks the third time Ward has been placed in concussion protocol this season."
     }
   ],
   "links": [
