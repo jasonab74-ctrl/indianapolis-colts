@@ -1,23 +1,32 @@
 {
-  "updated": "2025-12-13T21:16:30+00:00",
+  "updated": "2025-12-13T21:37:42+00:00",
   "items": [
     {
-      "id": "6729c77a4ecc5ea2",
-      "title": "SBNation Reacts results: Seahawks fans weigh in on Super Bowl prospects",
-      "link": "https://sports.yahoo.com/articles/sbnation-reacts-results-seahawks-fans-205530867.html",
+      "id": "50ec1b7f2e6e5b4b",
+      "title": "When is Philip Rivers eligible for the Hall of Fame? Explaining timeline reset for Canton induction after unretiring",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-eligible-hall-fame-193407052.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-13T20:55:30+0000",
-      "summary": "It’s a wide open NFL season. Why can’t the Seahawks be Super Bowl champions?"
+      "published": "2025-12-13T21:31:00+0000",
+      "summary": "Philip Rivers' decision to return to the Colts is set to have a major impact on his Hall of Fame timeline."
     },
     {
-      "id": "c47dd3359b4916c3",
-      "title": "Browns history: DE Paul Wiggin passes away at 91",
-      "link": "https://sports.yahoo.com/articles/browns-history-paul-wiggin-passes-205106759.html",
+      "id": "ce4844fd5a0efead",
+      "title": "Colts timeline of starting QBs: Philip Rivers set to re-join Daniel Jones, Carson Wentz in post-Andrew Luck era",
+      "link": "https://sports.yahoo.com/articles/colts-timeline-starting-qbs-philip-184018726.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-13T20:51:06+0000",
-      "summary": "Two-time Pro Bowler never missed a game during his 11-year NFL career."
+      "published": "2025-12-13T21:26:00+0000",
+      "summary": "Since Andrew Luck retired, it's been a revolving door at quarterback for the Indianapolis Colts."
+    },
+    {
+      "id": "c8bd0f3c8bbac03c",
+      "title": "Why did Colts sign Philip Rivers? How Daniel Jones injury paved way for 44-year-old QB to come out of retirement",
+      "link": "https://sports.yahoo.com/articles/why-did-colts-sign-philip-180111829.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T21:23:00+0000",
+      "summary": "Why the Colts are facilitating Philip Rivers' unlikely return to the NFL."
     },
     {
       "id": "1a141183fe6b9f4f",
@@ -25,8 +34,17 @@
       "link": "https://espn.com/nfl/story/_/id/47293673/sources-colts-activate-philip-rivers-ahead-seahawks-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-13T20:10:06+0000",
+      "published": "2025-12-13T21:21:12+0000",
       "summary": "The Colts elevated the newly unretired quarterback from the practice squad to the 53-man active roster Saturday, making him officially eligible to play Sunday against the Seahawks."
+    },
+    {
+      "id": "ddb5dabd34edbfcf",
+      "title": "Sources: Colts' Jones expected back for camp",
+      "link": "https://espn.com/nfl/story/_/id/47295871/sources-daniel-jones-expected-cleared-training-camp",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-13T21:21:11+0000",
+      "summary": "Daniel Jones underwent surgery that is expected to sideline him for 6-8 months, giving the Colts QB the ability to be fully cleared for the start of next summer's training camp, sources told ESPN."
     },
     {
       "id": "3559d8ecdc23700c",
@@ -56,6 +74,15 @@
       "summary": "Big day for Ladd McConkey? Fantasy upside for Isaiah Likely? An advantage for Drake Maye? Lofty stat predictions for Christian Watson? Let's look at Week 15."
     },
     {
+      "id": "014ad1ec1e621267",
+      "title": "Colts sign QB Philip Rivers to active roster, place RT Braden Smith on IR among moves",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119236/colts-sign-qb-philip-rivers-to-active-roster-place-rt-braden-smith-on-ir-among-moves",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-13T18:47:06+0000",
+      "summary": "The Indianapolis Colts announced that the team has signed recently unretired longtime NFL quarterback Philip Rivers from their practice squad to the 53-man active roster. It was an expected move that paves the way for the 44-year-old quarterback (and freshly turned grandpa), who was surprisingly re-signed by the Colts earlier this week after not playing [&#8230;]"
+    },
+    {
       "id": "59d45e328ead3a45",
       "title": "Colts place RT Braden Smith on IR; future uncertain",
       "link": "https://fox59.com/sports/colts-place-rt-braden-smith-on-ir-future-uncertain/",
@@ -74,6 +101,15 @@
       "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
     },
     {
+      "id": "94f2047c4fc9c74f",
+      "title": "REPORT: Philip Rivers to start at QB vs Seahawks",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119228/report-philip-rivers-to-start-at-qb-vs-seahawks-shane-steichen-chris-ballard-daniel-jones",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-13T17:05:03+0000",
+      "summary": "In a week full of surprises that even a Hollywood script writer wouldn’t have thought believable, Ian Rapoport is reporting that the unthinkable is happening tomorrow: Philip Rivers will start at quarterback for the Indianapolis Colts in 2025 against the vaunted Seattle Seahawks defense. This time last week Colts fans knew their playoff hopes were [&#8230;]"
+    },
+    {
       "id": "a244729cb3a253dd",
       "title": "Colts sign Philip Rivers to active roster; is starting at Seattle next?",
       "link": "https://fox59.com/sports/colts/colts-sign-philip-rivers-to-active-roster-is-starting-at-seattle-next/",
@@ -90,6 +126,15 @@
       "feed": "Colts.com",
       "published": "2025-12-13T11:00:00+0000",
       "summary": "The Colts, as of Friday afternoon, have not decided who will play quarterback on Sunday against the Seattle Seahawks. But if it's Philip Rivers, he won't be expected to be the only reason why the Colts pull out of a three-game losing streak."
+    },
+    {
+      "id": "0b4a9f925ff11978",
+      "title": "Indianapolis Colts Injury &#8211; RT Smith, CB Gardner And WR Gould Ruled OUT",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119218/indianapolis-colts-injury-rt-smith-cb-gardner-and-wr-gould-ruled-out",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-13T02:58:31+0000",
+      "summary": "The Indianapolis Colts today released their Friday injury report for Week 15 of the NFL season against the Seattle Seahawks on Sunday. Right tackle Braden Smith has been ruled OUT for this Sunday’s game against the Seattle Seahawks due to neck and concussion injuries. Smith has been unable to practice all week, and therefore, will [&#8230;]"
     },
     {
       "id": "b66d4b634d39b08f",
@@ -144,6 +189,42 @@
       "feed": "Colts.com",
       "published": "2025-12-12T13:22:32+0000",
       "summary": "Jones posted on Instagram Thursday night expressing his gratitude for the encouragement he's received over the last few days."
+    },
+    {
+      "id": "20e5ab89b1b55d71",
+      "title": "Philip Rivers returning to the Colts is the thing of movies",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119206/philip-rivers-returning-to-the-colts-is-the-thing-of-movies",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-12T13:00:00+0000",
+      "summary": "Get your popcorn ready because things are about to get good or go terribly wrong. Either way, the scene the Indianapolis Colts are setting due to their reunion with Philip Rivers will be the thing of movies. How could it not be? The man is 44-years old and has been away from the NFL for [&#8230;]"
+    },
+    {
+      "id": "a6193898553745e5",
+      "title": "Colts QB Daniel Jones has heartfelt thank you to fans following season-ending injury",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119201/colts-qb-daniel-jones-has-heartfelt-thank-you-to-fans-following-season-ending-injury",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-12T05:03:46+0000",
+      "summary": "Indianapolis Colts injured starting quarterback Daniel Jones took to his personal Instagram account to communicate a heartfelt thank you to his teammates, the coaching staff, and the Horseshoe Faithful (via The Athletic’s James Boyd): Of course, Jones deserves a lot of credit and should be lauded for his leadership and toughness, having started and played [&#8230;]"
+    },
+    {
+      "id": "943c025020bae9d5",
+      "title": "Colts seem to be preparing a certain QB to start on Sunday—and it may surprise some",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119197/colts-seem-to-be-preparing-a-certain-qb-to-start-on-sunday-and-it-may-surprise-some",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-12T04:47:03+0000",
+      "summary": "According to ESPN’s Stephen Holder, the Indianapolis Colts are preparing a certain quarterback to start through two consecutive team practices this week, and the projected starting QB1 may surprise some: Philip Rivers. Despite being 44-years-old and having not played in an NFL game for going on 5 years, and having just re-signed with the Colts [&#8230;]"
+    },
+    {
+      "id": "2d31f1a3dc68217a",
+      "title": "Indianapolis Colts Injury Report: RT Braden Smith Misses Back-To-Back Practices",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119184/indianapolis-colts-injury-report-rt-smith-misses-back-to-back-practices",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-12T04:28:34+0000",
+      "summary": "The Indianapolis Colts today released their Thursday injury report for Week 15 of the NFL season against the Seattle Seahawks on Sunday. Right tackle Braden Smith missed practice again today with neck and concussion injuries. Smith missing both practices already this week almost confirms he will miss this week’s game against the Seahawks. It looks [&#8230;]"
     },
     {
       "id": "755d9340f74dac12",
@@ -272,15 +353,6 @@
       "summary": "Philip Rivers on Wednesday was on the field at the Indiana Farm Bureau Football Center in a red No. 17 practice jersey, slinging the ball around and going through a Week 15 practice for the Colts. So how, exactly, did we get to this point?"
     },
     {
-      "id": "0747b0548cc6ac60",
-      "title": "Familiarity between Philip Rivers and the Colts warrants such a move",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119128/familiarity-between-philip-rivers-and-the-colts-warrants-such-a-move",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T20:48:38+0000",
-      "summary": "Indianapolis, IN — There’s almost no way to shake the Philip Rivers signing as being the definitive best possible option moving forward, yet somehow the familiarity between him and this current Indianapolis Colts team suggests that maybe it is. The initial absurdity of such a move is undeniably valid, but when you peel back the [&#8230;]"
-    },
-    {
       "id": "5a5e6453ed841f15",
       "title": "Will Philip Rivers or Riley Leonard start for Colts at QB vs. Seahawks? 'We'll see how the week goes'",
       "link": "https://colts.com/news/will-philip-rivers-or-riley-leonard-start-for-colts-at-qb-vs-seahawks-we-ll-see-how-the-week-goes",
@@ -288,33 +360,6 @@
       "feed": "Colts.com",
       "published": "2025-12-10T19:31:47+0000",
       "summary": "The Colts are in wait-and-see mode as Philip Rivers and Riley Leonard begin practice on Wednesday ahead of Sunday's game against the Seattle Seahawks at Lumen Field."
-    },
-    {
-      "id": "0604d8e3df75c3d8",
-      "title": "Re-signed veteran QB Philip Rivers will wear a familiar number for the Colts again",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119140/re-signed-veteran-qb-philip-rivers-will-wear-a-familiar-number-for-the-colts-again",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T18:46:50+0000",
-      "summary": "Indianapolis Colts unretired longtime NFL veteran quarterback Philip Rivers will wear #17 again for the Horseshoe, which was the same number he wore back in 2020—and throughout his 8x NFL Pro Bowl career with the Chargers organization, as well as for NC State and in high school: Because injured starting quarterback Daniel Jones was placed [&#8230;]"
-    },
-    {
-      "id": "dd98195225cb7e94",
-      "title": "Colts announce more roster moves, including placing CB Charvarius Ward on injured reserve",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119135/colts-announce-more-roster-moves-including-placing-cb-charvarius-ward-on-injured-reserve",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T18:33:48+0000",
-      "summary": "The Indianapolis Colts announced on Wednesday that the team has placed starting veteran cornerback Charvarius Ward on injured reserve, who suffered his third concussion of the season. While such a roster move means that Ward will be out for the remainder of the 2025 regular season, he likely will have to perform his own contemplation [&#8230;]"
-    },
-    {
-      "id": "f7ab1c154f2d3f6a",
-      "title": "Some reasons for the Colts to move on from Steichen and Ballard",
-      "link": "https://stampedeblue.com/indianapolis-colts-coaching-staff/118938/some-reasons-for-the-colts-to-move-on-from-steichen-and-ballard",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T18:20:11+0000",
-      "summary": "Let me start by saying that much of what you read from here on will be more fan based, than journalistically based. It is not as if anyone was getting me confused with Frank Deford anyway, but I always hope that at the end of an article, you feel like responding. It doesn’t matter whether [&#8230;]"
     },
     {
       "id": "a73d2d630de508d4",
@@ -389,24 +434,6 @@
       "summary": "The Colts made the roster moves on Wednesday."
     },
     {
-      "id": "452a1817959af212",
-      "title": "Phillip Rivers to the Colts in 2025 is Poetic Perfection",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119087/phillip-rivers-to-the-colts-in-2025-is-poetic-perfection",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T12:17:00+0000",
-      "summary": "When telling the story of the NFL, there are many chapters and footnotes one must remember to encapsulate what this sport and league is all about. The Colts in their lengthy history have no shortage of these to tell. They can range wildly in tone and emotions. From a heartwarming story of players rallying behind [&#8230;]"
-    },
-    {
-      "id": "9ff6c03910d7961d",
-      "title": "Colts announce roster moves, placing QB Daniel Jones on IR among them",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119093/colts-announce-roster-moves-placing-qb-daniel-jones-on-ir-among-them",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-10T03:30:34+0000",
-      "summary": "On Tuesday, the Indianapolis Colts announced a number of roster moves, including placing starting quarterback Daniel Jones (Achilles) and backup cornerback Chris Lammons (foot) on injured reserve. The Colts also signed cornerback Cameron Mitchell to the active roster and re-signed cornerback Tony Pride Jr. to the team’s practice squad again. With veteran cornerback Charvarius Ward [&#8230;]"
-    },
-    {
       "id": "68ef73ea7fb45bb9",
       "title": "Frank Reich on Philip Rivers returning to the Colts: ’No, it’s not crazy’",
       "link": "https://fox59.com/sports/frank-reich-on-philip-rivers-returning-to-the-colts-no-its-not-crazy/",
@@ -461,15 +488,6 @@
       "summary": "Galbreath, from Cardinal Ritter High School, becomes the first-ever Colts High School Woman of the Year."
     },
     {
-      "id": "0f8a730aa167b769",
-      "title": "Colts’ Stock Up/Stock Down: Week 14 @Duval",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119046/colts-stock-up-stock-down-week-14-duval",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-09T19:30:38+0000",
-      "summary": "Stock Up Colts’ wide receivers The Colts were in passing mode most of the game after going down 14 points early in the second quarter, and the wide receivers took full advantage of the opportunity presented. Pierce and Pittman combined for 13 catches on 20 targets and close to 160 yards, while Josh Downs also [&#8230;]"
-    },
-    {
       "id": "6b28395d301fa376",
       "title": "Colts signing QB Philip Rivers",
       "link": "https://fox59.com/sports/colts/colts-signing-qb-philip-rivers/",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-08T21:29:26+0000",
       "summary": "Daniel Jones sustained a season-ending Achilles injury during the Colts’ 36-19 loss to the Jacksonville Jaguars on Sunday. Colts Ring of Honor wide receiver Bill Brooks gives his insight into how NFL players process losing their leader in such a shocking way."
-    },
-    {
-      "id": "466ee7681c7716a3",
-      "title": "Colts playoff hopes derailed by Jones' Achilles tendon",
-      "link": "https://fox59.com/sports/colts/colts-playoff-hopes-derailed-by-jones-achilles-tendon/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-08T20:03:33+0000",
-      "summary": "INDIANAPOLIS -- In Greek mythology, Achilles was a hero of the Trojan War but had one weakness…apparently the same one that has laid low two Indianapolis sports heroes in the last six months -- a ruptured lower leg tendon. That would be the Achilles heel for you amateur sports and Greek mythology fans playing along [...]"
-    },
-    {
-      "id": "7a5863b05391546a",
-      "title": "Shane Steichen says Braden Smith, Charvarius Ward Sr. both in concussion protocol",
-      "link": "https://colts.com/news/shane-steichen-injury-updates-braden-smith-charvarius-ward-concussion-protocol-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-08T19:54:29+0000",
-      "summary": "This marks the third time Ward has been placed in concussion protocol this season."
     }
   ],
   "links": [
