@@ -1,59 +1,68 @@
 {
-  "updated": "2025-12-13T16:22:27+00:00",
+  "updated": "2025-12-13T16:45:34+00:00",
   "items": [
     {
-      "id": "206d978d493c7c09",
-      "title": "Jeff Ratcliffe&#8217;s Best NFL Bets Week 15",
-      "link": "https://sports.yahoo.com/articles/jeff-ratcliffe-best-nfl-bets-160521331.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T16:05:21+0000",
-      "summary": "Some players just hit their stride at the perfect time. Week 15 gives us a handful of players who are heating up right as the matchups open the door. The numbers are friendly. The usage is trending in the right&hellip;"
-    },
-    {
-      "id": "8fa5429e81b28ec4",
-      "title": "Joe Burrow rumor offers update on Bengals QB's future after troubling comments",
-      "link": "https://sports.yahoo.com/articles/joe-burrow-rumor-offers-bengals-160310462.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T16:03:10+0000",
-      "summary": "Cincinnati Bengals quarterback Joe Burrow raised some eyebrows this week after comments he made that led some to question his future in the NFL, and with the Bengals. On Saturday, The Athletic's Dianna Russini shed some light on what Burrow's actual plans are."
-    },
-    {
-      "id": "8d489f67dc2539a6",
-      "title": "Behind Seahawks enemy lines, Week 15 preview: Surging Seattle against the slumping Colts",
-      "link": "https://sports.yahoo.com/articles/behind-seahawks-enemy-lines-week-160000007.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T16:00:00+0000",
-      "summary": "The Seahawks have one more hurdle to clear before their huge showdown with the Rams. Can they avoid an upset vs. the Colts?"
-    },
-    {
-      "id": "8d207dc9df671586",
-      "title": "Top 10 2026 NFL Draft prospects for the NY Giants outside the top 10",
-      "link": "https://sports.yahoo.com/articles/top-10-2026-nfl-draft-160000354.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T16:00:00+0000",
-      "summary": "Which prospects could be on the Giants' radar if they aren't picking in the Top 10?"
-    },
-    {
-      "id": "3c4ec33312cafba8",
-      "title": "Giants and Raiders, currently first and second in 2026 NFL draft order, meet in Week 17",
-      "link": "https://sports.yahoo.com/articles/giants-raiders-currently-first-second-155931077.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T15:59:31+0000",
-      "summary": "The Week 17 game between the Giants and Raiders is one of the worst matchups of this NFL season, a battle between two teams that are currently 2-11 and tied for the worst record in the NFL."
-    },
-    {
-      "id": "46c73093a6dbb56e",
-      "title": "NFL 'troubled' by rise of sports prediction markets",
-      "link": "https://espn.com/nfl/story/_/id/47288011/nfl-troubled-rise-sports-prediction-markets",
+      "id": "1a141183fe6b9f4f",
+      "title": "Sources: Colts to activate Rivers for Seattle game",
+      "link": "https://espn.com/nfl/story/_/id/47293673/sources-colts-activate-philip-rivers-ahead-seahawks-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-13T15:13:20+0000",
-      "summary": "The NFL expressed its concern about the rise of prediction markets to a congressional committee Thursday, stating that the league is particularly troubled by sports contracts being offered in states where traditional betting has not been legalized."
+      "published": "2025-12-13T16:33:18+0000",
+      "summary": "The Colts will elevate quarterback Philip Rivers from the practice squad to the 53-man active roster Saturday, making him officially eligible to play Sunday against the Seahawks, sources told ESPN's Adam Schefter."
+    },
+    {
+      "id": "ac1587d6b49381ee",
+      "title": "Colts make move to allow for Philip Rivers to play at Seahawks, but will he?",
+      "link": "https://sports.yahoo.com/articles/colts-move-allow-philip-rivers-162735859.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T16:27:35+0000",
+      "summary": "The Colts made a move in the direction of Philip Rivers to play against the Seahawks on Sunday, but Riley Leonard hasn't been ruled out as the starter."
+    },
+    {
+      "id": "8431fd18713a67aa",
+      "title": "Major Update on Rumored Joe Burrow Trade: Does He Really Want Out of Cincy?",
+      "link": "https://sports.yahoo.com/articles/major-rumored-joe-burrow-trade-162457837.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T16:24:57+0000",
+      "summary": "A new report from a prominent NFL insider claims the growing speculation about Joe Burrow wanting out of Cincinnati is [&#8230;]"
+    },
+    {
+      "id": "ac6fd3864d77960f",
+      "title": "Steelers QB target returning to school",
+      "link": "https://sports.yahoo.com/articles/steelers-qb-target-returning-school-162442582.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T16:24:42+0000",
+      "summary": "The Pittsburgh Steelers will have one less quarterback to target in the NFL Draft."
+    },
+    {
+      "id": "3e2cb3f959a845cf",
+      "title": "QB Philip Rivers will reportedly start for Colts against Seahawks",
+      "link": "https://sports.yahoo.com/nfl/article/qb-philip-rivers-will-reportedly-start-for-colts-against-seahawks-162243648.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T16:22:43+0000",
+      "summary": "The 44-year-old Rivers last started an NFL game on Jan. 9, 2021."
+    },
+    {
+      "id": "58233dca18307ace",
+      "title": "ESPN reveals Colts' likely decision with Philip Rivers for Week 15 vs. Seahawks",
+      "link": "https://sports.yahoo.com/articles/espn-reveals-colts-likely-decision-161625130.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T16:16:25+0000",
+      "summary": "ESPN's NFL insider, Jeremy Fowler, revealed what the Indianapolis Colts' likely decision will be when it comes to starting quarterback Philip Rivers in the massively important Week 15 game against the Seattle Seahawks."
+    },
+    {
+      "id": "e869aefda88c3adc",
+      "title": "NFL insider reveals big Joe Burrow trade update amid Bengals frustrations",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-reveals-big-joe-161014314.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-13T16:10:14+0000",
+      "summary": "Joe Burrow has been frustrated with the Bengals, but will he request a trade?"
     },
     {
       "id": "3559d8ecdc23700c",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T20:03:33+0000",
       "summary": "INDIANAPOLIS -- In Greek mythology, Achilles was a hero of the Trojan War but had one weakness…apparently the same one that has laid low two Indianapolis sports heroes in the last six months -- a ruptured lower leg tendon. That would be the Achilles heel for you amateur sports and Greek mythology fans playing along [...]"
-    },
-    {
-      "id": "7a5863b05391546a",
-      "title": "Shane Steichen says Braden Smith, Charvarius Ward Sr. both in concussion protocol",
-      "link": "https://colts.com/news/shane-steichen-injury-updates-braden-smith-charvarius-ward-concussion-protocol-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-08T19:54:29+0000",
-      "summary": "This marks the third time Ward has been placed in concussion protocol this season."
     }
   ],
   "links": [
