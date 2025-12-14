@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-13T23:38:27+00:00",
+  "updated": "2025-12-14T01:44:02+00:00",
   "items": [
-    {
-      "id": "ec0e393574add916",
-      "title": "The Carolina Panthers are strangely the best team in this stat",
-      "link": "https://sports.yahoo.com/articles/carolina-panthers-strangely-best-team-230719924.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-13T23:07:19+0000",
-      "summary": "This one may come as a shocker to many NFL fans."
-    },
     {
       "id": "903706e7c5725e55",
       "title": "Even at 44, Philip Rivers is infusing energy into struggling Colts",
@@ -29,13 +20,13 @@
       "summary": "Daniel Jones underwent surgery that is expected to sideline him for 6-8 months, giving the Colts QB the ability to be fully cleared for the start of next summer's training camp, sources told ESPN."
     },
     {
-      "id": "1a141183fe6b9f4f",
-      "title": "Rivers activated, eligible to play vs. Seahawks",
-      "link": "https://espn.com/nfl/story/_/id/47293673/sources-colts-activate-philip-rivers-ahead-seahawks-game",
+      "id": "11e62ab2e172ad92",
+      "title": "Source: Colts expected to start Rivers vs. Seattle",
+      "link": "https://espn.com/nfl/story/_/id/47293673/philip-rivers-expected-start-colts-seahawks",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-12-13T22:54:50+0000",
-      "summary": "The Colts elevated the newly unretired quarterback from the practice squad to the 53-man active roster Saturday, making him officially eligible to play Sunday against the Seahawks."
+      "summary": "Philip Rivers, who came out of retirement this week to help the Colts address their void at quarterback, is expected to start Sunday against the Seahawks, a source told ESPN."
     },
     {
       "id": "37f4471863c730e2",
@@ -45,6 +36,15 @@
       "feed": "ESPN",
       "published": "2025-12-13T22:54:48+0000",
       "summary": "Big day for Ladd McConkey? Fantasy upside for Isaiah Likely? An advantage for Drake Maye? Lofty stat predictions for Christian Watson? Let's look at Week 15."
+    },
+    {
+      "id": "a9061ab6aae5d8a3",
+      "title": "Colts QB Daniel Jones may reportedly face shorter timeline for Achilles recovery than expected",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119240/colts-qb-daniel-jones-may-reportedly-face-shorter-timeline-for-achilles-recovery-than-expected",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-13T22:34:40+0000",
+      "summary": "According to ESPN’s Adam Schefter, Indianapolis Colts injured starting quarterback Daniel Jones may face a shorter recovery from his season-ending Achilles surgery than initially expected. It was first speculated to be at least a 9-month recovery timeline for Jones, who underwent successful surgery to repair his torn Achilles this past Tuesday, which would’ve pushed him [&#8230;]"
     },
     {
       "id": "b11c65d5d99eaaa8",
@@ -290,15 +290,6 @@
       "summary": "The Ed Block Courage Award is given annually to a player to recognize them for courageous play."
     },
     {
-      "id": "e29596040934e7c3",
-      "title": "Colts reportedly inquired on Derek Carr, Sam Ehlinger among other QB replacement options",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119172/colts-reportedly-inquired-on-derek-carr-sam-ehlinger-among-other-qb-replacement-options",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-11T02:14:00+0000",
-      "summary": "According to Outkick’s Armando Salguero, the Indianapolis Colts didn’t just reach out to recently re-signed quarterback Philip Rivers among retired veteran options, as the team also reached out to Derek Carr: “Why are the Colts doing this? Start with the fact they called other quarterbacks to gauge their interest in signing. They called Derek Carr, [&#8230;]"
-    },
-    {
       "id": "c5c121900f7abcf8",
       "title": "Colts’ Riley Leonard full participant despite sprained knee; Philip Rivers’ Hall of Fame clock will reset",
       "link": "https://fox59.com/sports/colts/colts-riley-leonard-full-participant-despite-sprained-knee-philip-rivers-hall-of-fame-clock-will-reset/",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-08T20:03:33+0000",
       "summary": "INDIANAPOLIS -- In Greek mythology, Achilles was a hero of the Trojan War but had one weakness…apparently the same one that has laid low two Indianapolis sports heroes in the last six months -- a ruptured lower leg tendon. That would be the Achilles heel for you amateur sports and Greek mythology fans playing along [...]"
+    },
+    {
+      "id": "7a5863b05391546a",
+      "title": "Shane Steichen says Braden Smith, Charvarius Ward Sr. both in concussion protocol",
+      "link": "https://colts.com/news/shane-steichen-injury-updates-braden-smith-charvarius-ward-concussion-protocol-jaguars",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-08T19:54:29+0000",
+      "summary": "This marks the third time Ward has been placed in concussion protocol this season."
     }
   ],
   "links": [
