@@ -1,14 +1,32 @@
 {
-  "updated": "2025-12-14T19:14:45+00:00",
+  "updated": "2025-12-14T19:36:44+00:00",
   "items": [
     {
-      "id": "bba4f859f5b9f1af",
-      "title": "Brady Cook's family celebrates with cheers, hugs after undrafted Jets quarterback throws first NFL touchdown",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/brady-cooks-family-celebrates-with-cheers-hugs-after-undrafted-jets-quarterback-throws-first-nfl-touchdown-190824141.html",
+      "id": "d33ae2c46c1fae4c",
+      "title": "Philip Rivers posts biblical message as he returns from retirement with Indianapolis Colts",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-posts-biblical-message-192802903.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-14T19:08:24+0000",
-      "summary": "Brady Cook showed some promise early against the Jaguars."
+      "published": "2025-12-14T19:28:02+0000",
+      "summary": "The Colts called Philip Rivers in the wake of quarterback injuries. He was added to the active roster on Saturday."
+    },
+    {
+      "id": "08cae33e8724e467",
+      "title": "The Bengals set new low for cheapness with security problems, snow-filled seats",
+      "link": "https://sports.yahoo.com/articles/bengals-set-low-cheapness-security-192439230.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T19:24:39+0000",
+      "summary": "The Bengals are the NFL team you get from Temu."
+    },
+    {
+      "id": "1628d184a79f964e",
+      "title": "Bengals tight end Noah Fant injures ankle vs Ravens in NFL Week 15",
+      "link": "https://sports.yahoo.com/articles/bengals-tight-end-noah-fant-191410000.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T19:14:10+0000",
+      "summary": "Bengals tight end Noah Fant suffered a concussion during Cincinnati's Week 3 loss to Minnesota."
     },
     {
       "id": "ddb5dabd34edbfcf",
@@ -36,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-12-14T18:59:47+0000",
       "summary": "New York received first-round picks in 2026 and 2027 from Indianapolis in the Sauce Gardner trade."
-    },
-    {
-      "id": "d6441f77c5a57d40",
-      "title": "Colts playoff picture: Updated chances for Indianapolis to make 2025 NFL postseason in Week 15",
-      "link": "https://sports.yahoo.com/articles/colts-playoff-picture-updated-chances-185357533.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T18:53:57+0000",
-      "summary": "Here is a look at the chances for the Colts to make the 2025 NFL postseason as of Week 15."
-    },
-    {
-      "id": "a32e5e0936f07173",
-      "title": "Philip Rivers comes out of retirement for Indianapolis Colts: NFL world reacts",
-      "link": "https://sports.yahoo.com/articles/philip-rivers-comes-retirement-indianapolis-184427888.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T18:44:27+0000",
-      "summary": "Reaction from a former Colts coach and players, his former teammates on the Chargers, former NFL quarterbacks and even those from outside football."
     },
     {
       "id": "37f4471863c730e2",
@@ -90,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-12-14T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
-    },
-    {
-      "id": "a9061ab6aae5d8a3",
-      "title": "Colts QB Daniel Jones may reportedly face shorter timeline for Achilles recovery than expected",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119240/colts-qb-daniel-jones-may-reportedly-face-shorter-timeline-for-achilles-recovery-than-expected",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-13T22:34:40+0000",
-      "summary": "According to ESPN’s Adam Schefter, Indianapolis Colts injured starting quarterback Daniel Jones may face a shorter recovery from his season-ending Achilles surgery than initially expected. It was first speculated to be at least a 9-month recovery timeline for Jones, who underwent successful surgery to repair his torn Achilles this past Tuesday, which would’ve pushed him [&#8230;]"
     },
     {
       "id": "775a980d46acc333",
@@ -333,6 +324,15 @@
       "feed": "Colts.com",
       "published": "2025-12-11T15:00:17+0000",
       "summary": "The Ed Block Courage Award is given annually to a player to recognize them for courageous play."
+    },
+    {
+      "id": "e29596040934e7c3",
+      "title": "Colts reportedly inquired on Derek Carr, Sam Ehlinger among other QB replacement options",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119172/colts-reportedly-inquired-on-derek-carr-sam-ehlinger-among-other-qb-replacement-options",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-11T02:14:00+0000",
+      "summary": "According to Outkick’s Armando Salguero, the Indianapolis Colts didn’t just reach out to recently re-signed quarterback Philip Rivers among retired veteran options, as the team also reached out to Derek Carr: “Why are the Colts doing this? Start with the fact they called other quarterbacks to gauge their interest in signing. They called Derek Carr, [&#8230;]"
     },
     {
       "id": "c5c121900f7abcf8",
