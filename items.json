@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T08:24:31+00:00",
+  "updated": "2025-12-14T08:46:31+00:00",
   "items": [
     {
       "id": "9c2e8c21db87e324",
@@ -9,6 +9,33 @@
       "feed": "Colts.com",
       "published": "2025-12-14T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
+    },
+    {
+      "id": "714f2a7984423474",
+      "title": "What channel is Seahawks vs. Colts on today? Live stream, time, TV schedule to watch NFL Week 15 game",
+      "link": "https://sports.yahoo.com/articles/channel-seahawks-vs-colts-today-083001194.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T08:30:01+0000",
+      "summary": "Here's how to watch the Week 15 matchup between the Seahawks and Colts."
+    },
+    {
+      "id": "c7c49e73c9c5be34",
+      "title": "What channel is Broncos vs. Packers on today? Live stream, time, TV schedule to watch NFL Week 15 game",
+      "link": "https://sports.yahoo.com/articles/channel-broncos-vs-packers-today-082002098.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T08:20:02+0000",
+      "summary": "Here's how to watch the Week 15 matchup between the Broncos and Packers."
+    },
+    {
+      "id": "b00259cae82a9ed2",
+      "title": "Rams playoff picture: Updated chances for Los Angeles to make 2025 NFL postseason in Week 15",
+      "link": "https://sports.yahoo.com/articles/rams-playoff-picture-updated-chances-081002849.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T08:10:02+0000",
+      "summary": "Here's a closer look at the Los Angeles Rams' chances to make the postseason."
     },
     {
       "id": "59d2c7f0e08c8eb8",
@@ -45,15 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-14T07:50:01+0000",
       "summary": "Here's how to watch the Week 15 matchup between the Chiefs and Chargers."
-    },
-    {
-      "id": "81a84213eac59f0d",
-      "title": "What channel is Patriots vs. Bills on today? Live stream, time, TV schedule to watch NFL Week 15 game",
-      "link": "https://sports.yahoo.com/articles/channel-patriots-vs-bills-today-072001683.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T07:20:01+0000",
-      "summary": "Here's how to watch the Week 15 matchup between the Patriots and Bills."
     },
     {
       "id": "903706e7c5725e55",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-09T18:00:36+0000",
       "summary": "INDIANAPOLIS – The Philip Rivers comeback tour is underway. The last quarterback to lead the Indianapolis Colts into the playoffs is being signed to the practice squad with the intention of helping a wavering team post a late push to the postseason, according to a source with knowledge of the situation. Rivers was put through [...]"
-    },
-    {
-      "id": "f26145cc78104ef4",
-      "title": "Colts DT DeForest Buckner named a finalist for 2025 Art Rooney Sportsmanship Award",
-      "link": "https://colts.com/news/colts-dt-deforest-buckner-named-a-finalist-for-2025-art-rooney-sportsmanship-award",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-09T15:35:45+0000",
-      "summary": "Art Rooney Sportsmanship Award nominees are chosen for their demonstration of on-field sportsmanship."
-    },
-    {
-      "id": "ec737fd4db90ca35",
-      "title": "Colts reportedly bringing in 44-year-old Philip Rivers for Tuesday workout",
-      "link": "https://fox59.com/sports/colts/colts-reportedly-bringing-in-44-year-old-philip-rivers-for-tuesday-workout/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-09T00:59:56+0000",
-      "summary": "INDIANAPOLIS — Is Philip Rivers the short-term cure for what’s ailing the Indianapolis Colts? The last quarterback to lead the franchise to the playoffs in 2020 is being brought in for a Tuesday workout, according to NFL Network. Rivers, who turned 44 Monday, hasn’t played since directing the Colts to an 11-5 record and wild-card [...]"
     }
   ],
   "links": [
