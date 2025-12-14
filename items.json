@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T11:37:25+00:00",
+  "updated": "2025-12-14T12:36:49+00:00",
   "items": [
     {
       "id": "9c2e8c21db87e324",
@@ -11,13 +11,49 @@
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
     },
     {
-      "id": "e76ca54d8e655a7c",
-      "title": "Cleveland Browns vs. Chicago Bears: How to watch today's NFL game, kickoff time, TV channel and more",
-      "link": "https://sports.yahoo.com/nfl/article/cleveland-browns-vs-chicago-bears-how-to-watch-todays-nfl-game-kickoff-time-tv-channel-and-more-113037177.html",
+      "id": "57fc7943099ca799",
+      "title": "Breaking down NFL weather for Bengals vs. Ravens in Week 15, and what it means for fantasy and betting",
+      "link": "https://sports.yahoo.com/articles/breaking-down-nfl-weather-bengals-123000115.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:30:37+0000",
-      "summary": "Here's how to watch the Cleveland Browns play the Chicago Bears during Week 15 this Sunday."
+      "published": "2025-12-14T12:30:00+0000",
+      "summary": "We take a look at how the weather could impact the Ravens and Bengals in Week 15"
+    },
+    {
+      "id": "0a8604c31cf16514",
+      "title": "Patriots vs. Bills radio coverage: Station, channel, streaming to listen live to NFL Week 15 game broadcast",
+      "link": "https://sports.yahoo.com/articles/patriots-vs-bills-radio-coverage-122002870.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T12:20:02+0000",
+      "summary": "The Patriots and Bills have one of the biggest games of the weekend, with the AFC East title on the line."
+    },
+    {
+      "id": "75b518b51fd32053",
+      "title": "Los Angeles Chargers vs. Kansas City Chiefs: How to watch today's NFL game, kickoff time, TV channel and more",
+      "link": "https://sports.yahoo.com/nfl/article/los-angeles-chargers-vs-kansas-city-chiefs-how-to-watch-todays-nfl-game-kickoff-time-tv-channel-and-more-121514660.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T12:15:14+0000",
+      "summary": "The Los Angeles Chargers and the Kansas City Chiefs play this Sunday, here's how to tune in to the game."
+    },
+    {
+      "id": "73d40368050c6525",
+      "title": "Alec Pierce start or sit: Week 15 fantasy football advice",
+      "link": "https://sports.yahoo.com/articles/alec-pierce-start-sit-week-121000131.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T12:10:00+0000",
+      "summary": "We break down the fantasy football outlook of Alec Pierce ahead of the Colts’ Week 15 matchup vs. the Seahawks."
+    },
+    {
+      "id": "f255214729edb807",
+      "title": "Sam Darnold start or sit: Week 15 fantasy football advice",
+      "link": "https://sports.yahoo.com/articles/sam-darnold-start-sit-week-121000317.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-14T12:10:00+0000",
+      "summary": "We break down the fantasy football outlook of Sam Darnold ahead of the Seahawks’ Week 15 matchup vs. the Colts."
     },
     {
       "id": "37f4471863c730e2",
@@ -27,60 +63,6 @@
       "feed": "ESPN",
       "published": "2025-12-14T11:17:00+0000",
       "summary": "Big day for Ladd McConkey? Fantasy upside for Isaiah Likely? An advantage for Drake Maye? Lofty stat predictions for Christian Watson? Let's look at Week 15."
-    },
-    {
-      "id": "b40de5949cba5641",
-      "title": "Colts QB timeline: Every starter since Andrew Luck retired in 2019",
-      "link": "https://sports.yahoo.com/articles/colts-qb-timeline-every-starter-110413578.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:04:13+0000",
-      "summary": "Since the Colts' former No. 1 overall pick retired ahead of the 2019 season, it's been a quarterback carousel in Indianapolis. Here's the timeline."
-    },
-    {
-      "id": "e3d1bcdd34c9996c",
-      "title": "NFL Week 15 playoff scenarios: Which teams can clinch postseason berths?",
-      "link": "https://sports.yahoo.com/articles/nfl-week-15-playoff-scenarios-110348291.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:03:48+0000",
-      "summary": "Week 15 in the NFL presents opportunities for the Broncos, Patriots and Rams to clinch playoff spots with straightforward scenarios."
-    },
-    {
-      "id": "fa1938f3ef0f5c31",
-      "title": "Who is in the NFL playoffs so far? Who’s clinched, division winners, bracket matchups",
-      "link": "https://sports.yahoo.com/articles/nfl-playoffs-far-clinched-division-110302584.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:03:02+0000",
-      "summary": "There will be NFL clinching scenarios on the table for the first time of the 2025 season in Week 15. Here's a look at the playoff bracket thus far."
-    },
-    {
-      "id": "b8f8e503c46d3bd6",
-      "title": "What is the NFL playoffs schedule? Format, seeding, bracket",
-      "link": "https://sports.yahoo.com/articles/nfl-playoffs-schedule-format-seeding-110254899.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:02:54+0000",
-      "summary": "The NFL playoffs are nearly here. We've got your primer to understand when the games will be and where."
-    },
-    {
-      "id": "519c7dce2fc3cacb",
-      "title": "Vikings mock draft: What pick does Minnesota have? Needs, targets",
-      "link": "https://sports.yahoo.com/articles/vikings-mock-draft-pick-does-110215459.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:02:15+0000",
-      "summary": "The Vikings are on the cusp of missing the playoffs after a 14-win season in 2024. Here's a look at their NFL Draft needs and potential fits."
-    },
-    {
-      "id": "b04b36c7fee59aec",
-      "title": "Sean Payton, Broncos counting on Broncos Country",
-      "link": "https://sports.yahoo.com/articles/sean-payton-broncos-counting-broncos-110000078.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-14T11:00:00+0000",
-      "summary": "When Broncos fans get loud, it creates one of the best and toughest places to play in the NFL. This Sunday against the Packers, Denver fans must bring it."
     },
     {
       "id": "903706e7c5725e55",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-09T18:00:36+0000",
       "summary": "INDIANAPOLIS – The Philip Rivers comeback tour is underway. The last quarterback to lead the Indianapolis Colts into the playoffs is being signed to the practice squad with the intention of helping a wavering team post a late push to the postseason, according to a source with knowledge of the situation. Rivers was put through [...]"
+    },
+    {
+      "id": "f26145cc78104ef4",
+      "title": "Colts DT DeForest Buckner named a finalist for 2025 Art Rooney Sportsmanship Award",
+      "link": "https://colts.com/news/colts-dt-deforest-buckner-named-a-finalist-for-2025-art-rooney-sportsmanship-award",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-09T15:35:45+0000",
+      "summary": "Art Rooney Sportsmanship Award nominees are chosen for their demonstration of on-field sportsmanship."
+    },
+    {
+      "id": "ec737fd4db90ca35",
+      "title": "Colts reportedly bringing in 44-year-old Philip Rivers for Tuesday workout",
+      "link": "https://fox59.com/sports/colts/colts-reportedly-bringing-in-44-year-old-philip-rivers-for-tuesday-workout/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-09T00:59:56+0000",
+      "summary": "INDIANAPOLIS — Is Philip Rivers the short-term cure for what’s ailing the Indianapolis Colts? The last quarterback to lead the franchise to the playoffs in 2020 is being brought in for a Tuesday workout, according to NFL Network. Rivers, who turned 44 Monday, hasn’t played since directing the Colts to an 11-5 record and wild-card [...]"
     }
   ],
   "links": [
