@@ -1,6 +1,60 @@
 {
-  "updated": "2025-12-15T14:23:58+00:00",
+  "updated": "2025-12-15T14:53:05+00:00",
   "items": [
+    {
+      "id": "258c846d126529aa",
+      "title": "NFL Week 15's fashionable arrivals, featuring Cowboys QB Dak Prescott",
+      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-15T14:48:57+0000",
+      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
+    },
+    {
+      "id": "30a54e267ae80feb",
+      "title": "How Daniel Jones' injury could affect Jets, who own the Colts' first-round pick",
+      "link": "https://espn.com/nfl/story/_/id/47286753/new-york-jets-sauce-gardner-trade-colts-draft-position-philip-rivers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-15T14:47:13+0000",
+      "summary": "New York received first-round picks in 2026 and 2027 from Indianapolis in the Sauce Gardner trade."
+    },
+    {
+      "id": "d77e16456a0ca132",
+      "title": "Fantasy Football: Jonathan Taylor's touch volume with Philip Rivers at QB and more key stats from Week 15",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-jonathan-taylors-touch-volume-with-philip-rivers-at-qb-and-more-key-stats-from-week-15-144037529.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T14:40:37+0000",
+      "summary": "Joel Smyth takes you through important stats that may go overlooked for fantasy football coming out of Week 15."
+    },
+    {
+      "id": "36c96ac823cee964",
+      "title": "Patrick Mahomes Tears ACL as Chiefs Miss Out on 2025 NFL Playoffs: Inside Custom Mansion Where Star Quarterback Will Recover",
+      "link": "https://sports.yahoo.com/articles/patrick-mahomes-tears-acl-chiefs-143433200.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T14:34:33+0000",
+      "summary": "Mahomes, 30, suffered a devastating injury in the final two minutes of the Chiefs' game against the Los Angeles Chargers."
+    },
+    {
+      "id": "e00d900d85750cb2",
+      "title": "Report: Buccaneers sign Colts' linebacker from practice squad",
+      "link": "https://sports.yahoo.com/articles/report-buccaneers-sign-colts-linebacker-143123486.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T14:31:23+0000",
+      "summary": "The Buccaneers have reportedly signed Colts' LB Anthony Walker Jr. off the team's practice squad."
+    },
+    {
+      "id": "c6c24d86798df3a4",
+      "title": "Big questions from Week 15 games: Can the Rams take the 1-seed? What now for the Chiefs?",
+      "link": "https://espn.com/nfl/story/_/id/47287157/nfl-week-15-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-15T14:25:40+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 15 game. Here's what you need to know."
+    },
     {
       "id": "7968c6a0a2a8236c",
       "title": "Colts Blue Zone Podcast 449: Somehow, It Almost Worked",
@@ -9,33 +63,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-15T14:11:20+0000",
       "summary": "The Indianapolis Colts lost a heartbreaker to one of the league's best teams after bringing Philip Rivers out of retirement to run the offense. Matt Adams recaps the game and laments a few missed opportunities. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "9e019e223cce7d42",
-      "title": "Dolphins vs Steelers Predictions, Picks & Best Bets for Monday Night Football Today",
-      "link": "https://sports.yahoo.com/articles/dolphins-vs-steelers-predictions-picks-200000544.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T14:05:00+0000",
-      "summary": "Get the best Dolphins vs. Steelers predictions and odds ahead of Monday Night Football for Week 15. Free NFL picks for December 15, 2025."
-    },
-    {
-      "id": "a1cc1e321b58792f",
-      "title": "Raiders maintain control of no. 2 pick in 2026 NFL draft after Week 15",
-      "link": "https://sports.yahoo.com/articles/raiders-maintain-control-no-2-140111097.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T14:01:11+0000",
-      "summary": "The Las Vegas Raiders are still in the driver's seat for the no. 2 overall pick in the 2026 NFL draft after Week 15."
-    },
-    {
-      "id": "b28352688bbca5a7",
-      "title": "How two seismic Week 15 injuries impacted the NFL: Barnwell on Parsons, Mahomes and the fallout",
-      "link": "https://espn.com/nfl/story/_/id/47304899/2025-nfl-week-15-injuries-acl-patrick-mahomes-micah-parsons-chiefs-packers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-15T13:58:26+0000",
-      "summary": "Micah Parsons and Patrick Mahomes both suffered significant knee injuries Sunday. What do they mean for the Packers' playoff push and the Chiefs' offseason plans?"
     },
     {
       "id": "d3cfeef6d0204429",
@@ -54,24 +81,6 @@
       "feed": "ESPN",
       "published": "2025-12-15T13:54:39+0000",
       "summary": "NFL teams remained petty in Week 15 with the Buffalo Bills poking fun at the New England Patriots after a huge road win."
-    },
-    {
-      "id": "c6c24d86798df3a4",
-      "title": "Big questions from Week 15 games: Can the Rams take the 1-seed? What now for the Chiefs?",
-      "link": "https://espn.com/nfl/story/_/id/47287157/nfl-week-15-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-15T05:10:26+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 15 game. Here's what you need to know."
-    },
-    {
-      "id": "258c846d126529aa",
-      "title": "NFL Week 15's fashionable arrivals, featuring Cowboys QB Dak Prescott",
-      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-15T05:09:00+0000",
-      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
     },
     {
       "id": "d4d27c869da83059",
@@ -225,15 +234,6 @@
       "feed": "Colts.com",
       "published": "2025-12-14T19:55:10+0000",
       "summary": "The Colts on Friday ruled out cornerback Sauce Gardner (calf), wide receiver Anthony Gould (foot) and tackle Braden Smith (concussion/neck) while defensive tackle DeForest Buckner (neck) remains on injured reserve."
-    },
-    {
-      "id": "30a54e267ae80feb",
-      "title": "How Daniel Jones' injury could affect Jets, who own the Colts' first-round pick",
-      "link": "https://espn.com/nfl/story/_/id/47286753/new-york-jets-sauce-gardner-trade-colts-draft-position-philip-rivers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-14T18:59:47+0000",
-      "summary": "New York received first-round picks in 2026 and 2027 from Indianapolis in the Sauce Gardner trade."
     },
     {
       "id": "528a3ddb8acf4581",
