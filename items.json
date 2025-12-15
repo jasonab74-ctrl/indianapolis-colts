@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-15T07:44:13+00:00",
+  "updated": "2025-12-15T08:30:53+00:00",
   "items": [
+    {
+      "id": "22b630dd3538db2a",
+      "title": "Philip Rivers: how a 44-year-old grandpa nearly pulled off one of the NFL’s greatest comebacks",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-44-old-grandpa-081525976.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T08:15:25+0000",
+      "summary": "The Colts quarterback was coaching high school football before his surprise return. And he showed brains are almost important as brawn at his position"
+    },
     {
       "id": "d3cfeef6d0204429",
       "title": "Rivers: Return was 'blast,' but loss stings most",
@@ -18,24 +27,6 @@
       "feed": "ESPN",
       "published": "2025-12-15T07:36:58+0000",
       "summary": "NFL teams remained petty in Week 15 with the Buffalo Bills poking fun at the New England Patriots after a huge road win."
-    },
-    {
-      "id": "60bea3582b2d7a38",
-      "title": "NFL coaches on hot seat: Raheem Morris, Jonathan Gannon first in firing line; Mike McDaniel safe?",
-      "link": "https://sports.yahoo.com/articles/nfl-coaches-hot-seat-raheem-070001935.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T07:00:01+0000",
-      "summary": "Here's an update look at the NFL coaches most in danger of being fired by their teams, with the leaders in Atlanta and Arizona feeling the most heat."
-    },
-    {
-      "id": "e2497a0319fa2758",
-      "title": "NFL Week 16 odds: Eagles open as road favorites against Commanders",
-      "link": "https://sports.yahoo.com/articles/nfl-week-16-odds-eagles-065643013.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T06:56:43+0000",
-      "summary": "The Birds can officially clinch the NFC East with a win in Washington."
     },
     {
       "id": "c6c24d86798df3a4",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-09T20:49:38+0000",
       "summary": "The Colts released their Week 15 unofficial depth chart ahead of their game against the Seattle Seahawks Sunday at Lumen Field. Check it out below:"
+    },
+    {
+      "id": "ef235e0d2fc7a0b4",
+      "title": "As Charvarius Ward Sr. enters concussion protocol for third time, Colts' focus shifts to his health as a human being",
+      "link": "https://colts.com/news/charvarius-ward-sr-concussion-protocol-third-time-lou-anarumo-colts-health-human-being-jaguars-cornerbacks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-09T20:28:12+0000",
+      "summary": "On Monday, Ward was placed in concussion protocol for the third time this season."
     }
   ],
   "links": [
