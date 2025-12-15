@@ -1,6 +1,33 @@
 {
-  "updated": "2025-12-15T11:18:09+00:00",
+  "updated": "2025-12-15T11:40:44+00:00",
   "items": [
+    {
+      "id": "5a49fc092ae2d1fd",
+      "title": "What we learned from Patriots vs. Bills in NFL Week 15",
+      "link": "https://sports.yahoo.com/articles/learned-patriots-vs-bills-nfl-113526401.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T11:35:26+0000",
+      "summary": "Takeaways from the Patriots’ 35-31 loss on Sunday."
+    },
+    {
+      "id": "61385e25fbf3d236",
+      "title": "New York Giants' Jaxson Dart growing frustrated with NFL's concussion testing",
+      "link": "https://sports.yahoo.com/articles/york-giants-jaxson-dart-growing-112820981.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T11:28:20+0000",
+      "summary": "New York Giants rookie QB Jaxson Dart admits frustration with the NFL's concussion testing after being removed from a game for the fifth time."
+    },
+    {
+      "id": "017960b437af561c",
+      "title": "Philip Rivers: It was a blast being out there, but we've got to win",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-blast-being-weve-112130139.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T11:21:30+0000",
+      "summary": "There was a storybook ending to Philip Rivers' return to the NFL on Sunday, but he and the Colts were on the wrong side of it."
+    },
     {
       "id": "254acda4f81870d2",
       "title": "NFL Week 15 winners and losers: Mahomes' injury should force change",
@@ -9,24 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-15T11:05:33+0000",
       "summary": "The Chiefs tried to recapture their previous Super Bowl form, but Patrick Mahomes' injury shows Kansas City needs to reinvent rather than replicate."
-    },
-    {
-      "id": "61394fe4b6a27bc6",
-      "title": "Fan of the Year uses Packers games to teach first-grade students",
-      "link": "https://sports.yahoo.com/articles/fan-uses-packers-games-teach-110122035.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T11:01:22+0000",
-      "summary": "Students get upset if they think teacher Ashley Christensen forgot to talk about latest Packers game. She's the team nominee for NFL Fan of the Year."
-    },
-    {
-      "id": "62e2f2a424f5c99e",
-      "title": "Cardinals NFL Draft order 2026: Where Arizona stands after Week 15",
-      "link": "https://sports.yahoo.com/articles/cardinals-nfl-draft-order-2026-110000996.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T11:00:00+0000",
-      "summary": "The Arizona Cardinals now hold the 6th pick in the 2026 NFL Draft."
     },
     {
       "id": "d3cfeef6d0204429",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-10T14:50:29+0000",
       "summary": "The Colts made the roster moves on Wednesday."
-    },
-    {
-      "id": "68ef73ea7fb45bb9",
-      "title": "Frank Reich on Philip Rivers returning to the Colts: ’No, it’s not crazy’",
-      "link": "https://fox59.com/sports/frank-reich-on-philip-rivers-returning-to-the-colts-no-its-not-crazy/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-09T22:15:36+0000",
-      "summary": "INDIANAPOLIS – The speculation spread across the NFL landscape. The quarterback-needy Indianapolis Colts are bringing in 44-year-old Philip Rivers for a workout. The news finally made its way to Frank Reich, who was Rivers’ last head coach in 2020, with those same Colts. His initial reaction? The Rivers thing. Isn’t that crazy? Well, no. “No, [...]"
     }
   ],
   "links": [
