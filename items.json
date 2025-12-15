@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-15T04:39:18+00:00",
+  "updated": "2025-12-15T05:24:20+00:00",
   "items": [
     {
       "id": "c6c24d86798df3a4",
@@ -7,8 +7,62 @@
       "link": "https://espn.com/nfl/story/_/id/47287157/nfl-week-15-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-15T04:31:30+0000",
+      "published": "2025-12-15T05:10:26+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 15 game."
+    },
+    {
+      "id": "258c846d126529aa",
+      "title": "NFL Week 15's fashionable arrivals, featuring Cowboys QB Dak Prescott",
+      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-15T05:09:00+0000",
+      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
+    },
+    {
+      "id": "260c218153a72002",
+      "title": "NFL power rankings: Rams edge Broncos for No. 1; Bills & 49ers rise as Packers fade for Week 16",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-rams-edge-050528297.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T05:05:28+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 15 of the 2025 NFL regular season? Here's an updated look from best to worst."
+    },
+    {
+      "id": "d4d27c869da83059",
+      "title": "Two vulnerable NFL sack records: Tracking pace for Myles Garrett (21.5!), Broncos' D (58!)",
+      "link": "https://espn.com/nfl/story/_/id/47100067/tracking-sacks-record-cleveland-browns-myles-garrett-denver-broncos-pace-nfl-single-season-player-team",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-15T05:02:42+0000",
+      "summary": "The Browns' vet edge rusher and Denver's defense are in contention to rewrite the single-season sacks record book."
+    },
+    {
+      "id": "a9cf849af6b93444",
+      "title": "Storybook ending failed to materialize as Colts, Philip Rivers came up short versus Seattle",
+      "link": "https://fox59.com/news/storybook-ending-failed-to-materialize-as-colts-philip-rivers-came-up-short-versus-seattle/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-15T04:51:33+0000",
+      "summary": "INDIANAPOLIS — Sometimes, and it’s rare, you can do almost everything right and still wind up with the wrong ending to a story. Like the Grandpa Phil Comeback narrative. Like the Indianapolis Colts dropping an 18-16 decision to the Seahawks Sunday in Seattle. They followed the only real script that made much sense with the [...]"
+    },
+    {
+      "id": "2875ca4314da51d2",
+      "title": "Updated 2026 NFL Draft order: Giants, Raiders on pace to claim top selections in Week 15",
+      "link": "https://sports.yahoo.com/articles/updated-2026-nfl-draft-order-160106280.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T04:43:00+0000",
+      "summary": "Here is a look at the updated 2026 NFL Draft order in Week 15 with the Giants and Raiders on pace to claim the top spots."
+    },
+    {
+      "id": "b334e8c0b8030dc2",
+      "title": "Cowboys playoff picture: Updated chances for Dallas to make 2025 NFL postseason in Week 15",
+      "link": "https://sports.yahoo.com/articles/cowboys-playoff-picture-updated-chances-070001358.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T04:39:01+0000",
+      "summary": "Here's a closer look at the Dallas Cowboys' chances to make the postseason."
     },
     {
       "id": "8f7dd138d3243d3d",
@@ -16,8 +70,17 @@
       "link": "https://sports.yahoo.com/fantasy/article/week-15-instant-fantasy-takeaways-mahomes-tears-acl-josh-allen-makes-mvp-case-and-rams-look-super-043119180.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-15T04:31:19+0000",
+      "published": "2025-12-15T04:37:01+0000",
       "summary": "Matt Harmon and Chris Allen provide instant fantasy analysis to all the action from Week 15 in the NFL. The two react to all the major injuries that took place on Sunday, including the Kansas City Chiefs losing Patrick Mahomes for the season to a torn ACL. The two place games in three fantasy buckets: Games we care about the most, games we sort of care about and games that could have been an email."
+    },
+    {
+      "id": "6996d1861bebbf13",
+      "title": "NFL standings: Updated AFC, NFC playoff pictures for Week 15 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/nfl-standings-updated-afc-nfc-053001685.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-15T04:31:01+0000",
+      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 15, from top seeds to final wild cards in both conferences."
     },
     {
       "id": "d3cfeef6d0204429",
@@ -38,22 +101,22 @@
       "summary": "One week after finishing with the worst receiving output of his career, DJ Moore sparked the Bears' aerial attack against the NFL's top pass defense in a 31-3 rout of the Browns on Sunday."
     },
     {
-      "id": "6d6ab6f6a5c6cb3e",
-      "title": "Philip Rivers reacts to first NFL start in nearly five years",
-      "link": "https://sports.yahoo.com/articles/philip-rivers-reacts-first-nfl-041537908.html",
+      "id": "131cff2053c136e3",
+      "title": "NFL playoff picture: What Cowboys loss to Vikings mean for NFC standings in Week 15",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-cowboys-000000208.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-15T04:15:37+0000",
-      "summary": "Heading into Week 15, the biggest story in the NFL was the return of veteran quarterback Philip Rivers, who started for the Indianapolis Colts against the Seattle Seahawks on Sunday.  Considering the extended layoff, Rivers looked okay against Seattle.  Unfortunately for Rivers though, his return game didn’t get a storybook ending, as the Seahawks pulled out a 18-16 win over Indianapolis."
+      "published": "2025-12-15T04:30:00+0000",
+      "summary": "The Cowboys face the Vikings in Arlington on Sunday. We break down what the game means for the NFL playoff picture."
     },
     {
-      "id": "008fd829d430089c",
-      "title": "Cowboys vs. Vikings live score, updates, highlights from NFL 'Sunday Night Football' game",
-      "link": "https://sports.yahoo.com/articles/cowboys-vs-vikings-live-score-223001607.html",
+      "id": "cddde2f3b1368b78",
+      "title": "NFL playoff picture: What Eagles win over Raiders means for NFC standings in Week 15",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-eagles-170000577.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-15T04:15:01+0000",
-      "summary": "The Sporting News is tracking live scoring updates and highlights for Cowboys vs. Vikings on &quot;Sunday Night Football.&quot; Follow for complete results from the NFL Week 15 game."
+      "published": "2025-12-15T04:30:00+0000",
+      "summary": "The Eagles face the Raiders in Philadelphia on Sunday. We break down what the game means for the NFL playoff picture."
     },
     {
       "id": "416593c1b8b9b4f5",
@@ -63,33 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-12-15T04:02:00+0000",
       "summary": "The novelty of Philip Rivers' return to the NFL wore off when the clock hit zero at Lumen Field on Sunday. Now, the question becomes: Can the Colts actually pull this off over the final three weeks of the 2025 season?"
-    },
-    {
-      "id": "35eade84a3c5de90",
-      "title": "St. Michael’s football team gathers to cheer on coach Philip Rivers’ NFL return",
-      "link": "https://sports.yahoo.com/articles/st-michael-football-team-gathers-035314621.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T03:53:14+0000",
-      "summary": "FAIRHOPE, Ala. (WKRG) — Saint Michael’s football players came together Sunday night for a moment they never expected; watching their high school coach take the field in the NFL. After five years away from professional football, Saint Michael’s Coach, Philip Rivers, returned to the league, trading the sidelines for the line of scrimmage. For the […]"
-    },
-    {
-      "id": "80d7243d6203d1ce",
-      "title": "Latest Seahawks game ball to...an analyst? Why Mike Macdonald used his timeouts",
-      "link": "https://sports.yahoo.com/articles/latest-seahawks-game-ball-analyst-035248811.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T03:52:48+0000",
-      "summary": "The story why head research analyst Brian Eayrs was standing in the middle of the locker room following the last-second win over the Colts."
-    },
-    {
-      "id": "8b600b8e480fbc62",
-      "title": "3 quick takeaways from Colts, Phillip Rivers' performance in Week 15",
-      "link": "https://sports.yahoo.com/articles/3-quick-takeaways-colts-phillip-034627040.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-15T03:46:27+0000",
-      "summary": "Following the Colts' Week 15 loss to Seattle, here are three quick takeaways from what took place with Phillip Rivers at quarterback."
     },
     {
       "id": "36100d0a39263eb9",
@@ -189,15 +225,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-14T23:05:50+0000",
       "summary": "The NFL world was understandably caught up in the Philip Rivers returns saga this past week. Coming out of retirement after five years away warrants being the storyline of the week — or in this case, the remainder of the season — and all of the hype surrounding it was valid. While he undoubtedly had [&#8230;]"
-    },
-    {
-      "id": "258c846d126529aa",
-      "title": "NFL Week 15's fashionable arrivals, featuring Cowboys QB Dak Prescott",
-      "link": "https://espn.com/nfl/story/_/id/47280990/nfl-week-15-fashionable-best-arrivals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-14T21:54:24+0000",
-      "summary": "The top fashion looks around the NFL from \"Thursday Night Football\" to Monday night."
     },
     {
       "id": "7e1477cdb2af5611",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-10T16:36:18+0000",
       "summary": "Buckner was placed on injured reserve with a neck injury in Week 10."
-    },
-    {
-      "id": "6f8cf6cd3a0886b3",
-      "title": "Colts sign Rivers to practice squad, place Ward on IR",
-      "link": "https://fox59.com/sports/colts/colts-sign-rivers-to-practice-squad-place-ward-on-ir/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-10T15:20:57+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts made it official Wednesday, announcing the addition of quarterback Philip Rivers to the practice squad. The team also placed cornerback Charvarius “Mooney” Ward Sr. on injured reserve. Ward had been in concussion protocol for the third time this season. He missed the Week 2 game against Denver with a concussion [...]"
-    },
-    {
-      "id": "4092beab0a3348bf",
-      "title": "Colts sign QB Philip Rivers to practice squad",
-      "link": "https://colts.com/news/colts-sign-qb-philip-rivers-to-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-10T14:58:00+0000",
-      "summary": "The 44-year-old Rivers last played in 2020, when he led the Colts to an 11-5 record and a playoff appearance."
-    },
-    {
-      "id": "3c32a8e6630ecc87",
-      "title": "Lou Anarumo reflects on coaching against Philip Rivers: 'More than a headache'",
-      "link": "https://colts.com/news/colts-defensive-coordinator-lou-anarumo-coaching-against-philip-rivers-chargers-bengals-quarterback",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-10T14:54:21+0000",
-      "summary": "Anarumo was the defensive coordinator for the Cincinnati Bengals in 2020, when Rivers led the Colts to a 31-27 comeback win."
     }
   ],
   "links": [
