@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-16T11:18:29+00:00",
+  "updated": "2025-12-16T11:40:34+00:00",
   "items": [
+    {
+      "id": "ec2ea39c7401c5da",
+      "title": "NFL playoff picture: Top seed virtually out of reach for Patriots",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-top-seed-112037643.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-16T11:20:37+0000",
+      "summary": "The Patriots were beaten 35-31 by the Bills in Week 15."
+    },
     {
       "id": "90a807e7d60e5cde",
       "title": "NFL playoff picture: Rams and Broncos clinch in Week 15",
@@ -29,15 +38,6 @@
       "summary": "Paul Wiggin marveled at longtime Cleveland Browns teammate Jim Brown and created an impressive legacy of his own as an NFL player and champion."
     },
     {
-      "id": "aaad7232cc2da639",
-      "title": "Robert Griffin III weighs in on the Chiefs' offense this season",
-      "link": "https://sports.yahoo.com/articles/robert-griffin-iii-weighs-chiefs-110050676.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T11:00:50+0000",
-      "summary": "Former NFL quarterback Robert Griffin III weighed in on the Kansas City Chiefs' offense this season | @EdEastonJr"
-    },
-    {
       "id": "20da319e0835b663",
       "title": "Rivers to remain Colts' QB1 for MNF vs. 49ers",
       "link": "https://espn.com/nfl/story/_/id/47316551/philip-rivers-remain-colts-qb1-next-monday-night-vs-49ers",
@@ -54,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-12-16T05:09:59+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 15 game. Here's what you need to know."
-    },
-    {
-      "id": "66db13692101f884",
-      "title": "Two Colts linebackers claimed off their practice squad on Monday by playoff hopefuls",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119353/two-colts-linebackers-claimed-off-their-practice-squad-on-monday-by-playoff-hopefuls",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-16T02:55:28+0000",
-      "summary": "On Monday, the Indianapolis Colts lost two linebackers off their practice, as Chad Muma and Anthony Walker Jr were claimed by the New England Patriots and the Tampa Bay Buccaneers respectively. Having been claimed from the Jacksonville Jaguars from final 53-man roster cuts, Muma appeared in 5 games for the Colts this season, recording 5 [&#8230;]"
-    },
-    {
-      "id": "b1bec18227f19505",
-      "title": "Colts have already made decision on starting QB for MNF against 49ers",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119348/colts-have-already-made-a-decision-on-starting-qb-for-mnf-against-49ers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-16T02:37:52+0000",
-      "summary": "According to head coach Shane Steichen, the Indianapolis Colts have already made a decision on who will start at quarterback for next Monday night’s matchup hosting the San Francisco 49ers. It will be veteran quarterback Philip Rivers again for a consecutive start (via ESPN’s Stephen Holder): Having not played pro football in nearly 5 years, [&#8230;]"
     },
     {
       "id": "e66394cf49564354",
@@ -281,6 +263,15 @@
       "summary": "The Indianapolis Colts were in the Emerald City this weekend, facing the Seattle Seahawks at Lumen Field. The biggest story was the return of long-retired Philip Rivers. Colts QB Daniel Jones tore his Achilles tendon and went on IR earlier this week. Backup Riley Leonard suffered a knee injury and the team signed Rivers out [&#8230;]"
     },
     {
+      "id": "7d4e019d6c0c5169",
+      "title": "Lou Anarumo’s Colts defense played inspired against the Seahawks",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119268/lou-anarumos-colts-defense-played-inspired-against-the-seahawks",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-15T01:03:42+0000",
+      "summary": "Entering the game, the Seattle Seahawks were the NFL’s second-highest scoring offense, averaging 29.8 points per game. Against the Indianapolis Colts defense, however, Sam Darnold and Co. were tested. The Seattle Seahawks are known as a second-half team, as they often take a beat to warm up; therefore, a one-score deficit (6-13) entering halftime was [&#8230;]"
+    },
+    {
       "id": "00adb796929718a4",
       "title": "Seahawks spoil Rivers' return, pick up 18-16 win over Colts",
       "link": "https://fox59.com/sports/colts/seahawks-survive-to-beat-colts-18-16-in-rivers-return/",
@@ -297,6 +288,15 @@
       "feed": "Colts.com",
       "published": "2025-12-15T00:22:05+0000",
       "summary": "The Colts lost their fourth consecutive game, 18-16, to the Seattle Seahawks on Sunday at Lumen Field."
+    },
+    {
+      "id": "8ab4a88a372a6124",
+      "title": "Colts got shades of vintage Philip Rivers in his first half back",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119263/colts-got-shades-of-vintage-philip-rivers-in-his-first-half-back",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-14T23:05:50+0000",
+      "summary": "The NFL world was understandably caught up in the Philip Rivers returns saga this past week. Coming out of retirement after five years away warrants being the storyline of the week — or in this case, the remainder of the season — and all of the hype surrounding it was valid. While he undoubtedly had [&#8230;]"
     },
     {
       "id": "d660c5857a49c78b",
