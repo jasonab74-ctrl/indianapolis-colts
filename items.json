@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-16T23:18:27+00:00",
+  "updated": "2025-12-16T23:40:08+00:00",
   "items": [
+    {
+      "id": "9b0a25242beb734d",
+      "title": "Arch Manning staying at Texas was the most predictable 'what if' of 2025",
+      "link": "https://sports.yahoo.com/articles/arch-manning-staying-texas-most-230600894.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-16T23:06:00+0000",
+      "summary": "There is no urgency for Arch to enter the NFL."
+    },
     {
       "id": "e4a971541299b158",
       "title": "Kolby Smith set to join Kentucky Football coaching staff, per report",
@@ -9,42 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-16T23:05:33+0000",
       "summary": "A former Louisville and NFL running back is joining Will Stein’s coaching staff."
-    },
-    {
-      "id": "688c8d2f70d41884",
-      "title": "Bills sign kicker Michael Badgley to practice squad to fill in while Matt Prater is sidelined",
-      "link": "https://sports.yahoo.com/articles/bills-sign-kicker-michael-badgley-230519820.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T23:05:19+0000",
-      "summary": "The Buffalo Bills on Tuesday signed kicker Michael Badgley to their practice squad, with the expectation he’ll take over on an interim basis for injured veteran Matt Prater.  Badgley has seven seasons of NFL experience and most recently appeared in seven games with the Indianapolis Colts this year.  Badgley was good on 10 of 11 field-goal attempts, including 2 of 3 from 50 yards or longer."
-    },
-    {
-      "id": "0a368297fc431681",
-      "title": "Utah offensive tackle Caleb Lomu declares for NFL draft",
-      "link": "https://sports.yahoo.com/articles/utah-offensive-tackle-caleb-lomu-230312612.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T23:03:12+0000",
-      "summary": "Lomu is the first Ute to officially declare for the 2026 NFL draft."
-    },
-    {
-      "id": "a108e7b10a44a3a6",
-      "title": "How Oregon Ducks in the NFL performed in Week 15",
-      "link": "https://sports.yahoo.com/articles/oregon-ducks-nfl-performed-week-225929603.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T22:59:29+0000",
-      "summary": "The Oregon Ducks have a long lineage of players who make it to the next level. Let’s take a look at how the NFL Ducks performed in Week 15."
-    },
-    {
-      "id": "f3b88ab11ac9388b",
-      "title": "Below Average: NFL.com Power Rankings Reflect Tampa Bay Buccaneers' Slide",
-      "link": "https://sports.yahoo.com/articles/below-average-nfl-com-power-225215944.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T22:52:15+0000",
-      "summary": "Losing five of six, Tampa Bay has plummeted in NFL.com's Power Rankings. Tough losses and blown leads now haunt a team clinging to a share of first place."
     },
     {
       "id": "d747ede2f6092d8f",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-12-10T21:12:39+0000",
       "summary": "Leonard sustained a knee injury during the Colts’ game against the Jacksonville Jaguars on Sunday but said he feels “really good” on Wednesday."
+    },
+    {
+      "id": "74aff4fca058c5d7",
+      "title": "Practice Notebook: DeForest Buckner returns, Sauce Gardner DNP for fourth straight practice",
+      "link": "https://colts.com/news/practice-notebook-deforest-buckner-21-day-practice-window-injured-reserve-sauce-gardner-charvarius-ward",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-10T21:10:39+0000",
+      "summary": "The Colts opened Buckner's 21-day window to be activated from injured reserve on Wednesday."
+    },
+    {
+      "id": "bc30bb30e1b4c6bc",
+      "title": "'Dadgummit, let's freaking go:' How Colts, Philip Rivers came to their improbable reunion",
+      "link": "https://colts.com/news/dadgummit-let-s-freaking-go-how-colts-philip-rivers-came-to-their-improbable-reunion",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-10T21:06:58+0000",
+      "summary": "Philip Rivers on Wednesday was on the field at the Indiana Farm Bureau Football Center in a red No. 17 practice jersey, slinging the ball around and going through a Week 15 practice for the Colts. So how, exactly, did we get to this point?"
+    },
+    {
+      "id": "5a5e6453ed841f15",
+      "title": "Will Philip Rivers or Riley Leonard start for Colts at QB vs. Seahawks? 'We'll see how the week goes'",
+      "link": "https://colts.com/news/will-philip-rivers-or-riley-leonard-start-for-colts-at-qb-vs-seahawks-we-ll-see-how-the-week-goes",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-10T19:31:47+0000",
+      "summary": "The Colts are in wait-and-see mode as Philip Rivers and Riley Leonard begin practice on Wednesday ahead of Sunday's game against the Seattle Seahawks at Lumen Field."
     }
   ],
   "links": [
