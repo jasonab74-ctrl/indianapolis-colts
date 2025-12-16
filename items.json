@@ -1,41 +1,59 @@
 {
-  "updated": "2025-12-16T11:40:34+00:00",
+  "updated": "2025-12-16T12:42:30+00:00",
   "items": [
     {
-      "id": "ec2ea39c7401c5da",
-      "title": "NFL playoff picture: Top seed virtually out of reach for Patriots",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-top-seed-112037643.html",
+      "id": "ed45d82111d7c908",
+      "title": "Patriots vs. Ravens odds, spread, betting info for NFL Week 16",
+      "link": "https://sports.yahoo.com/articles/patriots-vs-ravens-odds-spread-123641478.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-16T11:20:37+0000",
-      "summary": "The Patriots were beaten 35-31 by the Bills in Week 15."
+      "published": "2025-12-16T12:36:41+0000",
+      "summary": "Are the Patriots on fraud watch following their loss to the Bills?﻿"
     },
     {
-      "id": "90a807e7d60e5cde",
-      "title": "NFL playoff picture: Rams and Broncos clinch in Week 15",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-rams-broncos-120000669.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T11:07:45+0000",
-      "summary": "The Rams and Broncos clinched, while the Chiefs were eliminated. Here is how Week 15 shaped the NFL Playoff Picture"
+      "id": "a4855ef9d91ecb3d",
+      "title": "Updated NFL Power Rankings: New 1-32 poll, plus who could get extended this offseason",
+      "link": "https://espn.com/nfl/story/_/id/47315735/nfl-week-16-power-rankings-poll-32-teams-2025-offseason-contract-extensions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-16T12:17:04+0000",
+      "summary": "Let's update our NFL Power Rankings ahead of Week 16. We also looked at players who could get contract extensions this offseason."
     },
     {
-      "id": "c427f0c0d2694706",
-      "title": "New York Giants' Jaxson Dart made more NFL history in Week 15",
-      "link": "https://sports.yahoo.com/articles/york-giants-jaxson-dart-made-110648069.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T11:06:48+0000",
-      "summary": "New York Giants rookie QB Jaxson Dart etched his name in the NFL history books against Washington in Week 15."
+      "id": "78efb531208a4af8",
+      "title": "Caleb Williams, Drake Maye and Matthew Stafford had some of the top plays of Week 15",
+      "link": "https://espn.com/nfl/story/_/id/47316876/caleb-williams-drake-maye-matthew-stafford-wildest-plays-week-15",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-16T12:17:04+0000",
+      "summary": "Here were some of the top plays in the NFL, as defined by Next Gen Sta"
     },
     {
-      "id": "4cb9c36d28e7a900",
-      "title": "Paul Wiggin, an NFL champ with 1964 Cleveland Browns, dies at age 91",
-      "link": "https://sports.yahoo.com/articles/paul-wiggin-nfl-champ-1964-110635695.html",
+      "id": "d747ede2f6092d8f",
+      "title": "Solak spins NFL Week 15 forward: The Broncos and Rams clinched ... now can they reach the Super Bowl?",
+      "link": "https://espn.com/nfl/story/_/id/47304938/2025-nfl-week-15-broncos-rams-clinch-playoffs-super-bowl-philip-rivers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-16T12:15:35+0000",
+      "summary": "Ben Solak sizes up the Broncos and Rams in their respective conferences, Philip Rivers' first start back in the NFL and some wild Week 15 trends to watch."
+    },
+    {
+      "id": "76ff7a1da9a436a6",
+      "title": "Browns NFL Draft order 2026: Where Cleveland stands after Week 15",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-draft-order-2026-005901295.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-16T11:06:35+0000",
-      "summary": "Paul Wiggin marveled at longtime Cleveland Browns teammate Jim Brown and created an impressive legacy of his own as an NFL player and champion."
+      "published": "2025-12-16T12:14:45+0000",
+      "summary": "The Cleveland Browns lost once again in Week 15. The updated 2026 NFL draft order and chances for Browns to get top spot"
+    },
+    {
+      "id": "260c218153a72002",
+      "title": "NFL power rankings: Rams reclaim No. 1 from Broncos; Bills, 49ers rise as Packers fade for Week 16",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-rams-edge-050528297.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-16T12:13:00+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 15 of the 2025 NFL regular season? Here's an updated look from best to worst."
     },
     {
       "id": "20da319e0835b663",
@@ -54,6 +72,15 @@
       "feed": "ESPN",
       "published": "2025-12-16T05:09:59+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 15 game. Here's what you need to know."
+    },
+    {
+      "id": "b1bec18227f19505",
+      "title": "Colts have already made decision on starting QB for MNF against 49ers",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119348/colts-have-already-made-a-decision-on-starting-qb-for-mnf-against-49ers",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-16T02:37:52+0000",
+      "summary": "According to head coach Shane Steichen, the Indianapolis Colts have already made a decision on who will start at quarterback for next Monday night’s matchup hosting the San Francisco 49ers. It will be veteran quarterback Philip Rivers again for a consecutive start (via ESPN’s Stephen Holder): Having not played pro football in nearly 5 years, [&#8230;]"
     },
     {
       "id": "e66394cf49564354",
@@ -99,15 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-12-15T19:52:28+0000",
       "summary": "Steichen said on Monday that Richardson has been cleared to begin physical activity, but when he will return to practice is undetermined."
-    },
-    {
-      "id": "3559d8ecdc23700c",
-      "title": "NFL playoff picture: Updated projections, chances to make the postseason",
-      "link": "https://espn.com/nfl/story/_/id/46139564/2025-nfl-playoff-picture-afc-nfc-seed-predictions-odds-super-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-15T18:55:55+0000",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to Super Bowl LX."
     },
     {
       "id": "70e54a5de765c49f",
@@ -288,15 +306,6 @@
       "feed": "Colts.com",
       "published": "2025-12-15T00:22:05+0000",
       "summary": "The Colts lost their fourth consecutive game, 18-16, to the Seattle Seahawks on Sunday at Lumen Field."
-    },
-    {
-      "id": "8ab4a88a372a6124",
-      "title": "Colts got shades of vintage Philip Rivers in his first half back",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119263/colts-got-shades-of-vintage-philip-rivers-in-his-first-half-back",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-14T23:05:50+0000",
-      "summary": "The NFL world was understandably caught up in the Philip Rivers returns saga this past week. Coming out of retirement after five years away warrants being the storyline of the week — or in this case, the remainder of the season — and all of the hype surrounding it was valid. While he undoubtedly had [&#8230;]"
     },
     {
       "id": "d660c5857a49c78b",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-10T17:43:57+0000",
       "summary": "Rivers is currently one of 26 semifinalists for the Pro Football Hall of Fame Class of 2026."
-    },
-    {
-      "id": "f6070f7ba8b0fb54",
-      "title": "Philip Rivers to wear No. 17 with Colts",
-      "link": "https://colts.com/news/philip-rivers-to-wear-no-17-with-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-10T16:53:03+0000",
-      "summary": "With the Colts placing Daniel Jones on injured reserve Tuesday, Rivers is able to wear the No. 17 he's worn every year of his career."
     }
   ],
   "links": [
