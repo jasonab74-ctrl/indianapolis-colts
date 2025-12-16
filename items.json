@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-16T05:45:34+00:00",
+  "updated": "2025-12-16T06:32:13+00:00",
   "items": [
     {
       "id": "dae01fa348b7256e",
@@ -26,7 +26,7 @@
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
       "published": "2025-12-16T05:19:02+0000",
-      "summary": "Arch Manning just finished his first season as a starter with the Longhorns, and will now run it back in 2026."
+      "summary": "Arch Manning just finished his first season as a starter with the Longhorns and will now run it back in 2026."
     },
     {
       "id": "20da319e0835b663",
@@ -45,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-16T05:09:59+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 15 game. Here's what you need to know."
-    },
-    {
-      "id": "aa7893e5674d4c64",
-      "title": "NFL world reacts to Commanders' decision to end Jayden Daniels' season",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-commanders-decision-045756519.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-16T04:57:56+0000",
-      "summary": "Fans and media react to the Commanders decision to end Jayden Daniels' 2025 season."
     },
     {
       "id": "66db13692101f884",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-10T16:53:03+0000",
       "summary": "With the Colts placing Daniel Jones on injured reserve Tuesday, Rivers is able to wear the No. 17 he's worn every year of his career."
+    },
+    {
+      "id": "f00c4da8823e4103",
+      "title": "Colts designate DT DeForest Buckner to return to practice",
+      "link": "https://colts.com/news/colts-designate-dt-deforest-buckner-to-return-to-practice-week-15-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-10T16:36:18+0000",
+      "summary": "Buckner was placed on injured reserve with a neck injury in Week 10."
     }
   ],
   "links": [
