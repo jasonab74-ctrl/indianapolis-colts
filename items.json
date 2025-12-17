@@ -1,14 +1,23 @@
 {
-  "updated": "2025-12-17T03:06:39+00:00",
+  "updated": "2025-12-17T04:05:20+00:00",
   "items": [
     {
-      "id": "62bdeda36cf88beb",
-      "title": "Will Travis Kelce retire? Jason Kelce weighs in on speculation",
-      "link": "https://sports.yahoo.com/articles/travis-kelce-retire-jason-kelce-025536544.html",
+      "id": "e3baaa4f010fe805",
+      "title": "Colts’ Week 15 QB Analysis: It Is What It Is",
+      "link": "https://sports.yahoo.com/articles/colts-week-15-qb-analysis-035935630.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-17T02:55:36+0000",
-      "summary": "Is this Travis Kelce's last year in the NFL? His brother, Jason Kelce, shared his perspective amid speculation that Travis could retire."
+      "published": "2025-12-17T03:59:35+0000",
+      "summary": "Thanks to the nflFastR project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the Colts’ QB performed. Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the […]"
+    },
+    {
+      "id": "1311a7c01de97c19",
+      "title": "NFL draft order: Arizona Cardinals move up to No. 6",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-order-arizona-cardinals-033909310.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-17T03:39:09+0000",
+      "summary": "The Cardinals got some help with their draft pick from the Saints and Commanders."
     },
     {
       "id": "d747ede2f6092d8f",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-10T19:31:47+0000",
       "summary": "The Colts are in wait-and-see mode as Philip Rivers and Riley Leonard begin practice on Wednesday ahead of Sunday's game against the Seattle Seahawks at Lumen Field."
-    },
-    {
-      "id": "a73d2d630de508d4",
-      "title": "'Dadgummit, let's freakin' go': How Philip Rivers became the new Colts quarterback",
-      "link": "https://fox59.com/sports/colts/dadgummit-lets-freakin-go-how-philip-rivers-became-the-new-colts-quarterback/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-10T17:44:40+0000",
-      "summary": "INDIANAPOLIS – When Daniel Jones went down with a season-ending Achilles injury, the Colts knew they needed to get creative. His backup, Riley Leonard, was a rookie sixth-round pick. Last year’s starter, Anthony Richardson Sr., was on injured reserve. So head coach Shane Steichen and general manager Chris Ballard hatched an unconventional plan: asking Philip [...]"
     }
   ],
   "links": [
