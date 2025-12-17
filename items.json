@@ -1,14 +1,41 @@
 {
-  "updated": "2025-12-17T18:31:11+00:00",
+  "updated": "2025-12-17T19:18:35+00:00",
   "items": [
     {
-      "id": "ccb00b03aef4f812",
-      "title": "NFL Insider Thinks TreVeyon Henderson Is Frontrunner For Major Award",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-thinks-treveyon-henderson-181518149.html",
+      "id": "87655f0d68ece6a7",
+      "title": "Matchup rankings: Upgrade Herbert, Judkins, downgrade Prescott, Etienne Jr.",
+      "link": "https://espn.com/fantasy/football/story/_/id/47328477/fantasy-football-rankings-tips-nfl-week-16-matchups-qb-rb-wr-te",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-17T19:04:54+0000",
+      "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions."
+    },
+    {
+      "id": "46a65b295746f5bf",
+      "title": "Dolphins release Judon, who Burrow once called NFL's best trash-talker",
+      "link": "https://sports.yahoo.com/articles/dolphins-release-judon-burrow-once-185942164.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-17T18:15:18+0000",
-      "summary": "The New England Patriots may have lost to the Buffalo Bills in Week 15, but it wasn’t because of rookie running back TreVeyon Henderson. The former Ohio State Buckeyes star put together another dominant outing for the Pats, and in the process, he further solidified his chances of winning one of the NFL’s major end-of-season […]"
+      "published": "2025-12-17T18:59:42+0000",
+      "summary": "Bengals quarterback Joe Burrow called Matthew Judon the &quot;best trash-talker in the league&quot; when Judon played for the Patriots in 2022."
+    },
+    {
+      "id": "9a71d09c09e2bc63",
+      "title": "Expert: Michigan football coach search should include Packers OC",
+      "link": "https://sports.yahoo.com/articles/expert-michigan-football-coach-search-185935322.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-17T18:59:35+0000",
+      "summary": "According to NFL analyst Mike Silver, Michigan football should interview Green Bay Packers offensive coordinator Adam Stenavich to be its coach."
+    },
+    {
+      "id": "38260460c2761419",
+      "title": "Expert: Michigan football coach search should include Packers OC",
+      "link": "https://sports.yahoo.com/articles/expert-michigan-football-coach-search-185935567.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-17T18:59:35+0000",
+      "summary": "According to NFL analyst Mike Silver, Michigan football should interview Green Bay Packers offensive coordinator Adam Stenavich to be its coach."
     },
     {
       "id": "ba319cbad4bc0063",
@@ -16,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/47336359/rams-puka-nacua-nfl-refs-worst-make-calls-get-tv",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-17T18:14:14+0000",
+      "published": "2025-12-17T18:57:28+0000",
       "summary": "The Rams' Puka Nacua said on a livestream Tuesday night that he thinks some NFL referees make calls just to get shown on TV during games."
     },
     {
@@ -25,17 +52,8 @@
       "link": "https://espn.com/nfl/story/_/id/47324099/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-16",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-17T18:14:14+0000",
+      "published": "2025-12-17T18:57:28+0000",
       "summary": "In Week 16, nine NFL teams have the chance to clinch a playoff berth. The Broncos can also lock up the AFC's No. 1 seed."
-    },
-    {
-      "id": "8d76d8208f17cf65",
-      "title": "What's next for benched Tua Tagovailoa? Dolphins QB's contract, trade options cloud NFL future",
-      "link": "https://sports.yahoo.com/articles/whats-next-benched-tua-tagovailoa-180940478.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-17T18:09:40+0000",
-      "summary": "Tua Tagovailoa's late 2025 benching is an expensive quarterback proposition for the Dolphins in 2026 unless they can trade him in the 2026 offense."
     },
     {
       "id": "ad9a3b5cb301b7ce",
@@ -45,15 +63,6 @@
       "feed": "Colts.com",
       "published": "2025-12-17T18:04:26+0000",
       "summary": "Despite losing their last four games, the 8-6 Colts still have a chance to make the playoffs. Here's what the team is staring down over the final three weeks of the 2025 regular season:"
-    },
-    {
-      "id": "87655f0d68ece6a7",
-      "title": "Matchup rankings: Upgrade Herbert, Judkins, downgrade Prescott, Etienne Jr.",
-      "link": "https://espn.com/fantasy/football/story/_/id/47328477/fantasy-football-rankings-tips-nfl-week-16-matchups-qb-rb-wr-te",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-17T15:25:09+0000",
-      "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions."
     },
     {
       "id": "d272a4a253c0118f",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-11T22:16:49+0000",
       "summary": "14 current Colts players, including Mo Alie-Cox and Jonathan Taylor, were on the team in 2020 when Rivers led the Colts to an 11-5 record and a playoff appearance."
-    },
-    {
-      "id": "218e3ba0fa0cd1f6",
-      "title": "Practice Notebook: DeForest Buckner explains neck injury, recovery process and potential return to Colts",
-      "link": "https://colts.com/news/practice-notebook-deforest-buckner-explains-neck-injury-recovery-process-and-potential-return-to-colts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-11T20:45:42+0000",
-      "summary": "Colts defensive tackle DeForest Buckner returned to practice this week, but has been on injured reserve since early November with a neck injury he sustained in Week 9 against the Pittsburgh Steelers."
     }
   ],
   "links": [
