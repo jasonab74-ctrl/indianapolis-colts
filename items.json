@@ -1,32 +1,77 @@
 {
-  "updated": "2025-12-17T14:49:17+00:00",
+  "updated": "2025-12-17T15:22:27+00:00",
   "items": [
     {
-      "id": "249f25e96a35cac4",
-      "title": "NFL Draft: Browns to be huge benefactors from Patrick Mahomes injury",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-browns-huge-benefactors-142721932.html",
+      "id": "0b7065ed8f677ddd",
+      "title": "NFL Week 16 television maps: New York Giants vs. Minnesota Vikings",
+      "link": "https://sports.yahoo.com/articles/nfl-week-16-television-maps-150058595.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-17T14:27:21+0000",
-      "summary": "The Browns, in contention for the first overall pick in the 2026 NFL Draft, are set to be huge benefactors from the Patrick Mahomes injury"
+      "published": "2025-12-17T15:00:58+0000",
+      "summary": "Week 16 NFL television maps are out and if you're in green, you'll get to watch the New York Giants vs. Minnesota Vikings on your local FOX station."
     },
     {
-      "id": "d63c96650c338c9f",
-      "title": "Jayden Daniels on being shut down for the rest of the 2025 NFL season: 'It's been a frustrating year'",
-      "link": "https://sports.yahoo.com/nfl/article/jayden-daniels-on-being-shut-down-for-the-rest-of-the-2025-nfl-season-its-been-a-frustrating-year-142234021.html",
+      "id": "08b5af1f38898096",
+      "title": "NFL playoffs: How the Broncos can clinch AFC West and No. 1 seed",
+      "link": "https://sports.yahoo.com/articles/nfl-playoffs-broncos-clinch-afc-150039131.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-17T14:22:34+0000",
-      "summary": "Jayden Daniels won't play in the Commanders' final three games."
+      "published": "2025-12-17T15:00:39+0000",
+      "summary": "They'd need help from a few other teams, but the Broncos could clinch the AFC West and No. 1 seed as early as Sunday."
     },
     {
-      "id": "9cce3b6351472dc5",
-      "title": "NFL power rankings: 3 NFC West teams in top 10 in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-3-nfc-142112509.html",
+      "id": "45c0ea2b49b491d6",
+      "title": "Caleb Williams and Amon-Ra St. Brown deliver MVP-level performances",
+      "link": "https://sports.yahoo.com/articles/caleb-williams-amon-ra-st-150006213.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-17T14:21:12+0000",
-      "summary": "A look at where the four teams rank in USA TODAY's latest power rankings."
+      "published": "2025-12-17T15:00:06+0000",
+      "summary": "Caleb Williams produced his best game of the season, and Amon-Ra St. Brown created a clutch game versus the Rams in NFL Week 15"
+    },
+    {
+      "id": "d272a4a253c0118f",
+      "title": "'Indiana Nights' to take center stage for 'Monday Night Football' in Indy",
+      "link": "https://colts.com/news/indiana-nights-uniform-alternate-san-francisco-49ers-monday-night-football-lucas-oil-stadium-nfl-week-16-december-22-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-17T15:00:00+0000",
+      "summary": "The Indianapolis Colts will celebrate “Indiana Nights” and wear their “Indiana Nights” alternate uniform when they host a Monday Night Football matchup with the San Francisco 49ers at Lucas Oil Stadium on Dec. 22."
+    },
+    {
+      "id": "dfa6208ed1d6783f",
+      "title": "Daily Slop: 17 Dec 25 – Per PFF, Commanders have 7th-ranked OL in NFL",
+      "link": "https://sports.yahoo.com/articles/daily-slop-17-dec-25-150000734.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-17T15:00:00+0000",
+      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
+    },
+    {
+      "id": "35c10caefb1cf0af",
+      "title": "🏆 Playoff picture: Clinching scenarios for Week 16",
+      "link": "https://espn.com/nfl/story/_/id/47324099/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-16",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-17T14:58:25+0000",
+      "summary": "In Week 16, nine NFL teams have the chance to clinch a playoff berth. The Broncos can also lock up the AFC's No. 1 seed."
+    },
+    {
+      "id": "5514d2b7cc091518",
+      "title": "What we're hearing about the Mahomes and Parsons fallout, plus feedback on Rivers' return",
+      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-17T14:55:58+0000",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+    },
+    {
+      "id": "d747ede2f6092d8f",
+      "title": "The Broncos and Rams clinched ... now can they reach the Super Bowl?",
+      "link": "https://espn.com/nfl/story/_/id/47304938/2025-nfl-week-15-broncos-rams-clinch-playoffs-super-bowl-philip-rivers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-17T14:55:58+0000",
+      "summary": "Plus, Philip Rivers' first start back in the NFL and some wild Week 15 trends to watch."
     },
     {
       "id": "87655f0d68ece6a7",
@@ -36,24 +81,6 @@
       "feed": "ESPN",
       "published": "2025-12-17T13:46:08+0000",
       "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions (QB, RB, WR and TE)."
-    },
-    {
-      "id": "5514d2b7cc091518",
-      "title": "NFL Week 16 buzz: What we're hearing on Mahomes, Parsons, Rivers and playoff races",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-17T13:44:43+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
-    },
-    {
-      "id": "d747ede2f6092d8f",
-      "title": "The Broncos and Rams clinched ... now can they reach the Super Bowl?",
-      "link": "https://espn.com/nfl/story/_/id/47304938/2025-nfl-week-15-broncos-rams-clinch-playoffs-super-bowl-philip-rivers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-17T13:44:43+0000",
-      "summary": "Plus, Philip Rivers' first start back in the NFL and some wild Week 15 trends to watch."
     },
     {
       "id": "74501bf94aac48f1",
@@ -72,15 +99,6 @@
       "feed": "ESPN",
       "published": "2025-12-17T13:30:26+0000",
       "summary": "From Indiana to James Madison, we picked out every CFP player who could factor into the 2026 NFL draft and slotted them by stock from Round 1 to Round 7."
-    },
-    {
-      "id": "35c10caefb1cf0af",
-      "title": "🏆 Playoff picture: Clinching scenarios for Week 16",
-      "link": "https://espn.com/nfl/story/_/id/47324099/nfl-playoff-picture-2025-clinching-scenarios-division-races-week-16",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-17T13:15:01+0000",
-      "summary": "In Week 16, nine NFL teams have the chance to clinch a playoff berth. The Broncos can also lock up the AFC's No. 1 seed."
     },
     {
       "id": "11a161caa67839fd",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-11T18:52:37+0000",
       "summary": "Desperation has set in for the Indianapolis Colts, who will turn to Philip Rivers--a Hall-of-Fame-caliber player five years removed from the NFL--to run the offense. Rivers last played pro football in January 2021, when he guided the Colts to the playoffs after a decade-plus with the Chargers. Dave Griffiths, Mike Chappell and Matt Adams try [...]"
-    },
-    {
-      "id": "36888379c5b96ed7",
-      "title": "Colts select T Braden Smith as 2025 Ed Block Courage Award recipient",
-      "link": "https://colts.com/news/colts-select-t-braden-smith-as-2025-ed-block-courage-award-recipient",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-11T15:00:17+0000",
-      "summary": "The Ed Block Courage Award is given annually to a player to recognize them for courageous play."
-    },
-    {
-      "id": "c5c121900f7abcf8",
-      "title": "Colts’ Riley Leonard full participant despite sprained knee; Philip Rivers’ Hall of Fame clock will reset",
-      "link": "https://fox59.com/sports/colts/colts-riley-leonard-full-participant-despite-sprained-knee-philip-rivers-hall-of-fame-clock-will-reset/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-11T01:53:34+0000",
-      "summary": "INDIANAPOLIS – Philip Rivers’ return was the overarching topic Wednesday at the Indiana Farm Bureau Football Center, as was the possibility that the 44-year-old quarterback starting his first game in 1,800 days. But there’s another possibility: Rookie Riley Leonard making his first start Sunday when the Indianapolis Colts visit the 10-3 Seahawks in Seattle. “We’ll [...]"
     }
   ],
   "links": [
