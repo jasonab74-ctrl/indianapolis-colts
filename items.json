@@ -1,14 +1,32 @@
 {
-  "updated": "2025-12-18T04:06:45+00:00",
+  "updated": "2025-12-18T04:53:44+00:00",
   "items": [
     {
-      "id": "c779d3c081fb4f9e",
-      "title": "Expert explains Whitehouse star, Patrick Mahomes’ recovery timeline",
-      "link": "https://sports.yahoo.com/articles/expert-explains-whitehouse-star-patrick-033122188.html",
+      "id": "5514d2b7cc091518",
+      "title": "What we're hearing about the Mahomes and Parsons fallout, plus feedback on Rivers' return",
+      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-18T04:39:58+0000",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+    },
+    {
+      "id": "d747ede2f6092d8f",
+      "title": "The Broncos and Rams clinched ... now can they reach the Super Bowl?",
+      "link": "https://espn.com/nfl/story/_/id/47304938/2025-nfl-week-15-broncos-rams-clinch-playoffs-super-bowl-philip-rivers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-18T04:39:58+0000",
+      "summary": "Plus, Philip Rivers' first start back in the NFL and some wild Week 15 trends to watch."
+    },
+    {
+      "id": "77c362aaa9af92b5",
+      "title": "Caleb Williams, Bears OL analysis: Sacks allowed vs. Browns, NFL Week 15",
+      "link": "https://sports.yahoo.com/articles/caleb-williams-bears-ol-analysis-043000505.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-18T03:31:22+0000",
-      "summary": "TYLER, Texas (KETK)– An East Texas doctor shares a possible timeline for Patrick Mahomes after successful knee surgery on Monday. After managing to stay free of long-term injuries during his NFL career, former Whitehouse Wildcat and 3x Super Bowl Champion Patrick Mahomes suffered a torn ACL and LCL on Sunday afternoon. With two minutes left […]"
+      "published": "2025-12-18T04:30:00+0000",
+      "summary": "The Bears allowed three sacks to the Browns, but they had a sound pass-protection plan, and @wiltfongjr breaks it down here."
     },
     {
       "id": "48eb0495e5bf7047",
@@ -45,24 +63,6 @@
       "feed": "ESPN",
       "published": "2025-12-18T02:32:14+0000",
       "summary": "In Week 16, nine NFL teams have the chance to clinch a playoff berth. The Broncos can also lock up the AFC's No. 1 seed."
-    },
-    {
-      "id": "5514d2b7cc091518",
-      "title": "What we're hearing about the Mahomes and Parsons fallout, plus feedback on Rivers' return",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-18T02:19:38+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
-    },
-    {
-      "id": "d747ede2f6092d8f",
-      "title": "The Broncos and Rams clinched ... now can they reach the Super Bowl?",
-      "link": "https://espn.com/nfl/story/_/id/47304938/2025-nfl-week-15-broncos-rams-clinch-playoffs-super-bowl-philip-rivers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-18T02:19:38+0000",
-      "summary": "Plus, Philip Rivers' first start back in the NFL and some wild Week 15 trends to watch."
     },
     {
       "id": "5c387ca679ae572c",
