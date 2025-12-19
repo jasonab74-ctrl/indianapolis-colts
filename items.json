@@ -1,32 +1,59 @@
 {
-  "updated": "2025-12-19T18:28:35+00:00",
+  "updated": "2025-12-19T18:53:49+00:00",
   "items": [
     {
-      "id": "7bfc68ea03f265ea",
-      "title": "Dante Moore to the NY Jets listed as the team's best prospect fit",
-      "link": "https://sports.yahoo.com/articles/dante-moore-ny-jets-listed-181219131.html",
+      "id": "03f3d965c315cb6d",
+      "title": "NFL 2025 Week 16 Start 'Em Sit 'Em: Stack Brock Purdy and Jauan Jennings",
+      "link": "https://sports.yahoo.com/articles/nfl-2025-week-16-start-184832532.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-19T18:12:19+0000",
-      "summary": "Dante Moore to the Jets? ESPN lists that pairing as New York's best prospect fit ahead of the 2026 NFL draft."
+      "published": "2025-12-19T18:48:32+0000",
+      "summary": "The 49ers' passing game is in a great spot versus the Colts this week. Brock Purdy is in line for QB1 numbers and should bring Jauan Jennings along for the ride as a potential WR2."
     },
     {
-      "id": "92900e625c6415b3",
-      "title": "2026 NFL Draft prospects fans should look for in Texas A&M vs. Miami?",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-prospects-fans-181202169.html",
+      "id": "6d0f76195501046d",
+      "title": "Rob Gronkowski Issues Bold Prediction On Travis Kelce’s Possible Retirement",
+      "link": "https://sports.yahoo.com/articles/rob-gronkowski-issues-bold-prediction-184332950.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-19T18:12:02+0000",
-      "summary": "The College Football Playoff kicks off this weekend and we are providing the prospects should have your eyes on between Texas A&amp;M and Miami."
+      "published": "2025-12-19T18:43:32+0000",
+      "summary": "Kansas City Chiefs tight end Travis Kelce is at a crossroads as the end of the season approaches, facing a tough decision about his NFL future. Now 36 years old, he will enter free agency once the season concludes. There is a chance Kelce will return to Kansas City, but former New England Patriots tight […]"
     },
     {
-      "id": "26f3803a1f5ca5ee",
-      "title": "NFL world impressed by Kirk Cousins' breakdown of QB evolution",
-      "link": "https://sports.yahoo.com/articles/nfl-world-impressed-kirk-cousins-180826279.html",
+      "id": "0cec238ea67162d0",
+      "title": "Bill Belichick Linked to 3 Teams for NFL Head Coach Comeback",
+      "link": "https://sports.yahoo.com/articles/bill-belichick-linked-3-teams-184214794.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-19T18:08:26+0000",
-      "summary": "NFL world impressed by Kirk Cousins' breakdown of defensive coverage schemes"
+      "published": "2025-12-19T18:42:14+0000",
+      "summary": "Bill Belichick has not been an NFL head coach for almost two years. After the 2023 NFL season, the New [&#8230;]"
+    },
+    {
+      "id": "7e573dedd23dcf57",
+      "title": "Sean McVay Flustered After Learning About Puka Nacua’s Tweet Ripping NFL Referees in Press Conference",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-flustered-learning-puka-183740634.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-19T18:37:40+0000",
+      "summary": "McVay said Nacua is a &quot;great kid that's continuing to learn about just the platform that he has&quot;"
+    },
+    {
+      "id": "5514d2b7cc091518",
+      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
+      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-19T18:32:39+0000",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+    },
+    {
+      "id": "aca2a8285167a020",
+      "title": "ESPN projects rest of 2025 season; Do Colts make playoffs?",
+      "link": "https://sports.yahoo.com/articles/espn-projects-rest-2025-season-183204381.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-19T18:32:04+0000",
+      "summary": "Do the Colts make the playoffs in ESPN's simulation of the remainder of the 2025 NFL season?"
     },
     {
       "id": "623da2c121e3e2fd",
@@ -36,15 +63,6 @@
       "feed": "ESPN",
       "published": "2025-12-19T17:23:23+0000",
       "summary": "Matthew Stafford, Myles Garrett are having the best seasons of all 13 of the former No. 1 picks currently in the NFL."
-    },
-    {
-      "id": "5514d2b7cc091518",
-      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T17:13:35+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
     },
     {
       "id": "93a4bd2d8fbd4aab",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-13T18:00:51+0000",
       "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
-    },
-    {
-      "id": "a244729cb3a253dd",
-      "title": "Colts sign Philip Rivers to active roster; is starting at Seattle next?",
-      "link": "https://fox59.com/sports/colts/colts-sign-philip-rivers-to-active-roster-is-starting-at-seattle-next/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T16:57:56+0000",
-      "summary": "INDIANAPOLIS – Philip Rivers is one step closer to making his first start in nearly five years. The 44-year-old quarterback who was coaching St. Michael Catholic in the semifinals of the Alabama high school state tournament last month was signed to the Indianapolis Colts’ active roster from the practice squad Saturday. That’s the final, necessary [...]"
-    },
-    {
-      "id": "cf296861e51a9b0c",
-      "title": "Colts-Seahawks preview: Philip Rivers isn't here to save the season. But will he play in Week 15?",
-      "link": "https://colts.com/news/colts-seahawks-preview-philip-rivers-isn-t-here-to-save-the-season-but-will-he-play-in-week-15",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-13T11:00:00+0000",
-      "summary": "The Colts, as of Friday afternoon, have not decided who will play quarterback on Sunday against the Seattle Seahawks. But if it's Philip Rivers, he won't be expected to be the only reason why the Colts pull out of a three-game losing streak."
     }
   ],
   "links": [
