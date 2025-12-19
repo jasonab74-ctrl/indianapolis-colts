@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T08:54:06+00:00",
+  "updated": "2025-12-19T09:23:26+00:00",
   "items": [
     {
       "id": "24909660f942dc29",
@@ -18,24 +18,6 @@
       "feed": "ESPN",
       "published": "2025-12-19T08:28:06+0000",
       "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
-    },
-    {
-      "id": "273e7129563d1977",
-      "title": "Bills vs Browns prediction, keys as Josh Allen faces NFL's top pass defense",
-      "link": "https://sports.yahoo.com/articles/bills-vs-browns-prediction-keys-080120176.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-19T08:01:20+0000",
-      "summary": "The Bills go to Cleveland to face Myles Garrett and the Browns. Here's Sal Maiorana's preview of the game."
-    },
-    {
-      "id": "0e88760e3db02a0f",
-      "title": "Seahawks in play-offs with overtime win over Rams",
-      "link": "https://sports.yahoo.com/articles/seahawks-play-offs-overtime-win-075803848.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-19T07:58:03+0000",
-      "summary": "The Seattle Seahawks come from behind to beat the Los Angeles Rams in overtime and ensure they will join the Rams in this season's NFL play-offs."
     },
     {
       "id": "a492b2bee30536d2",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-12T18:08:05+0000",
       "summary": "INDIANAPOLIS – Philip Rivers or Riley Leonard? Stay tuned. Shane Steichen declined on Friday to announce who would be the Indianapolis Colts’ starting quarterback for Sunday’s meeting with the Seahawks in Seattle, but no one should be surprised if he turns to a 44-year-old who hasn’t played in five seasons. “We’re working through that,’’ Steichen [...]"
+    },
+    {
+      "id": "eb46e2163f22d79e",
+      "title": "Colts name Eli Manship 'Colts High School Man of the Year'",
+      "link": "https://colts.com/news/colts-name-eli-manship-colts-high-school-man-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-12T18:00:00+0000",
+      "summary": "Eastern Hancock High School’s Manship has been announced as the winner of the 2025 award."
+    },
+    {
+      "id": "382ba184f773b9cd",
+      "title": "Colts rule out CB Sauce Gardner, WR Anthony Gould, T Braden Smith for Week 15 game vs. Seattle Seahawks",
+      "link": "https://colts.com/news/injury-update-week-15-sauce-gardner-braden-smith-deforest-buckner-seattle-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-12T17:55:56+0000",
+      "summary": "Gardner will miss his second consecutive game, while the Colts will be without their starting right tackle and both primary kick returners on Sunday against the Seattle Seahawks."
     }
   ],
   "links": [
