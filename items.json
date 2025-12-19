@@ -1,14 +1,41 @@
 {
-  "updated": "2025-12-19T20:21:59+00:00",
+  "updated": "2025-12-19T20:43:33+00:00",
   "items": [
     {
-      "id": "b95ed958a837c401",
-      "title": "Cleveland Sports Personality Slams Idea Of Browns Hiring Bill Belichick",
-      "link": "https://sports.yahoo.com/articles/cleveland-sports-personality-slams-idea-201148054.html",
+      "id": "9207fa8189ce2bd2",
+      "title": "Practice Notebook: DeForest Buckner taking things one day at a time as he returns from neck injury",
+      "link": "https://colts.com/news/practice-notebook-deforest-buckner-full-participation-practice-neck-injury-week-16-49ers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-19T20:38:08+0000",
+      "summary": "Buckner was a full participant in Friday's practice, marking his second consecutive day of full participation."
+    },
+    {
+      "id": "b9e0f2c335cadc39",
+      "title": "Seahawks' Hall suspended 1 game without pay for unnecessary roughness and unsportsmanlike conduct",
+      "link": "https://sports.yahoo.com/articles/seahawks-hall-suspended-1-game-203638227.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-19T20:11:48+0000",
-      "summary": "The Browns could be looking for a new head coach this offseason, and Cleveland could turn to a familiar face. NFL insider Josina Anderson reported on Thursday that the Browns have people inside the building who are fans of Bill Belichick. While there may be some Belichick supporters within the Browns organization, ESPN Cleveland reporter […]"
+      "published": "2025-12-19T20:36:38+0000",
+      "summary": "Seattle Seahawks linebacker Derick Hall has been suspended one game without pay for an act of unnecessary roughness and unsportsmanlike conduct in a 38-37 overtime win against the Los Angeles Rams on Thursday night.  The NFL announced the suspension on Friday.  Hall, 24, stepped on the leg of Rams guard Kevin Dotson at the end of a play in the first quarter while he was on the ground."
+    },
+    {
+      "id": "c7e68d26f1b0b937",
+      "title": "Despite tension in Philadelphia’s season, Eagles on cusp of snapping a 20-year streak that’s bucked NFL trends",
+      "link": "https://sports.yahoo.com/nfl/article/despite-tension-in-philadelphias-season-eagles-on-cusp-of-snapping-a-20-year-streak-thats-bucked-nfl-trends-203419151.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-19T20:34:19+0000",
+      "summary": "While the seemingly-always-present-in-Philadelphia tension has lingered through the 9-5 Eagles’ season, particularly surrounding the offense, they're on the doorstep of a level of continuity that is common in the NFL albeit not in the NFC East."
+    },
+    {
+      "id": "e6318440be24771d",
+      "title": "Seahawks pass rusher Derick Hall suspended by NFL",
+      "link": "https://sports.yahoo.com/articles/seahawks-pass-rusher-derick-hall-203029957.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-19T20:30:29+0000",
+      "summary": "The Seahawks will head to Carolina in Week 17 without Hall after an Ndamukong Suh impression against the Rams."
     },
     {
       "id": "5514d2b7cc091518",
@@ -16,26 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-19T20:05:10+0000",
+      "published": "2025-12-19T20:29:16+0000",
       "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
     },
     {
-      "id": "ebecf90c85babb17",
-      "title": "Rams make brutal NFL history in loss to Seahawks despite 500-yard offensive performance",
-      "link": "https://sports.yahoo.com/articles/rams-brutal-nfl-history-loss-200020432.html",
+      "id": "b71b1ec325eadb89",
+      "title": "Derick Hall suspended one game for unnecessary roughness",
+      "link": "https://sports.yahoo.com/articles/derick-hall-suspended-one-game-202054818.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-19T20:00:20+0000",
-      "summary": "This loss was a brutal one for the Rams."
-    },
-    {
-      "id": "f4c91e995c6e31f9",
-      "title": "Why did the NFL fine Puka Nacua? How latest tweet about NFL referees was costly for Rams star",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-fined-latest-tweet-142016001.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-19T19:57:00+0000",
-      "summary": "Here's what's known about the league's recent discipline for the Rams' star wide receiver."
+      "published": "2025-12-19T20:20:54+0000",
+      "summary": "The NFL suspended Seahawks linebacker Derick Hall without pay for one game for an act of unnecessary roughness and unsportsmanlike conduct during Thursday’s win over the Rams."
     },
     {
       "id": "623da2c121e3e2fd",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-13T18:00:51+0000",
       "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
-    },
-    {
-      "id": "a244729cb3a253dd",
-      "title": "Colts sign Philip Rivers to active roster; is starting at Seattle next?",
-      "link": "https://fox59.com/sports/colts/colts-sign-philip-rivers-to-active-roster-is-starting-at-seattle-next/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T16:57:56+0000",
-      "summary": "INDIANAPOLIS – Philip Rivers is one step closer to making his first start in nearly five years. The 44-year-old quarterback who was coaching St. Michael Catholic in the semifinals of the Alabama high school state tournament last month was signed to the Indianapolis Colts’ active roster from the practice squad Saturday. That’s the final, necessary [...]"
-    },
-    {
-      "id": "cf296861e51a9b0c",
-      "title": "Colts-Seahawks preview: Philip Rivers isn't here to save the season. But will he play in Week 15?",
-      "link": "https://colts.com/news/colts-seahawks-preview-philip-rivers-isn-t-here-to-save-the-season-but-will-he-play-in-week-15",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-13T11:00:00+0000",
-      "summary": "The Colts, as of Friday afternoon, have not decided who will play quarterback on Sunday against the Seattle Seahawks. But if it's Philip Rivers, he won't be expected to be the only reason why the Colts pull out of a three-game losing streak."
     }
   ],
   "links": [
