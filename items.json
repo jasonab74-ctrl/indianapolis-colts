@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-19T08:28:29+00:00",
+  "updated": "2025-12-19T08:54:06+00:00",
   "items": [
+    {
+      "id": "24909660f942dc29",
+      "title": "Trump signs bill to help stadiums combat drones",
+      "link": "https://espn.com/nfl/story/_/id/47352467/donald-trump-signs-bill-help-stadiums-combat-drones",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-19T08:28:06+0000",
+      "summary": "President Donald Trump signed a bill into law Thursday that allows local and state law enforcement officials to disable drones during sporting events, a change long sought by the the NFL and other major leagues."
+    },
+    {
+      "id": "5514d2b7cc091518",
+      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
+      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-19T08:28:06+0000",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+    },
     {
       "id": "273e7129563d1977",
       "title": "Bills vs Browns prediction, keys as Josh Allen faces NFL's top pass defense",
@@ -11,24 +29,6 @@
       "summary": "The Bills go to Cleveland to face Myles Garrett and the Browns. Here's Sal Maiorana's preview of the game."
     },
     {
-      "id": "24909660f942dc29",
-      "title": "Trump signs bill to help stadiums combat drones",
-      "link": "https://espn.com/nfl/story/_/id/47352467/donald-trump-signs-bill-help-stadiums-combat-drones",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T07:59:29+0000",
-      "summary": "President Donald Trump signed a bill into law Thursday that allows local and state law enforcement officials to disable drones during sporting events, a change long sought by the the NFL and other major leagues."
-    },
-    {
-      "id": "5514d2b7cc091518",
-      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T07:59:29+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
-    },
-    {
       "id": "0e88760e3db02a0f",
       "title": "Seahawks in play-offs with overtime win over Rams",
       "link": "https://sports.yahoo.com/articles/seahawks-play-offs-overtime-win-075803848.html",
@@ -36,15 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-19T07:58:03+0000",
       "summary": "The Seattle Seahawks come from behind to beat the Los Angeles Rams in overtime and ensure they will join the Rams in this season's NFL play-offs."
-    },
-    {
-      "id": "4ee51e36a059c56f",
-      "title": "Rams are the only team in NFL history to lose a game in this fashion",
-      "link": "https://sports.yahoo.com/articles/rams-only-team-nfl-history-072812155.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-19T07:28:12+0000",
-      "summary": "In NFL history, teams that gained at least 500 yards and were plus-3 in turnover margin were 93-0 ... until the Rams."
     },
     {
       "id": "a492b2bee30536d2",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-13T11:00:00+0000",
       "summary": "The Colts, as of Friday afternoon, have not decided who will play quarterback on Sunday against the Seattle Seahawks. But if it's Philip Rivers, he won't be expected to be the only reason why the Colts pull out of a three-game losing streak."
+    },
+    {
+      "id": "c0adf36ab50d9771",
+      "title": "Philip Rivers had good week of practice, but Colts noncommittal on starting QB at Seattle",
+      "link": "https://fox59.com/sports/colts/no-decision-on-philip-rivers-or-riley-leonard/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-12T18:08:05+0000",
+      "summary": "INDIANAPOLIS – Philip Rivers or Riley Leonard? Stay tuned. Shane Steichen declined on Friday to announce who would be the Indianapolis Colts’ starting quarterback for Sunday’s meeting with the Seahawks in Seattle, but no one should be surprised if he turns to a 44-year-old who hasn’t played in five seasons. “We’re working through that,’’ Steichen [...]"
     }
   ],
   "links": [
