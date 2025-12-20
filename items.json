@@ -1,23 +1,50 @@
 {
-  "updated": "2025-12-19T23:39:43+00:00",
+  "updated": "2025-12-20T01:25:15+00:00",
   "items": [
     {
-      "id": "7820b96561bc3060",
-      "title": "Will Charbonnet's controversial two-point conversion change NFL rules?",
-      "link": "https://sports.yahoo.com/articles/charbonnets-controversial-two-point-conversion-232330459.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-19T23:23:30+0000",
-      "summary": "It’ll be fascinating to see if the NFL amends their language on these rules for the 2026 season after the kerfuffle caused Thursday night."
+      "id": "5392d37c01d86ee8",
+      "title": "Kelce to play final 3 games as he ponders future",
+      "link": "https://espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T00:00:58+0000",
+      "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season."
     },
     {
-      "id": "67c93b50509afbb2",
-      "title": "NFL Player Prop Picks: Week 16 Best Bets",
-      "link": "https://sports.yahoo.com/articles/nfl-player-prop-picks-week-230600602.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-19T23:19:00+0000",
-      "summary": "Rohit Ponnaiya breaks down his favorite Week 16 NFL player props, including Jacoby Brissett and Aaron Rodgers."
+      "id": "de60435ef790733f",
+      "title": "Seahawks OLB Hall suspended one game by NFL",
+      "link": "https://espn.com/nfl/story/_/id/47360029/nfl-suspends-seahawks-olb-derick-hall-one-game-pay",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T00:00:58+0000",
+      "summary": "The NFL is suspending Seahawks outside linebacker Derick Hall for one game without pay for an act of unnecessary roughness and unsportsmanlike conduct during Thursday night's game against the Rams."
+    },
+    {
+      "id": "5514d2b7cc091518",
+      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
+      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T00:00:58+0000",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+    },
+    {
+      "id": "b859151f532f75c1",
+      "title": "Our guide to every Week 16 NFL game: Matchup previews, predictions and what's at stake",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47337400/nfl-week-16-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T00:00:52+0000",
+      "summary": "Must-win game for Lions? Can Dallas still make the postseason? Picks, predictions and stats for every Week 16 game."
+    },
+    {
+      "id": "7b4733a2f0f767dd",
+      "title": "Who will squeeze into the NFL playoffs? Let's simulate the rest of the 2025 season to find out",
+      "link": "https://espn.com/nfl/story/_/id/47326035/2025-nfl-season-simulation-final-three-weeks-standings-playoffs-super-bowl-60-2026-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T00:00:52+0000",
+      "summary": "We used the ESPN Football Power Index's most likely simulation to project Weeks 16, 17 and 18."
     },
     {
       "id": "ed446cd89f5029b1",
@@ -27,33 +54,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-19T22:32:07+0000",
       "summary": "INDIANAPOLIS – After a frenetic week of transitioning from high school coach to the NFL’s oldest player, Philip Rivers has settled back into the daily grind that used to dictate his life for 17 seasons. Team meetings, positional meetings, work in the weight room, more meetings, walkthroughs and practices. And taking inventory of his 44-year-old [...]"
-    },
-    {
-      "id": "5392d37c01d86ee8",
-      "title": "Kelce to play final 3 games as he ponders future",
-      "link": "https://espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T22:16:18+0000",
-      "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season."
-    },
-    {
-      "id": "de60435ef790733f",
-      "title": "Seahawks OLB Hall suspended one game by NFL",
-      "link": "https://espn.com/nfl/story/_/id/47360029/nfl-suspends-seahawks-olb-derick-hall-one-game-pay",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T22:16:18+0000",
-      "summary": "The NFL is suspending Seahawks outside linebacker Derick Hall for one game without pay for an act of unnecessary roughness and unsportsmanlike conduct during Thursday night's game against the Rams."
-    },
-    {
-      "id": "5514d2b7cc091518",
-      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T22:16:18+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
     },
     {
       "id": "7f9d8d01b1265839",
@@ -92,24 +92,6 @@
       "summary": "Which potential head coach opening would be most attractive to candidates? Let's sort eight possible openings, starting with Cincinnati."
     },
     {
-      "id": "b859151f532f75c1",
-      "title": "Our guide to every Week 16 NFL game: Matchup previews, predictions and what's at stake",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47337400/nfl-week-16-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T15:55:04+0000",
-      "summary": "Must-win game for Lions? Can Dallas still make the postseason? Picks, predictions and stats for every Week 16 game."
-    },
-    {
-      "id": "7b4733a2f0f767dd",
-      "title": "Who will squeeze into the NFL playoffs? Let's simulate the rest of the 2025 season to find out",
-      "link": "https://espn.com/nfl/story/_/id/47326035/2025-nfl-season-simulation-final-three-weeks-standings-playoffs-super-bowl-60-2026-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-19T15:55:04+0000",
-      "summary": "We used the ESPN Football Power Index's most likely simulation to project Weeks 16, 17 and 18."
-    },
-    {
       "id": "baab92252e63f3d9",
       "title": "Colts' Philip Rivers getting second start, and his teammates have his back",
       "link": "https://espn.com/nfl/story/_/id/47349770/indianapolis-colts-philip-rivers-second-start-mnf-san-francisco-49ers",
@@ -126,6 +108,24 @@
       "feed": "ESPN",
       "published": "2025-12-19T14:16:58+0000",
       "summary": "We picked out every CFP player who could factor into the 2026 NFL draft and slotted them by stock."
+    },
+    {
+      "id": "c227e485ae64aa48",
+      "title": "Can Philip Rivers truly save this season for the Colts?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119479/can-philip-rivers-deliver-a-miracle-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-19T14:09:00+0000",
+      "summary": "The Indianapolis Colts are still alive in the playoff chase. If they win their next three games there is a really good chance they at least make the final wild card spot. Considering where things were to start the year, that is highly disappointing. Considering where things have been the last month, they’ll take it. [&#8230;]"
+    },
+    {
+      "id": "b4a94fb3b62a5276",
+      "title": "What sort of miracle would it take for the Colts to advance to the playoffs?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119439/what-sort-of-miracle-would-it-take-for-the-colts-to-advance-to-the-playoffs",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-19T13:58:32+0000",
+      "summary": "Lets start with the elephant in the room. The three remaining teams on the schedule, are a combined 29 &#8211; 13. Two of those teams have beaten the Colts in the last three weeks and the third team is from the strongest division in the league and has every reason to treat the game as [&#8230;]"
     },
     {
       "id": "29a10f5c30bd7323",
@@ -326,15 +326,6 @@
       "summary": "The Colts made the roster moves on Tuesday."
     },
     {
-      "id": "217b34d9ac1c0d27",
-      "title": "Where the Colts’ pass rush under GM Chris Ballard has fallen short",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119364/where-the-colts-pass-rush-under-gm-chris-ballard-has-fallen-short",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-16T20:00:00+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts have been desperately trying to replicate their golden pass rush era, which was headlined by a star-studded wrecking crew off the edge of Dwight Freeney and Robert Mathis. Despite not rostering a superstar edge rusher since those two retired, the Colts have found success in the 2020s by taking [&#8230;]"
-    },
-    {
       "id": "54aecdf63553953b",
       "title": "Colts release unofficial depth chart for Week 16 game vs. San Francisco 49ers",
       "link": "https://colts.com/news/colts-release-unofficial-depth-chart-week-16-game-san-francisco-49ers-philip-rivers-riley-leonard",
@@ -351,15 +342,6 @@
       "feed": "Colts.com",
       "published": "2025-12-16T17:47:08+0000",
       "summary": "Former Colts three-time All-Pro linebacker Shaquille Leonard joined this week's episode of The Colts Show for a wide-ranging conversation about everything from high school football to the 2025 Colts."
-    },
-    {
-      "id": "e9fdae6d3d292e6e",
-      "title": "Breaking down Philip Rivers’ performance against the Seahawks",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119308/breaking-down-philip-rivers-performance-against-the-seahawks",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-16T16:00:00+0000",
-      "summary": "I didn’t think I would be doing a Philip Rivers breakdown this season, but here we are! Let’s go play by play and review how he did in his return to the NFL after being retired for 5 years. Below are all his pass attempts from the game, which can be watched directly on Youtube. [&#8230;]"
     },
     {
       "id": "d0064ee75e83de9a",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-13T18:26:19+0000",
       "summary": "INDIANAPOLIS – Braden Smith’s season is over, and his future with the Indianapolis Colts is uncertain. The team placed their veteran right tackle on the injured reserve list Saturday, which means he must miss at least the final four games of the regular season. Hypothetically, he could return if the Colts earn a playoff berth. [...]"
+    },
+    {
+      "id": "c27138d568ad82a0",
+      "title": "Colts sign QB Philip Rivers to 53-man roster from practice squad, place T Braden Smith on injured reserve",
+      "link": "https://colts.com/news/colts-sign-qb-philip-rivers-to-53-man-roster-from-practice-squad-place-t-braden-smith-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-13T18:00:51+0000",
+      "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
+    },
+    {
+      "id": "a244729cb3a253dd",
+      "title": "Colts sign Philip Rivers to active roster; is starting at Seattle next?",
+      "link": "https://fox59.com/sports/colts/colts-sign-philip-rivers-to-active-roster-is-starting-at-seattle-next/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-13T16:57:56+0000",
+      "summary": "INDIANAPOLIS – Philip Rivers is one step closer to making his first start in nearly five years. The 44-year-old quarterback who was coaching St. Michael Catholic in the semifinals of the Alabama high school state tournament last month was signed to the Indianapolis Colts’ active roster from the practice squad Saturday. That’s the final, necessary [...]"
     }
   ],
   "links": [
