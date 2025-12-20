@@ -1,14 +1,32 @@
 {
-  "updated": "2025-12-20T22:17:41+00:00",
+  "updated": "2025-12-20T22:40:37+00:00",
   "items": [
     {
-      "id": "6a2631fa0f961f2a",
-      "title": "Colts’ DeForest Buckner had to weigh ‘long-term life’ issues when deciding to return",
-      "link": "https://fox59.com/sports/colts-deforest-buckner-had-to-weigh-long-term-life-issues-when-deciding-to-return/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-20T22:06:24+0000",
-      "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
+      "id": "26cb50122a109ce6",
+      "title": "49ers' Pearsall, Green ruled out Monday vs. Colts",
+      "link": "https://espn.com/nfl/story/_/id/47372055/49ers-ricky-pearsall-renardo-green-ruled-vs-colts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T22:39:16+0000",
+      "summary": "The San Francisco 49ers will be without receiver Ricky Pearsall and cornerback Renardo Green on Monday night against the Indianapolis Colts."
+    },
+    {
+      "id": "5392d37c01d86ee8",
+      "title": "Kelce to play final 3 games as he ponders future",
+      "link": "https://espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T22:39:16+0000",
+      "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season."
+    },
+    {
+      "id": "5514d2b7cc091518",
+      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
+      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-20T22:39:16+0000",
+      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
     },
     {
       "id": "5194550fb4ff4949",
@@ -16,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47359548/chicago-bears-defense-dennis-allen-takeaways",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-20T22:04:17+0000",
+      "published": "2025-12-20T22:31:26+0000",
       "summary": "The Bears lead the NFL in takeaways differential (plus-20), interceptions (21) and total takeaways (30). Here's why."
     },
     {
@@ -25,8 +43,44 @@
       "link": "https://sports.yahoo.com/articles/packers-vs-bears-predictions-picks-191200064.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-20T22:04:00+0000",
+      "published": "2025-12-20T22:23:00+0000",
       "summary": "Expect the Bears to exact some revenge over the Packers at Soldier Field. Free Packers vs. Bears predictions for Week 16."
+    },
+    {
+      "id": "53303c3c0cafbada",
+      "title": "How the NFL's late-season schedule changes help shape the playoff picture",
+      "link": "https://sports.yahoo.com/articles/nfls-season-schedule-changes-help-222237928.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T22:22:37+0000",
+      "summary": "Here's why the NFL's schedule gurus make so many changes to the Week 17 and 18 schedules, and what it all means for fans and the playoff picture."
+    },
+    {
+      "id": "f8147eae200864d6",
+      "title": "Kyle Shanahan delivers rough 49ers injury update ahead of Week 16 game",
+      "link": "https://sports.yahoo.com/articles/kyle-shanahan-delivers-rough-49ers-221658882.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T22:16:58+0000",
+      "summary": "The San Francisco 49ers will go into a vital Monday Night Football matchup vs. the Indianapolis Colts without two starters."
+    },
+    {
+      "id": "5eea6678e26a90ab",
+      "title": "The 49ers will be without their first and second round picks from the 2024 NFL Draft against the Colts",
+      "link": "https://sports.yahoo.com/articles/49ers-without-first-second-round-221533975.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T22:15:33+0000",
+      "summary": "49ers head coach Kyle Shanahan ruled out Ricky Pearsall and Renardo Green for Monday Night Football"
+    },
+    {
+      "id": "6a2631fa0f961f2a",
+      "title": "Colts’ DeForest Buckner had to weigh ‘long-term life’ issues when deciding to return",
+      "link": "https://fox59.com/sports/colts-deforest-buckner-had-to-weigh-long-term-life-issues-when-deciding-to-return/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-20T22:06:24+0000",
+      "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
     },
     {
       "id": "2fb12cf40e9af8b3",
@@ -38,85 +92,13 @@
       "summary": "Fantasy upside for J.J. McCarthy and Tyler Shough? An advantage for the Bears' rushing attack? Upset brewing in Commanders-Eagles? Let's look at Week 16."
     },
     {
-      "id": "5392d37c01d86ee8",
-      "title": "Kelce to play final 3 games as he ponders future",
-      "link": "https://espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-20T22:01:23+0000",
-      "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season."
-    },
-    {
-      "id": "49857ac0310f6e5e",
-      "title": "Colts' Buckner back from IR; Gardner out again",
-      "link": "https://espn.com/nfl/story/_/id/47370232/colts-deforest-buckner-back-ir-sauce-gardner-again",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-20T22:01:23+0000",
-      "summary": "The Colts are getting DT DeForest Buckner back from injured reserve but will be without CB Sauce Gardner again vs. the 49ers on Monday night."
-    },
-    {
-      "id": "5514d2b7cc091518",
-      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-20T22:01:23+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
-    },
-    {
-      "id": "b68dc172d4615424",
-      "title": "Eagles vs. Commanders: Saturday NFL Special Open Thread",
-      "link": "https://sports.yahoo.com/articles/eagles-vs-commanders-saturday-nfl-220000034.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T22:00:00+0000",
-      "summary": "The first of a Saturday NFL doubleheader kicks off from Washington. Join us here to discuss the game!"
-    },
-    {
-      "id": "a58f55adbb36cb2f",
-      "title": "NFL Saturday live discussion: Eagles vs. Commanders, Packers vs. Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-saturday-live-discussion-eagles-215831915.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:58:31+0000",
-      "summary": "Join our live discussion of two important NFC games: Eagles at Commanders and Packers at Bears."
-    },
-    {
-      "id": "f75a3b85f874c3d6",
-      "title": "Jaguars vs Broncos Prediction, Picks & Best Bets for NFL Week 16",
-      "link": "https://sports.yahoo.com/articles/jaguars-vs-broncos-prediction-picks-215800725.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:58:00+0000",
-      "summary": "Get the best Jaguars vs. Broncos predictions ahead of Sunday's matchup at Empower Field. Free NFL picks for December 21."
-    },
-    {
-      "id": "29a60a93397bcf92",
-      "title": "2026 NFL Draft scouting report: Jack Kelly, Linebacker, BYU",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-215726865.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:57:26+0000",
-      "summary": "Jack Kelly is our latest scouting report we are publishing as we gear towards the offseason."
-    },
-    {
-      "id": "e916fef3a2a19487",
-      "title": "2026 NFL Draft scouting report: Justin Jefferson, Linebacker, Alabama",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-215509956.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:55:09+0000",
-      "summary": "Justin Jefferson is our latest scouting report we are publishing as we gear towards the offseason."
-    },
-    {
-      "id": "3403bef2ee618de7",
-      "title": "Eagles-Commanders, Packers-Bears: NFL Week 16 Saturday fan discussion",
-      "link": "https://sports.yahoo.com/articles/eagles-commanders-packers-bears-nfl-215500484.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:55:00+0000",
-      "summary": "Week 16 of NFL action brings fans an NFC double-header featuring the Eagles, Commanders, Bears, and Packers."
+      "id": "0a94afc9c311ee7d",
+      "title": "Colts expected to get key piece back along interior defensive line for MNF",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119501/colts-expected-to-get-big-boost-along-interior-defensive-line-for-mnf",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-20T19:32:45+0000",
+      "summary": "According to head coach Shane Steichen, Indianapolis Colts defensive tackle DeForest Buckner (neck) will play against his former team on Monday Night Football this week (via ESPN’s Adam Schefter). The Pro Bowl veteran defensive tackle has not played since Week 9 at the Pittsburgh Steelers, when he injured his neck and was placed on injured [&#8230;]"
     },
     {
       "id": "6983a8d8e937262f",
@@ -371,15 +353,6 @@
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
     },
     {
-      "id": "60ca1e91dcdd267b",
-      "title": "Colts add three offensive linemen to practice squad to reinforce unit’s depleted depth",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119423/colts-add-three-offensive-linemen-to-practice-squad-to-reinforce-units-depleted-depth",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-17T04:39:19+0000",
-      "summary": "The Indianapolis Colts signed offensive guards LaDarius Henderson and Bill Murray, as well as offensive tackle Zach Thomas to their practice squad. Regarding Henderson, the 6’4”, 309 pound offensive guard was selected by the Houston Texans in the 7th round of the 2024 NFL Draft. The former CFP National Champion and All-Big Ten offensive guard [&#8230;]"
-    },
-    {
       "id": "71904b0770a85bf7",
       "title": "How to watch the San Francisco 49ers at Indianapolis Colts on December 22, 2025",
       "link": "https://colts.com/news/how-to-watch-49ers-at-colts-week-16-2025",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-12-15T00:22:05+0000",
       "summary": "The Colts lost their fourth consecutive game, 18-16, to the Seattle Seahawks on Sunday at Lumen Field."
+    },
+    {
+      "id": "d660c5857a49c78b",
+      "title": "Colts announce 7 inactive players for Week 15 game against Seattle Seahawks",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-15-game-against-seattle-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-14T19:55:10+0000",
+      "summary": "The Colts on Friday ruled out cornerback Sauce Gardner (calf), wide receiver Anthony Gould (foot) and tackle Braden Smith (concussion/neck) while defensive tackle DeForest Buckner (neck) remains on injured reserve."
+    },
+    {
+      "id": "528a3ddb8acf4581",
+      "title": "Keys to the Game: Colts at Seahawks",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-seahawks/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-14T17:39:21+0000",
+      "summary": "INDIANAPOLIS - The Colts season has been spiraling over the last month. They've lost three games in a row and starting quarterback Daniel Jones to a season-ending Achilles injury. They'll bring 44-year-old Philip Rivers out of retirement today against the Seahawks to try to stop the skid and put the team back in the AFC [...]"
+    },
+    {
+      "id": "df7d8281e29cf81e",
+      "title": "Sideline to Sideline: Biggest Influence",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-biggest-influence/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-14T17:30:53+0000",
+      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their time in football. Today, Chris asks the players who their biggest influence has been in their careers."
     }
   ],
   "links": [
