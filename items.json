@@ -1,40 +1,13 @@
 {
-  "updated": "2025-12-20T21:16:18+00:00",
+  "updated": "2025-12-20T21:37:08+00:00",
   "items": [
-    {
-      "id": "1df90b131976fb27",
-      "title": "NFL Draft prospects fans should look for in James Madison vs. Oregon",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-prospects-fans-look-210323262.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:03:23+0000",
-      "summary": "The playoff matchup between Oregon and James Madison is one that is more unique than most in the opening round."
-    },
-    {
-      "id": "5bbb2213a962fe06",
-      "title": "NFL playoff picture Week 16: Eagles look to lock up NFC East, finish Cowboys",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-week-16-210110678.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:01:10+0000",
-      "summary": "Where the projected NFL playoff picture stands with Week 16 underway."
-    },
-    {
-      "id": "3c0ace92761be09f",
-      "title": "Shanahan: Ricky Pearsall ‘doesn’t need a full practice’ to play vs. Colts",
-      "link": "https://sports.yahoo.com/articles/shanahan-ricky-pearsall-doesn-t-210000872.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T21:00:00+0000",
-      "summary": "The 49ers wideout could play against the Colts on Monday without practicing this week."
-    },
     {
       "id": "5392d37c01d86ee8",
       "title": "Kelce to play final 3 games as he ponders future",
       "link": "https://espn.com/nfl/story/_/id/47359976/travis-kelce-plans-play-chiefs-final-3-games",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-20T20:32:57+0000",
+      "published": "2025-12-20T21:30:56+0000",
       "summary": "Despite the Chiefs getting eliminated from the NFL's postseason last week, Travis Kelce, the team's star tight end, plans to play in each of the final three games this season."
     },
     {
@@ -43,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47370232/colts-deforest-buckner-back-ir-sauce-gardner-again",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-20T20:32:57+0000",
+      "published": "2025-12-20T21:30:56+0000",
       "summary": "The Colts are getting DT DeForest Buckner back from injured reserve but will be without CB Sauce Gardner again vs. the 49ers on Monday night."
     },
     {
@@ -52,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47360029/nfl-suspends-seahawks-olb-derick-hall-one-game-pay",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-20T20:32:57+0000",
+      "published": "2025-12-20T21:30:56+0000",
       "summary": "The NFL is suspending Seahawks outside linebacker Derick Hall for one game without pay for an act of unnecessary roughness and unsportsmanlike conduct during Thursday night's game against the Rams."
     },
     {
@@ -61,8 +34,26 @@
       "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-20T20:32:56+0000",
+      "published": "2025-12-20T21:30:56+0000",
       "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+    },
+    {
+      "id": "c506723558ac5bbd",
+      "title": "Patriots’ Rhamondre Stevenson Fined For Making ‘Dumb Decision’",
+      "link": "https://sports.yahoo.com/articles/patriots-rhamondre-stevenson-fined-making-211833627.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T21:18:33+0000",
+      "summary": "New England Patriots running back Rhamondre Stevenson’s wallet is a tad lighter these days… The NFL fined the normally mild-mannered veteran for unnecessary roughness in last week’s loss to the Buffalo Bills. Stevenson, who had previously been fined on a couple of occasions, ended up getting hit for $12,172. Bills linebacker Matt Milano provoked an […]"
+    },
+    {
+      "id": "e08fc3dc1885a1cd",
+      "title": "Chargers' Tony Jefferson fined by NFL for flipping off Chiefs fans, hit on defenseless player",
+      "link": "https://sports.yahoo.com/nfl/article/chargers-tony-jefferson-fined-by-nfl-for-flipping-off-chiefs-fans-hit-on-defenseless-player-211806065.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T21:18:06+0000",
+      "summary": "Jefferson was ejected in the fourth quarter of LA's Week 15 win over the Kansas City."
     },
     {
       "id": "0a94afc9c311ee7d",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-14T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
+    },
+    {
+      "id": "775a980d46acc333",
+      "title": "Colts at Seahawks: What to watch for",
+      "link": "https://fox59.com/sports/colts/colts-at-seahawks-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-13T22:01:14+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Seahawks in Seattle’s Lumen Field. History lesson, Part I The Colts lead the series 7-6, and are 4-4 in Seattle. The Seahawks have won the last two, including 28-16 at Lucas Oil Stadium in the 2021 season opener and 46-18 in 2017 [...]"
     }
   ],
   "links": [
