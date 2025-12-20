@@ -1,14 +1,23 @@
 {
-  "updated": "2025-12-20T14:40:20+00:00",
+  "updated": "2025-12-20T15:18:08+00:00",
   "items": [
     {
-      "id": "994944142323e86d",
-      "title": "ESPN projects rest of 2025 season; How many playoff wins for Jaguars?",
-      "link": "https://sports.yahoo.com/articles/espn-projects-rest-2025-season-141224512.html",
+      "id": "c2851b8174e00c0d",
+      "title": "Daily Slop: 20 Dec 25 – Game Day!! The rare 5pm Saturday kickoff",
+      "link": "https://sports.yahoo.com/articles/daily-slop-20-dec-25-150000437.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-20T14:12:24+0000",
-      "summary": "ESPN projected the rest of the 2025 NFL season. How many playoff wins did the Jaguars end up with?"
+      "published": "2025-12-20T15:00:00+0000",
+      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
+    },
+    {
+      "id": "94e133768241c649",
+      "title": "Puka Nacua joins Rams legend as only 2 players in NFL history to accomplish this",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-joins-rams-legend-145703740.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T14:57:03+0000",
+      "summary": "Puka Nacua has three straight games with 165-plus yards, a feat only one other player in NFL history has ever accomplished."
     },
     {
       "id": "5194550fb4ff4949",
@@ -56,15 +65,6 @@
       "summary": "Fantasy upside for J.J. McCarthy and Tyler Shough? An advantage for the Bears' rushing attack? Upset brewing in Commanders-Eagles? Let's look at Week 16."
     },
     {
-      "id": "516ba27586185b97",
-      "title": "Daniel Jones is heading into Free Agency with no market and no leverage",
-      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/119493/daniel-jones-is-heading-into-free-agency-with-no-market-and-no-leverage",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-20T13:00:00+0000",
-      "summary": "Earlier this season, I wrote that Daniel Jones was playing himself into a massive new contract. He was on a one-year, $14 million deal and had completely transformed the Colts’ offense, turning them into one of the most efficient scoring units in the league. Based on the level he was playing at, I projected that [&#8230;]"
-    },
-    {
       "id": "5c387ca679ae572c",
       "title": "150 prospects, 12 schools, 7 rounds: We stacked players in the CFP by NFL draft stock",
       "link": "https://espn.com/nfl/draft2026/story/_/id/47304617/2026-nfl-draft-prospects-college-football-playoff-indiana-ohio-state-georgia",
@@ -74,9 +74,9 @@
       "summary": "We picked out every CFP player who could factor into the 2026 NFL draft and slotted them by stock."
     },
     {
-      "id": "ed446cd89f5029b1",
+      "id": "065ec10612f971fa",
       "title": "Philip Rivers feels ‘a week better,’ but that must translate into Colts wins",
-      "link": "https://fox59.com/sports/philip-rivers-feels-a-week-better-but-that-must-translate-into-colts-wins/",
+      "link": "https://fox59.com/sports/colts/philip-rivers-feels-a-week-better-but-that-must-translate-into-colts-wins/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-12-19T22:32:07+0000",
@@ -308,6 +308,15 @@
       "summary": "The Indianapolis Colts signed offensive guards LaDarius Henderson and Bill Murray, as well as offensive tackle Zach Thomas to their practice squad. Regarding Henderson, the 6’4”, 309 pound offensive guard was selected by the Houston Texans in the 7th round of the 2024 NFL Draft. The former CFP National Champion and All-Big Ten offensive guard [&#8230;]"
     },
     {
+      "id": "820458585b3b9b43",
+      "title": "Colts’ Week 15 QB Analysis: It Is What It Is",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/118783/colts-week-15-qb-analysis-it-is-what-it-is",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-17T03:59:35+0000",
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
+    },
+    {
       "id": "71904b0770a85bf7",
       "title": "How to watch the San Francisco 49ers at Indianapolis Colts on December 22, 2025",
       "link": "https://colts.com/news/how-to-watch-49ers-at-colts-week-16-2025",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-13T18:00:51+0000",
       "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
-    },
-    {
-      "id": "a244729cb3a253dd",
-      "title": "Colts sign Philip Rivers to active roster; is starting at Seattle next?",
-      "link": "https://fox59.com/sports/colts/colts-sign-philip-rivers-to-active-roster-is-starting-at-seattle-next/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T16:57:56+0000",
-      "summary": "INDIANAPOLIS – Philip Rivers is one step closer to making his first start in nearly five years. The 44-year-old quarterback who was coaching St. Michael Catholic in the semifinals of the Alabama high school state tournament last month was signed to the Indianapolis Colts’ active roster from the practice squad Saturday. That’s the final, necessary [...]"
     }
   ],
   "links": [
