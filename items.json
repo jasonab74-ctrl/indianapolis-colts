@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-20T13:26:40+00:00",
+  "updated": "2025-12-20T13:43:31+00:00",
   "items": [
+    {
+      "id": "b257a53c36ecbd6a",
+      "title": "Green Bay Packers vs. Chicago Bears: How to watch Saturday's NFL game, kickoff time, TV channel and more",
+      "link": "https://sports.yahoo.com/nfl/article/green-bay-packers-vs-chicago-bears-how-to-watch-saturdays-nfl-game-kickoff-time-tv-channel-and-more-133511055.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T13:35:11+0000",
+      "summary": "Here's how to watch the Week 16 game between the Green Bay Packers and the Chicago Bears."
+    },
+    {
+      "id": "d56ebb5f200af11a",
+      "title": "From Worst to Playoff Berth: 2 teams look to clinch 2025 NFL Playoffs",
+      "link": "https://sports.yahoo.com/articles/worst-playoff-berth-2-teams-131626985.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-20T13:16:26+0000",
+      "summary": "The Chicago Bears finished last in the NFC North a season ago, and can clinch a playoff berth with a win and a Detroit Lions loss or tie"
+    },
     {
       "id": "e9772e41116b9581",
       "title": "Browns NFL Draft: One target from each team in the Miami vs. Texas A&M game",
@@ -54,42 +72,6 @@
       "feed": "ESPN",
       "published": "2025-12-20T13:07:23+0000",
       "summary": "Fantasy upside for J.J. McCarthy and Tyler Shough? An advantage for the Bears' rushing attack? Upset brewing in Commanders-Eagles? Let's look at Week 16."
-    },
-    {
-      "id": "39fac27e4d9e9bb6",
-      "title": "Bears vs. Packers picks, predictions from NFL experts ahead of crucial Week 16 game",
-      "link": "https://sports.yahoo.com/articles/bears-vs-packers-picks-predictions-130201279.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T13:02:01+0000",
-      "summary": "The Green Bay Packers and Chicago Bears will square off for a crucial showdown on Saturday in Week 16 that will determine who sits in first place in the NFC North going into Week 17."
-    },
-    {
-      "id": "8e0d1a443f5f2eb5",
-      "title": "NFL.com previews Broncos-Jaguars (and experts make game pick)",
-      "link": "https://sports.yahoo.com/articles/nfl-com-previews-broncos-jaguars-130132770.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T13:01:32+0000",
-      "summary": "NFL experts seemingly view the Broncos-Jaguars game as a toss-up."
-    },
-    {
-      "id": "49f6c5e7a52911c0",
-      "title": "How the 49ers Can Punch Their Playoff Ticket in Week 16",
-      "link": "https://sports.yahoo.com/articles/49ers-punch-playoff-ticket-week-130010125.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T13:00:10+0000",
-      "summary": "Victory against the Colts guarantees a playoff spot. Explore the specific scenarios that could lock up the 49ers' postseason ticket before the final whistle blows."
-    },
-    {
-      "id": "9ed3109775488f7b",
-      "title": "Bears vs. Packers radio coverage: Station, channel, streaming to listen live to Saturday NFL game broadcast",
-      "link": "https://sports.yahoo.com/articles/bears-vs-packers-radio-coverage-130002890.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-20T13:00:02+0000",
-      "summary": "This battle is for control of the NFC North."
     },
     {
       "id": "516ba27586185b97",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-14T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
+    },
+    {
+      "id": "775a980d46acc333",
+      "title": "Colts at Seahawks: What to watch for",
+      "link": "https://fox59.com/sports/colts/colts-at-seahawks-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-13T22:01:14+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Seahawks in Seattle’s Lumen Field. History lesson, Part I The Colts lead the series 7-6, and are 4-4 in Seattle. The Seahawks have won the last two, including 28-16 at Lucas Oil Stadium in the 2021 season opener and 46-18 in 2017 [...]"
+    },
+    {
+      "id": "6880340c68aff5ee",
+      "title": "Colts place RT Braden Smith on IR; future uncertain",
+      "link": "https://fox59.com/sports/colts/colts-place-rt-braden-smith-on-ir-future-uncertain/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-13T18:26:19+0000",
+      "summary": "INDIANAPOLIS – Braden Smith’s season is over, and his future with the Indianapolis Colts is uncertain. The team placed their veteran right tackle on the injured reserve list Saturday, which means he must miss at least the final four games of the regular season. Hypothetically, he could return if the Colts earn a playoff berth. [...]"
     }
   ],
   "links": [
