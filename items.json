@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T08:24:45+00:00",
+  "updated": "2025-12-21T08:47:06+00:00",
   "items": [
     {
       "id": "59bd1f560a2dce6f",
@@ -9,6 +9,15 @@
       "feed": "Colts.com",
       "published": "2025-12-21T11:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
+    },
+    {
+      "id": "5cb052c594ed8438",
+      "title": "Most sacks among active NFL players: Where Browns star Myles Garrett, T.J. Watt rank on all-time list",
+      "link": "https://sports.yahoo.com/articles/most-sacks-among-active-nfl-083001969.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T08:30:01+0000",
+      "summary": "Myles Garrett's recent sack outburst has him on the cusp of history. But just where does he rank among active NFL sack artists?"
     },
     {
       "id": "2f7343644e157d44",
@@ -63,24 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-21T07:50:01+0000",
       "summary": "All you need to know to watch Sunday's game between the Dolphins and Bengals, including TV and live streaming information."
-    },
-    {
-      "id": "d52c298951f6e78d",
-      "title": "What channel is Titans vs. Chiefs on today? Live stream, time, TV schedule to watch NFL Week 16 game",
-      "link": "https://sports.yahoo.com/articles/channel-titans-vs-chiefs-today-073002432.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-21T07:30:02+0000",
-      "summary": "All you need to know to watch the Titans host the Chiefs on Sunday."
-    },
-    {
-      "id": "ce3856f94340c654",
-      "title": "What channel is Browns vs. Bills on today? Live stream, time, TV schedule to watch NFL Week 16 game",
-      "link": "https://sports.yahoo.com/articles/channel-browns-vs-bills-today-072002212.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-21T07:20:02+0000",
-      "summary": "Here's your full guide to watching Browns vs. Bills in Week 16."
     },
     {
       "id": "847f2a46c3d0a95f",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-14T17:30:53+0000",
       "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their time in football. Today, Chris asks the players who their biggest influence has been in their careers."
+    },
+    {
+      "id": "9c2e8c21db87e324",
+      "title": "How to watch the Indianapolis Colts at Seattle Seahawks on December 14, 2025",
+      "link": "https://colts.com/news/how-to-watch-colts-at-seahawks-week-15-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-14T13:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
     }
   ],
   "links": [
