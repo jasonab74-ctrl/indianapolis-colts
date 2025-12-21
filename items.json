@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T10:18:59+00:00",
+  "updated": "2025-12-21T10:43:17+00:00",
   "items": [
     {
       "id": "59bd1f560a2dce6f",
@@ -9,6 +9,24 @@
       "feed": "Colts.com",
       "published": "2025-12-21T11:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
+    },
+    {
+      "id": "489c78e97f018bf9",
+      "title": "Bengals' chances at top-10 spot in NFL draft order updated",
+      "link": "https://sports.yahoo.com/articles/bengals-chances-top-10-spot-103103240.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T10:31:03+0000",
+      "summary": "The Bengals have major draft order up for grabs over their final few games."
+    },
+    {
+      "id": "c7511ce6d1d0819f",
+      "title": "NFL unofficial sack record, explained: Why Al Baker is the technical record holder over Michael Strahan",
+      "link": "https://sports.yahoo.com/articles/nfl-unofficial-sack-record-explained-102002783.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T10:20:02+0000",
+      "summary": "Al Baker isn't the most famous of names in NFL circles. Given his penchant for sacks, however, maybe he should be."
     },
     {
       "id": "6f4733ae6651db5a",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-14T19:55:10+0000",
       "summary": "The Colts on Friday ruled out cornerback Sauce Gardner (calf), wide receiver Anthony Gould (foot) and tackle Braden Smith (concussion/neck) while defensive tackle DeForest Buckner (neck) remains on injured reserve."
-    },
-    {
-      "id": "528a3ddb8acf4581",
-      "title": "Keys to the Game: Colts at Seahawks",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-seahawks/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-14T17:39:21+0000",
-      "summary": "INDIANAPOLIS - The Colts season has been spiraling over the last month. They've lost three games in a row and starting quarterback Daniel Jones to a season-ending Achilles injury. They'll bring 44-year-old Philip Rivers out of retirement today against the Seahawks to try to stop the skid and put the team back in the AFC [...]"
-    },
-    {
-      "id": "df7d8281e29cf81e",
-      "title": "Sideline to Sideline: Biggest Influence",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-biggest-influence/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-14T17:30:53+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their time in football. Today, Chris asks the players who their biggest influence has been in their careers."
     }
   ],
   "links": [
