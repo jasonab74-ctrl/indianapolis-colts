@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T19:36:59+00:00",
+  "updated": "2025-12-21T20:20:31+00:00",
   "items": [
     {
       "id": "2f7343644e157d44",
@@ -7,35 +7,62 @@
       "link": "https://espn.com/nfl/story/_/id/47377003/caleb-williams-ot-magic-caps-bears-latest-comeback-win",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-21T19:32:17+0000",
+      "published": "2025-12-21T20:17:28+0000",
       "summary": "Caleb Williams capped his NFL-leading sixth comeback win from a fourth-quarter deficit with a thrilling 46-yard touchdown pass to DJ Moore to stun the Packers 22-16 in overtime."
     },
     {
-      "id": "9cd6ac93f1dac580",
-      "title": "NFL playoff picture: What does Jaguars-Broncos mean for AFC standings in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-jaguars-193000631.html",
+      "id": "8adbd3b14a7150b7",
+      "title": "NFL playoff picture: What does Steelers-Lions mean for AFC, NFC standings in Week 16",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-steelers-200000567.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-21T19:30:00+0000",
-      "summary": "The Jaguars face the Broncos in Denver on Sunday. We break down what the game means for the NFL playoff picture in Week 16."
+      "published": "2025-12-21T20:00:00+0000",
+      "summary": "The Steelers face the Lions in Pittsburgh on Sunday. We break down what the game means for the NFL playoff picture in Week 16"
     },
     {
-      "id": "26cb50122a109ce6",
-      "title": "49ers' Pearsall, Green ruled out Monday vs. Colts",
-      "link": "https://espn.com/nfl/story/_/id/47372055/49ers-ricky-pearsall-renardo-green-ruled-vs-colts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-21T19:05:31+0000",
-      "summary": "The San Francisco 49ers will be without receiver Ricky Pearsall and cornerback Renardo Green on Monday night against the Indianapolis Colts."
+      "id": "3da6a90836daa305",
+      "title": "NFL playoff picture: What does Texans-Raiders mean for AFC standings in Week 16",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-texans-200000289.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T20:00:00+0000",
+      "summary": "The Texans face the Raiders in Houston on Sunday. We break down what the game means for the NFL playoff picture in Week 16."
     },
     {
-      "id": "5514d2b7cc091518",
-      "title": "🐝 Week 16 buzz: Latest on what we're hearing",
-      "link": "https://espn.com/nfl/story/_/id/47324378/nfl-week-16-buzz-news-updates-fantasy-intel-questions-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-21T19:05:30+0000",
-      "summary": "Here's the latest heading into NFL Week 16, including intel on Patrick Mahomes, Micah Parsons, Philip Rivers, playoff races and offseason trade candidates."
+      "id": "fce915571922a2d8",
+      "title": "Joe Thomas says Broncos have NFL’s best offensive line",
+      "link": "https://sports.yahoo.com/articles/joe-thomas-says-broncos-nfl-195842255.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T19:58:42+0000",
+      "summary": "Joe Thomas believes the Broncos have the best offensive line in the NFL."
+    },
+    {
+      "id": "cec4dc65c04d2a66",
+      "title": "Bengals defensive back DJ Turner questionable to return vs Dolphins",
+      "link": "https://sports.yahoo.com/articles/bengals-defensive-back-dj-turner-195839796.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T19:58:39+0000",
+      "summary": "Bengals defensive back DJ Turner was injured during the third quarter of the team's NFL Week 15 loss to Baltimore at Paycor Stadium."
+    },
+    {
+      "id": "86e0624fee425926",
+      "title": "Bills' Josh Allen injures foot, but returns to game against Browns",
+      "link": "https://sports.yahoo.com/articles/bills-josh-allen-injures-foot-195717563.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T19:57:17+0000",
+      "summary": "Buffalo quarterback Josh Allen remained in Sunday's game against the Cleveland Browns after suffering an injury to his right foot during the second quarter.  The reigning NFL MVP was favoring the foot after being sacked by Cleveland's Mason Graham for a 22-yard loss to the Buffalo 1-yard line with 60 seconds remaining in the first half.  Allen went up the middle for a 1-yard gain on the next play before the Bills punted."
+    },
+    {
+      "id": "d44ca6de440af3d4",
+      "title": "Roof closed as Colts host 49ers for MNF",
+      "link": "https://fox59.com/sports/roof-closed-as-colts-host-49ers-for-mnf/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-21T19:48:04+0000",
+      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against Brock Purdy and the San Francisco 49ers. The Monday Night Football matchup will see Philip Rivers return to Lucas Oil as he attempts to lead the 8-6 Colts back into the win column against the 10-4 49ers. As [...]"
     },
     {
       "id": "a543fb9d89d9ebb0",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-14T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
-    },
-    {
-      "id": "775a980d46acc333",
-      "title": "Colts at Seahawks: What to watch for",
-      "link": "https://fox59.com/sports/colts/colts-at-seahawks-what-to-watch-for/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T22:01:14+0000",
-      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Seahawks in Seattle’s Lumen Field. History lesson, Part I The Colts lead the series 7-6, and are 4-4 in Seattle. The Seahawks have won the last two, including 28-16 at Lucas Oil Stadium in the 2021 season opener and 46-18 in 2017 [...]"
-    },
-    {
-      "id": "6880340c68aff5ee",
-      "title": "Colts place RT Braden Smith on IR; future uncertain",
-      "link": "https://fox59.com/sports/colts/colts-place-rt-braden-smith-on-ir-future-uncertain/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T18:26:19+0000",
-      "summary": "INDIANAPOLIS – Braden Smith’s season is over, and his future with the Indianapolis Colts is uncertain. The team placed their veteran right tackle on the injured reserve list Saturday, which means he must miss at least the final four games of the regular season. Hypothetically, he could return if the Colts earn a playoff berth. [...]"
-    },
-    {
-      "id": "c27138d568ad82a0",
-      "title": "Colts sign QB Philip Rivers to 53-man roster from practice squad, place T Braden Smith on injured reserve",
-      "link": "https://colts.com/news/colts-sign-qb-philip-rivers-to-53-man-roster-from-practice-squad-place-t-braden-smith-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-13T18:00:51+0000",
-      "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
     }
   ],
   "links": [
