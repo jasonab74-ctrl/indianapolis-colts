@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T06:53:07+00:00",
+  "updated": "2025-12-21T07:18:52+00:00",
   "items": [
     {
       "id": "59bd1f560a2dce6f",
@@ -9,6 +9,42 @@
       "feed": "Colts.com",
       "published": "2025-12-21T11:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
+    },
+    {
+      "id": "94b092517a36b443",
+      "title": "NFL standings: Updated AFC, NFC playoff pictures for Week 16 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/nfl-standings-updated-afc-nfc-070001277.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T07:00:01+0000",
+      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended going into Sunday of Week 16, from top seeds to final wild cards in both conferences."
+    },
+    {
+      "id": "586b098417d4c7c5",
+      "title": "What channel is Broncos vs. Jaguars on today? Live stream, time, TV schedule to watch NFL Week 16 game",
+      "link": "https://sports.yahoo.com/articles/channel-broncos-vs-jaguars-today-070001099.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T07:00:01+0000",
+      "summary": "Here's your guide to watching Broncos vs. Jaguars in Week 16."
+    },
+    {
+      "id": "39238b5b8cec767d",
+      "title": "What channel is Panthers vs. Buccaneers on today? Live stream, time, TV schedule to watch NFL Week 16 game",
+      "link": "https://sports.yahoo.com/articles/channel-panthers-vs-buccaneers-today-065001505.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T06:50:01+0000",
+      "summary": "Here's your guide on how to watch Panthers vs. Buccaneers in Week 16."
+    },
+    {
+      "id": "e947e216353f3d57",
+      "title": "Are the Bears the most clutch team in NFL history? The numbers say yes.",
+      "link": "https://sports.yahoo.com/articles/bears-most-clutch-team-nfl-064620655.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T06:46:20+0000",
+      "summary": "This team has zero quit in them."
     },
     {
       "id": "3e96105ea2ca99cd",
@@ -27,6 +63,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-21T06:30:01+0000",
       "summary": "Here is everything you need to know to tune in or watch the Cowboys vs. Chargers game in Week 16."
+    },
+    {
+      "id": "2a2aa694566031fd",
+      "title": "Who should I start Week 16? Fantasy playoffs Sunday start sit rankings, last-minute lineup decisions, NFL weather, inactives, breaking news",
+      "link": "https://sports.yahoo.com/articles/start-week-16-fantasy-playoffs-011500868.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-21T06:30:00+0000",
+      "summary": "Set your Week 16 fantasy football lineups for the playoffs in Round 2. Click to read start 'em, sit 'em advice, injury inactive news, and pregame reports that provide insider fantasy tips."
     },
     {
       "id": "26cb50122a109ce6",
@@ -63,6 +108,15 @@
       "feed": "ESPN",
       "published": "2025-12-21T02:12:46+0000",
       "summary": "Fantasy upside for J.J. McCarthy and Tyler Shough? An advantage for the Bears' rushing attack? Upset brewing in Commanders-Eagles? Let's look at Week 16."
+    },
+    {
+      "id": "79130a818fbc70e2",
+      "title": "Indianapolis Colts Injury Report: LT Raimann Listed As QUESTIONABLE",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119508/indianapolis-colts-injury-report-lt-raimann-listed-as-questionable",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-20T23:53:17+0000",
+      "summary": "The Indianapolis Colts today released their Saturday injury report for Week 16 of the NFL season against the San Francisco 49ers for Monday night. Defensive tackle Deforest Buckner has been listed as QUESTIONABLE for Monday’s games against the 49ers with a neck injury. Buckner looks set to return from injured reserve this week and provide [&#8230;]"
     },
     {
       "id": "6a2631fa0f961f2a",
@@ -299,15 +353,6 @@
       "summary": "The Indianapolis Colts will celebrate “Indiana Nights” and wear their “Indiana Nights” alternate uniform when they host a Monday Night Football matchup with the San Francisco 49ers at Lucas Oil Stadium on Dec. 22."
     },
     {
-      "id": "74501bf94aac48f1",
-      "title": "The Colts could make things very interesting down the stretch",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119427/the-colts-could-make-things-very-interesting-down-the-stretch",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-17T13:35:00+0000",
-      "summary": "The margin for error is gone. Another loss for the Indianapolis Colts in the 2025 season would mark the end. Things are looking dire, but not all hope is lost. They have tough games ahead of them, but they have the best possible games too. The schedule lines up perfectly with what they are trying [&#8230;]"
-    },
-    {
       "id": "167e0b9c99bd0eea",
       "title": "How NFL teams complain to the league about officiating calls",
       "link": "https://espn.com/nfl/story/_/id/47026115/how-nfl-teams-complain-league-officiating-penalty-call",
@@ -495,51 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-14T17:39:21+0000",
       "summary": "INDIANAPOLIS - The Colts season has been spiraling over the last month. They've lost three games in a row and starting quarterback Daniel Jones to a season-ending Achilles injury. They'll bring 44-year-old Philip Rivers out of retirement today against the Seahawks to try to stop the skid and put the team back in the AFC [...]"
-    },
-    {
-      "id": "df7d8281e29cf81e",
-      "title": "Sideline to Sideline: Biggest Influence",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-biggest-influence/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-14T17:30:53+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their time in football. Today, Chris asks the players who their biggest influence has been in their careers."
-    },
-    {
-      "id": "9c2e8c21db87e324",
-      "title": "How to watch the Indianapolis Colts at Seattle Seahawks on December 14, 2025",
-      "link": "https://colts.com/news/how-to-watch-colts-at-seahawks-week-15-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-14T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Seattle Seahawks on Sunday, December 14 at 4:25 p.m. ET (Week 15)."
-    },
-    {
-      "id": "775a980d46acc333",
-      "title": "Colts at Seahawks: What to watch for",
-      "link": "https://fox59.com/sports/colts/colts-at-seahawks-what-to-watch-for/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T22:01:14+0000",
-      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Seahawks in Seattle’s Lumen Field. History lesson, Part I The Colts lead the series 7-6, and are 4-4 in Seattle. The Seahawks have won the last two, including 28-16 at Lucas Oil Stadium in the 2021 season opener and 46-18 in 2017 [...]"
-    },
-    {
-      "id": "6880340c68aff5ee",
-      "title": "Colts place RT Braden Smith on IR; future uncertain",
-      "link": "https://fox59.com/sports/colts/colts-place-rt-braden-smith-on-ir-future-uncertain/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-13T18:26:19+0000",
-      "summary": "INDIANAPOLIS – Braden Smith’s season is over, and his future with the Indianapolis Colts is uncertain. The team placed their veteran right tackle on the injured reserve list Saturday, which means he must miss at least the final four games of the regular season. Hypothetically, he could return if the Colts earn a playoff berth. [...]"
-    },
-    {
-      "id": "c27138d568ad82a0",
-      "title": "Colts sign QB Philip Rivers to 53-man roster from practice squad, place T Braden Smith on injured reserve",
-      "link": "https://colts.com/news/colts-sign-qb-philip-rivers-to-53-man-roster-from-practice-squad-place-t-braden-smith-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-13T18:00:51+0000",
-      "summary": "Rivers will be available to play in the Colts' Week 15 game against the Seattle Seahawks at Lumen Field."
     }
   ],
   "links": [
