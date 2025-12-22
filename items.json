@@ -1,104 +1,23 @@
 {
-  "updated": "2025-12-22T04:39:03+00:00",
+  "updated": "2025-12-22T05:23:14+00:00",
   "items": [
     {
-      "id": "3999b37028b881d0",
-      "title": "What Ravens' loss vs. Patriots means for AFC North, wild-card standings",
-      "link": "https://sports.yahoo.com/articles/ravens-loss-vs-patriots-means-043407093.html",
+      "id": "83e09238918631fb",
+      "title": "Steelers beat Lions in 'chaos' as three NFL teams book playoffs",
+      "link": "https://sports.yahoo.com/articles/chargers-bills-edge-closer-playoff-212706204.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:34:07+0000",
-      "summary": "What does the Baltimore Ravens' loss to the New England Patriots mean for the AFC North and wild-card standings? Find all the answers on the 2025 NFL playoff picture here."
+      "published": "2025-12-22T05:11:44+0000",
+      "summary": "Aaron Rodgers' Pittsburgh Steelers clung on for a dramatic 29-24 win against the Lions Sunday, leaving Detroit's playoff hopes hanging by a thread as three NFL teams confirmed their post-season berths.Victory took the Steelers closer to post-season football themselves, two wins clear of divisional rival Baltimore with two to play."
     },
     {
-      "id": "daf3c66e12e325c5",
-      "title": "NFL teams to clinch playoff spot: Updated 2025 playoff bracket with Bears, Patriots clinching in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-teams-clinch-playoff-spot-012300650.html",
+      "id": "2ec375e110ab7bc6",
+      "title": "Taysom Hill’s potentially last home game with Saints ended with another history-making effort",
+      "link": "https://sports.yahoo.com/articles/taysom-hill-potentially-last-home-050400178.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:32:00+0000",
-      "summary": "Here's the teams that have officially locked in a playoff berth."
-    },
-    {
-      "id": "58aa6955d08861b0",
-      "title": "Which teams have clinched 2025 NFL playoff berth",
-      "link": "https://sports.yahoo.com/articles/teams-clinched-2025-nfl-playoff-201516205.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:31:10+0000",
-      "summary": "The NFL playoff picture is coming into focus. As the season winds through December and January, we’re highlighting each team that has clinched a spot in the 2025-26 NFL playoffs."
-    },
-    {
-      "id": "280ac94dc81c0e43",
-      "title": "Updated 2026 NFL Draft order: Giants, Raiders on pace to claim top selections entering Week 16",
-      "link": "https://sports.yahoo.com/articles/updated-2026-nfl-draft-order-080001356.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:30:00+0000",
-      "summary": "The race for the No. 1 pick is crowded as the regular season enters its final stretch."
-    },
-    {
-      "id": "7ee3131e194e7e7d",
-      "title": "NFL playoff picture: How the Patriots clinched a playoff berth in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-patriots-clinch-160000540.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:26:16+0000",
-      "summary": "Patriots. We break down how they can clinch a spot in the 2026 NFL Playoffs in Week 16."
-    },
-    {
-      "id": "b2cfd939dfc35511",
-      "title": "NFL playoff picture: What Patriots’ win over Ravens means for AFC standings in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-patriots-230000479.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:25:38+0000",
-      "summary": "The Patriots face the Ravens in Baltimore on Sunday. We break down what the game means for the NFL playoff picture."
-    },
-    {
-      "id": "8dffed93ec0fe12c",
-      "title": "What Patriots' win vs. Ravens means for No. 1 seed, AFC East",
-      "link": "https://sports.yahoo.com/articles/patriots-win-vs-ravens-means-042535709.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:25:35+0000",
-      "summary": "What does the New England Patriots' win over the Baltimore Ravens mean for the No.1 seed and the AFC East? Find all the answers regarding the 2025 NFL playoff picture here."
-    },
-    {
-      "id": "8adbd3b14a7150b7",
-      "title": "NFL playoff picture: What does Steelers win over Lions means for AFC, NFC standings in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-steelers-200000567.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:25:17+0000",
-      "summary": "The Steelers face the Lions in Pittsburgh on Sunday. We break down what the game means for the NFL playoff picture in Week 16"
-    },
-    {
-      "id": "21e450759e510987",
-      "title": "NFL playoff picture: What Bills win over Browns means for AFC standings in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-bills-163000285.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:25:05+0000",
-      "summary": "The Bills face the Browns in Cleveland on Sunday. We break down what the game means for the NFL playoff picture."
-    },
-    {
-      "id": "9cd6ac93f1dac580",
-      "title": "NFL playoff picture: What Jaguars win over Broncos means for AFC standings in Week 16",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-jaguars-193000631.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:22:29+0000",
-      "summary": "The Jaguars face the Broncos in Denver on Sunday. We break down what the game means for the NFL playoff picture in Week 16."
-    },
-    {
-      "id": "94179cfbda8ab9b4",
-      "title": "New angle emerges of DK Metcalf fan interaction",
-      "link": "https://sports.yahoo.com/articles/angle-emerges-dk-metcalf-fan-042229221.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:22:29+0000",
-      "summary": "In an NFL stadium, cameras are everywhere."
+      "published": "2025-12-22T05:04:00+0000",
+      "summary": "The 9-year NFL veteran provided a major spark for New Orleans in its win over the Jets."
     },
     {
       "id": "847f2a46c3d0a95f",
@@ -106,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47325576/nfl-week-16-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-22T04:20:32+0000",
+      "published": "2025-12-22T04:59:17+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 16 game. Here's what you need to know."
     },
     {
@@ -115,26 +34,89 @@
       "link": "https://espn.com/nfl/story/_/id/47380014/nfl-week-16-overreactions-fantasy-broncos-dk-metcalf-todd-bowles-bears-seahawks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-22T04:20:32+0000",
+      "published": "2025-12-22T04:59:17+0000",
       "summary": "Did lopsided loss expose Denver? Should Bowles be done? We overreact to Week 16, plus fantasy takes."
     },
     {
-      "id": "373ffb89dea31736",
-      "title": "Drake Maye TD pass, two-point conversion cuts Ravens lead to 24-21 in fourth quarter",
-      "link": "https://sports.yahoo.com/articles/drake-maye-td-pass-two-040131318.html",
+      "id": "6dc44ecbc2c23a9d",
+      "title": "Detroit Lions stoic after devastating finish vs Steelers: 'It's on us'",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-stoic-devastating-finish-045703274.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:01:31+0000",
-      "summary": "With the way Week 16 has gone in the NFL this is no surprise, but the Patriots certainly aren’t out of it yet."
+      "published": "2025-12-22T04:57:03+0000",
+      "summary": "The Detroit Lions have a 8% chance to make the postseason, according to NFL Next Gen Stats. They need to win their final two games and get help."
     },
     {
-      "id": "4ccf7c816c2cab2a",
-      "title": "Eagles vs Bills Predictions - Early Picks & Odds for Week 17",
-      "link": "https://sports.yahoo.com/articles/eagles-vs-bills-predictions-early-035900037.html",
+      "id": "3fb212bbf824498a",
+      "title": "Detroit Lions stoic after devastating finish vs Steelers: 'It's on us'",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-stoic-devastating-finish-045703928.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-22T03:59:00+0000",
-      "summary": "Early Eagles vs. Bills predictions and NFL picks for Week 17. Josh Allen leads Buffalo to a victory and cover."
+      "published": "2025-12-22T04:57:03+0000",
+      "summary": "The Detroit Lions have a 8% chance to make the postseason, according to NFL Next Gen Stats. They need to win their final two games and get help."
+    },
+    {
+      "id": "93747c3b18ef5d63",
+      "title": "Bills playoff picture: Updated chances for Buffalo to make 2025 NFL postseason in Week 16",
+      "link": "https://sports.yahoo.com/articles/bills-playoff-picture-updated-chances-213756644.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T04:57:00+0000",
+      "summary": "Here's how the Bills' road to the playoffs looks after Week 16."
+    },
+    {
+      "id": "796b15e2a0570af0",
+      "title": "Chargers playoff picture: Updated chances for Los Angeles to make 2025 NFL postseason in Week 16",
+      "link": "https://sports.yahoo.com/articles/chargers-playoff-picture-updated-chances-211734192.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T04:54:00+0000",
+      "summary": "All you need to know about the Chargers' playoff chances after a win in Dallas."
+    },
+    {
+      "id": "4ba367e54ff4daed",
+      "title": "Colts will be without their blindside bookend for MNF",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119521/colts-will-be-without-their-blindside-bookend-for-mnf",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-22T04:53:46+0000",
+      "summary": "The Indianapolis Colts announced on Sunday that starting left tackle Bernhard Raimann (elbow) has been downgraded from questionable to out for Monday Night football’s home game against the San Francisco 49ers. Raimann was able to practice on a limited basis on Saturday for the first time all week, with an arm brace on his injured [&#8230;]"
+    },
+    {
+      "id": "ebfd4cbd5e0f3cce",
+      "title": "Colts will be without their blindside bookend for MNF",
+      "link": "https://sports.yahoo.com/articles/colts-without-blindside-bookend-mnf-045346664.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T04:53:46+0000",
+      "summary": "It’s not necessarily surprising, but it doesn’t mean that Raimann’s absence won’t be any less felt."
+    },
+    {
+      "id": "fc5b5c2297054073",
+      "title": "Texans playoff picture: Updated chances for Houston to make 2025 NFL postseason after Week 16 win over Raiders",
+      "link": "https://sports.yahoo.com/articles/texans-playoff-picture-updated-chances-002728546.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T04:51:00+0000",
+      "summary": "The Texans are moving closer to a playoff return."
+    },
+    {
+      "id": "1bd3b192be9ac504",
+      "title": "Steelers playoff picture: Updated chances for Pittsburgh to make 2025 NFL postseason in Week 16",
+      "link": "https://sports.yahoo.com/articles/steelers-playoff-picture-updated-chances-005935997.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T04:44:00+0000",
+      "summary": "Here is an updated look at the Steelers' chances to make the 2025 NFL postseason in Week 16."
+    },
+    {
+      "id": "359bc289ae305aa7",
+      "title": "Patriots clinch NFL playoff berth for first time since 2021",
+      "link": "https://sports.yahoo.com/articles/patriots-clinch-nfl-playoff-berth-043757088.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T04:37:57+0000",
+      "summary": "The Patriots are back in the postseason for the first time since 2021."
     },
     {
       "id": "775ead930777fc8f",
@@ -389,15 +371,6 @@
       "summary": "Richardson was placed on injured reserve with a fractured orbital bone in Week 7."
     },
     {
-      "id": "1dc2a92b92df8c5d",
-      "title": "Pair of NFL insiders weigh in on Philip Rivers performance from league buzz",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119434/pair-of-nfl-insiders-weigh-on-philip-rivers-performance-from-league-buzz",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-18T12:00:00+0000",
-      "summary": "According to ESPN NFL Insiders Jeremy Fowler and Dan Graziano, the feedback from league circles regarding unretired longtime veteran quarterback Philip Rivers’ first return performance in nearly five years was largely positive (relatively speaking) following this past Sunday’s tough road loss to the Seattle Seahawks: Fowler:&#160;The overall feedback was that he was reasonably good, all [&#8230;]"
-    },
-    {
       "id": "ad8896da1800b70e",
       "title": "Colts’ D did a lot of good against Seattle, just not quite enough",
       "link": "https://fox59.com/sports/colts/colts-d-did-a-lot-of-good-against-seattle-just-not-quite-enough/",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-12-15T14:11:20+0000",
       "summary": "The Indianapolis Colts lost a heartbreaker to one of the league's best teams after bringing Philip Rivers out of retirement to run the offense. Matt Adams recaps the game and laments a few missed opportunities. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
+    },
+    {
+      "id": "38d87105abfed10e",
+      "title": "Storybook ending failed to materialize as Colts, Philip Rivers came up short versus Seattle",
+      "link": "https://fox59.com/sports/colts/storybook-ending-failed-to-materialize-as-colts-philip-rivers-came-up-short-versus-seattle/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-15T04:51:33+0000",
+      "summary": "INDIANAPOLIS — Sometimes, and it’s rare, you can do almost everything right and still wind up with the wrong ending to a story. Like the Grandpa Phil Comeback narrative. Like the Indianapolis Colts dropping an 18-16 decision to the Seahawks Sunday in Seattle. They followed the only real script that made much sense with the [...]"
+    },
+    {
+      "id": "416593c1b8b9b4f5",
+      "title": "Where do Philip Rivers, Colts go for rest of 2025 season after loss to Seahawks?",
+      "link": "https://colts.com/news/where-do-philip-rivers-colts-go-for-rest-of-2025-season-after-loss-to-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-15T04:02:00+0000",
+      "summary": "The novelty of Philip Rivers' return to the NFL wore off when the clock hit zero at Lumen Field on Sunday. Now, the question becomes: Can the Colts actually pull this off over the final three weeks of the 2025 season?"
+    },
+    {
+      "id": "a88bdd234198eab9",
+      "title": "Philip Rivers grateful for chance to play again, but disappointed after Colts' loss to Seahawks: 'This isn't about me'",
+      "link": "https://colts.com/news/philip-rivers-grateful-for-chance-to-play-again-but-disappointed-after-colts-loss-to-seahawks-this-isn-t-about-me",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-15T02:44:48+0000",
+      "summary": "Philip Rivers threw career touchdown No. 422 and took every snap behind center for the Colts on Sunday, but he came away from his first game in nearly five years mainly disappointed in the outcome for his team."
     }
   ],
   "links": [
