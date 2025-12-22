@@ -1,14 +1,95 @@
 {
-  "updated": "2025-12-22T22:19:22+00:00",
+  "updated": "2025-12-22T22:44:17+00:00",
   "items": [
     {
-      "id": "1959bdc717c97751",
-      "title": "NFL franchise is leaving a historic stadium for a new venue in another state (UPDATE)",
-      "link": "https://sports.yahoo.com/articles/nfl-franchise-close-leaving-historic-204944880.html",
+      "id": "46577cf58bf16044",
+      "title": "NFL suspends Steelers WR DK Metcalf 2 games for altercation with Lions fan",
+      "link": "https://sports.yahoo.com/articles/nfl-suspends-steelers-wr-dk-223524891.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-22T22:01:58+0000",
-      "summary": "Legislators in one state are close to luring an NFL team away from its historic stadium in favor of a domed facility."
+      "published": "2025-12-22T22:35:24+0000",
+      "summary": "The NFL went way overboard with their punishment of Steelers wide receiver DK Metcalf after an altercation with a Lions fan."
+    },
+    {
+      "id": "d74b37497d8179fb",
+      "title": "NFL suspends DK Metcalf two games for interaction with fan",
+      "link": "https://sports.yahoo.com/articles/nfl-suspends-dk-metcalf-two-223246538.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:32:46+0000",
+      "summary": "Any appeal will be handled by the Commissioner or his designee, not a hearing officer."
+    },
+    {
+      "id": "423be9edf712691d",
+      "title": "NFL suspends Chargers LB Perryman two games",
+      "link": "https://espn.com/nfl/story/_/id/47391841/nfl-suspends-chargers-lb-denzel-perryman-two-games",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-22T22:30:24+0000",
+      "summary": "The NFL suspended Chargers LB Denzel Perryman two games cited repeated violations of player safety rules, including during Sunday's win over the Cowboys."
+    },
+    {
+      "id": "18ed893557d194af",
+      "title": "Metcalf suspended two games for fan altercation",
+      "link": "https://espn.com/nfl/story/_/id/47393000/steelers-dk-metcalf-suspended-two-games-fan-altercation",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-22T22:27:31+0000",
+      "summary": "The NFL has suspended Steelers wide receiver DK Metcalf for two games without pay due to his altercation with a fan at Ford Field on Sunday."
+    },
+    {
+      "id": "33a7e03ee9223955",
+      "title": "Chiefs' move to Kansas leaves Missouri fans heartbroken over another NFL franchise leaving",
+      "link": "https://sports.yahoo.com/articles/chiefs-move-kansas-leaves-missouri-222724945.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:27:24+0000",
+      "summary": "The state of Missouri is losing its third NFL franchise and the second in the past decade, and the decision by the Chiefs on Monday to depart their longtime home at Arrowhead Stadium for a new domed facility in Kansas may hurt the most.  The Chiefs announced their intention to move after Kansas lawmakers approved a bond package earlier in the day to help pay for the new facility.  It will be built near Kansas Speedway and a retail district known as The Legends in Kansas City, Kansas — only about 30 miles from Arrowhead Stadium, but a distance that has perhaps never felt so far."
+    },
+    {
+      "id": "1adb220f43cceaa6",
+      "title": "Why did the NFL suspend DK Metcalf? Steelers WR facing discipline for punching Lions fan",
+      "link": "https://sports.yahoo.com/articles/nfl-suspend-dk-metcalf-why-231344236.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:27:00+0000",
+      "summary": "The NFL took action against the Steelers' star receiver on Monday after his incident with a Lions fan in Week 16."
+    },
+    {
+      "id": "bad3f29414b9f3b0",
+      "title": "49ers vs Colts Predictions, Picks & Best Bets for Tonight's Monday Night Football Game",
+      "link": "https://sports.yahoo.com/articles/49ers-vs-colts-predictions-picks-110000031.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:26:00+0000",
+      "summary": "Get the best 49ers vs. Colts predictions and odds ahead of Week 16 Monday Night Football on December 22, 2025. Take the Over."
+    },
+    {
+      "id": "b2520cf05fa3fabd",
+      "title": "Who is the Lions fan that DK Metcalf punched? What to know about Ryan Kennedy and his history with Steelers WR",
+      "link": "https://sports.yahoo.com/articles/lions-fan-dk-metcalf-punched-171526230.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:26:00+0000",
+      "summary": "Here is more on the fan that Steelers WR DK Metcalf punched in Week 16 of the 2025 NFL season."
+    },
+    {
+      "id": "498269ed1d0dcda8",
+      "title": "Colts vs. 49ers: Live score, updates, highlights from Week 16",
+      "link": "https://sports.yahoo.com/articles/colts-vs-49ers-live-score-222314406.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:23:14+0000",
+      "summary": "Stay up to date here with everything that takes place in the Colts vs. 49ers Monday Night Football matchup."
+    },
+    {
+      "id": "37f35291f085ef8e",
+      "title": "NFL reveals how long DK Metcalf's suspension is after Steelers WR shoved Lions fan",
+      "link": "https://sports.yahoo.com/articles/nfl-reveals-long-dk-metcalfs-222309654.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T22:23:09+0000",
+      "summary": "Not ideal for Pittsburgh."
     },
     {
       "id": "edbfe3d3a22cac91",
@@ -20,42 +101,6 @@
       "summary": "It wasn’t so long ago that Jonathan Taylor was the front runner for Offensive Player of the Year and a sleeper pick for MVP despite being a Running Back. But the past month has done him no favors in his candidacy for either award. In his 4 games since the Bye Week, Taylor’s stats have [&#8230;]"
     },
     {
-      "id": "da57922055e51d4d",
-      "title": "Can Jonathan Taylor get back to form against the 49ers?",
-      "link": "https://sports.yahoo.com/articles/jonathan-taylor-back-form-against-220128480.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T22:01:28+0000",
-      "summary": "Can the Colts get their spark back in the run game this week? The stage is set for a big Jonathan Taylor workload, can he deliver?"
-    },
-    {
-      "id": "f9d36e19d6b49ea0",
-      "title": "Ask IndyStar's Joel A. Erickson anything about Monday's Colts, Rivers",
-      "link": "https://sports.yahoo.com/articles/ask-indystars-joel-erickson-anything-220038697.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T22:00:38+0000",
-      "summary": "Philip Rivers is back at quarterback. IndyStar's Joel A. Erickson answers your questions about Colts vs 49ers on Monday Night Football"
-    },
-    {
-      "id": "9f1fd217a1a9a42e",
-      "title": "49ers vs Colts Props & Best Bets for Tonight's Monday Night Football Game",
-      "link": "https://sports.yahoo.com/articles/49ers-vs-colts-props-best-110000429.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T22:00:00+0000",
-      "summary": "Our 49ers vs. Colts player props expect Josh Downs to be a major part of the Indy offense in Week 16. Free MNF props for Week 16."
-    },
-    {
-      "id": "aaa06cb8c6713f32",
-      "title": "What channel is Monday Night Football on today? 49ers vs. Colts odds",
-      "link": "https://sports.yahoo.com/articles/channel-monday-night-football-today-215219379.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T21:52:19+0000",
-      "summary": "The San Francisco 49ers, on a four-game winning streak, try to stay hot Monday night against an Indianapolis Colts team on a four-game losing streak."
-    },
-    {
       "id": "2231dc7f75c6d55e",
       "title": "Where to Watch: 49ers at Colts for MNF",
       "link": "https://stampedeblue.com/indianapolis-colts-news/119544/where-to-watch-49ers-at-colts-for-mnf",
@@ -63,15 +108,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-22T21:47:43+0000",
       "summary": "The Indianapolis Colts (8-6) host the San Francisco 49ers (10-4) on primetime (8:15 PM EST) trying to keep their late season playoff hopes alive. Having lost 5 of their last 6 games, it’s desperation time in Indy. Entering the evening, the Colts average the league’s 6th most points (28.0 avg. ppg.) and surrender its 13th [&#8230;]"
-    },
-    {
-      "id": "423be9edf712691d",
-      "title": "NFL suspends Chargers LB Perryman two games",
-      "link": "https://espn.com/nfl/story/_/id/47391841/nfl-suspends-chargers-lb-denzel-perryman-two-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-22T21:46:31+0000",
-      "summary": "The NFL suspended Chargers LB Denzel Perryman two games cited repeated violations of player safety rules, including during Sunday's win over the Cowboys."
     },
     {
       "id": "b5e8637f429953cb",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-15T04:51:33+0000",
       "summary": "INDIANAPOLIS — Sometimes, and it’s rare, you can do almost everything right and still wind up with the wrong ending to a story. Like the Grandpa Phil Comeback narrative. Like the Indianapolis Colts dropping an 18-16 decision to the Seahawks Sunday in Seattle. They followed the only real script that made much sense with the [...]"
-    },
-    {
-      "id": "416593c1b8b9b4f5",
-      "title": "Where do Philip Rivers, Colts go for rest of 2025 season after loss to Seahawks?",
-      "link": "https://colts.com/news/where-do-philip-rivers-colts-go-for-rest-of-2025-season-after-loss-to-seahawks",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T04:02:00+0000",
-      "summary": "The novelty of Philip Rivers' return to the NFL wore off when the clock hit zero at Lumen Field on Sunday. Now, the question becomes: Can the Colts actually pull this off over the final three weeks of the 2025 season?"
-    },
-    {
-      "id": "a88bdd234198eab9",
-      "title": "Philip Rivers grateful for chance to play again, but disappointed after Colts' loss to Seahawks: 'This isn't about me'",
-      "link": "https://colts.com/news/philip-rivers-grateful-for-chance-to-play-again-but-disappointed-after-colts-loss-to-seahawks-this-isn-t-about-me",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T02:44:48+0000",
-      "summary": "Philip Rivers threw career touchdown No. 422 and took every snap behind center for the Colts on Sunday, but he came away from his first game in nearly five years mainly disappointed in the outcome for his team."
-    },
-    {
-      "id": "ffc639bd3127ffc0",
-      "title": "Blake Grupe sets career high and Colts franchise record with 60-yard field goal",
-      "link": "https://colts.com/news/kicker-blake-grupe-new-career-high-colts-franchise-record-60-yard-field-goal-seahawks-week-15-philip-rivers-alec-pierce",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T02:22:38+0000",
-      "summary": "Grupe nailed a 60-yard field goal in the Colts' Week 15 game against the Seattle Seahawks on Sunday."
-    },
-    {
-      "id": "00adb796929718a4",
-      "title": "Seahawks spoil Rivers' return, pick up 18-16 win over Colts",
-      "link": "https://fox59.com/sports/colts/seahawks-survive-to-beat-colts-18-16-in-rivers-return/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-15T00:23:31+0000",
-      "summary": "INDIANAPOLIS — In one of the more improbable chapters in Indianapolis Colts' history, quarterback Philip Rivers returned from a five-year layoff to put the team in position to win, but kicker Jason Myers made a 56-yard field goal to lift the Seahawks to an 18-16 win on Sunday in Seattle. Colts' kicker Blake Grupe made [...]"
     }
   ],
   "links": [
