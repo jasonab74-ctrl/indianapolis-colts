@@ -1,23 +1,86 @@
 {
-  "updated": "2025-12-22T20:22:05+00:00",
+  "updated": "2025-12-22T20:43:57+00:00",
   "items": [
+    {
+      "id": "6d5cc2508fdbc126",
+      "title": "Chargers lose key defender for two games",
+      "link": "https://sports.yahoo.com/articles/chargers-lose-key-defender-two-202901714.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:29:01+0000",
+      "summary": "Chargers linebacker Denzel Perryman has been given a two-game suspension by the NFL for repeated violations of player safety rules."
+    },
+    {
+      "id": "71e4b3e21557ae8f",
+      "title": "Texas A&M starting CB expected to declare for the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/texas-m-starting-cb-expected-202702684.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:27:02+0000",
+      "summary": "Texas A&amp;M senior cornerback Will Lee III is expected to declare for the 2026 NFL Draft, instead of seeking extra eligibility."
+    },
+    {
+      "id": "e64fbcbc4e8764b3",
+      "title": "2025 Christmas Day NFL betting, odds: Kansas City Chiefs are largest home underdogs since 1977 vs. Broncos",
+      "link": "https://sports.yahoo.com/nfl/betting/article/2025-christmas-day-nfl-betting-odds-kansas-city-chiefs-are-largest-home-underdogs-since-1977-vs-broncos-202657237.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:26:57+0000",
+      "summary": "The Chiefs are historic home underdogs on Christmas against the Broncos."
+    },
+    {
+      "id": "3050477a79c2d45d",
+      "title": "The Vikings Are Knocking on the Door of NFL History",
+      "link": "https://sports.yahoo.com/articles/vikings-knocking-door-nfl-history-202200798.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:22:00+0000",
+      "summary": "Somehow — some way — the Minnesota Vikings are knocking on the door of NFL history with a key defensive [&#8230;]"
+    },
+    {
+      "id": "c32e847db3e4e1ff",
+      "title": "Does Malik Willis deserve shot to be NFL starter? | Question of the week",
+      "link": "https://sports.yahoo.com/articles/does-malik-willis-deserve-shot-202132153.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:21:32+0000",
+      "summary": "We're asking Green Bay Packers fans to weigh in on backup quarterback Malik Willis and his future in the NFL in our question of the week."
+    },
+    {
+      "id": "999cce4cc5337c0c",
+      "title": "Philip Rivers' family, kids get key health insurance benefit from Colts QB's comeback from retirement",
+      "link": "https://sports.yahoo.com/articles/philip-rivers-family-kids-key-202109326.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:21:09+0000",
+      "summary": "Rivers is extending the clock."
+    },
+    {
+      "id": "a64ba526419d1085",
+      "title": "Bill Belichick Set to Hire Former NFL Head Coach in Prominent Role",
+      "link": "https://sports.yahoo.com/articles/bill-belichick-set-hire-former-202051990.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T20:20:51+0000",
+      "summary": "After one failed season as the North Carolina Tar Heels&#8217; head coach, leading them to a 4-8 record, there was [&#8230;]"
+    },
+    {
+      "id": "5b1fa551db428a61",
+      "title": "Kansas approves proposal for new Chiefs stadium",
+      "link": "https://espn.com/nfl/story/_/id/47391840/kansas-lawmakers-approve-proposal-help-chiefs-build-new-stadium",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-22T20:18:40+0000",
+      "summary": "Kansas lawmakers approved a proposal Monday to help pay for a new stadium for the Chiefs, which is expected to lure one of the NFL's iconic franchises across the state line from Missouri and replace popular but aging Arrowhead Stadium."
+    },
     {
       "id": "423be9edf712691d",
       "title": "NFL suspends Chargers LB Perryman two games",
       "link": "https://espn.com/nfl/story/_/id/47391841/nfl-suspends-chargers-lb-denzel-perryman-two-games",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-22T20:15:45+0000",
+      "published": "2025-12-22T20:18:39+0000",
       "summary": "The NFL suspended Chargers LB Denzel Perryman two games cited repeated violations of player safety rules, including during Sunday's win over the Cowboys."
-    },
-    {
-      "id": "bb1db16ebeba95b1",
-      "title": "Chargers LB Denzel Perryman suspended for repeat safety violations",
-      "link": "https://sports.yahoo.com/articles/chargers-lb-denzel-perryman-suspended-195658825.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T19:56:58+0000",
-      "summary": "Chargers linebacker Denzel Perryman has been suspended for two games by the NFL after his latest player safety violation."
     },
     {
       "id": "3883c48140695091",
@@ -119,18 +182,18 @@
       "summary": "The Indianapolis Colts announced on Sunday that starting left tackle Bernhard Raimann (elbow) has been downgraded from questionable to out for Monday Night football’s home game against the San Francisco 49ers. Raimann was able to practice on a limited basis on Saturday for the first time all week, with an arm brace on his injured [&#8230;]"
     },
     {
-      "id": "6088ee5b1a27f394",
+      "id": "cece5ea0404395e2",
       "title": "Niners at Colts: What to watch for",
-      "link": "https://fox59.com/sports/niners-at-colts-what-to-watch-for/",
+      "link": "https://fox59.com/sports/colts/niners-at-colts-what-to-watch-for/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-12-21T23:14:56+0000",
       "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Monday night meeting with the San Francisco 49ers at Lucas Oil Stadium. History lesson, Part I The Colts lead the overall series 27-18, although the bulk of the series predates their relocation to Indy. Since the move in 1984, they’ve met just 10 times, with the [...]"
     },
     {
-      "id": "d44ca6de440af3d4",
+      "id": "04ccd23a463ea997",
       "title": "Roof closed as Colts host 49ers for MNF",
-      "link": "https://fox59.com/sports/roof-closed-as-colts-host-49ers-for-mnf/",
+      "link": "https://fox59.com/sports/colts/roof-closed-as-colts-host-49ers-for-mnf/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2025-12-21T19:48:04+0000",
@@ -477,69 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-15T04:02:00+0000",
       "summary": "The novelty of Philip Rivers' return to the NFL wore off when the clock hit zero at Lumen Field on Sunday. Now, the question becomes: Can the Colts actually pull this off over the final three weeks of the 2025 season?"
-    },
-    {
-      "id": "a88bdd234198eab9",
-      "title": "Philip Rivers grateful for chance to play again, but disappointed after Colts' loss to Seahawks: 'This isn't about me'",
-      "link": "https://colts.com/news/philip-rivers-grateful-for-chance-to-play-again-but-disappointed-after-colts-loss-to-seahawks-this-isn-t-about-me",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T02:44:48+0000",
-      "summary": "Philip Rivers threw career touchdown No. 422 and took every snap behind center for the Colts on Sunday, but he came away from his first game in nearly five years mainly disappointed in the outcome for his team."
-    },
-    {
-      "id": "ffc639bd3127ffc0",
-      "title": "Blake Grupe sets career high and Colts franchise record with 60-yard field goal",
-      "link": "https://colts.com/news/kicker-blake-grupe-new-career-high-colts-franchise-record-60-yard-field-goal-seahawks-week-15-philip-rivers-alec-pierce",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T02:22:38+0000",
-      "summary": "Grupe nailed a 60-yard field goal in the Colts' Week 15 game against the Seattle Seahawks on Sunday."
-    },
-    {
-      "id": "00adb796929718a4",
-      "title": "Seahawks spoil Rivers' return, pick up 18-16 win over Colts",
-      "link": "https://fox59.com/sports/colts/seahawks-survive-to-beat-colts-18-16-in-rivers-return/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-15T00:23:31+0000",
-      "summary": "INDIANAPOLIS — In one of the more improbable chapters in Indianapolis Colts' history, quarterback Philip Rivers returned from a five-year layoff to put the team in position to win, but kicker Jason Myers made a 56-yard field goal to lift the Seahawks to an 18-16 win on Sunday in Seattle. Colts' kicker Blake Grupe made [...]"
-    },
-    {
-      "id": "bee434c2e77983c8",
-      "title": "Philip Rivers' comeback effort ends with Seahawks' last-second field goal in Colts' loss",
-      "link": "https://colts.com/news/philip-rivers-comeback-efforts-ends-with-seahawks-last-second-field-goal-in-colts-loss",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T00:22:05+0000",
-      "summary": "The Colts lost their fourth consecutive game, 18-16, to the Seattle Seahawks on Sunday at Lumen Field."
-    },
-    {
-      "id": "d660c5857a49c78b",
-      "title": "Colts announce 7 inactive players for Week 15 game against Seattle Seahawks",
-      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-15-game-against-seattle-seahawks",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-14T19:55:10+0000",
-      "summary": "The Colts on Friday ruled out cornerback Sauce Gardner (calf), wide receiver Anthony Gould (foot) and tackle Braden Smith (concussion/neck) while defensive tackle DeForest Buckner (neck) remains on injured reserve."
-    },
-    {
-      "id": "528a3ddb8acf4581",
-      "title": "Keys to the Game: Colts at Seahawks",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-seahawks/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-14T17:39:21+0000",
-      "summary": "INDIANAPOLIS - The Colts season has been spiraling over the last month. They've lost three games in a row and starting quarterback Daniel Jones to a season-ending Achilles injury. They'll bring 44-year-old Philip Rivers out of retirement today against the Seahawks to try to stop the skid and put the team back in the AFC [...]"
-    },
-    {
-      "id": "df7d8281e29cf81e",
-      "title": "Sideline to Sideline: Biggest Influence",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-biggest-influence/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-14T17:30:53+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question about their time in football. Today, Chris asks the players who their biggest influence has been in their careers."
     }
   ],
   "links": [
