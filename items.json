@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-22T05:46:42+00:00",
+  "updated": "2025-12-22T06:33:48+00:00",
   "items": [
     {
       "id": "24f530f4678741f4",
@@ -9,6 +9,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-22T05:26:41+0000",
       "summary": "Matt Harmon and Chris Allen provide instant fantasy analysis to all the action from Week 16 in the NFL. The two place games in three fantasy buckets: Games we care about the most, games we sort of care about and games that could have been an email."
+    },
+    {
+      "id": "c5fa5420c2c19ef8",
+      "title": "NFL power rankings: Seahawks edge Patriots for new No. 1; Jaguars, Bears also rise; Packers fade for Week 17",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-seahawks-edge-052434525.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-22T05:24:34+0000",
+      "summary": "How do all 32 teams in the NFL stack up against each other coming out of Week 16 of the 2025 NFL regular season? Here's an updated look from best to worst."
     },
     {
       "id": "597e10ae80df9b87",
@@ -47,15 +56,6 @@
       "summary": "Here's your guide to this week's &quot;Monday Night Football&quot; matchup, including how to watch."
     },
     {
-      "id": "2ec375e110ab7bc6",
-      "title": "Taysom Hill’s potentially last home game with Saints ended with another history-making effort",
-      "link": "https://sports.yahoo.com/articles/taysom-hill-potentially-last-home-050400178.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T05:04:00+0000",
-      "summary": "The 9-year NFL veteran provided a major spark for New Orleans in its win over the Jets."
-    },
-    {
       "id": "847f2a46c3d0a95f",
       "title": "Our reporters make sense of Week 16: Statement wins for Patriots, Jaguars, Panthers, Steelers, Bears",
       "link": "https://espn.com/nfl/story/_/id/47325576/nfl-week-16-2025-season-questions-takeaways-lessons-stats-recap-every-game",
@@ -72,69 +72,6 @@
       "feed": "ESPN",
       "published": "2025-12-22T04:59:17+0000",
       "summary": "Did lopsided loss expose Denver? Should Bowles be done? We overreact to Week 16, plus fantasy takes."
-    },
-    {
-      "id": "6dc44ecbc2c23a9d",
-      "title": "Detroit Lions stoic after devastating finish vs Steelers: 'It's on us'",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-stoic-devastating-finish-045703274.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:57:03+0000",
-      "summary": "The Detroit Lions have a 8% chance to make the postseason, according to NFL Next Gen Stats. They need to win their final two games and get help."
-    },
-    {
-      "id": "3fb212bbf824498a",
-      "title": "Detroit Lions stoic after devastating finish vs Steelers: 'It's on us'",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-stoic-devastating-finish-045703928.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:57:03+0000",
-      "summary": "The Detroit Lions have a 8% chance to make the postseason, according to NFL Next Gen Stats. They need to win their final two games and get help."
-    },
-    {
-      "id": "93747c3b18ef5d63",
-      "title": "Bills playoff picture: Updated chances for Buffalo to make 2025 NFL postseason in Week 16",
-      "link": "https://sports.yahoo.com/articles/bills-playoff-picture-updated-chances-213756644.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:57:00+0000",
-      "summary": "Here's how the Bills' road to the playoffs looks after Week 16."
-    },
-    {
-      "id": "796b15e2a0570af0",
-      "title": "Chargers playoff picture: Updated chances for Los Angeles to make 2025 NFL postseason in Week 16",
-      "link": "https://sports.yahoo.com/articles/chargers-playoff-picture-updated-chances-211734192.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:54:00+0000",
-      "summary": "All you need to know about the Chargers' playoff chances after a win in Dallas."
-    },
-    {
-      "id": "4ba367e54ff4daed",
-      "title": "Colts will be without their blindside bookend for MNF",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119521/colts-will-be-without-their-blindside-bookend-for-mnf",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-22T04:53:46+0000",
-      "summary": "The Indianapolis Colts announced on Sunday that starting left tackle Bernhard Raimann (elbow) has been downgraded from questionable to out for Monday Night football’s home game against the San Francisco 49ers. Raimann was able to practice on a limited basis on Saturday for the first time all week, with an arm brace on his injured [&#8230;]"
-    },
-    {
-      "id": "ebfd4cbd5e0f3cce",
-      "title": "Colts will be without their blindside bookend for MNF",
-      "link": "https://sports.yahoo.com/articles/colts-without-blindside-bookend-mnf-045346664.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:53:46+0000",
-      "summary": "It’s not necessarily surprising, but it doesn’t mean that Raimann’s absence won’t be any less felt."
-    },
-    {
-      "id": "fc5b5c2297054073",
-      "title": "Texans playoff picture: Updated chances for Houston to make 2025 NFL postseason after Week 16 win over Raiders",
-      "link": "https://sports.yahoo.com/articles/texans-playoff-picture-updated-chances-002728546.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-22T04:51:00+0000",
-      "summary": "The Texans are moving closer to a playoff return."
     },
     {
       "id": "775ead930777fc8f",
@@ -389,6 +326,15 @@
       "summary": "Richardson was placed on injured reserve with a fractured orbital bone in Week 7."
     },
     {
+      "id": "1dc2a92b92df8c5d",
+      "title": "Pair of NFL insiders weigh in on Philip Rivers performance from league buzz",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119434/pair-of-nfl-insiders-weigh-on-philip-rivers-performance-from-league-buzz",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-18T12:00:00+0000",
+      "summary": "According to ESPN NFL Insiders Jeremy Fowler and Dan Graziano, the feedback from league circles regarding unretired longtime veteran quarterback Philip Rivers’ first return performance in nearly five years was largely positive (relatively speaking) following this past Sunday’s tough road loss to the Seattle Seahawks: Fowler:&#160;The overall feedback was that he was reasonably good, all [&#8230;]"
+    },
+    {
       "id": "ad8896da1800b70e",
       "title": "Colts’ D did a lot of good against Seattle, just not quite enough",
       "link": "https://fox59.com/sports/colts/colts-d-did-a-lot-of-good-against-seattle-just-not-quite-enough/",
@@ -540,6 +486,60 @@
       "feed": "CBS4Indy",
       "published": "2025-12-15T04:51:33+0000",
       "summary": "INDIANAPOLIS — Sometimes, and it’s rare, you can do almost everything right and still wind up with the wrong ending to a story. Like the Grandpa Phil Comeback narrative. Like the Indianapolis Colts dropping an 18-16 decision to the Seahawks Sunday in Seattle. They followed the only real script that made much sense with the [...]"
+    },
+    {
+      "id": "416593c1b8b9b4f5",
+      "title": "Where do Philip Rivers, Colts go for rest of 2025 season after loss to Seahawks?",
+      "link": "https://colts.com/news/where-do-philip-rivers-colts-go-for-rest-of-2025-season-after-loss-to-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-15T04:02:00+0000",
+      "summary": "The novelty of Philip Rivers' return to the NFL wore off when the clock hit zero at Lumen Field on Sunday. Now, the question becomes: Can the Colts actually pull this off over the final three weeks of the 2025 season?"
+    },
+    {
+      "id": "a88bdd234198eab9",
+      "title": "Philip Rivers grateful for chance to play again, but disappointed after Colts' loss to Seahawks: 'This isn't about me'",
+      "link": "https://colts.com/news/philip-rivers-grateful-for-chance-to-play-again-but-disappointed-after-colts-loss-to-seahawks-this-isn-t-about-me",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-15T02:44:48+0000",
+      "summary": "Philip Rivers threw career touchdown No. 422 and took every snap behind center for the Colts on Sunday, but he came away from his first game in nearly five years mainly disappointed in the outcome for his team."
+    },
+    {
+      "id": "ffc639bd3127ffc0",
+      "title": "Blake Grupe sets career high and Colts franchise record with 60-yard field goal",
+      "link": "https://colts.com/news/kicker-blake-grupe-new-career-high-colts-franchise-record-60-yard-field-goal-seahawks-week-15-philip-rivers-alec-pierce",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-15T02:22:38+0000",
+      "summary": "Grupe nailed a 60-yard field goal in the Colts' Week 15 game against the Seattle Seahawks on Sunday."
+    },
+    {
+      "id": "00adb796929718a4",
+      "title": "Seahawks spoil Rivers' return, pick up 18-16 win over Colts",
+      "link": "https://fox59.com/sports/colts/seahawks-survive-to-beat-colts-18-16-in-rivers-return/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-15T00:23:31+0000",
+      "summary": "INDIANAPOLIS — In one of the more improbable chapters in Indianapolis Colts' history, quarterback Philip Rivers returned from a five-year layoff to put the team in position to win, but kicker Jason Myers made a 56-yard field goal to lift the Seahawks to an 18-16 win on Sunday in Seattle. Colts' kicker Blake Grupe made [...]"
+    },
+    {
+      "id": "bee434c2e77983c8",
+      "title": "Philip Rivers' comeback effort ends with Seahawks' last-second field goal in Colts' loss",
+      "link": "https://colts.com/news/philip-rivers-comeback-efforts-ends-with-seahawks-last-second-field-goal-in-colts-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-15T00:22:05+0000",
+      "summary": "The Colts lost their fourth consecutive game, 18-16, to the Seattle Seahawks on Sunday at Lumen Field."
+    },
+    {
+      "id": "d660c5857a49c78b",
+      "title": "Colts announce 7 inactive players for Week 15 game against Seattle Seahawks",
+      "link": "https://colts.com/news/colts-announce-7-inactive-players-for-week-15-game-against-seattle-seahawks",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-14T19:55:10+0000",
+      "summary": "The Colts on Friday ruled out cornerback Sauce Gardner (calf), wide receiver Anthony Gould (foot) and tackle Braden Smith (concussion/neck) while defensive tackle DeForest Buckner (neck) remains on injured reserve."
     }
   ],
   "links": [
