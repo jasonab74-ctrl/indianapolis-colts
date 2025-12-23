@@ -1,6 +1,60 @@
 {
-  "updated": "2025-12-23T22:42:38+00:00",
+  "updated": "2025-12-23T23:18:12+00:00",
   "items": [
+    {
+      "id": "6b66e9b4988fbdc0",
+      "title": "2026 NFL Draft scouting report: T.J. Hall, Cornerback, Iowa",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-230925089.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-23T23:09:25+0000",
+      "summary": "Another cornerback report is live as we look at Iowa's T.J. Hall."
+    },
+    {
+      "id": "18ed893557d194af",
+      "title": "Metcalf suspended two games for fan altercation",
+      "link": "https://espn.com/nfl/story/_/id/47393000/steelers-dk-metcalf-suspended-two-games-fan-altercation",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-23T23:03:34+0000",
+      "summary": "The NFL has suspended Steelers wide receiver DK Metcalf for two games without pay due to his altercation with a fan at Detroit's Ford Field on Sunday."
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "🏈 Playoff picture projections: The updated odds",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-23T23:03:33+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "ccb25756afbd680f",
+      "title": "Colts' late-season collapse puts them on cusp of missing playoffs",
+      "link": "https://sports.yahoo.com/articles/colts-season-collapse-puts-them-230150174.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-23T23:01:50+0000",
+      "summary": "Philip Rivers gave the Indianapolis Colts a chance Monday night.  After a 48-27 loss to San Francisco, Colts coach Shane Steichen struggled to explain how his team allowed the 49ers to score so many points, accumulate 440 yards and never force a punt in a home game Indy desperately needed to win.  Instead, it's simply the next chapter in a late-season collapse that has left Indy's once-promising playoffs floundering."
+    },
+    {
+      "id": "b62566f2ef8af597",
+      "title": "2026 NFL Pro Bowl AFC, NFC rosters: The league's top players",
+      "link": "https://espn.com/nfl/story/_/id/47391530/2026-nfl-pro-bowl-afc-nfc-players-teams-watch",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-23T23:01:19+0000",
+      "summary": "The Ravens, Broncos, 49ers and Seahawks each had six players chosen to lead the way."
+    },
+    {
+      "id": "ccb686d405df5645",
+      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
+      "link": "https://espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-23T23:01:14+0000",
+      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?"
+    },
     {
       "id": "1298489606c35769",
       "title": "Updated NFL Power Rankings: New 1-32 poll, plus each team's rookie of the year",
@@ -11,58 +65,13 @@
       "summary": "Let's update our rankings ahead of Week 17. We also looked at the best rookies from all 32 teams."
     },
     {
-      "id": "4b97d36111fe6e25",
-      "title": "2026 NFL Draft scouting report: Chris Johnson, CB, San Diego State",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-222711793.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T22:27:11+0000",
-      "summary": "The latest report from our site is on San Diego State's Chris Johnson after a strong 2025 season."
-    },
-    {
-      "id": "963c8baa629616bc",
-      "title": "George Kittle injury update: 49ers TE gets injury diagnosis from ESPN insider",
-      "link": "https://sports.yahoo.com/articles/george-kittle-injury-49ers-te-222442587.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T22:24:42+0000",
-      "summary": "San Francisco 49ers tight end George Kittle has received an injury diagnosis after leaving the San Francisco 49ers' Week 16 win over the Indianapolis Colts early."
-    },
-    {
-      "id": "ed78d5f899c32ee8",
-      "title": "Seahawks Reacts Survey, Week 17: A Seahawks holiday confidence check-in!",
-      "link": "https://sports.yahoo.com/articles/seahawks-reacts-survey-week-17-222438629.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T22:24:38+0000",
-      "summary": "The Seahawks are tied for the best record in the NFL. Is that enough to have you confident in the direction of the franchise?"
-    },
-    {
-      "id": "e042ab2ff246a21b",
-      "title": "49ers avoided disaster with George Kittle's injury",
-      "link": "https://sports.yahoo.com/articles/49ers-avoided-disaster-george-kittles-222312654.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T22:23:12+0000",
-      "summary": "The San Francisco 49ers may have to navigate a couple of games without one of their superstars, but he avoided a longer-term injury vs. the Colts."
-    },
-    {
-      "id": "f703ca697d7fad32",
-      "title": "Ashton Jeanty’s stats provides optimism for Las Vegas Raiders in Week 17 NFL Power Rankings",
-      "link": "https://sports.yahoo.com/articles/ashton-jeanty-stats-provides-optimism-222100023.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T22:21:00+0000",
-      "summary": "Still a bottom feeder in the league, the rookie’s big day gives Raiders more hope for future"
-    },
-    {
-      "id": "cc836ff32b24e4ea",
+      "id": "200e8095b0331d2b",
       "title": "Colts’ Week 16 QB Analysis: One last glimpse of the footabll we’ve lost.",
-      "link": "https://sports.yahoo.com/articles/colts-week-16-qb-analysis-221721190.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
+      "link": "https://stampedeblue.com/nfl-analysis-play-breakdowns/119655/colts-week-16-qb-analysis-one-last-glimpse-of-the-footabll-weve-lost",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2025-12-23T22:17:21+0000",
-      "summary": "Thanks to the nflFastR project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the Colts’ QB performed. Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the […]"
+      "summary": "Thanks to the&#160;nflFastR&#160;project, Pro Football Focus and NFL NextGen Stats for the timely sources of data. For those of you new to this, I will publish key QB stats each week judging how well the&#160;Colts’ QB performed.&#160;Yes, O-Line, receivers, and play-calling impact these numbers but they are primarily QB measures. I will probably modify the [&#8230;]"
     },
     {
       "id": "ec1a52b1a8e93971",
@@ -90,42 +99,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-23T20:47:13+0000",
       "summary": "According to head coach Shane Steichen, the Indianapolis Colts (8-7) will continue to start 44-year-old starting quarterback Philip Rivers against the Jacksonville Jaguars (11-4) at home this week—even after dropping two in a row, and their playoff hopes currently on life support (per The Athletic’s James Boyd). While the Colts remain winless with Rivers through [&#8230;]"
-    },
-    {
-      "id": "5a9ed542da45a36f",
-      "title": "Purdy authors 'close to a perfect game' with 5 TDs",
-      "link": "https://espn.com/nfl/story/_/id/47396468/brock-purdy-5-touchdowns-passes-49ers-improve-11-4",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-23T20:27:05+0000",
-      "summary": "With 44-year-old Colts quarterback Philip Rivers and his comeback occupying most of the headlines entering Monday's game, it was Brock Purdy who stole the show, throwing five touchdown passes in leading San Francisco to a 48-27 win at Lucas Oil Stadium."
-    },
-    {
-      "id": "18ed893557d194af",
-      "title": "Metcalf suspended two games for fan altercation",
-      "link": "https://espn.com/nfl/story/_/id/47393000/steelers-dk-metcalf-suspended-two-games-fan-altercation",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-23T20:27:05+0000",
-      "summary": "The NFL has suspended Steelers wide receiver DK Metcalf for two games without pay due to his altercation with a fan at Detroit's Ford Field on Sunday."
-    },
-    {
-      "id": "2c820a19dcad7718",
-      "title": "Rivers turns back clock but can't will Colts to win",
-      "link": "https://espn.com/nfl/story/_/id/47396563/philip-rivers-turns-back-clock-does-part-colts-humbled-loss-49ers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-23T20:27:05+0000",
-      "summary": "Newly unretired Philip Rivers turned in an impressive individual performance Monday night that saw him throw for 277 yards and two touchdowns. But it wasn't enough to deliver the Colts a win against the 49ers as Indianapolis saw its playoff hopes fade."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏈 Playoff picture projections: The updated odds",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-23T20:27:05+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
       "id": "cf78cc0c06a65d87",
@@ -164,15 +137,6 @@
       "summary": "The Colts' playoff odds are slim entering Week 17, but they're not eliminated yet."
     },
     {
-      "id": "ccb686d405df5645",
-      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
-      "link": "https://espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-23T18:40:38+0000",
-      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?"
-    },
-    {
       "id": "e2b805a3369ed486",
       "title": "What needs to happen for the Colts to make the playoffs? Here is your NFL rooting guide:",
       "link": "https://fox59.com/sports/colts/what-needs-to-happen-for-the-colts-to-make-the-playoffs-here-is-your-nfl-rooting-guide/",
@@ -189,15 +153,6 @@
       "feed": "ESPN",
       "published": "2025-12-23T16:35:02+0000",
       "summary": "Will the Broncos hold off the Patriots in the AFC? Can the Seahawks stay ahead of the Rams in the NFC?"
-    },
-    {
-      "id": "b62566f2ef8af597",
-      "title": "2026 NFL Pro Bowl AFC, NFC rosters: The league's top players",
-      "link": "https://espn.com/nfl/story/_/id/47391530/2026-nfl-pro-bowl-afc-nfc-players-teams-watch",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-23T16:29:27+0000",
-      "summary": "The Ravens, Broncos, 49ers and Seahawks each had six players chosen to lead the way."
     },
     {
       "id": "2202c72c8509cdd5",
@@ -315,15 +270,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-23T04:53:37+0000",
       "summary": "The desperate Indianapolis Colts (8-7) were fighting for their increasingly slim playoff odds, but if you want to blame someone after falling to the San Francisco 49ers (11-4), 48-27, on Monday Night Football, don’t blame grizzled veteran Philip Rivers (i.e., ‘Grandpa Phil’). The 44-year-old longtime veteran quarterback, who shockingly unretired two weeks ago and had [&#8230;]"
-    },
-    {
-      "id": "812453621d437c88",
-      "title": "Colts playoff picture: What Week 16 vs. 49ers means for AFC standings",
-      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/119390/nfl-playoff-picture-vs-san-francisco-49ers-week-16-afc-standings-wild-card-seeding-tiebreakers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-23T04:24:44+0000",
-      "summary": "Game result: The Colts came up short against the 49ers and dropped to 8-7 with the loss. They are officially eliminated from AFC South contention, but remain alive in the wild card race. They are two games back of the Texans. The Colts host the Jaguars and travel to face the Texans the final two [&#8230;]"
     },
     {
       "id": "f924fa7195d90dd5",
@@ -540,6 +486,60 @@
       "feed": "Colts.com",
       "published": "2025-12-18T16:34:44+0000",
       "summary": "Richardson was placed on injured reserve with a fractured orbital bone in Week 7."
+    },
+    {
+      "id": "ad8896da1800b70e",
+      "title": "Colts’ D did a lot of good against Seattle, just not quite enough",
+      "link": "https://fox59.com/sports/colts/colts-d-did-a-lot-of-good-against-seattle-just-not-quite-enough/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-17T22:36:15+0000",
+      "summary": "INDIANAPOLIS – There were so many winnable defensive stats. A few more were needed. In Sunday’s 18-16 loss at Seattle, the Indianapolis Colts’ defense kept Sam Darnold and the Seahawk’s potent offense – No. 2 in scoring (29.8) – out of the end zone for the first time this season, limited their run game to [...]"
+    },
+    {
+      "id": "ca1bdf705ba48ee0",
+      "title": "Colts offense sees more for Philip Rivers after Week 15 performance",
+      "link": "https://colts.com/news/colts-offense-confidence-philip-rivers-starting-quarterback-jim-bob-cooter-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-17T19:56:54+0000",
+      "summary": "Head coach Shane Steichen on Monday confirmed Rivers would be the Colts' starting quarterback against the San Francisco 49ers."
+    },
+    {
+      "id": "ad9a3b5cb301b7ce",
+      "title": "How Colts could kick off vs. 49ers controlling AFC playoff destiny",
+      "link": "https://colts.com/news/how-colts-could-kick-off-vs-49ers-controlling-afc-playoff-destiny",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-17T18:04:26+0000",
+      "summary": "Despite losing their last four games, the 8-6 Colts still have a chance to make the playoffs. Here's what the team is staring down over the final three weeks of the 2025 regular season:"
+    },
+    {
+      "id": "d272a4a253c0118f",
+      "title": "'Indiana Nights' to take center stage for 'Monday Night Football' in Indy",
+      "link": "https://colts.com/news/indiana-nights-uniform-alternate-san-francisco-49ers-monday-night-football-lucas-oil-stadium-nfl-week-16-december-22-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-17T15:00:00+0000",
+      "summary": "The Indianapolis Colts will celebrate “Indiana Nights” and wear their “Indiana Nights” alternate uniform when they host a Monday Night Football matchup with the San Francisco 49ers at Lucas Oil Stadium on Dec. 22."
+    },
+    {
+      "id": "837dc98250cfdd1e",
+      "title": "Colts sign G LaDarius Henderson, G Bill Murray, T Zach Thomas to practice squad",
+      "link": "https://colts.com/news/colts-sign-g-ladarius-henderson-g-bill-murray-t-zach-thomas-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-16T21:51:32+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
+    },
+    {
+      "id": "54aecdf63553953b",
+      "title": "Colts release unofficial depth chart for Week 16 game vs. San Francisco 49ers",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-week-16-game-san-francisco-49ers-philip-rivers-riley-leonard",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-16T19:58:03+0000",
+      "summary": "The Colts released their Week 16 unofficial depth chart ahead of their game against the San Francisco 49ers Monday at Lucas Oil Stadium. Check it out below:"
     }
   ],
   "links": [
