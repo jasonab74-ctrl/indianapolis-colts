@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-23T11:18:09+00:00",
+  "updated": "2025-12-23T11:40:00+00:00",
   "items": [
+    {
+      "id": "3d9aac8742b4a9fe",
+      "title": "NFL Week 17 schedule rankings and predictions",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-schedule-rankings-113037418.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-23T11:30:37+0000",
+      "summary": "What are some of the best and worst games in the next to last week of the regular season?"
+    },
     {
       "id": "f5acdae5d279ddb4",
       "title": "NFL receiving yardage leaders entering Week 17",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-15T04:51:33+0000",
       "summary": "INDIANAPOLIS — Sometimes, and it’s rare, you can do almost everything right and still wind up with the wrong ending to a story. Like the Grandpa Phil Comeback narrative. Like the Indianapolis Colts dropping an 18-16 decision to the Seahawks Sunday in Seattle. They followed the only real script that made much sense with the [...]"
-    },
-    {
-      "id": "416593c1b8b9b4f5",
-      "title": "Where do Philip Rivers, Colts go for rest of 2025 season after loss to Seahawks?",
-      "link": "https://colts.com/news/where-do-philip-rivers-colts-go-for-rest-of-2025-season-after-loss-to-seahawks",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-15T04:02:00+0000",
-      "summary": "The novelty of Philip Rivers' return to the NFL wore off when the clock hit zero at Lumen Field on Sunday. Now, the question becomes: Can the Colts actually pull this off over the final three weeks of the 2025 season?"
     }
   ],
   "links": [
