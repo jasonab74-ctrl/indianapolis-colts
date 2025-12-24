@@ -1,14 +1,86 @@
 {
-  "updated": "2025-12-23T23:39:41+00:00",
+  "updated": "2025-12-24T01:37:53+00:00",
   "items": [
     {
-      "id": "18ed893557d194af",
-      "title": "Metcalf suspended two games for fan altercation",
-      "link": "https://espn.com/nfl/story/_/id/47393000/steelers-dk-metcalf-suspended-two-games-fan-altercation",
+      "id": "9104dcdc0f10146e",
+      "title": "College Football Playoff games with Group of Five teams, NFL overlap drew significantly less viewership in first round",
+      "link": "https://sports.yahoo.com/college-football/article/college-football-playoff-games-with-group-of-five-teams-nfl-overlap-drew-significantly-less-viewership-in-first-round-012116951.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T01:21:16+0000",
+      "summary": "Ole Miss and Oregon coasted to victory in the opening round of the CFP while a pair of NFL regular-season games took place on Saturday."
+    },
+    {
+      "id": "24cf0736c71864e0",
+      "title": "DK Metcalf’s suspension upheld by NFL",
+      "link": "https://sports.yahoo.com/articles/dk-metcalf-suspension-upheld-nfl-011418536.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T01:14:18+0000",
+      "summary": "The Pittsburgh Steelers wide receiver will be suspended for two games."
+    },
+    {
+      "id": "e51bab3f289f55ed",
+      "title": "Former Bengals QB claimed by Vikings on waiver wire",
+      "link": "https://sports.yahoo.com/articles/former-bengals-qb-claimed-vikings-011020107.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T01:10:20+0000",
+      "summary": "A former Bengals player is on the move around the NFL."
+    },
+    {
+      "id": "f6af44c7cb2ce9d2",
+      "title": "D’Ernest Johnson Reacts To Patriots’ Stunning Return To The Playoffs",
+      "link": "https://sports.yahoo.com/articles/d-ernest-johnson-reacts-patriots-010048050.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T01:00:48+0000",
+      "summary": "New England Patriots running back D’Ernest Johnson reacts to the team’s stunning return to the NFL playoffs."
+    },
+    {
+      "id": "b36fb0f56d6ff636",
+      "title": "Is Kyle Shanahan the Coach of the Year? + MNF Reaction & Playoff Projections",
+      "link": "https://sports.yahoo.com/nfl/article/is-kyle-shanahan-the-coach-of-the-year--mnf-reaction--playoff-projections-005955122.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T00:59:55+0000",
+      "summary": "The crew looks at the coach of the year candidates in the NFL, the 49ers beating the Colts on MNF and Frank's latest playoff projections to assess where the league is at as we approach Week 17."
+    },
+    {
+      "id": "529cfcc2c64fb806",
+      "title": "NFL upholds DK Metcalf's two-game suspension",
+      "link": "https://sports.yahoo.com/articles/nfl-upholds-dk-metcalfs-two-005219840.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T00:52:19+0000",
+      "summary": "Metcalf will miss Week 17 at Browns, Week 18 vs. Ravens."
+    },
+    {
+      "id": "f98d60b953f2d60d",
+      "title": "NFL makes final decision on Steelers WR DK Metcalf's suspension appeal",
+      "link": "https://sports.yahoo.com/articles/nfl-makes-final-decision-steelers-005116067.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T00:51:16+0000",
+      "summary": "Steelers WR DK Metcalf’s two-game suspension was upheld by the NFL and NFLPA, effectively ending any hope he could return before playoffs."
+    },
+    {
+      "id": "04d8c3413e75d218",
+      "title": "NFL upholds DK Metcalf’s suspension after appeal following altercation with fan, reports say",
+      "link": "https://sports.yahoo.com/articles/nfl-upholds-dk-metcalf-suspension-005019105.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T00:50:19+0000",
+      "summary": "The NFL has upheld DK Metcalf’s two-game suspension after an altercation with a fan during Sunday night’s game in Detroit, reports say."
+    },
+    {
+      "id": "1d94a1dfb9c6a78a",
+      "title": "Metcalf's 2-game suspension upheld after appeal",
+      "link": "https://espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-23T23:28:50+0000",
-      "summary": "The NFL has suspended Steelers wide receiver DK Metcalf for two games without pay due to his altercation with a fan at Detroit's Ford Field on Sunday."
+      "published": "2025-12-24T00:43:53+0000",
+      "summary": "The NFL has upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday."
     },
     {
       "id": "3e26ba44793a1914",
@@ -16,17 +88,8 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-23T23:28:49+0000",
+      "published": "2025-12-24T00:43:53+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "48118eebf1830980",
-      "title": "NFL Draft: 2026 Underclassmen Declaration Tracker",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-underclassmen-declaration-214728971.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T23:28:19+0000",
-      "summary": "Fewer underclassmen are declaring for the NFL draft because of NIL and the transfer portal."
     },
     {
       "id": "dd562e57948e5e37",
@@ -36,15 +99,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-23T23:27:28+0000",
       "summary": "INDIANAPOLIS — Roughly 13 hours later, the quick takeaway from the Indianapolis Colts’ most lopsided loss since the forgettable 2022 season was unchanged. They weren’t good enough against the San Francisco 49ers, and that was particularly true with Lou Anarumo’s defense. \"It’s such a week-to-week league,\" he said Tuesday. \"And there’s obviously no excuse the [...]"
-    },
-    {
-      "id": "6b66e9b4988fbdc0",
-      "title": "2026 NFL Draft scouting report: T.J. Hall, Cornerback, Iowa",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-230925089.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-23T23:09:25+0000",
-      "summary": "Another cornerback report is live as we look at Iowa's T.J. Hall."
     },
     {
       "id": "b62566f2ef8af597",
@@ -486,60 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-18T16:34:44+0000",
       "summary": "Richardson was placed on injured reserve with a fractured orbital bone in Week 7."
-    },
-    {
-      "id": "ad8896da1800b70e",
-      "title": "Colts’ D did a lot of good against Seattle, just not quite enough",
-      "link": "https://fox59.com/sports/colts/colts-d-did-a-lot-of-good-against-seattle-just-not-quite-enough/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-17T22:36:15+0000",
-      "summary": "INDIANAPOLIS – There were so many winnable defensive stats. A few more were needed. In Sunday’s 18-16 loss at Seattle, the Indianapolis Colts’ defense kept Sam Darnold and the Seahawk’s potent offense – No. 2 in scoring (29.8) – out of the end zone for the first time this season, limited their run game to [...]"
-    },
-    {
-      "id": "ca1bdf705ba48ee0",
-      "title": "Colts offense sees more for Philip Rivers after Week 15 performance",
-      "link": "https://colts.com/news/colts-offense-confidence-philip-rivers-starting-quarterback-jim-bob-cooter-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-17T19:56:54+0000",
-      "summary": "Head coach Shane Steichen on Monday confirmed Rivers would be the Colts' starting quarterback against the San Francisco 49ers."
-    },
-    {
-      "id": "ad9a3b5cb301b7ce",
-      "title": "How Colts could kick off vs. 49ers controlling AFC playoff destiny",
-      "link": "https://colts.com/news/how-colts-could-kick-off-vs-49ers-controlling-afc-playoff-destiny",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-17T18:04:26+0000",
-      "summary": "Despite losing their last four games, the 8-6 Colts still have a chance to make the playoffs. Here's what the team is staring down over the final three weeks of the 2025 regular season:"
-    },
-    {
-      "id": "d272a4a253c0118f",
-      "title": "'Indiana Nights' to take center stage for 'Monday Night Football' in Indy",
-      "link": "https://colts.com/news/indiana-nights-uniform-alternate-san-francisco-49ers-monday-night-football-lucas-oil-stadium-nfl-week-16-december-22-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-17T15:00:00+0000",
-      "summary": "The Indianapolis Colts will celebrate “Indiana Nights” and wear their “Indiana Nights” alternate uniform when they host a Monday Night Football matchup with the San Francisco 49ers at Lucas Oil Stadium on Dec. 22."
-    },
-    {
-      "id": "837dc98250cfdd1e",
-      "title": "Colts sign G LaDarius Henderson, G Bill Murray, T Zach Thomas to practice squad",
-      "link": "https://colts.com/news/colts-sign-g-ladarius-henderson-g-bill-murray-t-zach-thomas-to-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-16T21:51:32+0000",
-      "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "54aecdf63553953b",
-      "title": "Colts release unofficial depth chart for Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-week-16-game-san-francisco-49ers-philip-rivers-riley-leonard",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-16T19:58:03+0000",
-      "summary": "The Colts released their Week 16 unofficial depth chart ahead of their game against the San Francisco 49ers Monday at Lucas Oil Stadium. Check it out below:"
     }
   ],
   "links": [
