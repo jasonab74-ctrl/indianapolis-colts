@@ -1,6 +1,69 @@
 {
-  "updated": "2025-12-24T19:15:41+00:00",
+  "updated": "2025-12-24T19:37:23+00:00",
   "items": [
+    {
+      "id": "5560b34e972ea432",
+      "title": "Steelers sign wide receiver after DK Metcalf's two-game suspension",
+      "link": "https://sports.yahoo.com/articles/steelers-sign-wide-receiver-dk-192938821.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T19:29:38+0000",
+      "summary": "The Pittsburgh Steelers brought back a familiar face following the NFL's decision to uphold DK Metcalf's two-game suspension."
+    },
+    {
+      "id": "19adb4670806fdec",
+      "title": "FSU's Castellanos drops appeal, enters NFL draft",
+      "link": "https://espn.com/college-football/story/_/id/47406945/florida-state-qb-castellanos-drops-appeal-enters-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T19:21:26+0000",
+      "summary": "Florida State quarterback Thomas Castellanos has dropped his appeal for another year of college eligibility and declared for the NFL draft."
+    },
+    {
+      "id": "a555b02d6670530f",
+      "title": "Steelers DT Cam Heyward criticizes NFL suspension rules",
+      "link": "https://sports.yahoo.com/articles/steelers-dt-cam-heyward-criticizes-192035812.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T19:20:35+0000",
+      "summary": "Cam Heyward didn't exactly defend DK Metcalf but he had some choice words about the rules of suspension that the NFL use."
+    },
+    {
+      "id": "46404f125061fff4",
+      "title": "These 9 Utah ties could be postseason-bound if their teams clinch NFL playoff spots this week",
+      "link": "https://sports.yahoo.com/articles/9-utah-ties-could-postseason-191559180.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T19:15:59+0000",
+      "summary": "A look at Week 17 NFL playoff scenarios, as there are already 29 Utah ties whose teams have made the NFL postseason field."
+    },
+    {
+      "id": "18157ef7d1c58b9c",
+      "title": "Bill Brooks' Breakdown: Looking at Philip Rivers and Alec Pierce's prime time performances in Week 16",
+      "link": "https://colts.com/news/bill-brooks-breakdown-looking-at-philip-rivers-and-alec-pierce-s-prime-time-performances-in-week-16",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-24T19:14:00+0000",
+      "summary": "Colts Ring of Honor wide receiver Bill Brooks looks at the impressive performances by Philip Rivers and Alec Pierce against the 49ers and what their connection means for the Colts, and offers his perspective on the team's mentality in the final two weeks of the regular season."
+    },
+    {
+      "id": "ccb686d405df5645",
+      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
+      "link": "https://espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T19:11:16+0000",
+      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?"
+    },
+    {
+      "id": "1298489606c35769",
+      "title": "Updated NFL Power Rankings: New 1-32 poll, plus each team's rookie of the year",
+      "link": "https://espn.com/nfl/story/_/id/47389978/nfl-week-17-power-rankings-poll-32-teams-2025-best-rookies",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T19:11:16+0000",
+      "summary": "Let's update our NFL Power Rankings ahead of Week 17. We also looked at the best rookies from all 32 teams."
+    },
     {
       "id": "d645ff7b3fce4166",
       "title": "Denver Broncos vs. Kansas City Chiefs: How to watch the Christmas Thursday Night Football NFL game",
@@ -9,42 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-24T19:05:09+0000",
       "summary": "This week, on a special Christmas edition of Thursday Night Football, the Denver Broncos play the Kansas City Chiefs."
-    },
-    {
-      "id": "50a12599cb8d56f4",
-      "title": "Week 17 NFL against-the-spread picks, predictions for every game: Two hot NFC teams meet with 49ers host Bears",
-      "link": "https://sports.yahoo.com/nfl/betting/article/week-17-nfl-against-the-spread-picks-predictions-for-every-game-two-hot-nfc-teams-meet-with-49ers-host-bears-190248156.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T19:02:48+0000",
-      "summary": "The Bears and 49ers are both alive in the race for the No. 1 seed in the NFC."
-    },
-    {
-      "id": "5559f155ed76d54d",
-      "title": "Tennessee football defensive back declares for 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/tennessee-football-defensive-back-declares-185009418.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T18:50:09+0000",
-      "summary": "Tennessee cornerback declares for the 2026 NFL draft ahead of the Music City Bowl."
-    },
-    {
-      "id": "943c4838e3eac8ec",
-      "title": "Detroit Lions vs. Minnesota Vikings: How to watch the Christmas Day NFL game",
-      "link": "https://sports.yahoo.com/nfl/article/detroit-lions-vs-minnesota-vikings-how-to-watch-the-christmas-day-nfl-game-054526793.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T18:45:26+0000",
-      "summary": "The Detroit Lions visit the Minnesota Vikings on Christmas Day, here's how to watch."
-    },
-    {
-      "id": "237bde80e040d53e",
-      "title": "Fantasy Football Start 'Em, Sit 'Em Week 17: RB Edition",
-      "link": "https://sports.yahoo.com/articles/fantasy-football-start-em-sit-184157647.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T18:41:57+0000",
-      "summary": "Should you start Jonathan Taylor this week?"
     },
     {
       "id": "1d94a1dfb9c6a78a",
@@ -56,15 +83,6 @@
       "summary": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday."
     },
     {
-      "id": "19adb4670806fdec",
-      "title": "FSU's Castellanos drops appeal, enters NFL draft",
-      "link": "https://espn.com/college-football/story/_/id/47406945/florida-state-qb-castellanos-drops-appeal-enters-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T18:41:38+0000",
-      "summary": "Florida State quarterback Thomas Castellanos has dropped his appeal for another year of college eligibility and declared for the NFL draft."
-    },
-    {
       "id": "3e26ba44793a1914",
       "title": "🏈 Playoff picture projections: The updated odds",
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
@@ -72,15 +90,6 @@
       "feed": "ESPN",
       "published": "2025-12-24T18:41:38+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "f08433b1d7efd35c",
-      "title": "Tennessee CB Colton Hood declares for 2026 NFL Draft, opts out of bowl",
-      "link": "https://sports.yahoo.com/articles/tennessee-cb-colton-hood-declares-184018890.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T18:40:18+0000",
-      "summary": "Tennessee cornerback Colton Hood has declared for the 2026 NFL Draft and opted out of the Music City Bowl. He is projected as an early round pick."
     },
     {
       "id": "8596f4cc015c9bcf",
@@ -119,6 +128,15 @@
       "summary": "The Broncos linebacker discovered he had testicular cancer from a league drug test. And now he plays the game with a fresh perspective."
     },
     {
+      "id": "39dd60e59b691fa2",
+      "title": "Colts’ Stock Up/Stock Down: Week 16 vs. Niners",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119716/colts-stock-up-stock-down-week-16-vs-niners",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-24T16:18:58+0000",
+      "summary": "Stock Up Alec Pierce &#38; Josh Downs The Colts’ young wide receivers carried most of the load on offense against the Niners, with Downs leading the team in catches and first downs, and Pierce having a rebound game after a quiet stretch posting over 85 yards and two touchdowns. I expected more from Tyler Warren [&#8230;]"
+    },
+    {
       "id": "ed39dfa12141a433",
       "title": "Colts designate WR Ashton Dulin to return to practice",
       "link": "https://colts.com/news/colts-designate-wide-receiver-ashton-dulin-to-return-to-practice-week-17",
@@ -126,24 +144,6 @@
       "feed": "Colts.com",
       "published": "2025-12-24T15:58:45+0000",
       "summary": "Dulin was placed on injured reserve with a hamstring injury in Week 13."
-    },
-    {
-      "id": "ccb686d405df5645",
-      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
-      "link": "https://espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T14:42:53+0000",
-      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?"
-    },
-    {
-      "id": "b62566f2ef8af597",
-      "title": "2026 NFL Pro Bowl AFC, NFC rosters: The league's top players",
-      "link": "https://espn.com/nfl/story/_/id/47391530/2026-nfl-pro-bowl-afc-nfc-players-teams-watch",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T14:39:57+0000",
-      "summary": "The Ravens, Broncos, 49ers and Seahawks each had six players chosen to lead the way."
     },
     {
       "id": "59310bc3d3024ea0",
@@ -180,15 +180,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-24T04:56:03+0000",
       "summary": "It’s shaping up to be another disappointing season as this once promising campaign concludes, but it’s possible that the Indianapolis Colts could still be well represented at this year’s Pro Bowl Games. The Pro Bowl games will be held during Super Bowl LX week on Tuesday, February 3rd, in the San Francisco Bay area, and [&#8230;]"
-    },
-    {
-      "id": "1298489606c35769",
-      "title": "Updated NFL Power Rankings: New 1-32 poll, plus each team's rookie of the year",
-      "link": "https://espn.com/nfl/story/_/id/47389978/nfl-week-17-power-rankings-poll-32-teams-2025-best-rookies",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T02:52:40+0000",
-      "summary": "Let's update our rankings ahead of Week 17. We also looked at the best rookies from all 32 teams."
     },
     {
       "id": "dd562e57948e5e37",
@@ -351,15 +342,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-23T12:45:06+0000",
       "summary": "The Indianapolis Colts are on the outside looking in when it comes to the NFL playoffs. A 48-27 loss to the San Francisco 49ers didn't help their postseason case, as the Colts have now lost five games in a row. Matt Adams looks back at Indy's Monday Night Football loss and what it means for [...]"
-    },
-    {
-      "id": "d1c115e8d6df2d41",
-      "title": "Colts-Jaguars opening odds: This could be it",
-      "link": "https://stampedeblue.com/indianapolis-colts-odds/119610/colts-jaguars-opening-odds-this-could-be-it",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-23T12:00:00+0000",
-      "summary": "The Indianapolis Colts are meeting a familiar face in a must win game in week seventeen. If the game against the 49ers wasn’t brutal enough for the defense, this one might be worse as the Jaguars are rolling into town red-hot. This is an absolute must win for the Colts. A win this week, coupled [&#8230;]"
     },
     {
       "id": "779d6f25f68f25e2",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-18T20:17:47+0000",
       "summary": "If you wanted to see Philip Rivers in the Colts' all-blue \"Indiana Nights\" uniform, your prayers have been answered. Rivers' second act will get its own second act against the San Francisco 49ers on Monday Night Football as the Colts try to keep their playoff hopes alive. Dave Griffiths, Mike Chappell and Matt Adams preview [...]"
+    },
+    {
+      "id": "8e69819770242aa0",
+      "title": "Philip Rivers feeling good after 'helpful' hits vs. Seahawks, eyes improvements in Colts' Monday Night Football game against 49ers",
+      "link": "https://colts.com/news/philip-rivers-feeling-good-after-helpful-hits-vs-seahawks-eyes-improvements-in-colts-monday-night-football-game-against-49ers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-18T19:26:59+0000",
+      "summary": "Philip Rivers was hit three times by Seahawks defenders on Sunday, which was his first time in a helmet and shoulder pads in nearly five years."
+    },
+    {
+      "id": "eb91db9caf7af070",
+      "title": "Colts’ Anthony Richardson Sr. cleared for practice:  ‘I thank God'",
+      "link": "https://fox59.com/sports/colts/colts-practice-window-opened-for-anthony-richardson-sr/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-18T16:46:10+0000",
+      "summary": "INDIANAPOLIS – Despite being minutes removed from a freaky, horrific accident, Anthony Richardson Sr. received comforting news. There was a brief instant as he was being whisked to a local hospital on Oct. 12, when Richardson wondered if the fractured right orbital bone might threaten his career. Reassurance quickly came from a tending EMT. “Nah, [...]"
     }
   ],
   "links": [
