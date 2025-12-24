@@ -1,32 +1,113 @@
 {
-  "updated": "2025-12-24T21:39:20+00:00",
+  "updated": "2025-12-24T22:19:04+00:00",
   "items": [
     {
-      "id": "e27e2759b6ed0762",
-      "title": "NFL Power Rankings: Week 17 Edition",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-17-213138342.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T21:31:38+0000",
-      "summary": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿100% accurate ranking of all 32 NFL teams.﻿﻿﻿"
+      "id": "e007012f0b2a9e00",
+      "title": "Colts’ playoff chances? So, you’re saying there’s a chance . ..",
+      "link": "https://fox59.com/sports/colts-playoff-chances-so-youre-saying-theres-a-chance/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-24T22:10:50+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ playoff heartbeat is faint and could flatline before they step on the field Sunday at Lucas Oil Stadium against Jacksonville. Everything hinges on Houston’s Saturday road test against the Los Angeles Chargers. A Texans’ win eliminates the Colts and extends their playoff drought to five seasons, the franchise’s longest in [...]"
     },
     {
-      "id": "0b6a579b2a0abb32",
-      "title": "DeForest Buckner injury: Week 17 practice status update on Colts' DT",
-      "link": "https://sports.yahoo.com/articles/deforest-buckner-injury-week-17-212117176.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T21:21:17+0000",
-      "summary": "Colts' DT DeForest Buckner was listed as a non-participant on Wednesday's Week 17 injury report."
+      "id": "6121ff828bdf8653",
+      "title": "Buzz: Disappointing Chiefs enter Christmas matchup as two-TD underdogs to Broncos",
+      "link": "https://espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T22:06:24+0000",
+      "summary": "The NFL's Christmas Day slate features some disappointing teams, none as bad betting-wise as the Kansas City Chiefs."
     },
     {
-      "id": "bda362d995f590f1",
-      "title": "Jaguars vs Colts key matchups: In-form quarterbacks set for shootout?",
-      "link": "https://sports.yahoo.com/articles/jaguars-vs-colts-key-matchups-211747982.html",
+      "id": "fd4229a37918a0e0",
+      "title": "Omarion Hampton among Week 17's top 30 predicted anytime touchdown scorers",
+      "link": "https://espn.com/espn/betting/story/_/id/47408293/nfl-week-17-touchdown-odds-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T22:06:24+0000",
+      "summary": "Hampton, Jonathan Taylor and Bijan Robinson are among top predictions for anytime touchdown props."
+    },
+    {
+      "id": "9a45f369a1922b39",
+      "title": "Emmett Johnson 2026 NFL Draft scouting report: Nebraska's back makes case for RB2",
+      "link": "https://sports.yahoo.com/articles/emmett-johnson-2026-nfl-draft-220356856.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-24T21:17:47+0000",
-      "summary": "Three key matchups to look out for as the Jaguars head to Lucas Oil Stadium to face the Colts"
+      "published": "2025-12-24T22:03:56+0000",
+      "summary": "Johnson was one of the few risers in this RB class."
+    },
+    {
+      "id": "d15e141bd8d5109f",
+      "title": "Is Rashee Rice out of the season? Injury update for Chiefs WR",
+      "link": "https://sports.yahoo.com/articles/rashee-rice-season-injury-chiefs-215709219.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T21:57:09+0000",
+      "summary": "The Chiefs have already lost their top two quarterbacks for the 2025 NFL season. Now, they will also be without Rashee Rice to end the campaign."
+    },
+    {
+      "id": "9ce5d91af6fa7c03",
+      "title": "NFL Writer Names Steelers Rival As Possible Team To Make Playoffs Next Season",
+      "link": "https://sports.yahoo.com/articles/nfl-writer-names-steelers-rival-215328553.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T21:53:28+0000",
+      "summary": "The Steelers are one win or a Ravens loss away from clinching the AFC North title. The division has had a rough year, mainly because Baltimore quarterback Lamar Jackson missed several games due to injury, the Cleveland Browns fielded one of the weakest rosters in the NFL, and the Cincinnati Bengals lost starting quarterback Joe […]"
+    },
+    {
+      "id": "1d94a1dfb9c6a78a",
+      "title": "Metcalf's ban upheld; fan's conduct under review",
+      "link": "https://espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T21:52:57+0000",
+      "summary": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday."
+    },
+    {
+      "id": "6f8b88136cac1ff3",
+      "title": "Washington WR Boston says he's entering draft",
+      "link": "https://espn.com/college-football/story/_/id/47407967/washington-wr-denzel-boston-says-entering-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T21:52:57+0000",
+      "summary": "Washington junior wide receiver Denzel Boston announced Wednesday that he's declaring for the NFL draft."
+    },
+    {
+      "id": "19adb4670806fdec",
+      "title": "FSU's Castellanos drops appeal, enters NFL draft",
+      "link": "https://espn.com/college-football/story/_/id/47406945/florida-state-qb-castellanos-drops-appeal-enters-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T21:52:57+0000",
+      "summary": "Florida State quarterback Thomas Castellanos has dropped his appeal for another year of college eligibility and declared for the NFL draft."
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "🏈 Playoff picture projections: The updated odds",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-24T21:52:57+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "31a987e7d9fc2f83",
+      "title": "Mike McCarthy Reveals Steelers-Themed Christmas Wish",
+      "link": "https://sports.yahoo.com/articles/mike-mccarthy-reveals-steelers-themed-215137444.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T21:51:37+0000",
+      "summary": "The holiday season is here and there are only two weeks left in the NFL regular season. At 9-6, the Pittsburgh Steelers are on the verge of clinching the AFC North and a playoff spot. Coming off three straight wins, the Steelers are peaking at the perfect time and could be poised for a deep […]"
+    },
+    {
+      "id": "08556a9d5a1cc41d",
+      "title": "Brady Cook relishing sudden stint as Jets' starting QB that came from necessity and curiosity",
+      "link": "https://sports.yahoo.com/articles/brady-cook-relishing-sudden-stint-214751189.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T21:47:51+0000",
+      "summary": "Brady Cook never imagined a few months ago he'd be in this position.  Neither did the New York Jets.  It's equal parts necessity — because Justin Fields and Tyrod Taylor were injured — and curiosity — because coach Aaron Glenn wants to continue to evaluate him — that Cook has become a sudden NFL starter."
     },
     {
       "id": "571b2d5e0b0dafc8",
@@ -38,33 +119,6 @@
       "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
     },
     {
-      "id": "38673638dc356ca6",
-      "title": "Matthew Berry’s Fantasy Football Rankings for Week 17 of 2025 season",
-      "link": "https://sports.yahoo.com/articles/matthew-berry-fantasy-football-rankings-161658326.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T21:16:00+0000",
-      "summary": "Dak Prescott, Christian McCaffrey, Puka Nacua and Trey McBride highlight the positional rankings for Week 16 of the 2025 NFL season."
-    },
-    {
-      "id": "2e340a35772d05a1",
-      "title": "Jaguars Christmas Eve injury report, Bhayshul Tuten (finger) returns",
-      "link": "https://sports.yahoo.com/articles/jaguars-christmas-eve-injury-report-211438465.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T21:14:38+0000",
-      "summary": "Here are the latest injury updates for the Jacksonville Jaguars ahead of their Week 17 matchup against the Indianapolis Colts."
-    },
-    {
-      "id": "367d8b40c9e7cdb2",
-      "title": "NFL on Christmas: Chiefs involved in historic game on Dec. 25 holiday",
-      "link": "https://sports.yahoo.com/articles/nfl-christmas-chiefs-involved-historic-211121064.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T21:11:21+0000",
-      "summary": "The NFL on Christmas doesn't have quite the history of Thanksgiving, but the holiday did feature one of the greatest playoff games in league history."
-    },
-    {
       "id": "4d56436fe1c428fd",
       "title": "NFL execs on how Tua Tagovailoa lost his edge and Mike McDaniel's support",
       "link": "https://espn.com/nfl/story/_/id/47399495/nfl-tua-tagovailoa-qb-dolphins-benched-future-execs-offseason",
@@ -72,42 +126,6 @@
       "feed": "ESPN",
       "published": "2025-12-24T20:59:44+0000",
       "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?"
-    },
-    {
-      "id": "1d94a1dfb9c6a78a",
-      "title": "Metcalf's ban upheld; fan's conduct under review",
-      "link": "https://espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T20:58:05+0000",
-      "summary": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday."
-    },
-    {
-      "id": "6f8b88136cac1ff3",
-      "title": "Washington WR Boston says he's entering draft",
-      "link": "https://espn.com/college-football/story/_/id/47407967/washington-wr-denzel-boston-says-entering-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T20:58:05+0000",
-      "summary": "Washington junior wide receiver Denzel Boston announced Wednesday that he's declaring for the NFL draft."
-    },
-    {
-      "id": "19adb4670806fdec",
-      "title": "FSU's Castellanos drops appeal, enters NFL draft",
-      "link": "https://espn.com/college-football/story/_/id/47406945/florida-state-qb-castellanos-drops-appeal-enters-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T20:58:05+0000",
-      "summary": "Florida State quarterback Thomas Castellanos has dropped his appeal for another year of college eligibility and declared for the NFL draft."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏈 Playoff picture projections: The updated odds",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T20:58:05+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
       "id": "18157ef7d1c58b9c",
@@ -180,15 +198,6 @@
       "feed": "ESPN",
       "published": "2025-12-24T13:08:57+0000",
       "summary": "After a convincing win against the Broncos on Sunday, the Jaguars might be the hottest team in the NFL."
-    },
-    {
-      "id": "6121ff828bdf8653",
-      "title": "Buzz: Disappointing Chiefs enter Christmas matchup as two-TD underdogs to Broncos",
-      "link": "https://espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T13:06:10+0000",
-      "summary": "The NFL's Christmas Day slate features some disappointing teams, none as bad betting-wise as the Kansas City Chiefs."
     },
     {
       "id": "0bf15d8998f7d3e9",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-18T20:49:21+0000",
       "summary": "The Colts opened Richardson's 21-day window to be activated from injured reserve on Wednesday but the quarterback still has some vision limitations, Shane Steichen said."
-    },
-    {
-      "id": "f740021ab921700d",
-      "title": "Practice Notebook: Injury updates on DeForest Buckner, Sauce Gardner, other Colts players ahead of Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/practice-notebook-injury-updates-deforest-buckner-sauce-gardner-anthony-richardson-josh-downs-week-16",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-18T20:46:17+0000",
-      "summary": "Buckner (neck) was a full participant on Wednesday. Gardner (calf) did not practice."
     }
   ],
   "links": [
