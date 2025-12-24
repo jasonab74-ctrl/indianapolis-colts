@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-24T23:18:35+00:00",
+  "updated": "2025-12-24T23:39:51+00:00",
   "items": [
+    {
+      "id": "84a937dc10c1c265",
+      "title": "Oklahoma Sooners defender enters NFL Draft",
+      "link": "https://sports.yahoo.com/articles/oklahoma-sooners-defender-enters-nfl-231854002.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T23:18:54+0000",
+      "summary": "OU's Robert Spears-Jennings announces that he's entering the NFL Draft."
+    },
+    {
+      "id": "30826ca5b41ca3b1",
+      "title": "USC Trojans must lean on their young talent against TCU in Alamo Bowl",
+      "link": "https://sports.yahoo.com/articles/usc-trojans-must-lean-young-231134409.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-24T23:11:34+0000",
+      "summary": "With USC having two stars declare for the NFL Draft, young talent will showcase their skills at the Alamo Bowl"
+    },
     {
       "id": "1d94a1dfb9c6a78a",
       "title": "Metcalf's ban upheld; fan's conduct under review",
@@ -72,15 +90,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-24T22:47:39+0000",
       "summary": "The 49ers linebacker made an incredible play to seal the win on Monday."
-    },
-    {
-      "id": "6d8e6dd80ffe053d",
-      "title": "George Kittle misses practice with ankle injury, status for Niners' game against Bears in question",
-      "link": "https://sports.yahoo.com/articles/george-kittle-misses-practice-ankle-222221352.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T22:22:21+0000",
-      "summary": "San Francisco Pro Bowl tight end George Kittle missed practice with an ankle injury on Wednesday, leaving his status for this weekend's big game against the Chicago Bears in question.  Kittle hurt his ankle during Monday night's 48-27 victory over the Indianapolis Colts.  Coach Kyle Shanahan said Kittle still has “a chance” to play on Sunday night against the Bears depending on how quickly he heals this week."
     },
     {
       "id": "e007012f0b2a9e00",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-19T20:38:08+0000",
       "summary": "Buckner was a full participant in Friday's practice, marking his second consecutive day of full participation."
-    },
-    {
-      "id": "6e5fe242c365d355",
-      "title": "Anthony Richardson Sr. returns to practice as a limited participant",
-      "link": "https://colts.com/news/anthony-richardson-sr-practice-limited-participant-shane-steichen-injured-reserve-eye-week-16-philip-rivers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-18T20:49:21+0000",
-      "summary": "The Colts opened Richardson's 21-day window to be activated from injured reserve on Wednesday but the quarterback still has some vision limitations, Shane Steichen said."
     }
   ],
   "links": [
