@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-24T05:22:58+00:00",
+  "updated": "2025-12-24T05:47:06+00:00",
   "items": [
+    {
+      "id": "0bf15d8998f7d3e9",
+      "title": "Vikings claim former Colts backup QB off waivers",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119728/vikings-claim-former-colts-backup-qb-off-waivers",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-24T05:13:39+0000",
+      "summary": "According to NFL Network’s Tom Pelissero, the Minnesota Vikings have claimed recently waived Indianapolis Colts backup quarterback Brett Rypien off waivers, with starter J.J. McCarthy (hand) already out this week: Before this past Monday’s primetime game, the Colts waived Rypien, who had previously been signed to the active roster a week prior to serve as [&#8230;]"
+    },
     {
       "id": "00ef5b0feaf59a88",
       "title": "Vikings claim former Colts backup QB off waivers",
@@ -11,6 +20,15 @@
       "summary": "According to NFL Network’s Tom Pelissero, the Minnesota Vikings have claimed recently waived Indianapolis Colts backup quarterback Brett Rypien off waivers, with starter J.J. McCarthy (hand) already out this week: Before this past Monday’s primetime game, the Colts waived Rypien, who had previously been signed to the active roster a week prior to serve as […]"
     },
     {
+      "id": "ef8025459de53ea2",
+      "title": "Five Colts named as NFL Pro Bowl Games alternates for AFC",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119719/five-colts-named-as-pro-bowl-games-afc-alternates",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-24T04:56:03+0000",
+      "summary": "It’s shaping up to be another disappointing season as this once promising campaign concludes, but it’s possible that the Indianapolis Colts could still be well represented at this year’s Pro Bowl Games. The Pro Bowl games will be held during Super Bowl LX week on Tuesday, February 3rd, in the San Francisco Bay area, and [&#8230;]"
+    },
+    {
       "id": "a01ca5de0cf874a6",
       "title": "Five Colts named as NFL Pro Bowl Games alternates for AFC",
       "link": "https://sports.yahoo.com/articles/five-colts-named-nfl-pro-045603860.html",
@@ -18,24 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-24T04:56:03+0000",
       "summary": "It’s possible that the Colts could be well represented at this year’s Pro Bowl Games with a handful of alternates having recently been named."
-    },
-    {
-      "id": "3c739135efc59240",
-      "title": "Chargers make roster moves with Denzel Perryman appeal pending",
-      "link": "https://sports.yahoo.com/articles/chargers-roster-moves-denzel-perryman-042623744.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T04:26:23+0000",
-      "summary": "With Denzel Perryman's appeal of his two-game suspension still pending, the Chargers have made a few roster moves to account for the NFL's decision."
-    },
-    {
-      "id": "651bc2d95ba35a78",
-      "title": "NFL standings: Seattle Seahawks take over NFC West lead",
-      "link": "https://sports.yahoo.com/articles/nfl-standings-seattle-seahawks-over-041619212.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-24T04:16:19+0000",
-      "summary": "A look at the current standings in the NFC West, what happened in Week 16 and what is coming in Week 17."
     },
     {
       "id": "1298489606c35769",
@@ -281,24 +281,6 @@
       "summary": "The Colts' defense allowed five touchdowns and did not force a punt in their 48-27 loss to the San Francisco 49ers on Monday night."
     },
     {
-      "id": "adab871772da3bdd",
-      "title": "Colts lose fifth straight to 49ers on MNF as playoff hopes hang by a thread",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/119593/colts-lose-fifth-straight-to-49ers-on-mnf-in-blowout-fashion",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-23T05:00:18+0000",
-      "summary": "The tightrope finally snapped inside Lucas Oil Stadium on Monday Night Football as the Indianapolis Colts suffered a fifth straight loss in a 48-27 blowout against the San Francisco 49ers. What began as a hopeful holiday stage to showcase what was the league’s most explosive offensive unit entering the Week 11 BYE, has turned into [&#8230;]"
-    },
-    {
-      "id": "71489de41591783c",
-      "title": "Colts QB Philip Rivers finds fountain of youth in primetime, but Indy defense lays major dud vs. 49ers",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119581/colts-qb-philip-rivers-finds-fountain-of-youth-in-primetime-but-indy-defense-lays-major-dud",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-23T04:53:37+0000",
-      "summary": "The desperate Indianapolis Colts (8-7) were fighting for their increasingly slim playoff odds, but if you want to blame someone after falling to the San Francisco 49ers (11-4), 48-27, on Monday Night Football, don’t blame grizzled veteran Philip Rivers (i.e., ‘Grandpa Phil’). The 44-year-old longtime veteran quarterback, who shockingly unretired two weeks ago and had [&#8230;]"
-    },
-    {
       "id": "f924fa7195d90dd5",
       "title": "49ers offense can't be stopped in 48-27 win over Colts",
       "link": "https://fox59.com/sports/colts/49ers-offense-cant-be-stopped-in-48-27-win-over-colts/",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-17T15:00:00+0000",
       "summary": "The Indianapolis Colts will celebrate “Indiana Nights” and wear their “Indiana Nights” alternate uniform when they host a Monday Night Football matchup with the San Francisco 49ers at Lucas Oil Stadium on Dec. 22."
+    },
+    {
+      "id": "837dc98250cfdd1e",
+      "title": "Colts sign G LaDarius Henderson, G Bill Murray, T Zach Thomas to practice squad",
+      "link": "https://colts.com/news/colts-sign-g-ladarius-henderson-g-bill-murray-t-zach-thomas-to-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-16T21:51:32+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
+    },
+    {
+      "id": "54aecdf63553953b",
+      "title": "Colts release unofficial depth chart for Week 16 game vs. San Francisco 49ers",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-week-16-game-san-francisco-49ers-philip-rivers-riley-leonard",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-16T19:58:03+0000",
+      "summary": "The Colts released their Week 16 unofficial depth chart ahead of their game against the San Francisco 49ers Monday at Lucas Oil Stadium. Check it out below:"
     }
   ],
   "links": [
