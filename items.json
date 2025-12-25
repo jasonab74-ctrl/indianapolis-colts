@@ -1,67 +1,13 @@
 {
-  "updated": "2025-12-25T17:41:23+00:00",
+  "updated": "2025-12-25T18:28:04+00:00",
   "items": [
-    {
-      "id": "789fc26174bfdc19",
-      "title": "Christmas Day Football Live Open Thread/Discussion",
-      "link": "https://sports.yahoo.com/articles/christmas-day-football-live-open-173000995.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T17:30:00+0000",
-      "summary": "Join us live to follow and discuss todays slate of NFL Christmas Day games."
-    },
-    {
-      "id": "8bdf4b1905f7d6f1",
-      "title": "2026 NFL draft: Where are the Jets' Round 1 picks in Week 17?",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-where-jets-171517227.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T17:15:17+0000",
-      "summary": "The latest look at the Jets' draft picks in the 2026 NFL draft heading into Week 17."
-    },
-    {
-      "id": "fa68c1c1c1be9a5c",
-      "title": "Broncos vs Chiefs: Time, Channel & Free Live Streaming Info for Thursday Night Football",
-      "link": "https://sports.yahoo.com/articles/broncos-vs-chiefs-time-channel-171100555.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T17:11:00+0000",
-      "summary": "Broncos vs. Chiefs live streaming details for TNF NFL Week 17 action on Thursday, December 25, 2025."
-    },
-    {
-      "id": "795f350e4135106d",
-      "title": "Rams go offense early, defense late in new 3-round 2026 mock draft",
-      "link": "https://sports.yahoo.com/articles/rams-offense-early-defense-3-170040913.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T17:00:40+0000",
-      "summary": "The Los Angeles Rams could add key future pieces in the 2026 NFL draft."
-    },
-    {
-      "id": "454ebc96ef468606",
-      "title": "When was the first NFL Christmas game? Results, history on holiday",
-      "link": "https://sports.yahoo.com/articles/first-nfl-christmas-game-results-170026858.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T17:00:26+0000",
-      "summary": "For the first few decades of the NFL, the league avoided Christmas games. That changed in 1971. Here's a look at the first NFL games on Christmas."
-    },
-    {
-      "id": "3fc4a3bbac81ccdf",
-      "title": "NFL Christmas Day games 2025: Times, channels, streaming, discussion",
-      "link": "https://sports.yahoo.com/articles/nfl-christmas-day-games-2025-170000235.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T17:00:00+0000",
-      "summary": "Want to watch? You’ll need Netflix and Prime Video."
-    },
     {
       "id": "278dbf9e310a6665",
       "title": "Macdonald backs Hall, disagrees with suspension",
       "link": "https://espn.com/nfl/story/_/id/47408647/seahawks-macdonald-defends-hall-disagrees-suspension",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T16:07:48+0000",
+      "published": "2025-12-25T18:17:37+0000",
       "summary": "Seattle Seahawks coach Mike Macdonald defended Derick Hall on Wednesday in the wake of his one-game suspension by the NFL."
     },
     {
@@ -70,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T16:07:48+0000",
+      "published": "2025-12-25T18:17:36+0000",
       "summary": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday."
     },
     {
@@ -79,8 +25,80 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T16:07:48+0000",
+      "published": "2025-12-25T18:17:36+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "acf5e598caf8a2c4",
+      "title": "NFL Week 17 staff picks: Moneyline, spread, over/under predictions",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-staff-picks-181524998.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T18:15:24+0000",
+      "summary": "NFL Week 17 expert picks for every game heads up, against the spread, plus over/unders."
+    },
+    {
+      "id": "ddc3dc6fffe89182",
+      "title": "NFL Week 17 Christmas Day open thread",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-christmas-day-181043525.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T18:10:43+0000",
+      "summary": "Three NFL games fill your Christmas Day holiday: Cowboys at Commanders; Lions at Vikings; and Broncos at Chiefs."
+    },
+    {
+      "id": "c889efa98ec1f921",
+      "title": "Bah humbug: An NFL holiday story, featuring festive names from around the league",
+      "link": "https://espn.com/nfl/story/_/id/47391854/red-zone-reindeer-gang-grinch-holiday-names-nfl-christmas-games",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-25T18:05:47+0000",
+      "summary": "From Jaylin Noel to Julius Chestnut, the fictional Holiday Bowl is full of holiday cheer."
+    },
+    {
+      "id": "0b7dd3146d43c6cc",
+      "title": "NFL Week 17 Game Picks",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-game-picks-180446043.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T18:04:46+0000",
+      "summary": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Predicting the winners of this week’s football matchups.﻿﻿"
+    },
+    {
+      "id": "822bcfddae76ef4e",
+      "title": "NFL playoff picture Week 17: Detroit Lions try to stay alive on Christmas",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-week-17-180006272.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T18:00:06+0000",
+      "summary": "Where the projected NFL playoff picture stands with Week 17 underway."
+    },
+    {
+      "id": "c6bd11e6afa78d7a",
+      "title": "Patriots rooting guide for NFL Week 17: Christmas edition",
+      "link": "https://sports.yahoo.com/articles/patriots-rooting-guide-nfl-week-175839113.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T17:58:39+0000",
+      "summary": "Who Patriots fans should be rooting for in Week 17 of the 2025 NFL season."
+    },
+    {
+      "id": "df53b7787b0f9584",
+      "title": "What’s next for Illinois’ Luke Altmyer?",
+      "link": "https://sports.yahoo.com/articles/next-illinois-luke-altmyer-175836087.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T17:58:36+0000",
+      "summary": "Will we see Luke in an NFL uniform?"
+    },
+    {
+      "id": "35fce69470c6c51f",
+      "title": "NFL Week 17 live game message board, fan discussion, and playoff scenarios",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-live-game-174500668.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T17:45:00+0000",
+      "summary": "NFL Week 17 live game message board, fan discussion, and playoff scenarios"
     },
     {
       "id": "69efd1d1c5deef74",
@@ -117,15 +135,6 @@
       "feed": "ESPN",
       "published": "2025-12-25T12:31:30+0000",
       "summary": "Jonathan Taylor's otherworldly production has tapered off, a by-product of Daniel Jones' injury."
-    },
-    {
-      "id": "c889efa98ec1f921",
-      "title": "Bah humbug: An NFL holiday story, featuring festive names from around the league",
-      "link": "https://espn.com/nfl/story/_/id/47391854/red-zone-reindeer-gang-grinch-holiday-names-nfl-christmas-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-25T12:22:57+0000",
-      "summary": "From Jaylin Noel to Julius Chestnut, the fictional Holiday Bowl is full of holiday cheer as told by Rich Cimini."
     },
     {
       "id": "e007012f0b2a9e00",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-21T11:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
-    },
-    {
-      "id": "74af292bb51fcc70",
-      "title": "Colts’ DeForest Buckner had to weigh ‘long-term life’ issues when deciding to return",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-had-to-weigh-long-term-life-issues-when-deciding-to-return/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-20T22:06:24+0000",
-      "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
     }
   ],
   "links": [
