@@ -1,32 +1,23 @@
 {
-  "updated": "2025-12-25T23:18:45+00:00",
+  "updated": "2025-12-25T23:40:12+00:00",
   "items": [
-    {
-      "id": "f7fef7b7532fcb12",
-      "title": "Snoop Dogg halftime show live updates, reviews on 2025 NFL Christmas performance",
-      "link": "https://sports.yahoo.com/articles/snoop-dogg-halftime-show-live-210002330.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T22:52:02+0000",
-      "summary": "The Sporting News is tracking live reviews and highlights from Snoop Dogg's halftime show performance during Lions vs. Vikings on Christmas."
-    },
-    {
-      "id": "468eb04b2f6bc399",
-      "title": "Suni Lee Trades Gold Medals for a Camera as She Joins the NFL Sidelines for Vikings vs. Lions on Christmas",
-      "link": "https://sports.yahoo.com/articles/suni-lee-trades-gold-medals-224848960.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-25T22:48:48+0000",
-      "summary": "Suni Lee has expanded her talents across different sectors over the years. Her career as an uneven bars athlete is excellent; she has six Olympic medals (two gold, one silver,… The post Suni Lee Trades Gold Medals for a Camera as She Joins the NFL Sidelines for Vikings vs. Lions on Christmas appeared first on Where Is The Buzz | Breaking News, Entertainment, Exclusive Interviews & More."
-    },
     {
       "id": "6c7b90f17c74cb60",
       "title": "Broncos vs Chiefs Predictions, Picks & Best Bets for Tonight's Christmas Day Game",
       "link": "https://sports.yahoo.com/articles/broncos-vs-chiefs-predictions-picks-110000721.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-25T22:47:00+0000",
+      "published": "2025-12-25T23:33:00+0000",
       "summary": "Broncos vs. Chiefs predictions and NFL picks for Thursday Night Football. Isiah Pacheco gets featured in a low-scoring slog on December 25."
+    },
+    {
+      "id": "f1020a35c470c2d8",
+      "title": "Is Travis Kelce retiring? What Chiefs star TE has said about future in NFL",
+      "link": "https://sports.yahoo.com/articles/travis-kelce-retiring-chiefs-star-103001099.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T23:26:00+0000",
+      "summary": "The Chiefs season, his engagement to Taylor Swift and health reasons all lead to speculation about Travis Kelce's NFL future."
     },
     {
       "id": "fbfb39fc5c81e88e",
@@ -34,7 +25,7 @@
       "link": "https://sports.yahoo.com/articles/chiefs-vs-broncos-live-score-223001641.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-25T22:30:01+0000",
+      "published": "2025-12-25T23:24:01+0000",
       "summary": "The Sporting News is tracking live scoring updates and highlights for Chiefs vs. Broncos on Christmas. Follow for complete results from the NFL Week 17 prime-time game."
     },
     {
@@ -43,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T21:31:18+0000",
+      "published": "2025-12-25T23:23:47+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
     },
     {
@@ -52,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/47408647/seahawks-macdonald-defends-hall-disagrees-suspension",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T21:18:04+0000",
+      "published": "2025-12-25T23:23:07+0000",
       "summary": "Seattle Seahawks coach Mike Macdonald defended Derick Hall on Wednesday in the wake of his one-game suspension by the NFL."
     },
     {
@@ -61,7 +52,7 @@
       "link": "https://espn.com/nfl/story/_/id/47402230/dk-metcalf-suspension-upheld-wr-miss-steelers-final-2-games",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T21:18:04+0000",
+      "published": "2025-12-25T23:23:07+0000",
       "summary": "The NFL upheld DK Metcalf's two-game suspension for his altercation with a fan in Detroit on Sunday."
     },
     {
@@ -70,8 +61,17 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-25T21:18:04+0000",
+      "published": "2025-12-25T23:23:07+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "f7fef7b7532fcb12",
+      "title": "Snoop Dogg halftime show reviews: The best reactions to 2025 NFL Christmas performance",
+      "link": "https://sports.yahoo.com/articles/snoop-dogg-halftime-show-live-210002330.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-25T23:12:02+0000",
+      "summary": "The Sporting News is tracking live reviews and highlights from Snoop Dogg's halftime show performance during Lions vs. Vikings on Christmas."
     },
     {
       "id": "f5479a3c2f3be86a",
@@ -216,15 +216,6 @@
       "feed": "Colts.com",
       "published": "2025-12-24T17:43:32+0000",
       "summary": "From Jim Bob Cooter to Alec Pierce and Jonathan Taylor, the Colts are taking advantage of their opportunity to learn as much as they can from the veteran quarterback."
-    },
-    {
-      "id": "33448a5b369fe11f",
-      "title": "How a random NFL drug test led to a cancer diagnosis: Alex Singleton's 'horrifying' past two months",
-      "link": "https://espn.com/nfl/story/_/id/47399442/alex-singleton-denver-broncos-testicular-cancer-nfl-random-drug-test",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T16:56:01+0000",
-      "summary": "The Broncos linebacker discovered he had testicular cancer from a league drug test. And now he plays the game with a fresh perspective."
     },
     {
       "id": "39dd60e59b691fa2",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-20T22:06:24+0000",
       "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
+    },
+    {
+      "id": "6983a8d8e937262f",
+      "title": "Colts rule out CB Sauce Gardner, WR Anthony Gould for Week 16 game vs. San Francisco 49ers",
+      "link": "https://colts.com/news/colts-rule-out-sauce-gardner-anthony-gould-week-16-san-francisco-49ers-deforest-buckner-anthony-richardson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-20T17:48:49+0000",
+      "summary": "DeForest Buckner was a full participant in practice on Thursday and Friday."
     }
   ],
   "links": [
