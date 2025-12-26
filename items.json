@@ -1,6 +1,33 @@
 {
-  "updated": "2025-12-26T11:17:54+00:00",
+  "updated": "2025-12-26T11:39:30+00:00",
   "items": [
+    {
+      "id": "4739c73ef2339a63",
+      "title": "NFL experts predict winner of Jaguars vs. Colts Week 17 rematch",
+      "link": "https://sports.yahoo.com/articles/nfl-experts-predict-winner-jaguars-113020531.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T11:30:20+0000",
+      "summary": "NFL experts predict the winner of the Jacksonville Jaguars vs. Indianapolis Colts Week 17 rematch."
+    },
+    {
+      "id": "fc065ed03a0f5862",
+      "title": "NFL experts predict winner of Colts vs. Jaguars Week 17 division game",
+      "link": "https://sports.yahoo.com/articles/nfl-experts-predict-winner-colts-112210152.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T11:22:10+0000",
+      "summary": "Here is who the NFL experts are picking to win the Colts vs. Jaguars Week 17 divisional matchup."
+    },
+    {
+      "id": "112d3a0f6b6f9abe",
+      "title": "NFL games on TV today: Full schedule, times, channels, live streams to watch Christmas week action",
+      "link": "https://sports.yahoo.com/articles/nfl-games-tv-today-full-051001873.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T11:11:00+0000",
+      "summary": "Full schedule, times, channels, live streams to watch Christmas week action"
+    },
     {
       "id": "e330f95a71ca4070",
       "title": "Surprise! Titans-Saints might actually be a good game. Our scouting report, prediction",
@@ -9,15 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-26T11:03:18+0000",
       "summary": "The Tennessee Titans and New Orleans Saints are surprisingly not playing in a battle for the 2026 No. 1 NFL draft pick. Here's what's at stake."
-    },
-    {
-      "id": "3f85505fc83e49c0",
-      "title": "Bengals in the hunt for top 10 spot in draft order entering Week 17",
-      "link": "https://sports.yahoo.com/articles/bengals-hunt-top-10-spot-103031326.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T10:30:31+0000",
-      "summary": "The Bengals are closing in on a top 10 pick in the 2026 NFL draft."
     },
     {
       "id": "2017dc16f8ac7c19",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-18T20:49:21+0000",
       "summary": "The Colts opened Richardson's 21-day window to be activated from injured reserve on Wednesday but the quarterback still has some vision limitations, Shane Steichen said."
-    },
-    {
-      "id": "f740021ab921700d",
-      "title": "Practice Notebook: Injury updates on DeForest Buckner, Sauce Gardner, other Colts players ahead of Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/practice-notebook-injury-updates-deforest-buckner-sauce-gardner-anthony-richardson-josh-downs-week-16",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-18T20:46:17+0000",
-      "summary": "Buckner (neck) was a full participant on Wednesday. Gardner (calf) did not practice."
-    },
-    {
-      "id": "5f5ae3000e416eaf",
-      "title": "Colts Blue Zone Podcast 450: Philip Rivers, Take Two",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-450-philip-rivers-take-two/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-18T20:17:47+0000",
-      "summary": "If you wanted to see Philip Rivers in the Colts' all-blue \"Indiana Nights\" uniform, your prayers have been answered. Rivers' second act will get its own second act against the San Francisco 49ers on Monday Night Football as the Colts try to keep their playoff hopes alive. Dave Griffiths, Mike Chappell and Matt Adams preview [...]"
     }
   ],
   "links": [
