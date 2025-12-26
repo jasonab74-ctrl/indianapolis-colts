@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T15:20:05+00:00",
+  "updated": "2025-12-26T15:42:11+00:00",
   "items": [
     {
       "id": "63b32b574ba54b8e",
@@ -7,35 +7,35 @@
       "link": "https://espn.com/nfl/story/_/id/47414881/vikings-dominate-lions-woeful-passing-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-26T15:14:04+0000",
+      "published": "2025-12-26T15:33:03+0000",
       "summary": "The Vikings accomplished the rare feat of winning an NFL game while finishing with fewer than 10 net passing yards."
     },
     {
-      "id": "e42670865222cec7",
-      "title": "Jaguars’ key matchups vs Colts in Week 17",
-      "link": "https://sports.yahoo.com/articles/jaguars-key-matchups-vs-colts-150738617.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T15:07:38+0000",
-      "summary": "The Jaguars have secured a playoff spot, but must beat the Colts in Indianapolis to clinch the AFC South. With Philip Rivers now leading the Colts, it won’t be as easy as their first meeting."
+      "id": "3e26ba44793a1914",
+      "title": "🏈 Playoff picture projections: The updated odds",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T15:33:03+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
-      "id": "83d48400a1db9163",
-      "title": "Could Dolphins make draft day trade to secure new franchise quarterback?",
-      "link": "https://sports.yahoo.com/articles/could-dolphins-draft-day-trade-150551540.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T15:05:51+0000",
-      "summary": "Dolphins make trade to select Fernando Mendoza in recent 2026 NFL Draft mock."
+      "id": "2934b25f7b3b82c2",
+      "title": "36 NFL rookies reveal the one big lesson they learned this season",
+      "link": "https://espn.com/nfl/story/_/id/47383983/nfl-rookies-tyler-shough-malaki-starks-cowboys-bears-packers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T15:32:57+0000",
+      "summary": "Tyler Shough, Isaac TeSlaa and Jalon Walker were among the 36 rookies who learned how humbling and challenging the NFL can be."
     },
     {
-      "id": "fa6c5dcedf79db48",
-      "title": "Tennessee Titans head coaching search: Lou Anarumo would bring experience",
-      "link": "https://sports.yahoo.com/articles/tennessee-titans-head-coaching-search-150410939.html",
+      "id": "619f1d4bba6983a4",
+      "title": "Fantasy Football Start 'Em, Sit 'Em: Week 17 lineup picks (and benches) from Justin Boone",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-start-em-sit-em-week-17-lineup-picks-and-benches-from-justin-boone-153208295.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-26T15:04:10+0000",
-      "summary": "The Tennessee Titans are searching for their next head coach, and Indianapolis Colts defensive coordinator Lou Anarumo could be a fit."
+      "published": "2025-12-26T15:32:08+0000",
+      "summary": "Fantasy football analyst Justin Boone shares his top starts and sits for Week 17 of the 2025 NFL season."
     },
     {
       "id": "69efd1d1c5deef74",
@@ -56,15 +56,6 @@
       "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?"
     },
     {
-      "id": "2934b25f7b3b82c2",
-      "title": "36 NFL rookies reveal the one big lesson they learned this season",
-      "link": "https://espn.com/nfl/story/_/id/47383983/nfl-rookies-tyler-shough-malaki-starks-cowboys-bears-packers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-26T12:56:05+0000",
-      "summary": "Tyler Shough, Isaac TeSlaa and Jalon Walker were among the 36 rookies who learned how humbling and challenging the NFL can be."
-    },
-    {
       "id": "9a4c3b4d81f9bb38",
       "title": "Our guide to every Week 17 NFL game: Matchup previews, predictions and what's at stake",
       "link": "https://espn.com/nfl/story/_/page/viewersguide47389291/nfl-week-17-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
@@ -81,15 +72,6 @@
       "feed": "ESPN",
       "published": "2025-12-26T12:53:44+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏈 Playoff picture projections: The updated odds",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-26T12:46:06+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
       "id": "c889efa98ec1f921",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-18T20:17:47+0000",
       "summary": "If you wanted to see Philip Rivers in the Colts' all-blue \"Indiana Nights\" uniform, your prayers have been answered. Rivers' second act will get its own second act against the San Francisco 49ers on Monday Night Football as the Colts try to keep their playoff hopes alive. Dave Griffiths, Mike Chappell and Matt Adams preview [...]"
+    },
+    {
+      "id": "8e69819770242aa0",
+      "title": "Philip Rivers feeling good after 'helpful' hits vs. Seahawks, eyes improvements in Colts' Monday Night Football game against 49ers",
+      "link": "https://colts.com/news/philip-rivers-feeling-good-after-helpful-hits-vs-seahawks-eyes-improvements-in-colts-monday-night-football-game-against-49ers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-18T19:26:59+0000",
+      "summary": "Philip Rivers was hit three times by Seahawks defenders on Sunday, which was his first time in a helmet and shoulder pads in nearly five years."
+    },
+    {
+      "id": "eb91db9caf7af070",
+      "title": "Colts’ Anthony Richardson Sr. cleared for practice:  ‘I thank God'",
+      "link": "https://fox59.com/sports/colts/colts-practice-window-opened-for-anthony-richardson-sr/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-18T16:46:10+0000",
+      "summary": "INDIANAPOLIS – Despite being minutes removed from a freaky, horrific accident, Anthony Richardson Sr. received comforting news. There was a brief instant as he was being whisked to a local hospital on Oct. 12, when Richardson wondered if the fractured right orbital bone might threaten his career. Reassurance quickly came from a tending EMT. “Nah, [...]"
     }
   ],
   "links": [
