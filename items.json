@@ -1,50 +1,95 @@
 {
-  "updated": "2025-12-26T12:39:55+00:00",
+  "updated": "2025-12-26T13:32:02+00:00",
   "items": [
+    {
+      "id": "69efd1d1c5deef74",
+      "title": "'Mr. Eligible': The growing fraternity of NFL sixth offensive linemen",
+      "link": "https://espn.com/nfl/story/_/id/47406180/mr-eligible-growing-fraternity-nfl-sixth-offensive-linemen-jumbo-sets-packages",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T13:16:52+0000",
+      "summary": "NFL teams are using sixth O-linemen in more plays this season, and we're highlighting, yep -- six of them."
+    },
+    {
+      "id": "4d56436fe1c428fd",
+      "title": "NFL execs on how Tua Tagovailoa lost his edge and Mike McDaniel's support",
+      "link": "https://espn.com/nfl/story/_/id/47399495/nfl-tua-tagovailoa-qb-dolphins-benched-future-execs-offseason",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T13:16:42+0000",
+      "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?"
+    },
+    {
+      "id": "4c5f2639c8230c6b",
+      "title": "Former USC WR Michael Pittman Jr. discusses Makai Lemon, Biletnikoff",
+      "link": "https://sports.yahoo.com/articles/former-usc-wr-michael-pittman-131525832.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T13:15:25+0000",
+      "summary": "Adam Bradford recently got to speak with former USC Biletnikoff finalist Michael Pittman, who had high praise for 2025 award winner Makai Lemon"
+    },
+    {
+      "id": "50d6bd619c34f8e9",
+      "title": "NFL 2025’s disappointing teams: Browns bad but not among Top 5 most disappointing",
+      "link": "https://sports.yahoo.com/articles/nfl-2025-disappointing-teams-browns-130845985.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T13:08:45+0000",
+      "summary": "The Cleveland Browns have disappointed their fans but the Lions, Vikings, Bengals and more top the disappointment list"
+    },
+    {
+      "id": "38673638dc356ca6",
+      "title": "Matthew Berry’s Fantasy Football Rankings for Week 17 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/matthew-berry-fantasy-football-rankings-161658326.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T13:05:00+0000",
+      "summary": "Dak Prescott, Christian McCaffrey, Puka Nacua and Trey McBride highlight the positional rankings for Week 16 of the 2025 NFL season."
+    },
+    {
+      "id": "c2ad3f57c2c62014",
+      "title": "Saturday Night's Bears-Packers Game Made NFL Viewing History",
+      "link": "https://sports.yahoo.com/articles/saturday-nights-bears-packers-game-130009441.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T13:00:09+0000",
+      "summary": "A stunning comeback electrified millions as the Bears clinched a playoff berth, rewriting NFL viewership records with a dramatic overtime victory."
+    },
+    {
+      "id": "2934b25f7b3b82c2",
+      "title": "36 NFL rookies reveal the one big lesson they learned this season",
+      "link": "https://espn.com/nfl/story/_/id/47383983/nfl-rookies-tyler-shough-malaki-starks-cowboys-bears-packers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T12:56:05+0000",
+      "summary": "Tyler Shough, Isaac TeSlaa and Jalon Walker were among the 36 rookies who learned how humbling and challenging the NFL can be."
+    },
+    {
+      "id": "9a4c3b4d81f9bb38",
+      "title": "Our guide to every Week 17 NFL game: Matchup previews, predictions and what's at stake",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47389291/nfl-week-17-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T12:53:44+0000",
+      "summary": "Seahawks vs. Panthers? Hurts vs. Allen? Picks, predictions, stats and what's at stake for every remaining Week 17 game."
+    },
+    {
+      "id": "2017dc16f8ac7c19",
+      "title": "Reactions: Broncos stay in control of AFC destiny; Cowboys, Vikings win",
+      "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T12:53:44+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
+    },
     {
       "id": "63b32b574ba54b8e",
       "title": "Vikes dominate Lions despite woeful passing game",
       "link": "https://espn.com/nfl/story/_/id/47414881/vikings-dominate-lions-woeful-passing-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-26T12:10:49+0000",
-      "summary": "The Vikings accomplished the rare feat of winning an NFL game 23-10 while finishing with fewer than 10 net passing yards."
-    },
-    {
-      "id": "7debb1ce2c45d41f",
-      "title": "If Both the Texans and the Colts Lose This Weekend, Should Houston Rest Players?",
-      "link": "https://sports.yahoo.com/articles/both-texans-colts-lose-weekend-120006496.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T12:00:06+0000",
-      "summary": "If both Texans and Colts falter, should Houston prioritize player health over securing a higher seed? The playoff picture presents a strategic dilemma."
-    },
-    {
-      "id": "40167a34d1570468",
-      "title": "The Loop NFL Picks: Week 17",
-      "link": "https://sports.yahoo.com/articles/loop-nfl-picks-week-17-120000098.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T12:00:00+0000",
-      "summary": "Steelers at Browns (+3½) Pittsburgh’s D.K. Metcalf could lose as much as $45 million in contractual guarantees after being suspended for smacking a blue-haired Lions fan during last Sunday’s game. The only way you could lose that much money more quickly would be by purchasing $TRUMP meme coins. Pick: Steelers by 7 Patriots at Jets (+13½) New England rallied past Baltimore last week and kept ..."
-    },
-    {
-      "id": "d55b73a5a352610a",
-      "title": "Commanders updated 2026 NFL Draft order: Current 1st round in Week 17",
-      "link": "https://sports.yahoo.com/articles/commanders-updated-2026-nfl-draft-120000036.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T12:00:00+0000",
-      "summary": "﻿Where will the Washington Commanders pick next year?"
-    },
-    {
-      "id": "2017dc16f8ac7c19",
-      "title": "Snap reactions to every Week 17 game: Broncos stay in control of AFC destiny; Cowboys, Vikings win",
-      "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-26T11:49:00+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
+      "published": "2025-12-26T12:47:44+0000",
+      "summary": "The Vikings accomplished the rare feat of winning an NFL game while finishing with fewer than 10 net passing yards."
     },
     {
       "id": "3e26ba44793a1914",
@@ -52,7 +97,7 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-26T06:20:31+0000",
+      "published": "2025-12-26T12:46:06+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
@@ -83,15 +128,6 @@
       "summary": "The Indianapolis Colts today released their Wednesday injury report for Week 17 of the NFL season against the Jacksonville Jaguars on Sunday. Center Tanor Bortolini missed practice today due to a concussion. Bortolini had entered the league’s concussion protocol. He will likely be out this week unless he can clear the protocol quickly this week. [&#8230;]"
     },
     {
-      "id": "69efd1d1c5deef74",
-      "title": "'Mr. Eligible': The growing fraternity of NFL sixth offensive linemen",
-      "link": "https://espn.com/nfl/story/_/id/47406180/mr-eligible-growing-fraternity-nfl-sixth-offensive-linemen-jumbo-sets-packages",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-25T16:07:44+0000",
-      "summary": "NFL teams are using sixth O-linemen in more plays this season, and we're highlighting, yep -- six of them."
-    },
-    {
       "id": "14e7ba01fcacdf7c",
       "title": "Most fashionable arrivals of NFL Week 17, featuring Travis Kelce",
       "link": "https://espn.com/nfl/story/_/id/47406996/nfl-week-17-christmas-fashionable-best-arrivals",
@@ -108,15 +144,6 @@
       "feed": "ESPN",
       "published": "2025-12-25T15:46:51+0000",
       "summary": "The holiday week means uniform heat all around the NFL, led by a monochromatic look from the Vikings."
-    },
-    {
-      "id": "ad678e500be69a86",
-      "title": "What have teams done to slow down Colts RB Jonathan Taylor?",
-      "link": "https://espn.com/nfl/story/_/id/47407824/what-teams-done-slow-colts-rb-jonathan-taylor",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-25T12:31:30+0000",
-      "summary": "Jonathan Taylor's otherworldly production has tapered off, a by-product of Daniel Jones' injury."
     },
     {
       "id": "e007012f0b2a9e00",
@@ -137,15 +164,6 @@
       "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
     },
     {
-      "id": "4d56436fe1c428fd",
-      "title": "NFL execs on how Tua Tagovailoa lost his edge and Mike McDaniel's support",
-      "link": "https://espn.com/nfl/story/_/id/47399495/nfl-tua-tagovailoa-qb-dolphins-benched-future-execs-offseason",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T20:59:44+0000",
-      "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?"
-    },
-    {
       "id": "18157ef7d1c58b9c",
       "title": "Bill Brooks' Breakdown: Looking at Philip Rivers and Alec Pierce's prime time performances in Week 16",
       "link": "https://colts.com/news/bill-brooks-breakdown-looking-at-philip-rivers-and-alec-pierce-s-prime-time-performances-in-week-16",
@@ -153,24 +171,6 @@
       "feed": "Colts.com",
       "published": "2025-12-24T19:14:00+0000",
       "summary": "Colts Ring of Honor wide receiver Bill Brooks looks at the impressive performances by Philip Rivers and Alec Pierce against the 49ers and what their connection means for the Colts, and offers his perspective on the team's mentality in the final two weeks of the regular season."
-    },
-    {
-      "id": "ccb686d405df5645",
-      "title": "What has gone wrong for four teams trying to make the playoffs? Solak on the Lions, Bucs, Ravens, Colts",
-      "link": "https://espn.com/nfl/story/_/id/47381380/2025-nfl-week-16-lessons-lions-buccaneers-ravens-colts-bears-playoff-races",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T19:11:16+0000",
-      "summary": "How did the Lions, Bucs, Ravens and Colts end up outside the playoff field heading into Week 17? Plus, do the Bears have the Coach of the Year?"
-    },
-    {
-      "id": "1298489606c35769",
-      "title": "Updated NFL Power Rankings: New 1-32 poll, plus each team's rookie of the year",
-      "link": "https://espn.com/nfl/story/_/id/47389978/nfl-week-17-power-rankings-poll-32-teams-2025-best-rookies",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-24T19:11:16+0000",
-      "summary": "Let's update our NFL Power Rankings ahead of Week 17. We also looked at the best rookies from all 32 teams."
     },
     {
       "id": "954f091829d52bfe",
