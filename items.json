@@ -1,23 +1,23 @@
 {
-  "updated": "2025-12-26T21:17:16+00:00",
+  "updated": "2025-12-26T21:39:07+00:00",
   "items": [
-    {
-      "id": "5a06f169dbfcf86a",
-      "title": "Sauce rejoins Colts, but Buckner's season is over",
-      "link": "https://espn.com/nfl/story/_/id/47420802/colts-get-sauce-gardner-back-shut-deforest-buckner",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-26T21:14:37+0000",
-      "summary": "Colts star cornerback Sauce Gardner will play Sunday after missing 3 games because of injury, but Pro Bowl defensive tackle DeForest Buckner will miss the rest of the season after aggravating a herniated disk in his neck."
-    },
     {
       "id": "384fc48acedbacd9",
       "title": "Garrett eyes sack record vs. 'legendary' Rodgers",
       "link": "https://espn.com/nfl/story/_/id/47420755/garrett-setting-nfl-sack-record-vs-rodgers-special",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-26T21:14:37+0000",
+      "published": "2025-12-26T21:28:52+0000",
       "summary": "Defensive end Myles Garrett says it would be \"special\" to set the NFL's single-season sack record against \"legendary\" quarterback Aaron Rodgers when the Browns and Steelers square off Sunday in Cleveland."
+    },
+    {
+      "id": "5a06f169dbfcf86a",
+      "title": "Sauce rejoins Colts, but Buckner's season is over",
+      "link": "https://espn.com/nfl/story/_/id/47420802/colts-get-sauce-gardner-back-shut-deforest-buckner",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-26T21:28:52+0000",
+      "summary": "Colts star cornerback Sauce Gardner will play Sunday after missing 3 games because of injury, but Pro Bowl defensive tackle DeForest Buckner will miss the rest of the season after aggravating a herniated disk in his neck."
     },
     {
       "id": "63b32b574ba54b8e",
@@ -25,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47414881/vikings-dominate-lions-woeful-passing-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-26T21:14:37+0000",
+      "published": "2025-12-26T21:28:52+0000",
       "summary": "The Vikings accomplished the rare feat of winning an NFL game while finishing with fewer than 10 net passing yards."
     },
     {
@@ -34,26 +34,44 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-26T21:14:37+0000",
+      "published": "2025-12-26T21:28:52+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
-      "id": "ea096b179bcca723",
-      "title": "Colts hoping to keep playoff hopes alive as Jags chase AFC South crown",
-      "link": "https://sports.yahoo.com/articles/colts-hoping-keep-playoff-hopes-210509301.html",
+      "id": "573ac84f1997a7d7",
+      "title": "Seahawks vs Panthers Predictions, Picks & Best Bets for NFL Week 17",
+      "link": "https://sports.yahoo.com/articles/seahawks-vs-panthers-predictions-picks-212200243.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-26T21:05:09+0000",
-      "summary": ""
+      "published": "2025-12-26T21:22:00+0000",
+      "summary": "Take the Seahawks spread as we dish on our picks, odds & expert predictions against the Panthers on Sunday, December 28."
     },
     {
-      "id": "5d0a9adb1f1c4c8f",
-      "title": "Maxx Crosby reportedly shut down by Raiders for Week 17 matchup against Giants",
-      "link": "https://sports.yahoo.com/nfl/article/maxx-crosby-reportedly-shut-down-by-raiders-for-week-17-matchup-against-giants-210008775.html",
+      "id": "36a9bac9c9a05ba7",
+      "title": "Saturday Same Game Parlay: Ravens @ Packers",
+      "link": "https://sports.yahoo.com/articles/saturday-same-game-parlay-ravens-211718563.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-26T21:00:08+0000",
-      "summary": "The Raiders and Giants are both 2-13 and vying for the No. 1 pick in the 2026 NFL draft"
+      "published": "2025-12-26T21:17:18+0000",
+      "summary": "The NFL’s Week 17 backup quarterback parade will continue Saturday evening, with Tyler Huntley and Malik Willis filling in for Lamar Jackson and Jordan Love. This season, the Ravens are 1-2 SU with Jackson inactive. This will be the first&hellip;"
+    },
+    {
+      "id": "288a15b9320b2645",
+      "title": "Colts put DT Buckner back on injured reserve with neck injury",
+      "link": "https://sports.yahoo.com/articles/colts-put-dt-buckner-back-211608763.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T21:16:08+0000",
+      "summary": "The Indianapolis Colts placed Pro Bowl defensive tackle DeForest Buckner back on injured reserve Friday, ending his season with two games still to play.  Coach Shane Steichen told reporters that Buckner aggravated the neck injury that forced him to miss five games earlier this season.  Buckner is expected to have surgery next week."
+    },
+    {
+      "id": "b8bff7042d11ba4c",
+      "title": "Jalen Hurts Named Eagles' 'Fatal Flaw' by NFL Analyst",
+      "link": "https://sports.yahoo.com/articles/jalen-hurts-named-eagles-fatal-210828186.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-26T21:08:28+0000",
+      "summary": "An NFL analyst took a shot at Philadelphia Eagles QB Jalen Hurts."
     },
     {
       "id": "fad6a1027a21b955",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-20T22:06:24+0000",
       "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
-    },
-    {
-      "id": "6983a8d8e937262f",
-      "title": "Colts rule out CB Sauce Gardner, WR Anthony Gould for Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/colts-rule-out-sauce-gardner-anthony-gould-week-16-san-francisco-49ers-deforest-buckner-anthony-richardson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-20T17:48:49+0000",
-      "summary": "DeForest Buckner was a full participant in practice on Thursday and Friday."
-    },
-    {
-      "id": "065ec10612f971fa",
-      "title": "Philip Rivers feels ‘a week better,’ but that must translate into Colts wins",
-      "link": "https://fox59.com/sports/colts/philip-rivers-feels-a-week-better-but-that-must-translate-into-colts-wins/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-19T22:32:07+0000",
-      "summary": "INDIANAPOLIS – After a frenetic week of transitioning from high school coach to the NFL’s oldest player, Philip Rivers has settled back into the daily grind that used to dictate his life for 17 seasons. Team meetings, positional meetings, work in the weight room, more meetings, walkthroughs and practices. And taking inventory of his 44-year-old [...]"
     }
   ],
   "links": [
