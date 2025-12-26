@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T07:20:52+00:00",
+  "updated": "2025-12-26T07:41:50+00:00",
   "items": [
     {
       "id": "63b32b574ba54b8e",
@@ -18,15 +18,6 @@
       "feed": "ESPN",
       "published": "2025-12-26T06:20:31+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "74c9bc9f58f0b2b5",
-      "title": "Winners and Losers from the Broncos 20-13 victory over the Chiefs",
-      "link": "https://sports.yahoo.com/articles/winners-losers-broncos-20-13-053606164.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-26T05:36:06+0000",
-      "summary": "That wasn’t a pretty win, but a win is a win. Due to the NFL trying to capitalize on the Christmas holiday, the Denver Broncos had a short week in week 17 on the road in Arrowhead, and the game went as expected. The Broncos played down to their competition once again. There was some […]"
     },
     {
       "id": "2017dc16f8ac7c19",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-18T19:26:59+0000",
       "summary": "Philip Rivers was hit three times by Seahawks defenders on Sunday, which was his first time in a helmet and shoulder pads in nearly five years."
+    },
+    {
+      "id": "eb91db9caf7af070",
+      "title": "Colts’ Anthony Richardson Sr. cleared for practice:  ‘I thank God'",
+      "link": "https://fox59.com/sports/colts/colts-practice-window-opened-for-anthony-richardson-sr/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-18T16:46:10+0000",
+      "summary": "INDIANAPOLIS – Despite being minutes removed from a freaky, horrific accident, Anthony Richardson Sr. received comforting news. There was a brief instant as he was being whisked to a local hospital on Oct. 12, when Richardson wondered if the fractured right orbital bone might threaten his career. Reassurance quickly came from a tending EMT. “Nah, [...]"
     }
   ],
   "links": [
