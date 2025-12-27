@@ -1,13 +1,31 @@
 {
-  "updated": "2025-12-27T05:44:20+00:00",
+  "updated": "2025-12-27T06:29:34+00:00",
   "items": [
+    {
+      "id": "38673638dc356ca6",
+      "title": "Matthew Berry’s Fantasy Football Rankings for Week 17 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/matthew-berry-fantasy-football-rankings-161658326.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-27T06:20:00+0000",
+      "summary": "Dak Prescott, Christian McCaffrey, Puka Nacua and Trey McBride highlight the positional rankings for Week 17 of the 2025 NFL season."
+    },
+    {
+      "id": "4d56436fe1c428fd",
+      "title": "NFL execs on how Tua Tagovailoa lost his edge and Mike McDaniel's support",
+      "link": "https://espn.com/nfl/story/_/id/47399495/nfl-tua-tagovailoa-qb-dolphins-benched-future-execs-offseason",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-27T06:16:36+0000",
+      "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?"
+    },
     {
       "id": "9a4c3b4d81f9bb38",
       "title": "What you need to know for every NFL game in Week 17 -- including fantasy tips, playoff implications, predictions",
       "link": "https://espn.com/nfl/story/_/page/viewersguide47389291/nfl-week-17-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-27T05:39:56+0000",
+      "published": "2025-12-27T06:16:16+0000",
       "summary": "Seahawks vs. Panthers? Jalen Hurts vs. Josh Allen? Picks, predictions, stats and what's at stake for every remaining Week 17 game."
     },
     {
@@ -16,17 +34,8 @@
       "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-27T05:39:56+0000",
+      "published": "2025-12-27T06:16:15+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
-    },
-    {
-      "id": "4d56436fe1c428fd",
-      "title": "NFL execs on how Tua Tagovailoa lost his edge and Mike McDaniel's support",
-      "link": "https://espn.com/nfl/story/_/id/47399495/nfl-tua-tagovailoa-qb-dolphins-benched-future-execs-offseason",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-27T05:37:33+0000",
-      "summary": "What has gone wrong for Tagovailoa, what's the Dolphins' path forward and is there any interest in him?"
     },
     {
       "id": "c286b17fcde6c85b",
@@ -36,6 +45,15 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-27T05:30:01+0000",
       "summary": "Here's everything you need to know about the NFL's Week 17 doubleheader on Saturday, including the full TV schedule, live-streaming information, and kickoff times for Packers vs. Ravens and Chargers vs. Texans."
+    },
+    {
+      "id": "28eb42d752eacfd3",
+      "title": "NFL Week 17 Fantasy Football injury report",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-fantasy-football-052105556.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-27T05:21:05+0000",
+      "summary": "Here we'll try to look at and discuss the players included in the 2026 NFL Week 17 Fantasy Football injury report."
     },
     {
       "id": "bbf27b395b3a0e3d",
@@ -162,15 +180,6 @@
       "feed": "Colts.com",
       "published": "2025-12-26T11:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
-    },
-    {
-      "id": "c889efa98ec1f921",
-      "title": "Bah humbug: An NFL holiday story, featuring festive names from around the league",
-      "link": "https://espn.com/nfl/story/_/id/47391854/red-zone-reindeer-gang-grinch-holiday-names-nfl-christmas-games",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-26T01:11:42+0000",
-      "summary": "From Jaylin Noel to Julius Chestnut, the fictional Holiday Bowl is full of holiday cheer."
     },
     {
       "id": "f5479a3c2f3be86a",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-18T20:46:17+0000",
       "summary": "Buckner (neck) was a full participant on Wednesday. Gardner (calf) did not practice."
-    },
-    {
-      "id": "5f5ae3000e416eaf",
-      "title": "Colts Blue Zone Podcast 450: Philip Rivers, Take Two",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-450-philip-rivers-take-two/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-18T20:17:47+0000",
-      "summary": "If you wanted to see Philip Rivers in the Colts' all-blue \"Indiana Nights\" uniform, your prayers have been answered. Rivers' second act will get its own second act against the San Francisco 49ers on Monday Night Football as the Colts try to keep their playoff hopes alive. Dave Griffiths, Mike Chappell and Matt Adams preview [...]"
     }
   ],
   "links": [
