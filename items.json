@@ -1,13 +1,22 @@
 {
-  "updated": "2025-12-27T21:38:42+00:00",
+  "updated": "2025-12-27T22:18:37+00:00",
   "items": [
+    {
+      "id": "2d5bd81b03bfbf6d",
+      "title": "Steelers' Alex Highsmith receives controversial fine from NFL",
+      "link": "https://sports.yahoo.com/articles/steelers-alex-highsmith-receives-controversial-221402137.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-27T22:14:02+0000",
+      "summary": "The National Football League has fined Steelers OLB Alex Highsmith for tripping Lions QB Jared Goff in last week's matchup."
+    },
     {
       "id": "384fc48acedbacd9",
       "title": "Garrett eyes sack record vs. 'legendary' Rodgers",
       "link": "https://espn.com/nfl/story/_/id/47420755/garrett-setting-nfl-sack-record-vs-rodgers-special",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-27T21:31:46+0000",
+      "published": "2025-12-27T22:03:24+0000",
       "summary": "Defensive end Myles Garrett says it would be \"special\" to set the NFL's single-season sack record against \"legendary\" quarterback Aaron Rodgers when the Browns and Steelers square off Sunday in Cleveland."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47427752/jags-rb-bhayshul-tuten-ruled-vs-colts-due-injury",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-27T21:31:46+0000",
+      "published": "2025-12-27T22:03:24+0000",
       "summary": "Jaguars running back Bhayshul Tuten will miss Sunday's game at Indianapolis because of the finger injury he suffered two weeks ago."
     },
     {
@@ -25,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47420802/colts-get-sauce-gardner-back-shut-deforest-buckner",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-27T21:31:46+0000",
+      "published": "2025-12-27T22:03:24+0000",
       "summary": "Colts star cornerback Sauce Gardner will play Sunday after missing three games because of injury, but Pro Bowl defensive tackle DeForest Buckner will miss the rest of the season after aggravating a herniated disk in his neck."
     },
     {
@@ -34,62 +43,17 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-27T21:31:46+0000",
+      "published": "2025-12-27T22:03:23+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
-      "id": "89ca2b3f2f682492",
-      "title": "How the Texans built one of the best defenses in the NFL",
-      "link": "https://espn.com/nfl/story/_/id/47408145/houston-texans-no-1-defense-built-league",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-27T21:31:39+0000",
-      "summary": "Houston has made offseason decisions that have paid off through the draft and free agency."
-    },
-    {
-      "id": "7ccda45ab8aa3473",
-      "title": "Report: T.J. Watt ‘Expected To Be Ready’ For Steelers’ Next ‘Meaningful’ Game",
-      "link": "https://sports.yahoo.com/articles/report-t-j-watt-expected-212819840.html",
+      "id": "8b1d5b0184f0ccc3",
+      "title": "NFL fines Bears DE over $11K for pair of illegal hits on Packers QB Jordan Love",
+      "link": "https://sports.yahoo.com/articles/nfl-fines-bears-over-11k-215900988.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:28:19+0000",
-      "summary": "Pittsburgh Steelers linebacker T.J. Watt was ruled out for the team’s Week 17 game vs. the Cleveland Browns on Friday as he recovers from his partially collapsed lung. NFL Network’s Tom Pelissero provided some good news on Saturday, however, regarding the eight-time Pro Bowler’s potential return to action this season. “Steelers star LB T.J. Watt […]"
-    },
-    {
-      "id": "3b70dd7d413a0740",
-      "title": "Steelers Predicted To Draft 3,500-Yard Passer As Aaron Rodgers’ Replacement",
-      "link": "https://sports.yahoo.com/articles/steelers-predicted-draft-3-500-212708470.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:27:08+0000",
-      "summary": "The Pittsburgh Steelers might be looking for a new quarterback this offseason, especially with Aaron Rodgers considering retirement. If the Steelers need to replace Rodgers, consider drafting a quarterback in the 2026 NFL Draft. Fox Sports published a mock draft on Friday, projecting that Pittsburgh would select Alabama quarterback Ty Simpson with the 20th pick. […]"
-    },
-    {
-      "id": "ef5d1c96b06fe12e",
-      "title": "Texans vs. Chargers: Saturday NFL Special Open Thread",
-      "link": "https://sports.yahoo.com/articles/texans-vs-chargers-saturday-nfl-212500564.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:25:00+0000",
-      "summary": "The first of a Saturday NFL doubleheader kicks off from Los Angeles. Join us here to discuss the game!"
-    },
-    {
-      "id": "655f8e5f19f63e57",
-      "title": "Why Jaguars made 2 roster moves before Week 17 game vs. Colts",
-      "link": "https://sports.yahoo.com/articles/why-jaguars-made-2-roster-211855520.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:18:55+0000",
-      "summary": "The Jacksonville Jaguars made a pair of roster moves prior to Sunday's Week 17 game vs. the Colts."
-    },
-    {
-      "id": "8f237fbc3483f556",
-      "title": "Malik Willis to the Dolphins, 4 Potential Malik Willis Landing Spots in NFL Free Agency",
-      "link": "https://sports.yahoo.com/articles/malik-willis-dolphins-4-potential-211438634.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:14:38+0000",
-      "summary": "Backup quarterback Malik Willis has been an underrated key to the Green Bay Packers&#8217; success in recent seasons, stepping up [&#8230;]"
+      "published": "2025-12-27T21:59:00+0000",
+      "summary": "The NFL fined Bears DE Austin Booker over $11,000 for a pair of illegal hits on Packers QB Jordan Love in Week 16."
     },
     {
       "id": "720441d28e16e225",
@@ -97,17 +61,35 @@
       "link": "https://sports.yahoo.com/articles/texans-vs-chargers-live-score-190002435.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:12:00+0000",
+      "published": "2025-12-27T21:55:00+0000",
       "summary": "The Sporting News is tracking live scoring updates and highlights for Texans vs. Chargers on Saturday afternoon. Follow for complete results from the NFL Week 17 game."
     },
     {
-      "id": "65fa846ba5e544c9",
-      "title": "Jeffery Simmons is the engine of the Tennessee Titans' defense",
-      "link": "https://sports.yahoo.com/articles/jeffery-simmons-engine-tennessee-titans-211038122.html",
+      "id": "1eb5d881465666ab",
+      "title": "Ravens vs Packers: Time, Channel & Free Live Streaming Info for Saturday Night Football",
+      "link": "https://sports.yahoo.com/articles/ravens-vs-packers-time-channel-215500103.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-27T21:10:38+0000",
-      "summary": "Among all interior defensive linemen in the NFL, Simmons sits at the very top in pass rush grade at 90.9"
+      "published": "2025-12-27T21:55:00+0000",
+      "summary": "Ravens vs Packers live streaming details for NFL Week 17 action on Saturday, December 27, 2025."
+    },
+    {
+      "id": "9a4c3b4d81f9bb38",
+      "title": "What you need to know for every NFL game in Week 17 -- including fantasy tips, playoff implications, predictions",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47389291/nfl-week-17-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-27T21:32:59+0000",
+      "summary": "Seahawks vs. Panthers? Jalen Hurts vs. Josh Allen? Picks, predictions, stats and what's at stake for every remaining Week 17 game."
+    },
+    {
+      "id": "2017dc16f8ac7c19",
+      "title": "Reactions: Broncos stay in control of AFC destiny; Cowboys, Vikings win",
+      "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-27T21:32:59+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
     },
     {
       "id": "14e7ba01fcacdf7c",
@@ -117,15 +99,6 @@
       "feed": "ESPN",
       "published": "2025-12-27T20:35:55+0000",
       "summary": "Before the NFL's Week 17 slate kicked off, players made sure to put their most fashionable foot forward."
-    },
-    {
-      "id": "445d83f40931a765",
-      "title": "Indianapolis Colts playoffs: Updated elimination scenario, AFC standings, playoff picture for Week 17",
-      "link": "https://stampedeblue.com/indianapolis-colts-nfl-playoffs/119653/nfl-playoff-picture-afc-south-standings-updated-week-17",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-27T20:00:00+0000",
-      "summary": "The Indianapolis Colts may or may not be in a do-or-die situation in Week 17 when they host the Jacksonville Jaguars on Sunday. Their playoff picture could be settled on Saturday afternoon when the Houston Texans travel to face the Los Angeles Chargers. The Colts are a 5.5-point home underdog against the Jaguars while the [&#8230;]"
     },
     {
       "id": "f41b262ed58c04cf",
@@ -189,24 +162,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-27T12:24:00+0000",
       "summary": "The answer to that question really starts on Saturday night as the Texans have a chance to make the Sunday game against the Jaguars, only important to the Jaguars. Should the Texans lose, only being inferior to the Jags should be the reason for a Colts loss. The Colts would again hold their destiny in [&#8230;]"
-    },
-    {
-      "id": "9a4c3b4d81f9bb38",
-      "title": "What you need to know for every NFL game in Week 17 -- including fantasy tips, playoff implications, predictions",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47389291/nfl-week-17-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-27T06:16:16+0000",
-      "summary": "Seahawks vs. Panthers? Jalen Hurts vs. Josh Allen? Picks, predictions, stats and what's at stake for every remaining Week 17 game."
-    },
-    {
-      "id": "2017dc16f8ac7c19",
-      "title": "Reactions: Broncos stay in control of AFC destiny; Cowboys, Vikings win",
-      "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-27T06:16:15+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
     },
     {
       "id": "bbf27b395b3a0e3d",
@@ -369,6 +324,15 @@
       "feed": "Stampede Blue",
       "published": "2025-12-24T05:13:39+0000",
       "summary": "According to NFL Network’s Tom Pelissero, the Minnesota Vikings have claimed recently waived Indianapolis Colts backup quarterback Brett Rypien off waivers, with starter J.J. McCarthy (hand) already out this week: Before this past Monday’s primetime game, the Colts waived Rypien, who had previously been signed to the active roster a week prior to serve as [&#8230;]"
+    },
+    {
+      "id": "ef8025459de53ea2",
+      "title": "Five Colts named as NFL Pro Bowl Games alternates for AFC",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119719/five-colts-named-as-pro-bowl-games-afc-alternates",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-24T04:56:03+0000",
+      "summary": "It’s shaping up to be another disappointing season as this once promising campaign concludes, but it’s possible that the Indianapolis Colts could still be well represented at this year’s Pro Bowl Games. The Pro Bowl games will be held during Super Bowl LX week on Tuesday, February 3rd, in the San Francisco Bay area, and [&#8230;]"
     },
     {
       "id": "dd562e57948e5e37",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-12-22T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for San Francisco 49ers at Indianapolis Colts on Monday, December 22 at 8:15 p.m. ET (Week 16)."
+    },
+    {
+      "id": "cece5ea0404395e2",
+      "title": "Niners at Colts: What to watch for",
+      "link": "https://fox59.com/sports/colts/niners-at-colts-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-21T23:14:56+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Monday night meeting with the San Francisco 49ers at Lucas Oil Stadium. History lesson, Part I The Colts lead the overall series 27-18, although the bulk of the series predates their relocation to Indy. Since the move in 1984, they’ve met just 10 times, with the [...]"
+    },
+    {
+      "id": "04ccd23a463ea997",
+      "title": "Roof closed as Colts host 49ers for MNF",
+      "link": "https://fox59.com/sports/colts/roof-closed-as-colts-host-49ers-for-mnf/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-21T19:48:04+0000",
+      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against quarterback Brock Purdy and the San Francisco 49ers. The Monday Night Football matchup will see Philip Rivers return to Lucas Oil Stadium as he attempts to lead the 8-6 Colts back into the win column against the 10-4 [...]"
+    },
+    {
+      "id": "a543fb9d89d9ebb0",
+      "title": "Colts-49ers preview: What can Philip Rivers, Jonathan Taylor do on Monday Night Football?",
+      "link": "https://colts.com/news/colts-49ers-preview-what-can-philip-rivers-jonathan-taylor-do-on-monday-night-football",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-21T16:01:39+0000",
+      "summary": "The Colts' game plan in Week 15 was to lean heavily on their run game. Could this week's matchup against the San Francisco 49ers be a prime opportunity to do that again?"
+    },
+    {
+      "id": "5c51269d48d7c77b",
+      "title": "The Colts Show Mailbag: Anthony Richardson Sr., icing kickers, Jonathan Taylor with Philip Rivers",
+      "link": "https://colts.com/news/the-colts-show-mailbag-anthony-richardson-sr-icing-kickers-jonathan-taylor-with-philip-rivers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-21T13:00:16+0000",
+      "summary": "The Colts Show Mailbag returns for Week 16 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
     }
   ],
   "links": [
