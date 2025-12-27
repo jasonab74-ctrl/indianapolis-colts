@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T01:27:55+00:00",
+  "updated": "2025-12-27T03:10:45+00:00",
   "items": [
     {
       "id": "384fc48acedbacd9",
@@ -45,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-27T01:05:03+0000",
       "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
-    },
-    {
-      "id": "afba9505844ffc50",
-      "title": "Is there an NFL game tonight? Explaining Week 17 weekend schedule",
-      "link": "https://sports.yahoo.com/articles/nfl-game-tonight-explaining-week-003634415.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-27T00:36:34+0000",
-      "summary": "It seems like they play every night."
     },
     {
       "id": "9b810f436a78b839",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-18T20:17:47+0000",
       "summary": "If you wanted to see Philip Rivers in the Colts' all-blue \"Indiana Nights\" uniform, your prayers have been answered. Rivers' second act will get its own second act against the San Francisco 49ers on Monday Night Football as the Colts try to keep their playoff hopes alive. Dave Griffiths, Mike Chappell and Matt Adams preview [...]"
+    },
+    {
+      "id": "8e69819770242aa0",
+      "title": "Philip Rivers feeling good after 'helpful' hits vs. Seahawks, eyes improvements in Colts' Monday Night Football game against 49ers",
+      "link": "https://colts.com/news/philip-rivers-feeling-good-after-helpful-hits-vs-seahawks-eyes-improvements-in-colts-monday-night-football-game-against-49ers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-18T19:26:59+0000",
+      "summary": "Philip Rivers was hit three times by Seahawks defenders on Sunday, which was his first time in a helmet and shoulder pads in nearly five years."
     }
   ],
   "links": [
