@@ -1,14 +1,41 @@
 {
-  "updated": "2025-12-28T19:37:12+00:00",
+  "updated": "2025-12-28T20:21:28+00:00",
   "items": [
+    {
+      "id": "e69575f9909a351d",
+      "title": "WATCH: Chase Young scores ridiculous touchdown for New Orleans Saints",
+      "link": "https://sports.yahoo.com/articles/watch-chase-young-scores-ridiculous-201544403.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-28T20:15:44+0000",
+      "summary": "Chase Young scored an incredible strip-sack touchdown for the New Orleans Saints in Week 17 of the 2025 NFL season."
+    },
+    {
+      "id": "db4f8ddd291bcefe",
+      "title": "Colts' CB Sauce Gardner exits Week 17 game vs. Jaguars with injury",
+      "link": "https://sports.yahoo.com/articles/colts-cb-sauce-gardner-exits-201505430.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-28T20:15:05+0000",
+      "summary": "Colts' CB Sauce Gardner has exited the team's Week 17 game against the Jaguars with an injury."
+    },
     {
       "id": "cfa9dab5ff4d781f",
       "title": "Patriots vs. Jets: Live updates, score, news from NFL Week 17",
       "link": "https://sports.yahoo.com/articles/patriots-vs-jets-live-updates-171637898.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-28T19:30:57+0000",
+      "published": "2025-12-28T20:14:27+0000",
       "summary": "New England looks to stay perfect on the road."
+    },
+    {
+      "id": "a80104ca4da1f772",
+      "title": "Watch: Patriots rookie WR Efton Chism III records first NFL catch",
+      "link": "https://sports.yahoo.com/articles/watch-patriots-rookie-wr-efton-200551491.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-28T20:05:51+0000",
+      "summary": "Patriots rookie receiver Efton Chism III hauled in his first NFL catch on Sunday, and it went for 30 yards."
     },
     {
       "id": "01a1d12aad8fcb3a",
@@ -16,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/47430326/ravens-derrick-henry-passes-tony-dorsett-all-rushing-list",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-28T19:22:24+0000",
+      "published": "2025-12-28T20:01:00+0000",
       "summary": "Baltimore running back Derrick Henry moved into 10th place all time in NFL rushing yards Saturday night, finishing with 216, to go along with four touchdowns on the ground, as the Ravens produced a 41-24 win over the Green Bay Packers at Lambeau Field."
     },
     {
@@ -25,17 +52,26 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-28T19:22:24+0000",
+      "published": "2025-12-28T20:01:00+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
-      "id": "84cc0bef28af240d",
-      "title": "Bills vs. Eagles: How to watch, TV schedule, radio broadcast, odds, more",
-      "link": "https://sports.yahoo.com/articles/bills-vs-eagles-watch-tv-191906441.html",
+      "id": "0cdb5753eef15082",
+      "title": "Tennessee Titans 2026 opponents nearly set for NFL schedule, include Steelers and Eagles in Nashville",
+      "link": "https://sports.yahoo.com/articles/tennessee-titans-2026-opponents-nearly-200046792.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-28T19:19:06+0000",
-      "summary": "Josh Allen and Jalen Hurts are two of the best mobile QBs in the NFL. Who will come out on top?"
+      "published": "2025-12-28T20:00:46+0000",
+      "summary": "The Tennessee Titans' 2026 opponents are almost completely set heading into Week 18."
+    },
+    {
+      "id": "0722ca849837a459",
+      "title": "NFL playoff picture: What does Eagles-Bills mean for NFC, AFC standings in Week 17",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-eagles-200000718.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-28T20:00:00+0000",
+      "summary": "The Eagles face the Bills in Buffalo on Sunday. We break down what the game means for the NFL playoff picture in Week 17."
     },
     {
       "id": "1fcc2b3d4f6e1e26",
@@ -45,15 +81,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-28T18:51:48+0000",
       "summary": "Having officially been knocked out of playoff contention again, the Indianapolis Colts (8-7), and specifically team owner and CEO Carlie Irsay-Gordon and her two sisters, will face some tough decisions this upcoming offseason. Chief among them is expected to be the job security of longtime general manager Chris Ballard, along with other key leadership positions [&#8230;]"
-    },
-    {
-      "id": "9a4c3b4d81f9bb38",
-      "title": "What you need to know for every NFL game in Week 17 -- including fantasy tips, playoff implications, predictions",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47389291/nfl-week-17-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-28T18:11:25+0000",
-      "summary": "Seahawks vs. Panthers? Jalen Hurts vs. Josh Allen? Picks, predictions, stats and what's at stake for every remaining Week 17 game."
     },
     {
       "id": "14e7ba01fcacdf7c",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-21T16:01:39+0000",
       "summary": "The Colts' game plan in Week 15 was to lean heavily on their run game. Could this week's matchup against the San Francisco 49ers be a prime opportunity to do that again?"
-    },
-    {
-      "id": "5c51269d48d7c77b",
-      "title": "The Colts Show Mailbag: Anthony Richardson Sr., icing kickers, Jonathan Taylor with Philip Rivers",
-      "link": "https://colts.com/news/the-colts-show-mailbag-anthony-richardson-sr-icing-kickers-jonathan-taylor-with-philip-rivers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-21T13:00:16+0000",
-      "summary": "The Colts Show Mailbag returns for Week 16 as JJ Stankevitz answers listener, viewer and reader questions on Colts.com."
-    },
-    {
-      "id": "74af292bb51fcc70",
-      "title": "Colts’ DeForest Buckner had to weigh ‘long-term life’ issues when deciding to return",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-had-to-weigh-long-term-life-issues-when-deciding-to-return/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-20T22:06:24+0000",
-      "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
-    },
-    {
-      "id": "6983a8d8e937262f",
-      "title": "Colts rule out CB Sauce Gardner, WR Anthony Gould for Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/colts-rule-out-sauce-gardner-anthony-gould-week-16-san-francisco-49ers-deforest-buckner-anthony-richardson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-20T17:48:49+0000",
-      "summary": "DeForest Buckner was a full participant in practice on Thursday and Friday."
     }
   ],
   "links": [
