@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T06:30:09+00:00",
+  "updated": "2025-12-28T06:55:16+00:00",
   "items": [
     {
       "id": "3e4de0b3ebc24af8",
@@ -9,6 +9,33 @@
       "feed": "Colts.com",
       "published": "2025-12-28T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Jacksonville Jaguars at Indianapolis Colts on Monday, December 28 at 1:00 p.m. ET (Week 17)."
+    },
+    {
+      "id": "01a1d12aad8fcb3a",
+      "title": "Henry up to 10th all-time in rushing, Ravens win",
+      "link": "https://espn.com/nfl/story/_/id/47430326/ravens-derrick-henry-passes-tony-dorsett-all-rushing-list",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-28T06:39:14+0000",
+      "summary": "Baltimore running back Derrick Henry moved into 10th place all-time in NFL rushing yards on Saturday night, finishing with 216, to go along with four touchdowns on the ground, as the Ravens authored a 41-24 win over the Green Bay Packers at Lambeau Field."
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "🏆 Playoff picture projections: The updated odds",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-28T06:39:14+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "3fef2e95f0fbe73e",
+      "title": "The Packers have done what no other NFL team has done before",
+      "link": "https://sports.yahoo.com/articles/packers-done-no-other-nfl-062523091.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-28T06:25:23+0000",
+      "summary": "The Green Bay Packers have perfected a new way to lose this season."
     },
     {
       "id": "2017dc16f8ac7c19",
@@ -27,24 +54,6 @@
       "feed": "ESPN",
       "published": "2025-12-28T05:51:46+0000",
       "summary": "Seahawks vs. Panthers? Jalen Hurts vs. Josh Allen? Picks, predictions, stats and what's at stake."
-    },
-    {
-      "id": "01a1d12aad8fcb3a",
-      "title": "Henry moves up rushing list with big performance",
-      "link": "https://espn.com/nfl/story/_/id/47430326/ravens-derrick-henry-passes-tony-dorsett-all-rushing-list",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-28T05:33:10+0000",
-      "summary": "Ravens running back Derrick Henry continued his historic run this season, moving into 10th place on the NFL's all-time rushing list Saturday night."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏆 Playoff picture projections: The updated odds",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-28T05:33:09+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
       "id": "4d56436fe1c428fd",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-20T17:48:49+0000",
       "summary": "DeForest Buckner was a full participant in practice on Thursday and Friday."
-    },
-    {
-      "id": "065ec10612f971fa",
-      "title": "Philip Rivers feels ‘a week better,’ but that must translate into Colts wins",
-      "link": "https://fox59.com/sports/colts/philip-rivers-feels-a-week-better-but-that-must-translate-into-colts-wins/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-19T22:32:07+0000",
-      "summary": "INDIANAPOLIS – After a frenetic week of transitioning from high school coach to the NFL’s oldest player, Philip Rivers has settled back into the daily grind that used to dictate his life for 17 seasons. Team meetings, positional meetings, work in the weight room, more meetings, walkthroughs and practices. And taking inventory of his 44-year-old [...]"
     }
   ],
   "links": [
