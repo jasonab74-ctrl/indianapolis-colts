@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T09:19:08+00:00",
+  "updated": "2025-12-28T09:41:05+00:00",
   "items": [
     {
       "id": "3e4de0b3ebc24af8",
@@ -54,33 +54,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-28T08:53:09+0000",
       "summary": "CJ Stroud throws two long touchdown passes as the Houston Texans reach the NFL play-offs."
-    },
-    {
-      "id": "3e33a9576d41c98d",
-      "title": "What channel is Panthers vs. Seahawks on today? Live stream, time, TV schedule to watch NFL Week 17 game",
-      "link": "https://sports.yahoo.com/articles/channel-panthers-vs-seahawks-today-083001417.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-28T08:30:01+0000",
-      "summary": "Here is more on how you can watch the Panthers face the Seahawks in Week 17 of the 2025 NFL season."
-    },
-    {
-      "id": "9e2289773c1c10b1",
-      "title": "NFL Draft scenarios 2025: How Raiders or Giants can take control of No. 1 pick in Week 17",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-scenarios-2025-raiders-083001778.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-28T08:30:01+0000",
-      "summary": "There's a war going on in the cellar of the NFL standings. The Raiders and Giants are among its most notable combatants."
-    },
-    {
-      "id": "5789f089e91ee019",
-      "title": "What is a half sack in the NFL? How players can share a sack and why the statistic exists",
-      "link": "https://sports.yahoo.com/articles/half-sack-nfl-players-share-083001176.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-28T08:30:01+0000",
-      "summary": "Some of the NFL's sack leaders have been racking up half sacks."
     },
     {
       "id": "01a1d12aad8fcb3a",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-12-22T17:00:39+0000",
       "summary": "Buckner will be active for the first time since sustaining a neck injury during the Colts' Week 9 loss to the Pittsburgh Steelers."
+    },
+    {
+      "id": "71904b0770a85bf7",
+      "title": "How to watch the San Francisco 49ers at Indianapolis Colts on December 22, 2025",
+      "link": "https://colts.com/news/how-to-watch-49ers-at-colts-week-16-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-22T13:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for San Francisco 49ers at Indianapolis Colts on Monday, December 22 at 8:15 p.m. ET (Week 16)."
+    },
+    {
+      "id": "cece5ea0404395e2",
+      "title": "Niners at Colts: What to watch for",
+      "link": "https://fox59.com/sports/colts/niners-at-colts-what-to-watch-for/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-21T23:14:56+0000",
+      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Monday night meeting with the San Francisco 49ers at Lucas Oil Stadium. History lesson, Part I The Colts lead the overall series 27-18, although the bulk of the series predates their relocation to Indy. Since the move in 1984, they’ve met just 10 times, with the [...]"
+    },
+    {
+      "id": "04ccd23a463ea997",
+      "title": "Roof closed as Colts host 49ers for MNF",
+      "link": "https://fox59.com/sports/colts/roof-closed-as-colts-host-49ers-for-mnf/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-21T19:48:04+0000",
+      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against quarterback Brock Purdy and the San Francisco 49ers. The Monday Night Football matchup will see Philip Rivers return to Lucas Oil Stadium as he attempts to lead the 8-6 Colts back into the win column against the 10-4 [...]"
     }
   ],
   "links": [
