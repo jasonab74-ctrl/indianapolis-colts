@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T07:19:24+00:00",
+  "updated": "2025-12-28T07:40:05+00:00",
   "items": [
     {
       "id": "3e4de0b3ebc24af8",
@@ -26,7 +26,7 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2025-12-28T06:39:14+0000",
-      "summary": "Baltimore running back Derrick Henry moved into 10th place all-time in NFL rushing yards on Saturday night, finishing with 216, to go along with four touchdowns on the ground, as the Ravens authored a 41-24 win over the Green Bay Packers at Lambeau Field."
+      "summary": "Baltimore running back Derrick Henry moved into 10th place all time in NFL rushing yards Saturday night, finishing with 216, to go along with four touchdowns on the ground, as the Ravens produced a 41-24 win over the Green Bay Packers at Lambeau Field."
     },
     {
       "id": "3e26ba44793a1914",
@@ -36,15 +36,6 @@
       "feed": "ESPN",
       "published": "2025-12-28T06:39:14+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "3fef2e95f0fbe73e",
-      "title": "The Packers have done what no other NFL team has done before",
-      "link": "https://sports.yahoo.com/articles/packers-done-no-other-nfl-062523091.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-28T06:25:23+0000",
-      "summary": "The Green Bay Packers have perfected a new way to lose this season."
     },
     {
       "id": "2017dc16f8ac7c19",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-20T22:06:24+0000",
       "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
+    },
+    {
+      "id": "6983a8d8e937262f",
+      "title": "Colts rule out CB Sauce Gardner, WR Anthony Gould for Week 16 game vs. San Francisco 49ers",
+      "link": "https://colts.com/news/colts-rule-out-sauce-gardner-anthony-gould-week-16-san-francisco-49ers-deforest-buckner-anthony-richardson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-20T17:48:49+0000",
+      "summary": "DeForest Buckner was a full participant in practice on Thursday and Friday."
     }
   ],
   "links": [
