@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T06:55:16+00:00",
+  "updated": "2025-12-28T07:19:24+00:00",
   "items": [
     {
       "id": "3e4de0b3ebc24af8",
@@ -11,8 +11,17 @@
       "summary": "TV broadcast, radio and streaming information for Jacksonville Jaguars at Indianapolis Colts on Monday, December 28 at 1:00 p.m. ET (Week 17)."
     },
     {
+      "id": "c1254971e5190e17",
+      "title": "NFL standings: Updated AFC, NFC playoff pictures for Week 17 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/nfl-standings-updated-afc-nfc-070001007.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-28T07:00:01+0000",
+      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 17, from top seeds to final wild cards in both conferences."
+    },
+    {
       "id": "01a1d12aad8fcb3a",
-      "title": "Henry up to 10th all-time in rushing, Ravens win",
+      "title": "Henry up to 10th all time in rushing, Ravens win",
       "link": "https://espn.com/nfl/story/_/id/47430326/ravens-derrick-henry-passes-tony-dorsett-all-rushing-list",
       "source": "ESPN",
       "feed": "ESPN",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-20T22:06:24+0000",
       "summary": "INDIANAPOLIS – The decision wasn’t as clear-cut as it appears. Of course, DeForest Buckner wanted to get back on the field. He’s the defensive heartbeat of the Indianapolis Colts and his teammates were caught in the grips of a late-season fade that’s threatening their playoff hopes. “Obviously, the competitor I am and what I can [...]"
-    },
-    {
-      "id": "6983a8d8e937262f",
-      "title": "Colts rule out CB Sauce Gardner, WR Anthony Gould for Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/colts-rule-out-sauce-gardner-anthony-gould-week-16-san-francisco-49ers-deforest-buckner-anthony-richardson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-20T17:48:49+0000",
-      "summary": "DeForest Buckner was a full participant in practice on Thursday and Friday."
     }
   ],
   "links": [
