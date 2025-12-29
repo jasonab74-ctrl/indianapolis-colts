@@ -1,14 +1,86 @@
 {
-  "updated": "2025-12-29T15:21:24+00:00",
+  "updated": "2025-12-29T15:44:18+00:00",
   "items": [
     {
-      "id": "d8d21189cd51a2f1",
-      "title": "Jacksonville Jaguars updated Week 18 NFL playoff standings",
-      "link": "https://sports.yahoo.com/articles/jacksonville-jaguars-updated-week-18-150757529.html",
+      "id": "e0099bbf2f9ef5e7",
+      "title": "17 weeks, 255 games and a much clearer NFL playoff picture: Barnwell on what really mattered, week by week",
+      "link": "https://espn.com/nfl/story/_/id/47434363/2025-nfl-week-17-barnwell-mattered-season-schedule-impactful-games-playoff-races",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T15:37:44+0000",
+      "summary": "Bill Barnwell picked out what most impacted the playoff hunt across the entire season, from the Lions' dud in Week 1 to the Steelers' struggles Sunday."
+    },
+    {
+      "id": "fb9bdd0d4f19f62c",
+      "title": "Ravens-Steelers on SNF to cap Week 18 slate",
+      "link": "https://espn.com/nfl/story/_/id/47441100/ravens-steelers-win-get-week-18-tilt-sunday-night",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T15:37:35+0000",
+      "summary": "The NFL announced the full final-weekend schedule, with the marquee matchup between the Ravens and Steelers set to take place on \"Sunday Night Football\" on NBC, with the winner making the playoffs."
+    },
+    {
+      "id": "03d772e76ba941a4",
+      "title": "Garrett: Steelers' focus more on me than winning",
+      "link": "https://espn.com/nfl/story/_/id/47438289/myles-garrett-steelers-worried-more-getting-win",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T15:37:35+0000",
+      "summary": "Myles Garrett didn't set the NFL's single-season sacks record Sunday, but he believes the Steelers were more worried about preventing his record than getting the win."
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "🏆 Tracking the playoff picture and the draft order",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T15:37:35+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "2017dc16f8ac7c19",
+      "title": "The good, bad and ugly of Week 17: Big wins for Niners, Eagles, but what happened to Steelers, Bucs and Packers?",
+      "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T15:37:31+0000",
+      "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
+    },
+    {
+      "id": "6ae7283006749043",
+      "title": "Drake Maye recalls meaningful 'full circle moment' at MetLife Stadium",
+      "link": "https://sports.yahoo.com/articles/drake-maye-recalls-meaningful-full-153207894.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-29T15:07:57+0000",
-      "summary": "Here is where the Jacksonville Jaguars stand in the Week 18 updated NFL playoff standings."
+      "published": "2025-12-29T15:32:07+0000",
+      "summary": "Drake Maye took the field for his first NFL action at MetLife Stadium during the 2024 season."
+    },
+    {
+      "id": "cdb91d900b85b1cf",
+      "title": "Good, bad, ugly after rewatching Colts vs. Jaguars in Week 17",
+      "link": "https://sports.yahoo.com/articles/good-bad-ugly-rewatching-colts-152921164.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T15:29:21+0000",
+      "summary": "After looking back at the Colts' performance against the Jaguars in Week 17, here is the good, the bad, and the ugly from what took place."
+    },
+    {
+      "id": "12305a2b6945ec07",
+      "title": "National reactions: Bears QB Caleb Williams garners respect across NFL",
+      "link": "https://sports.yahoo.com/articles/national-reactions-bears-qb-caleb-152524452.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T15:25:24+0000",
+      "summary": "Chicago Bears quarterback Caleb Williams earned plenty of praise and respect for his impressive showing vs. the San Francisco 49ers."
+    },
+    {
+      "id": "df1360552ac203b6",
+      "title": "Texas ex Quinn Ewers leads Dolphins to win in second career start",
+      "link": "https://sports.yahoo.com/articles/texas-ex-quinn-ewers-leads-151700867.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T15:17:00+0000",
+      "summary": "Quinn Ewers steps up in Dolphins win over the Buccaneers. The former Longhorns QB got his first NFL win in his second start."
     },
     {
       "id": "386a595e5740e5c3",
@@ -18,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2025-12-29T14:59:33+0000",
       "summary": "The Colts play the Texans at 1 pm on Sunday, Jan. 4 at NRG Stadium."
-    },
-    {
-      "id": "272c93e7ab7ee48b",
-      "title": "Giants' Abdul Carter within striking distance of breaking NFL record",
-      "link": "https://sports.yahoo.com/articles/giants-abdul-carter-within-striking-145622869.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-29T14:56:22+0000",
-      "summary": "New York Giants edge rusher Abdul Carter has a chance to break an NFL record when he and Big Blue take on the Dallas Cowboys in Week 18."
     },
     {
       "id": "91e045ad0b541327",
@@ -47,42 +110,6 @@
       "summary": "After a close win over the Colts, the Jags need to beat the Titans in Week 18 to secure the division title."
     },
     {
-      "id": "fb9bdd0d4f19f62c",
-      "title": "Ravens-Steelers on SNF to cap Week 18 slate",
-      "link": "https://espn.com/nfl/story/_/id/47441100/ravens-steelers-win-get-week-18-tilt-sunday-night",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T14:39:15+0000",
-      "summary": "The NFL announced the full final-weekend schedule, with the marquee matchup between the Ravens and Steelers set to take place on \"Sunday Night Football\" on NBC, with the winner making the playoffs."
-    },
-    {
-      "id": "03d772e76ba941a4",
-      "title": "Garrett: Steelers' focus more on me than winning",
-      "link": "https://espn.com/nfl/story/_/id/47438289/myles-garrett-steelers-worried-more-getting-win",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T14:39:15+0000",
-      "summary": "Myles Garrett didn't set the NFL's single-season sacks record Sunday, but he believes the Steelers were more worried about preventing his record than getting the win."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏆 Tracking the playoff picture and the draft order",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T14:39:15+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "e0099bbf2f9ef5e7",
-      "title": "17 weeks, 255 games and a much clearer NFL playoff picture: Barnwell on what really mattered, week by week",
-      "link": "https://espn.com/nfl/story/_/id/47434363/2025-nfl-week-17-barnwell-mattered-season-schedule-impactful-games-playoff-races",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T14:17:43+0000",
-      "summary": "Bill Barnwell picked out what most impacted the playoff hunt across the entire season, from the Lions' dud in Week 1 to the Steelers' struggles Sunday."
-    },
-    {
       "id": "69c4be3d69f0a33f",
       "title": "The Colts made history in the worst way possible",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/119896/the-colts-made-history-in-the-worst-way-possible",
@@ -99,15 +126,6 @@
       "feed": "Colts.com",
       "published": "2025-12-29T13:45:49+0000",
       "summary": "The Colts' 23-17 loss to the Jacksonville Jaguars was their sixth in a row, and they were officially eliminated from the playoffs even before kicking off in Week 17."
-    },
-    {
-      "id": "2017dc16f8ac7c19",
-      "title": "The good, bad and ugly of Week 17: Big wins for Niners, Eagles, but what happened to Steelers, Bucs and Packers?",
-      "link": "https://espn.com/nfl/story/_/id/47401706/nfl-week-17-2025-season-questions-takeaways-lessons-stats-recap-every-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T13:35:58+0000",
-      "summary": "Our NFL Nation reporters answer big questions from each Week 17 game. Here's what you need to know."
     },
     {
       "id": "48bfa1cc87f4d8b1",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-23T10:16:42+0000",
       "summary": "INDIANAPOLIS – There’s a problem when one of your biggest problems during a late-season death spiral isn’t that you’re following the lead of a 44-year-old quarterback. In fact, Philip Rivers might not be one of the Indianapolis Colts’ top five issues in a season that has steadily deteriorated from a 7-1 start – you remember [...]"
-    },
-    {
-      "id": "3228e0970333d210",
-      "title": "Philip Rivers' impressive showing against 49ers proves he can still hang in NFL",
-      "link": "https://colts.com/news/philip-rivers-monday-night-football-49ers-alec-pierce-touchdowns-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-23T08:08:02+0000",
-      "summary": "Rivers completed 23-of-45 passes for 277 yards and two touchdowns on Monday night."
-    },
-    {
-      "id": "3a990ab353ba99a2",
-      "title": "Colts' defense accepts accountability in Monday night loss to 49ers: 'We got dominated today'",
-      "link": "https://colts.com/news/colts-defense-accepts-accountability-in-monday-night-loss-to-49ers-we-got-dominated-today",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-23T07:09:03+0000",
-      "summary": "The Colts' defense allowed five touchdowns and did not force a punt in their 48-27 loss to the San Francisco 49ers on Monday night."
     }
   ],
   "links": [
