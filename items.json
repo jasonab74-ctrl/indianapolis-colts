@@ -1,41 +1,59 @@
 {
-  "updated": "2025-12-29T10:48:37+00:00",
+  "updated": "2025-12-29T11:18:19+00:00",
   "items": [
     {
-      "id": "77aa8870227789f4",
-      "title": "NFL announces date, time for Patriots vs. Dolphins regular season finale",
-      "link": "https://sports.yahoo.com/articles/nfl-announces-date-time-patriots-104001993.html",
+      "id": "429d4a1bdbad2a52",
+      "title": "NFL Week 17 winners and losers: Steelers put playoff hopes in peril",
+      "link": "https://sports.yahoo.com/articles/nfl-week-17-winners-losers-110916147.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-29T10:40:01+0000",
-      "summary": "The AFC East champions will welcome a division rival to Gillette Stadium."
+      "published": "2025-12-29T11:09:16+0000",
+      "summary": "The Steelers faced a simple task to seal the AFC North title in Week 17. But Pittsburgh's stumble could portend an ugly end to the season."
     },
     {
-      "id": "68d9ae245a3bd456",
-      "title": "Former Texas A&amp;M star hired as Mississippi State's DL coach",
-      "link": "https://sports.yahoo.com/articles/former-texas-m-star-hired-103059932.html",
+      "id": "5e1735795a577f8a",
+      "title": "Ranking the 3 division title games in Week 18 of the NFL season",
+      "link": "https://sports.yahoo.com/articles/ranking-3-division-title-games-110844867.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-29T10:30:59+0000",
-      "summary": "Mississippi State hired former Aggie star and NFL champion Ty Warren as its new defensive line coach, adding a rising developer to Jeff Lebby’s staff."
+      "published": "2025-12-29T11:08:44+0000",
+      "summary": "Hey, maybe Panthers-Buccaneers will surprise us. Probably not after Week 17, though."
     },
     {
-      "id": "3f4fe060ab7d4977",
-      "title": "Bengals' Shemar Stewart hoping to build upon first NFL sack",
-      "link": "https://sports.yahoo.com/articles/bengals-shemar-stewart-hoping-build-103052544.html",
+      "id": "47efeedbab341a43",
+      "title": "NFL officially schedules New York Giants' season finale vs. Dallas Cowboys",
+      "link": "https://sports.yahoo.com/articles/nfl-officially-schedules-york-giants-110819482.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-29T10:30:52+0000",
-      "summary": "Shemar Stewart has his first NFL sack. Now the Bengals first-rounder wants more."
+      "published": "2025-12-29T11:08:19+0000",
+      "summary": "The NFL has officially finalized the Week 18 slate of games, including the season finale between the New York Giants and Dallas Cowboys."
     },
     {
-      "id": "8bbcad7de7516381",
-      "title": "NFL announces major decision for Steelers-Ravens Week 18 game",
-      "link": "https://sports.yahoo.com/articles/nfl-announces-major-decision-steelers-101054791.html",
+      "id": "75f6ea7568c48b81",
+      "title": "Matthew Stafford once faced same 'injury-prone' label as Michael Penix Jr.",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-once-faced-same-110740912.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-29T10:10:54+0000",
-      "summary": "The NFL has made the decision to flex the Pittsburgh Steelers' Week 18 matchup against the Baltimore Ravens to Sunday Night Football."
+      "published": "2025-12-29T11:07:40+0000",
+      "summary": "Matthew Stafford vs. Michael Penix Jr.: Comparing stats after first 2 NFL seasons"
+    },
+    {
+      "id": "f3a57ab501477143",
+      "title": "IIlini NFL Draft prospects to watch in Music City Bowl",
+      "link": "https://sports.yahoo.com/articles/iilini-nfl-draft-prospects-watch-110725899.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T11:07:25+0000",
+      "summary": "For Illinois, edge rusher Gabe Jacas is far and away their top pro prospect (likely a second or third rounder), and he's taking a pass on this one."
+    },
+    {
+      "id": "63ed4fe927e0b5cf",
+      "title": "Broncos select linebacker in 2026 NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/broncos-select-linebacker-2026-nfl-110548024.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T11:05:48+0000",
+      "summary": "The Broncos land linebacker CJ Allen in this 2026 NFL mock draft."
     },
     {
       "id": "0f1dadabbffd4447",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-23T07:09:03+0000",
       "summary": "The Colts' defense allowed five touchdowns and did not force a punt in their 48-27 loss to the San Francisco 49ers on Monday night."
-    },
-    {
-      "id": "f924fa7195d90dd5",
-      "title": "49ers offense can't be stopped in 48-27 win over Colts",
-      "link": "https://fox59.com/sports/colts/49ers-offense-cant-be-stopped-in-48-27-win-over-colts/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-23T04:21:03+0000",
-      "summary": "INDIANAPOLIS - A primetime game on their home turf wasn't enough for the Indianapolis Colts to snap their losing streak as the San Francisco 49ers won their Monday night matchup, 41-27 at Lucas Oil Stadium. The Colts have now lost five straight and six of their last seven games after a 7-1 start. Their playoff [...]"
-    },
-    {
-      "id": "33eb3b7f576c512c",
-      "title": "Colts defense struggles vs. 49ers in fifth consecutive loss",
-      "link": "https://colts.com/news/colts-defense-struggles-49ers-monday-night-football-philip-rivers-shane-steichen-lou-anarumo-deforest-buckner",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-23T04:20:28+0000",
-      "summary": "The Colts allowed 441 yards of total offense in the 48-27 loss."
     }
   ],
   "links": [
