@@ -1,14 +1,77 @@
 {
-  "updated": "2025-12-29T14:20:47+00:00",
+  "updated": "2025-12-29T14:46:35+00:00",
   "items": [
     {
-      "id": "7484d01e4e9c15ed",
-      "title": "Key Takeaways, stats from Jaguars through Week 17",
-      "link": "https://sports.yahoo.com/articles/key-takeaways-stats-jaguars-week-141647476.html",
+      "id": "fb9bdd0d4f19f62c",
+      "title": "Ravens-Steelers on SNF to cap Week 18 slate",
+      "link": "https://espn.com/nfl/story/_/id/47441100/ravens-steelers-win-get-week-18-tilt-sunday-night",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T14:39:15+0000",
+      "summary": "The NFL announced the full final-weekend schedule, with the marquee matchup between the Ravens and Steelers set to take place on \"Sunday Night Football\" on NBC, with the winner making the playoffs."
+    },
+    {
+      "id": "03d772e76ba941a4",
+      "title": "Garrett: Steelers' focus more on me than winning",
+      "link": "https://espn.com/nfl/story/_/id/47438289/myles-garrett-steelers-worried-more-getting-win",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T14:39:15+0000",
+      "summary": "Myles Garrett didn't set the NFL's single-season sacks record Sunday, but he believes the Steelers were more worried about preventing his record than getting the win."
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "🏆 Tracking the playoff picture and the draft order",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T14:39:15+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "b7093c79f0bbc7d5",
+      "title": "NFL playoff picture: Where are the Texans playing after Week 17?",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-where-texans-143540659.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-29T14:16:47+0000",
-      "summary": "With the Jaguars win Sunday in Indianapolis, Liam Coen became the first rookie head coach in NFL history to reach 12 or more wins after taking over a team with four or fewer wins the previous season."
+      "published": "2025-12-29T14:35:40+0000",
+      "summary": "Entering Week 17, the Houston Texans will still be on the outside of the division picture despite securing an 11-win season over the Chargers."
+    },
+    {
+      "id": "48dc124676a071c3",
+      "title": "Rams draft picks 2026: Why LA owns Falcons' first-round pick after questionable 2025 draft deal",
+      "link": "https://sports.yahoo.com/articles/rams-draft-picks-2026-why-143514284.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T14:35:14+0000",
+      "summary": "Even after making the playoffs in 2025, the Rams are set to have a potential top-15 pick in the 2026 NFL Draft thanks to the Falcons."
+    },
+    {
+      "id": "aade34327a42aa64",
+      "title": "Wisconsin football starting tight end declares for NFL draft",
+      "link": "https://sports.yahoo.com/articles/wisconsin-football-starting-tight-end-143045038.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T14:30:45+0000",
+      "summary": "Wisconsin tight end Lance Mason declared for the 2026 NFL draft on Sunday."
+    },
+    {
+      "id": "e95171d3ffe6367c",
+      "title": "NFL playoff picture: Broncos in control for AFC's No. 1 seed",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-broncos-control-143038781.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T14:30:38+0000",
+      "summary": "Going into the final week of the regular season, the Broncos remain the AFC's No. 1 seed."
+    },
+    {
+      "id": "e0099bbf2f9ef5e7",
+      "title": "17 weeks, 255 games and a much clearer NFL playoff picture: Barnwell on what really mattered, week by week",
+      "link": "https://espn.com/nfl/story/_/id/47434363/2025-nfl-week-17-barnwell-mattered-season-schedule-impactful-games-playoff-races",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-29T14:17:43+0000",
+      "summary": "Bill Barnwell picked out what most impacted the playoff hunt across the entire season, from the Lions' dud in Week 1 to the Steelers' struggles Sunday."
     },
     {
       "id": "69c4be3d69f0a33f",
@@ -18,60 +81,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-29T14:00:00+0000",
       "summary": "The Indianapolis Colts have recently become known as a franchise that isn’t afraid to forge a unique path. They brought in an ESPN analyst in the middle of the season to be their interim head coach. Not Jeff Saturday’s fault, but that act set the scene for a 1-7 finish to the year. Look no [&#8230;]"
-    },
-    {
-      "id": "ac7b6c8ad79b8cff",
-      "title": "Cardinals tight end Trey McBride breaks NFL record",
-      "link": "https://sports.yahoo.com/articles/cardinals-tight-end-trey-mcbride-140000082.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-29T14:00:00+0000",
-      "summary": "A sliver of hope and happiness in a sea of dismay"
-    },
-    {
-      "id": "66e62282cfc3048b",
-      "title": "NFL winners and losers: Aaron Rodgers and the Steelers are the ultimate cowards",
-      "link": "https://sports.yahoo.com/articles/nfl-winners-losers-aaron-rodgers-140000449.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-29T14:00:00+0000",
-      "summary": "The Steelers barely played football on Sunday."
-    },
-    {
-      "id": "58ceecaad933f9a8",
-      "title": "The Colts made history in the worst way possible",
-      "link": "https://sports.yahoo.com/articles/colts-made-history-worst-way-140000564.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-29T14:00:00+0000",
-      "summary": "This is not a place the Colts want to find themselves."
-    },
-    {
-      "id": "fb9bdd0d4f19f62c",
-      "title": "Ravens-Steelers on SNF to cap Week 18 slate",
-      "link": "https://espn.com/nfl/story/_/id/47441100/ravens-steelers-win-get-week-18-tilt-sunday-night",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T13:56:26+0000",
-      "summary": "The NFL announced the full final-weekend schedule, with the marquee matchup between the Ravens and Steelers set to take place on \"Sunday Night Football\" on NBC, with the winner making the playoffs."
-    },
-    {
-      "id": "03d772e76ba941a4",
-      "title": "Garrett: Steelers' focus more on me than winning",
-      "link": "https://espn.com/nfl/story/_/id/47438289/myles-garrett-steelers-worried-more-getting-win",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T13:56:26+0000",
-      "summary": "Myles Garrett didn't set the NFL's single-season sacks record Sunday, but he believes the Steelers were more worried about preventing his record than getting the win."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏆 Playoff picture projections: The updated odds",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-29T13:56:26+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
       "id": "bce403177826e1b8",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-23T07:09:03+0000",
       "summary": "The Colts' defense allowed five touchdowns and did not force a punt in their 48-27 loss to the San Francisco 49ers on Monday night."
-    },
-    {
-      "id": "f924fa7195d90dd5",
-      "title": "49ers offense can't be stopped in 48-27 win over Colts",
-      "link": "https://fox59.com/sports/colts/49ers-offense-cant-be-stopped-in-48-27-win-over-colts/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-23T04:21:03+0000",
-      "summary": "INDIANAPOLIS - A primetime game on their home turf wasn't enough for the Indianapolis Colts to snap their losing streak as the San Francisco 49ers won their Monday night matchup, 41-27 at Lucas Oil Stadium. The Colts have now lost five straight and six of their last seven games after a 7-1 start. Their playoff [...]"
     }
   ],
   "links": [
