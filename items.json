@@ -1,6 +1,42 @@
 {
-  "updated": "2025-12-29T10:22:45+00:00",
+  "updated": "2025-12-29T10:48:37+00:00",
   "items": [
+    {
+      "id": "77aa8870227789f4",
+      "title": "NFL announces date, time for Patriots vs. Dolphins regular season finale",
+      "link": "https://sports.yahoo.com/articles/nfl-announces-date-time-patriots-104001993.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T10:40:01+0000",
+      "summary": "The AFC East champions will welcome a division rival to Gillette Stadium."
+    },
+    {
+      "id": "68d9ae245a3bd456",
+      "title": "Former Texas A&amp;M star hired as Mississippi State's DL coach",
+      "link": "https://sports.yahoo.com/articles/former-texas-m-star-hired-103059932.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T10:30:59+0000",
+      "summary": "Mississippi State hired former Aggie star and NFL champion Ty Warren as its new defensive line coach, adding a rising developer to Jeff Lebby’s staff."
+    },
+    {
+      "id": "3f4fe060ab7d4977",
+      "title": "Bengals' Shemar Stewart hoping to build upon first NFL sack",
+      "link": "https://sports.yahoo.com/articles/bengals-shemar-stewart-hoping-build-103052544.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T10:30:52+0000",
+      "summary": "Shemar Stewart has his first NFL sack. Now the Bengals first-rounder wants more."
+    },
+    {
+      "id": "8bbcad7de7516381",
+      "title": "NFL announces major decision for Steelers-Ravens Week 18 game",
+      "link": "https://sports.yahoo.com/articles/nfl-announces-major-decision-steelers-101054791.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-29T10:10:54+0000",
+      "summary": "The NFL has made the decision to flex the Pittsburgh Steelers' Week 18 matchup against the Baltimore Ravens to Sunday Night Football."
+    },
     {
       "id": "0f1dadabbffd4447",
       "title": "Rivers: No regrets, even with Colts 0-3 in return",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-23T04:20:28+0000",
       "summary": "The Colts allowed 441 yards of total offense in the 48-27 loss."
-    },
-    {
-      "id": "a118945255196aee",
-      "title": "Colts announce 7 inactive players for Week 16 game vs. San Francisco 49ers",
-      "link": "https://colts.com/news/colts-announce-inactive-players-week-16-games-san-francisco-49ers-sauce-gardner-deforest-buckner",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-22T23:45:45+0000",
-      "summary": "The Colts on Saturday ruled out cornerback Sauce Gardner and wide receiver Anthony Gould; tackle Bernhard Raimann was downgraded to out on Sunday."
-    },
-    {
-      "id": "9f1ac5e14d059ada",
-      "title": "Colts activate DT DeForest Buckner from injured reserve, waive QB Brett Rypien; elevate WR Coleman Owen, G Josh Sills from practice squad to active roster for Week 16",
-      "link": "https://colts.com/news/colts-activate-dt-deforest-buckner-from-injured-reserve-waive-qb-brett-rypien-elevate-wr-coleman-owen-g-josh-sills-from-practice-squad-to-active-roster-for-week-16",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-22T17:00:39+0000",
-      "summary": "Buckner will be active for the first time since sustaining a neck injury during the Colts' Week 9 loss to the Pittsburgh Steelers."
-    },
-    {
-      "id": "71904b0770a85bf7",
-      "title": "How to watch the San Francisco 49ers at Indianapolis Colts on December 22, 2025",
-      "link": "https://colts.com/news/how-to-watch-49ers-at-colts-week-16-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-22T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for San Francisco 49ers at Indianapolis Colts on Monday, December 22 at 8:15 p.m. ET (Week 16)."
-    },
-    {
-      "id": "cece5ea0404395e2",
-      "title": "Niners at Colts: What to watch for",
-      "link": "https://fox59.com/sports/colts/niners-at-colts-what-to-watch-for/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-21T23:14:56+0000",
-      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Monday night meeting with the San Francisco 49ers at Lucas Oil Stadium. History lesson, Part I The Colts lead the overall series 27-18, although the bulk of the series predates their relocation to Indy. Since the move in 1984, they’ve met just 10 times, with the [...]"
     }
   ],
   "links": [
