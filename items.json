@@ -1,14 +1,59 @@
 {
-  "updated": "2025-12-30T17:20:21+00:00",
+  "updated": "2025-12-30T17:44:38+00:00",
   "items": [
     {
-      "id": "544aa5ea4a816217",
-      "title": "ESPN picks four Saints draft picks for 2025 NFL All-Rookie team",
-      "link": "https://sports.yahoo.com/articles/espn-picks-four-saints-draft-170937577.html",
+      "id": "1b3a347ce52a6a10",
+      "title": "The 100 Most-Watched Telecasts of 2025: Super Bowl, ‘Tracker,’ ’60 Minutes’ and the ‘Dancing With the Stars’ Season Finale",
+      "link": "https://sports.yahoo.com/articles/100-most-watched-telecasts-2025-173200686.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-30T17:09:37+0000",
-      "summary": "The kids are putting folks on notice. The New Orleans Saints tied two other teams for the most selections on ESPN's 2025 All-Rookie team."
+      "published": "2025-12-30T17:32:00+0000",
+      "summary": "There are two things you can count on right now in television: football and “Tracker.” Both once again dominated Variety’s annual look at the most-watched telecasts in primetime. This year, a full 48 of the top 100 slots went to NFL games — up from 45 in 2024 — and that number actually jumps to …"
+    },
+    {
+      "id": "7d35b11a96c8485c",
+      "title": "NFL MVP Odds: Maye Takes Control Heading Into Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-mvp-odds-josh-allen-182200431.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-30T17:30:00+0000",
+      "summary": "A look at next season's NFL MVP odds featuring Drake Maye (-390) and Matthew Stafford (+280) as Most Valuable Player betting favorites."
+    },
+    {
+      "id": "5779a12649315351",
+      "title": "Sources: Colts to start Leonard over Rivers at QB",
+      "link": "https://espn.com/nfl/story/_/id/47453736/colts-expected-start-qb-riley-leonard-finale-sources-say",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-30T17:22:01+0000",
+      "summary": "The Colts are expected to start rookie quarterback Riley Leonard on Sunday against the Texans, sources told Stephen Holder and Jeremy Fowler on Tuesday."
+    },
+    {
+      "id": "b50ca60a6f78b1d8",
+      "title": "Rams QB Stafford into 6th in NFL passing yards",
+      "link": "https://espn.com/nfl/story/_/id/47450639/stafford-eclipses-roethlisberger-sixth-passing-yards",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-30T17:22:01+0000",
+      "summary": "Rams quarterback Matthew Stafford passed former Steelers quarterback Ben Roethlisberger for sixth on the NFL's all-time passing yards list."
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "🏆 Tracking the playoff picture and the draft order",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-30T17:22:01+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "c1254971e5190e17",
+      "title": "NFL standings: Updated AFC, NFC playoff pictures after Week 17 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/nfl-standings-updated-afc-nfc-070001007.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-30T17:19:01+0000",
+      "summary": "Here's looking at the 14 teams that would be in the playoffs if the 2025 NFL season ended in Week 17, from top seeds to final wild cards in both conferences."
     },
     {
       "id": "578f1924219a1b96",
@@ -63,33 +108,6 @@
       "feed": "ESPN",
       "published": "2025-12-30T15:15:38+0000",
       "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
-    },
-    {
-      "id": "5779a12649315351",
-      "title": "Sources: Colts to start Leonard over Rivers at QB",
-      "link": "https://espn.com/nfl/story/_/id/47453736/colts-expected-start-qb-riley-leonard-finale-sources-say",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-30T14:59:23+0000",
-      "summary": "The Colts are expected to start rookie quarterback Riley Leonard on Sunday against the Texans, sources told Stephen Holder and Jeremy Fowler on Tuesday."
-    },
-    {
-      "id": "b50ca60a6f78b1d8",
-      "title": "Rams QB Stafford into 6th in NFL passing yards",
-      "link": "https://espn.com/nfl/story/_/id/47450639/stafford-eclipses-roethlisberger-sixth-passing-yards",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-30T14:59:23+0000",
-      "summary": "Rams quarterback Matthew Stafford passed former Steelers quarterback Ben Roethlisberger for sixth on the NFL's all-time passing yards list."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "🏆 Tracking the playoff picture and the draft order",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-30T14:59:22+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
       "id": "e8ffe6e6e6f79c0d",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-23T20:12:16+0000",
       "summary": "The Colts released their Week 17 unofficial depth chart ahead of their game against the Jacksonville Jaguars at Lucas Oil Stadium. Check it out below:"
-    },
-    {
-      "id": "67b4fbc3231a3d14",
-      "title": "Philip Rivers to remain Colts' starting quarterback in Week 17",
-      "link": "https://colts.com/news/philip-rivers-to-remain-colts-starting-quarterback-in-week-17",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-23T19:32:46+0000",
-      "summary": "Rivers completed 65.7 percent of his passes for 277 yards with two touchdowns in the Colts' Week 16 loss to the San Francisco 49ers."
-    },
-    {
-      "id": "a3feec45daaa1253",
-      "title": "Colts need to end losing streak, get help from Chargers and several other teams to keep playoff hopes alive",
-      "link": "https://colts.com/news/colts-need-to-end-losing-streak-get-help-from-chargers-and-several-other-teams-to-keep-playoff-hopes-alive",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-23T18:45:02+0000",
-      "summary": "The Colts' playoff odds are slim entering Week 17, but they're not eliminated yet."
     }
   ],
   "links": [
