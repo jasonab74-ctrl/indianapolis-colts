@@ -1,14 +1,32 @@
 {
-  "updated": "2025-12-31T21:17:43+00:00",
+  "updated": "2025-12-31T21:39:59+00:00",
   "items": [
+    {
+      "id": "6728923bcc45c5ea",
+      "title": "Lions-Vikings Christmas game on Netflix sets NFL streaming record, averaging 27.5M viewers",
+      "link": "https://yahoo.com/news/articles/lions-vikings-christmas-game-netflix-212920231.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T21:29:20+0000",
+      "summary": "Two of the NFL's three Christmas Day games set viewership records.  The Detroit Lions-Minnesota Vikings late afternoon game on Netflix became the most-streamed NFL game in U.S. history and the Denver Broncos-Kansas City Chiefs night game set a record for Amazon Prime Video.  The Vikings 23-10 victory over the Lions averaged 27.5 million U.S. viewers, according to Nielsen."
+    },
     {
       "id": "0a9e5700c30432b4",
       "title": "Colts' Richardson stays optimistic despite lost '25",
       "link": "https://espn.com/nfl/story/_/id/47464681/colts-qb-anthony-richardson-sr-no-doubt-nfl-future",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T21:10:43+0000",
+      "published": "2025-12-31T21:13:31+0000",
       "summary": "Colts quarterback Anthony Richardson Sr. says he took finishing the 2025 season on injured reserve in stride and will enter 2026 optimistic about his future in the NFL."
+    },
+    {
+      "id": "3415a3b2f8708fdb",
+      "title": "Texas A&M senior DL invited to 2026 NFL Combine",
+      "link": "https://sports.yahoo.com/articles/texas-m-senior-dl-invited-211249845.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T21:12:49+0000",
+      "summary": "Texas A&amp;M senior DL Albert Regis has earned an invite to the 2026 NFL Combine after recording 49 tackles and two sacks during the 2026 season."
     },
     {
       "id": "b068e9ff7b84d6ed",
@@ -27,15 +45,6 @@
       "feed": "ESPN",
       "published": "2025-12-31T21:10:43+0000",
       "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
-    },
-    {
-      "id": "23dbeca0e457e28f",
-      "title": "Packers Day 2 defensive line targets for the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/packers-day-2-defensive-line-210312091.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-31T21:03:12+0000",
-      "summary": "Three defensive tackles make the most sense for Green Bay."
     },
     {
       "id": "8ead5565af4c1d1f",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-26T18:31:01+0000",
       "summary": "The Colts will be without several key players on Sunday against the Jaguars."
-    },
-    {
-      "id": "59bd1f560a2dce6f",
-      "title": "GAMEDAY ALERT: Road closures and delays expected for Colts fans",
-      "link": "https://colts.com/news/indianapolis-construction-road-closures-green-bay-packers-gameday-traffic-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T11:00:00+0000",
-      "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
     }
   ],
   "links": [
