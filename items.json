@@ -1,13 +1,22 @@
 {
-  "updated": "2025-12-31T18:28:54+00:00",
+  "updated": "2025-12-31T18:52:47+00:00",
   "items": [
+    {
+      "id": "a0f3dfc15e73f27c",
+      "title": "Practice Notebook: Anthony Richardson Sr. improving but still not '100 percent'; will not be activated for Week 18",
+      "link": "https://colts.com/news/practice-notebook-anthony-richardson-sr-eye-injury-improving-vision-limitations-injured-reserve-week-18-shane-steichen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-31T18:44:13+0000",
+      "summary": "Richardson said on Wednesday that he is still dealing with vision limitations from the freak injury he sustained during pregame warmups in Week 6."
+    },
     {
       "id": "b068e9ff7b84d6ed",
       "title": "Cards' Harrison Jr.'s injury-plagued season over",
       "link": "https://espn.com/nfl/story/_/id/47464028/injury-plagued-sophomore-season-cards-marvin-harrison",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T18:26:04+0000",
+      "published": "2025-12-31T18:40:30+0000",
       "summary": "Marvin Harrison Jr.'s second season in the NFL is over after being ruled out vs. the Rams on Sunday. Harrison's season was plagued with injuries, the latest being a left foot injury."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47435284/2025-nfl-all-rookie-team-every-position-carson-schwesinger-cam-ward-tetairoa-mcmillan",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T18:26:04+0000",
+      "published": "2025-12-31T18:40:30+0000",
       "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
     },
     {
@@ -25,26 +34,53 @@
       "link": "https://espn.com/nfl/story/_/id/47453736/colts-expected-start-qb-riley-leonard-finale-sources-say",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T18:26:03+0000",
+      "published": "2025-12-31T18:40:29+0000",
       "summary": "The Colts will start rookie quarterback Riley Leonard against the Texans, ending the brief return of Philip Rivers to the NFL."
     },
     {
-      "id": "3d8864f1ed74ea7c",
-      "title": "Colts to bench Philip Rivers, start rookie QB Riley Leonard vs. Texans",
-      "link": "https://sports.yahoo.com/articles/colts-bench-philip-rivers-start-181342943.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-31T18:13:42+0000",
-      "summary": "The Indianapolis Colts will bench Philip Rivers and start rookie quarterback Riley Leonard in Week 18, coach Shane Steichen announced Wednesday."
+      "id": "6a665c0097fb75f5",
+      "title": "What we're hearing on the NFL coaching carousel: Latest buzz on top candidates, potential openings",
+      "link": "https://espn.com/nfl/story/_/id/47454173/nfl-week-18-head-coaching-carousel-intel-latest-buzz-news-updates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-31T18:40:26+0000",
+      "summary": "Which teams will make coaching changes? Could Jeff Hafley or Chris Shula land an open job? Here's our coach movement intel ahead of Week 18."
     },
     {
-      "id": "a4c6a93c31fdf69f",
-      "title": "Browns HC Kevin Stefanski might not be free agent for long if fired",
-      "link": "https://sports.yahoo.com/articles/browns-hc-kevin-stefanski-might-180906965.html",
+      "id": "fa19258d1f6854c9",
+      "title": "2026 NFL Draft prospects to watch when Ohio State and Miami face-off",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-prospects-watch-184026704.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2025-12-31T18:09:06+0000",
-      "summary": "Discussing head coaching candidates, one NFL insider seems to think Browns head coach Kevin Stefanski may be a target elsewhere if fired."
+      "published": "2025-12-31T18:40:26+0000",
+      "summary": "The Miami Hurricanes and Ohio State Buckeyes will face-off in the Cotton Bowl on New Year's Eve and we have some prospects for you to keep an eye on."
+    },
+    {
+      "id": "6107358bcb084e4c",
+      "title": "NFL Moneyline Picks for Every Week 18 Game",
+      "link": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-week-183800316.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T18:38:00+0000",
+      "summary": "Chris Vasile breaks down his favorite moneyline NFL picks for Week 18, including the Seattle Seahawks and Baltimore Ravens."
+    },
+    {
+      "id": "5bfbb2af5d440f21",
+      "title": "Rivers' brief comeback to end as Colts opt to start Leonard at QB against Houston",
+      "link": "https://sports.yahoo.com/articles/rivers-brief-comeback-end-colts-183050601.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T18:30:50+0000",
+      "summary": "Philip Rivers' brief comeback is over — and apparently so is his career.  The 44-year-old quarterback who came out of retirement to try and lead the Indianapolis Colts back to the playoffs three weeks ago will not start Sunday's game against the Houston Texans and has likely taken the final snaps of his 18-year NFL career.  Coach Shane Steichen announced Wednesday, as expected, Rivers would be replaced in the starting lineup by rookie Riley Leonard in the Colts' season finale Sunday at Houston."
+    },
+    {
+      "id": "be3c00f2560d368f",
+      "title": "Are the Jaguars Getting the National Respect They Deserve?",
+      "link": "https://sports.yahoo.com/articles/jaguars-getting-national-respect-deserve-182927212.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T18:29:27+0000",
+      "summary": "A final look at how NFL media ranks the Jags."
     },
     {
       "id": "e0099bbf2f9ef5e7",
@@ -99,33 +135,6 @@
       "feed": "ESPN",
       "published": "2025-12-31T13:13:34+0000",
       "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
-    },
-    {
-      "id": "6a665c0097fb75f5",
-      "title": "What we're hearing on the NFL coaching carousel: Latest buzz on top candidates, potential openings",
-      "link": "https://espn.com/nfl/story/_/id/47454173/nfl-week-18-head-coaching-carousel-intel-latest-buzz-news-updates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-31T13:13:25+0000",
-      "summary": "Which teams will make coaching changes? Could Jeff Hafley or Chris Shula land an open job? Here's our coach movement intel ahead of Week 18."
-    },
-    {
-      "id": "51b91ff295492bbc",
-      "title": "As 2025 draws to a close, where do the Colts go from here?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119985/as-2025-draws-to-a-close-where-do-the-colts-go-from-here",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-31T13:00:00+0000",
-      "summary": "What a season 2025 was for the Indianapolis Colts. To call it a roller coaster would be a lie because those have ups and downs scattered throughout. The Colts literally made the climb to the first major hill and then plummeted down. The ride was over as quickly as it had begun. This was a [&#8230;]"
-    },
-    {
-      "id": "173037d8dd89803d",
-      "title": "Colts add intriguing cornerback to practice squad",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119980/colts-add-intriguing-cornerback-to-practice-squad",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-31T03:39:42+0000",
-      "summary": "The Indianapolis Colts announced on Tuesday that the team signed cornerback Wyett Ekeler to their practice squad and waived offensive tackle Zach Thomas in a corresponding roster move. Ekeler is well known for being the younger half-brother of former All-Pro NFL running back Austin Ekeler, who is currently playing for the Washington Commanders. The two [&#8230;]"
     },
     {
       "id": "aa51cd45af0cc32b",
@@ -281,6 +290,15 @@
       "summary": "According to ESPN’s Adam Schefter on ‘The Pat McAfee Show,’ he believes that the Indianapolis Colts are “banking on” injured pending free agent starting quarterback Daniel Jones “being back.” Specifically, it’s Schefter’s opinion right now that the two sides will reach agreement on a new contract, and Jones will be ready for the start of [&#8230;]"
     },
     {
+      "id": "920d0365258f3cc9",
+      "title": "Colts announce signing of practice squad quarterback",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119922/colts-announce-signing-of-practice-squad-quarterback",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-30T03:44:16+0000",
+      "summary": "On Monday, the Indianapolis Colts announced that the team has signed former Jacksonville Jaguars quarterback Seth Henigan to the team’s practice squad. Henigan had reportedly tried out for the Colts a few weeks ago. The listed 6,‘3”, 215 pound quarterback was signed as an undrafted free agent out of Memphis by the Jaguars this past [&#8230;]"
+    },
+    {
       "id": "a8fbd4f961173739",
       "title": "Colts’ Laiatu Latu: Late-season fade frustrating, depressing",
       "link": "https://fox59.com/sports/colts/colts-laiatu-latu-late-season-fade-frustrating-depressing/",
@@ -315,6 +333,15 @@
       "feed": "Colts.com",
       "published": "2025-12-29T16:28:56+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "d73fbfe6a3060b77",
+      "title": "Colts’ Monday Morning Awards: Week 17 vs. Jaguars",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119906/colts-monday-morning-awards-week-17-vs-jaguars",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-29T15:36:57+0000",
+      "summary": "8-8, the losing streak continues, and this team keeps finding ways to lose. A cultural reset is clearly needed, starting from the general manager all the way down to the key players. This team is not going anywhere the way it is built, and to top it all off the Colts don’t have their first [&#8230;]"
     },
     {
       "id": "386a595e5740e5c3",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-26T18:31:01+0000",
       "summary": "The Colts will be without several key players on Sunday against the Jaguars."
-    },
-    {
-      "id": "59bd1f560a2dce6f",
-      "title": "GAMEDAY ALERT: Road closures and delays expected for Colts fans",
-      "link": "https://colts.com/news/indianapolis-construction-road-closures-green-bay-packers-gameday-traffic-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T11:00:00+0000",
-      "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
-    },
-    {
-      "id": "f5479a3c2f3be86a",
-      "title": "Practice Notebook: Bernhard Raimann listed as full participant Thursday",
-      "link": "https://colts.com/news/practice-notebook-bernhard-raimann-listed-as-full-participant-thursday",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-25T20:23:36+0000",
-      "summary": "The Colts did not hold a practice on Christmas day."
-    },
-    {
-      "id": "9e92708b5e2a4d75",
-      "title": "Colts’ playoff chances? So, you’re saying there’s a chance . ..",
-      "link": "https://fox59.com/sports/colts/colts-playoff-chances-so-youre-saying-theres-a-chance/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-24T22:10:50+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts’ playoff heartbeat is faint and could flatline before they step on the field Sunday at Lucas Oil Stadium against Jacksonville. Everything hinges on Houston’s Saturday road test against the Los Angeles Chargers. A Texans’ win eliminates the Colts and extends their playoff drought to five seasons, the franchise’s longest in [...]"
     }
   ],
   "links": [
