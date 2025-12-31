@@ -1,31 +1,13 @@
 {
-  "updated": "2025-12-31T01:40:25+00:00",
+  "updated": "2025-12-31T03:26:02+00:00",
   "items": [
-    {
-      "id": "ade04b8eb417b5a6",
-      "title": "NFL Week 18 schedule rankings and predictions",
-      "link": "https://sports.yahoo.com/articles/nfl-week-18-schedule-rankings-013354229.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-31T01:33:54+0000",
-      "summary": "Big games with high stakes take place in the final week of the regular season."
-    },
-    {
-      "id": "897edd64b9806bce",
-      "title": "Top 2026 NFL Draft prospects to watch in the Cotton Bowl between Miami and Ohio State",
-      "link": "https://sports.yahoo.com/articles/top-2026-nfl-draft-prospects-011928478.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-31T01:19:28+0000",
-      "summary": "Ohio State has an army of first-round picks."
-    },
     {
       "id": "5779a12649315351",
       "title": "Sources: Colts to start Leonard over Rivers at QB",
       "link": "https://espn.com/nfl/story/_/id/47453736/colts-expected-start-qb-riley-leonard-finale-sources-say",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T01:12:48+0000",
+      "published": "2025-12-31T03:11:24+0000",
       "summary": "The Colts are expected to start rookie quarterback Riley Leonard on Sunday against the Texans, sources told Stephen Holder and Jeremy Fowler on Tuesday."
     },
     {
@@ -34,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47450639/stafford-eclipses-roethlisberger-sixth-passing-yards",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T01:12:48+0000",
+      "published": "2025-12-31T03:11:24+0000",
       "summary": "Rams quarterback Matthew Stafford passed former Steelers quarterback Ben Roethlisberger for sixth on the NFL's all-time passing yards list."
     },
     {
@@ -43,8 +25,26 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T01:12:48+0000",
+      "published": "2025-12-31T03:11:23+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "4d72159c55bd42b5",
+      "title": "Our 2025 NFL All-Rookie Team: We picked standout first-years at every single position",
+      "link": "https://espn.com/nfl/story/_/id/47435284/2025-nfl-all-rookie-team-every-position-carson-schwesinger-cam-ward-tetairoa-mcmillan",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2025-12-31T02:58:45+0000",
+      "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
+    },
+    {
+      "id": "97873eeb57beea37",
+      "title": "Michigan's Kyle Whittingham run in with Death Row Records' Suge Knight is internet gold",
+      "link": "https://sports.yahoo.com/articles/michigans-kyle-whittingham-run-death-025648564.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T02:56:48+0000",
+      "summary": "The unlikely teammates for the NFL during a strike."
     },
     {
       "id": "aa51cd45af0cc32b",
@@ -81,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-12-30T19:26:56+0000",
       "summary": "Updated 2025 NFL win totals and odds for every team to make the playoffs, win their division, conference and Super Bowl LX."
-    },
-    {
-      "id": "4d72159c55bd42b5",
-      "title": "Our 2025 NFL All-Rookie Team: We picked standout first-years at every single position",
-      "link": "https://espn.com/nfl/story/_/id/47435284/2025-nfl-all-rookie-team-every-position-carson-schwesinger-cam-ward-tetairoa-mcmillan",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-30T18:54:59+0000",
-      "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
     },
     {
       "id": "92c821d90e4b2cb7",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-24T17:43:32+0000",
       "summary": "From Jim Bob Cooter to Alec Pierce and Jonathan Taylor, the Colts are taking advantage of their opportunity to learn as much as they can from the veteran quarterback."
+    },
+    {
+      "id": "ed39dfa12141a433",
+      "title": "Colts designate WR Ashton Dulin to return to practice",
+      "link": "https://colts.com/news/colts-designate-wide-receiver-ashton-dulin-to-return-to-practice-week-17",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-24T15:58:45+0000",
+      "summary": "Dulin was placed on injured reserve with a hamstring injury in Week 13."
     }
   ],
   "links": [
