@@ -1,14 +1,14 @@
 {
-  "updated": "2025-12-31T23:18:57+00:00",
+  "updated": "2025-12-31T23:40:40+00:00",
   "items": [
     {
-      "id": "5457ef2815ebc0cf",
-      "title": "Ewers: Chose NFL over portal to cement UT ties",
-      "link": "https://espn.com/nfl/story/_/id/47465518/quinn-ewers-said-chose-nfl-preserve-texas-relationships",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-31T23:06:47+0000",
-      "summary": "Dolphins quarterback Quinn Ewers said he chose the NFL over lucrative offers for a final college season in order to preserve his relationships at Texas."
+      "id": "1eb27d597eef3ce0",
+      "title": "Texas A&M senior OG officially declares for the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/texas-m-senior-og-officially-232756380.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T23:27:56+0000",
+      "summary": "Texas A&amp;M senior OG Ar'maj Reed-Adams officially declared for the 2026 NFL Draft after two successful seasons with the Aggies."
     },
     {
       "id": "4d72159c55bd42b5",
@@ -16,8 +16,26 @@
       "link": "https://espn.com/nfl/story/_/id/47435284/2025-nfl-all-rookie-team-every-position-carson-schwesinger-cam-ward-tetairoa-mcmillan",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2025-12-31T23:06:47+0000",
+      "published": "2025-12-31T23:26:18+0000",
       "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
+    },
+    {
+      "id": "e374b21d819dc861",
+      "title": "Drake Maye Calls Out Narrative Of Patriots’ ‘Easy Schedule’",
+      "link": "https://sports.yahoo.com/articles/drake-maye-calls-narrative-patriots-232516948.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T23:25:16+0000",
+      "summary": "The Patriots are having a fantastic season, but many people are skeptical of New England’s “easy schedule”. According to Tankathon.com, the Patriots have the easiest strength of schedule in the NFL. However, Drake Maye didn’t want to hear about New England’s schedule. “We play in the National Football League,” Maye said on Wednesday. “Every team […]"
+    },
+    {
+      "id": "dc6dade9507f8963",
+      "title": "Steelers' Aaron Rodgers Hints About Future in NFL",
+      "link": "https://sports.yahoo.com/articles/steelers-aaron-rodgers-hints-future-230606658.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2025-12-31T23:06:06+0000",
+      "summary": "Pittsburgh Steelers quarterback Aaron Rodgers hinted at his future beyond this season."
     },
     {
       "id": "6efced9c608d7d34",
@@ -27,24 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2025-12-31T23:04:37+0000",
       "summary": "Here are the latest injury updates from the Indianapolis Colts first Week 18 practice."
-    },
-    {
-      "id": "8987727eb4114ab1",
-      "title": "Steelers’ Aaron Rodgers Opens Up About Uncertain NFL Future",
-      "link": "https://sports.yahoo.com/articles/steelers-aaron-rodgers-opens-uncertain-225647515.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-31T22:56:47+0000",
-      "summary": "The Pittsburgh Steelers’ game against the Baltimore Ravens could be the last one of Aaron Rodgers’ career, and he knows it. The 42-year-old is nearing the end of his 21st NFL season, so there’s not much left for him to prove or add to his Hall of Fame credentials. Rodgers’ one-year contract with the Steelers […]"
-    },
-    {
-      "id": "48a67dff792a05cc",
-      "title": "Seahawks’ Derick Hall back from exile at home in Mississippi, noticed GM’s love",
-      "link": "https://sports.yahoo.com/articles/seahawks-derick-hall-back-exile-225115534.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2025-12-31T22:51:15+0000",
-      "summary": "Seattle’s outside linebacker returns wiser from his one-game NFL suspension, will play in NFC West showdown Saturday at San Francisco."
     },
     {
       "id": "067a5af473a3a9ae",
@@ -81,15 +81,6 @@
       "feed": "ESPN",
       "published": "2025-12-31T21:53:06+0000",
       "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
-    },
-    {
-      "id": "8ead5565af4c1d1f",
-      "title": "Can we see anything in week 18 to give the Colts hope for next season?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119990/can-we-see-anything-in-week-18-to-give-the-colts-hope-for-next-season",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-31T19:48:28+0000",
-      "summary": "I am going to look at this question from the thought process that we will be signing Daniel Jones to a contract for some yet to be determined length and dollar amount. I may lose some of you with that declaration, but I struggle to endorse a different route. Of course the DJ injury brings [&#8230;]"
     },
     {
       "id": "c7aeadc437f0d4f3",
@@ -297,6 +288,15 @@
       "feed": "Stampede Blue",
       "published": "2025-12-30T04:41:36+0000",
       "summary": "According to head coach Shane Steichen, the Indianapolis Colts are taking a ‘wait-and-see’ approach with 3rd-year quarterback Anthony Richardson regarding whether he’ll be activated off of injured reserve ahead of the team’s regular season finale game on the road against the Houston Texans (per The Athletic’s James Boyd). Specifically, given that Richardson is still experiencing [&#8230;]"
+    },
+    {
+      "id": "825b6c8a9f9f8b25",
+      "title": "ESPN NFL Insider believes Colts are ‘banking on’ free agent QB Daniel Jones being back",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/119925/espn-nfl-insider-believes-colts-are-banking-on-free-agent-qb-daniel-jones-being-back",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-30T04:13:11+0000",
+      "summary": "According to ESPN’s Adam Schefter on ‘The Pat McAfee Show,’ he believes that the Indianapolis Colts are “banking on” injured pending free agent starting quarterback Daniel Jones “being back.” Specifically, it’s Schefter’s opinion right now that the two sides will reach agreement on a new contract, and Jones will be ready for the start of [&#8230;]"
     },
     {
       "id": "a8fbd4f961173739",
