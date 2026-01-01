@@ -1,32 +1,14 @@
 {
-  "updated": "2026-01-01T22:43:56+00:00",
+  "updated": "2026-01-01T23:19:05+00:00",
   "items": [
     {
-      "id": "91704723a76abc06",
-      "title": "Tennessee football OT Lance Heard plans to enter transfer portal",
-      "link": "https://sports.yahoo.com/articles/tennessee-football-ot-lance-heard-222502608.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T22:25:02+0000",
-      "summary": "Lance Heard was a 2025 All-SEC performer and potential 2026 NFL Draft prospect. He started the past two seasons at left tackle for Tennessee football."
-    },
-    {
-      "id": "87e3b41454733b3b",
-      "title": "Dan Lanning calls for college football season to end Jan. 1, avoid NFL conflicts",
-      "link": "https://sports.yahoo.com/articles/dan-lanning-calls-college-football-221950118.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T22:19:50+0000",
-      "summary": "Thursday afternoon, as is tradition on New Year’s Day, three high-profile bowl games are on the schedule. Of course, they’re all part of the College Football Playoff under the 12-team format, serving as quarterfinal games in the bracket. Oregon played in the first of those games, taking on Texas Tech in the Orange Bowl. But […]"
-    },
-    {
-      "id": "0e35517d3029e98e",
-      "title": "Cardinals predicted to replace Kyler Murray with quarterback playing in CFP",
-      "link": "https://sports.yahoo.com/articles/cardinals-predicted-replace-kyler-murray-221117387.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T22:11:17+0000",
-      "summary": "The Arizona Cardinals find their QB of the future in this 2026 NFL mock draft."
+      "id": "dbe3e33710fe99bb",
+      "title": "Saints LB Davis plans to play a 15th NFL season",
+      "link": "https://espn.com/nfl/story/_/id/47475240/saints-lb-demario-davis-36-plans-return-15th-season",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-01T22:59:06+0000",
+      "summary": "Saints linebacker Demario Davis said he plans to play a 15th season in the NFL next year."
     },
     {
       "id": "4d72159c55bd42b5",
@@ -34,8 +16,26 @@
       "link": "https://espn.com/nfl/story/_/id/47435284/2025-nfl-all-rookie-team-every-position-carson-schwesinger-cam-ward-tetairoa-mcmillan",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-01T22:01:37+0000",
+      "published": "2026-01-01T22:59:06+0000",
       "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
+    },
+    {
+      "id": "621915b0deabb183",
+      "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
+      "link": "https://espn.com/nfl/story/_/id/47464533/new-years-resolution-pilates-nfl-stars-sacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-01T22:59:04+0000",
+      "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
+    },
+    {
+      "id": "e243a5ac43bcbc0c",
+      "title": "Power Rankings: New 1-32 poll, plus what we learned about each team this season",
+      "link": "https://espn.com/nfl/story/_/id/47446909/nfl-week-18-power-rankings-poll-32-teams-2025-season-lessons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-01T22:59:04+0000",
+      "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
     },
     {
       "id": "ef849becea01a4ea",
@@ -81,24 +81,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-01T19:24:39+0000",
       "summary": "The Indianapolis Colts have a chance to finish with a winning record as they take on the Houston Texans. Rookie Riley Leonard will get the start, his first as an NFL quarterback. Matt Adams and Mike Chappell talk all about it in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue [...]"
-    },
-    {
-      "id": "621915b0deabb183",
-      "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
-      "link": "https://espn.com/nfl/story/_/id/47464533/new-years-resolution-pilates-nfl-stars-sacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-01T19:18:15+0000",
-      "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
-    },
-    {
-      "id": "e243a5ac43bcbc0c",
-      "title": "Power Rankings: New 1-32 poll, plus what we learned about each team this season",
-      "link": "https://espn.com/nfl/story/_/id/47446909/nfl-week-18-power-rankings-poll-32-teams-2025-season-lessons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-01T19:18:15+0000",
-      "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
     },
     {
       "id": "6eb270f4d7992498",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-27T17:42:18+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts are hoping for a miracle to get into the playoffs, but first, they need to overcome injuries. On Saturday, the team announced that wide receiver Ashton Dulin had been activated from the Injured Reserve list after being placed on it on Nov. 25. He is no longer listed as questionable [...]"
+    },
+    {
+      "id": "422601a9a3dd14d2",
+      "title": "Colts place DT DeForest Buckner, TE Drew Ogletree, WR Anthony Gould on injured reserve; activate WR Ashton Dulin from injured reserve; make other roster moves for Week 17",
+      "link": "https://colts.com/news/colts-place-deforest-buckner-drew-ogletree-anthony-gould-injured-reserve-activate-wr-ashton-dulin-other-roster-moves-for-week-17",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-27T16:49:04+0000",
+      "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "fad6a1027a21b955",
+      "title": "Colts’ DeForest Buckner aggravates neck injury, placed on IR",
+      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-aggravates-neck-injury-placed-on-ir/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-26T20:20:49+0000",
+      "summary": "INDIANAPOLIS – DeForest Buckner tried, but his body resisted. A cornerstone of the Indianapolis Colts’ defense will be placed on the season-ending injured reserve list after aggravating a neck injury in Monday night’s loss to the San Francisco 49ers. “It’s obviously an unfortunate situation,’’ Shane Steichen said Friday, adding the team anticipates Buckner returning for [...]"
     }
   ],
   "links": [
