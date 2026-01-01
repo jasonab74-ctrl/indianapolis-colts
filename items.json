@@ -1,41 +1,50 @@
 {
-  "updated": "2026-01-01T18:53:48+00:00",
+  "updated": "2026-01-01T19:16:31+00:00",
   "items": [
+    {
+      "id": "e243a5ac43bcbc0c",
+      "title": "Power Rankings: New 1-32 poll, plus what we learned about each team this season",
+      "link": "https://espn.com/nfl/story/_/id/47446909/nfl-week-18-power-rankings-poll-32-teams-2025-season-lessons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-01T19:03:00+0000",
+      "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
+    },
+    {
+      "id": "621915b0deabb183",
+      "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
+      "link": "https://espn.com/nfl/story/_/id/47464533/new-years-resolution-pilates-nfl-stars-sacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-01T19:02:59+0000",
+      "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
+    },
+    {
+      "id": "1f6b9805b9fab76e",
+      "title": "4 quick takeaways from Colts' Week 18 depth chart vs. Texans",
+      "link": "https://sports.yahoo.com/articles/4-quick-takeaways-colts-week-190147089.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T19:01:47+0000",
+      "summary": "Ahead of the Colts vs. Texans Week 18 matchup, here are four quick takeaways from Indianapolis' depth chart."
+    },
     {
       "id": "4d72159c55bd42b5",
       "title": "🏈 All-Rookie Team: Is Ward or Shough the QB1?",
       "link": "https://espn.com/nfl/story/_/id/47435284/2025-nfl-all-rookie-team-every-position-carson-schwesinger-cam-ward-tetairoa-mcmillan",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-01T18:41:38+0000",
+      "published": "2026-01-01T19:01:40+0000",
       "summary": "We know Carson Schwesinger makes the list at LB, but is Cam Ward or Tyler Shough the QB1? Let's build first- and second-team NFL All-Rookie rosters."
     },
     {
-      "id": "143c17a937080db4",
-      "title": "NFL playoff seed possibilities: Where every playoff team can be seeded after Week 18",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-seed-possibilities-where-183222093.html",
+      "id": "2ba6fe3d476acc9c",
+      "title": "10 Thoughts on the NFL: New Years Edition!",
+      "link": "https://sports.yahoo.com/articles/10-thoughts-nfl-years-edition-190000595.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-01T18:32:22+0000",
-      "summary": "With one week remaining in the regular season, the playoff field is almost set, as 12 teams have clinched playoff berths."
-    },
-    {
-      "id": "1bd8af4a15725c75",
-      "title": "Vikings Coach Leaves for Open Defensive Coordinator Position",
-      "link": "https://sports.yahoo.com/articles/vikings-coach-leaves-open-defensive-182500947.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T18:25:00+0000",
-      "summary": "Sometimes, success comes at a cost in the NFL. Part of the cost of doing business is seeing rising talent [&#8230;]"
-    },
-    {
-      "id": "6107358bcb084e4c",
-      "title": "NFL Moneyline Picks for Every Week 18 Game",
-      "link": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-week-183800316.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T18:22:00+0000",
-      "summary": "Chris Vasile breaks down his favorite moneyline NFL picks for Week 18, including the Seattle Seahawks and Baltimore Ravens."
+      "published": "2026-01-01T19:00:00+0000",
+      "summary": "1. Maybe it’s just the holiday falling midweek this year, but this extra week of the NFL season feels especially annoying right now. True, there are three winner-take-all division matchups to account for, but most of the slate, including Bears-Lions, doesn’t mean anything anymore. In fact, the Eagles care so little about increasing their seeding […]"
     },
     {
       "id": "6eb270f4d7992498",
@@ -54,24 +63,6 @@
       "feed": "ESPN",
       "published": "2026-01-01T13:35:00+0000",
       "summary": "Will Carlie Irsay-Gordon keep GM Chris Ballard and cocach Shane Steichen in place? The new owner faces tough decisions."
-    },
-    {
-      "id": "621915b0deabb183",
-      "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
-      "link": "https://espn.com/nfl/story/_/id/47464533/new-years-resolution-pilates-nfl-stars-sacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-01T13:34:53+0000",
-      "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
-    },
-    {
-      "id": "e243a5ac43bcbc0c",
-      "title": "Power Rankings: New 1-32 poll, plus what we learned about each team this season",
-      "link": "https://espn.com/nfl/story/_/id/47446909/nfl-week-18-power-rankings-poll-32-teams-2025-season-lessons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-01T13:34:53+0000",
-      "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
     },
     {
       "id": "46a2e5681933173c",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-26T18:35:21+0000",
       "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
+    },
+    {
+      "id": "d678295df121d475",
+      "title": "Colts rule out C Tanor Bortolini, WR Anthony Gould, TE Drew Ogletree, DE J.T. Tuimoloau for Week 17 game vs. Jacksonville Jaguars; DT DeForest Buckner to be placed on injured reserve",
+      "link": "https://colts.com/news/colts-rule-out-c-tanor-bortolini-wr-anthony-gould-te-drew-ogletree-de-j-t-tuimoloau-for-week-17-game-vs-jacksonville-jaguars-de-deforest-buckner-to-be-placed-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-26T18:31:01+0000",
+      "summary": "The Colts will be without several key players on Sunday against the Jaguars."
     }
   ],
   "links": [
