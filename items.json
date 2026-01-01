@@ -1,6 +1,42 @@
 {
-  "updated": "2026-01-01T19:38:30+00:00",
+  "updated": "2026-01-01T20:22:53+00:00",
   "items": [
+    {
+      "id": "5bc3d1b1129cbd00",
+      "title": "Matthew Berry’s Fantasy Football Rankings for Week 18 of 2025 season",
+      "link": "https://sports.yahoo.com/articles/matthew-berry-fantasy-football-rankings-162735113.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T20:07:00+0000",
+      "summary": "Drake Maye, Bijan Robinson, Jaxon Smith-Njigba, and Trey McBride highlight the positional rankings for Week 18 of the 2025 NFL season."
+    },
+    {
+      "id": "f18448972d176f7b",
+      "title": "NFL insider provides major update on Zac Taylor's job security with Bengals",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-provides-major-zac-200002264.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T20:00:02+0000",
+      "summary": "Cincinnati is set to miss the playoffs for a third consecutive season."
+    },
+    {
+      "id": "418c14c869aa3f10",
+      "title": "Packers anticipate rookie DE Collin Oliver making NFL debut vs. Vikings",
+      "link": "https://sports.yahoo.com/articles/packers-anticipate-rookie-collin-oliver-195635782.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T19:56:35+0000",
+      "summary": "Sunday's regular season finale will likely provide the debut of Packers rookie DE Collin Oliver."
+    },
+    {
+      "id": "1c1faeeb450e760a",
+      "title": "NFL Predictions: 3 Plus Money Bets to Target for Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-predictions-3-plus-money-195500627.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T19:55:00+0000",
+      "summary": "Tyler Shough has spearheaded a second-half surge for the New Orleans Saints, and while it’s too little too late for their playoff hopes, the rookie pivot offers betting value in NOLA's season finale."
+    },
     {
       "id": "c4b1cd15fd62557a",
       "title": "Colts Blue Zone Podcast 453: Leonard Gets First Start",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-27T16:49:04+0000",
       "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "fad6a1027a21b955",
-      "title": "Colts’ DeForest Buckner aggravates neck injury, placed on IR",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-aggravates-neck-injury-placed-on-ir/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-26T20:20:49+0000",
-      "summary": "INDIANAPOLIS – DeForest Buckner tried, but his body resisted. A cornerstone of the Indianapolis Colts’ defense will be placed on the season-ending injured reserve list after aggravating a neck injury in Monday night’s loss to the San Francisco 49ers. “It’s obviously an unfortunate situation,’’ Shane Steichen said Friday, adding the team anticipates Buckner returning for [...]"
-    },
-    {
-      "id": "e955a91667764771",
-      "title": "Colts-Jaguars preview: With playoff shot out of their hands, Colts prep for final game at Lucas Oil Stadium this season",
-      "link": "https://colts.com/news/colts-jaguars-preview-with-playoff-shot-out-of-their-hands-colts-prep-for-final-game-at-lucas-oil-stadium-this-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T18:35:21+0000",
-      "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
-    },
-    {
-      "id": "d678295df121d475",
-      "title": "Colts rule out C Tanor Bortolini, WR Anthony Gould, TE Drew Ogletree, DE J.T. Tuimoloau for Week 17 game vs. Jacksonville Jaguars; DT DeForest Buckner to be placed on injured reserve",
-      "link": "https://colts.com/news/colts-rule-out-c-tanor-bortolini-wr-anthony-gould-te-drew-ogletree-de-j-t-tuimoloau-for-week-17-game-vs-jacksonville-jaguars-de-deforest-buckner-to-be-placed-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T18:31:01+0000",
-      "summary": "The Colts will be without several key players on Sunday against the Jaguars."
-    },
-    {
-      "id": "59bd1f560a2dce6f",
-      "title": "GAMEDAY ALERT: Road closures and delays expected for Colts fans",
-      "link": "https://colts.com/news/indianapolis-construction-road-closures-green-bay-packers-gameday-traffic-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T11:00:00+0000",
-      "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
     }
   ],
   "links": [
