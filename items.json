@@ -1,32 +1,41 @@
 {
-  "updated": "2026-01-01T17:18:22+00:00",
+  "updated": "2026-01-01T17:42:47+00:00",
   "items": [
     {
+      "id": "8ea71e55cec2ff55",
+      "title": "Duce Robinson, one of ACC's top receivers, announces his return to Florida State in 2026",
+      "link": "https://sports.yahoo.com/articles/duce-robinson-one-accs-top-172119639.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T17:21:19+0000",
+      "summary": "Florida State has its difference-maker back for 2026: Wide receiver Duce Robinson is returning to school.  Robinson announced Thursday that he was passing up the NFL draft to return to FSU for his senior season.  The 6-foot-6, 223-pound Robinson was second in the Atlantic Coast Conference in receiving yards (1,081) and had six touchdowns in 2025."
+    },
+    {
+      "id": "8d7cd2b0abb83ba2",
+      "title": "Will Ohio State’s Ryan Day choose the Jets, Giants or Browns over the Buckeyes",
+      "link": "https://sports.yahoo.com/articles/ohio-state-ryan-day-choose-171045392.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T17:10:45+0000",
+      "summary": "Ryan Day isn’t chasing the NFL, but with likely openings in New York and Cleveland, the decision may not stay hypothetical for long."
+    },
+    {
+      "id": "2d294cc80e137f67",
+      "title": "Is Chris Olave playing NFL Week 18? New injury update for Saints WR",
+      "link": "https://sports.yahoo.com/articles/chris-olave-playing-nfl-week-170824128.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-01T17:08:24+0000",
+      "summary": "A new injury will keep New Orleans Saints WR Chris Olave from playing in the team's NFL Week 18 season finale against the Atlanta Falcons."
+    },
+    {
       "id": "6eb270f4d7992498",
-      "title": "Bruce Arians impores the Colts to run it back: “Be patient”",
+      "title": "Bruce Arians implores the Colts to run it back: “Be patient”",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/120006/bruce-arians-impores-the-colts-to-run-it-back-be-patient",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-01-01T17:00:00+0000",
       "summary": "Indianapolis, IN — Former Super Bowl-winning head coach Bruce Arians recently shared his thoughts on the state of the Indianapolis Colts, emphasizing the importance of patience as a reason to remain calm during challenging times. Arians has regularly appeared on The Pat McAfee Show for the 2025-26 NFL season, providing his insight and knowledge of [&#8230;]"
-    },
-    {
-      "id": "6a30386c33dbdc94",
-      "title": "Bruce Arians implores the Colts to run it back: “Be patient”",
-      "link": "https://sports.yahoo.com/articles/bruce-arians-impores-colts-run-170000724.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T17:00:00+0000",
-      "summary": "The Indianapolis Colts are at a crossroads. Will they finally shake things up?"
-    },
-    {
-      "id": "f1ff4e0aa3a41a41",
-      "title": "Carolina Panthers playoffs: NFL Week 18 rooting guide for NFC South glory",
-      "link": "https://sports.yahoo.com/articles/carolina-panthers-playoffs-nfl-week-165207564.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-01T16:52:07+0000",
-      "summary": "Let’s get ahead of ourselves and figure out how to root for a preferred wild-card opponent for the Carolina Panthers."
     },
     {
       "id": "4d72159c55bd42b5",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-26T18:35:21+0000",
       "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
-    },
-    {
-      "id": "d678295df121d475",
-      "title": "Colts rule out C Tanor Bortolini, WR Anthony Gould, TE Drew Ogletree, DE J.T. Tuimoloau for Week 17 game vs. Jacksonville Jaguars; DT DeForest Buckner to be placed on injured reserve",
-      "link": "https://colts.com/news/colts-rule-out-c-tanor-bortolini-wr-anthony-gould-te-drew-ogletree-de-j-t-tuimoloau-for-week-17-game-vs-jacksonville-jaguars-de-deforest-buckner-to-be-placed-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T18:31:01+0000",
-      "summary": "The Colts will be without several key players on Sunday against the Jaguars."
     }
   ],
   "links": [
