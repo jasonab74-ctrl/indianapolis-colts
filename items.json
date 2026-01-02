@@ -1,15 +1,6 @@
 {
-  "updated": "2026-01-02T09:23:49+00:00",
+  "updated": "2026-01-02T09:45:51+00:00",
   "items": [
-    {
-      "id": "d0466d44acfd7315",
-      "title": "NFL playoff race: Seahawks and 49ers meet with NFC’s No 1 seed at stake",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-race-seahawks-49ers-080004260.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-02T08:00:04+0000",
-      "summary": "The final week of the regular season delivers a winner-take-all clash in the NFC West, while Houston surge, the Rams slide and the race for the No 1 draft pick tips toward farce"
-    },
     {
       "id": "621915b0deabb183",
       "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
@@ -83,6 +74,15 @@
       "summary": "The Indianapolis Colts have a chance to finish with a winning record as they take on the Houston Texans. Rookie Riley Leonard will get the start, his first as an NFL quarterback. Matt Adams and Mike Chappell talk all about it in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue [...]"
     },
     {
+      "id": "6eb270f4d7992498",
+      "title": "Bruce Arians implores the Colts to run it back: “Be patient”",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120006/bruce-arians-impores-the-colts-to-run-it-back-be-patient",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-01T17:00:00+0000",
+      "summary": "Indianapolis, IN — Former Super Bowl-winning head coach Bruce Arians recently shared his thoughts on the state of the Indianapolis Colts, emphasizing the importance of patience as a reason to remain calm during challenging times. Arians has regularly appeared on The Pat McAfee Show for the 2025-26 NFL season, providing his insight and knowledge of [&#8230;]"
+    },
+    {
       "id": "be9e02cfd88beeaa",
       "title": "What the Colts' historic collapse could mean for their future",
       "link": "https://espn.com/nfl/story/_/id/47464539/colts-collapse-carlie-irsay-gordon-shane-steichen-chris-ballard",
@@ -126,6 +126,15 @@
       "feed": "ESPN",
       "published": "2025-12-31T22:10:10+0000",
       "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
+    },
+    {
+      "id": "8ead5565af4c1d1f",
+      "title": "Can we see anything in week 18 to give the Colts hope for next season?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119990/can-we-see-anything-in-week-18-to-give-the-colts-hope-for-next-season",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2025-12-31T19:48:28+0000",
+      "summary": "I am going to look at this question from the thought process that we will be signing Daniel Jones to a contract for some yet to be determined length and dollar amount. I may lose some of you with that declaration, but I struggle to endorse a different route. Of course the DJ injury brings [&#8230;]"
     },
     {
       "id": "c7aeadc437f0d4f3",
@@ -297,24 +306,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-30T05:04:53+0000",
       "summary": "According to head coach Shane Steichen, he hasn’t had conversations yet regarding his coaching future with team owner and CEO Carlie Irsay-Gordon yet, but the two organizational leaders continue to chat weekly (via 1075 The Fan’s Kevin Bowen): Honestly, this isn’t exactly surprising given that the Colts still have one game of football left to [&#8230;]"
-    },
-    {
-      "id": "74cf539d716dd10b",
-      "title": "Colts taking ‘wait-and-see’ approach for activating QB Anthony Richardson off IR before finale",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119932/colts-taking-wait-and-see-approach-for-activating-qb-anthony-richardson-off-ir-before-finale",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-30T04:41:36+0000",
-      "summary": "According to head coach Shane Steichen, the Indianapolis Colts are taking a ‘wait-and-see’ approach with 3rd-year quarterback Anthony Richardson regarding whether he’ll be activated off of injured reserve ahead of the team’s regular season finale game on the road against the Houston Texans (per The Athletic’s James Boyd). Specifically, given that Richardson is still experiencing [&#8230;]"
-    },
-    {
-      "id": "825b6c8a9f9f8b25",
-      "title": "ESPN NFL Insider believes Colts are ‘banking on’ free agent QB Daniel Jones being back",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119925/espn-nfl-insider-believes-colts-are-banking-on-free-agent-qb-daniel-jones-being-back",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-30T04:13:11+0000",
-      "summary": "According to ESPN’s Adam Schefter on ‘The Pat McAfee Show,’ he believes that the Indianapolis Colts are “banking on” injured pending free agent starting quarterback Daniel Jones “being back.” Specifically, it’s Schefter’s opinion right now that the two sides will reach agreement on a new contract, and Jones will be ready for the start of [&#8230;]"
     },
     {
       "id": "a8fbd4f961173739",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-26T18:35:21+0000",
       "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
+    },
+    {
+      "id": "d678295df121d475",
+      "title": "Colts rule out C Tanor Bortolini, WR Anthony Gould, TE Drew Ogletree, DE J.T. Tuimoloau for Week 17 game vs. Jacksonville Jaguars; DT DeForest Buckner to be placed on injured reserve",
+      "link": "https://colts.com/news/colts-rule-out-c-tanor-bortolini-wr-anthony-gould-te-drew-ogletree-de-j-t-tuimoloau-for-week-17-game-vs-jacksonville-jaguars-de-deforest-buckner-to-be-placed-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-26T18:31:01+0000",
+      "summary": "The Colts will be without several key players on Sunday against the Jaguars."
     }
   ],
   "links": [
