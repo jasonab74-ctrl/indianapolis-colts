@@ -1,32 +1,68 @@
 {
-  "updated": "2026-01-02T15:20:50+00:00",
+  "updated": "2026-01-02T15:43:02+00:00",
   "items": [
     {
+      "id": "2a61caa5d73ef362",
+      "title": "Bill Simmons Takes Hard Stance On Drake Maye Vs. Matthew Stafford MVP Debate",
+      "link": "https://sports.yahoo.com/articles/bill-simmons-takes-hard-stance-153405711.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T15:34:05+0000",
+      "summary": "The NFL MVP debate has been raging for weeks now, forcing fans and analysts alike to pick sides between New England Patriots quarterback Drake Maye and Los Angeles Rams quarterback Matthew Stafford, both of whom have had incredible seasons for playoff teams. Strong arguments can be made for both depending on which stats one chooses, […]"
+    },
+    {
+      "id": "2b06481028ff9912",
+      "title": "NFL insider doesn't expect 49ers' Pro Bowler to play vs. Seahawks",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-doesnt-expect-49ers-153306621.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T15:33:06+0000",
+      "summary": "49ers left tackle Trent Williams suffered a hamstring injury last week, and he's not expected to return in Week 18 against the Seahawks."
+    },
+    {
+      "id": "940c54c484823545",
+      "title": "Marlin Klein leaves Michigan football, declares for 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/marlin-klein-leaves-michigan-football-153257000.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T15:32:57+0000",
+      "summary": "Michigan tight end and team captain Marlin Klein will skip his final year of eligibility and declare for the 2026 NFL draft."
+    },
+    {
+      "id": "4bc61c5e71bcc16a",
+      "title": "Micah's expectations for the biggest game of Sam Darnold's career",
+      "link": "https://sports.yahoo.com/articles/micahs-expectations-biggest-game-sam-153218561.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T15:32:18+0000",
+      "summary": "To take down the hottest team in the NFL, Sam Darnold will have to be at his best, the rest of the Seahawks will follow"
+    },
+    {
+      "id": "bd957ac4471b9284",
+      "title": "Poll: Will the Colts finish the season strong?",
+      "link": "https://sports.yahoo.com/articles/poll-colts-finish-season-strong-152138680.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T15:21:38+0000",
+      "summary": "Are you confident the Colts are headed in the right direction?"
+    },
+    {
+      "id": "184b02a4763c1141",
+      "title": "NFL Network insider details Dolphins' 'full speed ahead' GM search plan",
+      "link": "https://sports.yahoo.com/articles/nfl-network-insider-details-dolphins-151641634.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T15:16:41+0000",
+      "summary": "Dolphins executive Brandon Shore &quot;is expected to be the quarterback&quot; of the team's search for a new general manager."
+    },
+    {
       "id": "d9a8706db0612e7b",
-      "title": "7 NFL head coaches who could fired on Black Monday",
+      "title": "7 NFL head coaches who could be fired on Black Monday",
       "link": "https://sports.yahoo.com/articles/7-nfl-head-coaches-could-151638799.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
       "published": "2026-01-02T15:16:38+0000",
       "summary": "Change is on the horizon for seven NFL teams."
-    },
-    {
-      "id": "c45eecc936a9f4d1",
-      "title": "Rams assistant GM listed as 'hot name' in upcoming GM-hiring cycle",
-      "link": "https://sports.yahoo.com/articles/rams-assistant-gm-listed-hot-151550237.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-02T15:15:50+0000",
-      "summary": "Once the NFL regular season concludes, teams will begin looking for new coaches and general managers, and the Rams have a candidate for the latter."
-    },
-    {
-      "id": "fbac02402b1775c0",
-      "title": "Trinidad Chambliss helps Ole Miss stun Georgia, and storms the NFL Draft conversation",
-      "link": "https://sports.yahoo.com/articles/trinidad-chambliss-helps-ole-miss-150354898.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-02T15:03:54+0000",
-      "summary": "Ole Miss is moving on after shocking Georgia. Could Trinidad Chambliss move on as well?"
     },
     {
       "id": "7ca27f88458b98f7",
@@ -54,6 +90,15 @@
       "feed": "ESPN",
       "published": "2026-01-02T13:41:55+0000",
       "summary": "Must-win AFC North and NFC South showdowns? No. 1 seeds on the line? We have picks, predictions, stats and what's at stake for every Week 18 game."
+    },
+    {
+      "id": "841fbc43843656d0",
+      "title": "Does Shane Steichen survive “Black Monday” and stay as Colts coach?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120020/does-shane-steichen-survive-black-monday-and-stay-as-colts-coach",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-02T13:30:00+0000",
+      "summary": "Garfield hates Mondays. If he was the coach of a struggling NFL team, he would absolutely despise this upcoming one. “Black Monday” is the day after the regular season in which NFL coaches learn their fate. Every year, there are surprises. Some coaches who should be fired somehow skate by while others who get released [&#8230;]"
     },
     {
       "id": "3e26ba44793a1914",
@@ -290,15 +335,6 @@
       "summary": "There are certain conversations NFL teams don’t want to have, but are forced into anyway. The Colts’ situation with Michael Pittman Jr. is one of them. Pittman is a good player, a respected leader, and someone who has done everything asked of him since arriving in Indianapolis. This isn’t about questioning his toughness or professionalism. [&#8230;]"
     },
     {
-      "id": "cfdedd6466c1cd23",
-      "title": "Colts head coach Shane Steichen hasn’t discussed job status with ownership yet",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119936/colts-head-coach-shane-steichen-hasnt-discussed-job-status-with-ownership-yet",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-30T05:04:53+0000",
-      "summary": "According to head coach Shane Steichen, he hasn’t had conversations yet regarding his coaching future with team owner and CEO Carlie Irsay-Gordon yet, but the two organizational leaders continue to chat weekly (via 1075 The Fan’s Kevin Bowen): Honestly, this isn’t exactly surprising given that the Colts still have one game of football left to [&#8230;]"
-    },
-    {
       "id": "a8fbd4f961173739",
       "title": "Colts’ Laiatu Latu: Late-season fade frustrating, depressing",
       "link": "https://fox59.com/sports/colts/colts-laiatu-latu-late-season-fade-frustrating-depressing/",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-27T16:49:04+0000",
       "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "fad6a1027a21b955",
-      "title": "Colts’ DeForest Buckner aggravates neck injury, placed on IR",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-aggravates-neck-injury-placed-on-ir/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-26T20:20:49+0000",
-      "summary": "INDIANAPOLIS – DeForest Buckner tried, but his body resisted. A cornerstone of the Indianapolis Colts’ defense will be placed on the season-ending injured reserve list after aggravating a neck injury in Monday night’s loss to the San Francisco 49ers. “It’s obviously an unfortunate situation,’’ Shane Steichen said Friday, adding the team anticipates Buckner returning for [...]"
-    },
-    {
-      "id": "e955a91667764771",
-      "title": "Colts-Jaguars preview: With playoff shot out of their hands, Colts prep for final game at Lucas Oil Stadium this season",
-      "link": "https://colts.com/news/colts-jaguars-preview-with-playoff-shot-out-of-their-hands-colts-prep-for-final-game-at-lucas-oil-stadium-this-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T18:35:21+0000",
-      "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
-    },
-    {
-      "id": "d678295df121d475",
-      "title": "Colts rule out C Tanor Bortolini, WR Anthony Gould, TE Drew Ogletree, DE J.T. Tuimoloau for Week 17 game vs. Jacksonville Jaguars; DT DeForest Buckner to be placed on injured reserve",
-      "link": "https://colts.com/news/colts-rule-out-c-tanor-bortolini-wr-anthony-gould-te-drew-ogletree-de-j-t-tuimoloau-for-week-17-game-vs-jacksonville-jaguars-de-deforest-buckner-to-be-placed-on-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T18:31:01+0000",
-      "summary": "The Colts will be without several key players on Sunday against the Jaguars."
-    },
-    {
-      "id": "59bd1f560a2dce6f",
-      "title": "GAMEDAY ALERT: Road closures and delays expected for Colts fans",
-      "link": "https://colts.com/news/indianapolis-construction-road-closures-green-bay-packers-gameday-traffic-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T11:00:00+0000",
-      "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
     }
   ],
   "links": [
