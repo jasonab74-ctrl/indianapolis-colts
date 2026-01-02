@@ -1,13 +1,40 @@
 {
-  "updated": "2026-01-02T21:38:44+00:00",
+  "updated": "2026-01-02T22:19:47+00:00",
   "items": [
+    {
+      "id": "296d3311b04dc845",
+      "title": "Ravens veteran NT John Jenkins ‘surprised’ by extension, his first in NFL",
+      "link": "https://sports.yahoo.com/articles/ravens-veteran-nt-john-jenkins-220800884.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T22:08:00+0000",
+      "summary": "When Saints nose tackle Broderick Bunkley suffered a season-ending quadriceps injury in 2013, he told then-teammate and rookie John Jenkins to not give New Orleans a reason to bring someone else in. Thirteen years and seven teams later, it has proven to be sage advice. On Friday, the Ravens signed Jenkins to a one-year extension, the team announced. The deal is for one year and $2.1 million, a ..."
+    },
+    {
+      "id": "1f67efe9dc0636ff",
+      "title": "Which teams have something to play for in Week 18? Who is resting players?",
+      "link": "https://sports.yahoo.com/articles/teams-something-play-week-18-152905710.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T22:03:34+0000",
+      "summary": "The NFL wraps up the 2025-26 regular season this weekend with Week 18. We break down which teams have something to play for and who is resting players."
+    },
+    {
+      "id": "072282d0ddc36b79",
+      "title": "Saints updated 2026 NFL Draft order: Current 1st-round pick after Week 18",
+      "link": "https://sports.yahoo.com/articles/saints-updated-2026-nfl-draft-220000675.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T22:00:00+0000",
+      "summary": "Even after a win, the Saints get lucky in the draft order"
+    },
     {
       "id": "7ba92cef9cc15fe5",
       "title": "Ravens give 13-year vet NT Jenkins 1st extension",
       "link": "https://espn.com/nfl/story/_/id/47484483/ravens-veteran-nt-john-jenkins-agree-contract-extension",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-02T21:08:28+0000",
+      "published": "2026-01-02T21:40:12+0000",
       "summary": "The Ravens and nose tackle John Jenkins have agreed to a one-year extension. It is the first contract extension in Jenkins' 13-year NFL career."
     },
     {
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-27T17:42:18+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts are hoping for a miracle to get into the playoffs, but first, they need to overcome injuries. On Saturday, the team announced that wide receiver Ashton Dulin had been activated from the Injured Reserve list after being placed on it on Nov. 25. He is no longer listed as questionable [...]"
-    },
-    {
-      "id": "422601a9a3dd14d2",
-      "title": "Colts place DT DeForest Buckner, TE Drew Ogletree, WR Anthony Gould on injured reserve; activate WR Ashton Dulin from injured reserve; make other roster moves for Week 17",
-      "link": "https://colts.com/news/colts-place-deforest-buckner-drew-ogletree-anthony-gould-injured-reserve-activate-wr-ashton-dulin-other-roster-moves-for-week-17",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-27T16:49:04+0000",
-      "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "fad6a1027a21b955",
-      "title": "Colts’ DeForest Buckner aggravates neck injury, placed on IR",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-aggravates-neck-injury-placed-on-ir/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-26T20:20:49+0000",
-      "summary": "INDIANAPOLIS – DeForest Buckner tried, but his body resisted. A cornerstone of the Indianapolis Colts’ defense will be placed on the season-ending injured reserve list after aggravating a neck injury in Monday night’s loss to the San Francisco 49ers. “It’s obviously an unfortunate situation,’’ Shane Steichen said Friday, adding the team anticipates Buckner returning for [...]"
-    },
-    {
-      "id": "e955a91667764771",
-      "title": "Colts-Jaguars preview: With playoff shot out of their hands, Colts prep for final game at Lucas Oil Stadium this season",
-      "link": "https://colts.com/news/colts-jaguars-preview-with-playoff-shot-out-of-their-hands-colts-prep-for-final-game-at-lucas-oil-stadium-this-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-26T18:35:21+0000",
-      "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
     }
   ],
   "links": [
