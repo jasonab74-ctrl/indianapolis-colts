@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-02T21:15:06+00:00",
+  "updated": "2026-01-02T21:38:44+00:00",
   "items": [
     {
       "id": "7ba92cef9cc15fe5",
@@ -9,15 +9,6 @@
       "feed": "ESPN",
       "published": "2026-01-02T21:08:28+0000",
       "summary": "The Ravens and nose tackle John Jenkins have agreed to a one-year extension. It is the first contract extension in Jenkins' 13-year NFL career."
-    },
-    {
-      "id": "0bc334e36150faf9",
-      "title": "ESPN selects 2 Texans defensive stars for 2025 NFL All-Pro team",
-      "link": "https://sports.yahoo.com/articles/espn-selects-2-texans-defensive-210103690.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-02T21:01:03+0000",
-      "summary": "Derek Stingley Jr. and Will Anderson Jr. have been stars this season for the Houston Texans and ESPN is taking notice."
     },
     {
       "id": "20edaa22a58fab67",
@@ -63,6 +54,15 @@
       "feed": "Colts.com",
       "published": "2026-01-02T16:05:47+0000",
       "summary": "Running back Jonathan Taylor is neck-and-neck with Buffalo Bills running back James Cook for this year's rushing crown, while wide receiver Alec Pierce leads the NFL in yards per reception and is 29 yards away from reaching 900 receiving yards for the first time in his career."
+    },
+    {
+      "id": "bdf8d7edbb7c18f8",
+      "title": "Poll: Will the Colts finish the season strong?",
+      "link": "https://stampedeblue.com/indianapolis-colts-discussion/119969/poll-will-the-colts-finish-the-season-strong",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-02T15:21:38+0000",
+      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Heading into Week 18, we want to know how you’re feeling after watching the team so [&#8230;]"
     },
     {
       "id": "7ca27f88458b98f7",
@@ -317,15 +317,6 @@
       "summary": "INDIANAPOLIS – Reggie Wayne and Adam Vinatieri are once again knocking on the door in Canton, Ohio. The two long-time Indianapolis Colts’ standouts are among 15 modern-era Finalists for the Pro Football Hall of Fame’s Class of 2026. Wayne, one of the most prolific receivers in NFL history, has reached the final 15 in each [...]"
     },
     {
-      "id": "138c930557d022e4",
-      "title": "The Colts face a major decision with Michael Pittman Jr.’s contract",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/119920/the-colts-face-a-major-decision-with-michael-pittman-jr-s-contract",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-30T12:00:00+0000",
-      "summary": "There are certain conversations NFL teams don’t want to have, but are forced into anyway. The Colts’ situation with Michael Pittman Jr. is one of them. Pittman is a good player, a respected leader, and someone who has done everything asked of him since arriving in Indianapolis. This isn’t about questioning his toughness or professionalism. [&#8230;]"
-    },
-    {
       "id": "a8fbd4f961173739",
       "title": "Colts’ Laiatu Latu: Late-season fade frustrating, depressing",
       "link": "https://fox59.com/sports/colts/colts-laiatu-latu-late-season-fade-frustrating-depressing/",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2025-12-26T20:20:49+0000",
       "summary": "INDIANAPOLIS – DeForest Buckner tried, but his body resisted. A cornerstone of the Indianapolis Colts’ defense will be placed on the season-ending injured reserve list after aggravating a neck injury in Monday night’s loss to the San Francisco 49ers. “It’s obviously an unfortunate situation,’’ Shane Steichen said Friday, adding the team anticipates Buckner returning for [...]"
+    },
+    {
+      "id": "e955a91667764771",
+      "title": "Colts-Jaguars preview: With playoff shot out of their hands, Colts prep for final game at Lucas Oil Stadium this season",
+      "link": "https://colts.com/news/colts-jaguars-preview-with-playoff-shot-out-of-their-hands-colts-prep-for-final-game-at-lucas-oil-stadium-this-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-26T18:35:21+0000",
+      "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
     }
   ],
   "links": [
