@@ -1,14 +1,50 @@
 {
-  "updated": "2026-01-02T13:31:41+00:00",
+  "updated": "2026-01-02T14:19:33+00:00",
   "items": [
+    {
+      "id": "60a0cf8ea8017064",
+      "title": "NFL player honors former Georgia high school teammate who died suddenly from blood clot",
+      "link": "https://sports.yahoo.com/articles/nfl-player-honors-former-georgia-140852160.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T14:08:52+0000",
+      "summary": "In a primetime game in December, former Harrison High School football state champion Bryce Stanfield made his NFL debut.  This year, through the cleats of his former Furman teammate and now-Patriots long snapper Julian Ashby, part of Bryce’s legacy made it onto the field."
+    },
+    {
+      "id": "e624f80c3060a7bc",
+      "title": "5 Questions with the Enemy: Cardinals playing for nothing besides a historic upset in Week 18",
+      "link": "https://sports.yahoo.com/articles/5-questions-enemy-cardinals-playing-140000647.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-02T14:00:00+0000",
+      "summary": "“If the Cardinals win this game it would be among the biggest upsets in NFL history,” says Revenge of the Birds"
+    },
+    {
+      "id": "621915b0deabb183",
+      "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
+      "link": "https://espn.com/nfl/story/_/id/47464533/new-years-resolution-pilates-nfl-stars-sacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-02T13:44:36+0000",
+      "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
+    },
     {
       "id": "4250063a6bf7f989",
       "title": "Our guide to every Week 18 NFL game: Matchup previews, predictions and what's at stake",
       "link": "https://espn.com/nfl/story/_/page/viewersguide47473045/nfl-week-18-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-02T13:26:38+0000",
+      "published": "2026-01-02T13:41:55+0000",
       "summary": "Must-win AFC North and NFC South showdowns? No. 1 seeds on the line? We have picks, predictions, stats and what's at stake for every Week 18 game."
+    },
+    {
+      "id": "841fbc43843656d0",
+      "title": "Does Shane Steichen survive “Black Monday” and stay as Colts coach?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120020/does-shane-steichen-survive-black-monday-and-stay-as-colts-coach",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-02T13:30:00+0000",
+      "summary": "Garfield hates Mondays. If he was the coach of a struggling NFL team, he would absolutely despise this upcoming one. “Black Monday” is the day after the regular season in which NFL coaches learn their fate. Every year, there are surprises. Some coaches who should be fired somehow skate by while others who get released [&#8230;]"
     },
     {
       "id": "3e26ba44793a1914",
@@ -18,33 +54,6 @@
       "feed": "ESPN",
       "published": "2026-01-02T13:26:21+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "0483b3f16ef1823c",
-      "title": "ESPN selects 3 Indianapolis Colts for 2025 NFL All-Pro team",
-      "link": "https://sports.yahoo.com/articles/espn-selects-3-indianapolis-colts-131612708.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-02T13:16:12+0000",
-      "summary": "ESPN put together it's 2025 All-Pro teams and included were three members of the Indianapolis Colts."
-    },
-    {
-      "id": "621915b0deabb183",
-      "title": "Why Pilates is more than a New Year's resolution for some of the NFL's best",
-      "link": "https://espn.com/nfl/story/_/id/47464533/new-years-resolution-pilates-nfl-stars-sacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-02T13:01:32+0000",
-      "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
-    },
-    {
-      "id": "e243a5ac43bcbc0c",
-      "title": "Power Rankings: New 1-32 poll, plus what we learned about each team this season",
-      "link": "https://espn.com/nfl/story/_/id/47446909/nfl-week-18-power-rankings-poll-32-teams-2025-season-lessons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-02T13:01:32+0000",
-      "summary": "Let's update our NFL Power Rankings one more time ahead of Week 18."
     },
     {
       "id": "ef849becea01a4ea",
@@ -75,7 +84,7 @@
     },
     {
       "id": "6eb270f4d7992498",
-      "title": "Bruce Arians impores the Colts to run it back: “Be patient”",
+      "title": "Bruce Arians implores the Colts to run it back: “Be patient”",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/120006/bruce-arians-impores-the-colts-to-run-it-back-be-patient",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -99,15 +108,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-31T22:31:25+0000",
       "summary": "INDIANAPOLIS — It’s a disappointing three-peat for Anthony Richardson Sr. The Indianapolis Colts’ erstwhile quarterback of the future won’t be active at the end of the season for a third straight year. The latest issue: A fractured right orbital bone and lingering vision issues. Colts coach Shane Steichen informed Richardson of the team’s decision to [...]"
-    },
-    {
-      "id": "aed288f0588656b7",
-      "title": "Projecting the 2026 draft order: Will the Raiders clinch the No. 1 pick?",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46146676/2026-nfl-draft-order-projections-32-first-round-picks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-31T22:10:28+0000",
-      "summary": "ESPN's Football Power Index projects the 2026 NFL draft order for Round 1. Which teams have the best odds to pick early?"
     },
     {
       "id": "a03f4e971fed7b20",
@@ -144,15 +144,6 @@
       "feed": "Colts.com",
       "published": "2025-12-31T18:44:13+0000",
       "summary": "Richardson said on Wednesday that he is still dealing with vision limitations from the freak injury he sustained during pregame warmups in Week 6."
-    },
-    {
-      "id": "6a665c0097fb75f5",
-      "title": "What we're hearing on the NFL coaching carousel: Latest buzz on top candidates, potential openings",
-      "link": "https://espn.com/nfl/story/_/id/47454173/nfl-week-18-head-coaching-carousel-intel-latest-buzz-news-updates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2025-12-31T18:40:26+0000",
-      "summary": "Which teams will make coaching changes? Could Jeff Hafley or Chris Shula land an open job? Here's our coach movement intel ahead of Week 18."
     },
     {
       "id": "733da1575a1e7c4d",
@@ -288,15 +279,6 @@
       "feed": "Stampede Blue",
       "published": "2025-12-30T12:00:00+0000",
       "summary": "There are certain conversations NFL teams don’t want to have, but are forced into anyway. The Colts’ situation with Michael Pittman Jr. is one of them. Pittman is a good player, a respected leader, and someone who has done everything asked of him since arriving in Indianapolis. This isn’t about questioning his toughness or professionalism. [&#8230;]"
-    },
-    {
-      "id": "cfdedd6466c1cd23",
-      "title": "Colts head coach Shane Steichen hasn’t discussed job status with ownership yet",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/119936/colts-head-coach-shane-steichen-hasnt-discussed-job-status-with-ownership-yet",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2025-12-30T05:04:53+0000",
-      "summary": "According to head coach Shane Steichen, he hasn’t had conversations yet regarding his coaching future with team owner and CEO Carlie Irsay-Gordon yet, but the two organizational leaders continue to chat weekly (via 1075 The Fan’s Kevin Bowen): Honestly, this isn’t exactly surprising given that the Colts still have one game of football left to [&#8230;]"
     },
     {
       "id": "a8fbd4f961173739",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-26T11:00:00+0000",
       "summary": "Capitol Ave southbound closure through 2026 will affect all remaining Indianapolis Colts games at Lucas Oil Stadium."
+    },
+    {
+      "id": "f5479a3c2f3be86a",
+      "title": "Practice Notebook: Bernhard Raimann listed as full participant Thursday",
+      "link": "https://colts.com/news/practice-notebook-bernhard-raimann-listed-as-full-participant-thursday",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-25T20:23:36+0000",
+      "summary": "The Colts did not hold a practice on Christmas day."
+    },
+    {
+      "id": "9e92708b5e2a4d75",
+      "title": "Colts’ playoff chances? So, you’re saying there’s a chance . ..",
+      "link": "https://fox59.com/sports/colts/colts-playoff-chances-so-youre-saying-theres-a-chance/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-24T22:10:50+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ playoff heartbeat is faint and could flatline before they step on the field Sunday at Lucas Oil Stadium against Jacksonville. Everything hinges on Houston’s Saturday road test against the Los Angeles Chargers. A Texans’ win eliminates the Colts and extends their playoff drought to five seasons, the franchise’s longest in [...]"
     }
   ],
   "links": [
