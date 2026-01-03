@@ -1,14 +1,32 @@
 {
-  "updated": "2026-01-03T22:42:44+00:00",
+  "updated": "2026-01-03T23:18:47+00:00",
   "items": [
+    {
+      "id": "d3c96d7ca16ebecf",
+      "title": "NFL fines Azeez Al-Shaair $23,186 for unnecessary roughness",
+      "link": "https://sports.yahoo.com/articles/nfl-fines-azeez-al-shaair-230630849.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T23:06:30+0000",
+      "summary": "Texans linebacker Azeez Al-Shaair has earned a reputation as one of the league's dirtiest players, and he's been disciplined again for a hit from last week."
+    },
     {
       "id": "2bd65de1f090c97a",
       "title": "Seahawks vs 49ers Predictions, Picks & Best Bets for Tonight — NFL Week 18",
       "link": "https://sports.yahoo.com/articles/seahawks-vs-49ers-predictions-picks-185700338.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-03T22:13:00+0000",
+      "published": "2026-01-03T23:02:00+0000",
       "summary": "Get the best Seahawks vs. 49ers predictions ahead of Saturday's critical NFC West clash at Levi's Stadium. Free NFL picks for January 3."
+    },
+    {
+      "id": "c251061c5d830a79",
+      "title": "Seahawks vs. 49ers: Saturday Night NFL Special Open Thread",
+      "link": "https://sports.yahoo.com/articles/seahawks-vs-49ers-saturday-night-230000982.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T23:00:00+0000",
+      "summary": "The second of a Saturday NFL division title doubleheader kicks off from the Bay. Join us here to discuss the game!"
     },
     {
       "id": "58a1d491600d9dfa",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-28T00:39:42+0000",
       "summary": "INDIANAPOLIS — It didn’t take a sixth consecutive loss for the Indianapolis Colts to be eliminated from the playoffs and join a dubious group. The team’s postseason drought officially reached five years Saturday when the Houston Texans defeated the Los Angeles Chargers, 20-16, at SoFi Stadium. The Colts are just the sixth team to miss [...]"
-    },
-    {
-      "id": "f0bf83ca3ee05fe8",
-      "title": "Lucas Oil's roof closed as Colts host Jaguars",
-      "link": "https://fox59.com/sports/colts/lucas-oils-roof-closed-as-colts-host-jaguars/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-27T18:21:53+0000",
-      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against division rival Trevor Lawrence and the Jacksonville Jaguars. Philip Rivers and the Colts will look to rebound after losing to the 49ers 48-27 at Lucas Oil Stadium on Monday. He will attempt to lead the 8-7 Colts back [...]"
-    },
-    {
-      "id": "7fd4dd1831a1fdaf",
-      "title": "Ashton Dulin activated from IR, Gardner no longer questionable",
-      "link": "https://fox59.com/sports/colts/ashton-dulin-activated-from-ir-gardner-no-longer-questionable/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-27T17:42:18+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts are hoping for a miracle to get into the playoffs, but first, they need to overcome injuries. On Saturday, the team announced that wide receiver Ashton Dulin had been activated from the Injured Reserve list after being placed on it on Nov. 25. He is no longer listed as questionable [...]"
     }
   ],
   "links": [
