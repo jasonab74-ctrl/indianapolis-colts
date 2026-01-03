@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-03T06:54:28+00:00",
+  "updated": "2026-01-03T07:18:17+00:00",
   "items": [
+    {
+      "id": "586e2daa9bfce912",
+      "title": "What channel is Buccaneers vs. Panthers on today? Live stream, time, TV schedule to watch Saturday NFL game",
+      "link": "https://sports.yahoo.com/articles/channel-buccaneers-vs-panthers-today-070001812.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T07:00:01+0000",
+      "summary": "Here's your guide to catching Buccaneers vs. Panthers in Week 18."
+    },
     {
       "id": "004ad2b08c2b256e",
       "title": "NFL Mock Draft 2026: Raiders go for Fernando Mendoza, Browns, Saints get WR help for Year 2 QBs",
@@ -9,33 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-03T06:30:01+0000",
       "summary": "In Sporting News' fifth edition of first-round projections for the 2026 NFL Draft, the Raiders get tied more to taking QB Fernando Mendoza at the top while the Jets, Cardinals, Browns, Saints get their share of impact offensive skill talent."
-    },
-    {
-      "id": "5c1b36615fa1460a",
-      "title": "Vikings Rumors Floating around Justin Herbert, Brian Flores, Jalen Nailor",
-      "link": "https://sports.yahoo.com/articles/vikings-rumors-floating-around-justin-060500687.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T06:05:00+0000",
-      "summary": "It&#8217;s Week 18 in the NFL, the Minnesota Vikings play the Green Bay Packers at home, and we have the [&#8230;]"
-    },
-    {
-      "id": "1151db40ede04182",
-      "title": "What time are the NFL games today? Full TV schedule, channels, live streams for Saturday's Week 18 doubleheader",
-      "link": "https://sports.yahoo.com/articles/time-nfl-games-today-full-055001100.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T05:50:01+0000",
-      "summary": "Here's everything you need to know about the NFL's Week 18 doubleheader on Saturday, including the full TV schedule, live-streaming information, and kickoff times for Buccaneers vs. Panthers and 49ers vs. Seahawks."
-    },
-    {
-      "id": "ff35b4bfa569d0e7",
-      "title": "NFL playoff schedule: Dates, times, TV channels, live streams for every 2026 postseason game",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-dates-times-053002714.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T05:30:02+0000",
-      "summary": "Here's everything you need to know to watch the NFL playoffs on the road to Super Bowl 60 in Santa Clara."
     },
     {
       "id": "7ba92cef9cc15fe5",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-27T17:42:18+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts are hoping for a miracle to get into the playoffs, but first, they need to overcome injuries. On Saturday, the team announced that wide receiver Ashton Dulin had been activated from the Injured Reserve list after being placed on it on Nov. 25. He is no longer listed as questionable [...]"
+    },
+    {
+      "id": "422601a9a3dd14d2",
+      "title": "Colts place DT DeForest Buckner, TE Drew Ogletree, WR Anthony Gould on injured reserve; activate WR Ashton Dulin from injured reserve; make other roster moves for Week 17",
+      "link": "https://colts.com/news/colts-place-deforest-buckner-drew-ogletree-anthony-gould-injured-reserve-activate-wr-ashton-dulin-other-roster-moves-for-week-17",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-27T16:49:04+0000",
+      "summary": "The Colts made the roster moves on Saturday."
+    },
+    {
+      "id": "fad6a1027a21b955",
+      "title": "Colts’ DeForest Buckner aggravates neck injury, placed on IR",
+      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-aggravates-neck-injury-placed-on-ir/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-26T20:20:49+0000",
+      "summary": "INDIANAPOLIS – DeForest Buckner tried, but his body resisted. A cornerstone of the Indianapolis Colts’ defense will be placed on the season-ending injured reserve list after aggravating a neck injury in Monday night’s loss to the San Francisco 49ers. “It’s obviously an unfortunate situation,’’ Shane Steichen said Friday, adding the team anticipates Buckner returning for [...]"
     }
   ],
   "links": [
