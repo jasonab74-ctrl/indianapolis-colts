@@ -1,6 +1,33 @@
 {
-  "updated": "2026-01-03T16:23:42+00:00",
+  "updated": "2026-01-03T16:47:13+00:00",
   "items": [
+    {
+      "id": "fa8461a096ba9a10",
+      "title": "Arizona Cardinals need too address O-line",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-too-address-o-163651092.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T16:36:51+0000",
+      "summary": "To compete at a high level in the NFL, Cardinals offensive line must be addressed"
+    },
+    {
+      "id": "d8236d7bde1035b9",
+      "title": "This Rams OL combo leads the NFL in pressure rate allowed",
+      "link": "https://sports.yahoo.com/articles/rams-ol-combo-leads-nfl-162215745.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T16:22:15+0000",
+      "summary": "The Los Angeles Rams have one of the best pass-blocking offensive lines when all their starters play."
+    },
+    {
+      "id": "951ed339430bda45",
+      "title": "Lavonte David has been Bucs’ ‘steady rock,’ but does retirement beckon?",
+      "link": "https://sports.yahoo.com/articles/lavonte-david-bucs-steady-rock-161217154.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T16:12:17+0000",
+      "summary": "For a man who has made more than 1,700 tackles in his NFL career, the most important embrace now comes just before the games at Raymond James Stadium when he wraps his 3-year-old daughter, Logan, into his arms. For every football player, there is a time when moments of greatness, decline and legacy intersect."
+    },
     {
       "id": "7289684dee11e596",
       "title": "5 NFL Draft stocks that have risen after the CFP's quarterfinals",
@@ -9,51 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-03T16:11:23+0000",
       "summary": "Bailey, Chambliss, and others have really improved their 2026 NFL Draft stock during the CFP's"
-    },
-    {
-      "id": "3813e40bf5928b31",
-      "title": "The Cardinals’ rebuild is in an impossible position",
-      "link": "https://sports.yahoo.com/articles/cardinals-rebuild-impossible-position-160643481.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T16:06:43+0000",
-      "summary": "NFL coaching carousel: Will Cardinals keep either of Jonathan Gannon or Kyler Murray?"
-    },
-    {
-      "id": "7879f1e1c81325fa",
-      "title": "Broadcast maps for Week 18 to close the 2025 NFL regular season",
-      "link": "https://sports.yahoo.com/articles/broadcast-maps-week-18-close-160424552.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T16:04:24+0000",
-      "summary": "The NFL's final week of the 2025 regular season is a big one, here is how you can watch the games."
-    },
-    {
-      "id": "1ced2a0a5c280035",
-      "title": "Prop Bets That Pop in Week 18",
-      "link": "https://sports.yahoo.com/articles/prop-bets-pop-week-18-160302235.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T16:03:02+0000",
-      "summary": "Finding value in player props is one of the most consistent ways to beat the books. Each week, FTN highlights three props identified by our proprietary model, which simulates every NFL game 10,000 times. Below, you’ll see the posted line,&hellip;"
-    },
-    {
-      "id": "e13de332d35b717b",
-      "title": "Can Cortez Hankton keep the WRU tradition alive at Ohio State?",
-      "link": "https://sports.yahoo.com/articles/cortez-hankton-keep-wru-tradition-160100573.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T16:01:00+0000",
-      "summary": "Cortez Hankton arrives in Columbus with a proven NFL development track record and a loaded receiver room, tasked with preserving the WRU standard Brian Hartline built at Ohio State."
-    },
-    {
-      "id": "27707ca88b62146e",
-      "title": "NFL Week 18 winners picks: Odds and predictions for Saturday",
-      "link": "https://sports.yahoo.com/articles/nfl-week-18-winners-picks-160000960.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T16:00:00+0000",
-      "summary": "Week 18 ends the 2025 NFL regular season. First on the schedule are two NFC games on Saturday."
     },
     {
       "id": "4250063a6bf7f989",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2025-12-28T04:25:28+0000",
       "summary": "INDIANAPOLIS — Areas of interest in the Indianapolis Colts’ Sunday meeting with the Jacksonville Jaguars at Lucas Oil Stadium: *Kickoff: 1 p.m. *Broadcast: FOX59. *Spread: Jaguars by 5½. *History lesson, Part I: The Colts lead the series 28-21, and it resumes on more favorable ground. They’ve won 10 of the last 12 meetings at Lucas Oil Stadium. That includes [...]"
+    },
+    {
+      "id": "d3b2ce92c5f07d26",
+      "title": "Texans’ win over Chargers snuffs out Colts’ playoff hopes",
+      "link": "https://fox59.com/sports/colts/texans-win-over-chargers-snuffs-out-colts-playoff-hopes/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-28T00:39:42+0000",
+      "summary": "INDIANAPOLIS — It didn’t take a sixth consecutive loss for the Indianapolis Colts to be eliminated from the playoffs and join a dubious group. The team’s postseason drought officially reached five years Saturday when the Houston Texans defeated the Los Angeles Chargers, 20-16, at SoFi Stadium. The Colts are just the sixth team to miss [...]"
+    },
+    {
+      "id": "f0bf83ca3ee05fe8",
+      "title": "Lucas Oil's roof closed as Colts host Jaguars",
+      "link": "https://fox59.com/sports/colts/lucas-oils-roof-closed-as-colts-host-jaguars/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-27T18:21:53+0000",
+      "summary": "INDIANAPOLIS — The roof is closed this week as the Colts prepare to defend home turf against division rival Trevor Lawrence and the Jacksonville Jaguars. Philip Rivers and the Colts will look to rebound after losing to the 49ers 48-27 at Lucas Oil Stadium on Monday. He will attempt to lead the 8-7 Colts back [...]"
     }
   ],
   "links": [
