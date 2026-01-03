@@ -1,23 +1,86 @@
 {
-  "updated": "2026-01-03T13:46:32+00:00",
+  "updated": "2026-01-03T14:17:56+00:00",
   "items": [
     {
-      "id": "ef4eaff596f3d532",
-      "title": "How one NFL analyst would defend Colts' Riley Leonard in first start",
-      "link": "https://sports.yahoo.com/articles/one-nfl-analyst-defend-colts-131514307.html",
+      "id": "e609cc24f0127020",
+      "title": "NFL playoff picture: How the Seattle Seahawks can clinch a playoff berth in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-seattle-seahawks-140200591.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-03T13:15:14+0000",
-      "summary": "One NFL analyst shared his key to victory for the Houston Texans in Sunday's game against the Indianapolis Colts."
+      "published": "2026-01-03T14:02:00+0000",
+      "summary": "The Seahawks are going to be either the No. 1 or No. 5 seed in the NFC for the 2026 NFL Playoffs. We break down how they can clinch the NFC West and the No. 1 seed in Week 18."
     },
     {
-      "id": "fed049a10845ae2a",
-      "title": "Seattle Seahawks vs. San Francisco 49ers: How to watch tonight's NFL game, kickoff time, TV channel and more",
-      "link": "https://sports.yahoo.com/nfl/article/seattle-seahawks-vs-san-francisco-49ers-how-to-watch-tonights-nfl-game-kickoff-time-tv-channel-and-more-131502332.html",
+      "id": "ed68001de5260e0c",
+      "title": "NFL playoff picture: How the 49ers can clinch the No. 1 seed in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-49ers-clinch-140200033.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-03T13:15:02+0000",
-      "summary": "How to watch this week's NFL game between the Seattle Seahawks and the San Francisco 49ers."
+      "published": "2026-01-03T14:02:00+0000",
+      "summary": "The 49ers and Seahawks face off for the NFC West title and the No. 1 seed in the NFC. We break down how things stand for the 2026 NFL Playoffs in Week 18."
+    },
+    {
+      "id": "c013415929e9fbdf",
+      "title": "NFL playoff picture: How the Carolina Panthers can clinch a playoff berth in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-carolina-panthers-140000925.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T14:00:00+0000",
+      "summary": "The Panthers are on the verge of the NFC South title. We break down how they can clinch the division for the 2026 NFL Playoffs in Week 18."
+    },
+    {
+      "id": "ce2ae95df50d6216",
+      "title": "NFL Football Week 18 Weather: A Rainy Race To The Top",
+      "link": "https://sports.yahoo.com/articles/nfl-football-week-18-weather-144500384.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T14:00:00+0000",
+      "summary": "The Seahawks and 49ers matchup will determine who earns the NFC's top overall seed. While a Panthers win over the Buccaneers in Tampa would send them to the playoffs."
+    },
+    {
+      "id": "f8b99a194e63b910",
+      "title": "NFL playoff picture: How the Tampa Bay Buccaneers can clinch a playoff berth in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-tampa-bay-140000963.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-03T14:00:00+0000",
+      "summary": "The Bucs can clinch the NFC South in Week 18. We break down how that would work ahead of the 2026 NFL Playoffs."
+    },
+    {
+      "id": "a03f4e971fed7b20",
+      "title": "The Playbook: Shadow Reports, lineup locks, projected Week 18 scores",
+      "link": "https://espn.com/fantasy/football/story/_/id/47453242/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-18-shadow-reports-mike-clay",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-03T13:54:05+0000",
+      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
+    },
+    {
+      "id": "7aedaa1fe2715c5f",
+      "title": "Predicting top 30 most likely anytime touchdown scorers",
+      "link": "https://espn.com/espn/betting/story/_/id/47483266/nfl-week-18-touchdown-odds-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-03T13:54:05+0000",
+      "summary": "Jonathan Taylor, TreVeyon Henderson and Bijan Robinson are among top predictions."
+    },
+    {
+      "id": "7ba92cef9cc15fe5",
+      "title": "Ravens give 13-year vet NT Jenkins 1st extension",
+      "link": "https://espn.com/nfl/story/_/id/47484483/ravens-veteran-nt-john-jenkins-agree-contract-extension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-03T13:51:05+0000",
+      "summary": "The Ravens and nose tackle John Jenkins have agreed to a one-year extension. It is the first contract extension in Jenkins' 13-year NFL career."
+    },
+    {
+      "id": "009a6e0e49d9d2c6",
+      "title": "👀 Week 18 uniforms: 49ers debut new threads",
+      "link": "https://espn.com/nfl/story/_/id/47457646/nfl-2025-week-18-uniforms",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-03T13:51:05+0000",
+      "summary": "The final week of the regular season doesn't mean NFL teams are keeping it simple for their wardrobes, led by a debut of a combination."
     },
     {
       "id": "f8dafbafe5b71e6d",
@@ -25,7 +88,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-03T13:13:30+0000",
+      "published": "2026-01-03T13:43:16+0000",
       "summary": "We'll see 32 picks in Round 1 on April 23, but which prospects have actually earned a first-round grade? Right now, there are 11 in this 2026 class."
     },
     {
@@ -36,51 +99,6 @@
       "feed": "ESPN",
       "published": "2026-01-03T13:12:08+0000",
       "summary": "Must-win AFC North and NFC South showdowns? No. 1 seeds on the line? We have picks, predictions, stats and what's at stake for every Week 18 game."
-    },
-    {
-      "id": "68f16cf1e25add4a",
-      "title": "Browns vs Bengals Predictions, Picks & Best Bets for NFL Week 18",
-      "link": "https://sports.yahoo.com/articles/browns-vs-bengals-predictions-picks-131200241.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T13:12:00+0000",
-      "summary": "Get the best Browns vs. Bengals predictions ahead of Sunday's regular-season finale. Free NFL picks for January 4."
-    },
-    {
-      "id": "7ba92cef9cc15fe5",
-      "title": "Ravens give 13-year vet NT Jenkins 1st extension",
-      "link": "https://espn.com/nfl/story/_/id/47484483/ravens-veteran-nt-john-jenkins-agree-contract-extension",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-03T13:11:35+0000",
-      "summary": "The Ravens and nose tackle John Jenkins have agreed to a one-year extension. It is the first contract extension in Jenkins' 13-year NFL career."
-    },
-    {
-      "id": "ff35b4bfa569d0e7",
-      "title": "NFL playoff schedule: Dates, times, TV channels, live streams for every 2026 postseason game",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-dates-times-053002714.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T13:10:02+0000",
-      "summary": "Here's everything you need to know to watch the NFL playoffs on the road to Super Bowl 60 in Santa Clara."
-    },
-    {
-      "id": "a3ac0ba250e27037",
-      "title": "Are the Detroit Lions playing today? When is matchup vs. Bears",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-playing-today-matchup-130204590.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T13:02:04+0000",
-      "summary": "Are the Detroit Lions one of the NFL's Saturday games in Week 18?"
-    },
-    {
-      "id": "009a6e0e49d9d2c6",
-      "title": "49ers' 'For the Faithful' look tops NFL Week 18 uniforms",
-      "link": "https://espn.com/nfl/story/_/id/47457646/nfl-2025-week-18-uniforms",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-03T12:55:26+0000",
-      "summary": "The final week of the regular season doesn't mean NFL teams are keeping it simple for their wardrobes, led by a debut of a combination."
     },
     {
       "id": "a548598cd1b265dd",
@@ -126,15 +144,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-02T20:18:11+0000",
       "summary": "INDIANAPOLIS – Philip Rivers’ long, decorated run is over. It’s Riley Leonard’s turn to lead the Indianapolis Colts. When the rookie quarterback makes his first career start Sunday at Houston, he’ll be backed up by Seth Henigan, who was signed to the practice squad this week. Rivers, 44 and in his 18th and final season, will [...]"
-    },
-    {
-      "id": "a03f4e971fed7b20",
-      "title": "The Playbook: Shadow Reports, lineup locks, projected Week 18 scores",
-      "link": "https://espn.com/fantasy/football/story/_/id/47453242/nfl-fantasy-football-2025-ultimate-playbook-projections-win-probabilities-week-18-shadow-reports-mike-clay",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-02T19:38:31+0000",
-      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
     },
     {
       "id": "558227bed1367d14",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-28T04:25:28+0000",
       "summary": "INDIANAPOLIS — Areas of interest in the Indianapolis Colts’ Sunday meeting with the Jacksonville Jaguars at Lucas Oil Stadium: *Kickoff: 1 p.m. *Broadcast: FOX59. *Spread: Jaguars by 5½. *History lesson, Part I: The Colts lead the series 28-21, and it resumes on more favorable ground. They’ve won 10 of the last 12 meetings at Lucas Oil Stadium. That includes [...]"
-    },
-    {
-      "id": "d3b2ce92c5f07d26",
-      "title": "Texans’ win over Chargers snuffs out Colts’ playoff hopes",
-      "link": "https://fox59.com/sports/colts/texans-win-over-chargers-snuffs-out-colts-playoff-hopes/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T00:39:42+0000",
-      "summary": "INDIANAPOLIS — It didn’t take a sixth consecutive loss for the Indianapolis Colts to be eliminated from the playoffs and join a dubious group. The team’s postseason drought officially reached five years Saturday when the Houston Texans defeated the Los Angeles Chargers, 20-16, at SoFi Stadium. The Colts are just the sixth team to miss [...]"
     }
   ],
   "links": [
