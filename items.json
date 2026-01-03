@@ -1,14 +1,23 @@
 {
-  "updated": "2026-01-03T03:09:02+00:00",
+  "updated": "2026-01-03T04:06:34+00:00",
   "items": [
     {
-      "id": "5bc3d1b1129cbd00",
-      "title": "Matthew Berry’s Fantasy Football Rankings for Week 18 of 2025 season",
-      "link": "https://sports.yahoo.com/articles/matthew-berry-fantasy-football-rankings-162735113.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-03T02:48:00+0000",
-      "summary": "Drake Maye, Bijan Robinson, Jaxon Smith-Njigba, and Trey McBride highlight the positional rankings for Week 18 of the 2025 NFL season."
+      "id": "4250063a6bf7f989",
+      "title": "Our guide to every Week 18 NFL game: Matchup previews, predictions and what's at stake",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47473045/nfl-week-18-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-03T03:11:39+0000",
+      "summary": "Must-win AFC North and NFC South showdowns? No. 1 seeds on the line? We have picks, predictions, stats and what's at stake for every Week 18 game."
+    },
+    {
+      "id": "7ba92cef9cc15fe5",
+      "title": "Ravens give 13-year vet NT Jenkins 1st extension",
+      "link": "https://espn.com/nfl/story/_/id/47484483/ravens-veteran-nt-john-jenkins-agree-contract-extension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-03T03:07:22+0000",
+      "summary": "The Ravens and nose tackle John Jenkins have agreed to a one-year extension. It is the first contract extension in Jenkins' 13-year NFL career."
     },
     {
       "id": "a548598cd1b265dd",
@@ -45,15 +54,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-03T00:49:18+0000",
       "summary": "According to ESPN’s Jordan Raanan, Indianapolis Colts veteran defensive coordinator Lou Anarumo is among the initial top interview candidates for the New York Giants current head coaching vacancy: “The first assignment is to find a new head coach. The Giants fired Brian Daboll almost eight weeks ago and named Mike Kafka the interim head coach,” writes Ranaan. [&#8230;]"
-    },
-    {
-      "id": "7ba92cef9cc15fe5",
-      "title": "Ravens give 13-year vet NT Jenkins 1st extension",
-      "link": "https://espn.com/nfl/story/_/id/47484483/ravens-veteran-nt-john-jenkins-agree-contract-extension",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-02T21:40:12+0000",
-      "summary": "The Ravens and nose tackle John Jenkins have agreed to a one-year extension. It is the first contract extension in Jenkins' 13-year NFL career."
     },
     {
       "id": "20edaa22a58fab67",
@@ -126,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-01-02T13:44:36+0000",
       "summary": "Why players such as Stefon Diggs, Nik Bonitto, Will Anderson and more are utilizing Pilates to activate core muscles."
-    },
-    {
-      "id": "4250063a6bf7f989",
-      "title": "Our guide to every Week 18 NFL game: Matchup previews, predictions and what's at stake",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47473045/nfl-week-18-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-02T13:41:55+0000",
-      "summary": "Must-win AFC North and NFC South showdowns? No. 1 seeds on the line? We have picks, predictions, stats and what's at stake for every Week 18 game."
     },
     {
       "id": "841fbc43843656d0",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-26T18:35:21+0000",
       "summary": "The Colts could be eliminated from the postseason by the time they kick off on Sunday against the Jacksonville Jaguars, but whether they will or won't be out of the playoffs didn't impact their preparation leading up to this weekend's game."
+    },
+    {
+      "id": "d678295df121d475",
+      "title": "Colts rule out C Tanor Bortolini, WR Anthony Gould, TE Drew Ogletree, DE J.T. Tuimoloau for Week 17 game vs. Jacksonville Jaguars; DT DeForest Buckner to be placed on injured reserve",
+      "link": "https://colts.com/news/colts-rule-out-c-tanor-bortolini-wr-anthony-gould-te-drew-ogletree-de-j-t-tuimoloau-for-week-17-game-vs-jacksonville-jaguars-de-deforest-buckner-to-be-placed-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-26T18:31:01+0000",
+      "summary": "The Colts will be without several key players on Sunday against the Jaguars."
     }
   ],
   "links": [
