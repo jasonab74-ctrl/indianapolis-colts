@@ -1,14 +1,50 @@
 {
-  "updated": "2026-01-04T20:43:43+00:00",
+  "updated": "2026-01-04T21:17:52+00:00",
   "items": [
+    {
+      "id": "6904f0572ec438f8",
+      "title": "NFL single-season sack leaders: Led by record-setting Garrett",
+      "link": "https://espn.com/nfl/story/_/id/33017166/the-nfl-single-season-sack-leaders-1-10",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-04T21:15:06+0000",
+      "summary": "Myles Garrett's historic season sits atop a list filled with pass-rushing legends across generations."
+    },
+    {
+      "id": "17d397b18a9894e5",
+      "title": "Colts drop season finale, 38-30 in Houston",
+      "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-04T21:15:00+0000",
+      "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
+    },
+    {
+      "id": "5f585f1cd0feb392",
+      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
+      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T21:14:16+0000",
+      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
+    },
     {
       "id": "f6b7c4d4d301aa3f",
       "title": "Garrett gets sack No. 23 to set NFL season record",
       "link": "https://espn.com/nfl/story/_/id/47503855/browns-myles-garrett-gets-sack-no-23-set-nfl-season-record",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-04T20:38:01+0000",
-      "summary": "Browns defensive end Myles Garrett set the NFL's single-season sack record Sunday with a sack of Joe Burrow to give him 23 this season."
+      "published": "2026-01-04T21:12:45+0000",
+      "summary": "Browns defensive end Myles Garrett set the NFL's single-season sack record Sunday with a sack of Joe Burrow to give him 23 on the season."
+    },
+    {
+      "id": "92ce7d29f41872d7",
+      "title": "Raiders clinch 2026 No. 1 pick after Giants win",
+      "link": "https://espn.com/nfl/story/_/id/47504373/raiders-clinch-2026-no-1-overall-nfl-draft-pick-giants-win",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-04T21:11:21+0000",
+      "summary": "The Raiders will pick No. 1 in the 2026 NFL draft, clinching the spot after the Giants defeated the Cowboys."
     },
     {
       "id": "3e26ba44793a1914",
@@ -16,89 +52,125 @@
       "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-04T20:38:00+0000",
+      "published": "2026-01-04T21:11:21+0000",
       "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
-      "id": "c64f290c17abc9dd",
-      "title": "Colts' Alec Pierce ejected for contact with official",
-      "link": "https://sports.yahoo.com/articles/colts-alec-pierce-ejected-contact-203500858.html",
+      "id": "b65db8b3ba0a073f",
+      "title": "NFL playoff picture: What does Saints-Falcons mean for the NFC South in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-saints-002253196.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:35:00+0000",
-      "summary": "Colts wide receiver Alec Pierce has been ejected from today's game against the Texans."
+      "published": "2026-01-04T21:09:28+0000",
+      "summary": "The Saints face the Falcons in Atlanta on Sunday. We break down what the game means for the NFL playoff picture."
     },
     {
-      "id": "5d874bb672990662",
-      "title": "Alec Pierce ejected: Why Colt WR was booted from Week 18 game vs. Texans",
-      "link": "https://sports.yahoo.com/articles/alec-pierce-ejected-why-colt-203253095.html",
+      "id": "8d1356db005cf612",
+      "title": "NFL playoff picture: What Bucs win over Panthers means for NFC standings in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-panthers-173500290.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:32:53+0000",
-      "summary": "Indianapolis Colts wide receiver Alec Pierce has been ejected from the Week 18 game against the Houston Texans."
+      "published": "2026-01-04T21:08:24+0000",
+      "summary": "The Panthers face the Buccaneers in Tampa on Saturday. We break down what the game means for the NFL playoff picture in Week 18."
     },
     {
-      "id": "1d41e4d0fc578464",
-      "title": "Myles Garrett sets the NFL single-season sack record with his 23rd sack",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-sets-nfl-single-203142375.html",
+      "id": "ff35b4bfa569d0e7",
+      "title": "NFL playoff schedule: Dates, times, TV channels, live streams for every 2026 postseason game",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-dates-times-053002714.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:31:42+0000",
-      "summary": ""
+      "published": "2026-01-04T21:08:02+0000",
+      "summary": "Here's everything you need to know to watch the NFL playoffs on the road to Super Bowl 60 in Santa Clara."
     },
     {
-      "id": "674549dc41fd91bb",
-      "title": "Cleveland Browns Myles Garrett sets NFL record for single-season sacks",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-myles-garrett-sets-202744900.html",
+      "id": "58aa6955d08861b0",
+      "title": "Which teams have clinched 2025 NFL playoff berth",
+      "link": "https://sports.yahoo.com/articles/teams-clinched-2025-nfl-playoff-201516205.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:27:44+0000",
-      "summary": "He left it late, but Cleveland defensive end cements his legacy with his 23rd sack of the season."
+      "published": "2026-01-04T21:07:38+0000",
+      "summary": "The NFL playoff picture is coming into focus. As the season winds through December and January, we’re highlighting each team that has clinched a spot in the 2025-26 NFL playoffs."
     },
     {
-      "id": "514f6edef7f2e68a",
-      "title": "Myles Garrett makes NFL history",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-makes-nfl-history-202653625.html",
+      "id": "f8b99a194e63b910",
+      "title": "NFL playoff picture: How the Tampa Bay Buccaneers were eliminated in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-tampa-bay-140000963.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:26:53+0000",
-      "summary": "Browns star Myles Garrett now stands alone at the top of the NFL record books"
+      "published": "2026-01-04T21:07:21+0000",
+      "summary": "The Bucs can clinch the NFC South in Week 18. We break down how that would work ahead of the 2026 NFL Playoffs."
     },
     {
-      "id": "6d7a07eebbb31838",
-      "title": "Browns edge rusher Myles Garrett sets new single-season sack record by taking down Joe Burrow in Week 18",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/browns-edge-rusher-myles-garrett-sets-new-single-season-sack-record-by-taking-down-joe-burrow-in-week-18-202638942.html",
+      "id": "5f4d07272cf99d6a",
+      "title": "Current NFL playoff matchups for the 2025 NFL postseason",
+      "link": "https://sports.yahoo.com/articles/current-nfl-playoff-matchups-2025-170000416.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:26:38+0000",
-      "summary": "Cleveland Browns defensive end Myles Garrett is the new single-season sack king in the NFL after surpassing the previous mark of 22.5 sacks."
+      "published": "2026-01-04T21:07:11+0000",
+      "summary": "The NFL will settle the 2026 playoff bracket in Week 18. We have the up-to-date matchups as we work through Saturday and Sunday to close out the regular season."
     },
     {
-      "id": "b11127a16a006f53",
-      "title": "Myles Garrett finally does it. One of the most impressive records in the NFL has been broken.",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-finally-does-one-202503486.html",
+      "id": "c013415929e9fbdf",
+      "title": "NFL playoff picture: How the Carolina Panthers clinched the NFC South in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-carolina-panthers-140000925.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:25:03+0000",
-      "summary": "People have come close, but Garrett’s place in NFL history is now set in stone."
+      "published": "2026-01-04T21:06:49+0000",
+      "summary": "The Panthers are on the verge of the NFC South title. We break down how they can clinch the division for the 2026 NFL Playoffs in Week 18."
     },
     {
-      "id": "1d5b847ddde13c77",
-      "title": "Browns' Myles Garrett breaks NFL single-season sacks record vs Bengals",
-      "link": "https://sports.yahoo.com/articles/browns-myles-garrett-breaks-nfl-202328098.html",
+      "id": "5572a1a95386a11d",
+      "title": "Raiders have clear path to Fernando Mendoza after securing No. 1 pick in NFL draft",
+      "link": "https://sports.yahoo.com/articles/raiders-clear-path-fernando-mendoza-210346177.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:23:28+0000",
-      "summary": "Browns defensive end Myles Garrett has sacked Bengals quarterback Joe Burrow more than any QB."
+      "published": "2026-01-04T21:03:46+0000",
+      "summary": "The Las Vegas Raiders officially have the No. 1 overall pick in the 2026 NFL draft and have no teams standing in their way for quarterback Fernando Mendoza."
     },
     {
-      "id": "e25ece92ef2b6ac1",
-      "title": "Browns' Myles Garrett breaks NFL single-season sacks record vs Bengals",
-      "link": "https://sports.yahoo.com/articles/browns-myles-garrett-breaks-nfl-202328962.html",
+      "id": "332db99c857c83e7",
+      "title": "Raiders lock up number one overall pick in 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/raiders-lock-number-one-overall-210342656.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:23:28+0000",
-      "summary": "Browns defensive end Myles Garrett has sacked Bengals quarterback Joe Burrow more than any QB."
+      "published": "2026-01-04T21:03:42+0000",
+      "summary": "The Giants beat the Cowboys which meant even before the Raiders took the field in Laas Vegas they had locked up the top pick in the 2026 NFL Draft."
+    },
+    {
+      "id": "809989fab838a590",
+      "title": "Colts WR Alec Pierce ejected in Week 18 game vs. Texans",
+      "link": "https://sports.yahoo.com/articles/colts-wr-alec-pierce-ejected-210053579.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T21:00:53+0000",
+      "summary": "Colts' WR Alec Pierce was ejected in the team's Week 18 game against the Texans."
+    },
+    {
+      "id": "8781834f5e6d23ab",
+      "title": "Colts WR Alec Pierce was ejected; read rule & decide if he should have been",
+      "link": "https://sports.yahoo.com/articles/colts-wr-alec-pierce-ejected-210046443.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T21:00:46+0000",
+      "summary": "Colts WR Alec Pierce was ejected for making contact with official Jabir Walker. Read rule and decide if he should have been"
+    },
+    {
+      "id": "ba1025a0f80c8160",
+      "title": "Colts WR Alec Pierce was ejected; read rule & decide if he should have been",
+      "link": "https://sports.yahoo.com/articles/colts-wr-alec-pierce-ejected-210046481.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T21:00:46+0000",
+      "summary": "Colts WR Alec Pierce was ejected for making contact with official Jabir Walker. Read rule and decide if he should have been"
+    },
+    {
+      "id": "09ad72a30dc24f6c",
+      "title": "Colts' 2026 opponents finalized",
+      "link": "https://colts.com/news/colts-2026-opponents-finalized",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T20:45:31+0000",
+      "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
     },
     {
       "id": "009a6e0e49d9d2c6",
@@ -468,78 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-29T13:45:49+0000",
       "summary": "The Colts' 23-17 loss to the Jacksonville Jaguars was their sixth in a row, and they were officially eliminated from the playoffs even before kicking off in Week 17."
-    },
-    {
-      "id": "48bfa1cc87f4d8b1",
-      "title": "Colts Blue Zone Podcast 452: Colts Lose to Jags, Fall to 8-8",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-452-colts-lose-to-jags-fall-to-8-8/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-29T12:03:51+0000",
-      "summary": "After looking like one of the NFL's best teams for half the season, the Indianapolis Colts completed their collapse by missing the playoffs. A loss to the Jacksonville Jaguars dropped Indy to 8-8. Not even Philip Rivers' headline-making return could stop the Colts' slide. Matt Adams recaps the game in the latest Blue Zone Podcast. [...]"
-    },
-    {
-      "id": "19ff180bf596bc78",
-      "title": "Colts' Week 18 game at Houston Texans to kick off at 1pm on Sunday, Jan. 4",
-      "link": "https://colts.com/news/colts-week-18-game-at-houston-texans-to-kick-off-at-1pm-on-sunday-jan-4",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-29T04:41:25+0000",
-      "summary": "The NFL announced its Week 18 schedule Sunday night."
-    },
-    {
-      "id": "ba6e4b46b0d6b845",
-      "title": "Colts’ Philip Rivers: If Sunday was his final start (again), ‘it’s been a blast’",
-      "link": "https://fox59.com/sports/colts/colts-philip-rivers-if-sunday-was-his-final-start-again-its-been-a-blast/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-29T00:56:55+0000",
-      "summary": "INDIANAPOLIS – It’s been a while, but we’ve been here before. A veteran quarterback with a resume worthy of Canton, Ohio, makes his final start of the season and walks out of a stadium tunnel into retirement. That was Philip Rivers five years ago at Bills Stadium in Orchard Park, N.Y. And that was Philip [...]"
-    },
-    {
-      "id": "756055f3a17e1e8b",
-      "title": "If Week 17 was Philip Rivers' final game, Colts teammates deeply appreciate, never forget 44-year-old QB's willingness to help in 2025",
-      "link": "https://colts.com/news/if-week-17-was-philip-rivers-final-game-colts-teammates-deeply-appreciate-never-forget-44-year-old-qb-s-willingness-to-help-in-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T23:09:21+0000",
-      "summary": "Shane Steichen said he'll decide on the Colts' starting quarterback for their season finale on Tuesday prior to Week 18's game against the Houston Texans at NRG Stadium."
-    },
-    {
-      "id": "a16a2c9eaebd3f28",
-      "title": "Colts 'played it safe' in holding Sauce Gardner out during second half vs. Jaguars",
-      "link": "https://colts.com/news/colts-played-it-safe-in-holding-sauce-gardner-out-during-second-half-vs-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T22:33:02+0000",
-      "summary": "Gardner left the third quarter of Sunday's game with a calf injury and did not return."
-    },
-    {
-      "id": "7525879b6ddbd517",
-      "title": "Colts hang tough, but Jaguars do enough for 23-17 win",
-      "link": "https://fox59.com/sports/colts/colts-hang-tough-but-jaguars-do-enough-for-23-17-win/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T21:09:21+0000",
-      "summary": "INDIANAPOLIS — Playing for just pride, the Indianapolis Colts gave the division-leading Jacksonville Jaguars all they could handle on Sunday at Lucas Oil Stadium, but dropped their sixth straight game, 23-17. The Colts knew their playoff fate before even taking the field on Sunday. The Houston Texans' 20-16 win over the Los Angeles Chargers on [...]"
-    },
-    {
-      "id": "0e07449814cedf6a",
-      "title": "Colts lose final home game of 2025 to Jacksonville Jaguars",
-      "link": "https://colts.com/news/colts-lose-final-home-game-of-2025-to-jacksonville-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T21:07:35+0000",
-      "summary": "The Colts dropped their sixth straight game with the 23-17 loss."
-    },
-    {
-      "id": "67203a4e8b74af1b",
-      "title": "Keys to the Game: Colts vs. Jaguars",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-jaguars/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T17:14:40+0000",
-      "summary": "INDIANAPOLIS - The Texans' win over the Chargers on Saturday night officially eliminated the Colts from playoff contention, so they'll be playing for pride against the Jaguars on Sunday. IndyStar Colts' insider Joel A. Erickson gives his keys to the Colts' snapping the five-game losing streak that cost them the chance at their first postseason [...]"
     }
   ],
   "links": [
