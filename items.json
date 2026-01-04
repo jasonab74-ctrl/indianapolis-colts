@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T10:19:46+00:00",
+  "updated": "2026-01-04T10:43:33+00:00",
   "items": [
     {
       "id": "69f99e92824f64b8",
@@ -9,6 +9,42 @@
       "feed": "Colts.com",
       "published": "2026-01-04T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Houston Texans on Sunday, January 4 at 1:00 p.m. ET (Week 18)."
+    },
+    {
+      "id": "46a3bdd373df02a2",
+      "title": "Chargers playoff picture: Updated seeding scenarios for L.A. in 2026 NFL bracket",
+      "link": "https://sports.yahoo.com/articles/chargers-playoff-picture-updated-seeding-103001094.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T10:30:01+0000",
+      "summary": "Here is an updated look at the Chargers seeding scenarios in the 2026 NFL playoff bracket."
+    },
+    {
+      "id": "34d961069694b961",
+      "title": "Eagles playoff picture: Updated seeding scenarios for Philadelphia in 2026 NFL bracket",
+      "link": "https://sports.yahoo.com/articles/eagles-playoff-picture-updated-seeding-102002793.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T10:20:02+0000",
+      "summary": "The playoffs are a familiar place for the Philadelphia Eagles. They’re back again in 2026, but what does the Birds’ route to the Super Bowl look like this time around?"
+    },
+    {
+      "id": "f3ac61945db927c2",
+      "title": "Bears playoff picture: Updated seeding scenarios for Chicago in 2026 NFL bracket",
+      "link": "https://sports.yahoo.com/articles/bears-playoff-picture-updated-seeding-101001857.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T10:10:01+0000",
+      "summary": "The Chicago Bears have won the NFC North for the first time for seven seasons. Here's looking at their playoff positioning possibilities going into Week 18."
+    },
+    {
+      "id": "d91ff349e303d352",
+      "title": "Broncos playoff picture: Updated NFL scenarios for Denver to clinch AFC No. 1 seed",
+      "link": "https://sports.yahoo.com/articles/broncos-playoff-picture-updated-nfl-101001961.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T10:10:01+0000",
+      "summary": "The Broncos are hoping to spend wild-card weekend watching from afar."
     },
     {
       "id": "3e61a6d394331bdd",
@@ -47,22 +83,13 @@
       "summary": "Can the Detroit Lions make the 2025 NFL playoffs? Nope, those hopes were ended with a loss to the Vikings in Week 17."
     },
     {
-      "id": "139cf0d3bb55da5e",
-      "title": "NFL Week 18 playoff seed scenarios: Every possible seed for the final day of the season",
-      "link": "https://sports.yahoo.com/articles/nfl-week-18-playoff-seed-095249345.html",
+      "id": "80465318ab627363",
+      "title": "Rams playoff picture: Updated seeding scenarios for L.A. in 2026 NFL bracket",
+      "link": "https://sports.yahoo.com/articles/rams-playoff-picture-updated-seeding-100001433.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T09:52:49+0000",
-      "summary": "It's the final day of the regular season, and the playoff field is almost set, as 12 teams have clinched playoff berths and the Seahawks have clinched the top seed in the NFC."
-    },
-    {
-      "id": "3faccb99767a7d05",
-      "title": "15 things to watch in Riley Leonard's first NFL start for Colts",
-      "link": "https://sports.yahoo.com/articles/15-things-watch-riley-leonards-095027506.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T09:50:27+0000",
-      "summary": "Indianapolis (8-8) will start sixth-round rookie Riley Leonard at quarterback instead of 44-year-old Philip Rivers"
+      "published": "2026-01-04T10:00:01+0000",
+      "summary": "The Sporting News has the latest on Los Angeles' playoff picture in Week 18."
     },
     {
       "id": "009a6e0e49d9d2c6",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-28T17:14:40+0000",
       "summary": "INDIANAPOLIS - The Texans' win over the Chargers on Saturday night officially eliminated the Colts from playoff contention, so they'll be playing for pride against the Jaguars on Sunday. IndyStar Colts' insider Joel A. Erickson gives his keys to the Colts' snapping the five-game losing streak that cost them the chance at their first postseason [...]"
-    },
-    {
-      "id": "99cf00ec617f66ad",
-      "title": "Sideline to Sideline: Bucket List Event",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-bucket-list-event/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T17:13:58+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question on one topic as they walk \"sideline to sideline\". This week Chris asks the players what their bucket list sporting event is they would like to attend."
-    },
-    {
-      "id": "eda8310098e71491",
-      "title": "Colts announce 6 inactive players for Week 17 game vs. Jacksonville Jaguars",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-17-game-vs-jacksonville-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T16:30:31+0000",
-      "summary": "The Colts on Saturday placed DT DeForest Buckner, TE Drew Ogletree and WR Anthony Gould on injured reserve."
-    },
-    {
-      "id": "3e4de0b3ebc24af8",
-      "title": "How to watch the Jacksonville Jaguars at Indianapolis Colts on December 28, 2025",
-      "link": "https://colts.com/news/how-to-watch-jaguars-at-colts-week-17-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Jacksonville Jaguars at Indianapolis Colts on Sunday, December 28 at 1:00 p.m. ET (Week 17)."
     }
   ],
   "links": [
