@@ -1,86 +1,59 @@
 {
-  "updated": "2026-01-04T17:16:37+00:00",
+  "updated": "2026-01-04T17:40:33+00:00",
   "items": [
     {
-      "id": "8d88f6c863cfa4f8",
+      "id": "c17f6c5a5d11f2ef",
+      "title": "Seahawks fan discussion: NFL Week 18 Sunday games",
+      "link": "https://sports.yahoo.com/articles/seahawks-fan-discussion-nfl-week-173000349.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T17:30:00+0000",
+      "summary": "It’s a Seahawks-free, stress-free Sunday to end the 2025 regular season!"
+    },
+    {
+      "id": "e04196725370a9f9",
+      "title": "Colts at Texans live game discussion thread",
+      "link": "https://sports.yahoo.com/articles/colts-texans-live-game-discussion-173000834.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T17:30:00+0000",
+      "summary": "It’s football time in Houston, once more."
+    },
+    {
+      "id": "bfe1bc9f5ee32c5f",
+      "title": "NFL Week 18: Early afternoon games discussion thread",
+      "link": "https://sports.yahoo.com/articles/nfl-week-18-early-afternoon-173000432.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T17:30:00+0000",
+      "summary": "Let’s watch some football!"
+    },
+    {
+      "id": "2ede1d0002f726d6",
+      "title": "Safe Or Out? Adam Schefter Offers Latest On Steelers’ Mike Tomlin",
+      "link": "https://sports.yahoo.com/articles/safe-adam-schefter-offers-latest-172945957.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T17:29:45+0000",
+      "summary": "Mike Tomlin, who holds the NFL record for most consecutive non-losing seasons, is expected to return for a 20th campaign with the Pittsburgh Steelers. ESPN NFL insider Adam Schefter spoke about Tomlin’s future on Sunday morning ahead of Week 18 and included him in the “Leaning to Safe” category. “Now, he’s got one year left […]"
+    },
+    {
+      "id": "4a481a9bcb8232f4",
+      "title": "Falcons Wire staff predictions for season finale vs. New Orleans Saints",
+      "link": "https://sports.yahoo.com/articles/falcons-wire-staff-predictions-season-172018583.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T17:20:18+0000",
+      "summary": "Falcons vs. Saints: Staff predictions for NFL Week 18 finale"
+    },
+    {
+      "id": "ba91207f0b70a20a",
       "title": "Colts announce Week 18 inactives against Texans for regular season finale",
-      "link": "https://sports.yahoo.com/articles/colts-announce-week-18-inactives-170505435.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120141/colts-announce-week-18-inactives-against-texans-for-regular-season-finale",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2026-01-04T17:05:05+0000",
-      "summary": "No real surprises ahead of the Colts regular season finale game."
-    },
-    {
-      "id": "9329bea16eda3787",
-      "title": "Is Philip Rivers playing for the Colts today?",
-      "link": "https://sports.yahoo.com/articles/philip-rivers-playing-colts-today-170249971.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T17:02:49+0000",
-      "summary": "Philip Rivers completed 63% of his passes for 544 yards, four touchdowns and three interceptions, but Riley Leonard and Seth Henigan will be active."
-    },
-    {
-      "id": "fa0d45e524584e36",
-      "title": "NFL Picks Against the Spread: Week 18 games",
-      "link": "https://sports.yahoo.com/articles/nfl-picks-against-spread-week-170152478.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T17:01:52+0000",
-      "summary": "﻿﻿﻿Which bets do you like the most?﻿"
-    },
-    {
-      "id": "d910d293a4c501c0",
-      "title": "NFL playoff picture: What does Texans-Colts mean for AFC standings in Week 18",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-texans-170000456.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T17:00:00+0000",
-      "summary": "The Texans face the Colts in Houston on Sunday. We break down what the game means for the NFL playoff picture in Week 18."
-    },
-    {
-      "id": "9374634221e22774",
-      "title": "NFL playoff picture: What does Eagles-Commanders mean for NFC standings in Week 18",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-eagles-170000502.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T17:00:00+0000",
-      "summary": "The Eagles face the Commaners in Philadelphia on Sunday. We break down what the game means for the NFL playoff picture in Week 18."
-    },
-    {
-      "id": "207c6f7733b11f64",
-      "title": "NFL playoff picture: What does Jaguars-Titans mean for AFC standings in Week 18",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-jaguars-170000311.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T17:00:00+0000",
-      "summary": "The Jaguars face the Titans in Jacksonville on Sunday. We break down what the game means for the NFL playoff picture in Week 18."
-    },
-    {
-      "id": "6bc17a514989cb34",
-      "title": "NFL playoff picture: What does Ravens-Steelers mean for AFC standings in Week 18",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-ravens-170000335.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T17:00:00+0000",
-      "summary": "The Ravens face the Steelers in Pittsburgh on Sunday Night Football. We break down what the game means for the NFL playoff picture in Week 18."
-    },
-    {
-      "id": "de76dcfd5ab64ca3",
-      "title": "Will RB Nick Chubb play vs. the Colts? Texans inactive list",
-      "link": "https://sports.yahoo.com/articles/rb-nick-chubb-play-vs-165753444.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T16:57:53+0000",
-      "summary": "Here's a look at who will be out for Sunday's contest as the Houston Texans take on the Indianapolis Colts"
-    },
-    {
-      "id": "7bfcf0e0d1c01cc8",
-      "title": "Is Philip Rivers retiring again? What Colts' QB has said about retirement after NFL comeback",
-      "link": "https://sports.yahoo.com/articles/philip-rivers-retiring-again-colts-165553299.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T16:55:53+0000",
-      "summary": "It was a cool little run."
+      "summary": "The Indianapolis Colts announced their Week 18 inactives on the road against the Houston Texans for the regular season finale: No real surprises here, as cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) had already been ruled out ahead of the weekend. Given that the Colts have already been eliminated from playoff contention, [&#8230;]"
     },
     {
       "id": "a65a7ecdf7230cc2",
@@ -146,9 +119,9 @@
       "summary": "Before the Week 18 NFL slate kicked off, players made sure to put their most fashionable foot forward."
     },
     {
-      "id": "0c140da429712381",
+      "id": "e147a8ffe614e89c",
       "title": "Colts at Texans: What to watch for",
-      "link": "https://fox59.com/sports/colts-at-texans-what-to-watch-for-2/",
+      "link": "https://fox59.com/sports/colts/colts-at-texans-what-to-watch-for-2/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-01-03T21:57:40+0000",
@@ -227,9 +200,9 @@
       "summary": "Round 2, Pick 50: Trinidad Chambliss, QB, Ole Miss The Colts QB position remains a major question mark. Daniel Jones has suffered 12 injuries since 2019, 9 of which resulted in missed games. The most major of which is the most recent one, a torn Achilles late in the 2025 season. It is far from [&#8230;]"
     },
     {
-      "id": "20edaa22a58fab67",
+      "id": "9bacfdbf71d26d6b",
       "title": "Philip Rivers’ 243-game start streak yields to Riley Leonard’s 1st career start as Colts end at Houston",
-      "link": "https://fox59.com/sports/philip-rivers-243-game-start-streak-yields-to-riley-leonards-1st-career-start-as-colts-end-at-houston/",
+      "link": "https://fox59.com/sports/colts/philip-rivers-243-game-start-streak-yields-to-riley-leonards-1st-career-start-as-colts-end-at-houston/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-01-02T20:18:11+0000",
@@ -252,15 +225,6 @@
       "feed": "Colts.com",
       "published": "2026-01-02T16:05:47+0000",
       "summary": "Running back Jonathan Taylor is neck-and-neck with Buffalo Bills running back James Cook for this year's rushing crown, while wide receiver Alec Pierce leads the NFL in yards per reception and is 29 yards away from reaching 900 receiving yards for the first time in his career."
-    },
-    {
-      "id": "bdf8d7edbb7c18f8",
-      "title": "Poll: Will the Colts finish the season strong?",
-      "link": "https://stampedeblue.com/indianapolis-colts-discussion/119969/poll-will-the-colts-finish-the-season-strong",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-02T15:21:38+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Heading into Week 18, we want to know how you’re feeling after watching the team so [&#8230;]"
     },
     {
       "id": "7ca27f88458b98f7",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2025-12-28T16:30:31+0000",
       "summary": "The Colts on Saturday placed DT DeForest Buckner, TE Drew Ogletree and WR Anthony Gould on injured reserve."
+    },
+    {
+      "id": "3e4de0b3ebc24af8",
+      "title": "How to watch the Jacksonville Jaguars at Indianapolis Colts on December 28, 2025",
+      "link": "https://colts.com/news/how-to-watch-jaguars-at-colts-week-17-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-28T13:00:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Jacksonville Jaguars at Indianapolis Colts on Sunday, December 28 at 1:00 p.m. ET (Week 17)."
+    },
+    {
+      "id": "a49a8b5386c3b0e0",
+      "title": "Gifted Colts jersey survives Christmas day fire in Martinsville",
+      "link": "https://fox59.com/sports/colts/gifted-colts-jersey-survives-christmas-day-fire-in-martinsville/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-28T04:52:22+0000",
+      "summary": "MARTINSVILLE, Ind. — The white keys of a pink plastic piano sit dusted with ash. Kenzie Phillips, 7, only tried it out for a few minutes before it was too damaged to play. ”I like it because I always wanted one, and I wanted to play Christmas songs,” Phillips said.  Her parents, Robert and Brittany [...]"
+    },
+    {
+      "id": "1a544e75a7b17fe6",
+      "title": "Jaguars at Colts: What to watch for",
+      "link": "https://fox59.com/sports/colts/jaguars-at-colts-what-to-watch-for-3/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-28T04:25:28+0000",
+      "summary": "INDIANAPOLIS — Areas of interest in the Indianapolis Colts’ Sunday meeting with the Jacksonville Jaguars at Lucas Oil Stadium: *Kickoff: 1 p.m. *Broadcast: FOX59. *Spread: Jaguars by 5½. *History lesson, Part I: The Colts lead the series 28-21, and it resumes on more favorable ground. They’ve won 10 of the last 12 meetings at Lucas Oil Stadium. That includes [...]"
+    },
+    {
+      "id": "d3b2ce92c5f07d26",
+      "title": "Texans’ win over Chargers snuffs out Colts’ playoff hopes",
+      "link": "https://fox59.com/sports/colts/texans-win-over-chargers-snuffs-out-colts-playoff-hopes/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-28T00:39:42+0000",
+      "summary": "INDIANAPOLIS — It didn’t take a sixth consecutive loss for the Indianapolis Colts to be eliminated from the playoffs and join a dubious group. The team’s postseason drought officially reached five years Saturday when the Houston Texans defeated the Los Angeles Chargers, 20-16, at SoFi Stadium. The Colts are just the sixth team to miss [...]"
     }
   ],
   "links": [
