@@ -1,41 +1,104 @@
 {
-  "updated": "2026-01-04T20:21:46+00:00",
+  "updated": "2026-01-04T20:43:43+00:00",
   "items": [
     {
-      "id": "1f67efe9dc0636ff",
-      "title": "Which teams have something to play for in Week 18? Who is resting players?",
-      "link": "https://sports.yahoo.com/articles/teams-something-play-week-18-152905710.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:07:09+0000",
-      "summary": "The NFL wraps up the 2025-26 regular season this weekend with Week 18. We break down which teams have something to play for and who is resting players."
+      "id": "f6b7c4d4d301aa3f",
+      "title": "Garrett gets sack No. 23 to set NFL season record",
+      "link": "https://espn.com/nfl/story/_/id/47503855/browns-myles-garrett-gets-sack-no-23-set-nfl-season-record",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-04T20:38:01+0000",
+      "summary": "Browns defensive end Myles Garrett set the NFL's single-season sack record Sunday with a sack of Joe Burrow to give him 23 this season."
     },
     {
-      "id": "d5ba9d216229ba40",
-      "title": "Commanders vs Eagles Prediction, Picks & Best Bet for Today's NFL Week 18 Game",
-      "link": "https://sports.yahoo.com/articles/commanders-vs-eagles-predictions-picks-175200762.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:07:00+0000",
-      "summary": "Our Commanders vs. Eagles predictions and NFL picks for Week 18 are backing the Under on Sunday, January 4, 2026."
+      "id": "3e26ba44793a1914",
+      "title": "🏈 Tracking the playoff picture and the draft order",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-04T20:38:00+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
     },
     {
-      "id": "016f9145be8baaee",
-      "title": "Lions vs Bears Prediction, Picks & Best Bet for Today's NFL Week 18 Game",
-      "link": "https://sports.yahoo.com/articles/lions-vs-bears-predictions-picks-195100208.html",
+      "id": "c64f290c17abc9dd",
+      "title": "Colts' Alec Pierce ejected for contact with official",
+      "link": "https://sports.yahoo.com/articles/colts-alec-pierce-ejected-contact-203500858.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:04:00+0000",
-      "summary": "Ed Scimia tells you why Caleb Williams and the Chicago Bears will come away with a win today. Free Lions vs. Bears predictions for Sunday, January 4, 2026."
+      "published": "2026-01-04T20:35:00+0000",
+      "summary": "Colts wide receiver Alec Pierce has been ejected from today's game against the Texans."
     },
     {
-      "id": "4de70a7a8814bc2d",
-      "title": "College Football Playoff names to watch for Giants, NFL teams",
-      "link": "https://sports.yahoo.com/articles/college-football-playoff-names-watch-200100794.html",
+      "id": "5d874bb672990662",
+      "title": "Alec Pierce ejected: Why Colt WR was booted from Week 18 game vs. Texans",
+      "link": "https://sports.yahoo.com/articles/alec-pierce-ejected-why-colt-203253095.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-04T20:01:00+0000",
-      "summary": "As the Giants prepare to decide officially on GM Joe Schoen and interview head coaching candidates, this week’s College Football Playoff semifinals also present them with opportunities to further improve their staff and roster in 2026. Here are some names to watch when No. 6 Ole Miss takes on No. 10 Miami on Thursday night in the Fiesta Bowl and No. 5 Oregon battles No. 1 Indiana on Friday ..."
+      "published": "2026-01-04T20:32:53+0000",
+      "summary": "Indianapolis Colts wide receiver Alec Pierce has been ejected from the Week 18 game against the Houston Texans."
+    },
+    {
+      "id": "1d41e4d0fc578464",
+      "title": "Myles Garrett sets the NFL single-season sack record with his 23rd sack",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-sets-nfl-single-203142375.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:31:42+0000",
+      "summary": ""
+    },
+    {
+      "id": "674549dc41fd91bb",
+      "title": "Cleveland Browns Myles Garrett sets NFL record for single-season sacks",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-myles-garrett-sets-202744900.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:27:44+0000",
+      "summary": "He left it late, but Cleveland defensive end cements his legacy with his 23rd sack of the season."
+    },
+    {
+      "id": "514f6edef7f2e68a",
+      "title": "Myles Garrett makes NFL history",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-makes-nfl-history-202653625.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:26:53+0000",
+      "summary": "Browns star Myles Garrett now stands alone at the top of the NFL record books"
+    },
+    {
+      "id": "6d7a07eebbb31838",
+      "title": "Browns edge rusher Myles Garrett sets new single-season sack record by taking down Joe Burrow in Week 18",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/browns-edge-rusher-myles-garrett-sets-new-single-season-sack-record-by-taking-down-joe-burrow-in-week-18-202638942.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:26:38+0000",
+      "summary": "Cleveland Browns defensive end Myles Garrett is the new single-season sack king in the NFL after surpassing the previous mark of 22.5 sacks."
+    },
+    {
+      "id": "b11127a16a006f53",
+      "title": "Myles Garrett finally does it. One of the most impressive records in the NFL has been broken.",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-finally-does-one-202503486.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:25:03+0000",
+      "summary": "People have come close, but Garrett’s place in NFL history is now set in stone."
+    },
+    {
+      "id": "1d5b847ddde13c77",
+      "title": "Browns' Myles Garrett breaks NFL single-season sacks record vs Bengals",
+      "link": "https://sports.yahoo.com/articles/browns-myles-garrett-breaks-nfl-202328098.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:23:28+0000",
+      "summary": "Browns defensive end Myles Garrett has sacked Bengals quarterback Joe Burrow more than any QB."
+    },
+    {
+      "id": "e25ece92ef2b6ac1",
+      "title": "Browns' Myles Garrett breaks NFL single-season sacks record vs Bengals",
+      "link": "https://sports.yahoo.com/articles/browns-myles-garrett-breaks-nfl-202328962.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-04T20:23:28+0000",
+      "summary": "Browns defensive end Myles Garrett has sacked Bengals quarterback Joe Burrow more than any QB."
     },
     {
       "id": "009a6e0e49d9d2c6",
@@ -62,7 +125,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-01-04T17:55:00+0000",
-      "summary": "The&#160;Indianapolis Colts&#160;are on the road to take on the Houston Texans in week 18 of the 2025 season, kickoff is at 1:00 p.m. EST. Well this is it. The season ends today. The season didn’t go the way anyone wanted it to, but there were plenty of highs to go along with even more lows. [&#8230;]"
+      "summary": "The Indianapolis Colts are on the road to take on the Houston Texans in week 18 of the 2025 season, kickoff is at 1:00 p.m. EST. Well this is it. The season ends today. The season didn’t go the way anyone wanted it to, but there were plenty of highs to go along with even more lows. [&#8230;]"
     },
     {
       "id": "849304200547adb3",
@@ -72,15 +135,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T17:49:42+0000",
       "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "Live tracking the NFL playoff picture: Updated chances to clinch open spots, win division titles",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-04T17:39:47+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture -- including wild-card chases, division races and even the draft order -- throughout Sunday's games."
     },
     {
       "id": "ba91207f0b70a20a",
@@ -486,60 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-28T17:14:40+0000",
       "summary": "INDIANAPOLIS - The Texans' win over the Chargers on Saturday night officially eliminated the Colts from playoff contention, so they'll be playing for pride against the Jaguars on Sunday. IndyStar Colts' insider Joel A. Erickson gives his keys to the Colts' snapping the five-game losing streak that cost them the chance at their first postseason [...]"
-    },
-    {
-      "id": "99cf00ec617f66ad",
-      "title": "Sideline to Sideline: Bucket List Event",
-      "link": "https://fox59.com/sports/colts/sideline-to-sideline-bucket-list-event/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T17:13:58+0000",
-      "summary": "INDIANAPOLIS - Every week Blue Zone's Chris Widlic asks the Colts one question on one topic as they walk \"sideline to sideline\". This week Chris asks the players what their bucket list sporting event is they would like to attend."
-    },
-    {
-      "id": "eda8310098e71491",
-      "title": "Colts announce 6 inactive players for Week 17 game vs. Jacksonville Jaguars",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-17-game-vs-jacksonville-jaguars",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T16:30:31+0000",
-      "summary": "The Colts on Saturday placed DT DeForest Buckner, TE Drew Ogletree and WR Anthony Gould on injured reserve."
-    },
-    {
-      "id": "3e4de0b3ebc24af8",
-      "title": "How to watch the Jacksonville Jaguars at Indianapolis Colts on December 28, 2025",
-      "link": "https://colts.com/news/how-to-watch-jaguars-at-colts-week-17-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-28T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Jacksonville Jaguars at Indianapolis Colts on Sunday, December 28 at 1:00 p.m. ET (Week 17)."
-    },
-    {
-      "id": "a49a8b5386c3b0e0",
-      "title": "Gifted Colts jersey survives Christmas day fire in Martinsville",
-      "link": "https://fox59.com/sports/colts/gifted-colts-jersey-survives-christmas-day-fire-in-martinsville/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T04:52:22+0000",
-      "summary": "MARTINSVILLE, Ind. — The white keys of a pink plastic piano sit dusted with ash. Kenzie Phillips, 7, only tried it out for a few minutes before it was too damaged to play. ”I like it because I always wanted one, and I wanted to play Christmas songs,” Phillips said.  Her parents, Robert and Brittany [...]"
-    },
-    {
-      "id": "1a544e75a7b17fe6",
-      "title": "Jaguars at Colts: What to watch for",
-      "link": "https://fox59.com/sports/colts/jaguars-at-colts-what-to-watch-for-3/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T04:25:28+0000",
-      "summary": "INDIANAPOLIS — Areas of interest in the Indianapolis Colts’ Sunday meeting with the Jacksonville Jaguars at Lucas Oil Stadium: *Kickoff: 1 p.m. *Broadcast: FOX59. *Spread: Jaguars by 5½. *History lesson, Part I: The Colts lead the series 28-21, and it resumes on more favorable ground. They’ve won 10 of the last 12 meetings at Lucas Oil Stadium. That includes [...]"
-    },
-    {
-      "id": "d3b2ce92c5f07d26",
-      "title": "Texans’ win over Chargers snuffs out Colts’ playoff hopes",
-      "link": "https://fox59.com/sports/colts/texans-win-over-chargers-snuffs-out-colts-playoff-hopes/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-28T00:39:42+0000",
-      "summary": "INDIANAPOLIS — It didn’t take a sixth consecutive loss for the Indianapolis Colts to be eliminated from the playoffs and join a dubious group. The team’s postseason drought officially reached five years Saturday when the Houston Texans defeated the Los Angeles Chargers, 20-16, at SoFi Stadium. The Colts are just the sixth team to miss [...]"
     }
   ],
   "links": [
