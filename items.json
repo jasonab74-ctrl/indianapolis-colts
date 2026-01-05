@@ -1,14 +1,158 @@
 {
-  "updated": "2026-01-05T03:54:41+00:00",
+  "updated": "2026-01-05T04:56:30+00:00",
   "items": [
+    {
+      "id": "6bc17a514989cb34",
+      "title": "NFL playoff picture: What Steelers’ win over Ravens mean for AFC standings in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-ravens-170000335.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:50:38+0000",
+      "summary": "The Ravens face the Steelers in Pittsburgh on Sunday Night Football. We break down what the game means for the NFL playoff picture in Week 18."
+    },
+    {
+      "id": "bd825ad4139e54a4",
+      "title": "2025 NFL playoff odds, betting: Odds for every NFL playoff game",
+      "link": "https://sports.yahoo.com/nfl/betting/article/2025-nfl-playoff-odds-betting-odds-for-every-nfl-playoff-game-044730703.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:47:30+0000",
+      "summary": "The Bills are road favorites against the Jaguars in the wild-card round of the NFL playoffs."
+    },
+    {
+      "id": "dcc36028ce1d1502",
+      "title": "Steelers take AFC North as Ravens FG sails wide",
+      "link": "https://espn.com/nfl/story/_/id/47509668/steelers-take-afc-north-title-ravens-miss-last-second-fg",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T04:47:05+0000",
+      "summary": "The Steelers won the AFC North title and secured last NFL playoff spot with a dramatic 26-24 win over Ravens on Sunday night."
+    },
+    {
+      "id": "0919373345ef1192",
+      "title": "Colts' coach, GM to return despite '25 collapse",
+      "link": "https://espn.com/nfl/story/_/id/47506569/colts-coach-shane-steichen-gm-chris-ballard-return-2026",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T04:47:05+0000",
+      "summary": "Colts general manager Chris Ballard and coach Shane Steichen will return in their roles next season."
+    },
     {
       "id": "f6b7c4d4d301aa3f",
       "title": "'Sack king' Garrett gets No. 23 to set NFL record",
       "link": "https://espn.com/nfl/story/_/id/47503855/browns-myles-garrett-gets-sack-no-23-set-nfl-season-record",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-05T03:39:42+0000",
+      "published": "2026-01-05T04:47:05+0000",
       "summary": "Browns defensive end Myles Garrett set the NFL's single-season sack record Sunday with a sack of Joe Burrow to give him 23."
+    },
+    {
+      "id": "9711a17688ab4f0d",
+      "title": "McVay says Stafford's MVP case 'speaks for itself'",
+      "link": "https://espn.com/nfl/story/_/id/47508280/sean-mcvay-says-matthew-stafford-mvp-case-speaks-itself",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T04:47:05+0000",
+      "summary": "Los Angeles Rams head coach Sean McVay says he thinks Matthew Stafford is the NFL MVP, and that the quarterback's play \"speaks for itself.\""
+    },
+    {
+      "id": "3e26ba44793a1914",
+      "title": "✍️ Tracking the playoff picture and the draft order",
+      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T04:47:05+0000",
+      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
+    },
+    {
+      "id": "d433081c92e7a070",
+      "title": "NFL playoff picture: How the Pittsburgh Steelers can clinch a playoff berth in Week 18",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-pittsburgh-steelers-150000173.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:46:54+0000",
+      "summary": "Steelers. We break down how they can clinch the AFC North in the 2026 NFL Playoffs in Week 18."
+    },
+    {
+      "id": "bcde9081d0e50e87",
+      "title": "NFL reveals wild-card schedule: When is Texans vs. Steelers?",
+      "link": "https://sports.yahoo.com/articles/nfl-reveals-wild-card-schedule-044119358.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:41:19+0000",
+      "summary": "The Houston Texans now know their opponent and kickoff time for wild-card weekend."
+    },
+    {
+      "id": "3cc3a153b89e07cd",
+      "title": "2026 NFL Draft order: Detroit Lions first-round pick officially set",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-order-detroit-044110939.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:41:10+0000",
+      "summary": "The Detroit Lions now know where they will pick in the first round of the 2026 NFL Draft."
+    },
+    {
+      "id": "df623cd9973ac374",
+      "title": "When will the Miami Dolphins select in the 2026 NFL Draft? Breaking down the order as the regular season ends",
+      "link": "https://sports.yahoo.com/articles/miami-dolphins-select-2026-nfl-043922017.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:39:22+0000",
+      "summary": "Breaking down the 2026 NFL Draft’s first-round order as the regular season comes to an end."
+    },
+    {
+      "id": "af4537ecf9124f5b",
+      "title": "Who Pittsburgh Steelers will play in wild-card round of NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-play-wild-card-043759390.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:37:59+0000",
+      "summary": "Who will the Pittsburgh Steelers play in the wild-card round of the 2025 NFL playoffs? Find all the answers on the NFL playoff picture here."
+    },
+    {
+      "id": "17298d3dc54a2b2b",
+      "title": "James Cook is the 2025 NFL rushing leader",
+      "link": "https://sports.yahoo.com/articles/james-cook-enters-week-18-120000095.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:37:15+0000",
+      "summary": "The Buffalo Bills running back held off a late push to lead the NFL in rushing yards."
+    },
+    {
+      "id": "b7c763476ea44310",
+      "title": "Bills' James Cook gets final update to NFL rushing title battle with Derrick Henry, Jonathan Taylor",
+      "link": "https://sports.yahoo.com/articles/bills-james-cook-gets-final-043655321.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:36:55+0000",
+      "summary": "The race is now complete."
+    },
+    {
+      "id": "aa186f4a2e3f289e",
+      "title": "Broncos 2026 schedule: Full list of opponents now finalized",
+      "link": "https://sports.yahoo.com/articles/broncos-2026-schedule-full-list-043540627.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:35:40+0000",
+      "summary": "After winning the AFC West in 2025, the Broncos know their full list of opponents for the 2026 NFL season."
+    },
+    {
+      "id": "5628ed2b57732e7f",
+      "title": "Pittsburgh Steelers win AFC North title and secure last NFL playoff spot with 26-24 win over Baltimore Ravens",
+      "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-win-afc-north-043517571.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:35:17+0000",
+      "summary": ""
+    },
+    {
+      "id": "38e6a02687cc9a2c",
+      "title": "Derrick Henry somehow doesn’t nab the NFL rushing title in Week 18",
+      "link": "https://sports.yahoo.com/articles/close-derrick-henry-nfl-rushing-224207977.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T04:34:37+0000",
+      "summary": "RB Derrick Henry couldn’t quite win the NFL rushing crown in 2025."
     },
     {
       "id": "5e84a8887dea8985",
@@ -18,114 +162,6 @@
       "feed": "ESPN",
       "published": "2026-01-05T03:39:29+0000",
       "summary": "The Falcons fired Raheem Morris despite a four-game winning streak to end the regular season."
-    },
-    {
-      "id": "db167e9de42251c3",
-      "title": "Underwood or Pawlowski? Analyzing the Cleveland Guardians’ Broadcast “Quarterbacks”",
-      "link": "https://sports.yahoo.com/articles/underwood-pawlowski-analyzing-cleveland-guardians-033619265.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:36:19+0000",
-      "summary": "Not Another Quarterback Competition in Cleveland – by Mario Crescibene Clevelanders are conditioned to flinch at the words “Quarterback Competition.” It’s a phrase usually reserved for training camp soap operas at Berea or the latest Browns injury report. But with the NFL playoffs starting and the college postseason in high gear, it’s the perfect time […]"
-    },
-    {
-      "id": "0919373345ef1192",
-      "title": "Colts' coach, GM to return despite '25 collapse",
-      "link": "https://espn.com/nfl/story/_/id/47506569/colts-coach-shane-steichen-gm-chris-ballard-return-2026",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T03:35:18+0000",
-      "summary": "Colts general manager Chris Ballard and coach Shane Steichen will return in their roles next season."
-    },
-    {
-      "id": "9711a17688ab4f0d",
-      "title": "McVay says Stafford's MVP case 'speaks for itself'",
-      "link": "https://espn.com/nfl/story/_/id/47508280/sean-mcvay-says-matthew-stafford-mvp-case-speaks-itself",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T03:35:18+0000",
-      "summary": "Los Angeles Rams head coach Sean McVay says he thinks Matthew Stafford is the NFL MVP, and that the quarterback's play \"speaks for itself.\""
-    },
-    {
-      "id": "92ce7d29f41872d7",
-      "title": "Raiders clinch 2026 No. 1 pick after Giants win",
-      "link": "https://espn.com/nfl/story/_/id/47504373/raiders-clinch-2026-no-1-overall-nfl-draft-pick-giants-win",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T03:35:18+0000",
-      "summary": "The Raiders will pick No. 1 in the 2026 NFL draft, clinching the spot after the Giants defeated the Cowboys."
-    },
-    {
-      "id": "3e26ba44793a1914",
-      "title": "✍️ Tracking the playoff picture and the draft order",
-      "link": "https://espn.com/espn/feature/story/_/id/47248728/2025-nfl-playoff-live-odds-updated-chances-clinch-bracket-projections-scenarios",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T03:35:18+0000",
-      "summary": "We are following the 2025 NFL season's playoff picture. Here's how things look right now for wild-card spots, division races and even the draft order."
-    },
-    {
-      "id": "380a3c56d639261c",
-      "title": "2026 NFL draft: Where are the Jets' two first-round picks finalized?",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-where-jets-033506856.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:35:06+0000",
-      "summary": "We now know where the Jets will have their two top picks at the 2026 NFL draft are."
-    },
-    {
-      "id": "91da50c051f13e56",
-      "title": "Colts' Riley Leonard makes history only done by Peyton Manning and Andrew Luck",
-      "link": "https://sports.yahoo.com/articles/colts-riley-leonard-makes-history-032832449.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:28:32+0000",
-      "summary": "The rookie did something pretty special."
-    },
-    {
-      "id": "56628e4dba6d3612",
-      "title": "NFL world reacts to Falcons firing Raheem Morris and Terry Fontenot",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-falcons-firing-032438174.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:24:38+0000",
-      "summary": "Fans on social media had plenty to say after the Falcons fired Raheem Morris and Terry Fontenot"
-    },
-    {
-      "id": "da37ea4d996f1ef9",
-      "title": "The NFL has announced its Wild-Card Weekend schedule",
-      "link": "https://sports.yahoo.com/articles/nfl-announced-wild-card-weekend-032411135.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:24:11+0000",
-      "summary": "The following is the schedule of dates, times, and venues for the NFL's Wild Card Weekend starting January 10th."
-    },
-    {
-      "id": "070157bba248c17a",
-      "title": "Falcons' Kyle Pitts has one of the weirdest streaks in the NFL over last 5 years",
-      "link": "https://sports.yahoo.com/articles/falcons-kyle-pitts-one-weirdest-031951984.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:19:51+0000",
-      "summary": "This is a pretty wild coincidence."
-    },
-    {
-      "id": "cdab69047b1d199d",
-      "title": "NFL playoff schedule bracket, wild-card game times, seedings",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-bracket-wild-031928314.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:19:28+0000",
-      "summary": "The NFL playoff schedule has been released, with wild-card round game times and seeds for the bracket."
-    },
-    {
-      "id": "4d461e248640ee87",
-      "title": "2026 NFL Wild Card Round schedule: Times, dates, matchups",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-wild-card-round-031850922.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T03:18:50+0000",
-      "summary": "The AFC North Winner will host the Houston Texans on Monday Night Jan 12"
     },
     {
       "id": "601f26ca0947d17b",
@@ -165,7 +201,7 @@
     },
     {
       "id": "0b49420b668c5ab7",
-      "title": "The NFL playoffs are nearly here! Our guide to 13 of 14 teams as we wait for Ravens-Steelers",
+      "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
       "link": "https://espn.com/nfl/story/_/id/47456323/2025-nfl-playoffs-bracket-wild-card-preview-stats-schedule-super-bowl-lx-odds",
       "source": "ESPN",
       "feed": "ESPN",
@@ -180,15 +216,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-05T01:11:40+0000",
       "summary": "The Indianapolis Colts have been locked into third place in the AFC South for a while, but their opponents for the 2026 season weren’t set until the end of the regular season. In addition to the regular rotations against the AFC South, the Colts play the NFC East and the AFC North. The same-ranked NFC [&#8230;]"
-    },
-    {
-      "id": "6904f0572ec438f8",
-      "title": "NFL single-season sack leaders: Led by record-setting Garrett",
-      "link": "https://espn.com/nfl/story/_/id/33017166/the-nfl-single-season-sack-leaders-1-10",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T01:09:09+0000",
-      "summary": "Myles Garrett's historic season sits atop a list filled with pass-rushing legends across generations."
     },
     {
       "id": "48dc7f7b8c4f088f",
@@ -227,9 +254,9 @@
       "summary": "Colts Owner and CEO Carlie Irsay-Gordon will hold a press conference Monday."
     },
     {
-      "id": "bd6ee8371c246822",
+      "id": "1a1af83de34b33c9",
       "title": "Colts’ Carlie Irsay-Gordon bringing Chris Ballard, Shane Steichen back for 2026",
-      "link": "https://fox59.com/sports/colts-carlie-irsay-gordon-bringing-chris-ballard-shane-steichen-back-for-2026/",
+      "link": "https://fox59.com/sports/colts/colts-carlie-irsay-gordon-bringing-chris-ballard-shane-steichen-back-for-2026/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-01-04T23:30:21+0000",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2025-12-30T18:37:10+0000",
       "summary": "Vinatieri was named a finalist for the Pro Football Hall of Fame Class of 2026 on Tuesday."
-    },
-    {
-      "id": "0244cad596da5386",
-      "title": "Colts sign CB Wyett Ekeler to practice squad, release T Zach Thomas from practice squad",
-      "link": "https://colts.com/news/colts-sign-cb-wyett-ekeler-to-practice-squad-release-t-zach-thomas-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-30T18:34:09+0000",
-      "summary": "The Colts made the roster moves on Tuesday."
-    },
-    {
-      "id": "578f1924219a1b96",
-      "title": "Source: Colts starting rookie Riley Leonard at Houston",
-      "link": "https://fox59.com/sports/colts/source-colts-starting-rookie-riley-leonard-at-houston/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-30T16:30:51+0000",
-      "summary": "INDIANAPOLIS – The football’s in Riley Leonard’s hands. The rookie quarterback will make his first career start Sunday when the Indianapolis Colts close their disappointing season at Houston, according to a source with knowledge of the situation. Coach Shane Steichen said Monday there would be internal discussions regarding whether to stick with veteran Philip Rivers [...]"
-    },
-    {
-      "id": "203c04e471c25d28",
-      "title": "Colts greats Adam Vinatieri, Reggie Wayne among 15 finalists for Pro Football Hall of Fame Class of 2026",
-      "link": "https://colts.com/news/colts-greats-adam-vinatieri-reggie-wayne-among-15-finalists-for-pro-football-hall-of-fame-class-of-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-30T14:00:09+0000",
-      "summary": "Vinatieri is in his second year of Hall of Fame eligibility, while Wayne has been named a finalist now in each of his seven years of eligibility."
     }
   ],
   "links": [
