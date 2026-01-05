@@ -1,15 +1,6 @@
 {
-  "updated": "2026-01-05T08:31:55+00:00",
+  "updated": "2026-01-05T09:30:51+00:00",
   "items": [
-    {
-      "id": "ea935e89e6168709",
-      "title": "Steelers late show completes NFL play-off field",
-      "link": "https://sports.yahoo.com/articles/steelers-show-completes-nfl-play-080540199.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T08:05:40+0000",
-      "summary": "We look at the pick of the action and the full play-off picture and schedule after the Pittsburgh Steelers' dramatic late victory completes the road to the Super Bowl."
-    },
     {
       "id": "601f26ca0947d17b",
       "title": "👀 Jags top trolls with 'small-market' reference",
@@ -18,15 +9,6 @@
       "feed": "ESPN",
       "published": "2026-01-05T07:59:59+0000",
       "summary": "The final week of the 2025 NFL regular season didn't stop teams from being petty, including one coming off a big win."
-    },
-    {
-      "id": "94c1738c25b01f05",
-      "title": "NFL wild-card preview: Which 6 teams have the most juice heading into their Round 1 matchup?",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-wild-card-preview-which-6-teams-have-the-most-juice-heading-into-their-round-1-matchup-072646868.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T07:26:46+0000",
-      "summary": "As the wild-card round unfolds, you'll notice that the bracket is wide open for a team to exert their dominance or pull off an upset."
     },
     {
       "id": "f6b7c4d4d301aa3f",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-28T23:09:21+0000",
       "summary": "Shane Steichen said he'll decide on the Colts' starting quarterback for their season finale on Tuesday prior to Week 18's game against the Houston Texans at NRG Stadium."
+    },
+    {
+      "id": "a16a2c9eaebd3f28",
+      "title": "Colts 'played it safe' in holding Sauce Gardner out during second half vs. Jaguars",
+      "link": "https://colts.com/news/colts-played-it-safe-in-holding-sauce-gardner-out-during-second-half-vs-jaguars",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-28T22:33:02+0000",
+      "summary": "Gardner left the third quarter of Sunday's game with a calf injury and did not return."
+    },
+    {
+      "id": "7525879b6ddbd517",
+      "title": "Colts hang tough, but Jaguars do enough for 23-17 win",
+      "link": "https://fox59.com/sports/colts/colts-hang-tough-but-jaguars-do-enough-for-23-17-win/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-28T21:09:21+0000",
+      "summary": "INDIANAPOLIS — Playing for just pride, the Indianapolis Colts gave the division-leading Jacksonville Jaguars all they could handle on Sunday at Lucas Oil Stadium, but dropped their sixth straight game, 23-17. The Colts knew their playoff fate before even taking the field on Sunday. The Houston Texans' 20-16 win over the Los Angeles Chargers on [...]"
     }
   ],
   "links": [
