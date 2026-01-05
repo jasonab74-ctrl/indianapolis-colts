@@ -1,41 +1,86 @@
 {
-  "updated": "2026-01-05T16:26:33+00:00",
+  "updated": "2026-01-05T16:52:32+00:00",
   "items": [
+    {
+      "id": "9c1d23085b820cae",
+      "title": "Longhorns OL DJ Campbell declares for the NFL Draft",
+      "link": "https://sports.yahoo.com/articles/longhorns-ol-dj-campbell-declares-164527288.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T16:45:27+0000",
+      "summary": "DJ Campbell makes key desicion about his future. The Texas Longhorns offensive lineman will enter the 2026 NFL Draft."
+    },
+    {
+      "id": "8e11608de395e685",
+      "title": "Daily Slop: 5 Jan 26 – With 30 free agents and uncertainty with offensive & defensive coordinators, Commanders face a critical offseason in ‘26",
+      "link": "https://sports.yahoo.com/articles/daily-slop-5-jan-26-163959536.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T16:39:59+0000",
+      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
+    },
     {
       "id": "ccc2ccf48655c850",
       "title": "NFL head coach firings tracker 2026: Full list of moves on Black Monday (Live updates)",
       "link": "https://sports.yahoo.com/articles/nfl-head-coach-firings-tracker-140240630.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:16:00+0000",
+      "published": "2026-01-05T16:34:40+0000",
       "summary": "It’s Black Monday and some NFL teams will make changes to their personnel. MassLive will have live updates throughout the day of all the news and rumors."
     },
     {
-      "id": "f2f68ced1baadd54",
-      "title": "Broncos updated 2026 NFL Draft order: Current 1st-round pick after Week 18",
-      "link": "https://sports.yahoo.com/articles/broncos-updated-2026-nfl-draft-161555799.html",
+      "id": "75eff3988f69e937",
+      "title": "Seahawks, Rams Favored in Super Bowl Odds; Stafford Passes Maye in MVP Race",
+      "link": "https://sports.yahoo.com/articles/seahawks-rams-favored-super-bowl-163400704.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:15:55+0000",
-      "summary": "The Broncos draft position is undetermined as of yet, but here’s where the first 18 picks are set for the 2026 NFL Draft."
+      "published": "2026-01-05T16:34:00+0000",
+      "summary": "Oddsmakers install NFC West rivals as teams to beat in NFL playoffs. Stafford reinstalled as MVP favorite after another 4-TD performance."
     },
     {
-      "id": "f449fb668a5bc102",
-      "title": "Packers rookie Collin Oliver produces 4 pressures in NFL debut",
-      "link": "https://sports.yahoo.com/articles/packers-rookie-collin-oliver-produces-161453827.html",
+      "id": "ffce693b60b83db3",
+      "title": "After latest losing season, Arizona Cardinals have three of the worst head coaches in NFL history",
+      "link": "https://sports.yahoo.com/articles/latest-losing-season-arizona-cardinals-163202059.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:14:53+0000",
-      "summary": "Packers fifth-round pick Collin Oliver created four pressures in his NFL debut on Sunday."
+      "published": "2026-01-05T16:32:02+0000",
+      "summary": "Jonathan Gannon is among the worst coaches in NFL history now."
     },
     {
-      "id": "8c3ea7d7340a5203",
-      "title": "NFL playoff schedule: Wild-card weekend game times, how to watch",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-wild-card-161438905.html",
+      "id": "db003f71fb88694b",
+      "title": "NFL playoff power ranks: Everyone kinda stinks, the playoffs will be great",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-power-ranks-everyone-163121629.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:14:38+0000",
-      "summary": "The 14-team field is set for the NFL playoffs. Denver and Seattle have byes. Here is the list of times and TV info for wild-card games."
+      "published": "2026-01-05T16:31:21+0000",
+      "summary": "Every one of the 14 teams in the 2026 NFL playoff field is vulnerable. Whose fatal flaw will hurt them the least?"
+    },
+    {
+      "id": "9091bba1962f60aa",
+      "title": "Colts veteran CB Charvarius Ward is contemplating retirement this early offseason",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120269/colts-veteran-cb-charvarius-ward-is-contemplating-retirement-this-offseason",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-05T16:27:29+0000",
+      "summary": "Indianapolis Colts former Pro Bowl veteran cornerback Charvarius Ward indicated to members of the local media on Monday morning that he’s contemplating retirement this offseason—after suffering three documented concussions this year, during his debut campaign in Indy (via The Athletic’s James Boyd): Obviously, his initial season didn’t go as either the Colts and Ward initially [&#8230;]"
+    },
+    {
+      "id": "f2cb2144a0256440",
+      "title": "Colts veteran CB Charvarius Ward is contemplating retirement this early offseason",
+      "link": "https://sports.yahoo.com/articles/colts-veteran-cb-charvarius-ward-162729375.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T16:27:29+0000",
+      "summary": "It appears as though this may be the last we’ve seen of Charvarius Ward on the field due to lingering concussion symptoms. However, we’ll see."
+    },
+    {
+      "id": "0b49420b668c5ab7",
+      "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
+      "link": "https://espn.com/nfl/story/_/id/47456323/2025-nfl-playoffs-bracket-wild-card-preview-stats-schedule-super-bowl-lx-odds",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T16:24:34+0000",
+      "summary": "The 2025 NFL playoff field is set, and an exciting wild-card round looms. Here's everything to know about the 14 teams vying to win Super Bowl LX."
     },
     {
       "id": "cf2e30341145b1f7",
@@ -47,33 +92,6 @@
       "summary": "The Colts made the roster moves on Monday."
     },
     {
-      "id": "30b1df189725bcbb",
-      "title": "2025 NFL receiving leaders as regular season ends",
-      "link": "https://sports.yahoo.com/articles/2025-nfl-receiving-leaders-regular-161242878.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:12:42+0000",
-      "summary": "There were 20 receivers who crossed the 1,000-yard mark in the 2025 NFL regular season."
-    },
-    {
-      "id": "aa0c3a223b66ecf5",
-      "title": "Steelers Get Disrespectful NFL Playoff Odds Ahead Of Wild Card Round",
-      "link": "https://sports.yahoo.com/articles/steelers-disrespectful-nfl-playoff-odds-161147788.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:11:47+0000",
-      "summary": "For the second week in a row, sportsbooks aren’t giving the Pittsburgh Steelers much respect. Last week, the Steelers were 3.5-point home underdogs against the Baltimore Ravens despite having numerous trends in their favor. Sure enough, they covered and won outright, beating the Ravens 26-24 on Sunday Night Football. Now, Pittsburgh is once again a […]"
-    },
-    {
-      "id": "3a17199b1426d043",
-      "title": "LSU offensive coordinator Charlie Weis Jr. shuts down NFL rumors",
-      "link": "https://sports.yahoo.com/articles/lsu-offensive-coordinator-charlie-weis-160530624.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:05:30+0000",
-      "summary": "The top assistant has no interest in moving up."
-    },
-    {
       "id": "d340d76ba98bc6f1",
       "title": "Report: Titans request to interview Colts DC Lou Anarumo for head coaching opening",
       "link": "https://stampedeblue.com/indianapolis-colts-news/120264/report-titans-request-to-interview-colts-dc-lou-anarumo-for-head-coaching-opening",
@@ -83,24 +101,6 @@
       "summary": "According to NFL Network’s Tom Pelissero, the Tennessee Titans have requested to interview Indianapolis Colts veteran defensive coordinator Lou Anarumo for their current head coaching vacancy—among other top candidates: The 59-year-old defensive coordinator just completed his debut campaign coaching the defense in Indianapolis, with ultimately up-and-down results, once the dust fully settled. The Colts defense [&#8230;]"
     },
     {
-      "id": "889613086e540faa",
-      "title": "Report: Titans request to interview Colts DC Lou Anarumo for head coaching opening",
-      "link": "https://sports.yahoo.com/articles/report-titans-request-interview-colts-160503798.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:05:03+0000",
-      "summary": "Colts veteran DC Lou Anarumo was already connected to the Titans head coach opening in season—and they’ve requested to interview him to begin the New Year."
-    },
-    {
-      "id": "fd00a8969aec0a88",
-      "title": "NFL rushing leaders since 2000",
-      "link": "https://sports.yahoo.com/articles/nfl-rushing-leaders-since-2000-160422527.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:04:22+0000",
-      "summary": "A who's who of running backs have led the NFL in rushing since the 2000 season."
-    },
-    {
       "id": "84b5c3c94ae3db36",
       "title": "Barnwell's final picks for every major NFL award",
       "link": "https://espn.com/nfl/story/_/id/47503914/2025-nfl-season-awards-ranking-mvp-best-rookies-coaches-players-candidates",
@@ -108,15 +108,6 @@
       "feed": "ESPN",
       "published": "2026-01-05T16:03:50+0000",
       "summary": "Drake Maye or Matthew Stafford for MVP? Which rookies should earn hardware? And no one is beating out Myles Garrett for DPOY, right?"
-    },
-    {
-      "id": "6dba7dd6b56c33c1",
-      "title": "Browns fire coach Stefanski on NFL's Black Monday",
-      "link": "https://sports.yahoo.com/articles/browns-fire-coach-stefanski-nfls-160152093.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T16:01:52+0000",
-      "summary": "The Cleveland Browns sack head coach Kevin Stefanski after finishing bottom of the AFC North for the second consecutive season."
     },
     {
       "id": "ebd0b801c4f09dee",
@@ -162,15 +153,6 @@
       "feed": "ESPN",
       "published": "2026-01-05T15:26:47+0000",
       "summary": "The Raiders, Jets and Cardinals hold the top three picks in the 2026 NFL draft. See the rest of the order -- plus each team's top need -- after the regular season."
-    },
-    {
-      "id": "0b49420b668c5ab7",
-      "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
-      "link": "https://espn.com/nfl/story/_/id/47456323/2025-nfl-playoffs-bracket-wild-card-preview-stats-schedule-super-bowl-lx-odds",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T15:26:31+0000",
-      "summary": "The 2025 NFL playoff field is set, and an exciting wild-card round looms. Here's everything to know about the 14 teams vying to win Super Bowl LX."
     },
     {
       "id": "84aa736bed111a21",
@@ -324,15 +306,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T22:34:10+0000",
       "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
-    },
-    {
-      "id": "b6f1920bbc25fc81",
-      "title": "Despite heroics from Leonard and Pierce, Colts lose 5th straight to Houston in finale",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120170/despite-heroics-from-leonard-and-pierce-colts-lose-5th-straight-to-houston-in-finale",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T21:52:21+0000",
-      "summary": "The Indianapolis Colts (8-9) both failed to make the playoffs and finish above .500, as they fell 38-30 to the Houston Texans (12-5) in the regular season finale. It was their fifth straight loss against the Texans. With Indianapolis already eliminated from the playoffs two weeks ago, and Houston already knowing it wouldn’t be winning [&#8230;]"
     },
     {
       "id": "17d397b18a9894e5",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-12-30T16:30:51+0000",
       "summary": "INDIANAPOLIS – The football’s in Riley Leonard’s hands. The rookie quarterback will make his first career start Sunday when the Indianapolis Colts close their disappointing season at Houston, according to a source with knowledge of the situation. Coach Shane Steichen said Monday there would be internal discussions regarding whether to stick with veteran Philip Rivers [...]"
+    },
+    {
+      "id": "203c04e471c25d28",
+      "title": "Colts greats Adam Vinatieri, Reggie Wayne among 15 finalists for Pro Football Hall of Fame Class of 2026",
+      "link": "https://colts.com/news/colts-greats-adam-vinatieri-reggie-wayne-among-15-finalists-for-pro-football-hall-of-fame-class-of-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T14:00:09+0000",
+      "summary": "Vinatieri is in his second year of Hall of Fame eligibility, while Wayne has been named a finalist now in each of his seven years of eligibility."
+    },
+    {
+      "id": "c2d5faf06ea43400",
+      "title": "Colts standouts Reggie Wayne, Adam Vinatieri among 15 modern-era finalists for Hall of Fame Class of 2026",
+      "link": "https://fox59.com/sports/colts/colts-standouts-reggie-wayne-adam-vinatieri-among-15-modern-era-finalists-for-hall-of-fame-class-of-2026/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-30T14:00:00+0000",
+      "summary": "INDIANAPOLIS – Reggie Wayne and Adam Vinatieri are once again knocking on the door in Canton, Ohio. The two long-time Indianapolis Colts’ standouts are among 15 modern-era Finalists for the Pro Football Hall of Fame’s Class of 2026. Wayne, one of the most prolific receivers in NFL history, has reached the final 15 in each [...]"
+    },
+    {
+      "id": "a8fbd4f961173739",
+      "title": "Colts’ Laiatu Latu: Late-season fade frustrating, depressing",
+      "link": "https://fox59.com/sports/colts/colts-laiatu-latu-late-season-fade-frustrating-depressing/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-29T22:46:56+0000",
+      "summary": "INDIANAPOLIS – The emotions were raw, and the byproduct of another season that’s gone so very wrong. Even though Laiatu Latu and Bernhard Raimann were discussing various topics via a Zoom conference call, each battled to keep his frustrations in check a day after the Indianapolis Colts’ death spiral continued with a sixth consecutive loss [...]"
     }
   ],
   "links": [
