@@ -1,14 +1,95 @@
 {
-  "updated": "2026-01-05T19:19:42+00:00",
+  "updated": "2026-01-05T19:40:34+00:00",
   "items": [
     {
-      "id": "199fe4bd4040dc00",
-      "title": "Four NFL head coach firings increase the total of openings to six",
-      "link": "https://sports.yahoo.com/articles/four-nfl-head-coach-firings-191401106.html",
+      "id": "d2ebc7e080da3e4b",
+      "title": "Colts’ Charvarius Ward mulling future after 3 concussions; ‘If I walk away, I won’t regret it'",
+      "link": "https://fox59.com/sports/colts/colts-charvarius-ward-mulling-future-after-3-concussions-if-i-walk-away-i-wont-regret-it/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T19:35:29+0000",
+      "summary": "INDIANAPOLIS – Charvarius Ward heads into an uncertain offseason and with one important figure in his life already casting an ominous vote. “My daddy told me to retire,’’ the Indianapolis Colts’ veteran cornerback said Monday. That’s a voice Ward undoubtedly will consider after dealing with three concussions and the accompanying symptoms that seemed to linger [...]"
+    },
+    {
+      "id": "bbe2bca0d8360c7c",
+      "title": "Browns fire coach Stefanski, will keep GM Berry",
+      "link": "https://espn.com/nfl/story/_/id/47512228/browns-fire-head-coach-kevin-stefanski-6-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T19:30:03+0000",
+      "summary": "The Browns have fired Kevin Stefanski, who was twice named the NFL's Coach of the Year over the past six seasons but also led Cleveland to consecutive last-place finishes."
+    },
+    {
+      "id": "8bfc100d408d2756",
+      "title": "Concussions have Colts' Ward mulling retirement",
+      "link": "https://espn.com/nfl/story/_/id/47514924/concussions-colts-charvarius-ward-mulling-retirement",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T19:30:03+0000",
+      "summary": "Colts cornerback Charvarius Ward, battling complications from a series of three concussions in 2025, is seriously considering retirement from the NFL."
+    },
+    {
+      "id": "fb25cb31bdc430d7",
+      "title": "Rivers says he believes he can coach at NFL level",
+      "link": "https://espn.com/nfl/story/_/id/47515399/philip-rivers-believes-coach-nfl-not-pursuing-jobs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T19:30:02+0000",
+      "summary": "Philip Rivers says there's \"nothing concrete\" to rumors there's interest in him as an NFL coaching candidate but he believes he could do the job."
+    },
+    {
+      "id": "85d4a1433f6c1b69",
+      "title": "👀 Our offseason guide for all eliminated teams",
+      "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-05T19:30:02+0000",
+      "summary": "The NFL offseason has arrived for 18 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
+    },
+    {
+      "id": "22a350a6c97acfdf",
+      "title": "2026 NFL coaching news: Top names to watch on the market, from first-timers to experienced candidates",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-coaching-news-top-names-to-watch-on-the-market-from-first-timers-to-experienced-candidates-192716587.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T19:14:01+0000",
-      "summary": "Arizona came into the season with high hopes of contending in the NFC West but finished with just three wins for one of the worst records in franchise history.  The 37-20 loss to the Los Angeles Rams on Sunday was the team's ninth straight and 14th in 15 games.  Carroll, the NFL's oldest coach at 74, did not come close to enjoying the success he did while winning one of two Super Bowls over 14 years with Seattle and two national titles in nine years at Southern California."
+      "published": "2026-01-05T19:27:16+0000",
+      "summary": "Which coaches will teams needing to make a hire target? Here's your guide."
+    },
+    {
+      "id": "59c295bc4d2b632a",
+      "title": "Steichen's non-answer about Richardson's future was quite telling",
+      "link": "https://sports.yahoo.com/articles/steichens-non-answer-richardsons-future-192356769.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T19:23:56+0000",
+      "summary": "Here is Shane Steichen's response to being asked about Anthony Richardson's future with the Colts."
+    },
+    {
+      "id": "330d26abfaff6408",
+      "title": "Rams expect Davante Adams to return from hamstring injury in time for wild-card game against Panthers",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-expect-davante-adams-to-return-from-hamstring-injury-in-time-for-wild-card-game-against-panthers-192239903.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T19:22:39+0000",
+      "summary": "One of the best end-zone threats in the NFL is expected to return to the Rams in time for the postseason."
+    },
+    {
+      "id": "bb1d70c374a89991",
+      "title": "NFL offensive stat leaders following from the regular season finale",
+      "link": "https://sports.yahoo.com/articles/nfl-offensive-stat-leaders-following-191819842.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T19:18:19+0000",
+      "summary": "The NFL season has come to a close and the offensive stat leaders are now set in stone."
+    },
+    {
+      "id": "16ad028455d18baa",
+      "title": "2026 NFL Draft order following the regular season finale in Week 18",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-order-following-191653402.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-05T19:16:53+0000",
+      "summary": "The top of the 2026 NFL Draft order is set following Week 18 of the season."
     },
     {
       "id": "fbd7b613af4f3307",
@@ -20,24 +101,6 @@
       "summary": "Rivers said on Monday he will return home as the head coach of the St. Michael Catholic high school football team, but wouldn't \"shut down\" the possibility of becoming an NFL coach at some point in the future."
     },
     {
-      "id": "3c54ec3b62b3d11a",
-      "title": "NFL offensive stat leaders following from the regular season finale",
-      "link": "https://sports.yahoo.com/articles/nfl-offensive-stat-leaders-following-191039421.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T19:10:39+0000",
-      "summary": "The NFL season has come to a close and the offensive stat leaders are now set in stone."
-    },
-    {
-      "id": "7c62f4ece0391220",
-      "title": "Jets' Aaron Glenn with heartfelt reaction to end of 2025: 'I let down'",
-      "link": "https://sports.yahoo.com/articles/jets-aaron-glenn-heartfelt-reaction-190951777.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T19:09:51+0000",
-      "summary": "Jets coach Aaron Glenn took a lot of responsibility at the end of the 2025 NFL season."
-    },
-    {
       "id": "f233038771c91d17",
       "title": "Back for 2026, head coach Shane Steichen focusing on Colts' late-season, late-game shortcomings",
       "link": "https://colts.com/news/shane-steichen-2025-season-recap-2026-outlook-close-games-november-december",
@@ -45,69 +108,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T19:07:30+0000",
       "summary": "The Colts under Steichen are 25-26 in three seasons."
-    },
-    {
-      "id": "44d77be8df93d08d",
-      "title": "Former Oklahoma DL makes huge play in NFL debut",
-      "link": "https://sports.yahoo.com/articles/former-oklahoma-dl-makes-huge-190616414.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T19:06:16+0000",
-      "summary": "Former Oklahoma Sooners defensive lineman Ethan Downs made headlines in his NFL debut on Sunday."
-    },
-    {
-      "id": "fb25cb31bdc430d7",
-      "title": "Rivers says he believes he can coach at NFL level",
-      "link": "https://espn.com/nfl/story/_/id/47515399/philip-rivers-believes-coach-nfl-not-pursuing-jobs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T19:04:43+0000",
-      "summary": "Philip Rivers says there's \"nothing concrete\" to rumors there's interest in him as an NFL coaching candidate but he believes he could do the job."
-    },
-    {
-      "id": "bbe2bca0d8360c7c",
-      "title": "Browns fire coach Stefanski, will keep GM Berry",
-      "link": "https://espn.com/nfl/story/_/id/47512228/browns-fire-head-coach-kevin-stefanski-6-seasons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T19:04:43+0000",
-      "summary": "The Browns have fired Kevin Stefanski, who was twice named the NFL's Coach of the Year over the past six seasons but also led Cleveland to consecutive last-place finishes."
-    },
-    {
-      "id": "8bfc100d408d2756",
-      "title": "Concussions have Colts' Ward mulling retirement",
-      "link": "https://espn.com/nfl/story/_/id/47514924/concussions-colts-charvarius-ward-mulling-retirement",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T19:04:43+0000",
-      "summary": "Colts cornerback Charvarius Ward, battling complications from a series of three concussions in 2025, is seriously considering retirement from the NFL."
-    },
-    {
-      "id": "85d4a1433f6c1b69",
-      "title": "👀 Our offseason guide for all eliminated teams",
-      "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T19:04:42+0000",
-      "summary": "The NFL offseason has arrived for 18 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
-    },
-    {
-      "id": "c90a1bcd64631c80",
-      "title": "Caleb Williams would’ve blown by 4,000 yards if not for this one stat",
-      "link": "https://sports.yahoo.com/articles/caleb-williams-ve-blown-4-190306641.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T19:03:06+0000",
-      "summary": "Caleb led the entire NFL in this stat, which is frankly an indictment of the rest of the offense."
-    },
-    {
-      "id": "549a15e69893e3e3",
-      "title": "Seahawks rookie was PFF's highest-graded player in the NFL for Week 18",
-      "link": "https://sports.yahoo.com/articles/seahawks-rookie-pffs-highest-graded-190021140.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-05T19:00:21+0000",
-      "summary": "Grey Zabel is proving himself to be worth every bit of the No. 18 overall pick"
     },
     {
       "id": "82e681085bc1326b",
@@ -173,6 +173,15 @@
       "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
     },
     {
+      "id": "9091bba1962f60aa",
+      "title": "Colts veteran CB Charvarius Ward is contemplating retirement this early offseason",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120269/colts-veteran-cb-charvarius-ward-is-contemplating-retirement-this-offseason",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-05T16:27:29+0000",
+      "summary": "Indianapolis Colts former Pro Bowl veteran cornerback Charvarius Ward indicated to members of the local media on Monday morning that he’s contemplating retirement this offseason—after suffering three documented concussions this year, during his debut campaign in Indy (via The Athletic’s James Boyd): Obviously, his initial season didn’t go as either the Colts and Ward initially [&#8230;]"
+    },
+    {
       "id": "cf2e30341145b1f7",
       "title": "Colts sign 16 players to reserve/future contracts, sign LB Austin Ajiake to one-year contract extension",
       "link": "https://colts.com/news/colts-sign-16-players-to-reserve-future-contracts-sign-lb-austin-ajiake-to-one-year-contract-extension",
@@ -180,6 +189,15 @@
       "feed": "Colts.com",
       "published": "2026-01-05T16:14:10+0000",
       "summary": "The Colts made the roster moves on Monday."
+    },
+    {
+      "id": "d340d76ba98bc6f1",
+      "title": "Report: Titans request to interview Colts DC Lou Anarumo for head coaching opening",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120264/report-titans-request-to-interview-colts-dc-lou-anarumo-for-head-coaching-opening",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-05T16:05:03+0000",
+      "summary": "According to NFL Network’s Tom Pelissero, the Tennessee Titans have requested to interview Indianapolis Colts veteran defensive coordinator Lou Anarumo for their current head coaching vacancy—among other top candidates: The 59-year-old defensive coordinator just completed his debut campaign coaching the defense in Indianapolis, with ultimately up-and-down results, once the dust fully settled. The Colts defense [&#8230;]"
     },
     {
       "id": "84b5c3c94ae3db36",
@@ -200,6 +218,15 @@
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     },
     {
+      "id": "84aa736bed111a21",
+      "title": "Colts’ immediate season reactions and future outlook: Ballard &#038; Steichen confirmed for one more year",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120257/colts-immediate-season-reactions-and-future-outlook-ballard-steichen-confirmed-for-one-more-year",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-05T14:44:23+0000",
+      "summary": "This cursed season is finally over. Perhaps the one that hurt the most because of how it started, and how certain I was at 7-1 that this was the season it was going to be different. We can keep talking about that first 8 weeks and how perfect everything was back then, but there is [&#8230;]"
+    },
+    {
       "id": "9baa4a7ade7dfa07",
       "title": "Colts Blue Zone Podcast 454: Leonard's First Start; Colts Run It Back",
       "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-454-leonards-first-start-colts-run-it-back/",
@@ -207,6 +234,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-05T14:03:10+0000",
       "summary": "The Indianapolis Colts finished the season with a losing record for the second year in a row. While Alec Pierce played big and Riley Leonard showed promise, it wasn't enough to come away with the win. Despite this season's collapse--the Colts were once 8-2 and appeared to be a lock for the playoffs--GM Chris Ballard [...]"
+    },
+    {
+      "id": "78c84034e4ec6fe4",
+      "title": "Ballard is back with the Colts, and it has me singing the blues",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120245/ballard-is-back-with-the-colts-and-it-has-me-singing-the-blues",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-05T14:01:00+0000",
+      "summary": "The thrill is gone. The good vibes and tough nosed, no nonsense energy Chris Ballard brought to the table nearly a decade ago have long faded. Talk is cheap, but it appears to still hold some value because that is all Ballard has to offer to new ownership of the Indianapolis Colts. It worked, as [&#8230;]"
     },
     {
       "id": "32a8aea933538b20",
@@ -281,15 +317,6 @@
       "summary": "Both Indianapolis Colts head coach Shane Steichen and wide receiver Michael Pittman Jr. addressed their murky futures with the franchise post-game, following another disappointing late season collapse (via WISH-TV News and The Athletic’s James Boyd respectively): Regarding Steichen, the 40-year-old head coach has failed to make the playoffs in his first three years as Colts [&#8230;]"
     },
     {
-      "id": "ad86527679e34f4e",
-      "title": "Riley Leonard shows true potential in first NFL start as Colts season ends with seventh straight loss",
-      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/120182/riley-leonard-shows-promise-in-first-nfl-start-as-colts-season-ends-with-seventh-straight-loss",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T23:00:22+0000",
-      "summary": "The Indianapolis Colts closed the 2025 season with a 38-30 loss to the Houston Texans, spiraling to a seventh straight defeat and finishing with a losing record after a 7-1 start. Rookie quarterback Riley Leonard made his first NFL start against the league’s most unforgiving defense, but Indy’s sixth round draft pick started dealing out [&#8230;]"
-    },
-    {
       "id": "5a5633d4aa9ebb5d",
       "title": "Colts WR Alec Pierce ends 2025 with 1,000 yards, NFL-best yards per reception average and a career first: An ejection",
       "link": "https://colts.com/news/colts-wr-alec-pierce-ends-2025-with-1-000-yards-nfl-best-yards-per-reception-average-and-a-career-first-an-ejection",
@@ -317,24 +344,6 @@
       "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
     },
     {
-      "id": "b6f1920bbc25fc81",
-      "title": "Despite heroics from Leonard and Pierce, Colts lose 5th straight to Houston in finale",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120170/despite-heroics-from-leonard-and-pierce-colts-lose-5th-straight-to-houston-in-finale",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T21:52:21+0000",
-      "summary": "The Indianapolis Colts (8-9) both failed to make the playoffs and finish above .500, as they fell 38-30 to the Houston Texans (12-5) in the regular season finale. It was their fifth straight loss against the Texans. With Indianapolis already eliminated from the playoffs two weeks ago, and Houston already knowing it wouldn’t be winning [&#8230;]"
-    },
-    {
-      "id": "4e61eea5be292ad6",
-      "title": "Riley Leonard shows promise in strong debut as a first-time starter",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120161/riley-leonard-shows-promise-in-strong-debut-as-a-first-time-starter",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T21:35:02+0000",
-      "summary": "Rookie quarterback Riley Leonard showed that he belongs after his first NFL start against the Houston Texans in the Indianapolis Colts’ 2025-26 regular season finale. A sixth-round draft selection (189th overall) of the 2025 NFL Draft, Leonard went from training with fellow Alabama native Philip Rivers in the pre-draft process to learning directly from him [&#8230;]"
-    },
-    {
       "id": "17d397b18a9894e5",
       "title": "Colts drop season finale, 38-30 in Houston",
       "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
@@ -353,15 +362,6 @@
       "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
     },
     {
-      "id": "d3d6d4e379151752",
-      "title": "Alec Pierce records first 1000-yard season of his career",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120151/alec-pierce-records-first-1000-yard-season-of-his-career",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T20:54:18+0000",
-      "summary": "Houston, we have a problem — it’s called stopping Indianapolis Colts wide receiver Alec Pierce. After hauling in a 53-yard reception from rookie quarterback Riley Leonard, Pierce notched his first career 1,000+ yard season after four seasons in Indianapolis. It’s the first 1,000-yard season from a Colts passcatcher since Michael Pittman Jr. had 1,152 receiving [&#8230;]"
-    },
-    {
       "id": "09ad72a30dc24f6c",
       "title": "Colts' 2026 opponents finalized",
       "link": "https://colts.com/news/colts-2026-opponents-finalized",
@@ -371,15 +371,6 @@
       "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
     },
     {
-      "id": "164241c86b1af35b",
-      "title": "Week 18 Colts vs. Texans Game discussion",
-      "link": "https://stampedeblue.com/gamethreads/120132/week-18-colts-vs-texans-game-discussion-shane-steichen-chris-ballard-daniel-jones-anthony-richardson-philip-rivers-cj-stroud",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T17:55:00+0000",
-      "summary": "The Indianapolis Colts are on the road to take on the Houston Texans in week 18 of the 2025 season, kickoff is at 1:00 p.m. EST. Well this is it. The season ends today. The season didn’t go the way anyone wanted it to, but there were plenty of highs to go along with even more lows. [&#8230;]"
-    },
-    {
       "id": "849304200547adb3",
       "title": "Keys to the Game: Colts at Texans",
       "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-texans-2/",
@@ -387,15 +378,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T17:49:42+0000",
       "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
-    },
-    {
-      "id": "ba91207f0b70a20a",
-      "title": "Colts announce Week 18 inactives against Texans for regular season finale",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120141/colts-announce-week-18-inactives-against-texans-for-regular-season-finale",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-04T17:05:05+0000",
-      "summary": "The Indianapolis Colts announced their Week 18 inactives on the road against the Houston Texans for the regular season finale: No real surprises here, as cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) had already been ruled out ahead of the weekend. Given that the Colts have already been eliminated from playoff contention, [&#8230;]"
     },
     {
       "id": "ff6b8bc28d66c3b9",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-30T19:57:47+0000",
       "summary": "The Colts released their unofficial depth chart ahead of their Week 18 game against the Houston Texans at NRG Stadium. Check it out below:"
+    },
+    {
+      "id": "a16d75cef6d69682",
+      "title": "Colts special teams coordinator Brian Mason weighs in on Adam Vinatieri's Hall of Fame candidacy: 'Greatest kicker of all time'",
+      "link": "https://colts.com/news/colts-special-teams-coordinator-brian-adam-vinatieri-hall-of-fame-candidacy-finalist-2026-greatest-kicker-of-all-time",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T18:37:10+0000",
+      "summary": "Vinatieri was named a finalist for the Pro Football Hall of Fame Class of 2026 on Tuesday."
+    },
+    {
+      "id": "0244cad596da5386",
+      "title": "Colts sign CB Wyett Ekeler to practice squad, release T Zach Thomas from practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-wyett-ekeler-to-practice-squad-release-t-zach-thomas-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T18:34:09+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
     }
   ],
   "links": [
