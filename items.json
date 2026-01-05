@@ -1,32 +1,23 @@
 {
-  "updated": "2026-01-05T07:27:24+00:00",
+  "updated": "2026-01-05T07:49:16+00:00",
   "items": [
     {
-      "id": "2cdcb0ea9776e2c1",
-      "title": "Dallas Cowboys' full list of 2026 NFL opponents revealed",
-      "link": "https://sports.yahoo.com/articles/dallas-cowboys-full-list-2026-063736939.html",
+      "id": "94c1738c25b01f05",
+      "title": "NFL wild-card preview: Which 6 teams have the most juice heading into their Round 1 matchup?",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-wild-card-preview-which-6-teams-have-the-most-juice-heading-into-their-round-1-matchup-072646868.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T06:37:36+0000",
-      "summary": "It's time for fans in Dallas to focus on the future."
+      "published": "2026-01-05T07:26:46+0000",
+      "summary": "As the wild-card round unfolds, you'll notice that the bracket is wide open for a team to exert their dominance or pull off an upset."
     },
     {
-      "id": "82b3e1099cd8990c",
-      "title": "Full list of Pittsburgh Steelers' 2026 NFL opponents revealed",
-      "link": "https://sports.yahoo.com/articles/full-list-pittsburgh-steelers-2026-062236009.html",
+      "id": "dc095701e368cf53",
+      "title": "2026 NFL playoffs: Bracket, schedule, predictions for postseason games",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-playoffs-bracket-schedule-064025102.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-05T06:22:36+0000",
-      "summary": "Pittsburgh will play a first-place schedule next season."
-    },
-    {
-      "id": "dcc36028ce1d1502",
-      "title": "Steelers win AFC North as Ravens' kick sails wide",
-      "link": "https://espn.com/nfl/story/_/id/47509668/steelers-take-afc-north-title-ravens-miss-last-second-fg",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T06:04:06+0000",
-      "summary": "The Steelers won the AFC North title and secured the last NFL playoff spot with a dramatic 26-24 win over the Ravens on Sunday night."
+      "published": "2026-01-05T06:40:25+0000",
+      "summary": "The NFL playoffs bracket is set. So, how will all 14 of the postseason teams perform in their quest for the Super Bowl?"
     },
     {
       "id": "f6b7c4d4d301aa3f",
@@ -99,15 +90,6 @@
       "feed": "ESPN",
       "published": "2026-01-05T01:48:50+0000",
       "summary": "Before the Week 18 NFL slate kicked off, players made sure to put their most fashionable foot forward."
-    },
-    {
-      "id": "039ccd271dc2201c",
-      "title": "Indianapolis Colts 2026 opponents: Home, away matchups confirmed",
-      "link": "https://stampedeblue.com/indianapolis-colts-schedule/119886/opponents-2026-nfl-afc-south-home-away-matchups",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T01:11:40+0000",
-      "summary": "The Indianapolis Colts have been locked into third place in the AFC South for a while, but their opponents for the 2026 season weren’t set until the end of the regular season. In addition to the regular rotations against the AFC South, the Colts play the NFC East and the AFC North. The same-ranked NFC [&#8230;]"
     },
     {
       "id": "48dc7f7b8c4f088f",
@@ -279,6 +261,15 @@
       "feed": "Stampede Blue",
       "published": "2026-01-04T17:05:05+0000",
       "summary": "The Indianapolis Colts announced their Week 18 inactives on the road against the Houston Texans for the regular season finale: No real surprises here, as cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) had already been ruled out ahead of the weekend. Given that the Colts have already been eliminated from playoff contention, [&#8230;]"
+    },
+    {
+      "id": "a65a7ecdf7230cc2",
+      "title": "Where to Watch: Colts at Texans for Week 18",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120130/where-to-watch-colts-at-texans-for-week-18",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-04T16:45:14+0000",
+      "summary": "The Indianapolis Colts (8-8) travel to the infamous ‘House that T.Y. Hilton Built’ to take on the Houston Texans (11-5)(-9.5), who have already clinched a playoff berth, but could still win the division with a victory today. Kickoff is Sunday at 1 PM EST. While Colts fans wish this particular Texas trip was under better [&#8230;]"
     },
     {
       "id": "ff6b8bc28d66c3b9",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2025-12-29T04:41:25+0000",
       "summary": "The NFL announced its Week 18 schedule Sunday night."
+    },
+    {
+      "id": "ba6e4b46b0d6b845",
+      "title": "Colts’ Philip Rivers: If Sunday was his final start (again), ‘it’s been a blast’",
+      "link": "https://fox59.com/sports/colts/colts-philip-rivers-if-sunday-was-his-final-start-again-its-been-a-blast/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-29T00:56:55+0000",
+      "summary": "INDIANAPOLIS – It’s been a while, but we’ve been here before. A veteran quarterback with a resume worthy of Canton, Ohio, makes his final start of the season and walks out of a stadium tunnel into retirement. That was Philip Rivers five years ago at Bills Stadium in Orchard Park, N.Y. And that was Philip [...]"
     }
   ],
   "links": [
