@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-06T11:18:21+00:00",
+  "updated": "2026-01-06T11:40:13+00:00",
   "items": [
+    {
+      "id": "876eac365b6d7c94",
+      "title": "Grading the Vikings offense by position based on the 2025 NFL season",
+      "link": "https://sports.yahoo.com/articles/grading-vikings-offense-position-based-105601660.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T10:56:01+0000",
+      "summary": "With the regular season wrapped up, let's hand out some grades. Click here to see the offensive grades for the Minnesota Vikings in 2025!"
+    },
     {
       "id": "4d67490e8158dbc3",
       "title": "2026 NFL schedule: Bills home, away opponents slated for next season",
@@ -9,33 +18,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-06T10:46:09+0000",
       "summary": "Here's a quick look at the Bills' opponent for the 2026 NFL season."
-    },
-    {
-      "id": "deba6749e155c783",
-      "title": "CBS Sports ranks Falcons No. 1 head coaching vacancy in 2026",
-      "link": "https://sports.yahoo.com/articles/cbs-sports-ranks-falcons-no-103113142.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T10:31:13+0000",
-      "summary": "Atlanta Falcons ranked NFL's top head coaching vacancy by CBS Sports"
-    },
-    {
-      "id": "18ecd02fd10c359d",
-      "title": "Georgia football All-SEC LB makes NFL draft decision",
-      "link": "https://sports.yahoo.com/articles/georgia-football-sec-lb-makes-102125333.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T10:21:25+0000",
-      "summary": "The Georgia Bulldogs will have to replace their leading tackler and second-leading sack producer from 2025"
-    },
-    {
-      "id": "9be70d8d45c9c44c",
-      "title": "Bo Nix ties Russell Wilson's NFL record with 24 wins in his first two seasons",
-      "link": "https://sports.yahoo.com/articles/bo-nix-ties-russell-wilsons-101523877.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T10:15:23+0000",
-      "summary": "The Broncos concluded a 14-3 season on Sunday, with Bo Nix starting every game."
     },
     {
       "id": "bbe2bca0d8360c7c",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-30T18:34:09+0000",
       "summary": "The Colts made the roster moves on Tuesday."
+    },
+    {
+      "id": "578f1924219a1b96",
+      "title": "Source: Colts starting rookie Riley Leonard at Houston",
+      "link": "https://fox59.com/sports/colts/source-colts-starting-rookie-riley-leonard-at-houston/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-30T16:30:51+0000",
+      "summary": "INDIANAPOLIS – The football’s in Riley Leonard’s hands. The rookie quarterback will make his first career start Sunday when the Indianapolis Colts close their disappointing season at Houston, according to a source with knowledge of the situation. Coach Shane Steichen said Monday there would be internal discussions regarding whether to stick with veteran Philip Rivers [...]"
+    },
+    {
+      "id": "203c04e471c25d28",
+      "title": "Colts greats Adam Vinatieri, Reggie Wayne among 15 finalists for Pro Football Hall of Fame Class of 2026",
+      "link": "https://colts.com/news/colts-greats-adam-vinatieri-reggie-wayne-among-15-finalists-for-pro-football-hall-of-fame-class-of-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T14:00:09+0000",
+      "summary": "Vinatieri is in his second year of Hall of Fame eligibility, while Wayne has been named a finalist now in each of his seven years of eligibility."
     }
   ],
   "links": [
