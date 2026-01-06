@@ -1,14 +1,23 @@
 {
-  "updated": "2026-01-06T03:28:08+00:00",
+  "updated": "2026-01-06T04:25:05+00:00",
   "items": [
     {
-      "id": "fc056d68116c08b9",
-      "title": "NFL Playoff Schedule: How To Watch All Football Games Livestreams Online & On TV Leading Up To Super Bowl 2026",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-watch-football-030015217.html",
+      "id": "a83002637afea76a",
+      "title": "Drake Maye’s MVP-caliber season propelling Patriots entering playoffs",
+      "link": "https://sports.yahoo.com/articles/drake-maye-mvp-caliber-season-041615746.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-06T03:00:15+0000",
-      "summary": "The 2025 NFL regular season has ended, and the football league has set the postseason schedule leading up to Super Bowl LX. Fourteen teams will continue on their road to the Vince Lombardi Trophy, which will be hosted at Levi’s Stadium in Santa Clara, California, on Sunday, February 8. However, to reach the biggest game of …"
+      "published": "2026-01-06T04:16:15+0000",
+      "summary": "Maye finished the regular season with a 72.0 completion percentage, the highest in team history and the sixth-best in NFL history. He bettered the mark of Tom Brady, who had a 68.9 completion percentage in 2007. That was also the last time a Patriots quarterback led the NFL in completion percentage."
+    },
+    {
+      "id": "bbe2bca0d8360c7c",
+      "title": "Browns fire coach Stefanski, will keep GM Berry",
+      "link": "https://espn.com/nfl/story/_/id/47512228/browns-fire-head-coach-kevin-stefanski-6-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-06T04:02:00+0000",
+      "summary": "The Browns have fired Kevin Stefanski, who was twice named the NFL's Coach of the Year over the past six seasons but also led Cleveland to consecutive last-place finishes."
     },
     {
       "id": "2fe909ef1cccf68e",
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47518751/colts-owner-carlie-irsay-gordon-says-sense-urgency-returning-shane-steichen-chris-ballard-deliver-never-higher",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-06T01:26:06+0000",
+      "published": "2026-01-06T04:02:00+0000",
       "summary": "Colts owner Carlie Irsay-Gordon spoke Monday about the decision to retain the team's leadership despite a seven-game, season-ending losing streak, referring multiple times to a \"sense of urgency\" going forward."
     },
     {
@@ -25,8 +34,17 @@
       "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-06T01:26:06+0000",
+      "published": "2026-01-06T04:02:00+0000",
       "summary": "The NFL offseason has arrived for 18 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
+    },
+    {
+      "id": "0b49420b668c5ab7",
+      "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
+      "link": "https://espn.com/nfl/story/_/id/47456323/2025-nfl-playoffs-bracket-wild-card-preview-stats-schedule-super-bowl-lx-odds",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-06T04:01:58+0000",
+      "summary": "The 2025 NFL playoff field is set, and an exciting wild-card round looms. Here's everything to know about the 14 teams vying to win Super Bowl LX."
     },
     {
       "id": "99992d5c3ab58746",
@@ -63,24 +81,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T21:40:20+0000",
       "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "b6bddd54aa5c3947",
-      "title": "Colts’ Carlie Irsay-Gordon on embattled team leadership: ‘The sense of urgency has never been higher’",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120284/colts-carlie-irsay-gordon-on-embattled-team-leadership-the-sense-of-urgency-has-never-been-higher",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T21:36:42+0000",
-      "summary": "According to new team owner and CEO Carlie Irsay-Gordon, the sense of urgency for the Indianapolis Colts “has never been higher” following another late season collapse that saw her franchise lose 7 straight games and be eliminated from playoff contention yet again—after such a promising 8-2 start. As you may likely recall, the Colts have [&#8230;]"
-    },
-    {
-      "id": "0b49420b668c5ab7",
-      "title": "The NFL playoffs are here! Our guide to all 14 teams, from favorites to underdogs",
-      "link": "https://espn.com/nfl/story/_/id/47456323/2025-nfl-playoffs-bracket-wild-card-preview-stats-schedule-super-bowl-lx-odds",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-05T21:18:23+0000",
-      "summary": "The 2025 NFL playoff field is set, and an exciting wild-card round looms. Here's everything to know about the 14 teams vying to win Super Bowl LX."
     },
     {
       "id": "32a8aea933538b20",
@@ -279,6 +279,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T23:30:21+0000",
       "summary": "INDIANAPOLIS – Apparently, Carlie Irsay-Gordon saw all she needed to see 10 games into her first year as the tri-steward of the franchise her late father at one time built into a world champion. She has decided to give general manager Chris Ballard and coach Shane Steichen another opportunity to turn around the Indianapolis Colts, [...]"
+    },
+    {
+      "id": "0127271dca837c2a",
+      "title": "Colts’ Shane Steichen, Michael Pittman Jr. address uncertain team futures postgame",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120184/colts-head-coach-shane-steichen-michael-pittman-jr-address-uncertain-futures",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-04T23:28:16+0000",
+      "summary": "Both Indianapolis Colts head coach Shane Steichen and wide receiver Michael Pittman Jr. addressed their murky futures with the franchise post-game, following another disappointing late season collapse (via WISH-TV News and The Athletic’s James Boyd respectively): Regarding Steichen, the 40-year-old head coach has failed to make the playoffs in his first three years as Colts [&#8230;]"
     },
     {
       "id": "5a5633d4aa9ebb5d",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-30T14:00:00+0000",
       "summary": "INDIANAPOLIS – Reggie Wayne and Adam Vinatieri are once again knocking on the door in Canton, Ohio. The two long-time Indianapolis Colts’ standouts are among 15 modern-era Finalists for the Pro Football Hall of Fame’s Class of 2026. Wayne, one of the most prolific receivers in NFL history, has reached the final 15 in each [...]"
-    },
-    {
-      "id": "a8fbd4f961173739",
-      "title": "Colts’ Laiatu Latu: Late-season fade frustrating, depressing",
-      "link": "https://fox59.com/sports/colts/colts-laiatu-latu-late-season-fade-frustrating-depressing/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2025-12-29T22:46:56+0000",
-      "summary": "INDIANAPOLIS – The emotions were raw, and the byproduct of another season that’s gone so very wrong. Even though Laiatu Latu and Bernhard Raimann were discussing various topics via a Zoom conference call, each battled to keep his frustrations in check a day after the Indianapolis Colts’ death spiral continued with a sixth consecutive loss [...]"
     }
   ],
   "links": [
