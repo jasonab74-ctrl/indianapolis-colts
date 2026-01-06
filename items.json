@@ -1,33 +1,6 @@
 {
-  "updated": "2026-01-06T04:57:01+00:00",
+  "updated": "2026-01-06T05:28:32+00:00",
   "items": [
-    {
-      "id": "cb32b9b37966e1b3",
-      "title": "Why Riley Moss is drawing comparisons to Broncos legend Champ Bailey",
-      "link": "https://sports.yahoo.com/articles/why-riley-moss-drawing-comparisons-043132311.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T04:31:32+0000",
-      "summary": "The third-year cornerback led the NFL in one unique stat."
-    },
-    {
-      "id": "20730dc058306f48",
-      "title": "Opening Odds: Houston Texans @ Pittsburgh Steelers for Wild Card Weekend",
-      "link": "https://sports.yahoo.com/articles/opening-odds-houston-texans-pittsburgh-043000748.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T04:30:00+0000",
-      "summary": "It’s playoff time! The most exciting time of the year, when we get rid of the pretenders of the NFL and get down to the teams that actually might get to the Super Bowl. As part of Wild Card Weekend, we get the Houston Texans, the #5 seed in the AFC, travelling to the Pittsburgh […]"
-    },
-    {
-      "id": "a83002637afea76a",
-      "title": "Drake Maye’s MVP-caliber season propelling Patriots entering playoffs",
-      "link": "https://sports.yahoo.com/articles/drake-maye-mvp-caliber-season-041615746.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T04:16:15+0000",
-      "summary": "Maye finished the regular season with a 72.0 completion percentage, the highest in team history and the sixth-best in NFL history. He bettered the mark of Tom Brady, who had a 68.9 completion percentage in 2007. That was also the last time a Patriots quarterback led the NFL in completion percentage."
-    },
     {
       "id": "bbe2bca0d8360c7c",
       "title": "Browns fire coach Stefanski, will keep GM Berry",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2025-12-30T16:30:51+0000",
       "summary": "INDIANAPOLIS – The football’s in Riley Leonard’s hands. The rookie quarterback will make his first career start Sunday when the Indianapolis Colts close their disappointing season at Houston, according to a source with knowledge of the situation. Coach Shane Steichen said Monday there would be internal discussions regarding whether to stick with veteran Philip Rivers [...]"
+    },
+    {
+      "id": "203c04e471c25d28",
+      "title": "Colts greats Adam Vinatieri, Reggie Wayne among 15 finalists for Pro Football Hall of Fame Class of 2026",
+      "link": "https://colts.com/news/colts-greats-adam-vinatieri-reggie-wayne-among-15-finalists-for-pro-football-hall-of-fame-class-of-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T14:00:09+0000",
+      "summary": "Vinatieri is in his second year of Hall of Fame eligibility, while Wayne has been named a finalist now in each of his seven years of eligibility."
+    },
+    {
+      "id": "c2d5faf06ea43400",
+      "title": "Colts standouts Reggie Wayne, Adam Vinatieri among 15 modern-era finalists for Hall of Fame Class of 2026",
+      "link": "https://fox59.com/sports/colts/colts-standouts-reggie-wayne-adam-vinatieri-among-15-modern-era-finalists-for-hall-of-fame-class-of-2026/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-30T14:00:00+0000",
+      "summary": "INDIANAPOLIS – Reggie Wayne and Adam Vinatieri are once again knocking on the door in Canton, Ohio. The two long-time Indianapolis Colts’ standouts are among 15 modern-era Finalists for the Pro Football Hall of Fame’s Class of 2026. Wayne, one of the most prolific receivers in NFL history, has reached the final 15 in each [...]"
+    },
+    {
+      "id": "a8fbd4f961173739",
+      "title": "Colts’ Laiatu Latu: Late-season fade frustrating, depressing",
+      "link": "https://fox59.com/sports/colts/colts-laiatu-latu-late-season-fade-frustrating-depressing/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-29T22:46:56+0000",
+      "summary": "INDIANAPOLIS – The emotions were raw, and the byproduct of another season that’s gone so very wrong. Even though Laiatu Latu and Bernhard Raimann were discussing various topics via a Zoom conference call, each battled to keep his frustrations in check a day after the Indianapolis Colts’ death spiral continued with a sixth consecutive loss [...]"
     }
   ],
   "links": [
