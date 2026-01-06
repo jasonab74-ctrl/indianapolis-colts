@@ -1,41 +1,14 @@
 {
-  "updated": "2026-01-06T19:16:08+00:00",
+  "updated": "2026-01-06T19:39:26+00:00",
   "items": [
     {
-      "id": "b8f61af1f8d2a16f",
-      "title": "NFL MVP debate will continue until a winner is announced next month",
-      "link": "https://sports.yahoo.com/articles/nfl-mvp-debate-continue-until-190548195.html",
+      "id": "b55faca70a47286c",
+      "title": "NFL power rankings: Where do 49ers rank heading into the playoffs?",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-where-49ers-193035542.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-06T19:05:48+0000",
-      "summary": "The NFL regular season has ended and the MVP debate continues.  Matthew Stafford and Drake Maye have the best odds, according to BetMGM Sportsbook.  Winners of the AP NFL awards will be revealed at “NFL Honors” on Feb. 5."
-    },
-    {
-      "id": "b124bd255b0dd63a",
-      "title": "Colts' ownership with letter to fanbase following 2025 season",
-      "link": "https://sports.yahoo.com/articles/colts-ownership-letter-fanbase-following-190008473.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T19:00:08+0000",
-      "summary": "The Colts' ownership has shared a letter with the fanbase following the ending of the 2025 season."
-    },
-    {
-      "id": "60f738ae18213d63",
-      "title": "Pro Blue: Devin Bush scores on 97-yard pick-six to end stellar season & Wolverines to watch in the NFL Playoffs",
-      "link": "https://sports.yahoo.com/articles/pro-blue-devin-bush-scores-190000355.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T19:00:00+0000",
-      "summary": "In the Browns’ regular season finale, Devin Bush had his best game of the season, including a 97-yard pick six. We got a loaded edition of Pro Blue, including a guide to which former Wolverines to watch in the NFL playoffs:"
-    },
-    {
-      "id": "0bf5b8e867cb23b7",
-      "title": "Ryen Russillo Explains Why Patriots’ Drake Maye Deserves To Win MVP",
-      "link": "https://sports.yahoo.com/articles/ryen-russillo-explains-why-patriots-185800602.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T18:58:00+0000",
-      "summary": "Everyone’s talking about the NFL MVP race between New England Patriots QB Drake Maye and Los Angeles Rams QB Matthew Stafford, especially now that the regular season has ended and resumés for both players in 2025 are set in stone. Plenty of analysts have weighed in on the race, with Tom Brady choosing Stafford and […]"
+      "published": "2026-01-06T19:30:35+0000",
+      "summary": "The San Francisco 49ers are entering the playoffs as the sixth seed in the NFC playoffs, but where do they rank in the most recent power rankings?"
     },
     {
       "id": "bcc1f4e528edd74f",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2025-12-31T16:27:24+0000",
       "summary": "Leonard will make his first career start in the Colts' final game of the 2025 season."
+    },
+    {
+      "id": "0cb4989510cbaf1d",
+      "title": "Colts release unofficial depth chart for Week 18 game vs. Houston Texans",
+      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-18-game-vs-houston-texans-philip-rivers-riley-leonard",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T19:57:47+0000",
+      "summary": "The Colts released their unofficial depth chart ahead of their Week 18 game against the Houston Texans at NRG Stadium. Check it out below:"
+    },
+    {
+      "id": "a16d75cef6d69682",
+      "title": "Colts special teams coordinator Brian Mason weighs in on Adam Vinatieri's Hall of Fame candidacy: 'Greatest kicker of all time'",
+      "link": "https://colts.com/news/colts-special-teams-coordinator-brian-adam-vinatieri-hall-of-fame-candidacy-finalist-2026-greatest-kicker-of-all-time",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T18:37:10+0000",
+      "summary": "Vinatieri was named a finalist for the Pro Football Hall of Fame Class of 2026 on Tuesday."
+    },
+    {
+      "id": "0244cad596da5386",
+      "title": "Colts sign CB Wyett Ekeler to practice squad, release T Zach Thomas from practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-wyett-ekeler-to-practice-squad-release-t-zach-thomas-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T18:34:09+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
     }
   ],
   "links": [
