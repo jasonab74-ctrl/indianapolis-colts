@@ -1,14 +1,23 @@
 {
-  "updated": "2026-01-06T14:49:01+00:00",
+  "updated": "2026-01-06T15:21:56+00:00",
   "items": [
     {
-      "id": "4313485c25e37423",
-      "title": "Former Browns HC Kevin Stefanski was against the Deshaun Watson trade",
-      "link": "https://sports.yahoo.com/articles/former-browns-hc-kevin-stefanski-143756920.html",
+      "id": "348dcf347c738b59",
+      "title": "Making the case for Packers' Daniel Whelan as first-team All-Pro punter in 2025",
+      "link": "https://sports.yahoo.com/articles/making-case-packers-daniel-whelan-151316212.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-06T14:37:56+0000",
-      "summary": "NFL on CBS reports that former Browns' head coach Kevin Stefanski was against the Deshaun Watson trade, the worst trade in NFL history."
+      "published": "2026-01-06T15:13:16+0000",
+      "summary": "Packers punter Daniel Whelan should be the first-team All-Pro punter in the NFL in 2025. Here's why."
+    },
+    {
+      "id": "a2e015873d402595",
+      "title": "Texas defender named 'good fit' for Colts in 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/texas-defender-named-good-fit-151306878.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T15:13:06+0000",
+      "summary": "By one ESPN analyst, this Texas defender was named a &quot;good fit&quot; for the Indianapolis Colts in the 2026 NFL draft."
     },
     {
       "id": "bbe2bca0d8360c7c",
@@ -29,24 +38,6 @@
       "summary": "The NFL offseason has arrived for 18 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
     },
     {
-      "id": "c706e627fda1cd52",
-      "title": "NFL insider's telling comment on Trey Hendrickson’s Bengals future",
-      "link": "https://sports.yahoo.com/articles/nfl-insiders-telling-trey-hendrickson-143420247.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T14:34:20+0000",
-      "summary": "One reporter makes a strong claim about Trey Hendrickson and the Bengals."
-    },
-    {
-      "id": "c7cdf5ae05ee48ea",
-      "title": "Minnesota Vikings statistical leaders from the 2025 NFL season",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-statistical-leaders-2025-143225327.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T14:32:25+0000",
-      "summary": "As the regular season has come to a close, we take a look at the statistical leaders for the Minnesota Vikings in 2025."
-    },
-    {
       "id": "48deadad0fa3bcd7",
       "title": "The NFL draft order is set, so let’s project Round 1: Reid finds landing spots for 32 top prospects",
       "link": "https://espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
@@ -54,15 +45,6 @@
       "feed": "ESPN",
       "published": "2026-01-06T14:29:21+0000",
       "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
-    },
-    {
-      "id": "d42a0c6c4e653e48",
-      "title": "PFT's final 2025 NFL power rankings: Seahawks are the kings",
-      "link": "https://sports.yahoo.com/articles/pfts-final-2025-nfl-power-141619439.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T14:16:19+0000",
-      "summary": "The NFC's No. 1 seed is the NFL's No. 1 team."
     },
     {
       "id": "8b23e542fb6086fa",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2025-12-30T18:37:10+0000",
       "summary": "Vinatieri was named a finalist for the Pro Football Hall of Fame Class of 2026 on Tuesday."
+    },
+    {
+      "id": "0244cad596da5386",
+      "title": "Colts sign CB Wyett Ekeler to practice squad, release T Zach Thomas from practice squad",
+      "link": "https://colts.com/news/colts-sign-cb-wyett-ekeler-to-practice-squad-release-t-zach-thomas-from-practice-squad",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2025-12-30T18:34:09+0000",
+      "summary": "The Colts made the roster moves on Tuesday."
+    },
+    {
+      "id": "578f1924219a1b96",
+      "title": "Source: Colts starting rookie Riley Leonard at Houston",
+      "link": "https://fox59.com/sports/colts/source-colts-starting-rookie-riley-leonard-at-houston/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2025-12-30T16:30:51+0000",
+      "summary": "INDIANAPOLIS – The football’s in Riley Leonard’s hands. The rookie quarterback will make his first career start Sunday when the Indianapolis Colts close their disappointing season at Houston, according to a source with knowledge of the situation. Coach Shane Steichen said Monday there would be internal discussions regarding whether to stick with veteran Philip Rivers [...]"
     }
   ],
   "links": [
