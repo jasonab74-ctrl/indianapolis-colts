@@ -1,6 +1,51 @@
 {
-  "updated": "2026-01-06T20:22:56+00:00",
+  "updated": "2026-01-06T20:45:13+00:00",
   "items": [
+    {
+      "id": "6a5142026417e806",
+      "title": "Tom Brady makes his pick for 2025 NFL MVP",
+      "link": "https://sports.yahoo.com/articles/tom-brady-makes-pick-2025-203237206.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T20:32:37+0000",
+      "summary": "Brady won the award three times over the course of his career."
+    },
+    {
+      "id": "b7f067cc81792361",
+      "title": "MVP candidate Drake Maye finishes regular season as NFL’s breakout card star",
+      "link": "https://sports.yahoo.com/articles/mvp-candidate-drake-maye-finishes-203000794.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T20:30:00+0000",
+      "summary": "Patriots QB has been the top-selling football player over the last six months"
+    },
+    {
+      "id": "00d6b6c98ad40399",
+      "title": "Chicago Bears look for better start against the Green Bay Packers in prime-time playoff opener",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-look-better-start-202633329.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T20:26:33+0000",
+      "summary": "The Chicago Bears trailed at halftime in four of their last five regular-season games.  “There’s a process I believe in in terms of how we prepare these guys,” Chicago coach Ben Johnson said Tuesday.  Time is of the essence, too — with the Green Bay Packers coming to Soldier Field on Saturday night for the opening weekend of the NFL playoffs."
+    },
+    {
+      "id": "ad8c932d140dcd13",
+      "title": "Bill Belichick gives honest answer on how Giants, Titans, Falcons openings impact his future at UNC",
+      "link": "https://sports.yahoo.com/articles/bill-belichick-gives-honest-answer-202026168.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T20:20:26+0000",
+      "summary": "The former NFL coach eyeing a second-wind stint?"
+    },
+    {
+      "id": "165cac293f955d81",
+      "title": "Giants request HC interview with Indianapolis Colts’ DC Lou Anarumo",
+      "link": "https://sports.yahoo.com/articles/giants-request-hc-interview-indianapolis-201827475.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-06T20:18:27+0000",
+      "summary": "Anarumo has connections to Joe Schoen and to Giants."
+    },
     {
       "id": "48deadad0fa3bcd7",
       "title": "The NFL draft order is set, so let’s project Round 1: Reid finds landing spots for 32 top prospects",
@@ -18,24 +63,6 @@
       "feed": "ESPN",
       "published": "2026-01-06T20:16:05+0000",
       "summary": "The NFL offseason has arrived for 17 teams. What must each do? We have outlooks, early buzz and predictions."
-    },
-    {
-      "id": "0a6d0761e771d851",
-      "title": "Clay Matthew tells funny story of how Aaron Donald cost him $250K",
-      "link": "https://sports.yahoo.com/articles/clay-matthew-tells-funny-story-201429022.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T20:14:29+0000",
-      "summary": "Aaron Donald called the NFL to make sure he got full credit for a sack in 2019, which cost his teammate Clay Matthews $250,000."
-    },
-    {
-      "id": "81238157b1951fc7",
-      "title": "Colts defensive coordinator Lou Anarumo will interview with NFL teams. What we know",
-      "link": "https://sports.yahoo.com/articles/colts-defensive-coordinator-lou-anarumo-200545473.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-06T20:05:45+0000",
-      "summary": "Anarumo, 59, has been a finalist in Arizona before, and he interviewed with the Giants in 2022."
     },
     {
       "id": "203508d9062a8936",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2025-12-31T18:54:14+0000",
       "summary": "INDIANAPOLIS – Riley Leonard is No. 1, and he understands the magnitude that carries. As expected, Shane Steichen decided the best course for the Indianapolis Colts in their inconsequential season finale Sunday at Houston was to turn from veteran Philip Rivers to his Fairhope, Alabama, neighbor/friend/rookie. That would be Leonard. “Riley’s going to be our [...]"
-    },
-    {
-      "id": "a0f3dfc15e73f27c",
-      "title": "Practice Notebook: Anthony Richardson Sr. improving but still not '100 percent'; will not be activated for Week 18",
-      "link": "https://colts.com/news/practice-notebook-anthony-richardson-sr-eye-injury-improving-vision-limitations-injured-reserve-week-18-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-31T18:44:13+0000",
-      "summary": "Richardson said on Wednesday that he is still dealing with vision limitations from the freak injury he sustained during pregame warmups in Week 6."
-    },
-    {
-      "id": "733da1575a1e7c4d",
-      "title": "Colts to start Riley Leonard at quarterback for Week 18 game vs. Houston Texans; Anthony Richardson Sr. will not be activated off injured reserve",
-      "link": "https://colts.com/news/colts-to-start-riley-leonard-at-quarterback-for-week-18-game-vs-houston-texans-anthony-richardson-sr-will-not-be-activated-off-injured-reserve",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-31T16:27:24+0000",
-      "summary": "Leonard will make his first career start in the Colts' final game of the 2025 season."
-    },
-    {
-      "id": "0cb4989510cbaf1d",
-      "title": "Colts release unofficial depth chart for Week 18 game vs. Houston Texans",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-week-18-game-vs-houston-texans-philip-rivers-riley-leonard",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2025-12-30T19:57:47+0000",
-      "summary": "The Colts released their unofficial depth chart ahead of their Week 18 game against the Houston Texans at NRG Stadium. Check it out below:"
     }
   ],
   "links": [
