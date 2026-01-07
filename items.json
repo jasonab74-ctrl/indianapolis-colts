@@ -1,13 +1,22 @@
 {
-  "updated": "2026-01-07T21:18:53+00:00",
+  "updated": "2026-01-07T21:41:56+00:00",
   "items": [
+    {
+      "id": "6c8c8a2bf81416af",
+      "title": "The fastest, longest, most improbable NFL plays of 2025",
+      "link": "https://espn.com/nfl/story/_/id/47531020/nfl-next-gen-fastest-longest-plays-aaron-rodgers-caleb-williams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-07T21:35:38+0000",
+      "summary": "From the real speed of Jahmyr Gibbs to the relative speed of Aaron Rodgers, Next Gen Stats had the most thrilling plays of 2025."
+    },
     {
       "id": "b3915a9a4537b6f3",
       "title": "Bama QB Simpson says he's headed to NFL draft",
       "link": "https://espn.com/college-football/story/_/id/47539318/alabama-qb-ty-simpson-says-entering-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-07T21:01:18+0000",
+      "published": "2026-01-07T21:33:08+0000",
       "summary": "Alabama quarterback Ty Simpson is declaring for the NFL draft, he announced Wednesday on Instagram."
     },
     {
@@ -16,17 +25,8 @@
       "link": "https://espn.com/college-football/story/_/id/47540494/ohio-state-star-safety-caleb-downs-declares-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-07T21:01:18+0000",
+      "published": "2026-01-07T21:33:08+0000",
       "summary": "Ohio State star safety Caleb Downs, a projected top-10 pick, announced on social media Wednesday that he is declaring for the 2026 NFL draft."
-    },
-    {
-      "id": "61bda99c5b432824",
-      "title": "NFL averages 18.7M viewers per game, up 10%",
-      "link": "https://espn.com/nfl/story/_/id/47541246/nfl-viewership-10-percent-season-187m-per-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T21:01:18+0000",
-      "summary": "The NFL averaged 18.7 million viewers per game during the regular season, the second highest since audience averages began being kept in 1988."
     },
     {
       "id": "48deadad0fa3bcd7",
@@ -34,26 +34,44 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-07T21:01:18+0000",
+      "published": "2026-01-07T21:33:08+0000",
       "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
     },
     {
-      "id": "d5da7f6306dc83dd",
-      "title": "Is Travis Kelce Retiring? Everything the NFL Star Has Said About His 'Tough' Decision",
-      "link": "https://sports.yahoo.com/articles/travis-kelce-retiring-everything-nfl-210000466.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-07T21:00:00+0000",
-      "summary": "Travis Kelce said the retirement decision is a &quot;tough thing to navigate&quot; for NFL players"
+      "id": "61bda99c5b432824",
+      "title": "NFL averages 18.7M viewers per game, up 10%",
+      "link": "https://espn.com/nfl/story/_/id/47541246/nfl-viewership-10-percent-season-187m-per-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-07T21:33:07+0000",
+      "summary": "The NFL averaged 18.7 million viewers per game during the regular season, the second highest since audience averages began being kept in 1988."
     },
     {
-      "id": "0e640d53160e8508",
-      "title": "2025 All-Pro team predictions: Maye or Stafford? Picking NFL's best",
-      "link": "https://sports.yahoo.com/articles/2025-pro-team-predictions-maye-205352489.html",
+      "id": "a057993aad5e2d89",
+      "title": "ESPN analyst makes bold prediction about Arch Manning and 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/espn-analyst-makes-bold-prediction-195501320.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-07T20:53:52+0000",
-      "summary": "The 2025 NFL regular season provided plenty of surprises and impressive performances. Here's our predictions for who will be recognized as All-Pros."
+      "published": "2026-01-07T21:30:01+0000",
+      "summary": "The Longhorns quarterback is firmly in the conversation."
+    },
+    {
+      "id": "74a29f6e54d4e20c",
+      "title": "Donald Trump Tells NFL Teams to 'Hire' John Harbaugh 'Fast' After Ravens Fire Him",
+      "link": "https://sports.yahoo.com/articles/donald-trump-tells-nfl-teams-212237503.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T21:22:37+0000",
+      "summary": "The president said Harbaugh and his brother are &quot;total winners&quot; after the Ravens fired the head coach"
+    },
+    {
+      "id": "5d312da638e74fc5",
+      "title": "Football: TCU LB Kaleb Elarms-Orr declares for 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/football-tcu-lb-kaleb-elarms-211935603.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T21:19:35+0000",
+      "summary": "The redshirt senior was named an All-Big 12 First Team linebacker this season."
     },
     {
       "id": "6f9186247ed93cd9",
@@ -108,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-01-07T15:59:13+0000",
       "summary": "This year's NFL playoffs will feature three elite defenses: the Texans, Seahawks and Broncos. What makes each so unstoppable?"
-    },
-    {
-      "id": "6c8c8a2bf81416af",
-      "title": "The fastest, longest, most improbable NFL plays of 2025",
-      "link": "https://espn.com/nfl/story/_/id/47531020/nfl-next-gen-fastest-longest-plays-aaron-rodgers-caleb-williams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T15:28:55+0000",
-      "summary": "From the real speed of Jahmyr Gibbs to the relative speed of Aaron Rodgers, Next Gen Stats had the most thrilling plays of 2025."
     },
     {
       "id": "8b23e542fb6086fa",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-01T20:46:59+0000",
       "summary": "Head coach Shane Steichen said he and his staff are working through possibly getting some younger players more snaps during Sunday's season finale against the Houston Texans."
-    },
-    {
-      "id": "c4b1cd15fd62557a",
-      "title": "Colts Blue Zone Podcast 453: Leonard Gets First Start",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-453-leonard-gets-first-start/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-01T19:24:39+0000",
-      "summary": "The Indianapolis Colts have a chance to finish with a winning record as they take on the Houston Texans. Rookie Riley Leonard will get the start, his first as an NFL quarterback. Matt Adams and Mike Chappell talk all about it in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue [...]"
     }
   ],
   "links": [
