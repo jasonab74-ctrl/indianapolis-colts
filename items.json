@@ -1,14 +1,59 @@
 {
-  "updated": "2026-01-07T20:47:48+00:00",
+  "updated": "2026-01-07T21:18:53+00:00",
   "items": [
     {
-      "id": "c6cb6b51bb30b584",
-      "title": "2025 NFL Playoffs betting, odds: Los Angeles Rams (-10.5 at Panthers) are largest road favorites in the Super Bowl era",
-      "link": "https://sports.yahoo.com/nfl/betting/article/2025-nfl-playoffs-betting-odds-los-angeles-rams--105-at-panthers-are-largest-road-favorites-in-the-super-bowl-era-202750527.html",
+      "id": "b3915a9a4537b6f3",
+      "title": "Bama QB Simpson says he's headed to NFL draft",
+      "link": "https://espn.com/college-football/story/_/id/47539318/alabama-qb-ty-simpson-says-entering-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-07T21:01:18+0000",
+      "summary": "Alabama quarterback Ty Simpson is declaring for the NFL draft, he announced Wednesday on Instagram."
+    },
+    {
+      "id": "c5820bbc3392d872",
+      "title": "Ohio St. star safety Downs declares for NFL draft",
+      "link": "https://espn.com/college-football/story/_/id/47540494/ohio-state-star-safety-caleb-downs-declares-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-07T21:01:18+0000",
+      "summary": "Ohio State star safety Caleb Downs, a projected top-10 pick, announced on social media Wednesday that he is declaring for the 2026 NFL draft."
+    },
+    {
+      "id": "61bda99c5b432824",
+      "title": "NFL averages 18.7M viewers per game, up 10%",
+      "link": "https://espn.com/nfl/story/_/id/47541246/nfl-viewership-10-percent-season-187m-per-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-07T21:01:18+0000",
+      "summary": "The NFL averaged 18.7 million viewers per game during the regular season, the second highest since audience averages began being kept in 1988."
+    },
+    {
+      "id": "48deadad0fa3bcd7",
+      "title": "🏈 Reid's updated NFL mock draft predictions",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-07T21:01:18+0000",
+      "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
+    },
+    {
+      "id": "d5da7f6306dc83dd",
+      "title": "Is Travis Kelce Retiring? Everything the NFL Star Has Said About His 'Tough' Decision",
+      "link": "https://sports.yahoo.com/articles/travis-kelce-retiring-everything-nfl-210000466.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-07T20:27:50+0000",
-      "summary": "The Rams are historic road favorites against the Carolina Panthers in Saturday's wild-card game."
+      "published": "2026-01-07T21:00:00+0000",
+      "summary": "Travis Kelce said the retirement decision is a &quot;tough thing to navigate&quot; for NFL players"
+    },
+    {
+      "id": "0e640d53160e8508",
+      "title": "2025 All-Pro team predictions: Maye or Stafford? Picking NFL's best",
+      "link": "https://sports.yahoo.com/articles/2025-pro-team-predictions-maye-205352489.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T20:53:52+0000",
+      "summary": "The 2025 NFL regular season provided plenty of surprises and impressive performances. Here's our predictions for who will be recognized as All-Pros."
     },
     {
       "id": "6f9186247ed93cd9",
@@ -18,51 +63,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-07T20:07:24+0000",
       "summary": "INDIANAPOLIS – A defensive overhaul might be in the Indianapolis Colts’ future. That future might not include cornerback Charvarius Ward, who’s going to discuss retirement with his family after suffering three concussions last season, or cornerstone tackle DeForest Buckner, who will at least mull over that possibility after undergoing surgery last week to repair a [...]"
-    },
-    {
-      "id": "b3915a9a4537b6f3",
-      "title": "Bama QB Simpson says he's headed to NFL draft",
-      "link": "https://espn.com/college-football/story/_/id/47539318/alabama-qb-ty-simpson-says-entering-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T20:00:36+0000",
-      "summary": "Alabama quarterback Ty Simpson is declaring for the NFL draft, he announced Wednesday on Instagram."
-    },
-    {
-      "id": "c5820bbc3392d872",
-      "title": "Ohio St. star safety Downs declares for NFL draft",
-      "link": "https://espn.com/college-football/story/_/id/47540494/ohio-state-star-safety-caleb-downs-declares-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T20:00:36+0000",
-      "summary": "Ohio State star safety Caleb Downs, a projected top-10 pick, announced on social media Wednesday that he is declaring for the 2026 NFL draft."
-    },
-    {
-      "id": "61bda99c5b432824",
-      "title": "NFL averages 18.7M viewers per game, up 10%",
-      "link": "https://espn.com/nfl/story/_/id/47541246/nfl-viewership-10-percent-season-187m-per-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T20:00:36+0000",
-      "summary": "The NFL averaged 18.7 million viewers per game during the regular season, the second highest since audience averages began being kept in 1988."
-    },
-    {
-      "id": "fa50960b9d384db7",
-      "title": "Falcons rework Cousins deal, set up key decision",
-      "link": "https://espn.com/nfl/story/_/id/47528023/source-falcons-restructure-kirk-cousins-deal-set-key-decision",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T20:00:36+0000",
-      "summary": "The Falcons and Kirk Cousins agreed to modify the final two years of the QB's contract, setting the stage for a decision on his Atlanta future to be made by the third day of the 2026 NFL league year on March 13, a source told ESPN."
-    },
-    {
-      "id": "48deadad0fa3bcd7",
-      "title": "🏈 Reid's updated NFL mock draft predictions",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-07T20:00:36+0000",
-      "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
     },
     {
       "id": "4d1f30dd17c7f6d9",
