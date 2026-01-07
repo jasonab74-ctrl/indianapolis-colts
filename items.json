@@ -1,23 +1,59 @@
 {
-  "updated": "2026-01-07T19:19:31+00:00",
+  "updated": "2026-01-07T19:40:48+00:00",
   "items": [
     {
-      "id": "3cf0e8e9e154e425",
-      "title": "Travis Kelce shares new details about NFL retirement decision",
-      "link": "https://sports.yahoo.com/articles/travis-kelce-shares-details-nfl-190610532.html",
+      "id": "d5d256d9afcc6e68",
+      "title": "NFL’s longest-tenured head coaches after John Harbaugh’s firing",
+      "link": "https://sports.yahoo.com/articles/nfl-longest-tenured-head-coaches-193239348.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-07T19:06:10+0000",
-      "summary": "Kelce discussed his future on his &quot;New Heights&quot; podcast Wednesday."
+      "published": "2026-01-07T19:32:39+0000",
+      "summary": "Analyzing the new list of longest-tenured NFL head coaches."
     },
     {
-      "id": "eb90044f322d6365",
-      "title": "Former Alabama star officially declares for 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/former-alabama-star-officially-declares-190524409.html",
+      "id": "f714422a8e9745a4",
+      "title": "Report: Mike LaFleur's name 'keeps coming up' as head coach candidate",
+      "link": "https://sports.yahoo.com/articles/report-mike-lafleurs-name-keeps-193043631.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-07T19:05:24+0000",
-      "summary": "Former Alabama standout safety Caleb Downs has declared for the 2026 NFL draft following his two seasons at Ohio State."
+      "published": "2026-01-07T19:30:43+0000",
+      "summary": "Mike LaFleur and Nate Scheelhaase are both generating buzz as strong coaching candidates around the NFL"
+    },
+    {
+      "id": "16f33d225029a092",
+      "title": "2026 Draft: Ty Simpson Scouting Report",
+      "link": "https://sports.yahoo.com/articles/2026-draft-ty-simpson-scouting-193000252.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T19:30:00+0000",
+      "summary": "The Alabama passer declaring for the NFL Draft after only 1 season as a starter was a surprise. Could his early season strong play sway the Colts to get him? Or will the midseason regression and injuries of this inexperienced QB scare them off? Will they even have a chance to make this decision?"
+    },
+    {
+      "id": "0bc349e9507e7640",
+      "title": "NFL wild-card round matchup rankings: Where did Bears-Packers land?",
+      "link": "https://sports.yahoo.com/articles/nfl-wild-card-round-matchup-192937413.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T19:29:37+0000",
+      "summary": "USA TODAY Sports ranks the six games of the NFL's upcoming wild-card weekend by least watchable to most."
+    },
+    {
+      "id": "6016015ec384104b",
+      "title": "NFL sees 2nd-highest regular season average viewership since 1988 at 18.7 million, up 10% from 2024",
+      "link": "https://sports.yahoo.com/articles/nfl-sees-2nd-highest-regular-192844034.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T19:28:44+0000",
+      "summary": "The NFL averaged 18.7 million viewers per game during the regular season, the second-highest since audience averages began being kept in 1988.  The per-game average on TV and digital platforms was a 10% increase from last season's 17.5 million and up 7% from 2023, according to the league and Nielsen.  Nielsen began using its Big Data + Panel methodology for all events last September with the start of the current television season."
+    },
+    {
+      "id": "6262aa1342ba1084",
+      "title": "Bills news: Trevor Lawrence and the Jaguars present unique challenge",
+      "link": "https://sports.yahoo.com/articles/bills-news-trevor-lawrence-jaguars-192357157.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-07T19:23:57+0000",
+      "summary": "Taking a first look at the Buffalo Bills’ Wild Card opponent, the Jaguars, the hottest team in the NFL right now."
     },
     {
       "id": "b3915a9a4537b6f3",
@@ -317,15 +353,6 @@
       "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
     },
     {
-      "id": "9091bba1962f60aa",
-      "title": "Colts veteran CB Charvarius Ward is contemplating retirement this early offseason",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120269/colts-veteran-cb-charvarius-ward-is-contemplating-retirement-this-offseason",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T16:27:29+0000",
-      "summary": "Indianapolis Colts former Pro Bowl veteran cornerback Charvarius Ward indicated to members of the local media on Monday morning that he’s contemplating retirement this offseason—after suffering three documented concussions this year, during his debut campaign in Indy (via The Athletic’s James Boyd): Obviously, his initial season didn’t go as either the Colts and Ward initially [&#8230;]"
-    },
-    {
       "id": "cf2e30341145b1f7",
       "title": "Colts sign 16 players to reserve/future contracts, sign LB Austin Ajiake to one-year contract extension",
       "link": "https://colts.com/news/colts-sign-16-players-to-reserve-future-contracts-sign-lb-austin-ajiake-to-one-year-contract-extension",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-02T14:56:23+0000",
       "summary": "On a special edition of The Jack Doyle Podcast, Philip Rivers sits down with Jack to discuss his three-game return to the NFL, and his emotions as he walks away from the league (and this time, it's for real)."
-    },
-    {
-      "id": "ef849becea01a4ea",
-      "title": "Colts’ Reggie Wayne on Hall of Fame snubs: ‘You’ve gotta woosah’",
-      "link": "https://fox59.com/sports/colts-reggie-wayne-on-hall-of-fame-snubs-youve-gotta-woosah/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-01T21:18:16+0000",
-      "summary": "INDIANAPOLIS – Reggie Wayne has heartfelt support in his bid for football immortality. One of the most prolific and personable individuals in Indianapolis Colts’ history, once again, is among the 15 modern-era finalists for the Pro Football Hall of Fame’s Class of 2026. Wayne has reached the exclusive phase of the process in each year [...]"
-    },
-    {
-      "id": "9c71084fb6f1ce46",
-      "title": "Practice Notebook: Colts could use Week 18 to get look at younger players beyond Riley Leonard",
-      "link": "https://colts.com/news/practice-notebook-colts-could-use-week-18-to-get-look-at-younger-players-beyond-riley-leonard",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-01T20:46:59+0000",
-      "summary": "Head coach Shane Steichen said he and his staff are working through possibly getting some younger players more snaps during Sunday's season finale against the Houston Texans."
-    },
-    {
-      "id": "c4b1cd15fd62557a",
-      "title": "Colts Blue Zone Podcast 453: Leonard Gets First Start",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-453-leonard-gets-first-start/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-01T19:24:39+0000",
-      "summary": "The Indianapolis Colts have a chance to finish with a winning record as they take on the Houston Texans. Rookie Riley Leonard will get the start, his first as an NFL quarterback. Matt Adams and Mike Chappell talk all about it in the latest edition of the Colts Blue Zone Podcast. Find the Colts Blue [...]"
     }
   ],
   "links": [
