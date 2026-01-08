@@ -1,14 +1,86 @@
 {
-  "updated": "2026-01-08T21:20:02+00:00",
+  "updated": "2026-01-08T21:42:47+00:00",
   "items": [
     {
-      "id": "522618a8b38551a8",
-      "title": "What can you expect from a 7-win NFL team the following year?",
-      "link": "https://sports.yahoo.com/articles/expect-7-win-nfl-team-210000506.html",
+      "id": "b650dfdefc2fe063",
+      "title": "What Colts GM Chris Ballard said about QB Anthony Richardson's future",
+      "link": "https://sports.yahoo.com/articles/colts-gm-chris-ballard-said-213532429.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-08T21:00:00+0000",
-      "summary": "Here is what history shows the Cowboys could look like next season."
+      "published": "2026-01-08T21:35:32+0000",
+      "summary": "Colts GM Chris Ballard praised Anthony Richardson's improvement and how he handled being the team's backup but was non-committal on next season"
+    },
+    {
+      "id": "3697179a5212737d",
+      "title": "Chicago Bears fans gearing up for Green Bay Packers playoff matchup",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-fans-gearing-green-172259528.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T21:31:49+0000",
+      "summary": "Diehard Chicago Bears fans are gearing up for the game of a lifetime as the team takes on the Green Bay Packers in the NFL Playoffs."
+    },
+    {
+      "id": "23882bf8d3b29941",
+      "title": "Stacey Dales previews Bears- Packers on Bears Banter",
+      "link": "https://sports.yahoo.com/articles/stacey-dales-previews-bears-packers-213000966.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T21:30:00+0000",
+      "summary": "NFL Network’s Stacey Dales joins Bears Banter to preview Bears Packers Wild Card matchup!"
+    },
+    {
+      "id": "f2a8d24ec8e34676",
+      "title": "7 of 8 NFL teams with head coach openings pursuing Vance Joseph",
+      "link": "https://sports.yahoo.com/articles/7-8-nfl-teams-head-212948730.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T21:29:48+0000",
+      "summary": "Vance Joseph is one of the hottest head coach candidates in the NFL's 2026 hiring cycle."
+    },
+    {
+      "id": "5ce72b017741f490",
+      "title": "Legendary NFL Coach, 87, Retiring After 62 Years of Coaching and 4 Super Bowl Titles",
+      "link": "https://sports.yahoo.com/articles/legendary-nfl-coach-87-retiring-212931756.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T21:29:31+0000",
+      "summary": "Tom Moore most recently was the senior offensive assistant for the Tampa Bay Buccaneers"
+    },
+    {
+      "id": "2db14c319e1c2e09",
+      "title": "Steelers’ Aaron Rodgers Compares Himself To Mike Tomlin",
+      "link": "https://sports.yahoo.com/articles/steelers-aaron-rodgers-compares-himself-212820272.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T21:28:20+0000",
+      "summary": "Aaron Rodgers and Mike Tomlin are birds of a feather. Tomlin is one of the greatest, most accomplished head coaches in NFL history, while Rodgers is one of the best quarterbacks in NFL history. They’ve both been around the block and seen it all at this point. Tomlin has been the Pittsburgh Steelers’ head coach […]"
+    },
+    {
+      "id": "a584b550d84cbdae",
+      "title": "Colts Blue Zone Podcast 455: Ballard on Daniel Jones, Team's Trajectory",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-455-ballard-on-daniel-jones-teams-trajectory/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-08T21:27:06+0000",
+      "summary": "In this episode of the Colts Blue Zone Podcast, Mike Chappell and Matt Adams discuss their takeaways from GM Chris Ballard's season-ending news conference. Topics include Daniel Jones' impending return, Alec Pierce's contract, the Sauce Gardner trade, DeForest Buckner's future and more. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
+    },
+    {
+      "id": "9f0b71123edaaacc",
+      "title": "Jeff Hafley update: 3 teams want to interview Packers DC for head coach job",
+      "link": "https://sports.yahoo.com/articles/jeff-hafley-3-teams-want-212135514.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T21:21:35+0000",
+      "summary": "Jeff Hafley is in demand. Three NFL teams already want to interview the Packers defensive coordinator."
+    },
+    {
+      "id": "c7b50b44af86f21d",
+      "title": "Former Colts running back Randy McMillan dies",
+      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T21:20:57+0000",
+      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
     },
     {
       "id": "15a11249f28bc48b",
@@ -468,78 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T21:15:00+0000",
       "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
-    },
-    {
-      "id": "5f585f1cd0feb392",
-      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
-      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T21:14:16+0000",
-      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
-    },
-    {
-      "id": "09ad72a30dc24f6c",
-      "title": "Colts' 2026 opponents finalized",
-      "link": "https://colts.com/news/colts-2026-opponents-finalized",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T20:45:00+0000",
-      "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
-    },
-    {
-      "id": "849304200547adb3",
-      "title": "Keys to the Game: Colts at Texans",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-texans-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T17:49:42+0000",
-      "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
-    },
-    {
-      "id": "ff6b8bc28d66c3b9",
-      "title": "Colts announce 6 inactive players for Week 18 game at Houston Texans",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-18-game-at-houston-texans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T16:30:34+0000",
-      "summary": "The Colts previously ruled out cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) prior to Sunday."
-    },
-    {
-      "id": "69f99e92824f64b8",
-      "title": "How to watch the Indianapolis Colts at Houston Texans on January 4, 2026",
-      "link": "https://colts.com/news/how-to-watch-colts-at-texans-week-18-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Houston Texans on Sunday, January 4 at 1:00 p.m. ET (Week 18)."
-    },
-    {
-      "id": "e147a8ffe614e89c",
-      "title": "Colts at Texans: What to watch for",
-      "link": "https://fox59.com/sports/colts/colts-at-texans-what-to-watch-for-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-03T21:57:40+0000",
-      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ meeting with the Texans on Sunday at Houston’s NRG Stadium. History lesson, Part I The Colts lead the overall series 33-14-1, but the Texans have dominated the recent portion. They’ve won four straight and five of the last six. Houston won the first meeting in late [...]"
-    },
-    {
-      "id": "d7c769b6c4dda807",
-      "title": "Colts elevate QB Seth Henigan, TE Sean McKeon from practice squad to active roster for Week 18",
-      "link": "https://colts.com/news/colts-elevate-qb-seth-henigan-te-sean-mckeon-from-practice-squad-to-active-roster-for-week-18",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-03T16:46:53+0000",
-      "summary": "The Colts made the roster moves on Saturday."
-    },
-    {
-      "id": "9bacfdbf71d26d6b",
-      "title": "Philip Rivers’ 243-game start streak yields to Riley Leonard’s 1st career start as Colts end at Houston",
-      "link": "https://fox59.com/sports/colts/philip-rivers-243-game-start-streak-yields-to-riley-leonards-1st-career-start-as-colts-end-at-houston/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-02T20:18:11+0000",
-      "summary": "INDIANAPOLIS – Philip Rivers’ long, decorated run is over. It’s Riley Leonard’s turn to lead the Indianapolis Colts. When the rookie quarterback makes his first career start Sunday at Houston, he’ll be backed up by Seth Henigan, who was signed to the practice squad this week. Rivers, 44 and in his 18th and final season, will [...]"
     }
   ],
   "links": [
