@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-08T08:57:06+00:00",
+  "updated": "2026-01-08T09:32:34+00:00",
   "items": [
+    {
+      "id": "9bd402dfd92bc2c4",
+      "title": "Who wins the 2026 NFL Wild Card games? See our expert predictions",
+      "link": "https://sports.yahoo.com/articles/wins-2026-nfl-wild-card-090353040.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T09:03:53+0000",
+      "summary": "Who will win the 2026 NFL Wild Card games? Our experts share their predictions."
+    },
+    {
+      "id": "60f95fed6ecba19e",
+      "title": "Kicking zones and a ban on losing teams: NFL playoff tweaks we’d like to see",
+      "link": "https://sports.yahoo.com/articles/kicking-zones-ban-losing-teams-090003322.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-08T09:00:03+0000",
+      "summary": "The postseason consistently serves up enthralling football. But there are ways to make it even more compelling"
+    },
     {
       "id": "444a0c4bd11ef783",
       "title": "Russ swaps agents, 'not blinking' on NFL career",
@@ -18,6 +36,15 @@
       "feed": "ESPN",
       "published": "2026-01-08T04:40:20+0000",
       "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
+    },
+    {
+      "id": "c383ca9dbae494e3",
+      "title": "Colts Reacts Survey: End of Season Blues",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120344/colts-reacts-survey-postseason-end-of-season-blues",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-08T04:01:20+0000",
+      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
     },
     {
       "id": "5695353265ebc470",
@@ -81,6 +108,15 @@
       "feed": "ESPN",
       "published": "2026-01-07T18:40:34+0000",
       "summary": "Drake Maye or Matthew Stafford for MVP? Which rookies should earn hardware? And no one is beating out Myles Garrett for DPOY, right?"
+    },
+    {
+      "id": "1a9395fd9a16038c",
+      "title": "While Irsay-Gordon’s letter is appreciated, fans have heard it before from the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120358/while-irsay-gordons-letter-is-appreciated-fans-have-heard-it-before-from-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-07T16:31:13+0000",
+      "summary": "Carlie Irsay-Gordon and her sisters just concluded their first year as owners of the Indianapolis Colts. Overall, they did a good job. Seeing their involvement with the team bodes well for the future. Witnessing Irsay-Gordon swing for the fences by acquiring Sauce Gardner was a welcomed sight because watching an aggressive move not fully come [&#8230;]"
     },
     {
       "id": "8b23e542fb6086fa",
@@ -218,15 +254,6 @@
       "summary": "The Colts made the roster move on Monday."
     },
     {
-      "id": "b6bddd54aa5c3947",
-      "title": "Colts’ Carlie Irsay-Gordon on embattled team leadership: ‘The sense of urgency has never been higher’",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120284/colts-carlie-irsay-gordon-on-embattled-team-leadership-the-sense-of-urgency-has-never-been-higher",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T21:36:42+0000",
-      "summary": "According to new team owner and CEO Carlie Irsay-Gordon, the sense of urgency for the Indianapolis Colts “has never been higher” following another late season collapse that saw her franchise lose 7 straight games and be eliminated from playoff contention yet again—after such a promising 8-2 start. As you may likely recall, the Colts have [&#8230;]"
-    },
-    {
       "id": "2c309e70e148d67f",
       "title": "Colts fans' patience wearing thin after disappointing season",
       "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
@@ -290,15 +317,6 @@
       "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
     },
     {
-      "id": "9091bba1962f60aa",
-      "title": "Colts veteran CB Charvarius Ward is contemplating retirement this early offseason",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120269/colts-veteran-cb-charvarius-ward-is-contemplating-retirement-this-offseason",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T16:27:29+0000",
-      "summary": "Indianapolis Colts former Pro Bowl veteran cornerback Charvarius Ward indicated to members of the local media on Monday morning that he’s contemplating retirement this offseason—after suffering three documented concussions this year, during his debut campaign in Indy (via The Athletic’s James Boyd): Obviously, his initial season didn’t go as either the Colts and Ward initially [&#8230;]"
-    },
-    {
       "id": "cf2e30341145b1f7",
       "title": "Colts sign 16 players to reserve/future contracts, sign LB Austin Ajiake to one-year contract extension",
       "link": "https://colts.com/news/colts-sign-16-players-to-reserve-future-contracts-sign-lb-austin-ajiake-to-one-year-contract-extension",
@@ -308,15 +326,6 @@
       "summary": "The Colts made the roster moves on Monday."
     },
     {
-      "id": "d340d76ba98bc6f1",
-      "title": "Report: Titans request to interview Colts DC Lou Anarumo for head coaching opening",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120264/report-titans-request-to-interview-colts-dc-lou-anarumo-for-head-coaching-opening",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T16:05:03+0000",
-      "summary": "According to NFL Network’s Tom Pelissero, the Tennessee Titans have requested to interview Indianapolis Colts veteran defensive coordinator Lou Anarumo for their current head coaching vacancy—among other top candidates: The 59-year-old defensive coordinator just completed his debut campaign coaching the defense in Indianapolis, with ultimately up-and-down results, once the dust fully settled. The Colts defense [&#8230;]"
-    },
-    {
       "id": "ebd0b801c4f09dee",
       "title": "TUNE IN: Owner & CEO Carlie Irsay-Gordon press conference Monday, January 5 at 2:30 p.m.",
       "link": "https://colts.com/news/tune-in-owner-ceo-carlie-irsay-gordon-press-conference-monday-january-5-at-2-30-p-m",
@@ -324,15 +333,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T15:58:57+0000",
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
-    },
-    {
-      "id": "84aa736bed111a21",
-      "title": "Colts’ immediate season reactions and future outlook: Ballard &#038; Steichen confirmed for one more year",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120257/colts-immediate-season-reactions-and-future-outlook-ballard-steichen-confirmed-for-one-more-year",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-05T14:44:23+0000",
-      "summary": "This cursed season is finally over. Perhaps the one that hurt the most because of how it started, and how certain I was at 7-1 that this was the season it was going to be different. We can keep talking about that first 8 weeks and how perfect everything was back then, but there is [&#8230;]"
     },
     {
       "id": "9baa4a7ade7dfa07",
