@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-09T10:22:17+00:00",
+  "updated": "2026-01-09T10:48:48+00:00",
   "items": [
+    {
+      "id": "ad9332644a348e7e",
+      "title": "NFL MVP race: Rams' Matthew Stafford goes from injured to 'amazing'",
+      "link": "https://sports.yahoo.com/articles/nfl-mvp-race-rams-matthew-103100848.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-09T10:31:00+0000",
+      "summary": "Matthew Stafford 'didn't know if I would get there' after an aggravated disk cost him most of training camp. Now he's an NFL MVP candidate."
+    },
+    {
+      "id": "65a8818ab5ba7789",
+      "title": "Bears vs. Packers rivalry history: Updated all-time record and best games from NFL's oldest rivalry",
+      "link": "https://sports.yahoo.com/articles/bears-vs-packers-rivalry-history-103001216.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-09T10:30:01+0000",
+      "summary": "NFL's oldest rivalry features two NFC North foes with an extensive history together."
+    },
     {
       "id": "ffed9978cc26702a",
       "title": "It's about to get real for Kalen DeBoer at Alabama as Ty Simpson heads to NFL",
@@ -9,6 +27,24 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-09T10:13:19+0000",
       "summary": "Kalen DeBoer, let’s see what you can do. It’s time. For some Alabama fans, it’s beyond time. Are you a quarterback guru or not?"
+    },
+    {
+      "id": "b9e133097b2012a3",
+      "title": "What's the weather forecast for Jacksonville Jaguars vs. Buffalo Bills?",
+      "link": "https://sports.yahoo.com/articles/whats-weather-forecast-jacksonville-jaguars-101031153.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-09T10:10:31+0000",
+      "summary": "The Jacksonville Jaguars host the Buffalo Bills in the NFL playoffs on Jan. 11 at EverBank Stadium. What's the weather forecast?"
+    },
+    {
+      "id": "d10906bf49c4d89b",
+      "title": "NFL playoffs overtime rules, explained: How tie games are decided compared to regular season, preseason",
+      "link": "https://sports.yahoo.com/articles/nfl-playoffs-overtime-rules-explained-101002942.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-09T10:10:02+0000",
+      "summary": "Should an NFL playoff game need an extra period in 2026, here's how things will work."
     },
     {
       "id": "defaf02daf778f3c",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T20:45:00+0000",
       "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
-    },
-    {
-      "id": "849304200547adb3",
-      "title": "Keys to the Game: Colts at Texans",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-texans-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T17:49:42+0000",
-      "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
-    },
-    {
-      "id": "ff6b8bc28d66c3b9",
-      "title": "Colts announce 6 inactive players for Week 18 game at Houston Texans",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-18-game-at-houston-texans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T16:30:34+0000",
-      "summary": "The Colts previously ruled out cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) prior to Sunday."
-    },
-    {
-      "id": "69f99e92824f64b8",
-      "title": "How to watch the Indianapolis Colts at Houston Texans on January 4, 2026",
-      "link": "https://colts.com/news/how-to-watch-colts-at-texans-week-18-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T13:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Houston Texans on Sunday, January 4 at 1:00 p.m. ET (Week 18)."
-    },
-    {
-      "id": "e147a8ffe614e89c",
-      "title": "Colts at Texans: What to watch for",
-      "link": "https://fox59.com/sports/colts/colts-at-texans-what-to-watch-for-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-03T21:57:40+0000",
-      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ meeting with the Texans on Sunday at Houston’s NRG Stadium. History lesson, Part I The Colts lead the overall series 33-14-1, but the Texans have dominated the recent portion. They’ve won four straight and five of the last six. Houston won the first meeting in late [...]"
     }
   ],
   "links": [
