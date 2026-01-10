@@ -1,68 +1,122 @@
 {
-  "updated": "2026-01-10T12:38:13+00:00",
+  "updated": "2026-01-10T13:28:14+00:00",
   "items": [
     {
-      "id": "defaf02daf778f3c",
-      "title": "One big thing we're hearing on every NFL team's coaching situation: Hot seats, candidates, more",
-      "link": "https://espn.com/nfl/story/_/id/47515440/2025-nfl-coach-coordinator-hiring-firing-candidates-intel-buzz-32-teams",
+      "id": "136fe752d1b18a96",
+      "title": "Kenyon Sadiq weighs NFL future, cites 'unfinished business' at Oregon",
+      "link": "https://sports.yahoo.com/articles/kenyon-sadiq-weighs-nfl-future-132333796.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:23:33+0000",
+      "summary": "With Oregon's season over, Kenyon Sadiq was asked about his potential NFL future, with his answer leaving the door open to a potential return."
+    },
+    {
+      "id": "67173aa83b2ba332",
+      "title": "What channel is Bears vs. Packers on today? Live stream, time, TV schedule to watch NFL wild card playoff game",
+      "link": "https://sports.yahoo.com/articles/channel-bears-vs-packers-today-080001179.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:11:01+0000",
+      "summary": "Everything you need to know about the wild-card matchup between Green Bay and Chicago."
+    },
+    {
+      "id": "60e7d70e1a1271e6",
+      "title": "Do the Eagles play today? Schedule, time, channel for next Philadelphia NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/eagles-play-today-schedule-time-063002948.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:09:02+0000",
+      "summary": "The Eagles will take on the 49ers in the first round of the 2026 NFL playoffs."
+    },
+    {
+      "id": "cf71a36a5dcc267c",
+      "title": "Do the Patriots play today? Schedule, time, channel for next New England NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/patriots-play-today-schedule-time-070001107.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:06:01+0000",
+      "summary": "Here is all you need to know about the Patriots next game."
+    },
+    {
+      "id": "3ab8e021c3a0b455",
+      "title": "Do the Bills play today? Schedule, time, channel for next Buffalo NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/bills-play-today-schedule-time-063002918.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:04:02+0000",
+      "summary": "For the first time since 2020, the Bills will be on the road to start their postseason."
+    },
+    {
+      "id": "fedb3ae321ee6c09",
+      "title": "Do the Seahawks play today? Schedule, time, channel for next Seattle NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/seahawks-play-today-schedule-time-062001034.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:03:01+0000",
+      "summary": "Seattle finds itself on the sidelines during wild-card weekend, having earned a bye week after landing the NFC's No. 1 seed."
+    },
+    {
+      "id": "24707549c7135a9d",
+      "title": "Do the Broncos play today? Schedule, time, channel for next Denver NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/broncos-play-today-schedule-time-060002087.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:02:02+0000",
+      "summary": "The Broncos are enjoying the fruits of their labor, getting a weeklong reprieve after earning the AFC's No. 1 seed."
+    },
+    {
+      "id": "2da4dca9c480a840",
+      "title": "What time are the NFL games today? TV schedule, channels, live streams for Saturday wild-card playoff doubleheader",
+      "link": "https://sports.yahoo.com/articles/time-nfl-games-today-tv-053001920.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:01:01+0000",
+      "summary": "All you need to know to watch Saturday's playoff doubleheader."
+    },
+    {
+      "id": "8c487eaf884b8e4b",
+      "title": "Broncos QB Bo Nix made more NFL history in Week 18",
+      "link": "https://sports.yahoo.com/articles/broncos-qb-bo-nix-made-130056823.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T13:00:56+0000",
+      "summary": "Bo Nix is the first QB in NFL history with 10+ wins and 30+ touchdowns in each of his first two seasons, per CBS."
+    },
+    {
+      "id": "ecdc1c8dd9f08fa1",
+      "title": "What Bryce Young's late-game magic means for Panthers' postseason: 'Nothing really fazes him'",
+      "link": "https://espn.com/nfl/story/_/id/47560739/nfl-carolina-panthers-bryce-young-playoffs-rams",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-10T12:30:58+0000",
-      "summary": "We have the latest buzz on all 32 coaching staffs, including Mike Tomlin's Steelers future."
+      "published": "2026-01-10T12:46:29+0000",
+      "summary": "Young makes his NFL playoff debut Saturday. Will he shake off his inconsistencies and shine?"
     },
     {
-      "id": "fa64b0afc0703f38",
-      "title": "Wild Card Weekend: How to watch the Green Bay Packers vs. Chicago Bears NFL game tonight",
-      "link": "https://sports.yahoo.com/nfl/article/wild-card-weekend-how-to-watch-the-green-bay-packers-vs-chicago-bears-nfl-game-tonight-123028342.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T12:30:28+0000",
-      "summary": "This Saturday, the Green Bay Packers face the Chicago Bears. Here's how to watch all the action on the field."
-    },
-    {
-      "id": "dc25031a153a0803",
-      "title": "Los Angeles Rams vs. Carolina Panthers: How to watch today's NFL game, kickoff time, TV channel and more",
-      "link": "https://sports.yahoo.com/nfl/article/los-angeles-rams-vs-carolina-panthers-how-to-watch-todays-nfl-game-kickoff-time-tv-channel-and-more-123007668.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T12:30:07+0000",
-      "summary": "Here's how to watch the Wild Card Weekend NFL game between the Rams and the Panthers."
-    },
-    {
-      "id": "208fc9f737a0c71d",
-      "title": "2025-26 NFL playoff, Super Bowl predictions",
-      "link": "https://sports.yahoo.com/articles/2025-26-nfl-playoff-super-123000891.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T12:30:00+0000",
-      "summary": "Time for predictions and picks for the 2025-26 NFL playoffs and Super Bowl 60 winner."
-    },
-    {
-      "id": "45611cf8e913f317",
-      "title": "Mendoza vs. Moore: Why the CFP semifinals will have a big impact on the NFL draft",
-      "link": "https://espn.com/nfl/story/_/id/47539191/new-york-jets-no-2-pick-cfp-fernando-mendoza-dante-moore",
+      "id": "9c499418bb1d115e",
+      "title": "Six NFL wild-card games, six matchup previews: We have predictions, score picks and X factors",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47527802/nfl-wild-card-picks-predictions-schedule-odds-injuries-stats-2025-playoffs",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-10T12:28:57+0000",
-      "summary": "New York Jets GM Darren Mougey will be heavily evaluating quarterbacks in the college playoffs ahead of the draft."
+      "published": "2026-01-10T12:46:09+0000",
+      "summary": "Packers at Bears? Bryce Young's first playoff game? Justin Herbert vs. Drake Maye? We have picks, predictions and stats to know for every wild-card game."
     },
     {
-      "id": "695bdff6e2de6e86",
-      "title": "Are the NFL's overtime rules needlessly complex?",
-      "link": "https://sports.yahoo.com/articles/nfls-overtime-rules-needlessly-complex-121055776.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T12:10:55+0000",
-      "summary": "NFL overtime was supposed to make games fairer.  Overtime still begins with a coin toss, and the winner isn’t just choosing who gets the ball — they can also choose to defer or even pick which end of the field to defend.  Under the current system, both teams are guaranteed at least one possession, even if the team that receives the opening kickoff scores a touchdown."
+      "id": "4bfbc54419ce3b0d",
+      "title": "Ohio State's Reese, likely top-5 pick, enters draft",
+      "link": "https://espn.com/college-football/story/_/id/47552889/ohio-state-lb-arvell-reese-likely-top-5-pick-enters-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-10T12:34:36+0000",
+      "summary": "Ohio State linebacker Arvell Reese announced Thursday on social media that he is entering the NFL draft."
     },
     {
-      "id": "976ec3822364cefe",
-      "title": "NFL picks & predictions for Wild Card Weekend",
-      "link": "https://sports.yahoo.com/articles/nfl-picks-predictions-wild-card-120718256.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T12:07:18+0000",
-      "summary": "During wild-card weekend, we will see three road teams favored"
+      "id": "48deadad0fa3bcd7",
+      "title": "🏈 Reid's updated NFL mock draft predictions",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-10T12:34:36+0000",
+      "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
     },
     {
       "id": "53e12feb342b83f3",
@@ -72,42 +126,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-10T04:25:53+0000",
       "summary": "Because of critical injuries down the season’s stretch run, the Indianapolis Colts, once sitting at 8-2 atop the AFC, ended up losing 7 straight games—sliding out of the playoffs for the fifth straight season. In some regards, the franchise’s latest collapse was shocking. However, when you consider that the team lost its starting quarterback, its [&#8230;]"
-    },
-    {
-      "id": "4bfbc54419ce3b0d",
-      "title": "Ohio State's Reese, likely top-5 pick, enters draft",
-      "link": "https://espn.com/college-football/story/_/id/47552889/ohio-state-lb-arvell-reese-likely-top-5-pick-enters-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-10T02:28:37+0000",
-      "summary": "Ohio State linebacker Arvell Reese announced Thursday on social media that he is entering the NFL draft."
-    },
-    {
-      "id": "48deadad0fa3bcd7",
-      "title": "🏈 Reid's updated NFL mock draft predictions",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47503334/2026-nfl-mock-draft-first-round-predictions-32-picks-jordan-reid",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-10T02:28:37+0000",
-      "summary": "Which QB fits with the Raiders at No. 1? How high could Jeremiyah Love go? Will the Buckeyes run the first round? Let's project the first 32 picks for April."
-    },
-    {
-      "id": "9c499418bb1d115e",
-      "title": "Six NFL wild-card games, six matchup previews: We have predictions, score picks and X factors",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47527802/nfl-wild-card-picks-predictions-schedule-odds-injuries-stats-2025-playoffs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-10T02:28:32+0000",
-      "summary": "Packers at Bears? Bryce Young's first playoff game? Justin Herbert vs. Drake Maye? We have picks, predictions and stats to know for every wild-card game."
-    },
-    {
-      "id": "4f7e3ecb15b78972",
-      "title": "NFL's best QB room? How Mac Jones and Brock Purdy helped each other to the playoffs",
-      "link": "https://espn.com/nfl/story/_/id/47516574/san-francisco-49ers-qb-brock-purdy-mac-jones-future-nfc-playoffs-eagles",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-10T01:10:01+0000",
-      "summary": "San Francisco will face Philadelphia on Sunday (4:30 p.m. ET) in part because of a strong bond between the duo."
     },
     {
       "id": "2cd6afbce057353b",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T22:48:56+0000",
       "summary": "Leonard was 21-of-34 for 270 yards and two touchdowns, and had three carries for 21 rushing yards and a touchdown, in Sunday's loss to the Houston Texans."
-    },
-    {
-      "id": "edbfff5dd2089e44",
-      "title": "Colts fans reflect on dismal season and remain hopeful for the year to come",
-      "link": "https://fox59.com/sports/colts/colts-fans-reflect-on-dismal-season-and-remain-hopeful-for-the-year-to-come/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T22:34:10+0000",
-      "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
-    },
-    {
-      "id": "17d397b18a9894e5",
-      "title": "Colts drop season finale, 38-30 in Houston",
-      "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T21:15:00+0000",
-      "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
     }
   ],
   "links": [
