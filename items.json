@@ -1,68 +1,41 @@
 {
-  "updated": "2026-01-10T15:40:14+00:00",
+  "updated": "2026-01-10T16:23:18+00:00",
   "items": [
     {
+      "id": "2d1d60f0920dfadc",
+      "title": "NFL playoffs: How to watch Rams-Panthers, Packers Bears",
+      "link": "https://sports.yahoo.com/articles/nfl-playoffs-watch-rams-panthers-161921598.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T16:19:21+0000",
+      "summary": "There are two wild card games on Saturday to start the NFL playoffs. Here is how to watch those two games."
+    },
+    {
       "id": "4fc3ab90512b0ea5",
-      "title": "Stafford gets first nod for AP All-Pro. Garrett, Nacua and Smith-Njigba are unanimous choices",
+      "title": "New England Patriots’ Drake Maye, Marcus Jones receive second-team All Pro honors",
       "link": "https://sports.yahoo.com/articles/stafford-gets-first-nod-ap-153452212.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:34:52+0000",
+      "published": "2026-01-10T16:10:48+0000",
       "summary": "Matthew Stafford beat out Drake Maye, while Myles Garrett, Puka Nacua and Jaxon Smith-Njigba were unanimous choices for the 2025 Associated Press NFL All-Pro Team."
     },
     {
-      "id": "fe0c577f09ec0988",
-      "title": "Star Alabama defensive lineman officially declares for 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/star-alabama-defensive-lineman-officially-153040444.html",
+      "id": "d39108c73f461fec",
+      "title": "Three things for Jets fans to consider after Dante Moore’s rough Peach Bowl",
+      "link": "https://sports.yahoo.com/articles/three-things-jets-fans-consider-160614789.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:30:40+0000",
-      "summary": "Alabama senior defensive lineman LT Overton has officially declared for the 2026 NFL draft following two seasons in Tuscaloosa."
+      "published": "2026-01-10T16:06:14+0000",
+      "summary": "Last night was ugly for Oregon quarterback Dante Moore, who turned the ball over three times in a blowout loss to Indiana. Moore is considered a top prospect in the 2026 NFL Draft Fernando Mendoza is likely to go first overall to the Raiders. Moore has been linked with the Jets as a possible option […]"
     },
     {
-      "id": "9732be3847ac50c8",
-      "title": "Six Denver Broncos including Garett Bolles and Quinn Meinerz received All-Pro honors",
-      "link": "https://sports.yahoo.com/articles/six-denver-broncos-including-garett-152151222.html",
+      "id": "c6fc93217fafbcbb",
+      "title": "Reacts Results: 65% of NFL fans are picking the Bears over the Packers",
+      "link": "https://sports.yahoo.com/articles/reacts-results-65-nfl-fans-160000268.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:21:51+0000",
-      "summary": "The results of The Associated Press 2025 NFL All-Pro balloting were announced Saturday morning, and a total of six Denver Broncos were named first-team and second-team All-Pros. Your first-team All-Pros are starting left tackle Garett Bolles, right guard Quinn Meinerz, defensive tackle Zach Allen, and special teams ace Devon Key. Your second-team All-Pros are reigning […]"
-    },
-    {
-      "id": "0da771c1d88189ba",
-      "title": "After Dolphins exit, Mike McDaniel value skyrockets with NFL interest",
-      "link": "https://sports.yahoo.com/articles/dolphins-exit-mike-mcdaniel-value-152126070.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:21:26+0000",
-      "summary": "McDaniel is set to interview for the Titans opening, and has been reached out to about the Lions offensive coordinator gig as well."
-    },
-    {
-      "id": "55b31467a47418b4",
-      "title": "2025 season review: Saints defense ended year as one of the NFL's best",
-      "link": "https://sports.yahoo.com/articles/2025-season-review-saints-defense-152051970.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:20:51+0000",
-      "summary": "Our season review has turned to the other side of the ball. Here's how Brandon Staley developed the 2025 Saints defense into one of the NFL's best."
-    },
-    {
-      "id": "2b8a3b89120a8f51",
-      "title": "Is Myles Garrett the GOAT? Browns star named unanimous All-Pro after record 23-sack season",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-goat-browns-star-151935147.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:19:35+0000",
-      "summary": "Myles Garrett makes NFL history. After breaking the single-season record with 23 sacks, the Cleveland Browns star has been named a Unanimous First-Team All-Pro. Is he the greatest of all time?"
-    },
-    {
-      "id": "2b80e0e0be38ac42",
-      "title": "Former Browns HC Kevin Stefanski to interview with five NFL clubs",
-      "link": "https://sports.yahoo.com/articles/former-browns-hc-kevin-stefanski-151831678.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T15:18:31+0000",
-      "summary": "The NFL’s head coaching carousel continues to spin with former Cleveland Browns HC Kevin Stefanski interviewing with teams"
+      "published": "2026-01-10T16:00:00+0000",
+      "summary": "The people have spoken! Most NFL fans are picking the Bears over the Packers, and most Bears fans are feeling pretty, pretty, pretty, good about the franchise’s direction!"
     },
     {
       "id": "2b604724ce4e7c7c",
@@ -71,7 +44,7 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2026-01-10T15:16:59+0000",
-      "summary": "Matthew Stafford, Myles Garrett, Puka Nacua and Jaxon Smith-Njigba headline the 2025 Associated Press NFL All-Pro Team announced Saturday."
+      "summary": "Matthew Stafford, Myles Garrett, Puka Nacua and Jaxon Smith-Njigba headline the 2025 Associated Press NFL All-Pro Team."
     },
     {
       "id": "48deadad0fa3bcd7",
@@ -108,15 +81,6 @@
       "feed": "ESPN",
       "published": "2026-01-10T12:46:09+0000",
       "summary": "Packers at Bears? Bryce Young's first playoff game? Justin Herbert vs. Drake Maye? We have picks, predictions and stats to know for every wild-card game."
-    },
-    {
-      "id": "53e12feb342b83f3",
-      "title": "Colts Reacts Survey Results: End of Season Blues",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120484/colts-reacts-survey-results-end-of-season-blues",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-10T04:25:53+0000",
-      "summary": "Because of critical injuries down the season’s stretch run, the Indianapolis Colts, once sitting at 8-2 atop the AFC, ended up losing 7 straight games—sliding out of the playoffs for the fifth straight season. In some regards, the franchise’s latest collapse was shocking. However, when you consider that the team lost its starting quarterback, its [&#8230;]"
     },
     {
       "id": "2cd6afbce057353b",
@@ -182,9 +146,9 @@
       "summary": "Indianapolis Colts former Pro Bowl veteran defensive tackle, DeForest Buckner, who recently had neck surgery, looks like he’s eyeing a return for the 2026 regular season (via his personal Instagram account): On Thursday, Colts embattled longtime general manager Chris Ballard also indicated in his end-of-season press conference that, “Buck had surgery it was successful. His [&#8230;]"
     },
     {
-      "id": "d547b6910c7be464",
+      "id": "6b800aaf49ad719c",
       "title": "Colts’ Chris Ballard: Daniel Jones has ‘really bright future in Indianapolis’",
-      "link": "https://fox59.com/sports/colts-chris-ballard-daniel-jones-has-really-bright-future-in-indianapolis/",
+      "link": "https://fox59.com/sports/colts/colts-chris-ballard-daniel-jones-has-really-bright-future-in-indianapolis/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-01-08T23:25:14+0000",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T22:34:10+0000",
       "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
+    },
+    {
+      "id": "17d397b18a9894e5",
+      "title": "Colts drop season finale, 38-30 in Houston",
+      "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-04T21:15:00+0000",
+      "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
+    },
+    {
+      "id": "5f585f1cd0feb392",
+      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
+      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T21:14:16+0000",
+      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
+    },
+    {
+      "id": "09ad72a30dc24f6c",
+      "title": "Colts' 2026 opponents finalized",
+      "link": "https://colts.com/news/colts-2026-opponents-finalized",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T20:45:00+0000",
+      "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
+    },
+    {
+      "id": "849304200547adb3",
+      "title": "Keys to the Game: Colts at Texans",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-texans-2/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-04T17:49:42+0000",
+      "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
     }
   ],
   "links": [
