@@ -1,41 +1,50 @@
 {
-  "updated": "2026-01-10T16:23:18+00:00",
+  "updated": "2026-01-10T16:47:47+00:00",
   "items": [
     {
-      "id": "2d1d60f0920dfadc",
-      "title": "NFL playoffs: How to watch Rams-Panthers, Packers Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-playoffs-watch-rams-panthers-161921598.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-10T16:19:21+0000",
-      "summary": "There are two wild card games on Saturday to start the NFL playoffs. Here is how to watch those two games."
+      "id": "ecdc1c8dd9f08fa1",
+      "title": "What Bryce Young's late-game magic means for Panthers' postseason: 'Nothing really fazes him'",
+      "link": "https://espn.com/nfl/story/_/id/47560739/nfl-carolina-panthers-bryce-young-playoffs-rams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-10T16:31:02+0000",
+      "summary": "Young makes his NFL playoff debut Saturday. Will he shake off his inconsistencies and shine?"
     },
     {
-      "id": "4fc3ab90512b0ea5",
-      "title": "New England Patriots’ Drake Maye, Marcus Jones receive second-team All Pro honors",
-      "link": "https://sports.yahoo.com/articles/stafford-gets-first-nod-ap-153452212.html",
+      "id": "cfdad52b7a457932",
+      "title": "How Cleveland Browns fans can watch the NFL Wild Card Round of the playoffs",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-fans-watch-nfl-163051487.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-10T16:10:48+0000",
-      "summary": "Matthew Stafford beat out Drake Maye, while Myles Garrett, Puka Nacua and Jaxon Smith-Njigba were unanimous choices for the 2025 Associated Press NFL All-Pro Team."
+      "published": "2026-01-10T16:30:51+0000",
+      "summary": "If you’re in the Cleveland area, here is how you can watch each Wild Card Round game of the playoffs, and which games impact the Browns."
     },
     {
-      "id": "d39108c73f461fec",
-      "title": "Three things for Jets fans to consider after Dante Moore’s rough Peach Bowl",
-      "link": "https://sports.yahoo.com/articles/three-things-jets-fans-consider-160614789.html",
+      "id": "2a2a2e4a0aae59d3",
+      "title": "Rams had most TDs negated by penalties in NFL",
+      "link": "https://sports.yahoo.com/articles/rams-had-most-tds-negated-162949665.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-10T16:06:14+0000",
-      "summary": "Last night was ugly for Oregon quarterback Dante Moore, who turned the ball over three times in a blowout loss to Indiana. Moore is considered a top prospect in the 2026 NFL Draft Fernando Mendoza is likely to go first overall to the Raiders. Moore has been linked with the Jets as a possible option […]"
+      "published": "2026-01-10T16:29:49+0000",
+      "summary": "The Los Angeles Rams lost out on some big scores because of penalties."
     },
     {
-      "id": "c6fc93217fafbcbb",
-      "title": "Reacts Results: 65% of NFL fans are picking the Bears over the Packers",
-      "link": "https://sports.yahoo.com/articles/reacts-results-65-nfl-fans-160000268.html",
+      "id": "effa473e6ae74020",
+      "title": "Five Seahawks selected to 2025 AP All-Pro teams",
+      "link": "https://sports.yahoo.com/articles/five-seahawks-selected-2025-ap-162408547.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
+      "published": "2026-01-10T16:24:08+0000",
+      "summary": "Five Seattle Seahawks have been selected to the NFL’s 2025 AP All-Pro teams. The teams were published Saturday morning at 6 a.m. PST."
+    },
+    {
+      "id": "90e71f987dfc098e",
+      "title": "2026 Draft: Jacob Rodriguez Scouting Report Outline",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft-central/120303/2026-draft-jacob-rodriguez-scouting-report-outline",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2026-01-10T16:00:00+0000",
-      "summary": "The people have spoken! Most NFL fans are picking the Bears over the Packers, and most Bears fans are feeling pretty, pretty, pretty, good about the franchise’s direction!"
+      "summary": "Measurables 2025 Stats Awards/Accolades Strengths Weaknesses Draft Projection Round 3-4 Grade In my initial Big Board Top 100, Rodriguez ranked 93rd with a Round 3-4 Grade. Coverage Linebackers are becoming more and more scarce in the NFL, making his skillset all the more coveted. Jacob Rodriguez is the most decorated defender in the 2026 Draft [&#8230;]"
     },
     {
       "id": "2b604724ce4e7c7c",
@@ -65,15 +74,6 @@
       "summary": "Nelson was named an All-Pro for the sixth time in his career."
     },
     {
-      "id": "ecdc1c8dd9f08fa1",
-      "title": "What Bryce Young's late-game magic means for Panthers' postseason: 'Nothing really fazes him'",
-      "link": "https://espn.com/nfl/story/_/id/47560739/nfl-carolina-panthers-bryce-young-playoffs-rams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-10T12:46:29+0000",
-      "summary": "Young makes his NFL playoff debut Saturday. Will he shake off his inconsistencies and shine?"
-    },
-    {
       "id": "9c499418bb1d115e",
       "title": "Six NFL wild-card games, six matchup previews: We have predictions, score picks and X factors",
       "link": "https://espn.com/nfl/story/_/page/viewersguide47527802/nfl-wild-card-picks-predictions-schedule-odds-injuries-stats-2025-playoffs",
@@ -81,6 +81,15 @@
       "feed": "ESPN",
       "published": "2026-01-10T12:46:09+0000",
       "summary": "Packers at Bears? Bryce Young's first playoff game? Justin Herbert vs. Drake Maye? We have picks, predictions and stats to know for every wild-card game."
+    },
+    {
+      "id": "53e12feb342b83f3",
+      "title": "Colts Reacts Survey Results: End of Season Blues",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120484/colts-reacts-survey-results-end-of-season-blues",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-10T04:25:53+0000",
+      "summary": "Because of critical injuries down the season’s stretch run, the Indianapolis Colts, once sitting at 8-2 atop the AFC, ended up losing 7 straight games—sliding out of the playoffs for the fifth straight season. In some regards, the franchise’s latest collapse was shocking. However, when you consider that the team lost its starting quarterback, its [&#8230;]"
     },
     {
       "id": "2cd6afbce057353b",
@@ -261,15 +270,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-08T13:00:00+0000",
       "summary": "According to NFL.com’s Marc Ross, rather unsurprisingly, Indianapolis Colts quarterback Anthony Richardson isn’t projected to receive a 2027 5th-year team option by his current club, being eligible as a member of the first round of the 2023 NFL Draft class: Pick 4. Anthony Richardson Indianapolis Colts · QB Exercise the option?&#160;No. Indy took a gamble when selecting [&#8230;]"
-    },
-    {
-      "id": "c383ca9dbae494e3",
-      "title": "Colts Reacts Survey: End of Season Blues",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/120344/colts-reacts-survey-postseason-end-of-season-blues",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-08T04:01:20+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
     },
     {
       "id": "6f9186247ed93cd9",
