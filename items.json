@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-10T04:53:53+00:00",
+  "updated": "2026-01-10T05:19:58+00:00",
   "items": [
+    {
+      "id": "a3201d17ffb4611e",
+      "title": "Bears mascot Staley, Monster Squad hype up fans across Chicago ahead of Packers playoff matchup",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-mascot-staley-monster-122642595.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-10T04:52:17+0000",
+      "summary": "A Bears-Packers playoff game is certainly memorable. It's only the third time in history the oldest rivals in the NFL have faced each other in the post-season. The Packers won the last time in 2011 and the Bears won the first in 1941."
+    },
     {
       "id": "5f5ac56c05e6e3eb",
       "title": "Fernando Mendoza College Football Playoff stats: Indiana QB making loud statement to NFL in postseason",
@@ -20,13 +29,22 @@
       "summary": "After a rough performance in the CFP semifinal vs. Indiana, Dante Moore faces an uncertain future at Oregon."
     },
     {
-      "id": "be9b97b4276ed34d",
-      "title": "Colts Reacts Survey Results: End of Season Blues",
-      "link": "https://sports.yahoo.com/articles/colts-reacts-survey-results-end-042553449.html",
+      "id": "cb0046c97d7da744",
+      "title": "NFL Draft 2026: Brady Quinn Names Dante Moore, Not Fernando Mendoza, as Raiders’ No. 1 Pick",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-brady-quinn-044245998.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
+      "published": "2026-01-10T04:42:45+0000",
+      "summary": "Much like any other year, it’s no secret that the first overall pick of the 2026 NFL Draft will more than likely be a quarterback. The only issue, however, is that no one knows for certain which one it will be."
+    },
+    {
+      "id": "53e12feb342b83f3",
+      "title": "Colts Reacts Survey Results: End of Season Blues",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120484/colts-reacts-survey-results-end-of-season-blues",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2026-01-10T04:25:53+0000",
-      "summary": "The Horseshoe Faithful have spoken…"
+      "summary": "Because of critical injuries down the season’s stretch run, the Indianapolis Colts, once sitting at 8-2 atop the AFC, ended up losing 7 straight games—sliding out of the playoffs for the fifth straight season. In some regards, the franchise’s latest collapse was shocking. However, when you consider that the team lost its starting quarterback, its [&#8230;]"
     },
     {
       "id": "4bfbc54419ce3b0d",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T21:15:00+0000",
       "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
-    },
-    {
-      "id": "5f585f1cd0feb392",
-      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
-      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T21:14:16+0000",
-      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
-    },
-    {
-      "id": "09ad72a30dc24f6c",
-      "title": "Colts' 2026 opponents finalized",
-      "link": "https://colts.com/news/colts-2026-opponents-finalized",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T20:45:00+0000",
-      "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
     }
   ],
   "links": [
