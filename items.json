@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-11T11:16:45+00:00",
+  "updated": "2026-01-11T11:38:16+00:00",
   "items": [
+    {
+      "id": "44cdd0b64da1bf95",
+      "title": "NFL games on TV today: Full schedule, times, channels, live streams to watch wild card weekend action",
+      "link": "https://sports.yahoo.com/articles/nfl-games-tv-today-full-051004834.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-11T11:22:01+0000",
+      "summary": "All you need to know to watch the NFL's wild-Card weekend games."
+    },
+    {
+      "id": "ff35b4bfa569d0e7",
+      "title": "NFL playoff schedule: Dates, times, TV channels, live streams for every 2026 postseason game",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-dates-times-053002714.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-11T11:17:00+0000",
+      "summary": "Here's everything you need to know to watch the NFL playoffs on the road to Super Bowl 60 in Santa Clara."
+    },
     {
       "id": "a2f12c6f6ee1f921",
       "title": "Xavier Watts, James Pearce Jr. ranked among NFL's top rookies of 2025",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T22:57:24+0000",
       "summary": "Alec Pierce's outstanding 2025 season ended in bizarre fashion on Sunday against the Houston Texans."
-    },
-    {
-      "id": "9826505b5db227b3",
-      "title": "Colts QB Riley Leonard exceeds expectations in first career start: 'He can definitely play in this league for a long time'",
-      "link": "https://colts.com/news/colts-quarterback-riley-leonard-exceeds-expectations-first-career-start-shane-steichen-rookie-alec-pierce",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T22:48:56+0000",
-      "summary": "Leonard was 21-of-34 for 270 yards and two touchdowns, and had three carries for 21 rushing yards and a touchdown, in Sunday's loss to the Houston Texans."
-    },
-    {
-      "id": "edbfff5dd2089e44",
-      "title": "Colts fans reflect on dismal season and remain hopeful for the year to come",
-      "link": "https://fox59.com/sports/colts/colts-fans-reflect-on-dismal-season-and-remain-hopeful-for-the-year-to-come/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T22:34:10+0000",
-      "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
     }
   ],
   "links": [
