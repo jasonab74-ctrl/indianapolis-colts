@@ -1,6 +1,69 @@
 {
-  "updated": "2026-01-11T05:24:21+00:00",
+  "updated": "2026-01-11T05:47:21+00:00",
   "items": [
+    {
+      "id": "1b5f85aff50fa7f9",
+      "title": "Bears & Rams claim thrilling NFL play-off wins",
+      "link": "https://sports.yahoo.com/articles/rams-survive-scare-beat-panthers-011019137.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-11T05:36:26+0000",
+      "summary": "The NFL play-offs get off to a thrilling start as the Chicago Bears make a stunning fightback and the Los Angeles Rams avoid a huge upset on Wildcard Weekend."
+    },
+    {
+      "id": "ce2d8dfe69422b5e",
+      "title": "NFL world reacts to Bears' stunning comeback win over Packers",
+      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-bears-stunning-053103274.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-11T05:31:03+0000",
+      "summary": "The Bears mounted an unbelievable comeback against the Packers to win their wild card matchup. Here is how social media reacted to the win."
+    },
+    {
+      "id": "75f711dee6339226",
+      "title": "Overreactions and big questions off NFL wild-card games: Sizing up Caleb Williams, the Rams' defense",
+      "link": "https://espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T05:28:10+0000",
+      "summary": "Is Caleb Williams a future MVP? Do the Rams have secondary problems? We're making sense of each game in the NFL playoffs wild-card round."
+    },
+    {
+      "id": "5063da0dac68d3ff",
+      "title": "🏈 Kiper's Big Board: Ranking top draft prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T05:26:14+0000",
+      "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, starting with two quarterbacks and one really good running back. See who makes the new list."
+    },
+    {
+      "id": "55f4861b692a68d3",
+      "title": "Harbaugh to limit interviews to just a few teams",
+      "link": "https://espn.com/nfl/story/_/id/47573091/john-harbaugh-limit-coaching-interviews-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T05:26:13+0000",
+      "summary": "Former Ravens coach John Harbaugh will narrow his options to just a few NFL teams before starting to take interviews for his next potential job, he told Fox Sports."
+    },
+    {
+      "id": "2b604724ce4e7c7c",
+      "title": "Stafford, Garrett, Nacua top NFL All-Pro Team",
+      "link": "https://espn.com/nfl/story/_/id/47569391/stafford-garrett-nacua-smith-njigba-headline-nfl-all-proteam",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T05:26:13+0000",
+      "summary": "Matthew Stafford, Myles Garrett, Puka Nacua and Jaxon Smith-Njigba headline the 2025 Associated Press NFL All-Pro Team."
+    },
+    {
+      "id": "51d9aa0805cd78cc",
+      "title": "Bears take down Packers in another thrilling comeback victory, advance to next round of playoffs",
+      "link": "https://sports.yahoo.com/articles/bears-packers-wild-card-game-225755236.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-11T05:23:15+0000",
+      "summary": "The Chicago Bears beat the Green Bay Packers 31-27 Saturday night in a rare matchup for the NFL playoffs, with yet another thrilling comeback victory."
+    },
     {
       "id": "24470e07195db050",
       "title": "We now know where Cowboys' first-round pick from Packers trade will land in 2026 NFL draft",
@@ -9,15 +72,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-11T05:13:13+0000",
       "summary": "The Dallas Cowboys now know where their first-round pick acquired from the Green Bay Packers will sit in the 2026 NFL draft after the Packers' season ended on Saturday night in the wild-card game against the Chicago Bears."
-    },
-    {
-      "id": "51d9aa0805cd78cc",
-      "title": "Bears take down Packers in another thrilling comeback victory, advance to next round of playoffs",
-      "link": "https://sports.yahoo.com/articles/bears-packers-wild-card-game-225755236.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T05:12:46+0000",
-      "summary": "The Chicago Bears beat the Green Bay Packers 31-27 Saturday night in a rare matchup for the NFL playoffs, with yet another thrilling comeback victory."
     },
     {
       "id": "aa845702e4e39556",
@@ -56,94 +110,13 @@
       "summary": "Caleb Williams fired the Chicago Bears to a madcap win over their bitter foes Green Bay on Saturday, storming back from an 18-point deficit to eliminate the Packers 31-27 on the first day of the NFL playoffs.Quarterback Williams threw 361 yards for two touchdowns, and two interceptions, handing the Bears their first playoff win since 2011 and sparking ecstatic scenes at Chicago's Soldier Field."
     },
     {
-      "id": "129b8b0e379a9bf3",
-      "title": "2026 NFL offseason preview: Green Bay Packers still have youth, but need to start delivering results",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-green-bay-packers-still-have-youth-but-need-to-start-delivering-results-050454179.html",
+      "id": "536dfaff348e4049",
+      "title": "2026 NFL offseason preview: Green Bay Packers need to start delivering results and get Micah Parsons a wingman",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-green-bay-packers-need-to-start-delivering-results-and-get-micah-parsons-a-wingman-050454938.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
       "published": "2026-01-11T05:04:54+0000",
       "summary": "Here's a look at the offseason work ahead for the Green Bay Packers."
-    },
-    {
-      "id": "1b5f85aff50fa7f9",
-      "title": "Bears score 25 points in final-quarter comeback to beat Packers",
-      "link": "https://sports.yahoo.com/articles/rams-survive-scare-beat-panthers-011019137.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T05:04:14+0000",
-      "summary": "The NFL play-offs get off to a thrilling start as the Chicago Bears make a stunning fightback and the Los Angeles Rams avoid a huge upset on Wildcard Weekend."
-    },
-    {
-      "id": "352e85aead25cd0c",
-      "title": "NFL playoff bracket 2026: Updated schedule, TV channels, scores for AFC and NFC games",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-bracket-2026-updated-102001662.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T05:00:00+0000",
-      "summary": "Here's a look at the full bracket for the NFL postseason."
-    },
-    {
-      "id": "1395c8b39d893ba6",
-      "title": "NFL playoff picture update: If the Eagles beat the 49ers, they will play the Bears in Chicago",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-eagles-beat-045807401.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T04:58:07+0000",
-      "summary": "A potential Week 13 rematch."
-    },
-    {
-      "id": "fc98c40d6f1fdd22",
-      "title": "NFL world reacts to Panthers' absolutely wild near-upset of Rams",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-panthers-absolutely-045505468.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T04:55:05+0000",
-      "summary": "The Panthers might not have come out with a win on Saturday. But they still left their mark with a near-upset of the Rams."
-    },
-    {
-      "id": "adc65bd27163b5f6",
-      "title": "Inside Jordan Love's playoff record and stats: How many wins does Packers QB have in NFL career?",
-      "link": "https://sports.yahoo.com/articles/inside-jordan-loves-playoff-record-084001610.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T04:55:00+0000",
-      "summary": "Here's how the Packers' quarterback has fared in the postseason."
-    },
-    {
-      "id": "55f4861b692a68d3",
-      "title": "Harbaugh to limit interviews to just a few teams",
-      "link": "https://espn.com/nfl/story/_/id/47573091/john-harbaugh-limit-coaching-interviews-teams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T03:30:03+0000",
-      "summary": "Former Ravens coach John Harbaugh will narrow his options to just a few NFL teams before starting to take interviews for his next potential job, he told Fox Sports."
-    },
-    {
-      "id": "2b604724ce4e7c7c",
-      "title": "Stafford, Garrett, Nacua top NFL All-Pro Team",
-      "link": "https://espn.com/nfl/story/_/id/47569391/stafford-garrett-nacua-smith-njigba-headline-nfl-all-proteam",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T03:30:03+0000",
-      "summary": "Matthew Stafford, Myles Garrett, Puka Nacua and Jaxon Smith-Njigba headline the 2025 Associated Press NFL All-Pro Team."
-    },
-    {
-      "id": "d5f1afa8b4f81c89",
-      "title": "Commanders name former NFL QB Blough as OC",
-      "link": "https://espn.com/nfl/story/_/id/47564396/washington-commanders-promote-david-blough-offensive-coordinator",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T03:30:03+0000",
-      "summary": "The Commanders have promoted David Blough to offensive coordinator after only two years as an assistant quarterbacks coach."
-    },
-    {
-      "id": "5063da0dac68d3ff",
-      "title": "🏈 Kiper's Big Board: Ranking top draft prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T03:30:03+0000",
-      "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, starting with two quarterbacks and one really good running back. See who makes the new list."
     },
     {
       "id": "9c499418bb1d115e",
@@ -153,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-01-11T01:39:20+0000",
       "summary": "Bills-Jaguars? Niners-Eagles? Chargers-Pats? Texans-Steelers? We have picks, predictions and stats to know for every wild-card game."
-    },
-    {
-      "id": "75f711dee6339226",
-      "title": "Overreactions and big questions off NFL wild-card games: Sizing up Caleb Williams, the Rams' defense",
-      "link": "https://espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T01:30:03+0000",
-      "summary": "Is Caleb Williams a future MVP? Do the Rams have secondary problems? We're making sense of each game in the NFL playoffs wild-card round."
     },
     {
       "id": "85d4a1433f6c1b69",
@@ -540,6 +504,42 @@
       "feed": "CBS4Indy",
       "published": "2026-01-05T17:48:20+0000",
       "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
+    },
+    {
+      "id": "4d8c365f956dbb23",
+      "title": "Daniel Jones would 'love to be back' with Colts, expects to be ready by start of training camp in 2026",
+      "link": "https://colts.com/news/daniel-jones-would-love-to-be-back-with-colts-expects-to-be-ready-by-start-of-training-camp-in-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T17:01:45+0000",
+      "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
+    },
+    {
+      "id": "cf2e30341145b1f7",
+      "title": "Colts sign 16 players to reserve/future contracts, sign LB Austin Ajiake to one-year contract extension",
+      "link": "https://colts.com/news/colts-sign-16-players-to-reserve-future-contracts-sign-lb-austin-ajiake-to-one-year-contract-extension",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T16:14:10+0000",
+      "summary": "The Colts made the roster moves on Monday."
+    },
+    {
+      "id": "ebd0b801c4f09dee",
+      "title": "TUNE IN: Owner & CEO Carlie Irsay-Gordon press conference Monday, January 5 at 2:30 p.m.",
+      "link": "https://colts.com/news/tune-in-owner-ceo-carlie-irsay-gordon-press-conference-monday-january-5-at-2-30-p-m",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T15:58:57+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "9baa4a7ade7dfa07",
+      "title": "Colts Blue Zone Podcast 454: Leonard's First Start; Colts Run It Back",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-454-leonards-first-start-colts-run-it-back/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T14:03:10+0000",
+      "summary": "The Indianapolis Colts finished the season with a losing record for the second year in a row. While Alec Pierce played big and Riley Leonard showed promise, it wasn't enough to come away with the win. Despite this season's collapse--the Colts were once 8-2 and appeared to be a lock for the playoffs--GM Chris Ballard [...]"
     }
   ],
   "links": [
