@@ -1,23 +1,50 @@
 {
-  "updated": "2026-01-11T16:47:20+00:00",
+  "updated": "2026-01-11T17:16:46+00:00",
   "items": [
     {
-      "id": "1de6308635f4d688",
-      "title": "NFL Inactive Report",
-      "link": "https://sports.yahoo.com/articles/nfl-inactive-report-163143942.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-11T16:31:43+0000",
-      "summary": ""
+      "id": "55f4861b692a68d3",
+      "title": "Harbaugh to limit interviews to just a few teams",
+      "link": "https://espn.com/nfl/story/_/id/47573091/john-harbaugh-limit-coaching-interviews-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T17:05:43+0000",
+      "summary": "Former Ravens coach John Harbaugh will narrow his options to just a few NFL teams before starting to take interviews for his next potential job, he told Fox Sports."
     },
     {
-      "id": "0c1017da876eccef",
-      "title": "2026 NFL Draft scouting report: Genesis Smith, Safety, Arizona",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-163019532.html",
+      "id": "5063da0dac68d3ff",
+      "title": "🏈 Kiper's Big Board: Ranking top draft prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T17:05:43+0000",
+      "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, starting with two quarterbacks and one really good running back. See who makes the new list."
+    },
+    {
+      "id": "75f711dee6339226",
+      "title": "Two overreactions, two big questions: Graziano and Solak make sense of Saturday's wild-card comebacks",
+      "link": "https://espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-11T17:05:38+0000",
+      "summary": "Is Caleb Williams a future MVP? Do the Rams have secondary problems? We're making sense of each game in the NFL playoffs wild-card round."
+    },
+    {
+      "id": "590a5665f755aa1b",
+      "title": "NFL Playoffs: Game times, TV channels, streaming, odds for Sunday’s games",
+      "link": "https://sports.yahoo.com/articles/nfl-playoffs-game-times-tv-170000768.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-11T16:30:19+0000",
-      "summary": "Another scouting report is live from us, this time on Arizona safety, Genesis Smith."
+      "published": "2026-01-11T17:00:00+0000",
+      "summary": "It’s a playoff triple header for your Sunday football fix."
+    },
+    {
+      "id": "bbd82dc80e8b248b",
+      "title": "Inside Matthew Stafford's playoff record and stats: How many wins does Rams QB have in NFL career?",
+      "link": "https://sports.yahoo.com/articles/inside-matthew-staffords-playoff-record-080001475.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-11T16:53:00+0000",
+      "summary": "Exploring how the Rams quarterback has historically fared in the NFL Playoffs."
     },
     {
       "id": "5e84a8887dea8985",
@@ -29,33 +56,6 @@
       "summary": "There are now eight head coach openings around the NFL. Here's what to know."
     },
     {
-      "id": "55f4861b692a68d3",
-      "title": "Harbaugh to limit interviews to just a few teams",
-      "link": "https://espn.com/nfl/story/_/id/47573091/john-harbaugh-limit-coaching-interviews-teams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T15:14:39+0000",
-      "summary": "Former Ravens coach John Harbaugh will narrow his options to just a few NFL teams before starting to take interviews for his next potential job, he told Fox Sports."
-    },
-    {
-      "id": "5063da0dac68d3ff",
-      "title": "🏈 Kiper's Big Board: Ranking top draft prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T15:14:39+0000",
-      "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, starting with two quarterbacks and one really good running back. See who makes the new list."
-    },
-    {
-      "id": "75f711dee6339226",
-      "title": "Two overreactions, two big questions: Graziano and Solak make sense of Saturday's wild-card comebacks",
-      "link": "https://espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-11T13:32:56+0000",
-      "summary": "Is Caleb Williams a future MVP? Do the Rams have secondary problems? We're making sense of each game in the NFL playoffs wild-card round."
-    },
-    {
       "id": "9bab6cf95e462951",
       "title": "NFL wild-card round's best arrivals, featuring Jaylon Johnson, Bryce Young",
       "link": "https://espn.com/nfl/story/_/id/47554790/nfl-wild-card-weekend-fashionable-arrivals",
@@ -65,9 +65,9 @@
       "summary": "Before the wild-card round kicked off, players made sure to put their most fashionable foot forward."
     },
     {
-      "id": "27b1a3e223170e98",
+      "id": "062c9382f9716cfb",
       "title": "Colts’ Quenton Nelson 2nd team All-Pro",
-      "link": "https://fox59.com/sports/colts-quenton-nelson-2nd-team-all-pro/",
+      "link": "https://fox59.com/sports/colts/colts-quenton-nelson-2nd-team-all-pro/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-01-10T17:01:40+0000",
