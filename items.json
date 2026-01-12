@@ -1,59 +1,32 @@
 {
-  "updated": "2026-01-12T16:54:13+00:00",
+  "updated": "2026-01-12T17:22:44+00:00",
   "items": [
-    {
-      "id": "a2014ed65db019c1",
-      "title": "What Dylan Raiola's commitment to Oregon Ducks signals for Dante Moore's NFL future",
-      "link": "https://sports.yahoo.com/articles/dylan-raiolas-commitment-oregon-ducks-164528197.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T16:45:28+0000",
-      "summary": "The Oregon Ducks swung for the fences in a big way with a transfer quarterback on Monday. But they may have just caused themselves a major problem in the process."
-    },
-    {
-      "id": "7177462e90222cf6",
-      "title": "NFL head coaching predictions for every opening, including Giants, Browns, Falcons",
-      "link": "https://sports.yahoo.com/articles/nfl-head-coaching-predictions-every-164416014.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T16:44:16+0000",
-      "summary": "Here are our picks for the open jobs."
-    },
-    {
-      "id": "efbef21e80950c23",
-      "title": "Tennessee Titans see largest attendance drop in NFL in 2025",
-      "link": "https://sports.yahoo.com/articles/tennessee-titans-see-largest-attendance-163831894.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T16:38:31+0000",
-      "summary": "The Tennessee Titans had the largest drop in attendance year-over-year in the NFL in 2025."
-    },
-    {
-      "id": "41a9e163c1b68c0b",
-      "title": "Will negotiations between Packers and Matt LaFleur result in an extension?",
-      "link": "https://sports.yahoo.com/articles/negotiations-between-packers-matt-lafleur-163111070.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T16:31:11+0000",
-      "summary": "The negotiation of NFL coaching contracts can be a game of high-stakes poker."
-    },
-    {
-      "id": "a3a235be5d9804d0",
-      "title": "Why Daniel Ricciardo is best friends with NFL hero Josh Allen and a Buffalo Bills fan",
-      "link": "https://sports.yahoo.com/articles/why-daniel-ricciardo-best-friends-163000222.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T16:30:00+0000",
-      "summary": "Daniel Ricciardo has been absent from the Formula 1 grid for just over one year now, and it looks set that he won’t be making a return any time soon. An eight-time race winner, the Australian driver sadly never got the chance to compete for a championship."
-    },
     {
       "id": "5e84a8887dea8985",
       "title": "Tracking NFL head coach firings: Dolphins move on from Mike McDaniel",
       "link": "https://espn.com/nfl/story/_/id/46437226/2025-nfl-coaching-changes-latest-news-rumors-firings-hires",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-12T15:37:24+0000",
+      "published": "2026-01-12T17:18:28+0000",
       "summary": "There are now eight head coach openings around the NFL. Here's what to know, including pros and cons for the open jobs."
+    },
+    {
+      "id": "e4fbaf550801e8b5",
+      "title": "NFL Takes Action against J.J. McCarthy",
+      "link": "https://sports.yahoo.com/articles/nfl-takes-action-against-j-171300328.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:13:00+0000",
+      "summary": "Most fans loved it when J.J. McCarthy stiff-armed a Green Bay Packers defender, delivered a hit on another thereafter, and [&#8230;]"
+    },
+    {
+      "id": "163b2b2a4ea2ef37",
+      "title": "Why is Texans-Steelers outcome holding up division-round scheduling?",
+      "link": "https://sports.yahoo.com/articles/why-texans-steelers-outcome-holding-170811189.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:08:11+0000",
+      "summary": "The NFL has picked the days, but not the times or the networks, for next weekend's playoff games."
     },
     {
       "id": "75f711dee6339226",
@@ -61,17 +34,17 @@
       "link": "https://espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-12T14:37:44+0000",
+      "published": "2026-01-12T16:55:44+0000",
       "summary": "Are the Patriots still untested? Could this be the Bills' year? Is Caleb Williams a future MVP? We're sizing up every NFL playoffs wild-card game."
     },
     {
-      "id": "db9c85e964e03662",
-      "title": "The NFL playoffs kicked off leaving Colts fans to wonder what could have been",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120543/the-nfl-playoffs-kicked-off-leaving-colts-fans-to-wonder-what-could-have-been",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-12T13:30:00+0000",
-      "summary": "Wild Card Weekend kicked off in the NFL. As always, there was plenty of drama and intrigue. From the storylines, to the Bears’ dramatic come from behind win, to all of the road teams that found success, the first weekend of the playoffs didn’t disappoint. It was a stress free weekend for someone with a [&#8230;]"
+      "id": "ee2670a80fcf878c",
+      "title": "Divisional round odds, early bets: Seahawks favored vs. 49ers, Rams over Bears",
+      "link": "https://espn.com/espn/betting/story/_/id/47566766/2025-nfl-playoffs-divisional-round-schedule-betting-odds-spreads-lines-totals-preview",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-12T16:49:30+0000",
+      "summary": "Our early bets for the NFL divisional round, plus spreads, lines, totals and FPI analysis for every game."
     },
     {
       "id": "4e8921a5e5479447",
@@ -236,6 +209,15 @@
       "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
     },
     {
+      "id": "d445a7e9b6c30fed",
+      "title": "Colts GM Chris Ballard aims to inject youth and speed into defense",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/120426/colts-gm-chris-ballard-aims-to-inject-youth-and-speed-into-defense",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-08T19:11:30+0000",
+      "summary": "Indianapolis, IN — Indianapolis Colts general manager Chris Ballard concluded with his most recent end-of-season press conference around lunchtime, fitting for someone who says they’re hungry to right the ship but whose results suggest otherwise. Making it a decade’s worth of data points as we enter year ten of the Chris Ballard era, there’s little [&#8230;]"
+    },
+    {
       "id": "aeaf2a840e3e2449",
       "title": "Colts GM Chris Ballard talks Daniel Jones, Philip Rivers and late-season fade",
       "link": "https://fox59.com/sports/colts/colts-gm-chris-ballard-talks-daniel-jones-philip-rivers-and-late-season-fade/",
@@ -252,6 +234,15 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:52:26+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "a78359bb1b734006",
+      "title": "There is a lot to digest with no games to play for the Colts.",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120286/there-is-a-lot-to-digest-with-no-games-to-play-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-08T17:49:28+0000",
+      "summary": "I’ll start by saying that it is probably healthier to just forget about last season and move on to how to win next year, but like many of you, I have to view the start of next season in a way that reminds me a lot of last season. The decision to remain status quo [&#8230;]"
     },
     {
       "id": "ca4261341d0b1b48",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T17:49:42+0000",
       "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
+    },
+    {
+      "id": "ff6b8bc28d66c3b9",
+      "title": "Colts announce 6 inactive players for Week 18 game at Houston Texans",
+      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-18-game-at-houston-texans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T16:30:34+0000",
+      "summary": "The Colts previously ruled out cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) prior to Sunday."
     }
   ],
   "links": [
