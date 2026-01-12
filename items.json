@@ -1,6 +1,42 @@
 {
-  "updated": "2026-01-12T05:28:33+00:00",
+  "updated": "2026-01-12T05:54:24+00:00",
   "items": [
+    {
+      "id": "caa81e273f160508",
+      "title": "'Hungry for more': 49ers' petty posts at Eagles tops NFL wild-card trolls",
+      "link": "https://espn.com/nfl/story/_/id/47585316/nfl-wild-card-round-2025-trolls",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-12T05:44:57+0000",
+      "summary": "The NFL wild-card round had its fair share of petty posts after big wins, led by the San Francisco 49ers."
+    },
+    {
+      "id": "9bab6cf95e462951",
+      "title": "NFL wild-card arrivals deliver statement looks -- led by Pats' Christian Gonzalez",
+      "link": "https://espn.com/nfl/story/_/id/47554790/nfl-wild-card-weekend-fashionable-arrivals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-12T05:44:57+0000",
+      "summary": "Before the wild-card round kicked off, players made sure to put their most fashionable foot forward."
+    },
+    {
+      "id": "8be5304b9d564146",
+      "title": "NFL power rankings: Ranking the nine teams left in 2026 playoffs, from Seahawks to Steelers",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-ranking-nine-053836611.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T05:38:36+0000",
+      "summary": "In Sporting News' latest power rankings for the 2026 divisional round, here's looking at how all nine teams still alive to win Super Bowl 60 stack up against each other."
+    },
+    {
+      "id": "d6047d9056b6bd81",
+      "title": "2026 NFL offseason previews: Your guide to Eagles, Packers, Chargers and every eliminated team's work ahead",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-previews-your-guide-to-eagles-packers-chargers-and-every-eliminated-teams-work-ahead-052446089.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T05:24:46+0000",
+      "summary": "Here is an in-depth look at each team, from how their 2025 season went and what their salary cap and free agent situations look like to their draft capital and glaring needs."
+    },
     {
       "id": "fe3d3b069bfae358",
       "title": "2025 NFL wild-card betting: Will Texans' defense be too much for Steelers?",
@@ -9,6 +45,15 @@
       "feed": "ESPN",
       "published": "2026-01-12T05:23:21+0000",
       "summary": "Odds, game picks, prop plays, betting advice and daily fantasy tips for the Texans-Steelers wild-card matchup."
+    },
+    {
+      "id": "d3a53cdf3e1dc230",
+      "title": "Who plays on 'Monday Night Football' tonight? Time, TV channel, schedule for NFL wild card playoff game",
+      "link": "https://sports.yahoo.com/articles/plays-monday-night-football-tonight-052001811.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T05:20:01+0000",
+      "summary": "All you need to know to watch &quot;Monday Night Football&quot; in the NFL wild-card round."
     },
     {
       "id": "5063da0dac68d3ff",
@@ -29,6 +74,15 @@
       "summary": "The Oregon Ducks fell to the Indiana Hoosiers in the Peach Bowl, which holds an uncertain future for Ducks quarterback Dante Moore as to whether he will enter the NFL Draft or stay in school. Should he leave, he has the opportunity to be the No. 1 or No. 2 overall pick."
     },
     {
+      "id": "09e2bad15bb4bf1c",
+      "title": "Chiefs fans take in first postseason without Mahomes, team in the mix",
+      "link": "https://sports.yahoo.com/articles/chiefs-fans-first-postseason-without-050712612.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T05:07:12+0000",
+      "summary": "SPRINGFIELD–For the first time since 2014, the Kansas City Chiefs are not in the NFL playoffs, and it’s a weird feeling down here, in Arrowhead South. Since the fall of 2015, the Chiefs had won 10 consecutive AFC West Division titles, and competed in the postseason each year. The height of KC’s playoff prowess came […]"
+    },
+    {
       "id": "f944c7104948ffa4",
       "title": "Justin Herbert, Chargers deserve every ounce of criticism after yet another playoff disaster",
       "link": "https://sports.yahoo.com/articles/justin-herbert-chargers-deserve-every-050527248.html",
@@ -38,24 +92,6 @@
       "summary": "The Los Angeles Chargers are the perpetual disappointments of the NFL"
     },
     {
-      "id": "98561f0996006c56",
-      "title": "NFL Divisional Round schedule: Dates and times for every game",
-      "link": "https://sports.yahoo.com/articles/nfl-divisional-round-schedule-dates-044520283.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T04:45:20+0000",
-      "summary": "Here are the dates and times for every game in this year's NFL Divisional Round of the playoffs."
-    },
-    {
-      "id": "2e2e3bb92df269ca",
-      "title": "Los Angeles Chargers 2026 NFL Draft order: 1st-round pick finalized with Wild Card exit",
-      "link": "https://sports.yahoo.com/articles/los-angeles-chargers-2026-nfl-044500440.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T04:45:00+0000",
-      "summary": "Along with the Chargers loss to the New England Patriots on Sunday comes one thing to look forward to: The Chargers’ first-round draft pick in 2026. Now that the Bolts have been eliminated from the playoffs, their draft position is finalized. Here’s the updated draft order after New England’s win over the Chargers. Updated 2026 […]"
-    },
-    {
       "id": "85d4a1433f6c1b69",
       "title": "Offseason guide for eliminated NFL teams: Key free agents, draft outlook, priorities and predictions",
       "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
@@ -63,15 +99,6 @@
       "feed": "ESPN",
       "published": "2026-01-12T04:35:22+0000",
       "summary": "The NFL offseason has arrived for 23 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
-    },
-    {
-      "id": "9bab6cf95e462951",
-      "title": "NFL wild-card arrivals deliver statement looks -- led by Pats' Christian Gonzalez",
-      "link": "https://espn.com/nfl/story/_/id/47554790/nfl-wild-card-weekend-fashionable-arrivals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-12T01:15:43+0000",
-      "summary": "Before the wild-card round kicked off, players made sure to put their most fashionable foot forward."
     },
     {
       "id": "5e84a8887dea8985",
@@ -225,15 +252,6 @@
       "feed": "Colts.com",
       "published": "2026-01-08T20:10:30+0000",
       "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
-    },
-    {
-      "id": "416b1602b12d6f08",
-      "title": "2026 NFL offseason previews: Your guide to every eliminated team's work ahead",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-previews-your-guide-to-every-eliminated-teams-work-ahead-191837054.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-08T19:18:37+0000",
-      "summary": "Here is an in-depth look at each team, from how their 2025 season went and what their salary cap and free agent situations look like to their draft capital and glaring needs."
     },
     {
       "id": "2ab28dd3d4dfcd59",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T22:48:56+0000",
       "summary": "Leonard was 21-of-34 for 270 yards and two touchdowns, and had three carries for 21 rushing yards and a touchdown, in Sunday's loss to the Houston Texans."
-    },
-    {
-      "id": "edbfff5dd2089e44",
-      "title": "Colts fans reflect on dismal season and remain hopeful for the year to come",
-      "link": "https://fox59.com/sports/colts/colts-fans-reflect-on-dismal-season-and-remain-hopeful-for-the-year-to-come/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T22:34:10+0000",
-      "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
-    },
-    {
-      "id": "17d397b18a9894e5",
-      "title": "Colts drop season finale, 38-30 in Houston",
-      "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T21:15:00+0000",
-      "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
     }
   ],
   "links": [
