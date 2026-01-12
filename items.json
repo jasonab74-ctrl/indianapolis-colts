@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-12T07:26:18+00:00",
+  "updated": "2026-01-12T07:47:38+00:00",
   "items": [
+    {
+      "id": "cef59d62b7bc6d7a",
+      "title": "Another NFL insider says Titans in the mix for John Harbaugh",
+      "link": "https://sports.yahoo.com/articles/another-nfl-insider-says-titans-072144730.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T07:21:44+0000",
+      "summary": "For a second straight day, an NFL Insider mentions John Harbaugh as a realistic candidate for the Tennessee Titans' head coaching position."
+    },
     {
       "id": "3e5f2d3bd0c4926f",
       "title": "49ers upset champions Eagles in NFL play-offs",
@@ -27,24 +36,6 @@
       "feed": "ESPN",
       "published": "2026-01-12T06:53:21+0000",
       "summary": "Mel Kiper Jr. is stacking the top 25 players for the 2026 NFL draft, starting with two quarterbacks and one really good running back. See who makes the new list."
-    },
-    {
-      "id": "7bebb2c6d2bac51a",
-      "title": "NFL Wild Card INSTANT reactions: Bills are AFC favorites? Bears should be FEARED, where Eagles go from here",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-wild-card-instant-reactions-bills-are-afc-favorites-bears-should-be-feared-where-eagles-go-from-here-063853286.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T06:38:53+0000",
-      "summary": "Nate Tice & Matt Harmon give their instant reactions and takeaways from NFL Wild Card Weekend."
-    },
-    {
-      "id": "6c64ca7c51e65170",
-      "title": "NFL playoff winners and losers: Unraveling Eagles come fully undone",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-winners-losers-unraveling-063608403.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T06:36:08+0000",
-      "summary": "The Eagles' Super Bowl repeat bid has been a season-long struggle, but Philadelphia came fully unraveled in Sunday's playoff loss to the 49ers."
     },
     {
       "id": "caa81e273f160508",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T21:15:00+0000",
       "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
+    },
+    {
+      "id": "5f585f1cd0feb392",
+      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
+      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T21:14:16+0000",
+      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
     }
   ],
   "links": [
