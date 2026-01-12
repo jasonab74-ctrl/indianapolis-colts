@@ -1,32 +1,59 @@
 {
-  "updated": "2026-01-12T17:22:44+00:00",
+  "updated": "2026-01-12T17:44:49+00:00",
   "items": [
+    {
+      "id": "b6e3ad9723ac5ef7",
+      "title": "Falcons tease release of new uniforms for 2026 NFL season",
+      "link": "https://sports.yahoo.com/articles/falcons-tease-release-uniforms-2026-173744650.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:37:44+0000",
+      "summary": "Are the Falcons getting new uniforms in 2026? Social media account hints at April unveiling"
+    },
+    {
+      "id": "1a954417b736fb04",
+      "title": "Indiana football safety Amare Ferrell returning for 2026 season. Here's what we know",
+      "link": "https://sports.yahoo.com/articles/indiana-football-safety-amare-ferrell-172927918.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:29:27+0000",
+      "summary": "Indiana football is keeping a key member of the secondary who was a potential NFL draft prospect in the fold for 2026."
+    },
+    {
+      "id": "1c669ec75d6f23f5",
+      "title": "Mike Vrabel gives update on injured Patriots star after early exit from Chargers game",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-gives-injured-patriots-172631610.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:28:59+0000",
+      "summary": "Gonzalez's availability for this weekend's NFL divisional round game is unclear."
+    },
+    {
+      "id": "a630aa8c90434ecd",
+      "title": "Nick Wright Offered Surprising Patriots Take After Win Over Chargers",
+      "link": "https://sports.yahoo.com/articles/nick-wright-offered-surprising-patriots-172857460.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:28:57+0000",
+      "summary": "The New England Patriots punched their ticket for the divisional round of the 2025 NFL Playoffs on Sunday night when they handed the Los Angeles Chargers a 16-3 defeat. While it wasn’t a pretty game, New England earned quite a bit of praise for its performance, with notorious Patriots hater Nick Wright even praising the […]"
+    },
+    {
+      "id": "acf175c0cd8762a4",
+      "title": "NFL wild-card winners and losers: Was that the greatest round of games in NFL playoff history?",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-wild-card-winners-and-losers-was-that-the-greatest-round-of-games-in-nfl-playoff-history-172753879.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-12T17:27:53+0000",
+      "summary": "There was no shortage of drama to start the NFL playoffs."
+    },
     {
       "id": "5e84a8887dea8985",
       "title": "Tracking NFL head coach firings: Dolphins move on from Mike McDaniel",
       "link": "https://espn.com/nfl/story/_/id/46437226/2025-nfl-coaching-changes-latest-news-rumors-firings-hires",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-12T17:18:28+0000",
-      "summary": "There are now eight head coach openings around the NFL. Here's what to know, including pros and cons for the open jobs."
-    },
-    {
-      "id": "e4fbaf550801e8b5",
-      "title": "NFL Takes Action against J.J. McCarthy",
-      "link": "https://sports.yahoo.com/articles/nfl-takes-action-against-j-171300328.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T17:13:00+0000",
-      "summary": "Most fans loved it when J.J. McCarthy stiff-armed a Green Bay Packers defender, delivered a hit on another thereafter, and [&#8230;]"
-    },
-    {
-      "id": "163b2b2a4ea2ef37",
-      "title": "Why is Texans-Steelers outcome holding up division-round scheduling?",
-      "link": "https://sports.yahoo.com/articles/why-texans-steelers-outcome-holding-170811189.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-12T17:08:11+0000",
-      "summary": "The NFL has picked the days, but not the times or the networks, for next weekend's playoff games."
+      "published": "2026-01-12T17:22:01+0000",
+      "summary": "There are now eight head coach openings around the NFL. Here are the pros and cons for the open jobs."
     },
     {
       "id": "75f711dee6339226",
@@ -234,15 +261,6 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:52:26+0000",
       "summary": "The Colts made the roster move on Thursday."
-    },
-    {
-      "id": "a78359bb1b734006",
-      "title": "There is a lot to digest with no games to play for the Colts.",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120286/there-is-a-lot-to-digest-with-no-games-to-play-for-the-colts",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-08T17:49:28+0000",
-      "summary": "I’ll start by saying that it is probably healthier to just forget about last season and move on to how to win next year, but like many of you, I have to view the start of next season in a way that reminds me a lot of last season. The decision to remain status quo [&#8230;]"
     },
     {
       "id": "ca4261341d0b1b48",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T20:45:00+0000",
       "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
-    },
-    {
-      "id": "849304200547adb3",
-      "title": "Keys to the Game: Colts at Texans",
-      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-at-texans-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T17:49:42+0000",
-      "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
-    },
-    {
-      "id": "ff6b8bc28d66c3b9",
-      "title": "Colts announce 6 inactive players for Week 18 game at Houston Texans",
-      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-18-game-at-houston-texans",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T16:30:34+0000",
-      "summary": "The Colts previously ruled out cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) prior to Sunday."
     }
   ],
   "links": [
