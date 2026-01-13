@@ -1,6 +1,33 @@
 {
-  "updated": "2026-01-13T07:44:42+00:00",
+  "updated": "2026-01-13T08:30:11+00:00",
   "items": [
+    {
+      "id": "1b0591ebfcc3674e",
+      "title": "NFL's wild-card weekend was full of fourth-down fun and folly along with a dearth of punts",
+      "link": "https://sports.yahoo.com/articles/nfls-wild-card-weekend-full-080509172.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-13T08:05:09+0000",
+      "summary": "The NFL set a record for fewest punts per game in 2025, and wild-card weekend was filled with fourth-down fun and folly as punters were mostly spectators, especially Chicago's Tory Taylor, who never stepped off the sideline in the Bears' come-from-behind win over the Green Bay Packers.  In all, teams converted 15 of 29 fourth down attempts on wild-card weekend, when there were only 41 punts, nine of them Monday night in the Houston Texans' 30-6 rout of Aaron Rodgers and the Pittsburgh Steelers.  Bears first-year coach Ben Johnson was particularly aggressive, going for it a half dozen times in fourth down Saturday night, including two backfires in the first half that led to a pair of Green Bay touchdowns and put the Bears in a 21-3 halftime hole."
+    },
+    {
+      "id": "e846e95f44341ca3",
+      "title": "Did Aaron Rodgers just finish his NFL career with pick 6? He explained how he'll make retirement decision after Steelers' blowout loss",
+      "link": "https://sports.yahoo.com/nfl/article/did-aaron-rodgers-just-finish-his-nfl-career-with-pick-6-he-explained-how-hell-make-retirement-decision-after-steelers-blowout-loss-075129073.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-13T07:51:29+0000",
+      "summary": "A darkness retreat may not determine whether it's time for Rodgers to hang up his cleats. But a clear mind, rather than a playoff loss-tinted one, will assist. &quot;Just get away,&quot; Rodgers said, &quot;and then have the right conversations.&quot;"
+    },
+    {
+      "id": "22d9e3f907c99a06",
+      "title": "NFL playoff picks, predictions for divisional games: Bills knock Broncos out, Rams end Bears' dream season",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picks-predictions-divisional-073002537.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-13T07:30:02+0000",
+      "summary": "Sporting News' Bill Bender gives out its divisional round picks and predictions 2026 playoffs."
+    },
     {
       "id": "caa81e273f160508",
       "title": "😈 Texans' petty post tops NFL wild-card trolls",
@@ -9,42 +36,6 @@
       "feed": "ESPN",
       "published": "2026-01-13T07:19:24+0000",
       "summary": "The NFL wild-card round had its fair share of petty posts after big wins, led by the Houston Texans."
-    },
-    {
-      "id": "5222347f40db9df9",
-      "title": "The road to Super Bowl 60",
-      "link": "https://sports.yahoo.com/articles/road-super-bowl-60-130646970.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-13T07:04:59+0000",
-      "summary": "This weekend marks the start of the 2026 NFL play-offs, as 14 teams battle it out to reach next month's Super Bowl."
-    },
-    {
-      "id": "524f43ffc32569a8",
-      "title": "What is the NFL play-off schedule?",
-      "link": "https://sports.yahoo.com/articles/nfl-play-offs-141744630.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-13T07:04:59+0000",
-      "summary": "BBC Sport's Ask Me Anything team explains how the NFL play-offs work, as well as a full rundown of the schedule"
-    },
-    {
-      "id": "f007214a5a15b88e",
-      "title": "NFL Mock Draft 2026: Jets, Raiders get their QBs; Cowboys double up on D; Eagles, Steelers go for receiving help",
-      "link": "https://sports.yahoo.com/articles/nfl-mock-draft-2026-jets-070002900.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-13T07:00:02+0000",
-      "summary": "In Sporting News' sixth edition of first-round projections for the 2026 NFL Draft after the wild-card round of the playoffs,"
-    },
-    {
-      "id": "a9c4b4fc13d52ec2",
-      "title": "Texans dominate Steelers in potential Rodgers farewell",
-      "link": "https://sports.yahoo.com/articles/texans-stifle-rodgers-knock-steelers-044335311.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-13T06:55:10+0000",
-      "summary": "The Houston Texans produce a defensive masterclass to beat the Pittsburgh Steelers 30-6 and book the final spot in the Divisional Round of the NFL play-offs."
     },
     {
       "id": "4e8921a5e5479447",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T17:49:42+0000",
       "summary": "INDIANAPOLIS - A once promising season at 8-2 comes to a close for the Colts today as they wrap up the 2025 season in Houston. IndyStar Colts' insider Joel A. Erickson gives Dave Griffiths the keys to the game if the team is going to snap a six-game losing streak and end the season with [...]"
+    },
+    {
+      "id": "ff6b8bc28d66c3b9",
+      "title": "Colts announce 6 inactive players for Week 18 game at Houston Texans",
+      "link": "https://colts.com/news/colts-announce-6-inactive-players-for-week-18-game-at-houston-texans",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T16:30:34+0000",
+      "summary": "The Colts previously ruled out cornerback Sauce Gardner (calf) and tight end Will Mallory (lung) prior to Sunday."
     }
   ],
   "links": [
