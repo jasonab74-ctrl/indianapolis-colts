@@ -1,14 +1,23 @@
 {
-  "updated": "2026-01-13T01:38:44+00:00",
+  "updated": "2026-01-13T03:27:05+00:00",
   "items": [
     {
-      "id": "4da2fb8f7b9ea20b",
-      "title": "Dolphins request HC interview with former Miami LB, current NFL DC",
-      "link": "https://sports.yahoo.com/articles/dolphins-request-hc-interview-former-010800877.html",
+      "id": "5e8b527d9e71a5e7",
+      "title": "Bears send survey to season ticket holders, asking if they would support potential move to Indiana",
+      "link": "https://sports.yahoo.com/articles/bears-send-survey-season-ticket-013724676.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-13T01:08:00+0000",
-      "summary": "The Dolphins are targeting a former starting linebacker for the franchise and a prominent NFC DC for their head coaching vacancy."
+      "published": "2026-01-13T03:11:31+0000",
+      "summary": "Sources told ABC7 that NFL Commissioner Roger Goodell toured potential Bears stadium sites in northwest Indiana and Arlington Heights over the weekend."
+    },
+    {
+      "id": "91c983bedb924619",
+      "title": "Former UNC football star Drake Maye critical of NFL Postseason debut",
+      "link": "https://sports.yahoo.com/articles/former-unc-football-star-drake-030023413.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-13T03:00:23+0000",
+      "summary": "Starring for three seasons at UNC, Drake Maye is now quarterback the New England Patriots. The former Tar Heel graded his NFL Postseason debut Sunday."
     },
     {
       "id": "75f711dee6339226",
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47571772/nfl-playoffs-wildcard-round-nfc-afc-big-questions-overreactions-2026",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-12T23:50:23+0000",
+      "published": "2026-01-13T02:23:47+0000",
       "summary": "Are the Patriots still untested? Could this be the Bills' year? Is Caleb Williams a future MVP? We're sizing up every NFL playoffs wild-card game."
     },
     {
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T13:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Houston Texans on Sunday, January 4 at 1:00 p.m. ET (Week 18)."
-    },
-    {
-      "id": "e147a8ffe614e89c",
-      "title": "Colts at Texans: What to watch for",
-      "link": "https://fox59.com/sports/colts/colts-at-texans-what-to-watch-for-2/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-03T21:57:40+0000",
-      "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ meeting with the Texans on Sunday at Houston’s NRG Stadium. History lesson, Part I The Colts lead the overall series 33-14-1, but the Texans have dominated the recent portion. They’ve won four straight and five of the last six. Houston won the first meeting in late [...]"
     }
   ],
   "links": [
