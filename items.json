@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-14T21:20:46+00:00",
+  "updated": "2026-01-14T21:44:01+00:00",
   "items": [
+    {
+      "id": "98b41f7a68168856",
+      "title": "Eagles urged to add Justin Herbert's former OC for Jalen Hurts",
+      "link": "https://sports.yahoo.com/articles/eagles-urged-add-justin-herberts-212441681.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-14T21:24:41+0000",
+      "summary": "A former NFL linebacker-turned-analyst believes the Philadelphia Eagles should consider adding Justin Herbert's former offensive coordinator to work with Jalen Hurts."
+    },
+    {
+      "id": "9856e737b47bb2d1",
+      "title": "Ranking NFL head coach openings by team starting quarterback",
+      "link": "https://sports.yahoo.com/articles/ranking-nfl-head-coach-openings-212406069.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-14T21:24:06+0000",
+      "summary": "We ranked the NFL's head coach openings by the teams quarterback, and"
+    },
     {
       "id": "103e382e90918602",
       "title": "QB Moore opts against draft, returning to Ducks",
@@ -47,15 +65,6 @@
       "summary": "Many NFL coaches pull off winning seasons, but few stay with a team for 20-plus seasons. Learn more about the all-time longest-tenured coaches now."
     },
     {
-      "id": "4053bf9ff3cfdd74",
-      "title": "Will Nico Collins Play Against Patriots? Here’s Latest On Texans WR",
-      "link": "https://sports.yahoo.com/articles/nico-collins-play-against-patriots-210730611.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T21:07:30+0000",
-      "summary": "It’s looking more and more like the Houston Texans will be without their best offensive player when they visit the New England Patriots on Sunday. Star wideout Nico Collins didn’t participate in Wednesday’s Texans practice, according to Houston Chronicle reporter Sam Warren. Collins, one of the best wideouts in the NFL, was carted off the […]"
-    },
-    {
       "id": "a075ef882f71e2f7",
       "title": "DraftKings DFS cheat sheet: Rams duo tops their positions in value",
       "link": "https://espn.com/fantasy/football/story/_/id/47610881/draftkings-nfl-dfs-values-divisional-playoff-rounds",
@@ -63,24 +72,6 @@
       "feed": "ESPN",
       "published": "2026-01-14T21:06:59+0000",
       "summary": "Build a winning DFS lineup with our DraftKings NFL divisional round cheat sheet."
-    },
-    {
-      "id": "04e6e44677832ec0",
-      "title": "Kirk Cousins to join CBS NFL panel for divisional playoff games",
-      "link": "https://sports.yahoo.com/articles/kirk-cousins-join-cbs-nfl-210507668.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T21:05:07+0000",
-      "summary": "Falcons QB Kirk Cousins to appear on CBS NFL panel for divisional playoff games"
-    },
-    {
-      "id": "546494c81407fee8",
-      "title": "Bengals get some bad news after unexpected NFL draft update",
-      "link": "https://sports.yahoo.com/articles/bengals-bad-news-unexpected-nfl-210506510.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T21:05:06+0000",
-      "summary": "A piece of NFL draft news could actually hurt the Bengals."
     },
     {
       "id": "5063da0dac68d3ff",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-04T22:57:24+0000",
       "summary": "Alec Pierce's outstanding 2025 season ended in bizarre fashion on Sunday against the Houston Texans."
+    },
+    {
+      "id": "9826505b5db227b3",
+      "title": "Colts QB Riley Leonard exceeds expectations in first career start: 'He can definitely play in this league for a long time'",
+      "link": "https://colts.com/news/colts-quarterback-riley-leonard-exceeds-expectations-first-career-start-shane-steichen-rookie-alec-pierce",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T22:48:56+0000",
+      "summary": "Leonard was 21-of-34 for 270 yards and two touchdowns, and had three carries for 21 rushing yards and a touchdown, in Sunday's loss to the Houston Texans."
     }
   ],
   "links": [
