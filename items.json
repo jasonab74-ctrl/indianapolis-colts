@@ -1,59 +1,14 @@
 {
-  "updated": "2026-01-14T20:44:10+00:00",
+  "updated": "2026-01-14T21:20:46+00:00",
   "items": [
     {
-      "id": "a454c80147d39950",
-      "title": "Giants coaching rumors tracker: Latest news on John Harbaugh, Mike McCarthy, other potential Brian Daboll replacements",
-      "link": "https://sports.yahoo.com/articles/giants-coaching-rumors-tracker-latest-154406042.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T20:25:00+0000",
-      "summary": "Who will the Giants bring in to coach Jaxson Dart? Here’s the latest on the search for someone to lead the NFL’s biggest-market team."
-    },
-    {
-      "id": "b64330d7ba5c677f",
-      "title": "What Dante Moore's NFL draft decision means for Tennessee Titans",
-      "link": "https://sports.yahoo.com/articles/dante-moores-nfl-draft-decision-202232507.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T20:22:32+0000",
-      "summary": "The Tennessee Titans' position with the No. 4 pick in the 2026 NFL Draft caught a curveball on Jan. 14 when Oregon QB Dante Moore elected to return to college."
-    },
-    {
-      "id": "d9f78d0f33cf8776",
-      "title": "What Dante Moore's NFL draft decision means for Tennessee Titans",
-      "link": "https://sports.yahoo.com/articles/dante-moores-nfl-draft-decision-202232584.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T20:22:32+0000",
-      "summary": "The Tennessee Titans' position with the No. 4 pick in the 2026 NFL Draft caught a curveball on Jan. 14 when Oregon QB Dante Moore elected to return to college."
-    },
-    {
-      "id": "d4543f796ae87ed8",
-      "title": "Chargers' top 10 offensive performers in 2025, per PFF",
-      "link": "https://sports.yahoo.com/articles/chargers-top-10-offensive-performers-202219409.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T20:22:19+0000",
-      "summary": "These Chargers players on offense received the highest PFF grades over the 2025 NFL season."
-    },
-    {
-      "id": "3944451c4238f39a",
-      "title": "There’s Mike Tomlin Blowback for the Vikings",
-      "link": "https://sports.yahoo.com/articles/mike-tomlin-blowback-vikings-202100113.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T20:21:00+0000",
-      "summary": "After 19 years, Pittsburgh Steelers head coach Mike Tomlin resigned on Tuesday, setting into motion an NFL frenzy, especially as [&#8230;]"
-    },
-    {
-      "id": "45a3bf68d0837a47",
-      "title": "Jets Take Hit As Possible Draft Selection Decides To Stay In College",
-      "link": "https://sports.yahoo.com/articles/jets-hit-possible-draft-selection-201844762.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T20:18:44+0000",
-      "summary": "The New York Jets have been on the lookout for a franchise quarterback for quite some time, but that search might have to be put on hold for another year. New York has the No. 2 pick in the upcoming NFL Draft, but it may struggle to find its quarterback with that selection. Oregon quarterback […]"
+      "id": "103e382e90918602",
+      "title": "QB Moore opts against draft, returning to Ducks",
+      "link": "https://espn.com/college-football/story/_/id/47611257/qb-dante-moore-opts-nfl-draft-returning-oregon",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-14T21:11:49+0000",
+      "summary": "Oregon QB Dante Moore, who was projected as a top pick in the NFL draft, has decided to return to school for the 2026 season, he announced on ESPN's \"SportsCenter.\""
     },
     {
       "id": "809fe6e80331bffe",
@@ -61,17 +16,8 @@
       "link": "https://espn.com/nfl/story/_/id/47610756/two-pro-bowl-wr-adam-thielen-announces-retirement-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-14T19:45:36+0000",
+      "published": "2026-01-14T21:11:49+0000",
       "summary": "Wide receiver Adam Thielen announced his retirement after 12 seasons in the NFL on social media Wednesday."
-    },
-    {
-      "id": "103e382e90918602",
-      "title": "QB Moore opts against draft, returning to Ducks",
-      "link": "https://espn.com/college-football/story/_/id/47611257/qb-dante-moore-opts-nfl-draft-returning-oregon",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-14T19:45:35+0000",
-      "summary": "Oregon QB Dante Moore, who was projected as a top pick in the NFL draft, has decided to return to school for the 2026 season, he announced on ESPN's \"SportsCenter.\""
     },
     {
       "id": "310d523d12eb5a93",
@@ -79,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47603473/denver-broncos-d-boost-dre-greenlaw-ready-bills",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-14T19:45:35+0000",
+      "published": "2026-01-14T21:11:49+0000",
       "summary": "Set to face the NFL's No. 1 rushing team in the Buffalo Bills on Saturday, the Denver Broncos' defense got a boost Tuesday."
     },
     {
@@ -88,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47602451/ravens-owner-bisciotti-wants-new-pact-jackson-march",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-14T19:45:35+0000",
+      "published": "2026-01-14T21:11:49+0000",
       "summary": "Baltimore Ravens owner Steve Bisciotti told reporters Tuesday that he's told star quarterback Lamar Jackson he wants a new deal done by the start of free agency in March, one that would significantly lower the two-time NFL MVP's $74.5 million cap number."
     },
     {
@@ -97,8 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/39286813/who-longest-tenured-head-coaches-nfl-history",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-14T19:45:35+0000",
+      "published": "2026-01-14T21:11:49+0000",
       "summary": "Many NFL coaches pull off winning seasons, but few stay with a team for 20-plus seasons. Learn more about the all-time longest-tenured coaches now."
+    },
+    {
+      "id": "4053bf9ff3cfdd74",
+      "title": "Will Nico Collins Play Against Patriots? Here’s Latest On Texans WR",
+      "link": "https://sports.yahoo.com/articles/nico-collins-play-against-patriots-210730611.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-14T21:07:30+0000",
+      "summary": "It’s looking more and more like the Houston Texans will be without their best offensive player when they visit the New England Patriots on Sunday. Star wideout Nico Collins didn’t participate in Wednesday’s Texans practice, according to Houston Chronicle reporter Sam Warren. Collins, one of the best wideouts in the NFL, was carted off the […]"
     },
     {
       "id": "a075ef882f71e2f7",
@@ -106,8 +61,35 @@
       "link": "https://espn.com/fantasy/football/story/_/id/47610881/draftkings-nfl-dfs-values-divisional-playoff-rounds",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-14T18:53:33+0000",
-      "summary": "Build a winning DFS lineup with our DraftKings NFL divisional round cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid."
+      "published": "2026-01-14T21:06:59+0000",
+      "summary": "Build a winning DFS lineup with our DraftKings NFL divisional round cheat sheet."
+    },
+    {
+      "id": "04e6e44677832ec0",
+      "title": "Kirk Cousins to join CBS NFL panel for divisional playoff games",
+      "link": "https://sports.yahoo.com/articles/kirk-cousins-join-cbs-nfl-210507668.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-14T21:05:07+0000",
+      "summary": "Falcons QB Kirk Cousins to appear on CBS NFL panel for divisional playoff games"
+    },
+    {
+      "id": "546494c81407fee8",
+      "title": "Bengals get some bad news after unexpected NFL draft update",
+      "link": "https://sports.yahoo.com/articles/bengals-bad-news-unexpected-nfl-210506510.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-14T21:05:06+0000",
+      "summary": "A piece of NFL draft news could actually hurt the Bengals."
+    },
+    {
+      "id": "5063da0dac68d3ff",
+      "title": "Kiper's updated 2026 Big Board: Ranking the top 25 NFL draft prospects, plus position reports",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-14T20:48:58+0000",
+      "summary": "Mel Kiper Jr. is stacking the top 25 players for the NFL draft, starting with Fernando Mendoza. See who follows him after Dante Moore decided to return to school."
     },
     {
       "id": "6899bc9be4e945db",
@@ -162,15 +144,6 @@
       "feed": "ESPN",
       "published": "2026-01-14T15:19:33+0000",
       "summary": "The NFL offseason has arrived for 24 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
-    },
-    {
-      "id": "5063da0dac68d3ff",
-      "title": "Kiper's updated 2026 Big Board: Ranking the top 25 draft prospects, plus position reports",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-14T15:18:54+0000",
-      "summary": "Mel Kiper Jr. stacks the top 25 players for the 2026 NFL draft, including one really good running back."
     },
     {
       "id": "c9f0fcfadb8c7fa4",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-05T00:00:40+0000",
       "summary": "Keep track of all updates to the 2026 NFL schedule, including early announcements, international games & more!"
+    },
+    {
+      "id": "26f4832671f570b1",
+      "title": "Colts general manager Chris Ballard, head coach Shane Steichen to return for 2026 season",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-head-coach-shane-steichen-to-return-for-2026-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T23:38:13+0000",
+      "summary": "Colts Owner and CEO Carlie Irsay-Gordon will hold a press conference Monday."
+    },
+    {
+      "id": "1a1af83de34b33c9",
+      "title": "Colts’ Carlie Irsay-Gordon bringing Chris Ballard, Shane Steichen back for 2026",
+      "link": "https://fox59.com/sports/colts/colts-carlie-irsay-gordon-bringing-chris-ballard-shane-steichen-back-for-2026/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-04T23:30:21+0000",
+      "summary": "INDIANAPOLIS – Apparently, Carlie Irsay-Gordon saw all she needed to see 10 games into her first year as the tri-steward of the franchise her late father at one time built into a world champion. She has decided to give general manager Chris Ballard and coach Shane Steichen another opportunity to turn around the Indianapolis Colts, [...]"
+    },
+    {
+      "id": "5a5633d4aa9ebb5d",
+      "title": "Colts WR Alec Pierce ends 2025 with 1,000 yards, NFL-best yards per reception average and a career first: An ejection",
+      "link": "https://colts.com/news/colts-wr-alec-pierce-ends-2025-with-1-000-yards-nfl-best-yards-per-reception-average-and-a-career-first-an-ejection",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T22:57:24+0000",
+      "summary": "Alec Pierce's outstanding 2025 season ended in bizarre fashion on Sunday against the Houston Texans."
     }
   ],
   "links": [
