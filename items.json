@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-14T15:25:13+00:00",
+  "updated": "2026-01-14T15:46:07+00:00",
   "items": [
+    {
+      "id": "3ce98ff02c92675b",
+      "title": "2025 Colts Rookie Review: Jalen Travis on adapting to playing right tackle, overall growth as a rookie",
+      "link": "https://colts.com/news/2025-colts-rookie-review-jalen-travis-tackle-growth-tony-sparano-jr-offensive-line",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-14T15:36:26+0000",
+      "summary": "Travis started the final four games of the 2025 season, primarily filling in for Braden Smith at right tackle – a position Travis hadn't played since his sophomore year of college."
+    },
     {
       "id": "85d4a1433f6c1b69",
       "title": "Offseason guide for eliminated NFL teams: Key free agents, draft outlook, priorities and predictions",
@@ -27,33 +36,6 @@
       "feed": "ESPN",
       "published": "2026-01-14T15:09:43+0000",
       "summary": "How does every team's rookie group stack up? Aaron Schatz ranked all 32 based on first-year production, starting with surprises up top."
-    },
-    {
-      "id": "e6dba739b2e451b6",
-      "title": "TV networks reportedly have offers for Mike Tomlin after Steelers exit",
-      "link": "https://sports.yahoo.com/articles/tv-networks-reportedly-offers-mike-150650778.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T15:06:50+0000",
-      "summary": "According to NFL Network’s Ian Rapoport, television networks have reached out to Mike Tomlin after he stepped down as head coach of the Steelers."
-    },
-    {
-      "id": "a454c80147d39950",
-      "title": "Giants coaching rumors tracker: Latest news on John Harbaugh, Mike McCarthy, other potential Brian Daboll replacements",
-      "link": "https://sports.yahoo.com/articles/giants-coaching-rumors-tracker-latest-154406042.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T15:05:00+0000",
-      "summary": "Who will the Giants bring in to coach Jaxson Dart? Here’s the latest on the search for someone to lead the NFL’s biggest-market team."
-    },
-    {
-      "id": "d1a6ab632a54eabe",
-      "title": "NFL Draft scouting report: Demond Claiborne, Running Back, Wake Forest",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-scouting-report-demond-150252049.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-14T15:02:52+0000",
-      "summary": "Here is our report on Wake Forest running back Demond Claiborne."
     },
     {
       "id": "310d523d12eb5a93",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T21:15:00+0000",
       "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
+    },
+    {
+      "id": "5f585f1cd0feb392",
+      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
+      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T21:14:16+0000",
+      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
+    },
+    {
+      "id": "09ad72a30dc24f6c",
+      "title": "Colts' 2026 opponents finalized",
+      "link": "https://colts.com/news/colts-2026-opponents-finalized",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T20:45:00+0000",
+      "summary": "In addition to their AFC South opposition, the Colts will host the Cincinnati Bengals, Dallas Cowboys, Miami Dolphins, New York Giants and Baltimore Ravens at Lucas Oil Stadium during the 2026 regular season."
     }
   ],
   "links": [
