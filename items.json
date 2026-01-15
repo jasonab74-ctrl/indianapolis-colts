@@ -1,23 +1,32 @@
 {
-  "updated": "2026-01-15T04:39:31+00:00",
+  "updated": "2026-01-15T05:24:51+00:00",
   "items": [
+    {
+      "id": "569774f70fbe6399",
+      "title": "Nine open NFL coaching jobs, nine predicted hires: Who will land in Baltimore, Pittsburgh, New York?",
+      "link": "https://espn.com/nfl/story/_/id/47591091/2026-nfl-coach-hire-predictions-candidates-giants-ravens-dolphins-falcons-raiders-browns-titans-cardinals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-15T04:55:20+0000",
+      "summary": "Could three coaches who were just fired immediately find new NFL teams? With interviews taking place this week, we projected candidates to fill open jobs."
+    },
+    {
+      "id": "e425dd46d771533d",
+      "title": "Rams vs. Bears: Sean McVay Explains How Caleb Williams Cut His Sack Count from 68 to 24 This Year",
+      "link": "https://sports.yahoo.com/articles/rams-vs-bears-sean-mcvay-045254235.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-15T04:52:54+0000",
+      "summary": "Once it became official that the Chicago Bears would be drafting Caleb Williams with the first overall draft pick in the 2024 NFL Draft, many believed that the USC product was inheriting the best starting situation of any rookie quarterback in NFL history. On some level, they were right, and the numbers proved it."
+    },
     {
       "id": "103e382e90918602",
       "title": "QB Moore opts against draft, returning to Ducks",
       "link": "https://espn.com/college-football/story/_/id/47611257/qb-dante-moore-opts-nfl-draft-returning-oregon",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T01:40:24+0000",
+      "published": "2026-01-15T04:52:52+0000",
       "summary": "Oregon QB Dante Moore, who was projected as a top pick in the NFL draft, has decided to return to school for the 2026 season, he announced on ESPN's \"SportsCenter.\""
-    },
-    {
-      "id": "809fe6e80331bffe",
-      "title": "Two-time Pro Bowl WR Thielen retiring from NFL",
-      "link": "https://espn.com/nfl/story/_/id/47610756/two-pro-bowl-wr-adam-thielen-announces-retirement-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-15T01:40:24+0000",
-      "summary": "Wide receiver Adam Thielen announced his retirement after 12 seasons in the NFL on social media Wednesday."
     },
     {
       "id": "310d523d12eb5a93",
@@ -25,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47603473/denver-broncos-d-boost-dre-greenlaw-ready-bills",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T01:40:24+0000",
+      "published": "2026-01-15T04:52:52+0000",
       "summary": "Set to face the NFL's No. 1 rushing team in the Buffalo Bills on Saturday, the Denver Broncos' defense got a boost Tuesday."
     },
     {
@@ -34,8 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/47602451/ravens-owner-bisciotti-wants-new-pact-jackson-march",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T01:40:24+0000",
+      "published": "2026-01-15T04:52:52+0000",
       "summary": "Baltimore Ravens owner Steve Bisciotti told reporters Tuesday that he's told star quarterback Lamar Jackson he wants a new deal done by the start of free agency in March, one that would significantly lower the two-time NFL MVP's $74.5 million cap number."
+    },
+    {
+      "id": "809fe6e80331bffe",
+      "title": "Two-time Pro Bowl WR Thielen retiring from NFL",
+      "link": "https://espn.com/nfl/story/_/id/47610756/two-pro-bowl-wr-adam-thielen-announces-retirement-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-15T04:52:51+0000",
+      "summary": "Wide receiver Adam Thielen announced his retirement after 12 seasons in the NFL on social media Wednesday."
     },
     {
       "id": "b4e4dc234a7fe00c",
@@ -43,8 +61,26 @@
       "link": "https://espn.com/nfl/story/_/id/39286813/who-longest-tenured-head-coaches-nfl-history",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T01:40:24+0000",
+      "published": "2026-01-15T04:52:51+0000",
       "summary": "Many NFL coaches pull off winning seasons, but few stay with a team for 20-plus seasons. Learn more about the all-time longest-tenured coaches now."
+    },
+    {
+      "id": "b9e63598088f5e1a",
+      "title": "Chargers' top 10 defensive performers in 2025, per PFF",
+      "link": "https://sports.yahoo.com/articles/chargers-top-10-defensive-performers-045154512.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-15T04:51:54+0000",
+      "summary": "These Chargers players on defense received the highest PFF grades over the 2025 NFL season."
+    },
+    {
+      "id": "ac12f0899ed45ca6",
+      "title": "“Black Coach, Black Fan Base”: Cam Newton Wants Arthur Blank to Bring Mike Tomlin to Atlanta Falcons",
+      "link": "https://sports.yahoo.com/articles/black-coach-black-fan-cam-043000442.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-15T04:30:00+0000",
+      "summary": "Mike Tomlin’s future in football has suddenly become the NFL’s most fascinating mystery. After 19 seasons in Pittsburgh, the Super Bowl winning coach stepped down from the Steelers this week, leaving the league wondering whether he plans to take a break, retire, or begin a second act somewhere new."
     },
     {
       "id": "c9f0fcfadb8c7fa4",
@@ -74,15 +110,6 @@
       "summary": "Mel Kiper Jr. is stacking the top 25 players for the NFL draft, starting with Fernando Mendoza. See who follows him after Dante Moore decided to return to school."
     },
     {
-      "id": "6899bc9be4e945db",
-      "title": "8 Free Agents the Colts should target",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/120575/8-free-agents-the-colts-should-target",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-14T18:00:00+0000",
-      "summary": "While it is still early to tell who will hit the open market in Free Agency, there are plenty of teams that need to focus on gaining cap space before the League New Year in March. 10 such teams are anywhere from $5.4 million over the cap to to $58.1 million over their allotted cap [&#8230;]"
-    },
-    {
       "id": "f1810420c6f11a2f",
       "title": "Brock Purdy, Jeffery Simmons secure December Player of the Month in Madden NFL 26",
       "link": "https://espn.com/gaming/story/_/id/47609979/ea-madden-nfl-26-december-player-month-potm-team-week-totw",
@@ -99,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-01-14T16:24:08+0000",
       "summary": "Vance Joseph's return to Denver after an inauspicious head coaching stint raised eyebrows, but his D-coordinator work has again made him a hot head coaching candidate."
-    },
-    {
-      "id": "569774f70fbe6399",
-      "title": "Nine open NFL coaching jobs, nine predicted hires: Who will land in Baltimore, Pittsburgh, New York?",
-      "link": "https://espn.com/nfl/story/_/id/47591091/2026-nfl-coach-hire-predictions-candidates-giants-ravens-dolphins-falcons-raiders-browns-titans-cardinals",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-14T15:50:44+0000",
-      "summary": "Could three coaches who were just fired immediately find new NFL teams? With interviews taking place this week, we projected candidates to fill open jobs."
     },
     {
       "id": "3ce98ff02c92675b",
@@ -189,6 +207,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-10T17:01:40+0000",
       "summary": "INDIANAPOLIS – Quenton Nelson continues to set a high standard. The Indianapolis Colts’ veteran guard has been named second-team All-Pro, further establishing himself as one of the premier players in team history. Nelson has been named All-Pro in six of his eight seasons – first-team in 2018-20, second team in ’21, ’24 and this season. [...]"
+    },
+    {
+      "id": "90e71f987dfc098e",
+      "title": "2026 Draft: Jacob Rodriguez Scouting Report",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft-central/120303/2026-draft-jacob-rodriguez-scouting-report-outline",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-10T16:00:00+0000",
+      "summary": "Measurables 2025 Stats Awards/Accolades Strengths Weaknesses Draft Projection Round 3-4 Grade In my initial Big Board Top 100, Rodriguez ranked 93rd with a Round 3-4 Grade. Coverage Linebackers are becoming more and more scarce in the NFL, making his skillset all the more coveted. Jacob Rodriguez is the most decorated defender in the 2026 Draft [&#8230;]"
     },
     {
       "id": "195c7d97e9c8a3b1",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-04T22:57:24+0000",
       "summary": "Alec Pierce's outstanding 2025 season ended in bizarre fashion on Sunday against the Houston Texans."
-    },
-    {
-      "id": "9826505b5db227b3",
-      "title": "Colts QB Riley Leonard exceeds expectations in first career start: 'He can definitely play in this league for a long time'",
-      "link": "https://colts.com/news/colts-quarterback-riley-leonard-exceeds-expectations-first-career-start-shane-steichen-rookie-alec-pierce",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-04T22:48:56+0000",
-      "summary": "Leonard was 21-of-34 for 270 yards and two touchdowns, and had three carries for 21 rushing yards and a touchdown, in Sunday's loss to the Houston Texans."
-    },
-    {
-      "id": "edbfff5dd2089e44",
-      "title": "Colts fans reflect on dismal season and remain hopeful for the year to come",
-      "link": "https://fox59.com/sports/colts/colts-fans-reflect-on-dismal-season-and-remain-hopeful-for-the-year-to-come/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T22:34:10+0000",
-      "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
-    },
-    {
-      "id": "17d397b18a9894e5",
-      "title": "Colts drop season finale, 38-30 in Houston",
-      "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-04T21:15:00+0000",
-      "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
     }
   ],
   "links": [
