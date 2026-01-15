@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-15T21:43:23+00:00",
+  "updated": "2026-01-15T22:20:58+00:00",
   "items": [
     {
       "id": "5c9c87682b90d1ee",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/47622840/chiefs-patrick-mahomes-want-ready-week-1",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T21:36:10+0000",
+      "published": "2026-01-15T22:12:04+0000",
       "summary": "Chiefs quarterback Patrick Mahomes says he intends to be ready for Week 1 of the 2026 NFL season."
     },
     {
@@ -16,7 +16,7 @@
       "link": "https://espn.com/college-football/story/_/id/47611257/qb-dante-moore-opts-nfl-draft-returning-oregon",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T21:36:10+0000",
+      "published": "2026-01-15T22:12:04+0000",
       "summary": "Oregon QB Dante Moore, who was projected as a top pick in the NFL draft, has decided to return to school for the 2026 season, he announced on ESPN's \"SportsCenter.\""
     },
     {
@@ -25,17 +25,8 @@
       "link": "https://espn.com/nfl/story/_/id/47610756/two-pro-bowl-wr-adam-thielen-announces-retirement-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T21:36:10+0000",
+      "published": "2026-01-15T22:12:04+0000",
       "summary": "Wide receiver Adam Thielen announced his retirement after 12 seasons in the NFL on social media Wednesday."
-    },
-    {
-      "id": "36368863b412865d",
-      "title": "LB Styles joins Buckeyes stars declaring for draft",
-      "link": "https://espn.com/college-football/story/_/id/47613219/sonny-styles-joins-ohio-state-stars-declaring-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-15T21:36:10+0000",
-      "summary": "Linebacker Sonny Styles, who is ESPN insider Mel Kiper's No. 7 overall prospect, became the fifth Ohio State star to declare for the 2026 NFL draft."
     },
     {
       "id": "b4e4dc234a7fe00c",
@@ -43,17 +34,35 @@
       "link": "https://espn.com/nfl/story/_/id/39286813/who-longest-tenured-head-coaches-nfl-history",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-15T21:36:10+0000",
+      "published": "2026-01-15T22:12:04+0000",
       "summary": "Many NFL coaches pull off winning seasons, but few stay with a team for 20-plus seasons. Learn more about the all-time longest-tenured coaches now."
     },
     {
-      "id": "5e62117b0ec425a6",
-      "title": "NFL playoffs: Sam Darnold added to injury report ahead of Divisional Round",
-      "link": "https://sports.yahoo.com/articles/nfl-playoffs-sam-darnold-added-213231260.html",
+      "id": "74baf2528bdf57ac",
+      "title": "Dolphins' Tyreek Hill jokingly calls Aaron Brewer 'absolute worst offensive lineman' in NFL",
+      "link": "https://sports.yahoo.com/articles/dolphins-tyreek-hill-jokingly-calls-220600495.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-15T21:32:31+0000",
-      "summary": "Seattle QB Sam Darnold has been added to the injury report ahead of Seahawks-49ers"
+      "published": "2026-01-15T22:06:00+0000",
+      "summary": "Aaron Brewer was one of the best lineman in the NFL this season, contrary to Hill's joking post social media."
+    },
+    {
+      "id": "73513276edfade93",
+      "title": "New York Giants' Jaxson Dart: Malik Nabers is NFL's best receiver",
+      "link": "https://sports.yahoo.com/articles/york-giants-jaxson-dart-malik-220018929.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-15T22:00:18+0000",
+      "summary": "New York Giants rookie QB Jaxson Dart believes Malik Nabers is the NFL's premiere wide receiver."
+    },
+    {
+      "id": "dd6c6d0332bfeed6",
+      "title": "How NFL players prepare for the coldest games of the year",
+      "link": "https://espn.com/nfl/story/_/id/47601439/2026-nfl-playoffs-how-players-prepare-coldest-games-year",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-15T21:43:03+0000",
+      "summary": "Even as beards freeze and fingers lose feeling, NFL players find ways to handle ridiculously cold temperatures."
     },
     {
       "id": "c36d5618ab631fb2",
@@ -65,15 +74,6 @@
       "summary": "After a midseason fade that cost them a spot in the playoffs, the Indianapolis Colts face a critical offseason. First thing to consider: pending free agents. Who stays? Who goes? Dave Griffiths, Mike Chappell and Matt Adams offer their thoughts in the latest Blue Zone Podcast."
     },
     {
-      "id": "70b14330b3f486c8",
-      "title": "Chiefs QB Patrick Mahomes: 'I want to be ready for Week 1' after ACL surgery",
-      "link": "https://sports.yahoo.com/articles/chiefs-qb-patrick-mahomes-want-212142154.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-15T21:21:42+0000",
-      "summary": "Kansas City Chiefs quarterback Patrick Mahomes intends to be ready for Week 1 of the 2026 NFL season.  Mahomes had surgery in mid-December to repair two torn ligaments in his left knee, and he said during a Zoom call Thursday that his rehab is “hitting all the checkpoints” that could get him back for summer workouts and perhaps even training camp this fall.  The doctors said I could,” Mahomes said, “but I can't predict what happens throughout the process."
-    },
-    {
       "id": "77197ae50c85246b",
       "title": "Colts 2025 Rookie Report: Tyler Warren",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/120660/colts-2025-rookie-report-tyler-warren",
@@ -81,15 +81,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-15T19:00:00+0000",
       "summary": "Indianapolis, IN — The Indianapolis Colts are fresh off another disappointing season, but of course, it wasn’t all bad. There were some individual breakout performances from established players, headlined by wide receiver Alec Pierce, while the Colts’ 2025 draft class provided both production for the season and promise for the future. This article kicks off [&#8230;]"
-    },
-    {
-      "id": "dd6c6d0332bfeed6",
-      "title": "How NFL players prepare for the coldest games of the year",
-      "link": "https://espn.com/nfl/story/_/id/47601439/2026-nfl-playoffs-how-players-prepare-coldest-games-year",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-15T18:55:19+0000",
-      "summary": "Even as beards freeze and fingers lose feeling, NFL players find ways to handle ridiculously cold temperatures."
     },
     {
       "id": "569774f70fbe6399",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-04T22:57:24+0000",
       "summary": "Alec Pierce's outstanding 2025 season ended in bizarre fashion on Sunday against the Houston Texans."
+    },
+    {
+      "id": "9826505b5db227b3",
+      "title": "Colts QB Riley Leonard exceeds expectations in first career start: 'He can definitely play in this league for a long time'",
+      "link": "https://colts.com/news/colts-quarterback-riley-leonard-exceeds-expectations-first-career-start-shane-steichen-rookie-alec-pierce",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T22:48:56+0000",
+      "summary": "Leonard was 21-of-34 for 270 yards and two touchdowns, and had three carries for 21 rushing yards and a touchdown, in Sunday's loss to the Houston Texans."
     }
   ],
   "links": [
