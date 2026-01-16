@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-16T22:20:05+00:00",
+  "updated": "2026-01-16T22:45:06+00:00",
   "items": [
+    {
+      "id": "9aa43f189be97458",
+      "title": "Bettors Banking on Underdogs Ahead of NFL's Divisional Round",
+      "link": "https://sports.yahoo.com/articles/bettors-banking-underdogs-ahead-nfls-222500409.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-16T22:25:00+0000",
+      "summary": "All four dogs have taken a lot of early action, though only one of this weekend's four games has a favorite of a touchdown."
+    },
     {
       "id": "5c9c87682b90d1ee",
       "title": "Mahomes on knee: I want to be ready for Week 1",
@@ -9,24 +18,6 @@
       "feed": "ESPN",
       "published": "2026-01-16T21:55:37+0000",
       "summary": "Chiefs quarterback Patrick Mahomes says he intends to be ready for Week 1 of the 2026 NFL season."
-    },
-    {
-      "id": "381f2611fcc4693e",
-      "title": "Colts coach on college All-Star game coaching staff",
-      "link": "https://sports.yahoo.com/articles/colts-coach-college-star-game-215517788.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-16T21:55:17+0000",
-      "summary": "A member of the Indianapolis Colts' staff will be coaching in an upcoming college All-Star game."
-    },
-    {
-      "id": "ea5512a23a642f18",
-      "title": "Broncos elevate rookie TE Caleb Lohner and WR Elijah Moore for the Bills game",
-      "link": "https://sports.yahoo.com/articles/broncos-elevate-rookie-tight-end-215051560.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-16T21:50:51+0000",
-      "summary": "The Denver Broncos announced that they are elevating rookie tight end Caleb Lohner and former Buffalo Bills wide receiver Elijah Moore from the practice squad to the active roster for Saturday’s Divisional Round game vs. the Bills. This will be Lohner’s first career NFL game, while this will be Elijah Moore’s first career game with […]"
     },
     {
       "id": "5e14084afd5ee6cb",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-05T00:00:40+0000",
       "summary": "Keep track of all updates to the 2026 NFL schedule, including early announcements, international games & more!"
+    },
+    {
+      "id": "26f4832671f570b1",
+      "title": "Colts general manager Chris Ballard, head coach Shane Steichen to return for 2026 season",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-head-coach-shane-steichen-to-return-for-2026-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T23:38:13+0000",
+      "summary": "Colts Owner and CEO Carlie Irsay-Gordon will hold a press conference Monday."
     }
   ],
   "links": [
