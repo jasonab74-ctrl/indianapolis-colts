@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-16T05:24:05+00:00",
+  "updated": "2026-01-16T05:48:08+00:00",
   "items": [
     {
       "id": "bb01d3a98fae25d3",
@@ -9,24 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-16T05:00:00+0000",
       "summary": "The NFL Draft process marches on. Which prospects should the Giants watch at the Senior Bowl?"
-    },
-    {
-      "id": "93b204d201946a99",
-      "title": "Chargers react to Jesse Minter's possible departure for HC job",
-      "link": "https://sports.yahoo.com/articles/chargers-react-jesse-minters-possible-044338354.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-16T04:43:38+0000",
-      "summary": "Jesse Minter has received interview requests from all nine NFL teams with a head-coaching vacancy."
-    },
-    {
-      "id": "6b887d05705f80a3",
-      "title": "Todd McShay passionately defends Dante Moore's decision to return to Oregon Ducks",
-      "link": "https://sports.yahoo.com/articles/todd-mcshay-passionately-defends-dante-044034199.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-16T04:40:34+0000",
-      "summary": "NFL Draft analyst Todd McShay had an exceptionally unsurprising reaction to Dante Moore deciding to return to Oregon instead of entering the league, According to McShay, it's for the best."
     },
     {
       "id": "d5a94b890970a92f",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-01-04T22:34:10+0000",
       "summary": "INDIANAPOLIS — The faithful still turned out in their Colts blue gear to see the team squander one last game of the 2025 season at Tom’s Watch Bar in downtown Indianapolis. “How many ways did this team break your heart this year?” FOX59's Russ McQuaid asked Izaiah Anderson, sitting at the bar. “Too many to [...]"
+    },
+    {
+      "id": "17d397b18a9894e5",
+      "title": "Colts drop season finale, 38-30 in Houston",
+      "link": "https://fox59.com/sports/colts/colts-drop-season-finale-38-30-in-houston/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-04T21:15:00+0000",
+      "summary": "INDIANAPOLIS - Riley Leonard threw two touchdowns and ran for another in his first NFL start, but they weren't enough as the Houston Texans won the regular season finale, 38-30 at NRG Stadium on Sunday afternoon. The Colts finished the season 8-9, losing their last seven straight and eight of their last nine games. The [...]"
+    },
+    {
+      "id": "5f585f1cd0feb392",
+      "title": "Riley Leonard impresses in first career start, Alec Pierce reaches 1,000 yards but Colts end 2025 season with seventh consecutive loss",
+      "link": "https://colts.com/news/riley-leonard-impresses-in-first-career-start-alec-pierce-reaches-1-000-yards-but-colts-end-2025-season-with-seventh-consecutive-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-04T21:14:16+0000",
+      "summary": "The Colts' 2025 season concluded with a 38-30 loss to the Houston Texans on Sunday at NRG Stadium."
     }
   ],
   "links": [
