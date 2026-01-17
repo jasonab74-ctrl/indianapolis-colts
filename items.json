@@ -1,13 +1,22 @@
 {
-  "updated": "2026-01-17T15:40:33+00:00",
+  "updated": "2026-01-17T16:22:13+00:00",
   "items": [
+    {
+      "id": "c52dae5683f09ac0",
+      "title": "NFL to honor MLK with 'Choose Love' in end zone",
+      "link": "https://espn.com/nfl/story/_/id/47639329/nfl-honor-martin-luther-king-jr-choose-love-end-zone",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-17T16:15:50+0000",
+      "summary": "The NFL will honor the Rev. Martin Luther King Jr. by displaying \"Choose Love\" in the end zones and on helmet decals for all divisional round playoff games this weekend."
+    },
     {
       "id": "5c9c87682b90d1ee",
       "title": "Mahomes on knee: I want to be ready for Week 1",
       "link": "https://espn.com/nfl/story/_/id/47622840/chiefs-patrick-mahomes-want-ready-week-1",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-17T15:30:48+0000",
+      "published": "2026-01-17T16:15:50+0000",
       "summary": "Chiefs quarterback Patrick Mahomes says he intends to be ready for Week 1 of the 2026 NFL season."
     },
     {
@@ -16,17 +25,44 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-17T15:30:47+0000",
+      "published": "2026-01-17T16:15:50+0000",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
     },
     {
-      "id": "a440aa7e7d4c37f4",
-      "title": "Jacksonville Jaguars add cornerback in 2026 NFL mock draft",
-      "link": "https://sports.yahoo.com/articles/jacksonville-jaguars-add-cornerback-2026-151417535.html",
+      "id": "b57f6a0c66abcbc2",
+      "title": "Broncos QB Bo Nix has a chance to establish himself as one of the top quarterbacks in the NFL today",
+      "link": "https://sports.yahoo.com/articles/broncos-qb-bo-nix-chance-161241632.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:14:17+0000",
-      "summary": "In a recent 2026 NFL mock draft, the Jacksonville Jaguars addressed the cornerback position."
+      "published": "2026-01-17T16:12:41+0000",
+      "summary": "We have heard the noise ever since Bo Nix was drafted. He was doubted, called a “reach” and not a first-round pick, and was continuously doubted throughout his first two productive seasons in the NFL. Now, in their second year under Bo Nix, the Denver Broncos sit at 14-3, the top seed in the AFC, […]"
+    },
+    {
+      "id": "c791fc0baf67bc30",
+      "title": "NFL Anytime Touchdown Picks, TD Bets, and +1533 Divisional Round TD Parlay",
+      "link": "https://sports.yahoo.com/articles/nfl-anytime-touchdown-picks-td-120000057.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-17T16:02:00+0000",
+      "summary": "Josh Inglis' NFL TD picks and best bets on NFL TD props for every NFL Divisional Round game — plus our best NFL TD parlay!"
+    },
+    {
+      "id": "581cc5bce6f69e79",
+      "title": "WWE HOFer Kevin Nash Misses Pat McAfee",
+      "link": "https://sports.yahoo.com/articles/wwe-hofer-kevin-nash-misses-160000293.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-17T16:00:00+0000",
+      "summary": "Though it took some time, Kevin Nash eventually warmed up to Pat McAfee's presence on &quot;WWE Raw,&quot; and he now misses the former NFL punter."
+    },
+    {
+      "id": "6494815c8b2d22e4",
+      "title": "How the Bears, Caleb Williams became an offensive juggernaut",
+      "link": "https://espn.com/nfl/story/_/id/47622329/ben-johnson-caleb-williams-bears-explosive-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-17T15:51:43+0000",
+      "summary": "Ben Johnson helped build one of the most explosive offenses in the NFL in Chicago. Here's how he did it."
     },
     {
       "id": "a715be28b74c1778",
@@ -38,24 +74,6 @@
       "summary": "Bills-Broncos? 49ers-Seahawks? Texans-Patriots? Rams-Bears? We have picks, predictions and stats to know for the divisional round games."
     },
     {
-      "id": "a0f6273f76cf69aa",
-      "title": "NFL Moneyline Picks for Every Divisional Round Game Today",
-      "link": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-divisional-172400328.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:14:00+0000",
-      "summary": "Coming off an upset win over the defending Super Bowl champs, San Francisco now turns its attention to an NFC West rival, where Trevor Knapp believes another shocker is in store."
-    },
-    {
-      "id": "5e62117b0ec425a6",
-      "title": "NFL playoffs: Sam Darnold added to injury report ahead of Divisional Round",
-      "link": "https://sports.yahoo.com/articles/nfl-playoffs-sam-darnold-added-213231260.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:10:10+0000",
-      "summary": "Seattle QB Sam Darnold has been added to the injury report ahead of Seahawks-49ers"
-    },
-    {
       "id": "8e7e8677fcc7baca",
       "title": "Colts 2025 Rookie Report: JT Tuimoloau",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/120705/colts-2025-rookie-report-j-t-tuimoloau",
@@ -63,15 +81,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-17T13:00:00+0000",
       "summary": "Indianapolis, IN — There’s much to be said about Colts general manager Chris Ballard’s hit rate, or lack thereof, of drafting defensive ends. Often opting for potential over production, he’s reversed course over the past couple of draft cycles, selecting Laiatu Latu and J.T. Tuimoloau in back-to-back drafts. Tuimoloau was drafted in the second round [&#8230;]"
-    },
-    {
-      "id": "6494815c8b2d22e4",
-      "title": "How the Bears, Caleb Williams became an offensive juggernaut",
-      "link": "https://espn.com/nfl/story/_/id/47622329/ben-johnson-caleb-williams-bears-explosive-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T12:38:56+0000",
-      "summary": "Ben Johnson helped build one of the most explosive offenses in the NFL in Chicago. Here's how he did it."
     },
     {
       "id": "07eecb47d9d2be61",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T15:58:57+0000",
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
-    },
-    {
-      "id": "9baa4a7ade7dfa07",
-      "title": "Colts Blue Zone Podcast 454: Leonard's First Start; Colts Run It Back",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-454-leonards-first-start-colts-run-it-back/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T14:03:10+0000",
-      "summary": "The Indianapolis Colts finished the season with a losing record for the second year in a row. While Alec Pierce played big and Riley Leonard showed promise, it wasn't enough to come away with the win. Despite this season's collapse--the Colts were once 8-2 and appeared to be a lock for the playoffs--GM Chris Ballard [...]"
     }
   ],
   "links": [
