@@ -1,6 +1,51 @@
 {
-  "updated": "2026-01-17T15:18:42+00:00",
+  "updated": "2026-01-17T15:40:33+00:00",
   "items": [
+    {
+      "id": "5c9c87682b90d1ee",
+      "title": "Mahomes on knee: I want to be ready for Week 1",
+      "link": "https://espn.com/nfl/story/_/id/47622840/chiefs-patrick-mahomes-want-ready-week-1",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-17T15:30:48+0000",
+      "summary": "Chiefs quarterback Patrick Mahomes says he intends to be ready for Week 1 of the 2026 NFL season."
+    },
+    {
+      "id": "46e5a120466f0dd4",
+      "title": "📈 Yates' debut 2026 NFL draft rankings",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-17T15:30:47+0000",
+      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
+    },
+    {
+      "id": "a440aa7e7d4c37f4",
+      "title": "Jacksonville Jaguars add cornerback in 2026 NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/jacksonville-jaguars-add-cornerback-2026-151417535.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-17T15:14:17+0000",
+      "summary": "In a recent 2026 NFL mock draft, the Jacksonville Jaguars addressed the cornerback position."
+    },
+    {
+      "id": "a715be28b74c1778",
+      "title": "Everything you need to know for all four NFL divisional games: Score picks, predictions and storylines",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47602151/nfl-divisional-predictions-schedule-odds-injuries-stats-2025-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-17T15:14:00+0000",
+      "summary": "Bills-Broncos? 49ers-Seahawks? Texans-Patriots? Rams-Bears? We have picks, predictions and stats to know for the divisional round games."
+    },
+    {
+      "id": "a0f6273f76cf69aa",
+      "title": "NFL Moneyline Picks for Every Divisional Round Game Today",
+      "link": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-divisional-172400328.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-17T15:14:00+0000",
+      "summary": "Coming off an upset win over the defending Super Bowl champs, San Francisco now turns its attention to an NFC West rival, where Trevor Knapp believes another shocker is in store."
+    },
     {
       "id": "5e62117b0ec425a6",
       "title": "NFL playoffs: Sam Darnold added to injury report ahead of Divisional Round",
@@ -11,87 +56,6 @@
       "summary": "Seattle QB Sam Darnold has been added to the injury report ahead of Seahawks-49ers"
     },
     {
-      "id": "713e2d79ba7b6291",
-      "title": "NFL Divisional Round AI Picks: Spread, Moneyline & Total Predictions for Every Game Today",
-      "link": "https://sports.yahoo.com/articles/nfl-divisional-round-ai-picks-145300203.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:06:00+0000",
-      "summary": "We've assembled spread, moneyline and total picks from our Covers Predictions AI tool for every NFL Divisional Round game."
-    },
-    {
-      "id": "6147a352c1156ffd",
-      "title": "NFL Divisional playoffs predictions",
-      "link": "https://sports.yahoo.com/articles/nfl-divisional-playoffs-predictions-150600039.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:06:00+0000",
-      "summary": "Who do you get this weekend?"
-    },
-    {
-      "id": "b388c6086c2727ca",
-      "title": "Tigers in the NFL Playoffs: DL Clelin Ferrell",
-      "link": "https://sports.yahoo.com/articles/tigers-nfl-playoffs-dl-clelin-150317448.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:03:17+0000",
-      "summary": "Former Tiger Clelin Ferrell now plays for the San Fransisco 49ers and made his presence known in a 23-19 win against the Eagles"
-    },
-    {
-      "id": "68cf5f028fde2070",
-      "title": "Top 2026 NFL draft prospects for Colts at key position of need",
-      "link": "https://sports.yahoo.com/articles/top-2026-nfl-draft-prospects-150241678.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:02:41+0000",
-      "summary": "At a key position of need for the Indianapolis Colts, here are the top prospects in the 2026 NFL draft."
-    },
-    {
-      "id": "e2c3fa5aa65cab99",
-      "title": "NFL Picks Against the Spread for Every Divisional Round Game Today",
-      "link": "https://sports.yahoo.com/articles/nfl-picks-against-spread-every-193400325.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:01:00+0000",
-      "summary": "Chris Vasile breaks down his favorite NFL picks against the spread for the Divisional Round, including the Buffalo Bills and New England Patriots."
-    },
-    {
-      "id": "85d6e4b6a8eaad4e",
-      "title": "Canal Street Chronicles: NFL Playoffs Bold Predictions",
-      "link": "https://sports.yahoo.com/articles/canal-street-chronicles-nfl-playoffs-150000154.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T15:00:00+0000",
-      "summary": "Here are some bold predictions from the CSC staff for the Divisional round of the NFL Playoffs"
-    },
-    {
-      "id": "db6ca150398506a9",
-      "title": "How Cleveland Browns fans can watch the NFL Divisional Round of the playoffs, to see who their next head coach may be",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-fans-watch-nfl-145909383.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T14:59:09+0000",
-      "summary": "If you’re in the Cleveland area, here is how you can watch each Divisional Round game of the playoffs, and which coordinators the Browns have an interest in."
-    },
-    {
-      "id": "cfd7939f4284f733",
-      "title": "Brian Callahan interviews with Chargers, Matt LaFleur likely back with Packers, and other NFL coaching news",
-      "link": "https://sports.yahoo.com/articles/brian-callahan-interviews-chargers-matt-145325035.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T14:56:19+0000",
-      "summary": "Rounding up some NFL coaching news"
-    },
-    {
-      "id": "5c9c87682b90d1ee",
-      "title": "Mahomes on knee: I want to be ready for Week 1",
-      "link": "https://espn.com/nfl/story/_/id/47622840/chiefs-patrick-mahomes-want-ready-week-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T13:36:52+0000",
-      "summary": "Chiefs quarterback Patrick Mahomes says he intends to be ready for Week 1 of the 2026 NFL season."
-    },
-    {
       "id": "8e7e8677fcc7baca",
       "title": "Colts 2025 Rookie Report: JT Tuimoloau",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/120705/colts-2025-rookie-report-j-t-tuimoloau",
@@ -99,15 +63,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-17T13:00:00+0000",
       "summary": "Indianapolis, IN — There’s much to be said about Colts general manager Chris Ballard’s hit rate, or lack thereof, of drafting defensive ends. Often opting for potential over production, he’s reversed course over the past couple of draft cycles, selecting Laiatu Latu and J.T. Tuimoloau in back-to-back drafts. Tuimoloau was drafted in the second round [&#8230;]"
-    },
-    {
-      "id": "a715be28b74c1778",
-      "title": "Everything you need to know for all four NFL divisional games: Score picks, predictions and storylines",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47602151/nfl-divisional-predictions-schedule-odds-injuries-stats-2025-playoffs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T12:47:25+0000",
-      "summary": "Bills-Broncos? 49ers-Seahawks? Texans-Patriots? Rams-Bears? We have picks, predictions and stats to know for the divisional round games."
     },
     {
       "id": "6494815c8b2d22e4",
@@ -216,15 +171,6 @@
       "feed": "ESPN",
       "published": "2026-01-16T12:56:30+0000",
       "summary": "Dante Moore is returning to Oregon, making an already deep 2027 class that much better."
-    },
-    {
-      "id": "46e5a120466f0dd4",
-      "title": "Yates' debut rankings for the 2026 NFL draft: Ranking the top 25 prospects, plus scouting reports",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-16T12:56:29+0000",
-      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
     },
     {
       "id": "c36d5618ab631fb2",
@@ -540,6 +486,60 @@
       "feed": "Colts.com",
       "published": "2026-01-05T19:07:30+0000",
       "summary": "The Colts under Steichen are 25-26 in three seasons."
+    },
+    {
+      "id": "82e681085bc1326b",
+      "title": "Sauce Gardner, Charvarius Ward Sr. and Kenny Moore II reflect on injuries, 2025 season, future of Colts cornerback room",
+      "link": "https://colts.com/news/sauce-gardner-charvarius-ward-sr-kenny-moore-ii-injuries-2025-season-future-of-colts-cornerback-room",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T18:39:30+0000",
+      "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
+    },
+    {
+      "id": "bebb23073ebee274",
+      "title": "Daniel Jones: Hope to re-sign with Colts, should be ready for training camp",
+      "link": "https://fox59.com/sports/colts/daniel-jones-hope-to-re-sign-with-colts-should-be-ready-for-training-camp/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T17:48:20+0000",
+      "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
+    },
+    {
+      "id": "4d8c365f956dbb23",
+      "title": "Daniel Jones would 'love to be back' with Colts, expects to be ready by start of training camp in 2026",
+      "link": "https://colts.com/news/daniel-jones-would-love-to-be-back-with-colts-expects-to-be-ready-by-start-of-training-camp-in-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T17:01:45+0000",
+      "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
+    },
+    {
+      "id": "cf2e30341145b1f7",
+      "title": "Colts sign 16 players to reserve/future contracts, sign LB Austin Ajiake to one-year contract extension",
+      "link": "https://colts.com/news/colts-sign-16-players-to-reserve-future-contracts-sign-lb-austin-ajiake-to-one-year-contract-extension",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T16:14:10+0000",
+      "summary": "The Colts made the roster moves on Monday."
+    },
+    {
+      "id": "ebd0b801c4f09dee",
+      "title": "TUNE IN: Owner & CEO Carlie Irsay-Gordon press conference Monday, January 5 at 2:30 p.m.",
+      "link": "https://colts.com/news/tune-in-owner-ceo-carlie-irsay-gordon-press-conference-monday-january-5-at-2-30-p-m",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T15:58:57+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "9baa4a7ade7dfa07",
+      "title": "Colts Blue Zone Podcast 454: Leonard's First Start; Colts Run It Back",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-454-leonards-first-start-colts-run-it-back/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T14:03:10+0000",
+      "summary": "The Indianapolis Colts finished the season with a losing record for the second year in a row. While Alec Pierce played big and Riley Leonard showed promise, it wasn't enough to come away with the win. Despite this season's collapse--the Colts were once 8-2 and appeared to be a lock for the playoffs--GM Chris Ballard [...]"
     }
   ],
   "links": [
