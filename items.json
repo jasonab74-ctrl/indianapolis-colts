@@ -1,32 +1,131 @@
 {
-  "updated": "2026-01-17T23:39:52+00:00",
+  "updated": "2026-01-18T01:48:45+00:00",
   "items": [
     {
-      "id": "7b6fb67d0732d83c",
-      "title": "Bills vs. Broncos live score, updates, highlights from 2026 NFL playoff game",
-      "link": "https://sports.yahoo.com/articles/bills-vs-broncos-live-score-180001372.html",
+      "id": "bb2c4e7e0843aea7",
+      "title": "Winners and losers from divisional round in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/winners-losers-divisional-round-nfl-013453906.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-17T23:23:00+0000",
-      "summary": "The Sporting News is tracking live scoring updates and highlights for Bills vs. Broncos in the AFC divisional round on Saturday. Follow for complete results from the 2026 NFL playoff game."
+      "published": "2026-01-18T01:34:53+0000",
+      "summary": "In a thinned-out AFC field, the Bills had a chance to rise above the pack. But Josh Allen and Co. squandered a major opportunity Saturday."
     },
     {
-      "id": "87f70ef98e3eaf60",
-      "title": "Bears fan rally held downtown Chicago as NFL divisional round weekend kicks off",
-      "link": "https://sports.yahoo.com/articles/bears-fan-rally-held-downtown-231555203.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-17T23:15:55+0000",
-      "summary": "The Bears haven't made it this far into the season in 15 years, so ABC7 is taking a closer look Saturday at the excitement around the city one day ahead of their big game against the Rams."
+      "id": "85d4a1433f6c1b69",
+      "title": "Offseason guide for eliminated NFL teams: Key free agents, draft outlook, priorities and predictions",
+      "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-18T01:29:05+0000",
+      "summary": "The NFL offseason has arrived for 25 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
     },
     {
-      "id": "12dd659331bfdd6d",
-      "title": "From sideline sprints to surprise interviews, ESPN's Laura Rutledge enjoys a hectic football season",
-      "link": "https://sports.yahoo.com/articles/sideline-sprints-surprise-interviews-espns-230550908.html",
+      "id": "99992d5c3ab58746",
+      "title": "NFL draft order for Round 1: The first 24 slots are set, with the Raiders at No. 1",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47444785/2026-nfl-draft-order-first-round-top-32-picks-needs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-18T01:29:05+0000",
+      "summary": "The Raiders, Jets and Cardinals hold the top three picks in the 2026 NFL draft. See the rest of the order -- plus each team's top need."
+    },
+    {
+      "id": "e2a61f2fad625b7e",
+      "title": "2026 NFL offseason preview: What can Buffalo Bills do to get Josh Allen more wideout help?",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-what-can-buffalo-bills-do-to-get-josh-allen-more-wideout-help-012717249.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-17T23:05:50+0000",
-      "summary": "Laura Rutledge's schedule during football season has always been hectic.  The ESPN reporter has hosted “NFL Live,” the network's year-round weekday news show, since 2020, along with “SEC Nation” on Saturdays during college football season.  Rutledge took on another assignment this season when she became a full-time sideline reporter on “Monday Night Football.”"
+      "published": "2026-01-18T01:27:17+0000",
+      "summary": "Here's a look at the offseason work ahead for the Buffalo Bills."
+    },
+    {
+      "id": "5aaf797f4ec5c32e",
+      "title": "Bills' list of 2026 NFL draft picks, free agents and cap space going into offseason",
+      "link": "https://sports.yahoo.com/articles/bills-list-2026-nfl-draft-012517434.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:25:17+0000",
+      "summary": "The full list of Buffalo Bills free agents, draft picks, and cap space heading into the 2026 offseason."
+    },
+    {
+      "id": "b50ace74eaed2345",
+      "title": "The Bills’ first-round pick is almost set in 2026",
+      "link": "https://sports.yahoo.com/articles/bills-first-round-pick-almost-012514283.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:25:14+0000",
+      "summary": "The Buffalo Bills are locked into one of two slots in the 2026 NFL Draft after their playoff elimination."
+    },
+    {
+      "id": "0cfa4f8db710a700",
+      "title": "NFL playoffs: When is the AFC Championship game?",
+      "link": "https://sports.yahoo.com/articles/nfl-playoffs-afc-championship-game-012509038.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:25:09+0000",
+      "summary": "The Broncos will host the AFC Championship game at Empower Field at Mile High on Sunday, Jan. 25."
+    },
+    {
+      "id": "7269439565241af3",
+      "title": "Bills’ controversial catch-turned-interception ends in Broncos victory in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/bills-controversial-catch-turned-interception-012409735.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:24:09+0000",
+      "summary": "The Broncos are moving on to the AFC Championship Game. This play is a big reason why"
+    },
+    {
+      "id": "c52dae5683f09ac0",
+      "title": "NFL to honor MLK with 'Choose Love' in end zone",
+      "link": "https://espn.com/nfl/story/_/id/47639329/nfl-honor-martin-luther-king-jr-choose-love-end-zone",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-18T01:22:58+0000",
+      "summary": "The NFL will honor the Rev. Martin Luther King Jr. by displaying \"Choose Love\" in the end zones and on helmet decals for all divisional round playoff games this weekend."
+    },
+    {
+      "id": "46e5a120466f0dd4",
+      "title": "📈 Yates' debut 2026 NFL draft rankings",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-18T01:22:58+0000",
+      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
+    },
+    {
+      "id": "92315be2cb406efa",
+      "title": "Patriots the last AFC East team standing after Bills’ loss in Denver",
+      "link": "https://sports.yahoo.com/articles/patriots-last-afc-east-team-012221293.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:22:21+0000",
+      "summary": "The Bills lost 33-30 in the NFL divisional playoffs on Saturday."
+    },
+    {
+      "id": "ac846e5c1101cca3",
+      "title": "2026 NFL Draft order: Updated first-round picks after Raiders secure No. 1 pick",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-order-updated-214147804.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:22:00+0000",
+      "summary": "The divisional round has begun, which means the playoff losers' draft slots are getting set, after the regular-season ended with the Raiders earning the first overall pick in the 2026 NFL draft."
+    },
+    {
+      "id": "0aa9557a443779d0",
+      "title": "49ers vs. Seahawks live score, updates, highlights from 2026 NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/49ers-vs-seahawks-live-score-220001483.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:20:00+0000",
+      "summary": "The Sporting News is tracking live scoring updates and highlights for 49ers vs. Seahawks in the NFC divisional round on Saturday. Follow for complete results from the 2026 NFL playoff game."
+    },
+    {
+      "id": "ffaca331e2c7e572",
+      "title": "Who will the Broncos play next? Potential AFC championship opponents",
+      "link": "https://sports.yahoo.com/articles/broncos-play-next-potential-afc-011656903.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T01:16:56+0000",
+      "summary": "The Denver Broncos are moving on to the AFC championship game. Who could they play in the next round of the NFL playoffs?"
     },
     {
       "id": "3a223c32ee87b146",
@@ -47,15 +146,6 @@
       "summary": "According to PFF, Indianapolis Colts pending 2026 free agent Alec Pierce is the player that the Horseshoe can’t afford to lose—which isn’t all that surprising to be fair: Indianapolis&#160;Colts: WR&#160;Alec Pierce The Colts’ 2025 campaign was truly a tale of two halves. The team went from possible Super Bowl contenders to finishing third in the [&#8230;]"
     },
     {
-      "id": "a715be28b74c1778",
-      "title": "Everything you need to know for all four NFL divisional games: Score picks, predictions and storylines",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47602151/nfl-divisional-predictions-schedule-odds-injuries-stats-2025-playoffs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T22:13:15+0000",
-      "summary": "Bills-Broncos? 49ers-Seahawks? Texans-Patriots? Rams-Bears? We have picks, predictions and stats to know for the divisional round games."
-    },
-    {
       "id": "2f3261a4e8964f86",
       "title": "Colts center Tanor Bortolini was PFF’s most improved player at position after ‘breakout’ 2025",
       "link": "https://stampedeblue.com/indianapolis-colts-news/120761/colts-center-tanor-bortolini-was-pffs-most-improved-player-at-position-after-breakout-2025",
@@ -74,33 +164,6 @@
       "summary": "According to NFL Network’s Mike Garafolo, the Philadelphia Eagles requested to interview Indianapolis Colts current offensive coordinator Jim Bob Cooter for their same coaching role this early offseason for both teams: Under head coach Shane Steichen, the 41-year-old Cooter has served as the Colts offensive coordinator since 2023—having previously served as a passing coordinator for [&#8230;]"
     },
     {
-      "id": "c52dae5683f09ac0",
-      "title": "NFL to honor MLK with 'Choose Love' in end zone",
-      "link": "https://espn.com/nfl/story/_/id/47639329/nfl-honor-martin-luther-king-jr-choose-love-end-zone",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T20:54:22+0000",
-      "summary": "The NFL will honor the Rev. Martin Luther King Jr. by displaying \"Choose Love\" in the end zones and on helmet decals for all divisional round playoff games this weekend."
-    },
-    {
-      "id": "5c9c87682b90d1ee",
-      "title": "Mahomes on knee: I want to be ready for Week 1",
-      "link": "https://espn.com/nfl/story/_/id/47622840/chiefs-patrick-mahomes-want-ready-week-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T20:54:22+0000",
-      "summary": "Chiefs quarterback Patrick Mahomes says he intends to be ready for Week 1 of the 2026 NFL season."
-    },
-    {
-      "id": "46e5a120466f0dd4",
-      "title": "📈 Yates' debut 2026 NFL draft rankings",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-17T20:54:22+0000",
-      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
-    },
-    {
       "id": "d5a94b890970a92f",
       "title": "'27 NFL draft class is stacked! 45 players to watch over the next 15 months",
       "link": "https://espn.com/nfl/story/_/id/47600341/2027-nfl-draft-top-prospects-early-look-every-position-manning-moore",
@@ -111,7 +174,7 @@
     },
     {
       "id": "daa380905257a21c",
-      "title": "Josh Allen tops best arrival looks ahead of divisional round of the NFL playoffs",
+      "title": "Jaxon Smith-Njigba tops best arrival looks ahead of divisional round of the NFL playoffs",
       "link": "https://espn.com/nfl/story/_/id/47641407/nfl-divisional-round-fashionable-arrivals",
       "source": "ESPN",
       "feed": "ESPN",
@@ -477,69 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-05T21:43:43+0000",
       "summary": "INDIANAPOLIS – Carlie Irsay-Gordon believes Chris Ballard and Shane Steichen are capable of taking her Indianapolis Colts to success that’s largely been missing. But the team’s tri-owner essentially put her two main subordinates on notice on the heels of an 8-9 season that included a season-ending seven-game losing streak, a fifth consecutive season without a [...]"
-    },
-    {
-      "id": "e6b5dc376057a9f2",
-      "title": "Colts claim LB John Bullock off waivers",
-      "link": "https://colts.com/news/colts-claim-lb-john-bullock-off-waivers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T21:40:20+0000",
-      "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "2c309e70e148d67f",
-      "title": "Colts fans' patience wearing thin after disappointing season",
-      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T20:20:32+0000",
-      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
-    },
-    {
-      "id": "d2ebc7e080da3e4b",
-      "title": "Colts’ Charvarius Ward mulling future after 3 concussions; ‘If I walk away, I won’t regret it'",
-      "link": "https://fox59.com/sports/colts/colts-charvarius-ward-mulling-future-after-3-concussions-if-i-walk-away-i-wont-regret-it/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T19:35:29+0000",
-      "summary": "INDIANAPOLIS – Charvarius Ward heads into an uncertain offseason and with one important figure in his life already casting an ominous vote. “My daddy told me to retire,’’ the Indianapolis Colts’ veteran cornerback said Monday. That’s a voice Ward undoubtedly will consider after dealing with three concussions and the accompanying symptoms that seemed to linger [...]"
-    },
-    {
-      "id": "fbd7b613af4f3307",
-      "title": "Philip Rivers open to possibility of NFL coaching jobs in the future, but not any time soon",
-      "link": "https://colts.com/news/philip-rivers-open-to-possibility-of-nfl-coaching-jobs-in-the-future-but-not-any-time-soon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:11:16+0000",
-      "summary": "Rivers said on Monday he will return home as the head coach of the St. Michael Catholic high school football team, but wouldn't \"shut down\" the possibility of becoming an NFL coach at some point in the future."
-    },
-    {
-      "id": "f233038771c91d17",
-      "title": "Back for 2026, head coach Shane Steichen focusing on Colts' late-season, late-game shortcomings",
-      "link": "https://colts.com/news/shane-steichen-2025-season-recap-2026-outlook-close-games-november-december",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:07:30+0000",
-      "summary": "The Colts under Steichen are 25-26 in three seasons."
-    },
-    {
-      "id": "82e681085bc1326b",
-      "title": "Sauce Gardner, Charvarius Ward Sr. and Kenny Moore II reflect on injuries, 2025 season, future of Colts cornerback room",
-      "link": "https://colts.com/news/sauce-gardner-charvarius-ward-sr-kenny-moore-ii-injuries-2025-season-future-of-colts-cornerback-room",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T18:39:30+0000",
-      "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
-    },
-    {
-      "id": "bebb23073ebee274",
-      "title": "Daniel Jones: Hope to re-sign with Colts, should be ready for training camp",
-      "link": "https://fox59.com/sports/colts/daniel-jones-hope-to-re-sign-with-colts-should-be-ready-for-training-camp/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T17:48:20+0000",
-      "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
     }
   ],
   "links": [
