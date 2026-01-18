@@ -1,32 +1,41 @@
 {
-  "updated": "2026-01-18T18:27:03+00:00",
+  "updated": "2026-01-18T18:50:07+00:00",
   "items": [
+    {
+      "id": "1a34600bf763948f",
+      "title": "NFL Inactive Report",
+      "link": "https://sports.yahoo.com/articles/nfl-inactive-report-183322869.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T18:33:22+0000",
+      "summary": ""
+    },
+    {
+      "id": "5b0c6f77feb00ffc",
+      "title": "NFL Writer’s Trade Proposal Sends Cowboys’ Star Receiver To Patriots",
+      "link": "https://sports.yahoo.com/articles/nfl-writer-trade-proposal-sends-183035865.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T18:30:35+0000",
+      "summary": "The New England Patriots should be all over looking for a veteran wide receiver to upgrade the receiving core this offseason, and there is a chance they could land Dallas Cowboys wide receiver George Pickens. Pickens is set to become a free agent, but the Cowboys might use the franchise tag on him, which would […]"
+    },
     {
       "id": "cb76aefcba03e91e",
       "title": "Patriots vs. Texans live score, updates, highlights from 2026 NFL playoff game",
       "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-score-170002349.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-18T18:12:02+0000",
+      "published": "2026-01-18T18:30:02+0000",
       "summary": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Texans in the AFC divisional round on Sunday. Follow for complete results from the 2026 NFL playoff game here."
     },
     {
-      "id": "31032ff24e397814",
-      "title": "NFL Playoffs: Game times, TV channels, streaming, odds for Sunday’s games",
-      "link": "https://sports.yahoo.com/articles/nfl-playoffs-game-times-tv-180000311.html",
+      "id": "82ee30204fbc1489",
+      "title": "Rams vs Bears Predictions, Best Bets, Props & Odds for Sunday Night Football",
+      "link": "https://sports.yahoo.com/articles/rams-vs-bears-predictions-best-183000962.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-18T18:00:00+0000",
-      "summary": "Bills face Broncos, 49ers meet Seahawks"
-    },
-    {
-      "id": "6a69653f8fa3bfc9",
-      "title": "NFL Divisional Sunday Discussion: Hate-watching the Bears against Rams",
-      "link": "https://sports.yahoo.com/articles/nfl-divisional-sunday-discussion-hate-180000451.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T18:00:00+0000",
-      "summary": "Packers fans will be hoping that old friend Davante Adams can help bring the Bears’ season to an end."
+      "published": "2026-01-18T18:30:00+0000",
+      "summary": "Check out our NFL experts' best bets for Rams vs. Bears! Free Rams vs. Bears predictions for Sunday, January 18, 2026."
     },
     {
       "id": "5f0d22da3fc5f6e7",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T19:07:30+0000",
       "summary": "The Colts under Steichen are 25-26 in three seasons."
-    },
-    {
-      "id": "82e681085bc1326b",
-      "title": "Sauce Gardner, Charvarius Ward Sr. and Kenny Moore II reflect on injuries, 2025 season, future of Colts cornerback room",
-      "link": "https://colts.com/news/sauce-gardner-charvarius-ward-sr-kenny-moore-ii-injuries-2025-season-future-of-colts-cornerback-room",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T18:39:30+0000",
-      "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
     }
   ],
   "links": [
