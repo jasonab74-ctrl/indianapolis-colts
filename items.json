@@ -1,13 +1,31 @@
 {
-  "updated": "2026-01-18T23:18:39+00:00",
+  "updated": "2026-01-18T23:40:37+00:00",
   "items": [
+    {
+      "id": "6494815c8b2d22e4",
+      "title": "How the Bears, Caleb Williams became an offensive juggernaut",
+      "link": "https://espn.com/nfl/story/_/id/47622329/ben-johnson-caleb-williams-bears-explosive-offense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-18T23:36:59+0000",
+      "summary": "Ben Johnson helped build one of the most explosive offenses in the NFL in Chicago. Here's how he did it."
+    },
+    {
+      "id": "4aa2f201f5ef2baa",
+      "title": "NFL Conference Championships Bet Now or Bet Later Picks: Another Defensive Grinder on Tap",
+      "link": "https://sports.yahoo.com/articles/nfl-conference-championships-bet-now-232800681.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:28:00+0000",
+      "summary": "Jason Logan's Bet Now, Bet Later for Championship Sunday is eyeing the Under in Patriots vs. Broncos as the pick to make right now."
+    },
     {
       "id": "956469f48d169186",
       "title": "Falcons hire Stefanski in Ryan's 1st move as prez",
       "link": "https://espn.com/nfl/story/_/id/47646376/matt-ryan-atlanta-falcons-hire-kevin-stefanski-new-coach",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-18T22:50:36+0000",
+      "published": "2026-01-18T23:27:31+0000",
       "summary": "The Falcons hired Kevin Stefanski on Saturday after the former Browns coach and two-time NFL Coach of the Year had his second interview with the team earlier in the day."
     },
     {
@@ -16,35 +34,8 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-18T22:50:36+0000",
+      "published": "2026-01-18T23:27:31+0000",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
-    },
-    {
-      "id": "c6b889d18fc7180d",
-      "title": "Chicago Bear-Rams playoff game: What to know as fans face subfreezing temps at Soldier Field",
-      "link": "https://sports.yahoo.com/articles/chicago-bear-rams-playoff-game-133146945.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T22:32:18+0000",
-      "summary": "Chicago fans are ready to face the brutal cold as the Bears face the LA Rams at Soldier Field on Sunday in an NFC divisional matchup in the NFL playoffs."
-    },
-    {
-      "id": "f9ce93e763567d83",
-      "title": "Patriots vs. Texans: Live updates, score, news for NFL divisional playoffs",
-      "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-updates-191500042.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T22:32:10+0000",
-      "summary": "New England looks to punch their ticket to the AFC Championship Game."
-    },
-    {
-      "id": "4be257e288f39cdb",
-      "title": "NFL fans turned C.J. Stroud's abysmal first half into a meme",
-      "link": "https://sports.yahoo.com/articles/nfl-fans-turned-c-j-222805404.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T22:28:05+0000",
-      "summary": "C.J. Stroud could not have played worse in the first half against the Patriots."
     },
     {
       "id": "cb76aefcba03e91e",
@@ -52,17 +43,71 @@
       "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-score-170002349.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-18T22:26:02+0000",
+      "published": "2026-01-18T23:20:02+0000",
       "summary": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Texans in the AFC divisional round on Sunday. Follow for complete results from the 2026 NFL playoff game here."
     },
     {
-      "id": "6494815c8b2d22e4",
-      "title": "How the Bears, Caleb Williams became an offensive juggernaut",
-      "link": "https://espn.com/nfl/story/_/id/47622329/ben-johnson-caleb-williams-bears-explosive-offense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-18T21:59:57+0000",
-      "summary": "Ben Johnson helped build one of the most explosive offenses in the NFL in Chicago. Here's how he did it."
+      "id": "8ef33c07b3465b60",
+      "title": "Bears vs. Rams weather updates: How frigid Chicago forecast could make for one of coldest NFL playoff games",
+      "link": "https://sports.yahoo.com/articles/bears-rams-weather-updates-frigid-195402149.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:19:01+0000",
+      "summary": "Here are the latest updates on Chicago's cold weather forecast for Sunday's divisional playoff game between the Bears and Rams."
+    },
+    {
+      "id": "593102385db9a777",
+      "title": "NFL playoff schedule: Who will the Broncos play in the AFC Championship Game?",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-broncos-play-011421681.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:18:55+0000",
+      "summary": "The Broncos outlasted the Bills in overtime. We break down who they’ll face in the AFC Championship Game."
+    },
+    {
+      "id": "dfee69fae23c21ae",
+      "title": "NFL playoff field, conference championship schedule: Broncos to host Patriots, Seahawks await Rams or Bears",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-field-conference-championship-schedule-broncos-to-host-patriots-seahawks-await-rams-or-bears-231852585.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:18:52+0000",
+      "summary": "The Patriots fended off the Texans in a turnover-filled, snowy battle on Sunday afternoon in Foxborough."
+    },
+    {
+      "id": "f8dad2ae5b8bb0f2",
+      "title": "2026 NFL offseason preview: Houston Texans need answers on offense to support an elite defense",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-houston-texans-need-answers-on-offense-to-support-an-elite-defense-231850693.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:18:50+0000",
+      "summary": "Here's a look at the offseason work ahead for the Houston Texans."
+    },
+    {
+      "id": "258b9423ca7f6295",
+      "title": "NFL playoff schedule: Who will the New England Patriots play in the AFC Championship Game?",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-england-patriots-231845100.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:18:45+0000",
+      "summary": "The Patriots picked off C.J. Stroud four times en route to a Divisional Round victory over the Texans. We break down who they’ll face in the AFC Championship Game."
+    },
+    {
+      "id": "febf661eb26b9dc6",
+      "title": "Texans' list of 2026 NFL draft picks, free agents and cap space going into offseason",
+      "link": "https://sports.yahoo.com/articles/texans-list-2026-nfl-draft-231738291.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:17:38+0000",
+      "summary": "With the Houston Texans' season over after their playoff loss to the New England Patriots, let's take a look at the team's NFL draft picks, free agents, and cap space heading into the offseason."
+    },
+    {
+      "id": "f9ce93e763567d83",
+      "title": "Patriots vs. Texans: Live updates, score, news for NFL divisional playoffs",
+      "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-updates-191500042.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T23:17:27+0000",
+      "summary": "New England looks to punch their ticket to the AFC Championship Game."
     },
     {
       "id": "5f0d22da3fc5f6e7",
@@ -80,7 +125,7 @@
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2026-01-18T01:29:05+0000",
-      "summary": "The NFL offseason has arrived for 26 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
+      "summary": "The NFL offseason has arrived for 27 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
     },
     {
       "id": "99992d5c3ab58746",
@@ -495,51 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-05T21:43:43+0000",
       "summary": "INDIANAPOLIS – Carlie Irsay-Gordon believes Chris Ballard and Shane Steichen are capable of taking her Indianapolis Colts to success that’s largely been missing. But the team’s tri-owner essentially put her two main subordinates on notice on the heels of an 8-9 season that included a season-ending seven-game losing streak, a fifth consecutive season without a [...]"
-    },
-    {
-      "id": "e6b5dc376057a9f2",
-      "title": "Colts claim LB John Bullock off waivers",
-      "link": "https://colts.com/news/colts-claim-lb-john-bullock-off-waivers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T21:40:20+0000",
-      "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "2c309e70e148d67f",
-      "title": "Colts fans' patience wearing thin after disappointing season",
-      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T20:20:32+0000",
-      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
-    },
-    {
-      "id": "d2ebc7e080da3e4b",
-      "title": "Colts’ Charvarius Ward mulling future after 3 concussions; ‘If I walk away, I won’t regret it'",
-      "link": "https://fox59.com/sports/colts/colts-charvarius-ward-mulling-future-after-3-concussions-if-i-walk-away-i-wont-regret-it/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T19:35:29+0000",
-      "summary": "INDIANAPOLIS – Charvarius Ward heads into an uncertain offseason and with one important figure in his life already casting an ominous vote. “My daddy told me to retire,’’ the Indianapolis Colts’ veteran cornerback said Monday. That’s a voice Ward undoubtedly will consider after dealing with three concussions and the accompanying symptoms that seemed to linger [...]"
-    },
-    {
-      "id": "fbd7b613af4f3307",
-      "title": "Philip Rivers open to possibility of NFL coaching jobs in the future, but not any time soon",
-      "link": "https://colts.com/news/philip-rivers-open-to-possibility-of-nfl-coaching-jobs-in-the-future-but-not-any-time-soon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:11:16+0000",
-      "summary": "Rivers said on Monday he will return home as the head coach of the St. Michael Catholic high school football team, but wouldn't \"shut down\" the possibility of becoming an NFL coach at some point in the future."
-    },
-    {
-      "id": "f233038771c91d17",
-      "title": "Back for 2026, head coach Shane Steichen focusing on Colts' late-season, late-game shortcomings",
-      "link": "https://colts.com/news/shane-steichen-2025-season-recap-2026-outlook-close-games-november-december",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:07:30+0000",
-      "summary": "The Colts under Steichen are 25-26 in three seasons."
     }
   ],
   "links": [
