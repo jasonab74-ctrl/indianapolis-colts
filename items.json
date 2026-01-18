@@ -1,13 +1,22 @@
 {
-  "updated": "2026-01-18T05:22:38+00:00",
+  "updated": "2026-01-18T05:45:41+00:00",
   "items": [
+    {
+      "id": "7715206fa455c3b1",
+      "title": "Steelers get bad news on potential Aaron Rodgers return, per report",
+      "link": "https://sports.yahoo.com/articles/steelers-bad-news-potential-aaron-052804449.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T05:28:04+0000",
+      "summary": "A new report from NFL Network’s Ian Rapoport is a troubling update on Aaron Rodgers’ potential return to the Steelers."
+    },
     {
       "id": "956469f48d169186",
       "title": "Falcons hire Stefanski hours after 2nd interview",
       "link": "https://espn.com/nfl/story/_/id/47646376/matt-ryan-atlanta-falcons-hire-kevin-stefanski-new-coach",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-18T05:18:09+0000",
+      "published": "2026-01-18T05:21:58+0000",
       "summary": "The Atlanta Falcons hired Kevin Stefanski, 43, as their new coach, the club announced on Saturday night, after the former Cleveland Browns coach, who is a two-time NFL Coach of the Year, had his second interview with the team earlier in the day."
     },
     {
@@ -16,8 +25,35 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-18T05:18:09+0000",
+      "published": "2026-01-18T05:21:58+0000",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
+    },
+    {
+      "id": "8f4b55e36ba6ded2",
+      "title": "NFL draft order 2026: Updated list of picks for every eliminated team after divisional round",
+      "link": "https://sports.yahoo.com/articles/nfl-live-draft-order-2026-060002948.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T05:20:00+0000",
+      "summary": "The Sporting News tracked live updates to the 2026 NFL draft order through the playoffs."
+    },
+    {
+      "id": "614b19ca78a063c3",
+      "title": "Falcons hire Kevin Stefanski: Why fired Browns coach chose Atlanta over Ravens, Titans, others",
+      "link": "https://sports.yahoo.com/articles/falcons-hire-kevin-stefanski-why-025121912.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T05:20:00+0000",
+      "summary": "Atlanta has found a new voice to lead its franchise, and he's already a familiar one for NFL fans."
+    },
+    {
+      "id": "5222347f40db9df9",
+      "title": "The road to Super Bowl 60",
+      "link": "https://sports.yahoo.com/articles/road-super-bowl-60-130646970.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T05:18:03+0000",
+      "summary": "This weekend marks the start of the 2026 NFL play-offs, as 14 teams battle it out to reach next month's Super Bowl."
     },
     {
       "id": "0e292981f594c7b5",
@@ -25,44 +61,8 @@
       "link": "https://sports.yahoo.com/articles/allen-suffers-more-play-off-013407174.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-18T05:06:10+0000",
+      "published": "2026-01-18T05:14:37+0000",
       "summary": "Josh Allen endures more play-off heartache as Denver beat Buffalo while Seattle also move within one win of the Super Bowl."
-    },
-    {
-      "id": "660d9c5e9f99efb6",
-      "title": "NFL world reacts to Falcons hiring head coach Kevin Stefanski",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-falcons-hiring-044525815.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T04:45:25+0000",
-      "summary": "NFL world reacts to the Falcons naming Kevin Stefanski head coach"
-    },
-    {
-      "id": "f6c961b7c3d68db2",
-      "title": "Who do Seahawks play next? Explaining potential opponents in 2026 NFL playoff bracket",
-      "link": "https://sports.yahoo.com/articles/49ers-seahawks-play-next-explaining-100001502.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T04:35:01+0000",
-      "summary": "Here is more on who the Seahawks will play next in the 2026 NFL playoffs."
-    },
-    {
-      "id": "352e85aead25cd0c",
-      "title": "NFL playoff bracket 2026: Updated schedule, TV channels, scores for AFC and NFC games",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-bracket-2026-updated-102001662.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T04:30:00+0000",
-      "summary": "Here's a look at the full bracket for the NFL postseason."
-    },
-    {
-      "id": "f2b08d7ebbd49208",
-      "title": "Who do the Broncos play next? Explaining potential AFC Championship Game opponents in 2026 NFL playoff bracket",
-      "link": "https://sports.yahoo.com/articles/bills-broncos-play-next-explaining-083001194.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T04:30:00+0000",
-      "summary": "Here is a look at who the Broncos could play next in the 2026 NFL playoffs."
     },
     {
       "id": "85d4a1433f6c1b69",
