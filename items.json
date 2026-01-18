@@ -1,13 +1,40 @@
 {
-  "updated": "2026-01-18T06:30:27+00:00",
+  "updated": "2026-01-18T07:19:07+00:00",
   "items": [
+    {
+      "id": "57bb476794db566f",
+      "title": "Titans reportedly trim coaching search to three names, could add more",
+      "link": "https://sports.yahoo.com/articles/titans-reportedly-trim-coaching-search-070829532.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T07:08:29+0000",
+      "summary": "An NFL insider reports that the Tennessee Titans have narrowed their search to three coaches, but could add more in the coming days."
+    },
+    {
+      "id": "971fdb2d1c631337",
+      "title": "What channel is Patriots vs. Texans on today? Live stream, time, TV schedule to watch NFL divisional playoff game",
+      "link": "https://sports.yahoo.com/articles/channel-patriots-vs-texans-today-070002364.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T07:00:02+0000",
+      "summary": "Here is everything you need to know about how to watch the Patriots face the Texans today including channel, live stream and kickoff time."
+    },
+    {
+      "id": "4a700fb3a349ddc2",
+      "title": "Who do Patriots or Texans play next? Explaining potential opponents in 2026 NFL playoff bracket",
+      "link": "https://sports.yahoo.com/articles/patriots-texans-play-next-explaining-070002084.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T07:00:02+0000",
+      "summary": "With the Patriots and Texans meeting in the divisional round, who would the winner play next?"
+    },
     {
       "id": "956469f48d169186",
       "title": "Falcons hire Stefanski hours after 2nd interview",
       "link": "https://espn.com/nfl/story/_/id/47646376/matt-ryan-atlanta-falcons-hire-kevin-stefanski-new-coach",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-18T06:21:54+0000",
+      "published": "2026-01-18T06:56:57+0000",
       "summary": "The Atlanta Falcons hired Kevin Stefanski, 43, as their new coach, the club announced on Saturday night, after the former Cleveland Browns coach, who is a two-time NFL Coach of the Year, had his second interview with the team earlier in the day."
     },
     {
@@ -16,35 +43,17 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-18T06:21:54+0000",
+      "published": "2026-01-18T06:56:57+0000",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
     },
     {
-      "id": "0236338d4ee772e7",
-      "title": "The Seahawks showed the 49ers, entire NFL they are a runaway freight train",
-      "link": "https://sports.yahoo.com/articles/seahawks-showed-49ers-entire-nfl-060709329.html",
+      "id": "208f13c5d0a00567",
+      "title": "By the numbers: How Seahawks blew out rival 49ers in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/numbers-seahawks-blew-rival-49ers-064425557.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-18T06:07:09+0000",
-      "summary": "Get out of the way or you’re going to get run over by the Seahawks!"
-    },
-    {
-      "id": "9ca5771508fa32de",
-      "title": "Patriots-Texans kickoff time today: TV channel, schedule, live stream to watch Sunday NFL divisional playoff game",
-      "link": "https://sports.yahoo.com/articles/patriots-texans-kickoff-time-today-060002640.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T06:00:02+0000",
-      "summary": "Here is all you need to know about when the Patriots-Texans game will kickoff including broadcast info."
-    },
-    {
-      "id": "9c26560f965a6ecf",
-      "title": "Penalties shift the script as Broncos outlast Bills in OT thriller",
-      "link": "https://sports.yahoo.com/articles/penalties-shift-script-broncos-outlast-055319174.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T05:53:19+0000",
-      "summary": "Denver was the most penalized team in the NFL entering Saturday."
+      "published": "2026-01-18T06:44:25+0000",
+      "summary": "Here are a few numbers that paint a pretty picture (if you’re a Seahawk fan, that is)."
     },
     {
       "id": "85d4a1433f6c1b69",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T18:39:30+0000",
       "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
-    },
-    {
-      "id": "bebb23073ebee274",
-      "title": "Daniel Jones: Hope to re-sign with Colts, should be ready for training camp",
-      "link": "https://fox59.com/sports/colts/daniel-jones-hope-to-re-sign-with-colts-should-be-ready-for-training-camp/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T17:48:20+0000",
-      "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
     }
   ],
   "links": [
