@@ -1,6 +1,60 @@
 {
-  "updated": "2026-01-18T22:18:37+00:00",
+  "updated": "2026-01-18T22:43:29+00:00",
   "items": [
+    {
+      "id": "c6b889d18fc7180d",
+      "title": "Chicago Bear-Rams playoff game: What to know as fans face subfreezing temps at Soldier Field",
+      "link": "https://sports.yahoo.com/articles/chicago-bear-rams-playoff-game-133146945.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T22:32:18+0000",
+      "summary": "Chicago fans are ready to face the brutal cold as the Bears face the LA Rams at Soldier Field on Sunday in an NFC divisional matchup in the NFL playoffs."
+    },
+    {
+      "id": "f9ce93e763567d83",
+      "title": "Patriots vs. Texans: Live updates, score, news for NFL divisional playoffs",
+      "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-updates-191500042.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T22:32:10+0000",
+      "summary": "New England looks to punch their ticket to the AFC Championship Game."
+    },
+    {
+      "id": "4be257e288f39cdb",
+      "title": "NFL fans turned C.J. Stroud's abysmal first half into a meme",
+      "link": "https://sports.yahoo.com/articles/nfl-fans-turned-c-j-222805404.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T22:28:05+0000",
+      "summary": "C.J. Stroud could not have played worse in the first half against the Patriots."
+    },
+    {
+      "id": "cb76aefcba03e91e",
+      "title": "Patriots vs. Texans live score, updates, highlights from 2026 NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-score-170002349.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T22:26:02+0000",
+      "summary": "The Sporting News is tracking live scoring updates and highlights for Patriots vs. Texans in the AFC divisional round on Sunday. Follow for complete results from the 2026 NFL playoff game here."
+    },
+    {
+      "id": "fb813cd1cd132cab",
+      "title": "NFL head coach tracker - Falcons and Giants first to make move",
+      "link": "https://sports.yahoo.com/articles/nfl-head-coach-tracker-falcons-221356358.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T22:13:56+0000",
+      "summary": "Check the latest on the NFL hiring cycle after John Harbaugh and Kevin Stefanski became the first head coaches appointed after the regular season."
+    },
+    {
+      "id": "53dc46ce1999afd4",
+      "title": "DeMario Douglas breaks out 'Zombieland' celebration against the Texans, something that's still going strong years later",
+      "link": "https://sports.yahoo.com/nfl/article/demario-douglas-breaks-out-zombieland-celebration-against-the-texans-something-thats-still-going-strong-years-later-221305940.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-18T22:13:05+0000",
+      "summary": "Something first created in 2022 at Western Kentucky, the &quot;Zombieland&quot; celebration move is alive and well in the NFL in 2026."
+    },
     {
       "id": "956469f48d169186",
       "title": "Falcons hire Stefanski in Ryan's 1st move as prez",
@@ -20,24 +74,6 @@
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
     },
     {
-      "id": "c6b889d18fc7180d",
-      "title": "Chicago Bear-Rams playoff game: What to know as fans face subfreezing temps at Soldier Field",
-      "link": "https://sports.yahoo.com/articles/chicago-bear-rams-playoff-game-133146945.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T22:02:01+0000",
-      "summary": "Chicago fans are ready to face the brutal cold as the Bears face the LA Rams at Soldier Field on Sunday in an NFC divisional matchup in the NFL playoffs."
-    },
-    {
-      "id": "f45140d30da9dccf",
-      "title": "Chiefs scouting report: Miami Hurricanes CB Keionte Scott",
-      "link": "https://sports.yahoo.com/articles/chiefs-scouting-report-miami-hurricanes-220034844.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T22:00:34+0000",
-      "summary": "The Kansas City Chiefs could target Miami Hurricanes nickelback Keionte Scott in the 2026 NFL draft."
-    },
-    {
       "id": "6494815c8b2d22e4",
       "title": "How the Bears, Caleb Williams became an offensive juggernaut",
       "link": "https://espn.com/nfl/story/_/id/47622329/ben-johnson-caleb-williams-bears-explosive-offense",
@@ -45,15 +81,6 @@
       "feed": "ESPN",
       "published": "2026-01-18T21:59:57+0000",
       "summary": "Ben Johnson helped build one of the most explosive offenses in the NFL in Chicago. Here's how he did it."
-    },
-    {
-      "id": "f9ce93e763567d83",
-      "title": "Patriots vs. Texans: Live updates, score, news for NFL divisional playoffs",
-      "link": "https://sports.yahoo.com/articles/patriots-vs-texans-live-updates-191500042.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-18T21:38:53+0000",
-      "summary": "New England looks to punch their ticket to the AFC Championship Game."
     },
     {
       "id": "5f0d22da3fc5f6e7",
@@ -129,7 +156,7 @@
     },
     {
       "id": "daa380905257a21c",
-      "title": "Will Anderson Jr. leads the way among NFL's best divisional-round arrivals",
+      "title": "Puka Nacua leads the way among NFL's best divisional-round arrivals",
       "link": "https://espn.com/nfl/story/_/id/47641407/nfl-divisional-round-fashionable-arrivals",
       "source": "ESPN",
       "feed": "ESPN",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-05T19:35:29+0000",
       "summary": "INDIANAPOLIS – Charvarius Ward heads into an uncertain offseason and with one important figure in his life already casting an ominous vote. “My daddy told me to retire,’’ the Indianapolis Colts’ veteran cornerback said Monday. That’s a voice Ward undoubtedly will consider after dealing with three concussions and the accompanying symptoms that seemed to linger [...]"
-    },
-    {
-      "id": "fbd7b613af4f3307",
-      "title": "Philip Rivers open to possibility of NFL coaching jobs in the future, but not any time soon",
-      "link": "https://colts.com/news/philip-rivers-open-to-possibility-of-nfl-coaching-jobs-in-the-future-but-not-any-time-soon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:11:16+0000",
-      "summary": "Rivers said on Monday he will return home as the head coach of the St. Michael Catholic high school football team, but wouldn't \"shut down\" the possibility of becoming an NFL coach at some point in the future."
-    },
-    {
-      "id": "f233038771c91d17",
-      "title": "Back for 2026, head coach Shane Steichen focusing on Colts' late-season, late-game shortcomings",
-      "link": "https://colts.com/news/shane-steichen-2025-season-recap-2026-outlook-close-games-november-december",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:07:30+0000",
-      "summary": "The Colts under Steichen are 25-26 in three seasons."
-    },
-    {
-      "id": "82e681085bc1326b",
-      "title": "Sauce Gardner, Charvarius Ward Sr. and Kenny Moore II reflect on injuries, 2025 season, future of Colts cornerback room",
-      "link": "https://colts.com/news/sauce-gardner-charvarius-ward-sr-kenny-moore-ii-injuries-2025-season-future-of-colts-cornerback-room",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T18:39:30+0000",
-      "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
     }
   ],
   "links": [
