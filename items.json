@@ -1,41 +1,77 @@
 {
-  "updated": "2026-01-19T21:18:48+00:00",
+  "updated": "2026-01-19T21:41:54+00:00",
   "items": [
-    {
-      "id": "f5821b42ec38625a",
-      "title": "Philadelphia Eagles predicted to make quarterback trade over offseason",
-      "link": "https://sports.yahoo.com/articles/philadelphia-eagles-predicted-quarterback-trade-210628218.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T21:06:28+0000",
-      "summary": "After a disappointing 2025 campaign, the Philadelphia Eagles will look to retool and bounce back over the offseason, and that could include making a trade involving a quarterback currently on the team’s roster.  In a recent article, ESPN’s Benjamin Solak predicts that the Eagles will flip backup QB Tanner Mckee to another team in exchange for some draft capital prior to the 2026 NFL Draft in Pittsburgh in April.  McKee is entrenched as the backup behind Jalen Hurts in Philadelphia, so trying to get some value out of him and replacing him on the roster next season is certainly something that the Eagles could consider."
-    },
-    {
-      "id": "8480e585656cfaae",
-      "title": "Another NFL team enters the race for a new head coach",
-      "link": "https://sports.yahoo.com/articles/another-nfl-team-enters-race-210311195.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T21:03:11+0000",
-      "summary": "Just when it was looking like the field of teams looking for head coaches was dwindling, another team enters the chat."
-    },
     {
       "id": "46e5a120466f0dd4",
       "title": "📈 Yates' debut 2026 NFL draft rankings",
       "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-19T21:01:38+0000",
+      "published": "2026-01-19T21:25:47+0000",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
     },
     {
-      "id": "c16469aa4ba08ba4",
-      "title": "Jimmy Garoppolo makes NFL history behind Tom Brady, Joe Montana after Rams' win over Bears",
-      "link": "https://sports.yahoo.com/articles/jimmy-garoppolo-makes-nfl-history-205819116.html",
+      "id": "97c25ee14cccec88",
+      "title": "2026 Super Bowl Predictions & Picks as the NFL Playoffs Heat Up",
+      "link": "https://sports.yahoo.com/articles/2026-super-bowl-predictions-picks-173600409.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-19T20:58:19+0000",
-      "summary": "Jimmy Garoppolo is putting together one of the stranger careers ever."
+      "published": "2026-01-19T21:25:00+0000",
+      "summary": "Super Bowl Sunday is right around the corner. Get expert picks and predictions from Covers ahead of Super Bowl LX at Levi’s Stadium."
+    },
+    {
+      "id": "6997ac5e9e74f60f",
+      "title": "Bucs to interview Bengals offensive coordinator Dan Pitcher | Report",
+      "link": "https://sports.yahoo.com/articles/bucs-interview-bengals-offensive-coordinator-212249882.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T21:22:49+0000",
+      "summary": "The Buccaneers are set to interview Bengals offensive coordinator Dan Pitcher for their vacant OC position, according to NFL Network's Ian Rapoport."
+    },
+    {
+      "id": "29c2e7a571553b8d",
+      "title": "Falcons Recap: NFL analysts grade Stefanski hire, latest coaching updates",
+      "link": "https://sports.yahoo.com/articles/falcons-recap-nfl-analysts-grade-211942739.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T21:19:42+0000",
+      "summary": "Falcons Recap: NFL analysts grade Kevin Stefanski hire, latest coaching staff updates"
+    },
+    {
+      "id": "6684c12c35dba503",
+      "title": "What Is a Catch in the NFL? Experts, Bettors Still Don’t Know",
+      "link": "https://sports.yahoo.com/articles/catch-nfl-experts-bettors-still-211800085.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T21:18:00+0000",
+      "summary": "Bills-Broncos left many, including bettors, wondering what exactly happened on an overtime play that likely changed the outcome of the game."
+    },
+    {
+      "id": "970342505c82ff40",
+      "title": "NFL playoff schedule: Conference championship game times, how to watch",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-conference-championship-211618169.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T21:16:18+0000",
+      "summary": "There are two games on Jan. 25 and the networks involved have their best voices scheduled to work them."
+    },
+    {
+      "id": "10f3c48b2ff51946",
+      "title": "Anthony Barr Reports a QB Fraud",
+      "link": "https://sports.yahoo.com/articles/anthony-barr-reports-qb-fraud-211200004.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T21:12:00+0000",
+      "summary": "Anthony Barr recently retired from the NFL, and now he&#8217;s not shy about sharing his football opinions on social media. [&#8230;]"
+    },
+    {
+      "id": "17f3d2d7874de0a7",
+      "title": "Why Seahawks-Rams NFC Championship Game might be best matchup in NFL history",
+      "link": "https://sports.yahoo.com/articles/why-seahawks-rams-nfc-championship-211146400.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T21:11:46+0000",
+      "summary": "This is going to be a great game."
     },
     {
       "id": "f597ec7bf0d62734",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T19:11:16+0000",
       "summary": "Rivers said on Monday he will return home as the head coach of the St. Michael Catholic high school football team, but wouldn't \"shut down\" the possibility of becoming an NFL coach at some point in the future."
-    },
-    {
-      "id": "f233038771c91d17",
-      "title": "Back for 2026, head coach Shane Steichen focusing on Colts' late-season, late-game shortcomings",
-      "link": "https://colts.com/news/shane-steichen-2025-season-recap-2026-outlook-close-games-november-december",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T19:07:30+0000",
-      "summary": "The Colts under Steichen are 25-26 in three seasons."
-    },
-    {
-      "id": "82e681085bc1326b",
-      "title": "Sauce Gardner, Charvarius Ward Sr. and Kenny Moore II reflect on injuries, 2025 season, future of Colts cornerback room",
-      "link": "https://colts.com/news/sauce-gardner-charvarius-ward-sr-kenny-moore-ii-injuries-2025-season-future-of-colts-cornerback-room",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T18:39:30+0000",
-      "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
-    },
-    {
-      "id": "bebb23073ebee274",
-      "title": "Daniel Jones: Hope to re-sign with Colts, should be ready for training camp",
-      "link": "https://fox59.com/sports/colts/daniel-jones-hope-to-re-sign-with-colts-should-be-ready-for-training-camp/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T17:48:20+0000",
-      "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
-    },
-    {
-      "id": "4d8c365f956dbb23",
-      "title": "Daniel Jones would 'love to be back' with Colts, expects to be ready by start of training camp in 2026",
-      "link": "https://colts.com/news/daniel-jones-would-love-to-be-back-with-colts-expects-to-be-ready-by-start-of-training-camp-in-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T17:01:45+0000",
-      "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
     }
   ],
   "links": [
