@@ -1,6 +1,78 @@
 {
-  "updated": "2026-01-19T04:50:53+00:00",
+  "updated": "2026-01-19T05:30:30+00:00",
   "items": [
+    {
+      "id": "956469f48d169186",
+      "title": "Falcons hire Stefanski in Ryan's 1st move as prez",
+      "link": "https://espn.com/nfl/story/_/id/47646376/matt-ryan-atlanta-falcons-hire-kevin-stefanski-new-coach",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-19T05:21:00+0000",
+      "summary": "The Falcons hired Kevin Stefanski on Saturday after the former Browns coach and two-time NFL Coach of the Year had his second interview with the team earlier in the day."
+    },
+    {
+      "id": "46e5a120466f0dd4",
+      "title": "📈 Yates' debut 2026 NFL draft rankings",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-19T05:21:00+0000",
+      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
+    },
+    {
+      "id": "8e4a62dc27f9c54a",
+      "title": "The Bears came up short, but Caleb Williams wowed the NFL again",
+      "link": "https://sports.yahoo.com/articles/bears-came-short-caleb-williams-051529436.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T05:15:29+0000",
+      "summary": "﻿Here’s what Caleb, Cole, and some notable NFL figures had to say about Williams’ touchdown pass to Kmet."
+    },
+    {
+      "id": "b86bb9d82dcea6e5",
+      "title": "NFL playoff bracket 2026: Breaking down matchups, schedule for AFC & NFC championship games",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-bracket-2026-breaking-051321929.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T05:13:21+0000",
+      "summary": "The 2026 NFL Playoff bracket is down to just four teams."
+    },
+    {
+      "id": "5222347f40db9df9",
+      "title": "The road to Super Bowl 60",
+      "link": "https://sports.yahoo.com/articles/road-super-bowl-60-130646970.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T05:09:22+0000",
+      "summary": "This weekend marks the start of the 2026 NFL play-offs, as 14 teams battle it out to reach next month's Super Bowl."
+    },
+    {
+      "id": "524f43ffc32569a8",
+      "title": "What is the NFL play-off schedule?",
+      "link": "https://sports.yahoo.com/articles/nfl-play-offs-141744630.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T05:09:22+0000",
+      "summary": "BBC Sport's Ask Me Anything team explains how the NFL play-offs work, as well as a full rundown of the schedule"
+    },
+    {
+      "id": "d5538af76f8a4c12",
+      "title": "Patriots and Rams reach Conference Championship games",
+      "link": "https://sports.yahoo.com/articles/patriots-beat-texans-reach-afc-234516679.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T05:08:13+0000",
+      "summary": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships."
+    },
+    {
+      "id": "23fb7b152bf5c1c7",
+      "title": "NFL playoff schedule 2026: Updated bracket & TV channels for AFC, NFC championship games",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-2026-updated-045539475.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T04:55:39+0000",
+      "summary": "Here's everything to know about the remainder of the 2026 NFL Playoffs."
+    },
     {
       "id": "47ffc26748bba5c5",
       "title": "Catch or interception? Davante Adams awarded critical catch vs. Bears that looked a lot like interception that doomed Bills",
@@ -11,6 +83,24 @@
       "summary": "Good luck to NFL officials trying to explain both of these calls."
     },
     {
+      "id": "55734f1889eda128",
+      "title": "Stefon Diggs Calls Out Patriots’ Critics After Win Over Texans",
+      "link": "https://sports.yahoo.com/articles/stefon-diggs-calls-patriots-critics-043911842.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T04:39:11+0000",
+      "summary": "Betting against the New England Patriots this season hasn’t paid off for many people, and it definitely didn’t work out on Sunday against the Houston Texans. The Patriots entered the contest as favorites, but many NFL analysts picked Houston to win due to its strong defense and challenging schedule. In contrast, New England faced one […]"
+    },
+    {
+      "id": "d0dafcbd69611cb7",
+      "title": "Houston Texans' season ends after losing divisional playoff game against New England Patriots",
+      "link": "https://sports.yahoo.com/articles/houston-texans-season-ends-losing-043533910.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-19T04:35:33+0000",
+      "summary": "The 2025-26 NFL season comes to an end for the Houston Texans after losing their divisional playoff game against the New England Patriots."
+    },
+    {
       "id": "f597ec7bf0d62734",
       "title": "What's next for the Broncos, Patriots, Rams and Seahawks? First look at the NFL's conference title games",
       "link": "https://espn.com/nfl/story/_/id/47614203/2025-nfl-playoffs-bracket-reset-conference-championships-schedule-afc-nfc",
@@ -18,87 +108,6 @@
       "feed": "ESPN",
       "published": "2026-01-19T03:44:53+0000",
       "summary": "Let's preview the conference championship matchups. How can the Broncos, Patriots, Rams and Seahawks advance to the Super Bowl?"
-    },
-    {
-      "id": "956469f48d169186",
-      "title": "Falcons hire Stefanski in Ryan's 1st move as prez",
-      "link": "https://espn.com/nfl/story/_/id/47646376/matt-ryan-atlanta-falcons-hire-kevin-stefanski-new-coach",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-19T03:38:53+0000",
-      "summary": "The Falcons hired Kevin Stefanski on Saturday after the former Browns coach and two-time NFL Coach of the Year had his second interview with the team earlier in the day."
-    },
-    {
-      "id": "46e5a120466f0dd4",
-      "title": "📈 Yates' debut 2026 NFL draft rankings",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-19T03:38:53+0000",
-      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
-    },
-    {
-      "id": "87d1302213d9a479",
-      "title": "NFL conference championships preview: Both No. 1 seeds still alive with Super Bowl LX berths on the line",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-conference-championships-preview-both-no-1-seeds-still-alive-with-super-bowl-lx-berths-on-the-line-033631304.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:36:31+0000",
-      "summary": "The matchup for Super Bowl LX in Santa Clara will be determined on Sunday."
-    },
-    {
-      "id": "f55250dee30c7690",
-      "title": "2026 NFL offseason preview: What do Chicago Bears need to remain contenders in era of Caleb Williams and Ben Johnson?",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-what-do-chicago-bears-need-to-remain-contenders-in-era-of-caleb-williams-and-ben-johnson-032924922.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:29:24+0000",
-      "summary": "Here's a look at the offseason work ahead for the Chicago Bears."
-    },
-    {
-      "id": "4aa2f201f5ef2baa",
-      "title": "NFL Conference Championships Bet Now or Bet Later Picks: Another Defensive Grinder on Tap",
-      "link": "https://sports.yahoo.com/articles/nfl-conference-championships-bet-now-232800681.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:17:00+0000",
-      "summary": "Jason Logan's Bet Now, Bet Later for Championship Sunday is eyeing the Under in Patriots vs. Broncos as the pick to make right now."
-    },
-    {
-      "id": "289b26d1b61d9c1b",
-      "title": "Bears' list of 2026 NFL draft picks, free agents and cap space going into offseason",
-      "link": "https://sports.yahoo.com/articles/bears-list-2026-nfl-draft-031225294.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:12:25+0000",
-      "summary": "The full list of Chicago Bears 2026 NFL draft picks, free agents, and cap space after their playoff loss to the Los Angeles Rams."
-    },
-    {
-      "id": "c3c665363126210a",
-      "title": "Opening NFL Conference Championship Odds and Betting Lines: Rams (+2.5) Have Another Tough Test",
-      "link": "https://sports.yahoo.com/articles/opening-nfl-conference-championship-odds-031100077.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:11:00+0000",
-      "summary": "Get the opening NFL Conference Championship odds with point spreads, Over/Unders, and football moneylines for the AFC and NFC title games on Jan. 25, 2026."
-    },
-    {
-      "id": "2f1868410555e702",
-      "title": "Matthew Stafford's Record Against Every NFL Team",
-      "link": "https://sports.yahoo.com/articles/matthew-staffords-record-against-every-024100019.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:07:00+0000",
-      "summary": "Matthew Stafford's career regular and postseason record against all NFL teams, including the Bears, Cowboys, and Packers."
-    },
-    {
-      "id": "ff35b4bfa569d0e7",
-      "title": "NFL playoff schedule: Dates, times, TV channels, live streams for every 2026 postseason game",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-schedule-dates-times-053002714.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-19T03:06:00+0000",
-      "summary": "Here's everything you need to know to watch the NFL playoffs on the road to Super Bowl 60 in Santa Clara."
     },
     {
       "id": "85d4a1433f6c1b69",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T21:40:20+0000",
       "summary": "The Colts made the roster move on Monday."
-    },
-    {
-      "id": "2c309e70e148d67f",
-      "title": "Colts fans' patience wearing thin after disappointing season",
-      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T20:20:32+0000",
-      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
     }
   ],
   "links": [
