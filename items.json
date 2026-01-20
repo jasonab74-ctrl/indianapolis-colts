@@ -1,23 +1,59 @@
 {
-  "updated": "2026-01-20T14:30:05+00:00",
+  "updated": "2026-01-20T14:59:38+00:00",
   "items": [
     {
-      "id": "728d31a850c1b920",
-      "title": "NFL Panic Meter: Can the Broncos actually win with Jarrett Stidham replacing Bo Nix?",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-panic-meter-can-the-broncos-actually-win-with-jarrett-stidham-replacing-bo-nix-141555403.html",
+      "id": "83444ef493d02918",
+      "title": "Chargers Daily Links: Tuesday Open Thread",
+      "link": "https://sports.yahoo.com/articles/chargers-daily-links-tuesday-open-145000621.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-20T14:15:55+0000",
-      "summary": "The Broncos will be without Bo Nix for the rest of this postseason."
+      "published": "2026-01-20T14:50:00+0000",
+      "summary": "Your source for all Chargers and NFL news from around the web."
     },
     {
-      "id": "571b894ddbb769f1",
-      "title": "NFL Head Coaching Desirability Index: Which Open Vacancies Are Most Coveted?",
-      "link": "https://sports.yahoo.com/articles/nfl-head-coaching-desirability-index-140000850.html",
+      "id": "8ec8c164beefa1ad",
+      "title": "NFL exec predicts outcome of Colts' 2026 season",
+      "link": "https://sports.yahoo.com/articles/nfl-exec-predicts-outcome-colts-144733526.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-20T14:11:00+0000",
-      "summary": "Which NFL head coaching openings are the most appealing? We rank the open jobs by quarterback situation, roster strength, cap space, and long-term upside."
+      "published": "2026-01-20T14:47:33+0000",
+      "summary": "With help from an NFL exec, ESPN makes a prediction for the 2026 Indianapolis Colts."
+    },
+    {
+      "id": "f20bf0390a9292b1",
+      "title": "NFL Head Coach Carousel Update: 4 of 10 vacancies filled as of Tuesday",
+      "link": "https://sports.yahoo.com/articles/nfl-head-coach-carousel-4-144500677.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-20T14:45:00+0000",
+      "summary": "Jeff Hafley’s hiring in Miami is one of four jobs filled; here’s where the state of the hiring cycle stands."
+    },
+    {
+      "id": "bc1f465d5b2fb6b6",
+      "title": "Catch rule could become a hot topic in 2026 offseason",
+      "link": "https://sports.yahoo.com/articles/catch-rule-could-become-hot-144428495.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-20T14:44:28+0000",
+      "summary": "The catch rule has become a problem for the NFL, all over again."
+    },
+    {
+      "id": "2225486ceac96514",
+      "title": "NFL execs predict 2026 moves: Lamar Jackson, A.J. Brown trades coming?",
+      "link": "https://espn.com/nfl/story/_/id/47665433/nfl-execs-2026-moves-predict-aj-brown-bills",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-20T14:44:13+0000",
+      "summary": "NFL executives made bold predictions about next season -- including two superstar trades."
+    },
+    {
+      "id": "85d4a1433f6c1b69",
+      "title": "Offseason guide for eliminated teams: Key free agents, draft outlook, and predictions",
+      "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-20T14:44:13+0000",
+      "summary": "The NFL offseason has arrived for 28 teams. What must each do to have a better season in 2026?"
     },
     {
       "id": "46e5a120466f0dd4",
@@ -25,8 +61,35 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-20T06:40:48+0000",
+      "published": "2026-01-20T14:44:08+0000",
       "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
+    },
+    {
+      "id": "72b276fd2f6b4d6a",
+      "title": "Titans Reportedly Set To Hire Robert Saleh As Next Head Coach",
+      "link": "https://sports.yahoo.com/articles/titans-reportedly-set-hire-robert-144351104.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-20T14:43:51+0000",
+      "summary": "Another AFC head coaching vacancy has been filled, albeit not officially. Multiple NFL insiders, including ESPN’s Adam Schefter, are reporting that the Tennessee Titans and Robert Saleh are close to finalizing a deal that will make Saleh the franchise’s next head coach. Saleh began his NFL coaching journey in 2005 as a defensive intern with […]"
+    },
+    {
+      "id": "3373c66328cf4179",
+      "title": "Where will the Bears pick in the 2026 NFL Draft?",
+      "link": "https://sports.yahoo.com/articles/where-bears-pick-2026-nfl-144136110.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-20T14:41:36+0000",
+      "summary": "With the 2025 season officially in the books for the Bears, here's where Chicago will be picking in the first round of the 2026 NFL Draft."
+    },
+    {
+      "id": "81029ec6a92501ae",
+      "title": "Where Colts, Indiana sports came up short, the Hoosiers brought it home",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120805/where-colts-indiana-sports-came-up-short-the-hoosiers-brought-it-home",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-20T14:36:00+0000",
+      "summary": "Indiana sports has been on an absolute tear recently. The Crossroads of America has been the sports capital recently. Known for hosting big sporting events, Indiana teams have been the stars. With a great postseason run comes the chance for postseason disappointment. Look no further than the golden era of Indianapolis Colts football. The highs [&#8230;]"
     },
     {
       "id": "f597ec7bf0d62734",
@@ -63,24 +126,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-19T13:59:00+0000",
       "summary": "Quick. What’s the most important position in football? Yep, you got it if you answered quarterback, and if you answered anything other than that, you’re just a contrarian. They make the most money because they are so vital to a team’s success. The straw that stirs the drink touches the ball almost every offensive snap [&#8230;]"
-    },
-    {
-      "id": "85d4a1433f6c1b69",
-      "title": "Offseason guide for eliminated NFL teams: Key free agents, draft outlook, priorities and predictions",
-      "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-19T00:07:23+0000",
-      "summary": "The NFL offseason has arrived for 28 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
-    },
-    {
-      "id": "99992d5c3ab58746",
-      "title": "NFL draft order for Round 1: The first 28 slots are set, with the Raiders at No. 1",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47444785/2026-nfl-draft-order-first-round-top-32-picks-needs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-19T00:07:23+0000",
-      "summary": "The Raiders, Jets and Cardinals hold the top three picks in the 2026 NFL draft. See the rest of the order -- plus each team's top need."
     },
     {
       "id": "a6c7e3ac0fcc9355",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T19:07:30+0000",
       "summary": "The Colts under Steichen are 25-26 in three seasons."
-    },
-    {
-      "id": "82e681085bc1326b",
-      "title": "Sauce Gardner, Charvarius Ward Sr. and Kenny Moore II reflect on injuries, 2025 season, future of Colts cornerback room",
-      "link": "https://colts.com/news/sauce-gardner-charvarius-ward-sr-kenny-moore-ii-injuries-2025-season-future-of-colts-cornerback-room",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T18:39:30+0000",
-      "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
-    },
-    {
-      "id": "bebb23073ebee274",
-      "title": "Daniel Jones: Hope to re-sign with Colts, should be ready for training camp",
-      "link": "https://fox59.com/sports/colts/daniel-jones-hope-to-re-sign-with-colts-should-be-ready-for-training-camp/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T17:48:20+0000",
-      "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
-    },
-    {
-      "id": "4d8c365f956dbb23",
-      "title": "Daniel Jones would 'love to be back' with Colts, expects to be ready by start of training camp in 2026",
-      "link": "https://colts.com/news/daniel-jones-would-love-to-be-back-with-colts-expects-to-be-ready-by-start-of-training-camp-in-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T17:01:45+0000",
-      "summary": "On Monday, both head coach Shane Steichen and quarterback Daniel Jones said they hoped to continue their partnership with the Colts moving forward."
-    },
-    {
-      "id": "cf2e30341145b1f7",
-      "title": "Colts sign 16 players to reserve/future contracts, sign LB Austin Ajiake to one-year contract extension",
-      "link": "https://colts.com/news/colts-sign-16-players-to-reserve-future-contracts-sign-lb-austin-ajiake-to-one-year-contract-extension",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T16:14:10+0000",
-      "summary": "The Colts made the roster moves on Monday."
-    },
-    {
-      "id": "ebd0b801c4f09dee",
-      "title": "TUNE IN: Owner & CEO Carlie Irsay-Gordon press conference Monday, January 5 at 2:30 p.m.",
-      "link": "https://colts.com/news/tune-in-owner-ceo-carlie-irsay-gordon-press-conference-monday-january-5-at-2-30-p-m",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T15:58:57+0000",
-      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     }
   ],
   "links": [
