@@ -1,15 +1,6 @@
 {
-  "updated": "2026-01-20T09:31:46+00:00",
+  "updated": "2026-01-20T10:27:04+00:00",
   "items": [
-    {
-      "id": "fb813cd1cd132cab",
-      "title": "NFL head coach tracker - Falcons and Giants first to make move",
-      "link": "https://sports.yahoo.com/articles/nfl-head-coach-tracker-falcons-221356358.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-20T09:20:11+0000",
-      "summary": "Check the latest on the NFL hiring cycle after John Harbaugh and Kevin Stefanski became the first head coaches appointed after the regular season."
-    },
     {
       "id": "5e84a8887dea8985",
       "title": "Tracking head coach changes: Titans expected to hire Robert Saleh",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-05T16:14:10+0000",
       "summary": "The Colts made the roster moves on Monday."
+    },
+    {
+      "id": "ebd0b801c4f09dee",
+      "title": "TUNE IN: Owner & CEO Carlie Irsay-Gordon press conference Monday, January 5 at 2:30 p.m.",
+      "link": "https://colts.com/news/tune-in-owner-ceo-carlie-irsay-gordon-press-conference-monday-january-5-at-2-30-p-m",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T15:58:57+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     }
   ],
   "links": [
