@@ -1,41 +1,41 @@
 {
-  "updated": "2026-01-21T16:43:06+00:00",
+  "updated": "2026-01-21T17:53:40+00:00",
   "items": [
     {
-      "id": "0b8c4e34ec14649c",
-      "title": "2026 NFL Draft report: Blake Miller, Offensive Tackle, Clemson",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-report-blake-163024743.html",
+      "id": "62de16fe3dbe10a2",
+      "title": "NFL Draft expert believes Raiders are ‘locked’ on CFP star with top pick",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-expert-believes-raiders-173901545.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-21T16:30:24+0000",
-      "summary": "Evaluating Clemson offensive tackle Blake Miller as a 2026 NFL Draft prospect."
+      "published": "2026-01-21T17:39:01+0000",
+      "summary": "The 2026 NFL Draft goes through Tom Brady and Mark Davis’ team, and all eyes are on the Las Vegas Raiders as the franchise prepares to make another huge selection. However, one NFL Draft expert believes the Las Vegas Raiders…"
     },
     {
-      "id": "7ea758687e5b074f",
-      "title": "Rams can become 6th team in history to do this",
-      "link": "https://sports.yahoo.com/articles/rams-become-6th-team-history-163024121.html",
+      "id": "05bc3197d8cea9e7",
+      "title": "NFL coaching carousel news, tracking which head coach jobs are still open",
+      "link": "https://sports.yahoo.com/articles/nfl-coaching-carousel-news-tracking-173629196.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-21T16:30:24+0000",
-      "summary": "Rams could be the best road playoff team in NFL history"
+      "published": "2026-01-21T17:36:29+0000",
+      "summary": "The NFL coaching carousel continues as head coach jobs are filled, including the Titans hiring Robert Saleh."
     },
     {
-      "id": "b520a94cbcdff389",
-      "title": "NFL Scout Makes Great Point About This Patriots Breakout Star",
-      "link": "https://sports.yahoo.com/articles/nfl-scout-makes-great-point-162904596.html",
+      "id": "96677f5527f8ad5c",
+      "title": "Mel Kiper gives the Vikings some DB help in latest 2026 NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/mel-kiper-gives-vikings-db-173015018.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-21T16:29:04+0000",
-      "summary": "K’Lavon Chaisson has been considered a draft bust throughout his NFL career — until now. The Jaguars selected Chaisson with the 20th pick in the 2020 NFL Draft. After four underwhelming seasons (five sacks in 57 games), Jacksonville opted against re-signing Chaisson, who then joined the Carolina Panthers, who eventually released him before he joined […]"
+      "published": "2026-01-21T17:30:15+0000",
+      "summary": "Mel Kiper Jr. has dropped his latest mock draft following the conclusion of the college football season."
     },
     {
-      "id": "46e5a120466f0dd4",
-      "title": "📈 Draft rankings: Field Yates' top 25 prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-21T16:25:19+0000",
-      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
+      "id": "260f870911523a2d",
+      "title": "NFL Conference Championship picks: Odds favor Super Bowl rematch",
+      "link": "https://sports.yahoo.com/articles/nfl-conference-championship-picks-odds-173000453.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-21T17:30:00+0000",
+      "summary": "Rams-Seahawks conference championship might be the best playoff game ever"
     },
     {
       "id": "a0de6c32ac34e4fa",
@@ -43,8 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/47681269/ex-nfl-sideline-reporter-michele-tafoya-announces-senate-run",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-21T16:25:18+0000",
+      "published": "2026-01-21T16:48:56+0000",
       "summary": "Former NFL sideline reporter Michele Tafoya launched her campaign for the U.S. Senate on Wednesday, hoping to win the Republican nomination for the Minnesota seat being vacated by retiring Democratic Sen. Tina Smith."
+    },
+    {
+      "id": "46e5a120466f0dd4",
+      "title": "📈 Draft rankings: Field Yates' top 25 prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-21T16:48:56+0000",
+      "summary": "Who are the best players in this year's NFL draft class? Which receivers have first-round talent? Field Yates stacks his top 25 board."
     },
     {
       "id": "3b500d622cd72248",
@@ -90,6 +99,15 @@
       "feed": "ESPN",
       "published": "2026-01-21T14:33:37+0000",
       "summary": "The Raiders, Jets and Cardinals hold the top three picks in the 2026 NFL draft. See the rest of the order."
+    },
+    {
+      "id": "04e73f2f4c8327cb",
+      "title": "The NFL Has a Quarterback Development Crisis",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120882/the-nfl-has-a-quarterback-development-crisis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-21T14:00:00+0000",
+      "summary": "The Quarterback Crisis Nobody Wants to Confront There has never been a time in NFL history when quarterbacks entered the league with more physical tools. Arm strength is stronger, size is bigger, speed is faster, and athleticism is off the charts. Every draft class seems to produce a new wave of prospects who can throw [&#8230;]"
     },
     {
       "id": "f033a875e13343c4",
@@ -162,15 +180,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-19T14:27:45+0000",
       "summary": "Much of the time, when discussing needs after a season, there is somewhat of a consensus as to which position is the biggest need. Or we are at least split on two positions. I think that directly after the season last year, cornerback and quarterback may have been number one with a bullet, which saw [&#8230;]"
-    },
-    {
-      "id": "d6093ffef70f55cc",
-      "title": "AFC playoffs are proof that the Colts got it all wrong",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/120773/afc-playoffs-are-proof-that-the-colts-got-it-all-wrong",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-19T13:59:00+0000",
-      "summary": "Quick. What’s the most important position in football? Yep, you got it if you answered quarterback, and if you answered anything other than that, you’re just a contrarian. They make the most money because they are so vital to a team’s success. The straw that stirs the drink touches the ball almost every offensive snap [&#8230;]"
     },
     {
       "id": "a6c7e3ac0fcc9355",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-05T18:39:30+0000",
       "summary": "Ward said on Monday he's evaluating the next steps in his football career after sustaining multiple concussions this season."
-    },
-    {
-      "id": "bebb23073ebee274",
-      "title": "Daniel Jones: Hope to re-sign with Colts, should be ready for training camp",
-      "link": "https://fox59.com/sports/colts/daniel-jones-hope-to-re-sign-with-colts-should-be-ready-for-training-camp/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T17:48:20+0000",
-      "summary": "INDIANAPOLIS – The overriding question has been answered. Chris Ballard and Shane Steichen will lead the Indianapolis Colts into what promises to be a prove-it 2026. “I’m honored to be the head coach here, privileged to be the head coach here,’’ Steichen said Monday. It was a day after owner Carlie Irsay-Gordon announced there would [...]"
     }
   ],
   "links": [
