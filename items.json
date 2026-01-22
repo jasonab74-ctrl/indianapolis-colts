@@ -1,40 +1,13 @@
 {
-  "updated": "2026-01-22T18:31:34+00:00",
+  "updated": "2026-01-22T19:24:00+00:00",
   "items": [
-    {
-      "id": "a32ec237b36dfbc6",
-      "title": "Minnesota Vikings listed as best landing spot for four-time NFL MVP",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-listed-best-landing-181558176.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T18:15:58+0000",
-      "summary": "This would be something."
-    },
-    {
-      "id": "26b938b77661d20d",
-      "title": "NFL coaches, GM interviews: Hiring live tracker, latest news, rumors and updates from PFT",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-head-coach-general-151835445.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T18:12:00+0000",
-      "summary": "Tracking all of the news related to coaching and G.M. openings around the league."
-    },
-    {
-      "id": "ed30c92915981703",
-      "title": "NFL insider links offensive coordinator candidates to Titans' opening",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-links-offensive-coordinator-181013385.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T18:10:13+0000",
-      "summary": "NFL Insider Tom Pelissero linked multiple candidates to the Tennessee Titans open offensive coordinator position."
-    },
     {
       "id": "54ccb6f7dd9c34ad",
       "title": "McCaffrey, 4 QBs named AP NFL MVP finalists",
       "link": "https://espn.com/nfl/story/_/id/47692023/christian-mccaffrey-4-qbs-named-ap-nfl-mvp-finalists",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-22T18:05:54+0000",
+      "published": "2026-01-22T19:16:05+0000",
       "summary": "Christian McCaffrey has become only the second player to be a finalist for three AP NFL awards in the same year, joining Josh Allen, Trevor Lawrence, Drake Maye and Matthew Stafford in the running for The AP 2025 NFL Most Valuable Player award."
     },
     {
@@ -43,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47684734/gm-lynch-says-wr-brandon-aiyuk-played-last-snap-49ers",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-22T18:05:54+0000",
+      "published": "2026-01-22T19:16:05+0000",
       "summary": "At Wednesday's end-of-season news conference, 49ers general manager John Lynch confirmed what has been obvious for months: WR Brandon Aiyuk will not return to the only NFL team he has ever known."
     },
     {
@@ -52,8 +25,35 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-22T18:05:54+0000",
+      "published": "2026-01-22T19:16:05+0000",
       "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
+    },
+    {
+      "id": "4ca226b97747b019",
+      "title": "Dolphins GM reveals exciting quarterback plan for upcoming NFL Drafts",
+      "link": "https://sports.yahoo.com/articles/dolphins-gm-reveals-exciting-quarterback-190424125.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T19:04:24+0000",
+      "summary": "This would be a fascinating way to go about finding the new franchise QB."
+    },
+    {
+      "id": "2b7e9f5d7f3676bf",
+      "title": "NFL Panel Unanimously Picks Patriots Over Broncos In AFC Championship Game",
+      "link": "https://sports.yahoo.com/articles/nfl-panel-unanimously-picks-patriots-190333295.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T19:03:33+0000",
+      "summary": "Ahead of the AFC wild-card round, four of the NFL.com’s five editors chose the New England Patriots to defeat the Los Angeles Chargers. Before New England’s AFC Divisional Round contest against the Houston Texans, three of the quintet sided with the Patriots. This time, it’s unanimous. The group made their AFC Championship Game picks on […]"
+    },
+    {
+      "id": "2a4e1b3e1dfa235b",
+      "title": "Dallas Cowboys news: Could Dallas get a Texas Tech rusher in the draft?",
+      "link": "https://sports.yahoo.com/articles/dallas-cowboys-news-could-dallas-185946517.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T18:59:46+0000",
+      "summary": "A new round of mock drafts has accompanied the end of the NFL season and all have the Dallas Cowboys taking defense. Could it be a Texas Tech rusher?"
     },
     {
       "id": "03d96d17b3e89ee9",
