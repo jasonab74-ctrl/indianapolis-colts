@@ -1,6 +1,114 @@
 {
-  "updated": "2026-01-22T22:21:44+00:00",
+  "updated": "2026-01-22T22:48:01+00:00",
   "items": [
+    {
+      "id": "b61d465df5e9e260",
+      "title": "Report: NFL, Competition Committee plan no recommended changes to catch rule",
+      "link": "https://sports.yahoo.com/articles/report-nfl-competition-committee-plan-223651861.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T22:36:51+0000",
+      "summary": "The NFL has a catch rule problem."
+    },
+    {
+      "id": "5e84a8887dea8985",
+      "title": "Tracking NFL head coach changes: Jesse Minter to the Ravens, Robert Saleh to the Titans",
+      "link": "https://espn.com/nfl/story/_/id/46437226/2025-nfl-coaching-changes-latest-news-rumors-firings-hires",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:36:34+0000",
+      "summary": "The Ravens, Titans, Dolphins, Falcons and Giants made hires, but there are still five open NFL head coach jobs. Here's what to know."
+    },
+    {
+      "id": "03d96d17b3e89ee9",
+      "title": "Biggest issues for the Steelers' next head coach: QB, ownership, roster",
+      "link": "https://espn.com/nfl/story/_/id/47685611/biggest-issues-pittsburgh-steelers-next-head-coach-quarterback-rooney-ownership-roster",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:36:34+0000",
+      "summary": "Coaching candidates face a franchise viewed as falling \"behind in the NFL in terms of a modern operation.\""
+    },
+    {
+      "id": "18c57a35f4f707c5",
+      "title": "Detroit Lions OL Dan Skipper announces retirement",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-ol-dan-skipper-223623069.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T22:36:23+0000",
+      "summary": "Fan favorite Dan Skipper announced his NFL retirement, closing a memorable Detroit Lions career and shifting his focus to coaching."
+    },
+    {
+      "id": "0ed801235e7f691f",
+      "title": "Bears vs Rams Set An NFL Playoff Viewership Record",
+      "link": "https://sports.yahoo.com/articles/bears-vs-rams-set-nfl-223000748.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T22:30:00+0000",
+      "summary": "If you gathered up all the people who live in Chicago and weren't watching the Bears vs Rams playoff game, you might have enough for a pick up basketball game."
+    },
+    {
+      "id": "d88e6559ad82872b",
+      "title": "Colin Cowherd Ranks Patriots’ Drake Maye As No. 3 Player In AFC Championship Game",
+      "link": "https://sports.yahoo.com/articles/colin-cowherd-ranks-patriots-drake-222844344.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T22:28:44+0000",
+      "summary": "As the NFL named Drake Maye among its MVP finalists, Colin Cowherd ranked the New England Patriots quarterback behind two Denver Broncos stars when handicapping his top players in the AFC Championship Game. Cowerd placed Maye, who will likely finish first or second to Matthew Stafford in the MVP voting, No. 3 in his top-10 […]"
+    },
+    {
+      "id": "dadbd8d3e1ad296c",
+      "title": "Chiefs listed as best landing spot for Super Bowl champion quarterback",
+      "link": "https://sports.yahoo.com/articles/chiefs-listed-best-landing-spot-222706951.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-22T22:27:06+0000",
+      "summary": "Patrick Mahomes has stated that he hopes to be ready for the start of the 2026 NFL season after suffering a torn ACL last month.  In a recent article for Bleacher Report, Kristoper Knox listed the Chiefs as the best landing spot for veteran quarterback Russell Wilson."
+    },
+    {
+      "id": "54ccb6f7dd9c34ad",
+      "title": "McCaffrey, 4 QBs named AP NFL MVP finalists",
+      "link": "https://espn.com/nfl/story/_/id/47692023/christian-mccaffrey-4-qbs-named-ap-nfl-mvp-finalists",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:25:23+0000",
+      "summary": "Christian McCaffrey has become only the second player to be a finalist for three AP NFL awards in the same year, joining Josh Allen, Trevor Lawrence, Drake Maye and Matthew Stafford in the running for The AP 2025 NFL Most Valuable Player award."
+    },
+    {
+      "id": "fc7b48c21c68a13b",
+      "title": "Beloved Lions OL Skipper announces retirement",
+      "link": "https://espn.com/nfl/story/_/id/47695668/beloved-lions-ol-dan-skipper-announce-retirement-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:25:23+0000",
+      "summary": "Beloved Detroit Lions offensive lineman Dan Skipper announced his NFL retirement Thursday afternoon."
+    },
+    {
+      "id": "0bbcffb2bd921439",
+      "title": "Miami's Mauigoa, top OT prospect, entering draft",
+      "link": "https://espn.com/college-football/story/_/id/47696233/miami-francis-mauigoa-top-ot-prospect-entering-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:25:23+0000",
+      "summary": "Miami offensive tackle Francis Mauigoa on Thursday officially declared for the 2026 NFL draft."
+    },
+    {
+      "id": "226807362467dbe0",
+      "title": "GM Lynch: Aiyuk has played last snap for 49ers",
+      "link": "https://espn.com/nfl/story/_/id/47684734/gm-lynch-says-wr-brandon-aiyuk-played-last-snap-49ers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:25:23+0000",
+      "summary": "At Wednesday's end-of-season news conference, 49ers general manager John Lynch confirmed what has been obvious for months: WR Brandon Aiyuk will not return to the only NFL team he has ever known."
+    },
+    {
+      "id": "3b500d622cd72248",
+      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-22T22:25:23+0000",
+      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
+    },
     {
       "id": "f7e5aab948863478",
       "title": "DraftKings DFS cheat sheet: Two Seahawks stars offer best value, upside",
@@ -9,87 +117,6 @@
       "feed": "ESPN",
       "published": "2026-01-22T22:06:19+0000",
       "summary": "Build a winning DFS lineup with our DraftKings NFL conference championships cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid."
-    },
-    {
-      "id": "59b7714c6c63a15e",
-      "title": "Buffalo Bills QB Josh Allen named a finalist for 2025 NFL MVP award",
-      "link": "https://sports.yahoo.com/articles/buffalo-bills-qb-josh-allen-220409714.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T22:04:09+0000",
-      "summary": "The Buffalo Bills were once again Super Bowl favorites thanks to Josh Allen."
-    },
-    {
-      "id": "694ad80ee8238766",
-      "title": "Miami OT Francis Mauigoa declares for the draft",
-      "link": "https://sports.yahoo.com/articles/miami-ot-francis-mauigoa-declares-220016472.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T22:00:16+0000",
-      "summary": "One of this year's top college prospects has officially thrown his hat into the NFL ring."
-    },
-    {
-      "id": "af523842222ed346",
-      "title": "Dolphins usher in new era, introducing GM Jon-Eric Sullivan and coach Jeff Hafley",
-      "link": "https://sports.yahoo.com/articles/dolphins-usher-era-introducing-gm-220000064.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T22:00:00+0000",
-      "summary": "MIAMI GARDENS — The week has been a whirlwind for both new Miami Dolphins coach Jeff Hafley and general manager Jon-Eric Sullivan. Hafley, introduced to South Florida media Thursday along with Sullivan, couldn’t believe three days had passed since the moment he became a first-time NFL head coach. He told the story of how he had his in-person second interview — the only Dolphins coaching ..."
-    },
-    {
-      "id": "fc7b48c21c68a13b",
-      "title": "Beloved Lions OL Skipper announces retirement",
-      "link": "https://espn.com/nfl/story/_/id/47695668/beloved-lions-ol-dan-skipper-announce-retirement-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-22T21:57:26+0000",
-      "summary": "Beloved Detroit Lions offensive lineman Dan Skipper announced his NFL retirement Thursday afternoon."
-    },
-    {
-      "id": "226807362467dbe0",
-      "title": "GM Lynch: Aiyuk has played last snap for 49ers",
-      "link": "https://espn.com/nfl/story/_/id/47684734/gm-lynch-says-wr-brandon-aiyuk-played-last-snap-49ers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-22T21:57:26+0000",
-      "summary": "At Wednesday's end-of-season news conference, 49ers general manager John Lynch confirmed what has been obvious for months: WR Brandon Aiyuk will not return to the only NFL team he has ever known."
-    },
-    {
-      "id": "54ccb6f7dd9c34ad",
-      "title": "McCaffrey, 4 QBs named AP NFL MVP finalists",
-      "link": "https://espn.com/nfl/story/_/id/47692023/christian-mccaffrey-4-qbs-named-ap-nfl-mvp-finalists",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-22T21:57:25+0000",
-      "summary": "Christian McCaffrey has become only the second player to be a finalist for three AP NFL awards in the same year, joining Josh Allen, Trevor Lawrence, Drake Maye and Matthew Stafford in the running for The AP 2025 NFL Most Valuable Player award."
-    },
-    {
-      "id": "0bbcffb2bd921439",
-      "title": "Miami's Mauigoa, top OT prospect, entering draft",
-      "link": "https://espn.com/college-football/story/_/id/47696233/miami-francis-mauigoa-top-ot-prospect-entering-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-22T21:57:25+0000",
-      "summary": "Miami offensive tackle Francis Mauigoa on Thursday officially declared for the 2026 NFL draft."
-    },
-    {
-      "id": "3b500d622cd72248",
-      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-22T21:57:25+0000",
-      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
-    },
-    {
-      "id": "bcb1ad08c1b43e38",
-      "title": "FBI launches investigation into death of former Colts owner Jim Irsay",
-      "link": "https://sports.yahoo.com/articles/fbi-launches-investigation-death-former-215702792.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-22T21:57:02+0000",
-      "summary": "The FBI is investigating the death of former Indianapolis Colts owner Jim Irsay and the doctor who was treating him in his final months. According to The Washington Post, federal agents are looking hard at Irsay’s drug use and his…"
     },
     {
       "id": "8f554b8afd8b9be5",
@@ -108,15 +135,6 @@
       "feed": "Colts.com",
       "published": "2026-01-22T19:49:14+0000",
       "summary": "Indianapolis Colts Cheerleader und Maskottchen Blue werden zur Premiere rund um den Super Bowl am 7. Februar in Düsseldorf erwartet"
-    },
-    {
-      "id": "03d96d17b3e89ee9",
-      "title": "Biggest issues for the Steelers' next head coach: QB, ownership, roster",
-      "link": "https://espn.com/nfl/story/_/id/47685611/biggest-issues-pittsburgh-steelers-next-head-coach-quarterback-rooney-ownership-roster",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-22T18:05:27+0000",
-      "summary": "Coaching candidates face a franchise viewed as falling \"behind in the NFL in terms of a modern operation.\""
     },
     {
       "id": "d1bb9bfd7ccdaebc",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-06T18:30:12+0000",
       "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
-    },
-    {
-      "id": "76e5a457e22b3876",
-      "title": "Colts QB Riley Leonard nominated for NFL Rookie of the Week for Week 18",
-      "link": "https://colts.com/news/colts-qb-riley-leonard-nominated-for-nfl-rookie-of-the-week-for-week-18",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T17:21:46+0000",
-      "summary": "Leonard, in his first career start on Sunday, completed 21-of-34 passes for 270 yards and two touchdowns as well as three carries for 21 rushing yards and a touchdown."
-    },
-    {
-      "id": "5e98a4a034a1fca9",
-      "title": "Colts sign LB Joseph Vaughn to reserve/future contract",
-      "link": "https://colts.com/news/colts-sign-lb-joseph-vaughn-to-reserve-future-contract",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T15:48:35+0000",
-      "summary": "The Colts made the roster move on Tuesday"
     }
   ],
   "links": [
