@@ -1,13 +1,67 @@
 {
-  "updated": "2026-01-23T14:24:18+00:00",
+  "updated": "2026-01-23T14:51:50+00:00",
   "items": [
     {
+      "id": "8718a4e83d850f6e",
+      "title": "Indiana QB Fernando Mendoza declares for 2026 NFL draft. Will he go No. 1?",
+      "link": "https://sports.yahoo.com/articles/indiana-qb-fernando-mendoza-declares-143921721.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-23T14:39:21+0000",
+      "summary": "Fernando Mendoza officially declared for the 2026 NFL draft on Friday. The Indiana QB is widely speculated to be the favorite to be the No. 1 pick."
+    },
+    {
+      "id": "ae7194ef55cd45c8",
+      "title": "NFL Rumors: 2 Finalists Emerge in Cleveland Browns Coaching Search",
+      "link": "https://sports.yahoo.com/articles/nfl-rumors-2-finalists-emerge-143323746.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-23T14:33:23+0000",
+      "summary": "The Cleveland Browns coaching search this offseason has seen two prominent names pull themselves from consideration, a testament to the [&#8230;]"
+    },
+    {
+      "id": "2c106cb8ff377385",
+      "title": "2025 Colts Rookie Review: Justin Walley and Hunter Wohler on recovering from injuries, preparing for 2026 season",
+      "link": "https://colts.com/news/2025-colts-rookie-review-justin-walley-and-hunter-wohler-on-recovering-from-injuries-preparing-for-2026-season",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-23T14:30:37+0000",
+      "summary": "Walley and Wohler each sustained their respective injuries during the 2025 preseason, but both expect to be fully healthy for 2026."
+    },
+    {
+      "id": "d50de2700d36cf7a",
+      "title": "Pro Football Focus Reveals Detroit Lions’ Quiet Breakout Star",
+      "link": "https://sports.yahoo.com/articles/pro-football-focus-reveals-detroit-143008630.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-23T14:30:08+0000",
+      "summary": "Pro Football Focus analyst Zach Tantillo calls Detroit Lions rookie Isaac TeSlaa one of the most underrated impact players of the 2025 NFL season. Here’s why his efficiency and red-zone dominance made him a “secret superstar.”"
+    },
+    {
+      "id": "a47048e2744633dc",
+      "title": "Patriots vs. Texans becomes most watched event in ESPN history",
+      "link": "https://sports.yahoo.com/articles/patriots-vs-texans-becomes-most-142930862.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-23T14:29:30+0000",
+      "summary": "The Patriots' win over the Texans in the 2025 NFL Divisional Round is now the most-watched event in ESPN's 46-year history."
+    },
+    {
+      "id": "169c00db32a543e8",
+      "title": "Are the Las Vegas Raiders a good landing spot for Fernando Mendoza?",
+      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-good-landing-142732703.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-23T14:27:32+0000",
+      "summary": "The Las Vegas Raiders are expected to take Fernando Mendoza with the No. 1 overall pick in the 2026 NFL draft. Here's a full breakdown of what Mendoza is walking into and how good of a landing spot the Raiders are."
+    },
+    {
       "id": "f83f1d68f7ded760",
-      "title": "Our guide to both NFL conference championship games: Storylines, X factors and bold predictions",
+      "title": "Two NFL conference title games, two matchup previews: We have predictions, score picks and X factors",
       "link": "https://espn.com/nfl/story/_/page/viewersguide47674313/nfl-afc-nfc-conference-championships-predictions-schedule-odds-injuries-stats-2025-playoffs",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-23T14:16:21+0000",
+      "published": "2026-01-23T14:26:23+0000",
       "summary": "Drake Maye vs. Jarrett Stidham? Matthew Stafford vs. Sam Darnold? We have picks, predictions and stats to know for the AFC and NFC championship games."
     },
     {
@@ -18,33 +72,6 @@
       "feed": "ESPN",
       "published": "2026-01-23T14:15:39+0000",
       "summary": "There are currently more than a dozen offensive and defensive coordinator openings around the NFL. What are the most desirable jobs, and who could land them?"
-    },
-    {
-      "id": "9f44952b8ceaaa3f",
-      "title": "Indiana NFL Draft history: Fernando Mendoza declares, likely to become Hoosiers' highest-ever selection",
-      "link": "https://sports.yahoo.com/articles/indiana-nfl-draft-history-fernando-140831651.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-23T14:08:31+0000",
-      "summary": "Here's what Mendoza's decision to declare for the draft means for Indiana, a program without much football history."
-    },
-    {
-      "id": "a9cffb151d170e0a",
-      "title": "Colts offseason preview: State of offensive tackle position in 2026",
-      "link": "https://sports.yahoo.com/articles/colts-offseason-preview-state-offensive-140828928.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-23T14:08:28+0000",
-      "summary": "Taking a look ahead to the 2026 offseason, what is the state of the Indianapolis Colts offensive tackle position?"
-    },
-    {
-      "id": "877fe029eab17b04",
-      "title": "NFL assigns referee for Broncos-Patriots game (here are their records with him)",
-      "link": "https://sports.yahoo.com/articles/nfl-assigns-referee-broncos-patriots-140104949.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-23T14:01:04+0000",
-      "summary": "The Broncos are 4-0 at home with referee Alex Kemp. The Patriots went 3-0 in Kemp games during the 2025 regular season."
     },
     {
       "id": "412406f17f60d79f",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-06T18:30:12+0000",
       "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
-    },
-    {
-      "id": "76e5a457e22b3876",
-      "title": "Colts QB Riley Leonard nominated for NFL Rookie of the Week for Week 18",
-      "link": "https://colts.com/news/colts-qb-riley-leonard-nominated-for-nfl-rookie-of-the-week-for-week-18",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T17:21:46+0000",
-      "summary": "Leonard, in his first career start on Sunday, completed 21-of-34 passes for 270 yards and two touchdowns as well as three carries for 21 rushing yards and a touchdown."
-    },
-    {
-      "id": "5e98a4a034a1fca9",
-      "title": "Colts sign LB Joseph Vaughn to reserve/future contract",
-      "link": "https://colts.com/news/colts-sign-lb-joseph-vaughn-to-reserve-future-contract",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T15:48:35+0000",
-      "summary": "The Colts made the roster move on Tuesday"
-    },
-    {
-      "id": "12ac4a37846612a7",
-      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
-      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T15:23:10+0000",
-      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
     }
   ],
   "links": [
