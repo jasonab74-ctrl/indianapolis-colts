@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-23T01:42:20+00:00",
+  "updated": "2026-01-23T03:41:14+00:00",
   "items": [
+    {
+      "id": "6ad61a9eb226e2c1",
+      "title": "Colts confirm FBI's investigation into death of former owner Jim Irsay",
+      "link": "https://fox59.com/news/colts-confirm-fbis-investigation-into-death-of-former-owner-jim-irsay/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-23T03:40:23+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts are aware of an FBI investigation into the death of former owner Jim Irsay, sources told FOX59/CBS4. Irsay died on May 21, 2025, at the age of 65. While aware of the FBI investigation, the Colts said the organization has not been contacted by the federal agency nor has it [...]"
+    },
     {
       "id": "fc7b48c21c68a13b",
       "title": "Beloved Lions OL Skipper announces retirement",
@@ -21,7 +30,7 @@
     },
     {
       "id": "c736d82527a43f57",
-      "title": "Colts confirm FBI is looking into Irsay's death",
+      "title": "Colts confirm FBI opened probe into Irsay's death",
       "link": "https://espn.com/nfl/story/_/id/47697153/colts-say-fbi-aunched-probe-death-former-owner-jim-irsay",
       "source": "ESPN",
       "feed": "ESPN",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-06T15:48:35+0000",
       "summary": "The Colts made the roster move on Tuesday"
-    },
-    {
-      "id": "12ac4a37846612a7",
-      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
-      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T15:23:10+0000",
-      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
     }
   ],
   "links": [
