@@ -1,32 +1,14 @@
 {
-  "updated": "2026-01-24T22:18:57+00:00",
+  "updated": "2026-01-24T22:43:12+00:00",
   "items": [
     {
-      "id": "c13a78d1597e4c00",
-      "title": "NFL insider implies weekly fan reaction has impacted Eagles' OC search",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-implies-weekly-fan-220229414.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-24T22:02:29+0000",
-      "summary": "Ian Rapoport on Eagles' offensive coordinator job: :if you don’t run the ball enough, the fans get very mad at you&quot;"
-    },
-    {
-      "id": "da3ddb8303ab3b85",
-      "title": "Mike McCarthy hiring winners and losers: Steelers land new head coach",
-      "link": "https://sports.yahoo.com/articles/mike-mccarthy-hiring-winners-losers-220116369.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-24T22:01:16+0000",
-      "summary": "Mike McCarthy is the latest coach to fill an NFL head-coaching vacancy in 2026 by joining the Steelers. Here's a look at the winners and losers."
-    },
-    {
-      "id": "7d3bd8d45000072d",
-      "title": "Ex-Niners QB Brodie, 1970 NFL MVP, dies at 90",
-      "link": "https://espn.com/nfl/story/_/id/47708979/former-niners-qb-john-brodie-1970-nfl-mvp-dies-age-90",
+      "id": "412406f17f60d79f",
+      "title": "QB Mendoza, likely No. 1 pick, enters NFL draft",
+      "link": "https://espn.com/nfl/story/_/id/47704043/indiana-fernando-mendoza-likely-no-1-pick-enters-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T21:42:47+0000",
-      "summary": "John Brodie, who won the NFL MVP award in 1970 and later played on what is now the PGA Tour Champions, has died at age 90."
+      "published": "2026-01-24T22:18:18+0000",
+      "summary": "Indiana quarterback Fernando Mendoza, who won the Heisman Trophy and led the No. 1 Hoosiers to their first national championship this past season, is forgoing his final college season and entering the NFL draft, he announced on social media Friday."
     },
     {
       "id": "3b500d622cd72248",
@@ -34,17 +16,8 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T21:42:47+0000",
+      "published": "2026-01-24T22:18:18+0000",
       "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
-    },
-    {
-      "id": "412406f17f60d79f",
-      "title": "QB Mendoza, likely No. 1 pick, enters NFL draft",
-      "link": "https://espn.com/nfl/story/_/id/47704043/indiana-fernando-mendoza-likely-no-1-pick-enters-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-24T21:42:46+0000",
-      "summary": "Indiana quarterback Fernando Mendoza, who won the Heisman Trophy and led the No. 1 Hoosiers to their first national championship this past season, is forgoing his final college season and entering the NFL draft, he announced on social media Friday."
     },
     {
       "id": "ae0bb790992827e8",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-05T22:21:21+0000",
       "summary": "Colts Owner and CEO Carlie Irsay-Gordon spoke to the media on Monday about her decision to have general manager Chris Ballard and head coach Shane Steichen return in 2026."
+    },
+    {
+      "id": "d59d9ef50f1e06bf",
+      "title": "Carlie Irsay-Gordon: Sense of urgency ‘has never been higher’ for Chris Ballard, Shane Steichen",
+      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-sense-of-urgency-has-never-been-higher-for-chris-ballard-shane-steichen/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T21:43:43+0000",
+      "summary": "INDIANAPOLIS – Carlie Irsay-Gordon believes Chris Ballard and Shane Steichen are capable of taking her Indianapolis Colts to success that’s largely been missing. But the team’s tri-owner essentially put her two main subordinates on notice on the heels of an 8-9 season that included a season-ending seven-game losing streak, a fifth consecutive season without a [...]"
+    },
+    {
+      "id": "e6b5dc376057a9f2",
+      "title": "Colts claim LB John Bullock off waivers",
+      "link": "https://colts.com/news/colts-claim-lb-john-bullock-off-waivers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-05T21:40:20+0000",
+      "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "2c309e70e148d67f",
+      "title": "Colts fans' patience wearing thin after disappointing season",
+      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T20:20:32+0000",
+      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
     }
   ],
   "links": [
