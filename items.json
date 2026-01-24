@@ -1,22 +1,13 @@
 {
-  "updated": "2026-01-24T23:18:52+00:00",
+  "updated": "2026-01-24T23:40:14+00:00",
   "items": [
-    {
-      "id": "dc2c94ea3aed500c",
-      "title": "NFL insider says 49ers' Mac Jones will be traded to NFC team in 2026",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-says-49ers-mac-224521951.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-24T22:45:21+0000",
-      "summary": "The San Francisco 49ers have two quarterbacks who could start games in the NFL. Which team would make the most sense to acquire Mac Jones?"
-    },
     {
       "id": "412406f17f60d79f",
       "title": "QB Mendoza, likely No. 1 pick, enters NFL draft",
       "link": "https://espn.com/nfl/story/_/id/47704043/indiana-fernando-mendoza-likely-no-1-pick-enters-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T22:18:18+0000",
+      "published": "2026-01-24T23:30:54+0000",
       "summary": "Indiana quarterback Fernando Mendoza, who won the Heisman Trophy and led the No. 1 Hoosiers to their first national championship this past season, is forgoing his final college season and entering the NFL draft, he announced on social media Friday."
     },
     {
@@ -25,7 +16,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T22:18:18+0000",
+      "published": "2026-01-24T23:30:54+0000",
       "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
     },
     {
@@ -34,7 +25,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T19:46:02+0000",
+      "published": "2026-01-24T23:30:51+0000",
       "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza and Ty Simpson."
     },
     {
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-05T21:40:20+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "2c309e70e148d67f",
+      "title": "Colts fans' patience wearing thin after disappointing season",
+      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T20:20:32+0000",
+      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
     }
   ],
   "links": [
