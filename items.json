@@ -1,14 +1,50 @@
 {
-  "updated": "2026-01-24T06:30:43+00:00",
+  "updated": "2026-01-24T07:19:04+00:00",
   "items": [
     {
-      "id": "0a94ea93f79cc0df",
-      "title": "When is the Pro Bowl in 2026? Dates, times, TV schedule for NFL's flag football",
-      "link": "https://sports.yahoo.com/articles/pro-bowl-2026-dates-times-060001358.html",
+      "id": "412406f17f60d79f",
+      "title": "QB Mendoza, likely No. 1 pick, enters NFL draft",
+      "link": "https://espn.com/nfl/story/_/id/47704043/indiana-fernando-mendoza-likely-no-1-pick-enters-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-24T07:09:22+0000",
+      "summary": "Indiana quarterback Fernando Mendoza, who won the Heisman Trophy and led the No. 1 Hoosiers to their first national championship this past season, is forgoing his final college season and entering the NFL draft, he announced on social media Friday."
+    },
+    {
+      "id": "7d3bd8d45000072d",
+      "title": "Ex-Niners QB Brodie, 1970 NFL MVP, dies at 90",
+      "link": "https://espn.com/nfl/story/_/id/47708979/former-niners-qb-john-brodie-1970-nfl-mvp-dies-age-90",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-24T07:09:22+0000",
+      "summary": "John Brodie, who won the NFL MVP award in 1970 and later played on what is now the PGA Tour Champions, has died at age 90."
+    },
+    {
+      "id": "3b500d622cd72248",
+      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-24T07:09:22+0000",
+      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
+    },
+    {
+      "id": "5a5540ba770aa737",
+      "title": "NFC West players, coaches all over NFL award finalists",
+      "link": "https://sports.yahoo.com/articles/nfc-west-players-coaches-over-064835186.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-24T06:00:01+0000",
-      "summary": "The Pro Bowl, a flag football event, will be on a Tuesday this year. Here's what you need to know to watch the action."
+      "published": "2026-01-24T06:48:35+0000",
+      "summary": "Every team but the Cardinals in the NFC West has players as finalist for big individual season awards."
+    },
+    {
+      "id": "bab0056e4418a551",
+      "title": "Former Eagles & Raiders Star Found Dead Near LA Homeless Camp as Homicide Investigation Begins",
+      "link": "https://sports.yahoo.com/articles/former-eagles-raiders-star-found-063147981.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-24T06:31:47+0000",
+      "summary": "For a man who once battled in the trenches of the NFL for the Philadelphia Eagles and the Las Vegas Raiders, his final moments were tragically spent in a far different struggle. Former NFL defensive tackle Kevin Johnson was found dead near a Los Angeles camp for the homeless on Tuesday."
     },
     {
       "id": "f83f1d68f7ded760",
@@ -36,33 +72,6 @@
       "feed": "ESPN",
       "published": "2026-01-24T03:01:35+0000",
       "summary": "There are currently more than a dozen offensive and defensive coordinator openings around the NFL. What are the most desirable jobs, and who could land them?"
-    },
-    {
-      "id": "412406f17f60d79f",
-      "title": "QB Mendoza, likely No. 1 pick, enters NFL draft",
-      "link": "https://espn.com/nfl/story/_/id/47704043/indiana-fernando-mendoza-likely-no-1-pick-enters-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-24T03:01:32+0000",
-      "summary": "Indiana quarterback Fernando Mendoza, who won the Heisman Trophy and led the No. 1 Hoosiers to their first national championship this past season, is forgoing his final college season and entering the NFL draft, he announced on social media Friday."
-    },
-    {
-      "id": "3b500d622cd72248",
-      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-24T03:01:32+0000",
-      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
-    },
-    {
-      "id": "7d3bd8d45000072d",
-      "title": "Ex-Niners QB Brodie, 1970 NFL MVP, dies at 90",
-      "link": "https://espn.com/nfl/story/_/id/47708979/former-niners-qb-john-brodie-1970-nfl-mvp-dies-age-90",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-24T03:01:31+0000",
-      "summary": "John Brodie, who won the NFL MVP award in 1970 and later played on what is now the PGA Tour Champions, has died at age 90."
     },
     {
       "id": "8db0dfda58b18645",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-05T21:43:43+0000",
       "summary": "INDIANAPOLIS – Carlie Irsay-Gordon believes Chris Ballard and Shane Steichen are capable of taking her Indianapolis Colts to success that’s largely been missing. But the team’s tri-owner essentially put her two main subordinates on notice on the heels of an 8-9 season that included a season-ending seven-game losing streak, a fifth consecutive season without a [...]"
-    },
-    {
-      "id": "e6b5dc376057a9f2",
-      "title": "Colts claim LB John Bullock off waivers",
-      "link": "https://colts.com/news/colts-claim-lb-john-bullock-off-waivers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T21:40:20+0000",
-      "summary": "The Colts made the roster move on Monday."
     }
   ],
   "links": [
