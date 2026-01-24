@@ -1,13 +1,40 @@
 {
-  "updated": "2026-01-24T01:39:47+00:00",
+  "updated": "2026-01-24T03:25:52+00:00",
   "items": [
+    {
+      "id": "300b006ce113bf26",
+      "title": "Report: Detroit Lions Assistant Had Major Influence in the Drew Petzing Hire",
+      "link": "https://sports.yahoo.com/articles/report-detroit-lions-assistant-had-031142397.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-24T03:11:42+0000",
+      "summary": "NFL insider Albert Breer reveals that Lions offensive line coach Hank Fraley’s voice carried significant weight in the decision to hire Drew Petzing as Detroit’s new offensive coordinator."
+    },
+    {
+      "id": "9b4618ddacc9d94f",
+      "title": "Could Mike Vrabel become the next Super Bowl-bound coach in his first season?",
+      "link": "https://espn.com/nfl/story/_/id/47696389/coaches-made-super-bowl-first-year",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-24T03:01:39+0000",
+      "summary": "Vrabel would become the eighth coach in NFL history to reach a Super Bowl in his first season with a win Sunday."
+    },
+    {
+      "id": "5830cefff60f5c1d",
+      "title": "Ranking the NFL's best offensive, defensive coordinator openings, plus intel on top candidates",
+      "link": "https://espn.com/nfl/story/_/id/47674143/2026-nfl-offseason-rankings-offensive-defensive-coordinator-openings-intel",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-24T03:01:35+0000",
+      "summary": "There are currently more than a dozen offensive and defensive coordinator openings around the NFL. What are the most desirable jobs, and who could land them?"
+    },
     {
       "id": "412406f17f60d79f",
       "title": "QB Mendoza, likely No. 1 pick, enters NFL draft",
       "link": "https://espn.com/nfl/story/_/id/47704043/indiana-fernando-mendoza-likely-no-1-pick-enters-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T01:07:45+0000",
+      "published": "2026-01-24T03:01:32+0000",
       "summary": "Indiana quarterback Fernando Mendoza, who won the Heisman Trophy and led the No. 1 Hoosiers to their first national championship this past season, is forgoing his final college season and entering the NFL draft, he announced on social media Friday."
     },
     {
@@ -16,7 +43,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T01:07:45+0000",
+      "published": "2026-01-24T03:01:32+0000",
       "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
     },
     {
@@ -25,17 +52,44 @@
       "link": "https://espn.com/nfl/story/_/id/47708979/former-niners-qb-john-brodie-1970-nfl-mvp-dies-age-90",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-24T01:07:44+0000",
+      "published": "2026-01-24T03:01:31+0000",
       "summary": "John Brodie, who won the NFL MVP award in 1970 and later played on what is now the PGA Tour Champions, has died at age 90."
     },
     {
-      "id": "243f2d89c93e0c25",
-      "title": "NFL Analyst Drops Hot Take on Potential Saints Pursuit",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-drops-hot-potential-010001613.html",
+      "id": "f83f1d68f7ded760",
+      "title": "Two NFL conference title games, two matchup previews: We have predictions, score picks and X factors",
+      "link": "https://espn.com/nfl/story/_/page/viewersguide47674313/nfl-afc-nfc-conference-championships-predictions-schedule-odds-injuries-stats-2025-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-24T03:01:28+0000",
+      "summary": "Drake Maye vs. Jarrett Stidham. Matthew Stafford vs. Sam Darnold. We have picks, stats to know and more for the AFC and NFC title games."
+    },
+    {
+      "id": "f26f691801aa0999",
+      "title": "2026 NFL Draft Scouting Report: Tommy Castellanos, QB, FSU",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-030113460.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-24T01:00:01+0000",
-      "summary": "Is Joe Burrow the missing piece for New Orleans? Analyst suggests a blockbuster trade could bring the star QB back to Louisiana."
+      "published": "2026-01-24T03:01:13+0000",
+      "summary": "The 2026 NFL Draft scouting reports continue, as we take a look at Florida State quarterback Tommy Castellanos."
+    },
+    {
+      "id": "b858cf61fd0dad38",
+      "title": "2026 NFL Draft Scouting Report: Chris Brazzell II, WR, Tennessee",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-025658971.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-24T02:56:58+0000",
+      "summary": "What does the scouting report look like for Tennessee's big bodied Chris Brazzell II? We have some answers."
+    },
+    {
+      "id": "76ceaa6bda045c9d",
+      "title": "Tom Brady Makes Feelings Clear as Fernando Mendoza Sends Strong Draft Message on Raiders Buzz",
+      "link": "https://sports.yahoo.com/articles/tom-brady-makes-feelings-clear-023455692.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-24T02:34:55+0000",
+      "summary": "With a Heisman Trophy and a national title in hand, Indiana now eyes Fernando Mendoza’s NFL path. The 22-year-old quarterback made it official with an Instagram post declaring for the NFL Draft."
     },
     {
       "id": "8db0dfda58b18645",
@@ -45,24 +99,6 @@
       "feed": "ESPN",
       "published": "2026-01-23T23:00:12+0000",
       "summary": "We took the MVP conversation beyond Drake Maye vs. Matthew Stafford ... way beyond. Here are the 100 top players of the 2025 season."
-    },
-    {
-      "id": "9b4618ddacc9d94f",
-      "title": "Could Mike Vrabel become the next Super Bowl-bound coach in his first season?",
-      "link": "https://espn.com/nfl/story/_/id/47696389/coaches-made-super-bowl-first-year",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-23T22:54:50+0000",
-      "summary": "Vrabel would become the eighth coach in NFL history to reach a Super Bowl in his first season with a win Sunday."
-    },
-    {
-      "id": "f83f1d68f7ded760",
-      "title": "Two NFL conference title games, two matchup previews: We have predictions, score picks and X factors",
-      "link": "https://espn.com/nfl/story/_/page/viewersguide47674313/nfl-afc-nfc-conference-championships-predictions-schedule-odds-injuries-stats-2025-playoffs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-23T22:07:21+0000",
-      "summary": "Drake Maye vs. Jarrett Stidham. Matthew Stafford vs. Sam Darnold. We have picks, stats to know and more for the AFC and NFC title games."
     },
     {
       "id": "efa444937802ea4a",
@@ -81,15 +117,6 @@
       "feed": "ESPN",
       "published": "2026-01-23T18:56:46+0000",
       "summary": "Will Alec Pierce get paid in free agency? What's next for Brandon Aiyuk and Keon Coleman? And could A.J. Brown or Brian Thomas Jr. get traded?"
-    },
-    {
-      "id": "5830cefff60f5c1d",
-      "title": "Ranking the NFL's best offensive, defensive coordinator openings, plus intel on top candidates",
-      "link": "https://espn.com/nfl/story/_/id/47674143/2026-nfl-offseason-rankings-offensive-defensive-coordinator-openings-intel",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-23T18:53:19+0000",
-      "summary": "There are currently more than a dozen offensive and defensive coordinator openings around the NFL. What are the most desirable jobs, and who could land them?"
     },
     {
       "id": "a8a63d8a1a5a0b6b",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-06T15:23:10+0000",
       "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
-    },
-    {
-      "id": "61e0c20412cf8e88",
-      "title": "Carlie Irsay-Gordon saw progress from Chris Ballard, Shane Steichen in 2025, but expects Colts to better overcome adversity in 2026",
-      "link": "https://colts.com/news/carlie-irsay-gordon-saw-progress-from-chris-ballard-shane-steichen-in-2025-but-expects-colts-to-better-overcome-adversity-in-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T22:21:21+0000",
-      "summary": "Colts Owner and CEO Carlie Irsay-Gordon spoke to the media on Monday about her decision to have general manager Chris Ballard and head coach Shane Steichen return in 2026."
-    },
-    {
-      "id": "d59d9ef50f1e06bf",
-      "title": "Carlie Irsay-Gordon: Sense of urgency ‘has never been higher’ for Chris Ballard, Shane Steichen",
-      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-sense-of-urgency-has-never-been-higher-for-chris-ballard-shane-steichen/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-05T21:43:43+0000",
-      "summary": "INDIANAPOLIS – Carlie Irsay-Gordon believes Chris Ballard and Shane Steichen are capable of taking her Indianapolis Colts to success that’s largely been missing. But the team’s tri-owner essentially put her two main subordinates on notice on the heels of an 8-9 season that included a season-ending seven-game losing streak, a fifth consecutive season without a [...]"
-    },
-    {
-      "id": "e6b5dc376057a9f2",
-      "title": "Colts claim LB John Bullock off waivers",
-      "link": "https://colts.com/news/colts-claim-lb-john-bullock-off-waivers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T21:40:20+0000",
-      "summary": "The Colts made the roster move on Monday."
     }
   ],
   "links": [
