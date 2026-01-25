@@ -1,14 +1,32 @@
 {
-  "updated": "2026-01-25T21:40:26+00:00",
+  "updated": "2026-01-25T22:19:31+00:00",
   "items": [
     {
-      "id": "3c239ee6aceb7475",
-      "title": "Packers offensive coordinator Adam Stenavich getting interview with Titans",
-      "link": "https://sports.yahoo.com/articles/packers-offensive-coordinator-adam-stenavich-212027514.html",
+      "id": "e4e4673bb6c04338",
+      "title": "Steelers fans react to Mike McCarthy hiring",
+      "link": "https://sports.yahoo.com/articles/steelers-fans-react-mike-mccarthy-220316250.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-25T21:20:27+0000",
-      "summary": "Green Bay Packers offensive coordinator Adam Stenavich will interview with the Tennessee Titans for the same job, per Tom Pelissero of NFL Network."
+      "published": "2026-01-25T22:03:16+0000",
+      "summary": "McCarthy has won 173 games in his NFL career and defeated the Steelers in Super Bowl XLV."
+    },
+    {
+      "id": "0b23187f0766b2e0",
+      "title": "NFL fans are obsessed with this ref in a fur black-and-white striped coat",
+      "link": "https://sports.yahoo.com/articles/nfl-fans-obsessed-ref-fur-215940894.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-25T21:59:40+0000",
+      "summary": "This is so cool."
+    },
+    {
+      "id": "3b500d622cd72248",
+      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-25T21:56:02+0000",
+      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
     },
     {
       "id": "8423414ac5591722",
@@ -18,15 +36,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-25T17:30:58+0000",
       "summary": "Armed with $34.5M of projected cap space, but with no first round pick, the 2026 Indianapolis Colts have some work to do following another disappointing late season collapse that saw them fall short of the playoffs yet again. One of the biggest current deficiencies facing the Colts this offseason is their consistent lack of outside [&#8230;]"
-    },
-    {
-      "id": "3b500d622cd72248",
-      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-25T17:10:09+0000",
-      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
     },
     {
       "id": "5830cefff60f5c1d",
@@ -65,15 +74,6 @@
       "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza and Ty Simpson."
     },
     {
-      "id": "9b4618ddacc9d94f",
-      "title": "Could Mike Vrabel become the next Super Bowl-bound coach in his first season?",
-      "link": "https://espn.com/nfl/story/_/id/47696389/coaches-made-super-bowl-first-year",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-24T17:22:01+0000",
-      "summary": "Vrabel would become the eighth coach in NFL history to reach a Super Bowl in his first season with a win Sunday."
-    },
-    {
       "id": "4cb1f738db22cb88",
       "title": "What comes next for the Colts?",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/120931/what-comes-next-for-the-colts",
@@ -90,15 +90,6 @@
       "feed": "ESPN",
       "published": "2026-01-24T13:12:31+0000",
       "summary": "Even as beards freeze and fingers lose feeling, NFL players find ways to handle ridiculously cold temperatures."
-    },
-    {
-      "id": "8db0dfda58b18645",
-      "title": "Who were the most valuable players in the NFL this season? Let's stack the top 100",
-      "link": "https://espn.com/nfl/story/_/id/47663581/nfl-top-100-rankings-mvp-candidates-2025-regular-season-maye-stafford-prescott",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-23T23:00:12+0000",
-      "summary": "We took the MVP conversation beyond Drake Maye vs. Matthew Stafford ... way beyond. Here are the 100 top players of the 2025 season."
     },
     {
       "id": "e18aad3b83f74b99",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-05T21:40:20+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "2c309e70e148d67f",
+      "title": "Colts fans' patience wearing thin after disappointing season",
+      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T20:20:32+0000",
+      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
     }
   ],
   "links": [
