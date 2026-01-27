@@ -1,49 +1,13 @@
 {
-  "updated": "2026-01-27T22:21:57+00:00",
+  "updated": "2026-01-27T22:45:54+00:00",
   "items": [
-    {
-      "id": "070d04959523ed52",
-      "title": "Broncos have fired offensive coordinator Joe Lombardi",
-      "link": "https://sports.yahoo.com/articles/broncos-fired-offensive-coordinator-joe-221802365.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T22:18:02+0000",
-      "summary": "According to NFL Network insiders Ian Rapoport and Tom Pelissero, the Denver Broncos have fired offensive coordinator Joe Lombardi. This comes as a bit of a surprise, as Lombardi has been one of Sean Payton’s most trusted coaches in recent seasons. Could this mean that the Broncos are making a play to keep offensive pass […]"
-    },
-    {
-      "id": "1683d8162197f8e5",
-      "title": "Broncos reportedly fire offensive coordinator Joe Lombardi, 2 days after playing in AFC championship",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/broncos-reportedly-fire-offensive-coordinator-joe-lombardi-2-days-after-playing-in-afc-championship-220705958.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T22:07:05+0000",
-      "summary": "The Denver Broncos fired offensive coordinator Joe Lombardi on Tuesday, two days after they played in the AFC championship game, NFL Network reports."
-    },
-    {
-      "id": "4c48eec85c8aa802",
-      "title": "How Jaguars latest coaching news may impact Colts in 2026",
-      "link": "https://sports.yahoo.com/articles/jaguars-latest-coaching-news-may-220651399.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T22:06:51+0000",
-      "summary": "How the Jaguars' latest coaching staff news could impact the Indianapolis Colts in 2026."
-    },
-    {
-      "id": "4681cab8bb01f1fe",
-      "title": "Sizing up Stafford vs. Maye for MVP: Which star quarterback should win the award?",
-      "link": "https://espn.com/nfl/story/_/id/47734924/2025-nfl-mvp-award-drake-maye-matthew-stafford-stats-picks-betting",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-27T19:48:52+0000",
-      "summary": "It's a two-player race for NFL MVP. We made cases for quarterbacks Matthew Stafford and Drake Maye to win the award -- then our experts made their picks."
-    },
     {
       "id": "85d4a1433f6c1b69",
       "title": "Offseason guide for eliminated NFL teams: Key free agents, draft outlook, priorities and predictions",
       "link": "https://espn.com/nfl/story/_/id/47454831/2026-nfl-offseason-guide-every-team-priorities-free-agents-draft-predictions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-27T18:42:31+0000",
+      "published": "2026-01-27T22:39:34+0000",
       "summary": "The NFL offseason has arrived for 30 teams. What must each do to have a better season in 2026? We have outlooks, early buzz and predictions."
     },
     {
@@ -52,8 +16,44 @@
       "link": "https://espn.com/nfl/story/_/id/47682393/2026-nfl-offseason-wide-receiver-market-free-agency-trades-cuts-signings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-01-27T18:42:31+0000",
+      "published": "2026-01-27T22:39:34+0000",
       "summary": "What's next for Brandon Aiyuk and Keon Coleman? And could A.J. Brown or Brian Thomas Jr. get traded?"
+    },
+    {
+      "id": "4681cab8bb01f1fe",
+      "title": "Sizing up Stafford vs. Maye for MVP: Which star quarterback should win the award?",
+      "link": "https://espn.com/nfl/story/_/id/47734924/2025-nfl-mvp-award-drake-maye-matthew-stafford-stats-picks-betting",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-27T22:33:43+0000",
+      "summary": "It's a two-player race for NFL MVP. We made cases for quarterbacks Matthew Stafford and Drake Maye to win the award -- then our experts made their picks."
+    },
+    {
+      "id": "a703ded83cd2f39a",
+      "title": "Denver Broncos fire offensive coordinator Joe Lombardi: reports",
+      "link": "https://sports.yahoo.com/articles/denver-broncos-fire-offensive-coordinator-222733767.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T22:27:33+0000",
+      "summary": "The longtime Sean Payton assistant was fired two days after the Broncos bowed out of the NFL playoffs with a 10-7 loss to the Patriots."
+    },
+    {
+      "id": "9eb623224609f45e",
+      "title": "Robert Saleh’s Titans roll dice, set to entrust Brian Daboll with Cam Ward",
+      "link": "https://sports.yahoo.com/articles/robert-saleh-titans-roll-dice-222200917.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T22:22:00+0000",
+      "summary": "Brian Daboll has run 12 seasons worth of NFL offenses for five different teams in his coaching career. In the three full seasons he coached Buffalo Bills star quarterback Josh Allen as a starter, Daboll’s offenses on average ranked ninth in the league in points per game and 11th in yards. In the other nine seasons without Allen, Daboll’s offenses ranked 26th in points per game on average and ..."
+    },
+    {
+      "id": "070d04959523ed52",
+      "title": "Broncos have fired offensive coordinator Joe Lombardi",
+      "link": "https://sports.yahoo.com/articles/broncos-fired-offensive-coordinator-joe-221802365.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T22:18:02+0000",
+      "summary": "According to NFL Network insiders Ian Rapoport and Tom Pelissero, the Denver Broncos have fired offensive coordinator Joe Lombardi. This comes as a bit of a surprise, as Lombardi has been one of Sean Payton’s most trusted coaches in recent seasons. Could this mean that the Broncos are making a play to keep offensive pass […]"
     },
     {
       "id": "b69d24dd47bba76c",
