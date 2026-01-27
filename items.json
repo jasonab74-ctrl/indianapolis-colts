@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T07:27:02+00:00",
+  "updated": "2026-01-27T07:49:22+00:00",
   "items": [
     {
       "id": "f15157533a9b0691",
@@ -9,15 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-01-27T07:00:01+0000",
       "summary": "TV channels, live streams, and rosters for watching NFL Draft prospect workouts."
-    },
-    {
-      "id": "221643ce18939f59",
-      "title": "NFL: Teams with new head coaches heading into the 2026 season",
-      "link": "https://sports.yahoo.com/articles/nfl-teams-head-coaches-heading-064700998.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T06:47:00+0000",
-      "summary": "A wave of new head coaching hires has already reshaped the NFL landscape heading into the 2026 season. These teams have chosen direction, leadership, and philosophy in hopes of accelerating success or restoring stability. Each hire reflects a calculated bet…"
     },
     {
       "id": "342b1aefc37e6278",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-05T21:40:20+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "2c309e70e148d67f",
+      "title": "Colts fans' patience wearing thin after disappointing season",
+      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T20:20:32+0000",
+      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
     }
   ],
   "links": [
