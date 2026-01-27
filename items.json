@@ -1,41 +1,86 @@
 {
-  "updated": "2026-01-27T11:45:03+00:00",
+  "updated": "2026-01-27T12:48:53+00:00",
   "items": [
     {
-      "id": "e2ac43bb31bd81fa",
-      "title": "Chiefs News 1/27: Chiefs re-sign wide receiver Jason Brownlee",
-      "link": "https://sports.yahoo.com/articles/chiefs-news-1-27-chiefs-113000253.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T11:30:00+0000",
-      "summary": "The outside receiver will enter his fourth NFL offseason, the second in Kansas City."
+      "id": "e1cc25269bd15ea4",
+      "title": "Get ready for the Senior Bowl: Six predictions and 15 NFL draft prospects to watch in Mobile",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47706764/2026-senior-bowl-nfl-draft-prospects-qbs-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-27T12:41:47+0000",
+      "summary": "Our NFL draft experts weigh in on what to expect at the Senior Bowl, from picking out position groups to watch to predicting players who could rise."
     },
     {
-      "id": "1eb106fc7ebbd60a",
-      "title": "Former NFL Head Coach ‘Gaining Momentum’ With Cleveland Browns",
-      "link": "https://sports.yahoo.com/articles/former-nfl-head-coach-gaining-113000022.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T11:30:00+0000",
-      "summary": "Unlike some of the other teams that made a late decision to move on from their head coach, the Cleveland [&#8230;]"
+      "id": "3b500d622cd72248",
+      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-27T12:41:18+0000",
+      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
     },
     {
-      "id": "d6ac2e2e37698c9c",
-      "title": "Commanders land arguably the top player in this new NFL mock draft",
-      "link": "https://sports.yahoo.com/articles/commanders-land-arguably-top-player-111548800.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-27T11:15:48+0000",
-      "summary": "The Commanders have plenty of needs this offseason, and the latest mock draft has the team selecting a game-changing defender."
+      "id": "4289af6ccc867412",
+      "title": "Source: Rivers withdraws name from Bills search",
+      "link": "https://espn.com/nfl/story/_/id/47734503/reports-philip-rivers-withdraws-bills-coaching-search",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-27T12:41:17+0000",
+      "summary": "Former NFL quarterback Philip Rivers has withdrawn from the Bills' coaching search, a source confirmed to ESPN."
     },
     {
-      "id": "319ad37063144fb8",
-      "title": "Updated NFL Draft order after Conference Championships",
-      "link": "https://sports.yahoo.com/articles/updated-nfl-draft-order-conference-111500445.html",
+      "id": "4681cab8bb01f1fe",
+      "title": "Sizing up Stafford vs. Maye for MVP: Which star quarterback should win the award?",
+      "link": "https://espn.com/nfl/story/_/id/47734924/2025-nfl-mvp-award-drake-maye-matthew-stafford-stats-picks-betting",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-01-27T12:41:09+0000",
+      "summary": "It's a two-player race for NFL MVP. We made cases for quarterbacks Matthew Stafford and Drake Maye to win the award -- then our experts made their picks."
+    },
+    {
+      "id": "501ed193f4c44bf1",
+      "title": "NFL insider Tom Pelissero exposes the messy Las Vegas Raiders",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-tom-pelissero-exposes-123824962.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-01-27T11:15:00+0000",
-      "summary": "Where will the eliminated teams be selecting."
+      "published": "2026-01-27T12:38:24+0000",
+      "summary": "NFL Insider Tom Pelissero noted that candidates might find the Raiders' leadership structure confusing. Pelissero mentioned that Mark Davis and Tom Brady co-run the football operations alongside John Spytek, a triad that has raised eyebrows across the league."
+    },
+    {
+      "id": "9bed612c75994959",
+      "title": "LSU football's Mansoor Delane soars to top of latest NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/lsu-footballs-mansoor-delane-soars-123432387.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T12:34:32+0000",
+      "summary": "NFL Network’s Daniel Jeremiah released his first mock draft on Monday, and where he has LSU CB Mansoor Delane going off the board is a surprise."
+    },
+    {
+      "id": "19ec0b801bb8a83b",
+      "title": "Texas A&M Edge predicted to be selected 15th overall in 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/texas-m-edge-predicted-selected-123050452.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T12:30:50+0000",
+      "summary": "Texas A&amp;M senior Edge Cashius Howell is now predicted to be selected 15th overall by Tampa Bay in the 2026 NFL Draft."
+    },
+    {
+      "id": "c3cd88b963ae612a",
+      "title": "What's behind the Irish impact in the NFL?",
+      "link": "https://sports.yahoo.com/articles/whats-behind-irish-impact-nfl-122833347.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T12:28:33+0000",
+      "summary": "BBC Sport NI looks at the growing Irish impact in the NFL and the next batch of players hoping to secure a career in American football."
+    },
+    {
+      "id": "39946fc4bb4c5de6",
+      "title": "Detroit Could Target This “Old-School” Tight End in the 2026 Draft",
+      "link": "https://sports.yahoo.com/articles/detroit-could-target-old-school-122240258.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-01-27T12:22:40+0000",
+      "summary": "With Sam LaPorta and Brock Wright coming off injuries and Drew Petzing favoring three-tight-end sets, Stanford TE Sam Roush could be exactly what the Detroit Lions need in the 2026 NFL Draft."
     },
     {
       "id": "342b1aefc37e6278",
@@ -54,33 +99,6 @@
       "feed": "Stampede Blue",
       "published": "2026-01-27T03:41:58+0000",
       "summary": "According to The Athletic’s Dianna Russini, recently retired (again) Indianapolis Colts quarterback Philip Rivers has withdrawn from the Buffalo Bills head coaching opening after interviewing entering this past weekend: Despite having no prior collegiate or pro coaching experience, the 44-year-old Rivers surprisingly received a head coaching interview for Buffalo late last week, as the longtime [&#8230;]"
-    },
-    {
-      "id": "4289af6ccc867412",
-      "title": "Source: Rivers withdraws name from Bills search",
-      "link": "https://espn.com/nfl/story/_/id/47734503/reports-philip-rivers-withdraws-bills-coaching-search",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-27T02:13:40+0000",
-      "summary": "Former NFL quarterback Philip Rivers has withdrawn from the Bills' coaching search, a source confirmed to ESPN."
-    },
-    {
-      "id": "3b500d622cd72248",
-      "title": "📝 Mel Kiper's debut 2026 NFL mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-27T02:13:40+0000",
-      "summary": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?"
-    },
-    {
-      "id": "e1cc25269bd15ea4",
-      "title": "Get ready for the Senior Bowl: Six predictions and 15 NFL draft prospects to watch in Mobile",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47706764/2026-senior-bowl-nfl-draft-prospects-qbs-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-01-27T02:02:56+0000",
-      "summary": "Our NFL draft experts weigh in on what to expect at the Senior Bowl, from picking out position groups to watch to predicting players who could rise."
     },
     {
       "id": "df68c83aa7619fb9",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-06T15:48:35+0000",
       "summary": "The Colts made the roster move on Tuesday"
-    },
-    {
-      "id": "12ac4a37846612a7",
-      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
-      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T15:23:10+0000",
-      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
-    },
-    {
-      "id": "61e0c20412cf8e88",
-      "title": "Carlie Irsay-Gordon saw progress from Chris Ballard, Shane Steichen in 2025, but expects Colts to better overcome adversity in 2026",
-      "link": "https://colts.com/news/carlie-irsay-gordon-saw-progress-from-chris-ballard-shane-steichen-in-2025-but-expects-colts-to-better-overcome-adversity-in-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-05T22:21:21+0000",
-      "summary": "Colts Owner and CEO Carlie Irsay-Gordon spoke to the media on Monday about her decision to have general manager Chris Ballard and head coach Shane Steichen return in 2026."
     }
   ],
   "links": [
