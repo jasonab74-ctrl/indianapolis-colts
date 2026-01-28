@@ -1,24 +1,6 @@
 {
-  "updated": "2026-01-28T08:31:13+00:00",
+  "updated": "2026-01-28T09:33:19+00:00",
   "items": [
-    {
-      "id": "0720083706d439bb",
-      "title": "NFL: Youngest quarterback to win a conference title",
-      "link": "https://sports.yahoo.com/articles/nfl-youngest-quarterback-win-conference-081728316.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-28T08:17:28+0000",
-      "summary": "Winning a conference title in the NFL is one of the toughest accomplishments in professional sports, especially for a quarterback still early in his career. It requires not just talent, but leadership, composure, and the ability to perform under intense…"
-    },
-    {
-      "id": "62839bd8861d1ac1",
-      "title": "NFL: Quarterbacks to win AFC championship since 2000",
-      "link": "https://sports.yahoo.com/articles/nfl-quarterbacks-win-afc-championship-080425473.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-01-28T08:04:25+0000",
-      "summary": "Since 2000, the AFC Championship has been the proving ground for some of the most defining quarterbacks in NFL history. From dynastic runs to surprise breakthroughs, these games have often shaped eras and legacies in real time. The quarterbacks who…"
-    },
     {
       "id": "fd96fd2dc67b2f09",
       "title": "Speculation swirls that Colts Hall of Fame GM Bill Polian helped dissuade Bill Belichick from joining on 1st-Ballot",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-05T21:40:20+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "2c309e70e148d67f",
+      "title": "Colts fans' patience wearing thin after disappointing season",
+      "link": "https://fox59.com/sports/colts/colts-fans-patience-wearing-thin-after-disappointing-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T20:20:32+0000",
+      "summary": "(WXIN/WTTV) — Around the counter with the lunchtime crowd at Charlie Brown’s Pancake &#38; Steak House in Speedway, Indianapolis Colts fans were united in their disappointment at another failed season and expressed thinning patience while waiting for the franchise to make the type of decisions that will put the team back in play amongst the [...]"
+    },
+    {
+      "id": "d2ebc7e080da3e4b",
+      "title": "Colts’ Charvarius Ward mulling future after 3 concussions; ‘If I walk away, I won’t regret it'",
+      "link": "https://fox59.com/sports/colts/colts-charvarius-ward-mulling-future-after-3-concussions-if-i-walk-away-i-wont-regret-it/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-05T19:35:29+0000",
+      "summary": "INDIANAPOLIS – Charvarius Ward heads into an uncertain offseason and with one important figure in his life already casting an ominous vote. “My daddy told me to retire,’’ the Indianapolis Colts’ veteran cornerback said Monday. That’s a voice Ward undoubtedly will consider after dealing with three concussions and the accompanying symptoms that seemed to linger [...]"
     }
   ],
   "links": [
