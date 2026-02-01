@@ -1,32 +1,23 @@
 {
-  "updated": "2026-02-01T21:46:06+00:00",
+  "updated": "2026-02-01T22:23:00+00:00",
   "items": [
     {
-      "id": "aa096a4657310f15",
-      "title": "ESPN Closes NFL Network Acquisition",
-      "link": "https://sports.yahoo.com/articles/espn-closes-nfl-network-acquisition-213004892.html",
+      "id": "1939435f2bccb1b5",
+      "title": "49ers Have Reportedly Found Robert Saleh Replacement At Defensive Coordinator",
+      "link": "https://sports.yahoo.com/articles/49ers-reportedly-found-robert-saleh-220400707.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-01T21:30:04+0000",
-      "summary": "In exchange, the league is being given a 10% stake in the sports network"
+      "published": "2026-02-01T22:04:00+0000",
+      "summary": "According to ESPN’s Adam Schefter, the San Francisco 49ers are set to hire former Atlanta Falcons head coach Raheem Morris as defensive coordinator, replacing Robert Saleh, who is now the head coach of the Tennessee Titans. Morris has built a varied coaching career in the NFL, marked by head coaching opportunities and strong defensive work. […]"
     },
     {
-      "id": "ba9a3ca0925731a5",
-      "title": "Ranking 10 new NFL head coaching hires",
-      "link": "https://sports.yahoo.com/articles/ranking-10-nfl-head-coaching-211601993.html",
+      "id": "fd183b603b0a9e2a",
+      "title": "Report: NFL fined Seahawks $5 million for non-compliance with ownership requirements",
+      "link": "https://sports.yahoo.com/articles/report-nfl-fined-seahawks-5-220331260.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-01T21:16:01+0000",
-      "summary": "What NFL teams got it right with their head coaching hires? Ten decisions were made, who will thrive?"
-    },
-    {
-      "id": "a779aabed2396752",
-      "title": "San Francisco 49ers Hire Former NFL Head Coach as Defensive Coordinator",
-      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-hire-former-211324326.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-01T21:13:24+0000",
-      "summary": "When the San Francisco 49ers re-hired former New York Jets head coach Robert Saleh as their defensive coordinator during the [&#8230;]"
+      "published": "2026-02-01T22:03:31+0000",
+      "summary": "NFL is pushing Jody Allen to sell her late brother's team."
     },
     {
       "id": "e94dfc979e424239",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-06T15:48:35+0000",
       "summary": "The Colts made the roster move on Tuesday"
+    },
+    {
+      "id": "12ac4a37846612a7",
+      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
+      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T15:23:10+0000",
+      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
     }
   ],
   "links": [
