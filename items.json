@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-01T15:23:45+00:00",
+  "updated": "2026-02-01T15:49:33+00:00",
   "items": [
-    {
-      "id": "4a36e561a5649a3e",
-      "title": "Greg Penner says Broncos will be 'opportunistically aggressive' in free agency",
-      "link": "https://sports.yahoo.com/articles/greg-penner-says-broncos-opportunistically-150022303.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-01T15:00:22+0000",
-      "summary": "The Broncos will be 'opportunistically aggressive' during NFL free agency, Greg Penner said."
-    },
     {
       "id": "e94dfc979e424239",
       "title": "ESPN closes deal for NFL Network, RedZone rights",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-06T15:48:35+0000",
       "summary": "The Colts made the roster move on Tuesday"
+    },
+    {
+      "id": "12ac4a37846612a7",
+      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
+      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T15:23:10+0000",
+      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
     }
   ],
   "links": [
