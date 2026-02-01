@@ -1,13 +1,22 @@
 {
-  "updated": "2026-02-01T18:33:41+00:00",
+  "updated": "2026-02-01T19:23:22+00:00",
   "items": [
+    {
+      "id": "e4a5b667090dd33e",
+      "title": "What time is the Pro Bowl and how to watch",
+      "link": "https://sports.yahoo.com/articles/time-pro-bowl-watch-185836935.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-01T18:58:36+0000",
+      "summary": "The NFL Pro Bowl will be played on a Tuesday this year, instead of the traditional Sunday game. Here's what you need to know."
+    },
     {
       "id": "e94dfc979e424239",
       "title": "ESPN closes deal for NFL Network, RedZone rights",
       "link": "https://espn.com/espn/story/_/id/47793895/regulators-ok-espn-purchase-nfl-network-redzone-rights-nfl-equity-stake",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-01T18:26:08+0000",
+      "published": "2026-02-01T18:58:30+0000",
       "summary": "ESPN's purchase of NFL Network and other league digital assets has been finalized after government regulators approved the transaction."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47781378/ravens-hire-bears-declan-doyle-oc-sources-say",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-01T18:26:08+0000",
+      "published": "2026-02-01T18:58:30+0000",
       "summary": "The Ravens are hiring the Bears' Declan Doyle as their offensive coordinator, sources told ESPN's Adam Schefter. Doyle, 29, will be the youngest offensive playcaller in the NFL."
     },
     {
@@ -25,7 +34,7 @@
       "link": "https://espn.com/college-football/story/_/id/47787452/draft-bound-ty-simpson-new-school-hurt-bama-legacy",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-01T18:26:08+0000",
+      "published": "2026-02-01T18:58:30+0000",
       "summary": "Former Alabama quarterback Ty Simpson said he is \"absolutely\" content with entering the NFL draft, adding it would \"tarnish my legacy\" to stay in college and play for another school."
     },
     {
@@ -36,15 +45,6 @@
       "feed": "Stampede Blue",
       "published": "2026-02-01T18:17:56+0000",
       "summary": "According to ESPN’s Adam Schefter, the Baltimore Ravens have poached Indianapolis Colts Charlie Gelman, who just completed his third season as the Horseshoe’s football analyst/game management assistant. He will now serve on new Ravens head coach Jesse Minter’s coaching staff as their game management coordinator and as a defensive assistant—which looks like a promotion of [&#8230;]"
-    },
-    {
-      "id": "9abd6a6d3ab06005",
-      "title": "Ravens reportedly poach former Colts analytical assistant this early offseason",
-      "link": "https://sports.yahoo.com/articles/ravens-reportedly-poach-former-colts-181756526.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-01T18:17:56+0000",
-      "summary": "The Colts have potentially lost a valuable analytical asset, but there’s ample time this early offseason to find a replacement."
     },
     {
       "id": "7146ca448bc4badd",
