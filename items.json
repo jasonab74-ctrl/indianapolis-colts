@@ -1,6 +1,33 @@
 {
-  "updated": "2026-02-01T20:50:12+00:00",
+  "updated": "2026-02-01T21:21:50+00:00",
   "items": [
+    {
+      "id": "ba9a3ca0925731a5",
+      "title": "Ranking 10 new NFL head coaching hires",
+      "link": "https://sports.yahoo.com/articles/ranking-10-nfl-head-coaching-211601993.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-01T21:16:01+0000",
+      "summary": "What NFL teams got it right with their head coaching hires? Ten decisions were made, who will thrive?"
+    },
+    {
+      "id": "221c92b7f65754e3",
+      "title": "MSU football assistant coach reportedly leaving for NFL job",
+      "link": "https://sports.yahoo.com/articles/msu-football-assistant-coach-reportedly-210758379.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-01T21:07:58+0000",
+      "summary": "It appears Michigan State football is back in the market for a new quarterbacks coach"
+    },
+    {
+      "id": "b37a4b0796eb5b57",
+      "title": "Report: Saints, Browns to play first NFL game in France in 2026",
+      "link": "https://sports.yahoo.com/articles/report-saints-browns-play-first-205550296.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-01T20:55:50+0000",
+      "summary": "A major French sports broadcaster reports that the New Orleans Saints and Cleveland Browns will compete in the NFL's first game in France in 2026."
+    },
     {
       "id": "e94dfc979e424239",
       "title": "ESPN closes deal for NFL Network, RedZone rights",
@@ -9,24 +36,6 @@
       "feed": "ESPN",
       "published": "2026-02-01T20:35:42+0000",
       "summary": "ESPN's purchase of NFL Network and other league digital assets has been finalized after government regulators approved the transaction."
-    },
-    {
-      "id": "7292bdb2d5e1e053",
-      "title": "Cardinals hire Rams offensive coordinator Mike LaFleur as head coach",
-      "link": "https://sports.yahoo.com/articles/cardinals-hire-rams-offensive-coordinator-203129059.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-01T20:31:29+0000",
-      "summary": "The Arizona Cardinals hire Rams offensive coordinator Mike LaFleur as their next coach, creating a second duo of brothers who are NFL head coaches."
-    },
-    {
-      "id": "1c0db09a7327b660",
-      "title": "Vance Joseph stays: NFL's 10 head coach openings are filled",
-      "link": "https://sports.yahoo.com/articles/vance-joseph-stays-nfls-10-202734321.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-01T20:27:34+0000",
-      "summary": "The NFL's 10 head coach openings have been filled, so it looks like DC Vance Joseph will remain with the Broncos."
     },
     {
       "id": "7d141e98b7c9f4e3",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-06T15:48:35+0000",
       "summary": "The Colts made the roster move on Tuesday"
-    },
-    {
-      "id": "12ac4a37846612a7",
-      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
-      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T15:23:10+0000",
-      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
     }
   ],
   "links": [
