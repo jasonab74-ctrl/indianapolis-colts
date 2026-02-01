@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-01T21:21:50+00:00",
+  "updated": "2026-02-01T21:46:06+00:00",
   "items": [
+    {
+      "id": "aa096a4657310f15",
+      "title": "ESPN Closes NFL Network Acquisition",
+      "link": "https://sports.yahoo.com/articles/espn-closes-nfl-network-acquisition-213004892.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-01T21:30:04+0000",
+      "summary": "In exchange, the league is being given a 10% stake in the sports network"
+    },
     {
       "id": "ba9a3ca0925731a5",
       "title": "Ranking 10 new NFL head coaching hires",
@@ -11,22 +20,13 @@
       "summary": "What NFL teams got it right with their head coaching hires? Ten decisions were made, who will thrive?"
     },
     {
-      "id": "221c92b7f65754e3",
-      "title": "MSU football assistant coach reportedly leaving for NFL job",
-      "link": "https://sports.yahoo.com/articles/msu-football-assistant-coach-reportedly-210758379.html",
+      "id": "a779aabed2396752",
+      "title": "San Francisco 49ers Hire Former NFL Head Coach as Defensive Coordinator",
+      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-hire-former-211324326.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-01T21:07:58+0000",
-      "summary": "It appears Michigan State football is back in the market for a new quarterbacks coach"
-    },
-    {
-      "id": "b37a4b0796eb5b57",
-      "title": "Report: Saints, Browns to play first NFL game in France in 2026",
-      "link": "https://sports.yahoo.com/articles/report-saints-browns-play-first-205550296.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-01T20:55:50+0000",
-      "summary": "A major French sports broadcaster reports that the New Orleans Saints and Cleveland Browns will compete in the NFL's first game in France in 2026."
+      "published": "2026-02-01T21:13:24+0000",
+      "summary": "When the San Francisco 49ers re-hired former New York Jets head coach Robert Saleh as their defensive coordinator during the [&#8230;]"
     },
     {
       "id": "e94dfc979e424239",
