@@ -1,6 +1,51 @@
 {
-  "updated": "2026-02-03T18:12:07+00:00",
+  "updated": "2026-02-03T19:25:42+00:00",
   "items": [
+    {
+      "id": "86c82c252d9b23cc",
+      "title": "NFL: No planned ICE presence at Super Bowl LX",
+      "link": "https://espn.com/nfl/story/_/id/47818353/nfl-says-ice-not-federal-agencies-super-bowl-lx",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-03T19:20:25+0000",
+      "summary": "The NFL's chief security officer said the federal security presence at Super Bowl LX will be consistent with past games and ICE will not be among the agencies there."
+    },
+    {
+      "id": "dee74a3c8e132272",
+      "title": "NFL to reevaluate Rooney Rule: 'More work to do'",
+      "link": "https://espn.com/nfl/story/_/id/47811166/roger-goodell-says-nfl-reevaluate-diversity-approach-policies-1-minority-coach-hired-offseason-cycle",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-03T19:20:25+0000",
+      "summary": "NFL commissioner Roger Goodell said Monday that the league will take a closer a look at the Rooney Rule and all that it encompasses after an offseason hiring cycle that saw only one of 10 head-coaching jobs go to a minority candidate."
+    },
+    {
+      "id": "e923ebb271261cc8",
+      "title": "Building the best Olympic flag football team: Drake Maye, Aidan Hutchinson highlight top NFL players for USA",
+      "link": "https://sports.yahoo.com/articles/building-best-olympic-flag-football-191224977.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-03T19:12:24+0000",
+      "summary": "The Sporting News imagines the optimal flag football team that the United States could field for the 2028 Olympics."
+    },
+    {
+      "id": "ecf9ae4658cfeb1e",
+      "title": "Vikings hire former Dolphins offensive coordinator Frank Smith as assistant head coach",
+      "link": "https://sports.yahoo.com/articles/vikings-hire-former-dolphins-offensive-190712010.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-03T19:07:12+0000",
+      "summary": "The Minnesota Vikings have hired former Miami Dolphins offensive coordinator Frank Smith as their assistant head coach, one of four changes to head coach Kevin O'Connell's staff that were finalized on Tuesday.  Smith replaces Mike Pettine, who announced his retirement after the regular season ended.  Smith will begin his 17th year in the NFL, having spent the past four seasons with the Dolphins until the firing of head coach Mike McDaniel last month."
+    },
+    {
+      "id": "ac4b1cec99153d32",
+      "title": "A do-over of the 2025 NFL draft: Let's redraft the first 64 picks, with changes starting at No. 2",
+      "link": "https://espn.com/nfl/story/_/id/47736817/2025-nfl-draft-redraft-64-new-picks-first-second-round-ward-shough-dart",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-03T19:03:43+0000",
+      "summary": "Abdul Carter to the Jets? Tyler Shough to the Browns? Emeka Egbuka to the 49ers? We repicked the first two rounds of last year's NFL draft."
+    },
     {
       "id": "033d27bdb7cbef2f",
       "title": "Colts’ Quenton Nelson keeps piling up Pro Bowls and All-Pros; ‘Great, dominant player’",
@@ -11,33 +56,6 @@
       "summary": "INDIANAPOLIS – There is reason for optimism with a touch of caution with the Indianapolis Colts’ offensive line. And then there’s Quenton Nelson. The optimism is rooted in the continued development of Bernhard Raimann as the long-term answer at left tackle and Tanor Bortolini being up to the task of succeeding Ryan Kelly at center. [...]"
     },
     {
-      "id": "e57eddb862f6919b",
-      "title": "2025 NFL redraft : Would the 49ers pick Mykel Williams again?",
-      "link": "https://sports.yahoo.com/articles/2025-nfl-redraft-49ers-pick-180100768.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T18:01:00+0000",
-      "summary": "Hindsight in 20/20, and we’re asking whether the 49ers made the correct choice."
-    },
-    {
-      "id": "6d24fc8e98fbcac4",
-      "title": "NFL free agency 2026 player rankings: Best tight end available",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-2026-player-180000401.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T18:00:00+0000",
-      "summary": "Here are the top tight ends who will become free agents when the new league year begins."
-    },
-    {
-      "id": "9a1539831b771f1a",
-      "title": "Former LSU QB Garrett Nussmeier recognized for Senior Bowl performance",
-      "link": "https://sports.yahoo.com/articles/former-lsu-qb-garrett-nussmeier-175839580.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T17:58:39+0000",
-      "summary": "Former LSU quarterback Garrett Nussmeier was recognized as an NFL Draft “winner” for his standout performance at the Senior Bowl."
-    },
-    {
       "id": "a35a396919d07c07",
       "title": "Need for Speed: NFL.com says Colts’ stalling edge rush needs offseason upgrade",
       "link": "https://stampedeblue.com/indianapolis-colts-news/121237/need-for-speed-nfl-com-says-colts-stalling-edge-rush-needs-offseason-upgrade",
@@ -45,15 +63,6 @@
       "feed": "Stampede Blue",
       "published": "2026-02-03T17:41:15+0000",
       "summary": "According to NFL.com, the one roster move that the Indianapolis Colts should make this offseason is injecting much needed speed to their outside pass rush, which has routinely lacked juice opposite rising third-year defensive end Laiatu Latu: Indianapolis Colts Entering this early offseason, the Colts pass rushing deficiencies have already been well documented. Specifically: As [&#8230;]"
-    },
-    {
-      "id": "dee74a3c8e132272",
-      "title": "NFL to reevaluate Rooney Rule: 'More work to do'",
-      "link": "https://espn.com/nfl/story/_/id/47811166/roger-goodell-says-nfl-reevaluate-diversity-approach-policies-1-minority-coach-hired-offseason-cycle",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-03T17:30:12+0000",
-      "summary": "NFL commissioner Roger Goodell said Monday that the league will take a closer a look at the Rooney Rule and all that it encompasses after an offseason hiring cycle that saw only one of 10 head-coaching jobs go to a minority candidate."
     },
     {
       "id": "7ea3073b8a550df9",
@@ -72,15 +81,6 @@
       "feed": "ESPN",
       "published": "2026-02-03T16:50:09+0000",
       "summary": "From pregame style to fashion week, NFL fashion editor Kyle Smith helps players level up their style."
-    },
-    {
-      "id": "ac4b1cec99153d32",
-      "title": "A do-over of the 2025 NFL draft: Let's redraft the first 64 picks, with changes starting at No. 2",
-      "link": "https://espn.com/nfl/story/_/id/47736817/2025-nfl-draft-redraft-64-new-picks-first-second-round-ward-shough-dart",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-03T15:03:43+0000",
-      "summary": "Abdul Carter to the Jets? Tyler Shough to the Browns? Emeka Egbuka to the 49ers? We repicked the first two rounds of last year's NFL draft."
     },
     {
       "id": "c0ec03ae450eb272",
