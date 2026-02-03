@@ -1,6 +1,51 @@
 {
-  "updated": "2026-02-03T15:09:46+00:00",
+  "updated": "2026-02-03T16:11:16+00:00",
   "items": [
+    {
+      "id": "35b95f60b8f12e03",
+      "title": "NFL Commissioner Roger Goodell gives update on 18-game season plans ahead of Super Bowl LX",
+      "link": "https://sports.yahoo.com/articles/nfl-commissioner-roger-goodell-gives-160000617.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-03T16:00:00+0000",
+      "summary": "NFL commissioner Roger Goodell has given a measured update on the league’s ongoing discussions about expanding the regular season to 18 games ahead of Super Bowl LX. While the topic has gained traction among some team owners, Goodell made it clear that no decision has been made and that several major issues would need to be resolved before any change could take place."
+    },
+    {
+      "id": "8fbd5d6add7c1bf7",
+      "title": "ESPN ranks Seahawks’ Mike Macdonald as NFL’s third-best head coaching hire in last 5 years",
+      "link": "https://sports.yahoo.com/articles/espn-ranks-seahawks-mike-macdonald-160000824.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-03T16:00:00+0000",
+      "summary": "Macdonald has taken the Seahawks to the Super Bowl in only his second season as head coach."
+    },
+    {
+      "id": "71bfd79fd3ca8c5c",
+      "title": "Indianapolis Colts go in new direction in Round 2 of 2025 NFL redraft",
+      "link": "https://sports.yahoo.com/articles/indianapolis-colts-direction-round-2-155158601.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-03T15:51:58+0000",
+      "summary": "In a redraft of the 2025 NFL draft, the Indianapolis Colts went in a new direction in the second round."
+    },
+    {
+      "id": "dee74a3c8e132272",
+      "title": "NFL to reevaluate Rooney Rule: 'More work to do'",
+      "link": "https://espn.com/nfl/story/_/id/47811166/roger-goodell-says-nfl-reevaluate-diversity-approach-policies-1-minority-coach-hired-offseason-cycle",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-03T15:31:47+0000",
+      "summary": "NFL commissioner Roger Goodell said Monday that the league will take a closer a look at the Rooney Rule and all that it encompasses after an offseason hiring cycle that saw only one of 10 head-coaching jobs go to a minority candidate."
+    },
+    {
+      "id": "30e01bc0f1abacf3",
+      "title": "NFL to look into Tisch's Epstein files connection",
+      "link": "https://espn.com/nfl/story/_/id/47809616/nfl-look-giants-co-owner-tisch-epstein-files-connection",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-03T15:31:47+0000",
+      "summary": "The NFL said Monday that it is aware emails released by the Justice Department on Friday show that convicted sex offender Jeffrey Epstein connected Giants co-owner Steve Tisch with numerous women and that it will look into the matter."
+    },
     {
       "id": "ac4b1cec99153d32",
       "title": "A do-over of the 2025 NFL draft: Let's redraft the first 64 picks, with changes starting at No. 2",
@@ -11,42 +56,6 @@
       "summary": "Abdul Carter to the Jets? Tyler Shough to the Browns? Emeka Egbuka to the 49ers? We repicked the first two rounds of last year's NFL draft."
     },
     {
-      "id": "25f3e12b8ec75458",
-      "title": "Important dates for Jacksonville Jaguars during 2026 NFL offseason",
-      "link": "https://sports.yahoo.com/articles/important-dates-jacksonville-jaguars-during-145752227.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T14:57:52+0000",
-      "summary": "Here are the key dates to know about over the next few months of the 2026 NFL offseason for the Jacksonville Jaguars."
-    },
-    {
-      "id": "034348efba088338",
-      "title": "Key 2026 offseason dates for Indianapolis Colts to know",
-      "link": "https://sports.yahoo.com/articles/key-2026-offseason-dates-indianapolis-145238728.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T14:52:38+0000",
-      "summary": "Here are the key dates to know for the Indianapolis Colts over the next few months of the NFL offseason."
-    },
-    {
-      "id": "a53cadfb0c1f405e",
-      "title": "Chargers Daily Links: Tuesday Open Thread",
-      "link": "https://sports.yahoo.com/articles/chargers-daily-links-tuesday-open-145000484.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T14:50:00+0000",
-      "summary": "Your source for all Chargers and NFL news from around the web."
-    },
-    {
-      "id": "fab4f6848eb717ae",
-      "title": "New Audio: Christian Parker v Will McClay? Cowboys cap, NFL hire cycle",
-      "link": "https://sports.yahoo.com/articles/audio-christian-parker-v-mcclay-144832361.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-03T14:48:32+0000",
-      "summary": "In an appearance on 105.3 The Fan, managing editor KD Drummond spoke on the salary cap number, how Dallas will move around it, among many topics."
-    },
-    {
       "id": "25caa7d125fca922",
       "title": "The art of the pregame outfit and the stylist behind the NFL's crossover with fashion",
       "link": "https://espn.com/nfl/story/_/id/47781734/nfl-fashion-editor-kyle-smith-stylist-joe-burrow-pregame-outfits",
@@ -54,42 +63,6 @@
       "feed": "ESPN",
       "published": "2026-02-03T13:59:22+0000",
       "summary": "From pregame style to fashion week, NFL fashion editor Kyle Smith helps players level up their style."
-    },
-    {
-      "id": "dee74a3c8e132272",
-      "title": "NFL to reevaluate Rooney Rule: 'More work to do'",
-      "link": "https://espn.com/nfl/story/_/id/47811166/roger-goodell-says-nfl-reevaluate-diversity-approach-policies-1-minority-coach-hired-offseason-cycle",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-03T13:02:05+0000",
-      "summary": "NFL commissioner Roger Goodell said Monday that the league will take a closer a look at the Rooney Rule and all that it encompasses after an offseason hiring cycle that saw only one of 10 head-coaching jobs go to a minority candidate."
-    },
-    {
-      "id": "bf9d9175ea7fbb80",
-      "title": "Goodell: Belichick will eventually be Hall of Famer",
-      "link": "https://espn.com/nfl/story/_/id/47810777/belichick-hall-famer-nfl-no-role",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-03T13:02:05+0000",
-      "summary": "NFL commissioner Roger Goodell said Monday the league has nothing to do with the vote for the Pro Football Hall of Fame and that he believes Bill Belichick will eventually be inducted."
-    },
-    {
-      "id": "30e01bc0f1abacf3",
-      "title": "NFL to look into Tisch's Epstein files connection",
-      "link": "https://espn.com/nfl/story/_/id/47809616/nfl-look-giants-co-owner-tisch-epstein-files-connection",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-03T13:02:05+0000",
-      "summary": "The NFL said Monday that it is aware emails released by the Justice Department on Friday show that convicted sex offender Jeffrey Epstein connected Giants co-owner Steve Tisch with numerous women and that it will look into the matter."
-    },
-    {
-      "id": "a19952d361fad82f",
-      "title": "NFL to return to Mexico City with game in 2026",
-      "link": "https://espn.com/nfl/story/_/id/47810483/nfl-return-mexico-city-game-2026-goodell-says",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-03T13:02:05+0000",
-      "summary": "The NFL will play a regular-season game in Mexico City in 2026, commissioner Roger Goodell announced Monday."
     },
     {
       "id": "c0ec03ae450eb272",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:45:48+0000",
       "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
+    },
+    {
+      "id": "9373ff9a6fd62b51",
+      "title": "Colts’ DeForest Buckner: ’Next season, I will be complete’",
+      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-next-season-i-will-be-complete/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-08T15:42:13+0000",
+      "summary": "INDIANAPOLIS – DeForest Buckner offered an indication he’ll return for 2026 despite a season-ending neck injury that had him considering retirement. On an Instagram post on Wednesday, the Indianapolis Colts’ defensive mainstay concluded by writing: “Next season, I will be complete.’’ That certainly can be seen as Buckner’s decision to return for ’26. That would [...]"
+    },
+    {
+      "id": "6f9186247ed93cd9",
+      "title": "Laiatu Latu ‘arrow up,’ but Colts’ draft investments in edge rushers have fallen short",
+      "link": "https://fox59.com/sports/colts/laiatu-latu-arrow-up-but-colts-draft-investments-in-edge-rushers-have-fallen-short/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-07T20:07:24+0000",
+      "summary": "INDIANAPOLIS – A defensive overhaul might be in the Indianapolis Colts’ future. That future might not include cornerback Charvarius Ward, who’s going to discuss retirement with his family after suffering three concussions last season, or cornerstone tackle DeForest Buckner, who will at least mull over that possibility after undergoing surgery last week to repair a [...]"
+    },
+    {
+      "id": "8f67fb1199ecf0c0",
+      "title": "TUNE IN: General manager Chris Ballard press conference Thursday, January 8 at 11:00 a.m.",
+      "link": "https://colts.com/news/tune-in-general-manager-chris-ballard-press-conference-2025-season-recap",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T20:54:32+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     }
   ],
   "links": [
