@@ -1,14 +1,68 @@
 {
-  "updated": "2026-02-04T14:04:18+00:00",
+  "updated": "2026-02-04T15:07:29+00:00",
   "items": [
     {
-      "id": "76492a20bdfadf4d",
-      "title": "🏈 Miller's two-round 2026 mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47756543/2026-nfl-mock-draft-two-rounds-64-picks-matt-miller-senior-bowl",
+      "id": "da09ca1ea69cd097",
+      "title": "Titans mock draft roundup: Who 14 experts think Robert Saleh will pick",
+      "link": "https://sports.yahoo.com/articles/titans-mock-draft-roundup-14-145217764.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T14:52:17+0000",
+      "summary": "The Tennessee Titans hold the No. 4 pick in the 2026 NFL Draft. See which top prospects, including edge rushers and wide receivers, are emerging as potential targets for the team."
+    },
+    {
+      "id": "3e50c23c707b4163",
+      "title": "Fantasy Football Video: Is Washington WR Denzel Boston a 'Diet Coke' version of Mike Evans?",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-video-is-washington-wr-denzel-boston-a-diet-coke-version-of-mike-evans-145018416.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T14:50:18+0000",
+      "summary": "Matt Harmon and Nate Tice talk NFL Draft prospects, looking at Washington WR Denzel Boston and comparing him to a top wideout."
+    },
+    {
+      "id": "bb9ec815360c7db6",
+      "title": "Chargers Daily Links: Wednesday Open Thread",
+      "link": "https://sports.yahoo.com/articles/chargers-daily-links-wednesday-open-145000372.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T14:50:00+0000",
+      "summary": "Your source for all Chargers and NFL news from around the web."
+    },
+    {
+      "id": "4add6662079648a5",
+      "title": "Jets hire veteran coach Frank Reich as offensive coordinator",
+      "link": "https://sports.yahoo.com/articles/jets-hire-veteran-coach-frank-144741969.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T14:47:41+0000",
+      "summary": "The New York Jets hired former NFL and Stanford head coach Frank Reich as their offensive coordinator on Wednesday.  Reich replaces Tanner Engstrand, who agreed to part ways with the team last week after one season running the Jets' offense.  The 64-year-old Reich gives head coach Aaron Glenn an experienced play caller and veteran presence on the offensive side of the ball."
+    },
+    {
+      "id": "218600513daf04ff",
+      "title": "Could the Jets address quarterback position before 2026 NFL draft?",
+      "link": "https://sports.yahoo.com/articles/could-jets-address-quarterback-position-144525101.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T14:45:25+0000",
+      "summary": "A New York Jets beat writer is predicting the team to make a major offseason splash at quarterback."
+    },
+    {
+      "id": "36c2da012c2c2b59",
+      "title": "49ers projected to add 3 comp picks thanks to mass free agent exodus",
+      "link": "https://sports.yahoo.com/articles/49ers-projected-add-3-comp-144519573.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T14:45:19+0000",
+      "summary": "The San Francisco 49ers will add three more picks in the 2026 NFL draft because of some big-name free agency exits last offseason."
+    },
+    {
+      "id": "bb1a2ca9df749ad7",
+      "title": "Jets name Reich as OC in critical hire for Glenn",
+      "link": "https://espn.com/nfl/story/_/id/47825789/jets-hire-frank-reich-offensive-coordinator",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T13:54:49+0000",
-      "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
+      "published": "2026-02-04T14:30:03+0000",
+      "summary": "The Jets have hired former NFL head coach Frank Reich as their offensive coordinator and playcaller."
     },
     {
       "id": "6afa79ad341a3ebd",
@@ -16,7 +70,7 @@
       "link": "https://espn.com/nfl/story/_/id/47819473/nflpa-interim-boss-players-no-appetite-18th-game",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T13:54:48+0000",
+      "published": "2026-02-04T14:30:03+0000",
       "summary": "NFL Players Association leadership made it clear Tuesday that the players aren't in support of an expanded regular-season schedule."
     },
     {
@@ -25,8 +79,17 @@
       "link": "https://espn.com/nfl/story/_/id/47818353/nfl-says-ice-not-federal-agencies-super-bowl-lx",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T13:54:48+0000",
+      "published": "2026-02-04T14:30:03+0000",
       "summary": "The NFL's chief security officer said the federal security presence at Super Bowl LX will be consistent with past games and ICE will not be among the agencies there."
+    },
+    {
+      "id": "76492a20bdfadf4d",
+      "title": "🏈 Miller's two-round 2026 mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47756543/2026-nfl-mock-draft-two-rounds-64-picks-matt-miller-senior-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-04T14:30:03+0000",
+      "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
     },
     {
       "id": "73385e7a822d534c",
@@ -36,51 +99,6 @@
       "feed": "ESPN",
       "published": "2026-02-04T13:52:42+0000",
       "summary": "Find out what Sam Darnold, Drake Maye, Cooper Kupp, TreVeyon Henderson and others were like before the NFL."
-    },
-    {
-      "id": "a3268f730f2288c9",
-      "title": "Detroit Lions cut candidates to free up NFL salary cap space",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-cut-candidates-free-134547267.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T13:45:47+0000",
-      "summary": "The Detroit Lions will be looking to create some financial wiggle room this offseason. Here's some cut candidates that would create cap space."
-    },
-    {
-      "id": "0cd8940b609eb90c",
-      "title": "Jets address QB of the future in ESPN's latest 2-round 2026 mock draft",
-      "link": "https://sports.yahoo.com/articles/jets-address-qb-future-espns-134534182.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T13:45:34+0000",
-      "summary": "The New York Jets select their QB of the future in ESPN's latest two-round 2026 NFL mock draft."
-    },
-    {
-      "id": "b7ec85f0c436bb97",
-      "title": "A win on Sunday would give Mike Vrabel a first-year turnaround like no NFL coach, ever",
-      "link": "https://sports.yahoo.com/articles/win-sunday-mike-vrabel-first-133953841.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T13:39:53+0000",
-      "summary": "No NFL head coach has ever taken over a team with a losing record and won the Super Bowl in his first year. Vrabel can be the first."
-    },
-    {
-      "id": "bb8dad8e1f1ae783",
-      "title": "NFL: Protector of the Year finalists",
-      "link": "https://sports.yahoo.com/articles/nfl-protector-finalists-133600960.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T13:36:00+0000",
-      "summary": "The NFL: Protector of the Year finalists shine a light on the players who do the league’s toughest, least glamorous work in the trenches. These offensive linemen are the reason quarterbacks stay upright and running backs find daylight on Sundays.…"
-    },
-    {
-      "id": "0e7cc95600396802",
-      "title": "Former Georgia RB could be cap casualty for NFL team",
-      "link": "https://sports.yahoo.com/articles/former-georgia-rb-could-cap-133219421.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T13:32:19+0000",
-      "summary": "Former Georgia Bulldogs running back D'Andre Swift could have to find a new NFL home this offseason despite rushing for over 1,000 yards in 2025"
     },
     {
       "id": "ac4b1cec99153d32",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-08T17:52:39+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts expect to roll with Daniel Jones at quarterback going forward. That was one of the main takeaways of general manager Chris Ballard’s season-ending news conference. Ballard addressed reporters for about 45 minutes on Thursday, covering everything from Jones’ future to the team’s late-season fade and the impact of bringing Philip [...]"
-    },
-    {
-      "id": "a9c1a44d1c017233",
-      "title": "Colts sign CB Robert Carter Jr. to reserve/future contract",
-      "link": "https://colts.com/news/colts-sign-cb-robert-carter-jr-to-reserve-future-contract",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T17:52:26+0000",
-      "summary": "The Colts made the roster move on Thursday."
-    },
-    {
-      "id": "ca4261341d0b1b48",
-      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
-      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T17:45:48+0000",
-      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
     }
   ],
   "links": [
