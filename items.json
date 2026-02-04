@@ -1,40 +1,13 @@
 {
-  "updated": "2026-02-04T21:32:16+00:00",
+  "updated": "2026-02-04T22:27:19+00:00",
   "items": [
-    {
-      "id": "c7814602c72b9fd5",
-      "title": "Derrick Henry calls NFL star WR to join him, Lamar Jackson on Ravens",
-      "link": "https://sports.yahoo.com/articles/derrick-henry-calls-nfl-star-212043502.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T21:20:43+0000",
-      "summary": "The Baltimore Ravens missed the 2025 NFL playoffs after a dramatic Week 18 loss to the Pittsburgh Steelers. Rookie place kicker Tyler Loop missed a game-winning field goal in the final seconds of regulation to end John Harbaugh’s tenure with…"
-    },
-    {
-      "id": "a153182bf338e627",
-      "title": "Fire sparked by faulty Tesla charger caused $4m in damage to ex-NFL star’s Nashville home, investigators confirm",
-      "link": "https://sports.yahoo.com/articles/fire-sparked-faulty-tesla-charger-211731351.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T21:17:31+0000",
-      "summary": "Exclusive: A new tranche of court records provide fresh detail on a devastating fire at former wide receiver Randall Cobb’s mansion"
-    },
-    {
-      "id": "339393a0c2927f0f",
-      "title": "Bears assistant emerging as candidate for offensive coordinator",
-      "link": "https://sports.yahoo.com/articles/bears-assistant-emerging-candidate-offensive-211102316.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T21:11:02+0000",
-      "summary": "NFL insider Ian Rapoport indicates Bears passing game coordinator Press Taylor could be an in-house candidate for offensive coordinator."
-    },
     {
       "id": "bb1a2ca9df749ad7",
       "title": "Jets name Reich as OC in critical hire for Glenn",
       "link": "https://espn.com/nfl/story/_/id/47825789/jets-hire-frank-reich-offensive-coordinator",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T20:29:55+0000",
+      "published": "2026-02-04T22:18:18+0000",
       "summary": "The Jets have hired former NFL head coach Frank Reich as their offensive coordinator and playcaller."
     },
     {
@@ -43,17 +16,8 @@
       "link": "https://espn.com/nfl/story/_/id/47827138/giants-hiring-nfl-executive-dawn-aponte-senior-vp",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T20:29:55+0000",
+      "published": "2026-02-04T22:18:18+0000",
       "summary": "The Giants are hiring NFL executive Dawn Aponte as senior vice president in football operations, sources told ESPN's Jordan Raanan and Adam Schefter."
-    },
-    {
-      "id": "6afa79ad341a3ebd",
-      "title": "NFLPA: Players 'have no appetite' for 18th game",
-      "link": "https://espn.com/nfl/story/_/id/47819473/nflpa-interim-boss-players-no-appetite-18th-game",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-04T20:29:55+0000",
-      "summary": "NFL Players Association leadership made it clear Tuesday that the players aren't in support of an expanded regular-season schedule."
     },
     {
       "id": "76492a20bdfadf4d",
@@ -61,17 +25,35 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47756543/2026-nfl-mock-draft-two-rounds-64-picks-matt-miller-senior-bowl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T20:29:55+0000",
+      "published": "2026-02-04T22:18:18+0000",
       "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
     },
     {
-      "id": "3e334271ea486a00",
-      "title": "Former Colts head coach reunites with Indy’s old AFC East foe",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/121257/former-colts-head-coach-reunites-with-indys-old-afc-east-foe",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-04T17:50:38+0000",
-      "summary": "According to ESPN’s Adam Schefter, former Indianapolis Colts head coach Frank Reich will be joining the New York Jets as their new offensive coordinator under 2nd-year head coach Aaron Glenn: It’s interesting because Reich and Glenn were former Jets teammates 30 years to the day back in 1996. The 64-year-old Reich served as Stanford football’s [&#8230;]"
+      "id": "a882dddba206fe6a",
+      "title": "The NFL only has itself to blame for Pro Bowl’s recent decline",
+      "link": "https://sports.yahoo.com/articles/nfl-only-itself-blame-pro-221817386.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T22:18:17+0000",
+      "summary": "Participating in the Pro Bowl has gone from a coveted honor to an afterthought for backup quarterbacks. And the NFL only has itself to blame."
+    },
+    {
+      "id": "03150c722f1dc59e",
+      "title": "We now know the massive haul Raiders can get in a Maxx Crosby trade",
+      "link": "https://sports.yahoo.com/articles/now-know-massive-haul-raiders-221531860.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T22:15:31+0000",
+      "summary": "FOX Sports' NFL insider, Jay Glazer, believes Maxx Crosby is done with the Las Vegas Raiders and revealed what the team could get for him in a trade. No surprise, it's a massive haul."
+    },
+    {
+      "id": "83a77b49c8197590",
+      "title": "NFL Insider Adds Fuel to Joe Burrow Trade Rumors",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-adds-fuel-joe-220659383.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T22:06:59+0000",
+      "summary": "In the NFL, teams are always trying to find their franchise quarterback. As we&#8217;ve seen, the addition of an impact [&#8230;]"
     },
     {
       "id": "73385e7a822d534c",
@@ -79,7 +61,7 @@
       "link": "https://espn.com/nfl/story/_/id/47809447/2026-super-bowl-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-04T16:16:14+0000",
+      "published": "2026-02-04T21:37:36+0000",
       "summary": "Find out what Sam Darnold, Drake Maye, Cooper Kupp, TreVeyon Henderson and others were like before the NFL."
     },
     {
@@ -207,6 +189,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-30T16:33:54+0000",
       "summary": "The Pro Bowl isn't just for NFL players--cheerleaders make the cut, too. Indianapolis Colts cheerleader Cierra is among the NFL's best. She's a five-year member of the team and two-time captain. She'll join cheerleaders from around the NFL at the upcoming Pro Bowl Games. She joined FOX59 Morning News to talk about the honor."
+    },
+    {
+      "id": "825aa8574b8ec14a",
+      "title": "Colts 2025 Rookie Report: Hunter Wohler",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121083/colts-2025-rookie-report-hunter-wohler",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-01-30T13:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts used their final pick of the 2025 NFL Draft on safety Hunter Wohler, a versatile defensive back out of Wisconsin. Despite waiting until the final round to bring him on board, using their last draft selection on Wohler shows legitimate interest rather than blindly throwing their final dart, given [&#8230;]"
     },
     {
       "id": "5c78bb1258daddd5",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-01-07T20:07:24+0000",
       "summary": "INDIANAPOLIS – A defensive overhaul might be in the Indianapolis Colts’ future. That future might not include cornerback Charvarius Ward, who’s going to discuss retirement with his family after suffering three concussions last season, or cornerstone tackle DeForest Buckner, who will at least mull over that possibility after undergoing surgery last week to repair a [...]"
+    },
+    {
+      "id": "8f67fb1199ecf0c0",
+      "title": "TUNE IN: General manager Chris Ballard press conference Thursday, January 8 at 11:00 a.m.",
+      "link": "https://colts.com/news/tune-in-general-manager-chris-ballard-press-conference-2025-season-recap",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T20:54:32+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     }
   ],
   "links": [
