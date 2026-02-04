@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-04T22:27:19+00:00",
+  "updated": "2026-02-04T22:53:34+00:00",
   "items": [
+    {
+      "id": "7164c2865e055991",
+      "title": "Is Patriots QB Drake Maye ready for the NFL's biggest stage?",
+      "link": "https://sports.yahoo.com/articles/patriots-qb-drake-maye-ready-223231056.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T22:32:31+0000",
+      "summary": "He would become the fifth second-year quarterback to win the Super Bowl, joining Tom Brady, Ben Roethlisberg, Kurt Warner and Russell Wilson."
+    },
+    {
+      "id": "9833ccb9571fb6ee",
+      "title": "NFL Insider believes Maxx Crosby will be traded before draft",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-believes-maxx-crosby-223021674.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-04T22:30:21+0000",
+      "summary": "Raiders’ star pass-rusher reportedly expected to seek trade"
+    },
     {
       "id": "bb1a2ca9df749ad7",
       "title": "Jets name Reich as OC in critical hire for Glenn",
@@ -29,33 +47,6 @@
       "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
     },
     {
-      "id": "a882dddba206fe6a",
-      "title": "The NFL only has itself to blame for Pro Bowl’s recent decline",
-      "link": "https://sports.yahoo.com/articles/nfl-only-itself-blame-pro-221817386.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T22:18:17+0000",
-      "summary": "Participating in the Pro Bowl has gone from a coveted honor to an afterthought for backup quarterbacks. And the NFL only has itself to blame."
-    },
-    {
-      "id": "03150c722f1dc59e",
-      "title": "We now know the massive haul Raiders can get in a Maxx Crosby trade",
-      "link": "https://sports.yahoo.com/articles/now-know-massive-haul-raiders-221531860.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T22:15:31+0000",
-      "summary": "FOX Sports' NFL insider, Jay Glazer, believes Maxx Crosby is done with the Las Vegas Raiders and revealed what the team could get for him in a trade. No surprise, it's a massive haul."
-    },
-    {
-      "id": "83a77b49c8197590",
-      "title": "NFL Insider Adds Fuel to Joe Burrow Trade Rumors",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-adds-fuel-joe-220659383.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-04T22:06:59+0000",
-      "summary": "In the NFL, teams are always trying to find their franchise quarterback. As we&#8217;ve seen, the addition of an impact [&#8230;]"
-    },
-    {
       "id": "73385e7a822d534c",
       "title": "High school stories of 11 Super Bowl stars -- and two coaches",
       "link": "https://espn.com/nfl/story/_/id/47809447/2026-super-bowl-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
@@ -63,6 +54,15 @@
       "feed": "ESPN",
       "published": "2026-02-04T21:37:36+0000",
       "summary": "Find out what Sam Darnold, Drake Maye, Cooper Kupp, TreVeyon Henderson and others were like before the NFL."
+    },
+    {
+      "id": "3e334271ea486a00",
+      "title": "Former Colts head coach reunites with Indy’s old AFC East foe",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/121257/former-colts-head-coach-reunites-with-indys-old-afc-east-foe",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-04T17:50:38+0000",
+      "summary": "According to ESPN’s Adam Schefter, former Indianapolis Colts head coach Frank Reich will be joining the New York Jets as their new offensive coordinator under 2nd-year head coach Aaron Glenn: It’s interesting because Reich and Glenn were former Jets teammates 30 years to the day back in 1996. The 64-year-old Reich served as Stanford football’s [&#8230;]"
     },
     {
       "id": "34cc573780ff46a3",
@@ -189,15 +189,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-30T16:33:54+0000",
       "summary": "The Pro Bowl isn't just for NFL players--cheerleaders make the cut, too. Indianapolis Colts cheerleader Cierra is among the NFL's best. She's a five-year member of the team and two-time captain. She'll join cheerleaders from around the NFL at the upcoming Pro Bowl Games. She joined FOX59 Morning News to talk about the honor."
-    },
-    {
-      "id": "825aa8574b8ec14a",
-      "title": "Colts 2025 Rookie Report: Hunter Wohler",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121083/colts-2025-rookie-report-hunter-wohler",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-01-30T13:00:00+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts used their final pick of the 2025 NFL Draft on safety Hunter Wohler, a versatile defensive back out of Wisconsin. Despite waiting until the final round to bring him on board, using their last draft selection on Wohler shows legitimate interest rather than blindly throwing their final dart, given [&#8230;]"
     },
     {
       "id": "5c78bb1258daddd5",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-06T20:54:32+0000",
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "203508d9062a8936",
+      "title": "Carlie-Irsay Gordon uses social media to expand on decisions on Colts’ future",
+      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-uses-social-media-to-expand-on-decisions-on-colts-future/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-06T19:51:18+0000",
+      "summary": "INDIANAPOLIS – Carlie Irsay-Gordon decided her explanation for moving forward with general manager Chris Ballard and coach Shane Steichen required a second outreach. A day after her Monday press conference to lay out her vision for the Indianapolis Colts on the heels of an 8-9 record and fifth consecutive season without reaching the playoffs, Irsay-Gordon [...]"
     }
   ],
   "links": [
