@@ -1,14 +1,23 @@
 {
-  "updated": "2026-02-05T04:25:51+00:00",
+  "updated": "2026-02-05T05:37:14+00:00",
   "items": [
     {
-      "id": "a92aaf1f7fd8101f",
-      "title": "Nick Emmanwori injured in Seahawks Super Bowl practice. What’s next for him",
-      "link": "https://sports.yahoo.com/articles/nick-emmanwori-injured-seahawks-super-040237312.html",
+      "id": "674a5e452ee2033e",
+      "title": "Will Ken Anderson make Hall of Fame? What to know before NFL Honors",
+      "link": "https://sports.yahoo.com/articles/ken-anderson-hall-fame-know-050527545.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-05T04:02:37+0000",
-      "summary": "The finalist for NFL defensive rookie of the year got hurt defending a pass late in workout at San Jose State University then was comforted."
+      "published": "2026-02-05T05:05:27+0000",
+      "summary": "Two former Bengals and a former St. Xavier High School standout hope their names are called by the Pro Football Hall of Fame at NFL Honors."
+    },
+    {
+      "id": "6b7afb1512665aff",
+      "title": "Will Ken Anderson make Hall of Fame? What to know before NFL Honors",
+      "link": "https://sports.yahoo.com/articles/ken-anderson-hall-fame-know-050527283.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-05T05:05:27+0000",
+      "summary": "Two former Bengals and a former St. Xavier High School standout hope their names are called by the Pro Football Hall of Fame at NFL Honors."
     },
     {
       "id": "bb1a2ca9df749ad7",
@@ -27,15 +36,6 @@
       "feed": "ESPN",
       "published": "2026-02-05T03:55:36+0000",
       "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
-    },
-    {
-      "id": "52577349c4760b31",
-      "title": "2025 redraft: 49ers pick Offensive Rookie of the Year candidate",
-      "link": "https://sports.yahoo.com/articles/2025-redraft-49ers-pick-offensive-034548118.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T03:45:48+0000",
-      "summary": "The San Francisco 49ers took Mykel Williams in the first round of the 2025 NFL draft. In ESPN's new re-draft, they take a game-changing wide receiver."
     },
     {
       "id": "73385e7a822d534c",
@@ -524,15 +524,6 @@
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     },
     {
-      "id": "203508d9062a8936",
-      "title": "Carlie-Irsay Gordon uses social media to expand on decisions on Colts’ future",
-      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-uses-social-media-to-expand-on-decisions-on-colts-future/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-06T19:51:18+0000",
-      "summary": "INDIANAPOLIS – Carlie Irsay-Gordon decided her explanation for moving forward with general manager Chris Ballard and coach Shane Steichen required a second outreach. A day after her Monday press conference to lay out her vision for the Indianapolis Colts on the heels of an 8-9 record and fifth consecutive season without reaching the playoffs, Irsay-Gordon [...]"
-    },
-    {
       "id": "bcc1f4e528edd74f",
       "title": "Letter from Ownership",
       "link": "https://colts.com/news/letter-from-colts-ownership-2025-season-carlie-irsay-gordon-casey-foyt-kalen-jackson",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-06T18:30:12+0000",
       "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
+    },
+    {
+      "id": "76e5a457e22b3876",
+      "title": "Colts QB Riley Leonard nominated for NFL Rookie of the Week for Week 18",
+      "link": "https://colts.com/news/colts-qb-riley-leonard-nominated-for-nfl-rookie-of-the-week-for-week-18",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T17:21:46+0000",
+      "summary": "Leonard, in his first career start on Sunday, completed 21-of-34 passes for 270 yards and two touchdowns as well as three carries for 21 rushing yards and a touchdown."
     }
   ],
   "links": [
