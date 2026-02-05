@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-05T13:00:06+00:00",
+  "updated": "2026-02-05T14:08:55+00:00",
   "items": [
-    {
-      "id": "58d74d07d6568c8c",
-      "title": "2026 NFL Honors: See full list of Patriots players, coaches up for awards tonight",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-honors-see-full-125306693.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T12:53:06+0000",
-      "summary": "Six Patriots players and coaches are up for awards tonight."
-    },
     {
       "id": "ac4b1cec99153d32",
       "title": "A do-over of the 2025 NFL draft: Let's redraft the first 64 picks, with changes starting at No. 2",
@@ -18,33 +9,6 @@
       "feed": "ESPN",
       "published": "2026-02-05T12:47:05+0000",
       "summary": "Abdul Carter to the Jets? Tyler Shough to the Browns? Emeka Egbuka to the 49ers? We repicked the first two rounds of last year's NFL draft."
-    },
-    {
-      "id": "9ff3880678219e09",
-      "title": "Lions RB David Montgomery creates hope for return with NFL Network remarks",
-      "link": "https://sports.yahoo.com/articles/lions-rb-david-montgomery-creates-124533654.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T12:45:33+0000",
-      "summary": "David Montgomery's NFL Network appearance gave fans hope that he will be back in the Detroit Lions' backfield in 2026 alongside Jahmyr Gibbs."
-    },
-    {
-      "id": "700a99dc494b359e",
-      "title": "NFL teams with Super Bowl titles",
-      "link": "https://sports.yahoo.com/articles/nfl-teams-super-bowl-titles-123600839.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T12:36:00+0000",
-      "summary": "Super Bowl championships are the benchmark of NFL success, and only a portion of the league’s 32 franchises have actually hoisted the Lombardi Trophy. While some iconic teams like the Patriots, Steelers, and 49ers appear on this list, others—such as…"
-    },
-    {
-      "id": "a14bcfb3ef736d22",
-      "title": "How to watch the NFL Honors Awards: Time, channel, where to stream and more",
-      "link": "https://sports.yahoo.com/olympics/article/how-to-watch-the-nfl-honors-awards-time-channel-where-to-stream-and-more-123105359.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T12:31:05+0000",
-      "summary": "Here's how to watch the NFL Honors when the football award show airs on Thursday."
     },
     {
       "id": "bb1a2ca9df749ad7",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2026-01-06T20:54:32+0000",
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "bcc1f4e528edd74f",
+      "title": "Letter from Ownership",
+      "link": "https://colts.com/news/letter-from-colts-ownership-2025-season-carlie-irsay-gordon-casey-foyt-kalen-jackson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T18:30:12+0000",
+      "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
+    },
+    {
+      "id": "76e5a457e22b3876",
+      "title": "Colts QB Riley Leonard nominated for NFL Rookie of the Week for Week 18",
+      "link": "https://colts.com/news/colts-qb-riley-leonard-nominated-for-nfl-rookie-of-the-week-for-week-18",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T17:21:46+0000",
+      "summary": "Leonard, in his first career start on Sunday, completed 21-of-34 passes for 270 yards and two touchdowns as well as three carries for 21 rushing yards and a touchdown."
+    },
+    {
+      "id": "5e98a4a034a1fca9",
+      "title": "Colts sign LB Joseph Vaughn to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-lb-joseph-vaughn-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T15:48:35+0000",
+      "summary": "The Colts made the roster move on Tuesday"
+    },
+    {
+      "id": "12ac4a37846612a7",
+      "title": "After being released by Saints, Blake Grupe finds clarity and success with Colts",
+      "link": "https://colts.com/news/colts-kicker-blake-grupe-new-orleans-saints-spencer-shrader-notre-dame-brian-mason",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T15:23:10+0000",
+      "summary": "Grupe was 11-for-11 on field goals and 10-for-10 on PATs in the five games he played for the Colts this season."
     }
   ],
   "links": [
