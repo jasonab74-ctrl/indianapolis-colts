@@ -1,32 +1,14 @@
 {
-  "updated": "2026-02-05T23:22:55+00:00",
+  "updated": "2026-02-05T23:48:55+00:00",
   "items": [
     {
-      "id": "5c4f56a91f8ff5e3",
-      "title": "‘Blessed to be a blessing’ Alex Highsmith speaks on nomination for Walter Payton NFL Man of the Year",
-      "link": "https://sports.yahoo.com/articles/blessed-blessing-alex-highsmith-speaks-230426202.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T23:04:26+0000",
-      "summary": "Alex Highsmith recalls the November day he learned he is this year’s Steelers nominee for Walter Payton NFL Man of the Year."
-    },
-    {
-      "id": "a1b40de5ba413ddb",
-      "title": "Hurricanes running backs coach Matt Merritt reportedly leaving for NFL",
-      "link": "https://sports.yahoo.com/articles/hurricanes-running-backs-coach-matt-230100539.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T23:01:00+0000",
-      "summary": "Hurricanes running backs coach Matt Merritt is headed to the NFL, according to multiple reports. Merritt is taking the same position with the Arizona Cardinals after two seasons coaching at Miami. Merritt is the second UM assistant coach to leave the staff this offseason. Tight ends coach Cody Woodiel departed to take a position on Pete Golding’s staff at Ole Miss. Under Merritt, the ..."
-    },
-    {
-      "id": "164f1e288f91ad91",
-      "title": "Meet the three contenders for RB2 in the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/meet-three-contenders-rb2-2026-225953619.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-05T22:59:53+0000",
-      "summary": "Jeremiyah Love's teammate has made an intriguing case."
+      "id": "1f25ef81f7447378",
+      "title": "McMillan apologizes for racial slur at esports event",
+      "link": "https://espn.com/nfl/story/_/id/47842973/panthers-tetairoa-mcmillan-apologizes-using-racial-slur",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-05T23:35:37+0000",
+      "summary": "Panthers receiver Tetairoa McMillan, who is up for the NFL Offensive Rookie of the Year Award, apologized for using a racial slur during a live-stream esports event."
     },
     {
       "id": "093a65209f40bbb8",
@@ -34,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47840040/49ers-named-rams-opponent-nfl-1st-game-australia",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-05T20:52:23+0000",
+      "published": "2026-02-05T23:35:37+0000",
       "summary": "The 49ers will be the Rams' opponent for the first NFL regular-season game in Melbourne, Australia, during the 2026 season."
     },
     {
@@ -43,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47841244/jon-gruden-lawyers-seek-testimony-roger-goodell-owners",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-05T20:52:23+0000",
+      "published": "2026-02-05T23:35:37+0000",
       "summary": "Jon Gruden's attorneys will seek testimony from NFL commissioner Roger Goodell and at least four current and former NFL owners in his lawsuit over whether the league leaked the emails that forced his departure as Raiders coach."
     },
     {
@@ -52,17 +34,44 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47756543/2026-nfl-mock-draft-two-rounds-64-picks-matt-miller-senior-bowl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-05T20:52:23+0000",
+      "published": "2026-02-05T23:35:37+0000",
       "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
     },
     {
-      "id": "bb1a2ca9df749ad7",
-      "title": "Jets name Reich as OC in critical hire for Glenn",
-      "link": "https://espn.com/nfl/story/_/id/47825789/jets-hire-frank-reich-offensive-coordinator",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-05T20:52:22+0000",
-      "summary": "The Jets have hired former NFL head coach Frank Reich as their offensive coordinator and playcaller."
+      "id": "3167c794c41edae8",
+      "title": "Is Taylor Swift at NFL Honors banquet? Updates on if pop star is at Travis Kelce's side during NFL awards show",
+      "link": "https://sports.yahoo.com/articles/taylor-swift-nfl-honors-banquet-233016404.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-05T23:30:16+0000",
+      "summary": "Travis Kelce has an open seat next to him at the NFL Honors, fueling speculation that Swift will be there."
+    },
+    {
+      "id": "ec45ddb822686b91",
+      "title": "How Steichen gave Sauce Gardner his 'Welcome to the Colts' moment",
+      "link": "https://sports.yahoo.com/articles/steichen-gave-sauce-gardner-welcome-232106244.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-05T23:21:06+0000",
+      "summary": "Sauce Gardner described how Shane Steichen gave him his 'Welcome to the Colts' moment when he first arrived."
+    },
+    {
+      "id": "73167b0a1af618ae",
+      "title": "Ex-NFL star QB a surprise contender for assistant coaching openings",
+      "link": "https://sports.yahoo.com/articles/ex-nfl-star-qb-surprise-232027812.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-05T23:20:27+0000",
+      "summary": "This ex-Texans and Falcons quarterback could soon be coaching future stars at his old position."
+    },
+    {
+      "id": "b9e1fcbf16739931",
+      "title": "Stampede Survey: Predict the Super Bowl LX winner",
+      "link": "https://stampedeblue.com/indianapolis-colts-discussion/121241/colts-predict-super-bowl-lx",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-05T21:23:42+0000",
+      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. With the Super Bowl just days away, it’s time to get everyone on the record. Who [&#8230;]"
     },
     {
       "id": "98b1100840c0aa3b",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:45:48+0000",
       "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
-    },
-    {
-      "id": "9373ff9a6fd62b51",
-      "title": "Colts’ DeForest Buckner: ’Next season, I will be complete’",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-next-season-i-will-be-complete/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-08T15:42:13+0000",
-      "summary": "INDIANAPOLIS – DeForest Buckner offered an indication he’ll return for 2026 despite a season-ending neck injury that had him considering retirement. On an Instagram post on Wednesday, the Indianapolis Colts’ defensive mainstay concluded by writing: “Next season, I will be complete.’’ That certainly can be seen as Buckner’s decision to return for ’26. That would [...]"
     }
   ],
   "links": [
