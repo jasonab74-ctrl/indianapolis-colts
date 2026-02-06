@@ -1,23 +1,86 @@
 {
-  "updated": "2026-02-06T10:38:08+00:00",
+  "updated": "2026-02-06T11:33:04+00:00",
   "items": [
     {
-      "id": "d862e7b78b825062",
-      "title": "Matthew Stafford seemingly confirms return to LA Rams next season during MVP speech",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-seemingly-confirms-return-103000043.html",
+      "id": "1a35d122f8e25112",
+      "title": "Highland Park Alum Matthew Stafford Wins 2025 AP NFL Most Valuable Player Award",
+      "link": "https://sports.yahoo.com/articles/highland-park-alum-matthew-stafford-113044408.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-06T10:30:00+0000",
-      "summary": "Matthew Stafford appears to have put an end to retirement speculation by hinting at a return to the Los Angeles Rams during his NFL MVP acceptance speech. The veteran quarterback had faced questions about his future following the Rams’ playoff run, but his comments on stage suggested he is not yet ready to step away."
+      "published": "2026-02-06T11:30:44+0000",
+      "summary": "Matthew Stafford wins his first NFL MVP award, making history as Highland Park's first alumnus to achieve this honor. Discover his journey from Texas star to Super Bowl champion!"
     },
     {
-      "id": "e3eb6180a4a3c3ca",
-      "title": "Where do Titans fans rank in their NFL knowledge?",
-      "link": "https://sports.yahoo.com/articles/where-titans-fans-rank-nfl-100852126.html",
+      "id": "51e9d70e535e55c9",
+      "title": "Garrett named DPOY; JSN wins offensive honors",
+      "link": "https://espn.com/nfl/story/_/id/47845818/browns-garrett-wins-defensive-player-year-nfl-honors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-06T11:29:12+0000",
+      "summary": "Myles Garrett's record-breaking season earned him a unanimous selection as Defensive Player of the Year, while Jaxon Smith-Njigba narrowly won Offensive Player of the Year at Thursday's NFL Honors ceremony."
+    },
+    {
+      "id": "acfe493a1cdd8af9",
+      "title": "Cowboys picked to play in NFL's first game in Rio",
+      "link": "https://espn.com/nfl/story/_/id/47843780/cowboys-play-nfl-first-game-rio-de-janeiro",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-06T11:29:12+0000",
+      "summary": "The Cowboys will play in the NFL's first regular-season game in Rio de Janeiro against a TBD opponent at historic Maracana Stadium."
+    },
+    {
+      "id": "76492a20bdfadf4d",
+      "title": "🏈 Miller's two-round 2026 mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47756543/2026-nfl-mock-draft-two-rounds-64-picks-matt-miller-senior-bowl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-06T11:29:12+0000",
+      "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
+    },
+    {
+      "id": "ddc69b500faee4d3",
+      "title": "NFL MVP voting results: How Matthew Stafford beat out Drake Maye in closest race since 2003",
+      "link": "https://sports.yahoo.com/articles/nfl-mvp-voting-results-matthew-050151615.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-06T10:08:52+0000",
-      "summary": "How knowledgeable are Tennessee Titans fans? One organization ran a survey to find out."
+      "published": "2026-02-06T11:24:00+0000",
+      "summary": "Voters had a tough time choosing between these two stars, producing a tight race until the end."
+    },
+    {
+      "id": "073d2761157e48ee",
+      "title": "Drake Maye misses out on NFL MVP Award by a single vote",
+      "link": "https://sports.yahoo.com/articles/drake-maye-misses-nfl-mvp-112231262.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-06T11:22:31+0000",
+      "summary": "The Patriots quarterback narrowly misses out on the NFL MVP Award."
+    },
+    {
+      "id": "14f39d866bcb0b7b",
+      "title": "Potential top draft target may not be available for Commanders",
+      "link": "https://sports.yahoo.com/articles/potential-top-draft-target-may-111603167.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-06T11:16:03+0000",
+      "summary": "One NFL draft analyst believes the top edge rusher will not be on the board when the Commanders pick."
+    },
+    {
+      "id": "101abed19fb10f37",
+      "title": "Cowboys Headlines: 'Boys headed to Brazil in 2026; NFL Honors recap",
+      "link": "https://sports.yahoo.com/articles/cowboys-headlines-boys-headed-brazil-110507867.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-06T11:05:07+0000",
+      "summary": "The Cowboys will rock Rio in 2026, the Dallas Seahawks connection, and a full recap of who took home awards at NFL Honors."
+    },
+    {
+      "id": "74deb70bb8263f3f",
+      "title": "NFL analyst identifies Falcons' breakout candidate for 2026",
+      "link": "https://sports.yahoo.com/articles/nfl-analyst-identifies-falcons-breakout-110452090.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-06T11:04:52+0000",
+      "summary": "Pro Football Focus lists Jalon Walker as Falcons' breakout candidate in 2026"
     },
     {
       "id": "0f977464dacb4ccc",
@@ -36,33 +99,6 @@
       "feed": "ESPN",
       "published": "2026-02-06T06:03:00+0000",
       "summary": "The 2026 Hall of Fame class was announced during the NFL Honors ceremony in San Francisco."
-    },
-    {
-      "id": "51e9d70e535e55c9",
-      "title": "Garrett named DPOY; JSN wins offensive honors",
-      "link": "https://espn.com/nfl/story/_/id/47845818/browns-garrett-wins-defensive-player-year-nfl-honors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-06T06:02:03+0000",
-      "summary": "Myles Garrett's record-breaking season earned him a unanimous selection as Defensive Player of the Year, while Jaxon Smith-Njigba narrowly won Offensive Player of the Year at Thursday's NFL Honors ceremony."
-    },
-    {
-      "id": "acfe493a1cdd8af9",
-      "title": "Cowboys picked to play in NFL's first game in Rio",
-      "link": "https://espn.com/nfl/story/_/id/47843780/cowboys-play-nfl-first-game-rio-de-janeiro",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-06T06:02:03+0000",
-      "summary": "The Cowboys will play in the NFL's first regular-season game in Rio de Janeiro against a TBD opponent at historic Maracana Stadium."
-    },
-    {
-      "id": "76492a20bdfadf4d",
-      "title": "🏈 Miller's two-round 2026 mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47756543/2026-nfl-mock-draft-two-rounds-64-picks-matt-miller-senior-bowl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-06T06:02:03+0000",
-      "summary": "Matt Miller goes two rounds deep in his latest NFL mock draft. Which prospects rose after the Senior Bowl? Which teams need QBs?"
     },
     {
       "id": "d07579af04a3e51f",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-01-08T21:27:06+0000",
       "summary": "In this episode of the Colts Blue Zone Podcast, Mike Chappell and Matt Adams discuss their takeaways from GM Chris Ballard's season-ending news conference. Topics include Daniel Jones' impending return, Alec Pierce's contract, the Sauce Gardner trade, DeForest Buckner's future and more. Find the Colts Blue Zone Podcast on YouTube, Apple Podcasts or Spotify."
-    },
-    {
-      "id": "c7b50b44af86f21d",
-      "title": "Former Colts running back Randy McMillan dies",
-      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T21:20:57+0000",
-      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
-    },
-    {
-      "id": "dcdb9729c2697202",
-      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
-      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T20:10:30+0000",
-      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
-    },
-    {
-      "id": "2ab28dd3d4dfcd59",
-      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
-      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T19:16:17+0000",
-      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
-    },
-    {
-      "id": "aeaf2a840e3e2449",
-      "title": "Colts GM Chris Ballard talks Daniel Jones, Philip Rivers and late-season fade",
-      "link": "https://fox59.com/sports/colts/colts-gm-chris-ballard-talks-daniel-jones-philip-rivers-and-late-season-fade/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-08T17:52:39+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts expect to roll with Daniel Jones at quarterback going forward. That was one of the main takeaways of general manager Chris Ballard’s season-ending news conference. Ballard addressed reporters for about 45 minutes on Thursday, covering everything from Jones’ future to the team’s late-season fade and the impact of bringing Philip [...]"
     }
   ],
   "links": [
