@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T09:29:38+00:00",
+  "updated": "2026-02-07T09:54:42+00:00",
   "items": [
     {
       "id": "46b2fc505018b76b",
@@ -9,51 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-02-07T09:06:22+0000",
       "summary": "The Tennessee Titans need to add depth in the 2026 NFL Draft, and analyst Cynthia Frelund has the Titans doing just that in her forst mock draft."
-    },
-    {
-      "id": "2e28ed8eec339b66",
-      "title": "Ryan Clark claims Matthew Stafford is a top 10 quarterback ever after MVP win",
-      "link": "https://sports.yahoo.com/articles/ryan-clark-claims-matthew-stafford-090000208.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T09:00:00+0000",
-      "summary": "Ryan Clark has sparked fresh debate across the NFL by claiming Matthew Stafford now ranks among the top 10 quarterbacks in league history. Matthew Stafford’s first NFL MVP award at the age of 37 has already fueled new conversations about his legacy, but Clark took the discussion further than most."
-    },
-    {
-      "id": "916aa866bbfe7f46",
-      "title": "Drake Maye high school basketball career: Why Patriots QB spurned the hardwood for football gridiron",
-      "link": "https://sports.yahoo.com/articles/drake-maye-high-school-basketball-085002545.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T08:50:02+0000",
-      "summary": "Long before Maye was tearing up the NFL gridiron, he was an elite basketball player."
-    },
-    {
-      "id": "d5d97feca06e83af",
-      "title": "Ex-NFL player Lee charged with murdering girlfriend",
-      "link": "https://sports.yahoo.com/articles/ex-nfl-player-lee-charged-084559267.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T08:46:22+0000",
-      "summary": "Former NFL linebacker Darron Lee is charged with first-degree murder and tampering with evidence after the death of his girlfriend."
-    },
-    {
-      "id": "8ea588ce21450feb",
-      "title": "Most Super Bowl wins by team: Where Patriots rank in full list of NFL franchises with multiple titles",
-      "link": "https://sports.yahoo.com/articles/most-super-bowl-wins-team-084001783.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T08:40:01+0000",
-      "summary": "Which NFL squads have claimed the most Lombardi Trophies?"
-    },
-    {
-      "id": "9870d79e732083c0",
-      "title": "Future #1 overall pick Fernando Mendoza explains why he grew up idolizing Tom Brady",
-      "link": "https://sports.yahoo.com/articles/future-1-overall-pick-fernando-083000861.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T08:30:00+0000",
-      "summary": "Fernando Mendoza, the projected first overall pick in this year’s NFL Draft, has explained why Tom Brady was the quarterback he idolised growing up. Mendoza is widely expected to be selected first by the Las Vegas Raiders, and his comments about Brady have drawn added attention given the quarterback’s connection to the franchise."
     },
     {
       "id": "da478546948a06f4",
@@ -540,6 +495,51 @@
       "feed": "Colts.com",
       "published": "2026-01-08T20:10:30+0000",
       "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
+    },
+    {
+      "id": "2ab28dd3d4dfcd59",
+      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T19:16:17+0000",
+      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
+    },
+    {
+      "id": "a9c1a44d1c017233",
+      "title": "Colts sign CB Robert Carter Jr. to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-cb-robert-carter-jr-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:52:26+0000",
+      "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "ca4261341d0b1b48",
+      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
+      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:45:48+0000",
+      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
+    },
+    {
+      "id": "8f67fb1199ecf0c0",
+      "title": "TUNE IN: General manager Chris Ballard press conference Thursday, January 8 at 11:00 a.m.",
+      "link": "https://colts.com/news/tune-in-general-manager-chris-ballard-press-conference-2025-season-recap",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T20:54:32+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "bcc1f4e528edd74f",
+      "title": "Letter from Ownership",
+      "link": "https://colts.com/news/letter-from-colts-ownership-2025-season-carlie-irsay-gordon-casey-foyt-kalen-jackson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T18:30:12+0000",
+      "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
     }
   ],
   "links": [
