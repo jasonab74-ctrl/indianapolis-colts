@@ -1,14 +1,23 @@
 {
-  "updated": "2026-02-07T19:44:33+00:00",
+  "updated": "2026-02-07T20:26:27+00:00",
   "items": [
     {
-      "id": "da58ecf5ad5f7f33",
-      "title": "NFL Rumors: Latest Intel On if Travis Kelce Will Play for KC Chiefs in 2026",
-      "link": "https://sports.yahoo.com/articles/nfl-rumors-latest-intel-travis-193000145.html",
+      "id": "c77fb5ef90727047",
+      "title": "Patriots-Seahawks Super Bowl is not so much of a rematch as it is a matchup of contrasts",
+      "link": "https://sports.yahoo.com/articles/patriots-seahawks-super-bowl-not-201630874.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-07T19:30:00+0000",
-      "summary": "When tight end Travis Kelce walked off the field at Allegiant Stadium on Jan. 4, many wondered if the future [&#8230;]"
+      "published": "2026-02-07T20:16:30+0000",
+      "summary": "This year’s Super Bowl matchup between the New England Patriots (17-3) and Seattle Seahawks (16-3) is all about contrasts.  Being a part of the final game of the NFL season is nothing new for Patriots coach Mike Vrabel, who won three Super Bowls as a player with New England.  Vrabel, 50, can become the fifth person in NFL history to win the Super Bowl as both a player and a head coach, joining Pro Football Hall of Famers Mike Ditka, Tony Dungy and Tom Flores as well as Doug Pederson."
+    },
+    {
+      "id": "b56159869e31c5f5",
+      "title": "Leonard Williams to have wife Hailey in stands as Super Bowl arrives at perfect time",
+      "link": "https://sports.yahoo.com/articles/leonard-williams-wife-hailey-stands-200938692.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-07T20:09:38+0000",
+      "summary": "Hailey, the daughter of an NFL Hall of Famer, is eight months pregnant."
     },
     {
       "id": "da478546948a06f4",
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47853216/hall-fame-eyes-changes-return-person-voting",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-07T19:26:52+0000",
+      "published": "2026-02-07T19:52:28+0000",
       "summary": "Jim Porter said the Hall of Fame plans to return to in-person voting and that the vote will likely happen closer to the annual reveal at NFL Honors -- the Thursday before the Super Bowl."
     },
     {
@@ -25,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47853863/former-nfl-linebacker-darron-lee-charged-first-degree-murder-death-girlfriend",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-07T19:26:52+0000",
+      "published": "2026-02-07T19:52:28+0000",
       "summary": "Former NFL linebacker Darron Lee, the Jets' first-round pick in 2016, was arrested and charged with first-degree murder in the death of his girlfriend, the Hamilton County (Tennessee) Sheriff's Office announced Friday."
     },
     {
@@ -34,44 +43,8 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47027232/2026-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-07T19:26:52+0000",
+      "published": "2026-02-07T19:52:28+0000",
       "summary": "Jordan Reid ranked the top 50 players in the 2026 NFL draft class, including scouting reports and standouts at every position."
-    },
-    {
-      "id": "9eae610337a22bda",
-      "title": "Former NFL linebacker arrested, charged with first-degree murder",
-      "link": "https://sports.yahoo.com/articles/former-nfl-linebacker-arrested-charged-192312977.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T19:23:12+0000",
-      "summary": "A former NFL first round draft pick linebacker was arrested and charged with first-degree murder in the death of his girlfriend."
-    },
-    {
-      "id": "01ab3e913e67714e",
-      "title": "Colorado defensive line coach Domata Peko takes job with Pittsburgh Steelers",
-      "link": "https://sports.yahoo.com/articles/colorado-defensive-line-coach-domata-191859555.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T19:18:59+0000",
-      "summary": "The Colorado Buffaloes are in the market for a new defensive line coach following the news that Domata Peko has left Boulder to take a similar role with the NFL’s Pittsburgh Steelers. Peko spent only one season with Deion Sanders and the Buffs after coming to Boulder before the 2025 season. In that sole season, […]"
-    },
-    {
-      "id": "126c7e559a1f4ffe",
-      "title": "How aggressive free agency moves led the Patriots and Seahawks to the Super Bowl",
-      "link": "https://sports.yahoo.com/articles/aggressive-free-agency-moves-led-191631510.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T19:16:31+0000",
-      "summary": "Winning the headlines during free agency in March doesn’t typically lead to success in January and February in the NFL."
-    },
-    {
-      "id": "c3fdd1ebf1d862c5",
-      "title": "FCS takeover: Super Bowl 60 features something NFL fans might never see again",
-      "link": "https://sports.yahoo.com/articles/fcs-takeover-super-bowl-60-191556727.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T19:15:56+0000",
-      "summary": "When the Seahawks and Patriots meet in Super Bowl 60, we might be watching something we will never see again - multiple FCS players in starring roles."
     },
     {
       "id": "d7f9e7c3fbe7f481",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-08T20:10:30+0000",
       "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
+    },
+    {
+      "id": "2ab28dd3d4dfcd59",
+      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T19:16:17+0000",
+      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
+    },
+    {
+      "id": "a9c1a44d1c017233",
+      "title": "Colts sign CB Robert Carter Jr. to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-cb-robert-carter-jr-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:52:26+0000",
+      "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "ca4261341d0b1b48",
+      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
+      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:45:48+0000",
+      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
     }
   ],
   "links": [
