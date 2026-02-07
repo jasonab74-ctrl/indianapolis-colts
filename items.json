@@ -1,23 +1,14 @@
 {
-  "updated": "2026-02-07T21:49:43+00:00",
+  "updated": "2026-02-07T22:24:40+00:00",
   "items": [
     {
-      "id": "b3e519a002922336",
-      "title": "NFL Insider indicates Colts franchise tagging Alec Pierce remains an outside possibility",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-indicates-colts-franchise-212850790.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T21:28:50+0000",
-      "summary": "Retaining Colts wideout Alec Pierce appears to be a top priority, with the franchise tag even as a potential option."
-    },
-    {
-      "id": "d42375a739618c3f",
-      "title": "Report: 49ers ‘Not Looking’ To Trade Former Patriots Quarterback Mac Jones",
-      "link": "https://sports.yahoo.com/articles/report-49ers-not-looking-trade-212846630.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-07T21:28:46+0000",
-      "summary": "San Francisco 49ers backup quarterback Mac Jones made it clear on Wednesday that he’s ready to be a starter again. The Niners aren’t keen on the idea of moving the 27-year-old former New England Patriots signal-caller though, according to senior NFL insider Dianna Russini. “For teams looking to swing a deal for 49ers backup QB […]"
+      "id": "d7f9e7c3fbe7f481",
+      "title": "Rotting flesh, silencers and dances: How the Zombieland celebration infected the NFL",
+      "link": "https://espn.com/nfl/story/_/id/47851627/new-england-patriots-seattle-seahawks-super-bowl-lx-2026-zombieland-celebration-infected-stefon-diggs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-07T22:03:19+0000",
+      "summary": "Here's the origin story behind the zombie-like celebration that the Patriots, Seahawks and NFL have embraced."
     },
     {
       "id": "da478546948a06f4",
@@ -47,13 +38,13 @@
       "summary": "Jordan Reid ranked the top 50 players in the 2026 NFL draft class, including scouting reports and standouts at every position."
     },
     {
-      "id": "d7f9e7c3fbe7f481",
-      "title": "Rotting flesh, silencers and dances: How the Zombieland celebration infected the NFL",
-      "link": "https://espn.com/nfl/story/_/id/47851627/new-england-patriots-seattle-seahawks-super-bowl-lx-2026-zombieland-celebration-infected-stefon-diggs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-07T17:19:00+0000",
-      "summary": "Here's the origin story behind the zombie-like celebration that the Patriots, Seahawks and NFL have embraced."
+      "id": "839f285ae9f85193",
+      "title": "As a Colts fan, I’m not sure how much of the Super Bowl I can watch",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121288/as-a-colts-fan-im-not-sure-how-much-of-the-super-bowl-i-can-watch",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-07T12:10:00+0000",
+      "summary": "The New England Patriots are in the Super Bowl. That sentence makes my stomach drop. How many times have we heard that line over the last two decades? Nine. That’s how many. After Tom Brady moved on and Bill Belichick traded the NFL out for college, I thought we were done. Unfortunately, that is not [&#8230;]"
     },
     {
       "id": "ac4b1cec99153d32",
@@ -216,15 +207,6 @@
       "feed": "Stampede Blue",
       "published": "2026-02-03T17:41:15+0000",
       "summary": "According to NFL.com, the one roster move that the Indianapolis Colts should make this offseason is injecting much needed speed to their outside pass rush, which has routinely lacked juice opposite rising third-year defensive end Laiatu Latu: Indianapolis Colts Entering this early offseason, the Colts pass rushing deficiencies have already been well documented. Specifically: As [&#8230;]"
-    },
-    {
-      "id": "7ea3073b8a550df9",
-      "title": "Former Colts veteran defensive coordinator reportedly resurfaces with AFC South rival",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/121232/former-colts-veteran-defensive-coordinator-resurfaces-with-afc-south-rival",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-03T17:19:41+0000",
-      "summary": "According to ESPN’s Adam Schefter, former Indianapolis Colts defensive coordinator Gus Bradley has been hired as the Tennessee Titans new defensive coordinator under recently hired head coach Robert Saleh: The 59-year-old Bradley reunites with Saleh, who returned as the San Francisco 49ers defensive coordinator last season and worked alongside Bradley, formerly the 49ers assistant head [&#8230;]"
     },
     {
       "id": "a43b518e1ba94565",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:45:48+0000",
       "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
+    },
+    {
+      "id": "8f67fb1199ecf0c0",
+      "title": "TUNE IN: General manager Chris Ballard press conference Thursday, January 8 at 11:00 a.m.",
+      "link": "https://colts.com/news/tune-in-general-manager-chris-ballard-press-conference-2025-season-recap",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T20:54:32+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "bcc1f4e528edd74f",
+      "title": "Letter from Ownership",
+      "link": "https://colts.com/news/letter-from-colts-ownership-2025-season-carlie-irsay-gordon-casey-foyt-kalen-jackson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T18:30:12+0000",
+      "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
     }
   ],
   "links": [
