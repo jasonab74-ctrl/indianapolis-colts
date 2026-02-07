@@ -1,13 +1,22 @@
 {
-  "updated": "2026-02-07T20:52:53+00:00",
+  "updated": "2026-02-07T21:25:30+00:00",
   "items": [
+    {
+      "id": "341b00b30cf44841",
+      "title": "Former Georgia LB named as Falcons' next breakout player",
+      "link": "https://sports.yahoo.com/articles/former-georgia-lb-named-falcons-211423966.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-07T21:14:23+0000",
+      "summary": "Former Georgia Bulldogs linebacker Jalon Walker has high expectations entering his Year 2 in the NFL."
+    },
     {
       "id": "da478546948a06f4",
       "title": "Hall of Fame envisions changes after '26 outcry",
       "link": "https://espn.com/nfl/story/_/id/47853216/hall-fame-eyes-changes-return-person-voting",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-07T19:52:28+0000",
+      "published": "2026-02-07T21:01:35+0000",
       "summary": "Jim Porter said the Hall of Fame plans to return to in-person voting and that the vote will likely happen closer to the annual reveal at NFL Honors -- the Thursday before the Super Bowl."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47853863/former-nfl-linebacker-darron-lee-charged-first-degree-murder-death-girlfriend",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-07T19:52:28+0000",
+      "published": "2026-02-07T21:01:35+0000",
       "summary": "Former NFL linebacker Darron Lee, the Jets' first-round pick in 2016, was arrested and charged with first-degree murder in the death of his girlfriend, the Hamilton County (Tennessee) Sheriff's Office announced Friday."
     },
     {
@@ -25,8 +34,35 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/47027232/2026-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-07T19:52:28+0000",
+      "published": "2026-02-07T21:01:35+0000",
       "summary": "Jordan Reid ranked the top 50 players in the 2026 NFL draft class, including scouting reports and standouts at every position."
+    },
+    {
+      "id": "d98601531dcbb138",
+      "title": "How to watch Super Bowl 60 live: Seahawks vs Patriots",
+      "link": "https://sports.yahoo.com/articles/watch-super-bowl-60-live-210000810.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-07T21:00:00+0000",
+      "summary": "Looking to watch Super Bowl 60? The Seahawks and Patriots face off Sunday on NBC. Here's how to stream the Super Bowl with Sling TV, Peacock, NFL+, and more."
+    },
+    {
+      "id": "cb6e70dbe1eb7817",
+      "title": "NFL News: Latest on A.J. Brown’s ‘Tenuous’ Relationship with Philadelphia Eagles",
+      "link": "https://sports.yahoo.com/articles/nfl-news-latest-j-brown-210000915.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-07T21:00:00+0000",
+      "summary": "Philadelphia Eagles wide receiver A.J. Brown popped up in NFL rumors during the regular season, with many around the league [&#8230;]"
+    },
+    {
+      "id": "5933463098ca30c8",
+      "title": "Guardian Caps explained, the football helmet that makes everyone look like Toad",
+      "link": "https://sports.yahoo.com/articles/guardian-caps-explained-football-helmet-210000468.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-07T21:00:00+0000",
+      "summary": "Confused by the giant weird helmets NFL players are wearing? We got you."
     },
     {
       "id": "d7f9e7c3fbe7f481",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-08T19:16:17+0000",
       "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
-    },
-    {
-      "id": "a9c1a44d1c017233",
-      "title": "Colts sign CB Robert Carter Jr. to reserve/future contract",
-      "link": "https://colts.com/news/colts-sign-cb-robert-carter-jr-to-reserve-future-contract",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T17:52:26+0000",
-      "summary": "The Colts made the roster move on Thursday."
-    },
-    {
-      "id": "ca4261341d0b1b48",
-      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
-      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T17:45:48+0000",
-      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
-    },
-    {
-      "id": "8f67fb1199ecf0c0",
-      "title": "TUNE IN: General manager Chris Ballard press conference Thursday, January 8 at 11:00 a.m.",
-      "link": "https://colts.com/news/tune-in-general-manager-chris-ballard-press-conference-2025-season-recap",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T20:54:32+0000",
-      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
-    },
-    {
-      "id": "bcc1f4e528edd74f",
-      "title": "Letter from Ownership",
-      "link": "https://colts.com/news/letter-from-colts-ownership-2025-season-carlie-irsay-gordon-casey-foyt-kalen-jackson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-06T18:30:12+0000",
-      "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
     }
   ],
   "links": [
