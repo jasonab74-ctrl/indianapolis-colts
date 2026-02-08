@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-08T11:22:35+00:00",
+  "updated": "2026-02-08T11:45:37+00:00",
   "items": [
+    {
+      "id": "62e4e03d688a0bc4",
+      "title": "NFL expert predicts Drake Maye will do something to make Super Bowl fans go ‘Wow!’",
+      "link": "https://sports.yahoo.com/articles/nfl-expert-predicts-drake-maye-113000607.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-08T11:30:00+0000",
+      "summary": "An NFL insider believes Drake Maye is on the verge of producing a moment that will capture the attention of Super Bowl fans. The New England Patriots quarterback has been the subject of growing internal belief as the franchise commits fully to him as its future."
+    },
+    {
+      "id": "21e6bff6ffd2446d",
+      "title": "From rough start to unlikely finish, Seahawks QB Sam Darnold smiled his way to Super Bowl",
+      "link": "https://sports.yahoo.com/articles/rough-start-unlikely-finish-seahawks-111451899.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-08T11:14:51+0000",
+      "summary": "Sam Darnold has been through the full spectrum of experiences for an NFL QB. Through it all, the Seahawks QB has maintained the same jovial attitude."
+    },
     {
       "id": "2307c8ebc60a667f",
       "title": "Has a USC QB started a Super Bowl? Sam Darnold looking for team's first Lombardi Trophy",
@@ -18,69 +36,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-02-08T11:06:35+0000",
       "summary": "After what's been the closest postseason in NFL history, would it really be a surprise to see Super Bowl 60 go to OT? If so, here's what would happen."
-    },
-    {
-      "id": "9299bdd728a2d7c4",
-      "title": "Falcons have 'parted ways' with key front office member, per report",
-      "link": "https://sports.yahoo.com/articles/falcons-parted-ways-key-front-110510184.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:05:10+0000",
-      "summary": "The Falcons have &quot;parted ways&quot; with VP of football Ryan Pace, per NFL Network report"
-    },
-    {
-      "id": "01afb5dd9691a6f7",
-      "title": "Ditka to dentistry: Ex-Bear's inspiring life can help your kid athlete",
-      "link": "https://sports.yahoo.com/articles/ditka-dentistry-ex-bears-inspiring-110413955.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:04:13+0000",
-      "summary": "Terry Schmidt lasted 11 years in the NFL, but just missed being on the epic '85 team. Why he doesn't regret it, and how his life can inspire your kid."
-    },
-    {
-      "id": "5edb5bb563ee75f3",
-      "title": "Who is Devon Witherspoon? Stats, more to know about Seahawks star CB",
-      "link": "https://sports.yahoo.com/articles/devon-witherspoon-stats-more-know-110355235.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:03:55+0000",
-      "summary": "Devon Witherspoon has established himself as one of the NFL's top cornerbacks. Here's what to know about the Seahawks star."
-    },
-    {
-      "id": "fb70e9abf95f40ad",
-      "title": "What to know about Seahawks rookie and former combine darling Nick Emmanwori",
-      "link": "https://sports.yahoo.com/articles/know-seahawks-rookie-former-combine-110354318.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:03:54+0000",
-      "summary": "Before Nick Emmanwori was a star rookie safety for the Seahawks, he was an NFL combine darling. Here's what to know about Emmanwori."
-    },
-    {
-      "id": "cb67a2b4870dc524",
-      "title": "Why are Seahawks fans called the 12s? Story behind NFL's loudest fans",
-      "link": "https://sports.yahoo.com/articles/why-seahawks-fans-called-12s-110329283.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:03:29+0000",
-      "summary": "Only the loudest and most passionate get to call themselves the 12s. Here's the story behind the Seahawks fans' nickname."
-    },
-    {
-      "id": "cc45fe5d2882181a",
-      "title": "Mike Vrabel can make NFL history with Patriots win in Super Bowl 60",
-      "link": "https://sports.yahoo.com/articles/mike-vrabel-nfl-history-patriots-110128754.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:01:28+0000",
-      "summary": "Mike Vrabel can accomplish something no one else has done in NFL history with win in Super Bowl 60. Here's what to know."
-    },
-    {
-      "id": "de157849206e8e67",
-      "title": "TreVeyon Henderson Ohio State career revisited: Stats, NFL draft, more for Buckeyes RB",
-      "link": "https://sports.yahoo.com/articles/treveyon-henderson-ohio-state-career-110106007.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-08T11:01:06+0000",
-      "summary": "Here's what to know of TreVeyon Henderson's Ohio State football career as he helps the New England Patriots challenge to win Super Bowl 60:"
     },
     {
       "id": "da478546948a06f4",
@@ -540,6 +495,51 @@
       "feed": "Colts.com",
       "published": "2026-01-10T14:00:19+0000",
       "summary": "Nelson was named an All-Pro for the sixth time in his career."
+    },
+    {
+      "id": "51b77cb3de6f4178",
+      "title": "Colts CB Sauce Gardner, G Quenton Nelson named PFF All-Pros",
+      "link": "https://colts.com/news/colts-cornerback-sauce-gardner-guard-quenton-nelson-named-pro-football-focus-all-pros-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-09T21:30:06+0000",
+      "summary": "Gardner was named a first-team All-Pro and Nelson was named to the second team."
+    },
+    {
+      "id": "9f0ed514dcb82d6c",
+      "title": "Colts RB Jonathan Taylor nominated for FedEx Ground Player of the Year",
+      "link": "https://colts.com/news/colts-rb-jonathan-taylor-nominated-for-fedex-ground-player-of-the-year-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-09T20:00:05+0000",
+      "summary": "Taylor led the NFL in total touchdowns (20) and rushing touchdowns (18) in 2025."
+    },
+    {
+      "id": "c7b50b44af86f21d",
+      "title": "Former Colts running back Randy McMillan dies",
+      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T21:20:57+0000",
+      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
+    },
+    {
+      "id": "dcdb9729c2697202",
+      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
+      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T20:10:30+0000",
+      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
+    },
+    {
+      "id": "2ab28dd3d4dfcd59",
+      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T19:16:17+0000",
+      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
     }
   ],
   "links": [
