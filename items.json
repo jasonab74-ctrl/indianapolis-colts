@@ -1,23 +1,23 @@
 {
-  "updated": "2026-02-08T22:26:05+00:00",
+  "updated": "2026-02-08T22:55:50+00:00",
   "items": [
     {
-      "id": "e70a309a13299391",
-      "title": "NFL Inactive Report",
-      "link": "https://sports.yahoo.com/articles/nfl-inactive-report-220823332.html",
+      "id": "db202a7f2d913d12",
+      "title": "Full list of Super Bowl winners throughout history",
+      "link": "https://sports.yahoo.com/articles/full-list-super-bowl-winners-220009358.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-08T22:08:23+0000",
-      "summary": ""
+      "published": "2026-02-08T22:48:16+0000",
+      "summary": "Here is the full list of every Super Bowl winner by year in NFL history, including who won the most recent championship in 2025."
     },
     {
-      "id": "f7a3974a7c00eb7e",
-      "title": "Nick Emmanwori's girlfriend wore custom Seahawks pants for rookie star",
-      "link": "https://sports.yahoo.com/articles/nick-emmanworis-girlfriend-wore-custom-220300283.html",
+      "id": "76e7688ce2ff5b34",
+      "title": "Live updates: New England Patriots battle Seattle Seahawks in Super Bowl LX",
+      "link": "https://sports.yahoo.com/articles/live-updates-england-patriots-battle-134105919.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-08T22:03:00+0000",
-      "summary": "Raven Johnson, the girlfriend of Seahawks rookie Nick Emmanwori, shared sweet photos of custom pants for the NFL star ahead of the Super Bowl."
+      "published": "2026-02-08T22:42:48+0000",
+      "summary": "The Patriots will make history if they win, earning an NFL record 7th Lombardi Trophy."
     },
     {
       "id": "8eecafbd2def99d1",
@@ -29,13 +29,22 @@
       "summary": "Jordan Reid ranked the top 50 players in the 2026 NFL draft class, including scouting reports and standouts at every position."
     },
     {
+      "id": "8d16e511eb5a0ce0",
+      "title": "Colts reportedly plan to begin contract negotiations with free agent QB Daniel Jones soon",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/121340/colts-reportedly-plan-to-begin-contract-negotiations-with-free-agent-qb-daniel-jones-soon",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-08T19:20:17+0000",
+      "summary": "According to NFL Network’s Tom Pelissero, the Indianapolis Colts plan to open contract negotiations with pending free agent starting quarterback Daniel Jones soon this offseason: “My understanding is the Colts plan to open talks soon with Daniel Jones on a multi-year deal to keep him in Indianapolis,” Pelissero said. “Jones got to Indy last year [&#8230;]"
+    },
+    {
       "id": "85b5b30bcbdef98b",
       "title": "From Josh Howlin to Barker Playfield: NFL-inspired pups headline Puppy Bowl XXII",
       "link": "https://espn.com/nfl/story/_/id/47831379/puppy-bowl-xxii-super-bowl-nfl-inspired-dogs-lombarky-trophy",
       "source": "ESPN",
       "feed": "ESPN",
       "published": "2026-02-08T13:58:06+0000",
-      "summary": "Before the Seahawks and Patriots clash in Super Bowl LX, Barker Playfield, Josh Howlin and more take the field for Puppy Bowl XXII, competing for the Lombarky Trophy and the title of \"Most Pupular.\""
+      "summary": "Before the Seahawks and Patriots clash in Super Bowl LX, Barker Playfield, Josh Howlin and more took the field for Puppy Bowl XXII."
     },
     {
       "id": "76466ed77662ada7",
@@ -182,15 +191,6 @@
       "summary": "Find out what Sam Darnold, Drake Maye, Cooper Kupp, TreVeyon Henderson and others were like before the NFL."
     },
     {
-      "id": "3e334271ea486a00",
-      "title": "Former Colts head coach reunites with Indy’s old AFC East foe",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/121257/former-colts-head-coach-reunites-with-indys-old-afc-east-foe",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-04T17:50:38+0000",
-      "summary": "According to ESPN’s Adam Schefter, former Indianapolis Colts head coach Frank Reich will be joining the New York Jets as their new offensive coordinator under 2nd-year head coach Aaron Glenn: It’s interesting because Reich and Glenn were former Jets teammates 30 years to the day back in 1996. The 64-year-old Reich served as Stanford football’s [&#8230;]"
-    },
-    {
       "id": "34cc573780ff46a3",
       "title": "Colts RB Jonathan Taylor, TE Tyler Warren attend 2026 Pro Bowl Games",
       "link": "https://colts.com/news/colts-rb-jonathan-taylor-te-tyler-warren-attend-2026-pro-bowl-games-social-media-highlights-quenton-nelson",
@@ -198,15 +198,6 @@
       "feed": "Colts.com",
       "published": "2026-02-04T15:25:20+0000",
       "summary": "Check out social media highlights from this week in San Francisco."
-    },
-    {
-      "id": "6e767ea98a3b5298",
-      "title": "Could Jones do for the Colts what Darnold is doing for the Seahawks?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121250/could-jones-do-for-the-colts-what-darnold-is-doing-for-the-seahawks",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-04T15:20:00+0000",
-      "summary": "Super Bowl Sunday is fast approaching, and fans are set for a bit of a rematch. The collective groan from Indiana residents is deafening as the Patriots find themselves back in the sport’s biggest game. That is the bad part. The potential upside is watching Sam Darnold take the Seahawks to the Super Bowl and [&#8230;]"
     },
     {
       "id": "033d27bdb7cbef2f",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-06T20:54:32+0000",
       "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "bcc1f4e528edd74f",
+      "title": "Letter from Ownership",
+      "link": "https://colts.com/news/letter-from-colts-ownership-2025-season-carlie-irsay-gordon-casey-foyt-kalen-jackson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T18:30:12+0000",
+      "summary": "From Owner & CEO Carlie Irsay-Gordon, Owner & Executive Vice President Casey Foyt and Owner & Chief Brand Officer and President of the Indianapolis Colts Foundation Kalen Jackson"
     }
   ],
   "links": [
