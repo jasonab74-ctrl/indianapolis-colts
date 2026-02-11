@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-11T07:34:25+00:00",
+  "updated": "2026-02-11T08:48:15+00:00",
   "items": [
-    {
-      "id": "31533aa229875621",
-      "title": "Longhorns Daily News: The 2026 Arch Manning predictions keep rolling in",
-      "link": "https://sports.yahoo.com/articles/longhorns-daily-news-2026-arch-063903336.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-11T06:39:03+0000",
-      "summary": "CBS Sports recently predicted that Texas quarterback Arch Manning, who will be a redshirt junior in his second season as the Longhorns’ full-time starter, will break Colt McCoy’s single-season passing record in 2026. From CBS Sports: “The Longhorns went all-in on surrounding Arch Manning with more offensive weapons, including the addition of former five-star wide […]"
-    },
     {
       "id": "91155f0851c8e971",
       "title": "ESPN projects Colts to re-sign emerging free agent safety",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:52:26+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "ca4261341d0b1b48",
+      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
+      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:45:48+0000",
+      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
     }
   ],
   "links": [
