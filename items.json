@@ -1,14 +1,14 @@
 {
-  "updated": "2026-02-10T23:36:52+00:00",
+  "updated": "2026-02-11T02:13:04+00:00",
   "items": [
     {
-      "id": "d939bcdbfa92dfd3",
-      "title": "Bills linked with outlandish trade for 3-time All-Pro WR",
-      "link": "https://sports.yahoo.com/articles/bills-linked-outlandish-trade-3-230844719.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-10T23:08:44+0000",
-      "summary": "This would break the NFL."
+      "id": "e1673688591dc37a",
+      "title": "10 teams, 12 quarterbacks, no great options: Sorting the lackluster NFL quarterback market",
+      "link": "https://espn.com/nfl/story/_/id/47876708/2026-nfl-offseason-quarterbacks-bad-market-teams-needs-free-agency-draft-trade",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-11T00:53:13+0000",
+      "summary": "There are no surefire free agent QBs available this March, and the draft class has only one first-round lock. So what now for NFL teams that might need a quarterback?"
     },
     {
       "id": "3d29adf60ab55f43",
@@ -16,17 +16,8 @@
       "link": "https://espn.com/nfl/story/_/id/47890120/rams-rob-havenstein-retires-11-nfl-seasons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-10T22:09:47+0000",
+      "published": "2026-02-11T00:53:07+0000",
       "summary": "Rams offensive tackle Rob Havenstein announced his retirement from the NFL after 11 seasons."
-    },
-    {
-      "id": "e1673688591dc37a",
-      "title": "10 teams, 12 quarterbacks, no great options: Sorting the lackluster NFL quarterback market",
-      "link": "https://espn.com/nfl/story/_/id/47876708/2026-nfl-offseason-quarterbacks-bad-market-teams-needs-free-agency-draft-trade",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-10T20:38:52+0000",
-      "summary": "There are no surefire free agent QBs available this March, and the draft class has only one first-round lock. So what now for NFL teams that might need a quarterback?"
     },
     {
       "id": "753eeaeaa83fdfd8",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:52:26+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "ca4261341d0b1b48",
+      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
+      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:45:48+0000",
+      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
     }
   ],
   "links": [
