@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T04:32:16+00:00",
+  "updated": "2026-02-13T05:58:28+00:00",
   "items": [
     {
       "id": "57d47aad37b07c0f",
@@ -18,24 +18,6 @@
       "feed": "ESPN",
       "published": "2026-02-13T04:15:11+0000",
       "summary": "President Donald Trump on Thursday pardoned former NFL players Joe Klecko, Nate Newton, Jamal Lewis, Travis Henry and the late Billy Cannon on Thursday."
-    },
-    {
-      "id": "615e9c6379215746",
-      "title": "Minnesota Vikings predicted to trade back in new 2026 NFL Mock Draft",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-predicted-trade-back-034658389.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T03:46:58+0000",
-      "summary": "In a new 2026 NFL Mock Draft published by NFL.com, the Minnesota Vikings are predicted to be moving back from their 18th overall selection."
-    },
-    {
-      "id": "ebcdcf1fb4b66aa2",
-      "title": "Minnesota Vikings focus on DBs in latest mock draft from The Athletic",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-focus-dbs-latest-034441936.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T03:44:41+0000",
-      "summary": "Nick Baumgardner of The Athletic has the Minnesota Vikings hitting the secondary in his 2026 NFL Mock Draft."
     },
     {
       "id": "ea59b7c9ff78221f",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-13T15:53:10+0000",
       "summary": "The Colts made the roster move on Tuesday."
+    },
+    {
+      "id": "1ad7283b04729168",
+      "title": "2025 Colts Rookie Review: Tyler Warren shows off his versatility and availability",
+      "link": "https://colts.com/news/2025-colts-rookie-review-tyler-warren-tight-end-offense-versatility-growth",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-12T18:18:14+0000",
+      "summary": "Warren finished his rookie season with a franchise-record 817 receiving yards and five total touchdowns."
+    },
+    {
+      "id": "195c7d97e9c8a3b1",
+      "title": "Colts G Quenton Nelson named Second-Team All-Pro",
+      "link": "https://colts.com/news/colts-guard-quenton-nelson-named-second-team-all-pro-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-10T14:00:19+0000",
+      "summary": "Nelson was named an All-Pro for the sixth time in his career."
     }
   ],
   "links": [
