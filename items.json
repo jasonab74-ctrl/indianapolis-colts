@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T23:29:33+00:00",
+  "updated": "2026-02-13T23:55:31+00:00",
   "items": [
     {
       "id": "556d2196e9f695f3",
@@ -9,15 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-02-13T23:21:21+0000",
       "summary": "The New England Patriots round out the NFL’s top 10 in available cap space in 2026. The defending AFC champions currently have more than $35 million to work with, and that is before the expected parting of ways with their second-most-expensive player, Stefon Diggs. However, there are more savings to be found in the team’s […]"
-    },
-    {
-      "id": "6625960aeb879bfa",
-      "title": "Former Patriots Coach Joins Eagles’ Revamped Coaching Staff",
-      "link": "https://sports.yahoo.com/articles/former-patriots-coach-joins-eagles-231536613.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T23:15:36+0000",
-      "summary": "The NFL offseason has been dominated by a hectic coaching cycle, and after losing Super Bowl LX, the New England Patriots are just getting in on the fun. While the Pats shouldn’t have to make too many changes to head coach Mike Vrabel‘s staff, they do need a new defensive coordinator after transitioning Terrell Williams […]"
     },
     {
       "id": "6906c2065a3511cc",
@@ -65,24 +56,6 @@
       "summary": "Which teams might take a quarterback? Could offensive linemen dominate the first round? Field Yates projects the top 32 picks of the 2026 NFL draft."
     },
     {
-      "id": "61036cfdbcabac0d",
-      "title": "NFLPA ordered to stop team report cards: Inside the controversial move",
-      "link": "https://sports.yahoo.com/articles/nflpa-ordered-stop-team-report-230217020.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T23:02:17+0000",
-      "summary": "The NFL has won a grievance against the NFLPA that will halt the public release of team report cards, a move that has sparked much debate."
-    },
-    {
-      "id": "dab9361484007578",
-      "title": "Staff picks: Which Saints players we'd submit for NFL expansion draft",
-      "link": "https://sports.yahoo.com/articles/staff-picks-saints-players-wed-230038482.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T23:00:38+0000",
-      "summary": "We've already gone over the rules for an NFL expansion draft, and now our staff writers have made their picks for which Saints players they'd nominate"
-    },
-    {
       "id": "f8dafbafe5b71e6d",
       "title": "NFL draft prospects with a true Round 1 grade: 11 players who are clear first-rounders",
       "link": "https://espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
@@ -90,6 +63,15 @@
       "feed": "ESPN",
       "published": "2026-02-13T21:02:43+0000",
       "summary": "We'll see 32 picks in Round 1, but which prospects have actually earned a first-round grade? There are currently 11 in the 2026 class. Here's the updated list."
+    },
+    {
+      "id": "a7ea4aadc71d76e1",
+      "title": "Is Daniel Jones injury-prone?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121401/why-is-daniel-joness-injury-history-not-more-concerning",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-13T17:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts find themselves back at square one, firmly sitting in their reservation-required carousel car that finds them in the offseason without a starting quarterback. At least, that’s sorta the case. For starters, Daniel Jones is all but set to return to Indianapolis and continue repping the number seventeen Colts jersey [&#8230;]"
     },
     {
       "id": "ed1367f87854e493",
@@ -270,15 +252,6 @@
       "feed": "Stampede Blue",
       "published": "2026-02-11T03:48:03+0000",
       "summary": "According to ESPN’s Aaron Schatz, he projects the Indianapolis Colts to re-sign free agent safety Nick Cross, who just completed his second season with the franchise as a full-time starting safety: Big prediction for the offseason: The Colts will give a big extension to 25-year-old safety Nick Cross. He did well in my coverage DVOA metric and [&#8230;]"
-    },
-    {
-      "id": "39ccdb84bc6b0b7e",
-      "title": "PFF lists Colts’ AFC South rival as free agent WR Alec Pierce’s ‘top landing spot’",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/121407/pff-lists-colts-afc-south-rival-as-free-agent-wr-alec-pierces-top-landing-spot",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-11T03:28:31+0000",
-      "summary": "According to PFF, Indianapolis Colts pending free agent wideout Alec Pierce’s ‘top landing spot’ is actually with the Tennessee Titans of all potential suitors—teaming up with 2025 #1 overall pick Cam Ward in the process: That being said, it would be surprising if Indianapolis ultimately lets Pierce, their breakout leading wideout this past season, walk [&#8230;]"
     },
     {
       "id": "753eeaeaa83fdfd8",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2026-01-16T15:16:57+0000",
       "summary": "INDIANAPOLIS -- After a record-setting rookie season, Indianapolis Colts tight end Tyler Warren is headed to the Pro Bowl. The NFL named Warren to the 2026 Pro Bowl Games as an injury replacement for Las Vegas Raiders tight end Brock Bowers. Warren is the 18th rookie tight end in NFL history selected for the Pro [...]"
+    },
+    {
+      "id": "ffaabbdf9847eb0b",
+      "title": "Colts TE Tyler Warren named to 2026 Pro Bowl",
+      "link": "https://colts.com/news/colts-tight-end-tyler-warren-2026-pro-bowl-rookie-nfl-brock-bowers",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-16T15:00:08+0000",
+      "summary": "Warren will take the place of Las Vegas Raiders tight end Brock Bowers, who is unable to participate due to injury."
+    },
+    {
+      "id": "c36d5618ab631fb2",
+      "title": "Colts Blue Zone Podcast 456: A Critical Offseason for the Colts",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-456-a-critical-offseason-for-the-colts/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-15T21:31:41+0000",
+      "summary": "After a midseason fade that cost them a spot in the playoffs, the Indianapolis Colts face a critical offseason. First thing to consider: pending free agents. Who stays? Who goes? Dave Griffiths, Mike Chappell and Matt Adams offer their thoughts in the latest Blue Zone Podcast."
+    },
+    {
+      "id": "bc18f044206988bb",
+      "title": "Colts Sunday Night 7-on-7 Series",
+      "link": "https://fox59.com/morning-news/colts-sunday-night-7-on-7-series/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-01-15T14:25:16+0000",
+      "summary": "The Indianapolis Colts are bringing back the Sunday Night 7-on-7 Series. Open to high school football players, the three-Sunday event provides a chance for off-season development. It uses an open gym format, which means players can sign up individually. The dates are Feb. 15, Feb. 22 and March 8. Each date has two different available [...]"
     }
   ],
   "links": [
