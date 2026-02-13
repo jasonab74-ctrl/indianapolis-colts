@@ -1,41 +1,14 @@
 {
-  "updated": "2026-02-13T16:06:47+00:00",
+  "updated": "2026-02-13T17:13:31+00:00",
   "items": [
     {
-      "id": "1d7875caccf8e8c8",
-      "title": "‘Charges will be dropped’: Stefon Diggs’ attorney speaks out after Patriots star faces judge",
-      "link": "https://sports.yahoo.com/articles/charges-dropped-stefon-diggs-attorney-153414467.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T15:51:44+0000",
-      "summary": "The NFL veteran is accused of assaulting his personal chef during a dispute over unpaid wages."
-    },
-    {
-      "id": "6ded37e2493c5256",
-      "title": "Who were the Bills' stat leaders during the 2025 NFL season?",
-      "link": "https://sports.yahoo.com/articles/were-bills-stat-leaders-during-154523364.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T15:45:23+0000",
-      "summary": "Here's who led the Bills during the 2025 NFL season, stat wise."
-    },
-    {
-      "id": "ef31d328154a709c",
-      "title": "Every important 2026 NFL offseason date for New York Jets fans to know",
-      "link": "https://sports.yahoo.com/articles/every-important-2026-nfl-offseason-154517632.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-13T15:45:17+0000",
-      "summary": "Keep these dates in mind for the Jets as the 2026 NFL offseason is in full swing."
-    },
-    {
-      "id": "57d47aad37b07c0f",
-      "title": "🏈 Yates' mock draft: All 32 first-round picks",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47840791/2026-nfl-mock-draft-field-yates-first-round-predictions-32-picks",
+      "id": "6906c2065a3511cc",
+      "title": "NFL wins grievance regarding NFLPA report cards",
+      "link": "https://espn.com/nfl/story/_/id/47920248/nfl-wins-grievance-nflpa-regarding-report-cards",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-13T15:42:23+0000",
-      "summary": "Which teams might take a quarterback? Could offensive linemen dominate the first round? Field Yates projects the top 32 picks of the 2026 NFL draft."
+      "published": "2026-02-13T16:56:03+0000",
+      "summary": "The NFL won its grievance against the NFL Players Association, effectively banning the union from conducting and publishing future player report cards."
     },
     {
       "id": "7de49fb95f8d1d0d",
@@ -43,8 +16,17 @@
       "link": "https://espn.com/nfl/story/_/id/47915457/president-trump-pardons-klecko-newton-lewis-henry-cannon",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-13T15:42:22+0000",
+      "published": "2026-02-13T16:56:03+0000",
       "summary": "President Donald Trump has pardoned former NFL players Joe Klecko, Nate Newton, Jamal Lewis, Travis Henry and the late Billy Cannon."
+    },
+    {
+      "id": "57d47aad37b07c0f",
+      "title": "🏈 Yates' mock draft: All 32 first-round picks",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47840791/2026-nfl-mock-draft-field-yates-first-round-predictions-32-picks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-13T16:56:03+0000",
+      "summary": "Which teams might take a quarterback? Could offensive linemen dominate the first round? Field Yates projects the top 32 picks of the 2026 NFL draft."
     },
     {
       "id": "ed1367f87854e493",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-14T15:36:26+0000",
       "summary": "Travis started the final four games of the 2025 season, primarily filling in for Braden Smith at right tackle – a position Travis hadn't played since his sophomore year of college."
+    },
+    {
+      "id": "a4bc631f459d8cbd",
+      "title": "Colts sign LB Devin Veresuk to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-lb-devin-veresuk-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-13T15:53:10+0000",
+      "summary": "The Colts made the roster move on Tuesday."
+    },
+    {
+      "id": "1ad7283b04729168",
+      "title": "2025 Colts Rookie Review: Tyler Warren shows off his versatility and availability",
+      "link": "https://colts.com/news/2025-colts-rookie-review-tyler-warren-tight-end-offense-versatility-growth",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-12T18:18:14+0000",
+      "summary": "Warren finished his rookie season with a franchise-record 817 receiving yards and five total touchdowns."
     }
   ],
   "links": [
