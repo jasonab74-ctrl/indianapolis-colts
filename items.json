@@ -1,24 +1,6 @@
 {
-  "updated": "2026-02-14T07:09:16+00:00",
+  "updated": "2026-02-14T07:53:40+00:00",
   "items": [
-    {
-      "id": "0de8ddddfc78fb56",
-      "title": "Seahawks’ star Jaxon Smith-Njigba reveals simple goal for 2026 NFL season",
-      "link": "https://sports.yahoo.com/articles/seahawks-star-jaxon-smith-njigba-060341507.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-14T06:03:41+0000",
-      "summary": "Jaxon Smith-Njigba revealed his major goal for the 2026 NFL season as the Seahawks star receiver celebrates his Super Bowl 60 title."
-    },
-    {
-      "id": "b7ffd4e688063f8e",
-      "title": "3 sneaky good NFL free agents Eagles must sign in 2026 offseason",
-      "link": "https://sports.yahoo.com/articles/3-sneaky-good-nfl-free-055745696.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-14T05:57:45+0000",
-      "summary": "With free agency rapidly approaching, here are three sneaky good free agents the Eagles should add to their team."
-    },
     {
       "id": "0f544ff415611a09",
       "title": "PFF names Colts as ‘top landing spot’ for premier free agent pass rusher",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-14T15:36:26+0000",
       "summary": "Travis started the final four games of the 2025 season, primarily filling in for Braden Smith at right tackle – a position Travis hadn't played since his sophomore year of college."
+    },
+    {
+      "id": "a4bc631f459d8cbd",
+      "title": "Colts sign LB Devin Veresuk to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-lb-devin-veresuk-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-13T15:53:10+0000",
+      "summary": "The Colts made the roster move on Tuesday."
+    },
+    {
+      "id": "1ad7283b04729168",
+      "title": "2025 Colts Rookie Review: Tyler Warren shows off his versatility and availability",
+      "link": "https://colts.com/news/2025-colts-rookie-review-tyler-warren-tight-end-offense-versatility-growth",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-12T18:18:14+0000",
+      "summary": "Warren finished his rookie season with a franchise-record 817 receiving yards and five total touchdowns."
     }
   ],
   "links": [
