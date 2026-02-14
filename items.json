@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-14T20:50:32+00:00",
+  "updated": "2026-02-14T21:23:03+00:00",
   "items": [
+    {
+      "id": "a744ba385741f0bb",
+      "title": "President Trump pardons several former NFL stars",
+      "link": "https://sports.yahoo.com/articles/president-trump-pardons-several-former-211019158.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-14T21:10:19+0000",
+      "summary": "Donald Trump pardoned several former NFL players of their crimes recently."
+    },
     {
       "id": "f8dafbafe5b71e6d",
       "title": "NFL draft prospects with a true Round 1 grade: 11 players who are clear first-rounders",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-12T18:18:14+0000",
       "summary": "Warren finished his rookie season with a franchise-record 817 receiving yards and five total touchdowns."
-    },
-    {
-      "id": "195c7d97e9c8a3b1",
-      "title": "Colts G Quenton Nelson named Second-Team All-Pro",
-      "link": "https://colts.com/news/colts-guard-quenton-nelson-named-second-team-all-pro-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-10T14:00:19+0000",
-      "summary": "Nelson was named an All-Pro for the sixth time in his career."
     }
   ],
   "links": [
