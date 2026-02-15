@@ -1,22 +1,13 @@
 {
-  "updated": "2026-02-15T17:31:54+00:00",
+  "updated": "2026-02-15T18:35:10+00:00",
   "items": [
-    {
-      "id": "1b0f1abab2797edd",
-      "title": "Eagles News: One study claims Jalen Hurts is the NFL’s most hated player",
-      "link": "https://sports.yahoo.com/articles/eagles-news-one-study-claims-171236936.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-15T17:12:36+0000",
-      "summary": "Philadelphia Eagles news and links for 2/15/26."
-    },
     {
       "id": "6906c2065a3511cc",
       "title": "NFL wins grievance regarding NFLPA report cards",
       "link": "https://espn.com/nfl/story/_/id/47920248/nfl-wins-grievance-nflpa-regarding-report-cards",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-15T17:00:21+0000",
+      "published": "2026-02-15T18:19:53+0000",
       "summary": "The NFL won its grievance against the NFL Players Association, effectively banning the union from conducting and publishing future player report cards."
     },
     {
@@ -25,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/47921124/ruling-says-brian-flores-lawsuit-vs-nfl-teams-go-court",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-15T17:00:21+0000",
+      "published": "2026-02-15T18:19:53+0000",
       "summary": "A U.S. district court ruled that Vikings defensive coordinator Brian Flores' ongoing discrimination case against the NFL can proceed in open court."
     },
     {
@@ -34,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/47921239/bills-coach-joe-brady-adds-john-fox-staff-senior-assistant",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-15T17:00:21+0000",
+      "published": "2026-02-15T18:19:53+0000",
       "summary": "New Bills coach Joe Brady has added NFL head coaching experience to his staff, hiring John Fox as a senior assistant coach. The Bills announced Fox and more of the team's coaching staff, which now includes 20 assistants, on Friday."
     },
     {
@@ -43,8 +34,17 @@
       "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-15T17:00:21+0000",
+      "published": "2026-02-15T18:19:53+0000",
       "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
+    },
+    {
+      "id": "926fc3070a95401f",
+      "title": "Position Mastery: Wide Receivers",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121509/position-mastery-wide-receivers",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-15T13:00:00+0000",
+      "summary": "With the draft approaching, this series has been about stripping away hype and getting back to what actually translates on Sundays. Quarterback and running back evaluations get most of the attention, but wide receiver is the position where casual scouting often falls apart the fastest. Too many prospects get labeled as “NFL-ready” because they’re fast, [&#8230;]"
     },
     {
       "id": "88226c76fc0733c1",
@@ -72,6 +72,42 @@
       "feed": "ESPN",
       "published": "2026-02-15T00:10:54+0000",
       "summary": "We'll see 32 picks in Round 1, but which prospects have actually earned a first-round grade? There are currently 11 in the 2026 class. Here's the updated list."
+    },
+    {
+      "id": "86bc99da2c602cd1",
+      "title": "Will Adam Vinatieri be remembered more for the Patriots or Colts?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121476/will-adam-vinatieri-be-remembered-more-for-the-patriots-or-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-14T14:27:38+0000",
+      "summary": "Adam Vinatieri is headed to the NFL Hall of Fame, and rightfully so. He is arguably, although it’s an easy argument to win, the best kicker to have ever played the game. He played 24 seasons, which is pretty much unheard of unless you are a kicker, and smashed record books. He played 10 years [&#8230;]"
+    },
+    {
+      "id": "ee710f646dd427f0",
+      "title": "CBS Sports lists Colts as suitor for unretiring? QB Derek Carr",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/121500/cbs-sports-lists-colts-as-suitor-for-unretiring-qb-derek-carr",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-14T12:00:00+0000",
+      "summary": "According to CBS Sports John Breech, the Indianapolis Colts are named one of the free agent suitors for potentially unretiring veteran quarterback Derek Carr, who would serve as experienced insurance for presumed re-signed starting quarterback Daniel Jones to start the 2026 campaign: 3. Colts or Chiefs We&#8217;re lumping these two teams together for one big [&#8230;]"
+    },
+    {
+      "id": "0f544ff415611a09",
+      "title": "PFF names Colts as ‘top landing spot’ for premier free agent pass rusher",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/121495/pff-names-colts-as-top-landing-spot-for-premier-free-agent-pass-rusher",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-14T03:50:39+0000",
+      "summary": "According to PFF, the Indianapolis Colts are the ‘top landing spot’ for Cincinnati Bengals premier free agent pass rusher Trey Hendrickson: One doesn’t have to look too hard to see Hendrickson’s connection with members of the Colts defensive coaching staff, as both current Indianapolis veteran defensive coordinator Lou Anarumo and new defensive line coach Marion [&#8230;]"
+    },
+    {
+      "id": "a7ea4aadc71d76e1",
+      "title": "Is Daniel Jones injury-prone?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121401/why-is-daniel-joness-injury-history-not-more-concerning",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-13T17:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts find themselves back at square one, firmly sitting in their reservation-required carousel car that finds them in the offseason without a starting quarterback. At least, that’s sorta the case. For starters, Daniel Jones is all but set to return to Indianapolis and continue repping the number seventeen Colts jersey [&#8230;]"
     },
     {
       "id": "ed1367f87854e493",
@@ -173,15 +209,6 @@
       "summary": "Don’t look now, but Indianapolis Colts pending free agent starting quarterback Daniel Jones was actually ranked just higher at 12th than Kansas City Chiefs’ 3x Super Bowl MVP and 2x NFL MVP Patrick Mahomes (13th) at their position last season. 12. Daniel Jones Indianapolis Colts&#160;·&#160;Year 7 2025 stats:&#160;13 games &#124; 68.0 pct &#124; 3101 pass [&#8230;]"
     },
     {
-      "id": "ffa0c21719fd37c4",
-      "title": "ESPN NFL Analyst predicts Colts will make sizable free agency splash",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/121443/espn-nfl-analyst-predicts-colts-will-make-sizable-free-agency-splash",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-11T19:13:28+0000",
-      "summary": "According to ESPN NFL analyst Matt Bowen, the Indianapolis Colts will make a sizable free agency splash, signing Cincinnati Bengals former All-Pro free agent defensive end Trey Hendrickson to boost a stalling edge rush: Make one more big prediction about this offseason or next season. Bowen: Trey Hendrickson will sign with the Colts. General Manager Chris Ballard [&#8230;]"
-    },
-    {
       "id": "4ccfb1ad835cc434",
       "title": "Heavy Hoosier presence in upcoming NFL Scouting Combine",
       "link": "https://fox59.com/sports/heavy-hoosier-presence-in-upcoming-nfl-scouting-combine/",
@@ -191,15 +218,6 @@
       "summary": "INDIANAPOLIS – The afterglow of Indiana’s undefeated national championship includes a heavy presence at the upcoming NFL Scouting Combine. A school-record nine Hoosiers have been invited to the NFL’s preeminent player evaluation, which converges on Lucas Oil Stadium Feb. 25. Atop the list is Heisman Trophy-winning quarterback Fernando Mendoza, the presumptive favorite to be selected [...]"
     },
     {
-      "id": "ca66186563fa2627",
-      "title": "PFF believes Colts Braden Smith’s ‘top landing spot’ is being back in Indianapolis",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/121423/pff-believes-colts-braden-smiths-top-landing-spot-is-being-back-in-indianapolis",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-11T15:23:43+0000",
-      "summary": "According to PFF, Indianapolis Colts veteran starting right tackle Braden Smith’s ‘top landing spot’ is being back with the only NFL franchise he’s ever played for: The 29-year-old veteran right bookend made 13 starts for the Colts this past season before being placed on injured reserve with a concussion and neck injury following Week 14. [&#8230;]"
-    },
-    {
       "id": "755c25e5d85bc583",
       "title": "Colts accepting resumes for both Tony Dungy and Harriet P. Irsay Fellowship Programs",
       "link": "https://colts.com/news/tony-dungy-and-harriet-p-irsay-fellowship-programs-applications-open-2026",
@@ -207,33 +225,6 @@
       "feed": "Colts.com",
       "published": "2026-02-11T15:00:46+0000",
       "summary": "Qualified candidates for both positions will be evaluated and interviewed by a selection committee composed of the Irsay family, General Manager Chris Ballard, Head Coach Shane Steichen and other members of the Colts coaching staff and football operations team."
-    },
-    {
-      "id": "5d2664c8ff70b84f",
-      "title": "Colts’ Richardson can look to the Super Bowl for inspiration",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121415/colts-richardson-can-look-to-the-super-bowl-for-inspiration",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-11T14:11:00+0000",
-      "summary": "Anthony Richardson was the man the Indianapolis Colts tabbed to be their franchise quarterback. He was the third quarterback off the board and was tasked with being the long sought after answer at the game’s most important position for a franchise that had uncharacteristically been unable to fill it with competency. We all know the [&#8230;]"
-    },
-    {
-      "id": "91155f0851c8e971",
-      "title": "ESPN projects Colts to re-sign emerging free agent safety",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/121411/espn-projects-colts-to-re-sign-emerging-free-agent-safety",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-11T03:48:03+0000",
-      "summary": "According to ESPN’s Aaron Schatz, he projects the Indianapolis Colts to re-sign free agent safety Nick Cross, who just completed his second season with the franchise as a full-time starting safety: Big prediction for the offseason: The Colts will give a big extension to 25-year-old safety Nick Cross. He did well in my coverage DVOA metric and [&#8230;]"
-    },
-    {
-      "id": "39ccdb84bc6b0b7e",
-      "title": "PFF lists Colts’ AFC South rival as free agent WR Alec Pierce’s ‘top landing spot’",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/121407/pff-lists-colts-afc-south-rival-as-free-agent-wr-alec-pierces-top-landing-spot",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-11T03:28:31+0000",
-      "summary": "According to PFF, Indianapolis Colts pending free agent wideout Alec Pierce’s ‘top landing spot’ is actually with the Tennessee Titans of all potential suitors—teaming up with 2025 #1 overall pick Cam Ward in the process: That being said, it would be surprising if Indianapolis ultimately lets Pierce, their breakout leading wideout this past season, walk [&#8230;]"
     },
     {
       "id": "753eeaeaa83fdfd8",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-08T21:20:57+0000",
       "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
+    },
+    {
+      "id": "dcdb9729c2697202",
+      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
+      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T20:10:30+0000",
+      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
     }
   ],
   "links": [
