@@ -1,14 +1,59 @@
 {
-  "updated": "2026-02-14T23:47:40+00:00",
+  "updated": "2026-02-15T02:08:49+00:00",
   "items": [
+    {
+      "id": "0bf12f98b193d2bf",
+      "title": "Titans fans react to leaked new logo and the reactions are brutal",
+      "link": "https://sports.yahoo.com/articles/titans-fans-react-leaked-logo-012553079.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-15T01:25:53+0000",
+      "summary": "Titans fans are roasting a leaked new logo after a Fanatics listing briefly revealed what appears to be Tennessee's 2026 rebrand. Social media reaction has been brutal, with some already calling it the worst logo in the NFL."
+    },
+    {
+      "id": "88226c76fc0733c1",
+      "title": "The truth behind the Super Bowl consolation prize",
+      "link": "https://espn.com/nfl/story/_/id/47869757/super-bowl-runner-conference-championship-rings-patrick-mahomes-buffalo-bills-new-engalnd-patriots",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-15T00:13:10+0000",
+      "summary": "Some conference championship rings fetch big bucks. Others wind up collecting dust on a closet shelf. Players share mixed opinions on the NFL's sparkly consolation prize."
+    },
+    {
+      "id": "e8a65e8a18ac7e09",
+      "title": "Three past NFL MVP QBs weigh in on Lamar Jackson's tumultuous season",
+      "link": "https://espn.com/nfl/story/_/id/47888553/why-baltimore-ravens-lamar-jackson-2025-former-nfl-mvp-weigh-in",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-15T00:12:13+0000",
+      "summary": "Three past NFL MVP QBs -- Rich Gannon, Matt Ryan and Kurt Warner -- weighed in on the issues that impacted Jackson's tumultuous season."
+    },
+    {
+      "id": "f8dafbafe5b71e6d",
+      "title": "NFL draft prospects with a true Round 1 grade: 11 players who are clear first-rounders",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-15T00:10:54+0000",
+      "summary": "We'll see 32 picks in Round 1, but which prospects have actually earned a first-round grade? There are currently 11 in the 2026 class. Here's the updated list."
+    },
     {
       "id": "6906c2065a3511cc",
       "title": "NFL wins grievance regarding NFLPA report cards",
       "link": "https://espn.com/nfl/story/_/id/47920248/nfl-wins-grievance-nflpa-regarding-report-cards",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-14T21:40:56+0000",
+      "published": "2026-02-15T00:10:36+0000",
       "summary": "The NFL won its grievance against the NFL Players Association, effectively banning the union from conducting and publishing future player report cards."
+    },
+    {
+      "id": "e3c407fe916fac2c",
+      "title": "Ruling says Flores lawsuit vs. NFL can go to court",
+      "link": "https://espn.com/nfl/story/_/id/47921124/ruling-says-brian-flores-lawsuit-vs-nfl-teams-go-court",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-15T00:10:36+0000",
+      "summary": "A U.S. district court ruled that Vikings defensive coordinator Brian Flores' ongoing discrimination case against the NFL can proceed in open court."
     },
     {
       "id": "f9065eb58ef79d18",
@@ -16,7 +61,7 @@
       "link": "https://espn.com/nfl/story/_/id/47921239/bills-coach-joe-brady-adds-john-fox-staff-senior-assistant",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-14T21:40:56+0000",
+      "published": "2026-02-15T00:10:36+0000",
       "summary": "New Bills coach Joe Brady has added NFL head coaching experience to his staff, hiring John Fox as a senior assistant coach. The Bills announced Fox and more of the team's coaching staff, which now includes 20 assistants, on Friday."
     },
     {
@@ -25,26 +70,8 @@
       "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-14T21:40:56+0000",
+      "published": "2026-02-15T00:10:36+0000",
       "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
-    },
-    {
-      "id": "e3c407fe916fac2c",
-      "title": "Ruling says Flores lawsuit vs. NFL can go to court",
-      "link": "https://espn.com/nfl/story/_/id/47921124/ruling-says-brian-flores-lawsuit-vs-nfl-teams-go-court",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-14T21:40:55+0000",
-      "summary": "A U.S. district court ruled that Vikings defensive coordinator Brian Flores' ongoing discrimination case against the NFL can proceed in open court."
-    },
-    {
-      "id": "f8dafbafe5b71e6d",
-      "title": "NFL draft prospects with a true Round 1 grade: 11 players who are clear first-rounders",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-14T18:33:23+0000",
-      "summary": "We'll see 32 picks in Round 1, but which prospects have actually earned a first-round grade? There are currently 11 in the 2026 class. Here's the updated list."
     },
     {
       "id": "86bc99da2c602cd1",
@@ -128,15 +155,6 @@
       "summary": "Whether through engaging fans, empowering young athletes or supporting local organizations, the Colts made a difference off the field in many ways in 2025."
     },
     {
-      "id": "e8a65e8a18ac7e09",
-      "title": "Three past NFL MVP QBs weigh in on Lamar Jackson's tumultuous season",
-      "link": "https://espn.com/nfl/story/_/id/47888553/why-baltimore-ravens-lamar-jackson-2025-former-nfl-mvp-weigh-in",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-12T18:16:13+0000",
-      "summary": "Three past NFL MVP QBs -- Rich Gannon, Matt Ryan and Kurt Warner -- weighed in on the issues that impacted Jackson's tumultuous season."
-    },
-    {
       "id": "61366698343bb8c5",
       "title": "Report: Colts to hire Arkansas’ Marion Hobby as new defensive line coach",
       "link": "https://stampedeblue.com/indianapolis-colts-news/121470/report-colts-to-hire-arkansas-marion-hobby-as-new-defensive-line-coach",
@@ -207,15 +225,6 @@
       "feed": "CBS4Indy",
       "published": "2026-02-11T18:45:45+0000",
       "summary": "INDIANAPOLIS – The afterglow of Indiana’s undefeated national championship includes a heavy presence at the upcoming NFL Scouting Combine. A school-record nine Hoosiers have been invited to the NFL’s preeminent player evaluation, which converges on Lucas Oil Stadium Feb. 25. Atop the list is Heisman Trophy-winning quarterback Fernando Mendoza, the presumptive favorite to be selected [...]"
-    },
-    {
-      "id": "88226c76fc0733c1",
-      "title": "The truth behind the Super Bowl consolation prize",
-      "link": "https://espn.com/nfl/story/_/id/47869757/super-bowl-runner-conference-championship-rings-patrick-mahomes-buffalo-bills-new-engalnd-patriots",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-11T16:46:01+0000",
-      "summary": "Some conference championship rings fetch big bucks. Others wind up collecting dust on a closet shelf. Players share mixed opinions on the NFL's sparkly consolation prize."
     },
     {
       "id": "755c25e5d85bc583",
@@ -443,24 +452,6 @@
       "summary": "INDIANAPOLIS – The latest season of change across the NFL landscape could include the Indianapolis Colts’ offense. The Philadelphia Eagles have requested permission to talk with Colts’ offensive coordinator Jim Bob Cooter, according to NFL Network. The Eagles created an opening at the coordinator position last week when they relieved Kevin Petullo of those duties [...]"
     },
     {
-      "id": "fc9b425195805230",
-      "title": "Daniel Jones, Alec Pierce priorities in Colts’ free-agent group",
-      "link": "https://fox59.com/sports/colts/daniel-jones-alec-pierce-priorities-in-colts-free-agent-group/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-16T20:05:23+0000",
-      "summary": "INDIANAPOLIS – The question isn’t ‘if’ the Indianapolis Colts will re-sign Daniel Jones and Alec Pierce. The overarching issue: How much will it take? As Chris Ballard looked back at his team’s latest season of unfulfilled expectations last week, he also looked ahead to what must be done moving forward. As is the case in [...]"
-    },
-    {
-      "id": "f78b4de04572d4ec",
-      "title": "Colts moving training camp to West 56th in 2027",
-      "link": "https://fox59.com/sports/colts/colts-moving-training-camp-to-west-56th-in-2027/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-16T18:31:07+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts are moving again. Training camp, that is. The team announced Friday that it’s moving its summer training camp beginning in 2027 to its Indiana Farm Bureau Football Center on West 56th Street. The Colts’ final summer at Grand Park Sports Campus will be this July-August. For the past four-plus decades, the [...]"
-    },
-    {
       "id": "e195ca38d38a841a",
       "title": "Colts to host 2027 Training Camp at Indiana Farm Bureau Football Center",
       "link": "https://colts.com/news/colts-to-host-2027-training-camp-at-indiana-farm-bureau-football-center",
@@ -477,15 +468,6 @@
       "feed": "Colts.com",
       "published": "2026-01-16T17:06:57+0000",
       "summary": "Diaz is in her third season with the Colts as a Harriet P. Irsay Fellow, and is one of 11 women with full-time NFL coaching jobs."
-    },
-    {
-      "id": "b42c26671505e695",
-      "title": "Colts rookie TE Tyler Warren added to Pro Bowl",
-      "link": "https://fox59.com/sports/colts/colts-rookie-te-tyler-warren-added-to-pro-bowl/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-16T15:16:57+0000",
-      "summary": "INDIANAPOLIS -- After a record-setting rookie season, Indianapolis Colts tight end Tyler Warren is headed to the Pro Bowl. The NFL named Warren to the 2026 Pro Bowl Games as an injury replacement for Las Vegas Raiders tight end Brock Bowers. Warren is the 18th rookie tight end in NFL history selected for the Pro [...]"
     },
     {
       "id": "ffaabbdf9847eb0b",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-09T21:30:06+0000",
       "summary": "Gardner was named a first-team All-Pro and Nelson was named to the second team."
+    },
+    {
+      "id": "9f0ed514dcb82d6c",
+      "title": "Colts RB Jonathan Taylor nominated for FedEx Ground Player of the Year",
+      "link": "https://colts.com/news/colts-rb-jonathan-taylor-nominated-for-fedex-ground-player-of-the-year-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-09T20:00:05+0000",
+      "summary": "Taylor led the NFL in total touchdowns (20) and rushing touchdowns (18) in 2025."
+    },
+    {
+      "id": "c7b50b44af86f21d",
+      "title": "Former Colts running back Randy McMillan dies",
+      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T21:20:57+0000",
+      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
     }
   ],
   "links": [
