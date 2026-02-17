@@ -1,33 +1,6 @@
 {
-  "updated": "2026-02-17T17:34:03+00:00",
+  "updated": "2026-02-17T18:56:41+00:00",
   "items": [
-    {
-      "id": "e1f08ce389df4d96",
-      "title": "2026 NFL Draft aligns with Buffalo Bills’ needs in pivotal offseason",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-aligns-buffalo-172501644.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T17:25:01+0000",
-      "summary": "The Buffalo Bills could be set for a plethora of options meeting need in the 2026 Draft"
-    },
-    {
-      "id": "e5e3ac99424714a9",
-      "title": "NFL franchise tag window opens: What are the costs at each position?",
-      "link": "https://sports.yahoo.com/articles/nfl-franchise-tag-window-opens-171317159.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T17:13:17+0000",
-      "summary": "The franchise tag and transition tag window is open for NFL teams. What is the projected tag price at each position?"
-    },
-    {
-      "id": "bddce03f8dc0e173",
-      "title": "NFL Free Agency: 4 targets Ravens could sign to replace Tyler Huntley",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-4-targets-171313722.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T17:13:13+0000",
-      "summary": "Here are some potential targets if the Ravens move off Tyler Huntley and explore free agency to find a replacement."
-    },
     {
       "id": "715468fe3cbea423",
       "title": "Will the Colts use the franchise tag?",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-08T21:20:57+0000",
       "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
+    },
+    {
+      "id": "dcdb9729c2697202",
+      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
+      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T20:10:30+0000",
+      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
+    },
+    {
+      "id": "2ab28dd3d4dfcd59",
+      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T19:16:17+0000",
+      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
+    },
+    {
+      "id": "a9c1a44d1c017233",
+      "title": "Colts sign CB Robert Carter Jr. to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-cb-robert-carter-jr-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:52:26+0000",
+      "summary": "The Colts made the roster move on Thursday."
     }
   ],
   "links": [
