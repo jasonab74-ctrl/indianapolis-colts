@@ -1,31 +1,13 @@
 {
-  "updated": "2026-02-16T23:36:54+00:00",
+  "updated": "2026-02-17T02:02:10+00:00",
   "items": [
-    {
-      "id": "33240a28d0996014",
-      "title": "Jalen Hurts is the most disliked player in the NFL, per report",
-      "link": "https://sports.yahoo.com/articles/jalen-hurts-most-disliked-player-230831259.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-16T23:08:31+0000",
-      "summary": "Jalen Hurts draws the most criticism league-wide, and he ranks No. 1 on the hate list."
-    },
-    {
-      "id": "5084af18e18b3b45",
-      "title": "🔮 Experts predict the 2026 NFL season",
-      "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-16T20:14:19+0000",
-      "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
-    },
     {
       "id": "ce862f6f66266aac",
       "title": "Johnson, ex-Pro Bowl Washington OL, dies at 54",
       "link": "https://espn.com/nfl/story/_/id/47944143/tre-johnson-former-washington-o-lineman-dies-54",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-16T20:14:18+0000",
+      "published": "2026-02-17T00:37:18+0000",
       "summary": "Tre' Johnson, the former standout NFL offensive lineman with Washington who went on to become a Maryland high school history teacher, died Sunday. He was 54."
     },
     {
@@ -34,8 +16,17 @@
       "link": "https://espn.com/nfl/story/_/id/47921124/ruling-says-brian-flores-lawsuit-vs-nfl-teams-go-court",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-16T20:14:18+0000",
+      "published": "2026-02-17T00:37:18+0000",
       "summary": "A U.S. district court ruled that Vikings defensive coordinator Brian Flores' ongoing discrimination case against the NFL can proceed in open court."
+    },
+    {
+      "id": "5084af18e18b3b45",
+      "title": "🔮 Experts predict the 2026 NFL season",
+      "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-17T00:37:18+0000",
+      "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
     },
     {
       "id": "5b6c26c76c1ef104",
@@ -43,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/47937538/2026-nfl-offseason-trade-proposals-offers-fits-deals-free-agency-barnwell",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-16T15:10:55+0000",
+      "published": "2026-02-17T00:37:15+0000",
       "summary": "DJ Moore and A.J. Brown to the AFC West? Kyler Murray in a new offense? Rams going all-in again? And a new WR1 for the Bills? Let's build 11 win-win deals."
     },
     {
@@ -52,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/47908741/2026-nfl-franchise-tag-candidates-kyle-pitts-sr-george-pickens-breece-hall",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-16T15:10:55+0000",
+      "published": "2026-02-17T00:37:15+0000",
       "summary": "Who could get the franchise tag when the window opens Tuesday?"
     },
     {
@@ -72,15 +63,6 @@
       "feed": "Stampede Blue",
       "published": "2026-02-15T13:00:00+0000",
       "summary": "With the draft approaching, this series has been about stripping away hype and getting back to what actually translates on Sundays. Quarterback and running back evaluations get most of the attention, but wide receiver is the position where casual scouting often falls apart the fastest. Too many prospects get labeled as “NFL-ready” because they’re fast, [&#8230;]"
-    },
-    {
-      "id": "88226c76fc0733c1",
-      "title": "The truth behind the Super Bowl consolation prize",
-      "link": "https://espn.com/nfl/story/_/id/47869757/super-bowl-runner-conference-championship-rings-patrick-mahomes-buffalo-bills-new-engalnd-patriots",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-15T00:13:10+0000",
-      "summary": "Some conference championship rings fetch big bucks. Others wind up collecting dust on a closet shelf. Players share mixed opinions on the NFL's sparkly consolation prize."
     },
     {
       "id": "f8dafbafe5b71e6d",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-08T19:16:17+0000",
       "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
+    },
+    {
+      "id": "a9c1a44d1c017233",
+      "title": "Colts sign CB Robert Carter Jr. to reserve/future contract",
+      "link": "https://colts.com/news/colts-sign-cb-robert-carter-jr-to-reserve-future-contract",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:52:26+0000",
+      "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "ca4261341d0b1b48",
+      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
+      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:45:48+0000",
+      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
     }
   ],
   "links": [
