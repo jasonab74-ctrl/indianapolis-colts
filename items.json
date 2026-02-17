@@ -1,13 +1,58 @@
 {
-  "updated": "2026-02-17T22:30:05+00:00",
+  "updated": "2026-02-17T22:59:24+00:00",
   "items": [
+    {
+      "id": "a94664b01db768fb",
+      "title": "Veteran WR Robert Woods announces retirement after 13 NFL seasons",
+      "link": "https://sports.yahoo.com/nfl/article/veteran-wr-robert-woods-announces-retirement-after-13-nfl-seasons-225550074.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-17T22:55:50+0000",
+      "summary": "Woods won a Super Bowl ring with the Los Angeles Rams in 2022, but missed the playoffs that season with a torn ACL."
+    },
+    {
+      "id": "d119a6b6c6faf698",
+      "title": "PFF: Top 10 highest-graded Texans players during 2025 NFL season",
+      "link": "https://sports.yahoo.com/articles/pff-top-10-highest-graded-224446950.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-17T22:44:46+0000",
+      "summary": "Looking back, the Houston Texans' season went better than expected and Pro Football Foucs would tend to agree."
+    },
+    {
+      "id": "ba50c6f8660dc9cd",
+      "title": "Bills linked to fearless WR in latest mock draft to fix Josh Allen’s offense",
+      "link": "https://sports.yahoo.com/articles/bills-linked-fearless-wr-latest-224356193.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-17T22:43:56+0000",
+      "summary": "The Buffalo Bills are heading into the 2026 NFL Draft with a glaring issue that won’t go away. Josh Allen still does not have a true No. 1 receiver, and the problem has stuck around since Stefon Diggs left town.…"
+    },
+    {
+      "id": "829eb945972dc3d4",
+      "title": "Former Packers CEO Mark Murphy to be inducted into Wisconsin Athletics Hall of Fame",
+      "link": "https://sports.yahoo.com/articles/former-packers-ceo-mark-murphy-224224809.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-17T22:42:24+0000",
+      "summary": "Murphy’s 17-year tenure included a Super Bowl win, the Titletown District, and bringing the 2025 NFL Draft to Green Bay."
+    },
+    {
+      "id": "d421935c86b8e043",
+      "title": "2026 NFL Mock Draft Version 1: Viva Mendoza",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-version-223700978.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-17T22:37:00+0000",
+      "summary": "Andrew Caley's first mock draft for the 2026 NFL Draft set to go on Thursday, April 23, has predictions for all 32 teams."
+    },
     {
       "id": "ce862f6f66266aac",
       "title": "Johnson, ex-Pro Bowl Washington OL, dies at 54",
       "link": "https://espn.com/nfl/story/_/id/47944143/tre-johnson-former-washington-o-lineman-dies-54",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-17T20:17:31+0000",
+      "published": "2026-02-17T22:29:33+0000",
       "summary": "Tre' Johnson, the former standout NFL offensive lineman with Washington who went on to become a Maryland high school history teacher, died Sunday. He was 54."
     },
     {
@@ -16,7 +61,7 @@
       "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-17T20:17:31+0000",
+      "published": "2026-02-17T22:29:33+0000",
       "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
     },
     {
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-10T14:00:19+0000",
       "summary": "Nelson was named an All-Pro for the sixth time in his career."
-    },
-    {
-      "id": "51b77cb3de6f4178",
-      "title": "Colts CB Sauce Gardner, G Quenton Nelson named PFF All-Pros",
-      "link": "https://colts.com/news/colts-cornerback-sauce-gardner-guard-quenton-nelson-named-pro-football-focus-all-pros-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-09T21:30:06+0000",
-      "summary": "Gardner was named a first-team All-Pro and Nelson was named to the second team."
-    },
-    {
-      "id": "9f0ed514dcb82d6c",
-      "title": "Colts RB Jonathan Taylor nominated for FedEx Ground Player of the Year",
-      "link": "https://colts.com/news/colts-rb-jonathan-taylor-nominated-for-fedex-ground-player-of-the-year-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-09T20:00:05+0000",
-      "summary": "Taylor led the NFL in total touchdowns (20) and rushing touchdowns (18) in 2025."
-    },
-    {
-      "id": "c7b50b44af86f21d",
-      "title": "Former Colts running back Randy McMillan dies",
-      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T21:20:57+0000",
-      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
-    },
-    {
-      "id": "dcdb9729c2697202",
-      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
-      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T20:10:30+0000",
-      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
-    },
-    {
-      "id": "2ab28dd3d4dfcd59",
-      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
-      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T19:16:17+0000",
-      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
     }
   ],
   "links": [
