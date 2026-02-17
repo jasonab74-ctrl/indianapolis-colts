@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-17T14:27:24+00:00",
+  "updated": "2026-02-17T15:25:47+00:00",
   "items": [
+    {
+      "id": "7a9e39d67783250b",
+      "title": "New York Giants' Jameis Winston wants to play another 12 years",
+      "link": "https://sports.yahoo.com/articles/york-giants-jameis-winston-wants-150112154.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-17T15:01:12+0000",
+      "summary": "New York Giants QB Jameis Winston wants to play another 12 NFL seasons."
+    },
     {
       "id": "ae132d9eac14c75b",
       "title": "Ideal fits for the NFL's 50 best free agents: New teams for Alec Pierce, Malik Willis, Riq Woolen",
@@ -9,42 +18,6 @@
       "feed": "ESPN",
       "published": "2026-02-17T14:13:31+0000",
       "summary": "Which team makes the most sense for Alec Pierce? Where do Malik Willis and the QBs fit best? And where could defensive standouts excel?"
-    },
-    {
-      "id": "543c00cb84e503a8",
-      "title": "Who did the Minnesota Vikings land in PFF's 3-round NFL mock draft?",
-      "link": "https://sports.yahoo.com/articles/did-minnesota-vikings-land-pffs-141204654.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T14:12:04+0000",
-      "summary": "The Vikings load up on defense in PFF's latest mock draft."
-    },
-    {
-      "id": "a09503b22401e10d",
-      "title": "5 Tyreek Hill landing spots in NFL free agency after Dolphins release",
-      "link": "https://sports.yahoo.com/articles/5-tyreek-hill-landing-spots-140631443.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T14:06:31+0000",
-      "summary": "These teams could be interested in Tyreek Hill."
-    },
-    {
-      "id": "7e03514e7a5baac3",
-      "title": "Chris Jones Eyes Tyreek Hill for Chiefs Reunion After Dolphins Release",
-      "link": "https://sports.yahoo.com/articles/chris-jones-eyes-tyreek-hill-140407479.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T14:04:07+0000",
-      "summary": "The NFL offseason is heating up, and one of the biggest storylines revolves around Tyreek Hill‘s future. The Miami Dolphins have parted ways with the star wide receiver, and now he’s entering free agency. As fans wonder which team will land the speedy star next, Chris Jones is already making a strong pitch, tweeting in […] The post Chris Jones Eyes Tyreek Hill for Chiefs Reunion After Dolphins Release appeared first on Mandatory."
-    },
-    {
-      "id": "87470a4dc6123754",
-      "title": "NFL Superstar Reportedly Makes Grand Gesture In Romance With Olympian Chloe Kim",
-      "link": "https://sports.yahoo.com/articles/nfl-superstar-reportedly-makes-grand-140221642.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-17T14:02:21+0000",
-      "summary": "Turns out he gave the snowboard icon way more than lovely thoughts after Valentine's Day."
     },
     {
       "id": "bf52a3cb0b6c7f4d",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-09T20:00:05+0000",
       "summary": "Taylor led the NFL in total touchdowns (20) and rushing touchdowns (18) in 2025."
+    },
+    {
+      "id": "c7b50b44af86f21d",
+      "title": "Former Colts running back Randy McMillan dies",
+      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T21:20:57+0000",
+      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
+    },
+    {
+      "id": "dcdb9729c2697202",
+      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
+      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T20:10:30+0000",
+      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
+    },
+    {
+      "id": "2ab28dd3d4dfcd59",
+      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T19:16:17+0000",
+      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
     }
   ],
   "links": [
