@@ -1,23 +1,41 @@
 {
-  "updated": "2026-02-18T15:12:29+00:00",
+  "updated": "2026-02-18T16:31:29+00:00",
   "items": [
     {
-      "id": "e5e05d497942e0f8",
-      "title": "NY Giants 2026 NFL Draft scouting report: Omar Cooper Jr., WR, Indiana",
-      "link": "https://sports.yahoo.com/articles/ny-giants-2026-nfl-draft-150000926.html",
+      "id": "2b8aa8889e012384",
+      "title": "Four Florida Gators land in The Athletic's NFL draft top 100 prospects",
+      "link": "https://sports.yahoo.com/articles/four-florida-gators-land-athletics-161428173.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-18T15:00:00+0000",
-      "summary": "Can Omar Cooper Jr. become the next Victor Cruz for a NY Giants offense in need of dependable receivers?"
+      "published": "2026-02-18T16:14:28+0000",
+      "summary": "Dane Brugler’s updated 2026 NFL draft rankings place four Florida football players in the top 100, reinforcing the program's pro-pipeline strength."
     },
     {
-      "id": "eb5e13698a7f9eaa",
-      "title": "Rising Stars: Tetairoa McMillan",
-      "link": "https://sports.yahoo.com/articles/rising-stars-tetairoa-mcmillan-150000873.html",
+      "id": "f5ffffceb8c0991e",
+      "title": "49ers' Brandon Aiyuk needs a change of scenery more than any player in NFL",
+      "link": "https://sports.yahoo.com/articles/49ers-brandon-aiyuk-needs-change-160606055.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-18T15:00:00+0000",
-      "summary": "The 8th overall pick in the 2025 NFL Draft already looks the part of a star NFL receiver."
+      "published": "2026-02-18T16:06:06+0000",
+      "summary": "There's not a player who needs to leave his current team more than Brandon Aiyuk."
+    },
+    {
+      "id": "8e2cd68858d0ecaf",
+      "title": "5 best NFL free agency landing spots for Mike Evans",
+      "link": "https://sports.yahoo.com/articles/5-best-nfl-free-agency-160500429.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-18T16:05:00+0000",
+      "summary": "Tampa Bay Buccaneers wide receiver Mike Evans is arguably the most consistent wide receiver to ever lace up a pair of cleats, not named Jerry Rice. Over 12 seasons wearing the Buccaneer red, pewter, orange, and black, the 32-going-on-33-year-old pass-catcher…"
+    },
+    {
+      "id": "559261622e15952b",
+      "title": "Rams would be ‘insane’ to not trade Puka Nacua, says analyst",
+      "link": "https://sports.yahoo.com/articles/rams-insane-not-trade-puka-160400875.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-18T16:04:00+0000",
+      "summary": "Former NFL Network analyst says Rams should trade Puka Nacua while they still can"
     },
     {
       "id": "d00409b3cead98d6",
@@ -25,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/47955391/nfl-2026-offseason-draft-trade-free-agency-change-scenery",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-18T14:37:22+0000",
+      "published": "2026-02-18T15:07:38+0000",
       "summary": "Let's pick out players who could use a change of scenery for the 2026 season, including David Montgomery, Anthony Richardson and L'Jarius Sneed."
     },
     {
@@ -34,7 +52,7 @@
       "link": "https://espn.com/nfl/story/_/id/47940120/2026-nfl-free-agency-best-team-fits-ranking-top-50-players-available-offseason",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-18T14:37:21+0000",
+      "published": "2026-02-18T15:07:38+0000",
       "summary": "Which team makes the most sense for Alec Pierce? Where do Malik Willis and the QBs fit best?"
     },
     {
@@ -54,15 +72,6 @@
       "feed": "ESPN",
       "published": "2026-02-18T14:02:06+0000",
       "summary": "The New England Patriots are hiring inside linebackers coach Zak Kuhr as their defensive coordinator, sources tell ESPN NFL insider Adam Schefter."
-    },
-    {
-      "id": "a74d399982322c1f",
-      "title": "Colts free agent profiles: Daniel Jones",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121395/colts-free-agent-profiles-daniel-jones",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-18T13:00:00+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts took a shot on veteran quarterback Daniel Jones after he mutually parted ways with the New York Giants, the team that drafted him 6th overall in the 2019 NFL Draft. The Colts signed Jones to a 1-year, $14M ‘prove-it’ deal, to which he immediately proved it. Originally signed as [&#8230;]"
     },
     {
       "id": "c7a055039a6b471a",
@@ -216,6 +225,15 @@
       "feed": "Colts.com",
       "published": "2026-02-12T19:00:08+0000",
       "summary": "Whether through engaging fans, empowering young athletes or supporting local organizations, the Colts made a difference off the field in many ways in 2025."
+    },
+    {
+      "id": "61366698343bb8c5",
+      "title": "Report: Colts to hire Arkansas’ Marion Hobby as new defensive line coach",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/121470/report-colts-to-hire-arkansas-marion-hobby-as-new-defensive-line-coach",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-12T05:04:13+0000",
+      "summary": "According to CBS Sports Matt Zenitz, the Indianapolis Colts are expected to hire University of Arkansas’ Marion Hobby as their new defensive line coach, replacing since departed veteran coach Charlie Partridge: The 59-year-old Hobby was set to become Arkansas defensive line coach this upcoming season under their new head coach Ryan Silverfield. Hobby served last [&#8230;]"
     },
     {
       "id": "f0c77fdb3ef00462",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-09T21:30:06+0000",
       "summary": "Gardner was named a first-team All-Pro and Nelson was named to the second team."
-    },
-    {
-      "id": "9f0ed514dcb82d6c",
-      "title": "Colts RB Jonathan Taylor nominated for FedEx Ground Player of the Year",
-      "link": "https://colts.com/news/colts-rb-jonathan-taylor-nominated-for-fedex-ground-player-of-the-year-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-09T20:00:05+0000",
-      "summary": "Taylor led the NFL in total touchdowns (20) and rushing touchdowns (18) in 2025."
-    },
-    {
-      "id": "c7b50b44af86f21d",
-      "title": "Former Colts running back Randy McMillan dies",
-      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T21:20:57+0000",
-      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
     }
   ],
   "links": [
