@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T05:35:46+00:00",
+  "updated": "2026-02-20T06:55:20+00:00",
   "items": [
     {
       "id": "e16ddb2c14f4fefb",
@@ -18,24 +18,6 @@
       "feed": "ESPN",
       "published": "2026-02-20T05:20:28+0000",
       "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
-    },
-    {
-      "id": "5b2edd7efcf12a99",
-      "title": "Arizona Cardinals making Rod Wilson their new inside linebackers coach",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-making-rod-wilson-051351611.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-20T05:13:51+0000",
-      "summary": "Rod Wilson joins Mike LaFleur's staff after only working under Andy Reid in the NFL."
-    },
-    {
-      "id": "ca681cd73fe1fc23",
-      "title": "Chicago Bears possible move to Indiana and why it does and doesn’t work for the NFL",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-possible-move-indiana-044852613.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-20T04:48:52+0000",
-      "summary": "For more than a century, the Chicago Bears have been synonymous with the city of Chicago. From the grit of the Midway to the frozen tundra of Soldier Field in January, the franchise has built its identity on tradition, history,…"
     },
     {
       "id": "7c10f4a2cb00253e",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:52:26+0000",
       "summary": "The Colts made the roster move on Thursday."
+    },
+    {
+      "id": "ca4261341d0b1b48",
+      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
+      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T17:45:48+0000",
+      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
+    },
+    {
+      "id": "8f67fb1199ecf0c0",
+      "title": "TUNE IN: General manager Chris Ballard press conference Thursday, January 8 at 11:00 a.m.",
+      "link": "https://colts.com/news/tune-in-general-manager-chris-ballard-press-conference-2025-season-recap",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-06T20:54:32+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     }
   ],
   "links": [
