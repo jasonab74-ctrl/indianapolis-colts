@@ -1,14 +1,41 @@
 {
-  "updated": "2026-02-20T04:25:52+00:00",
+  "updated": "2026-02-20T05:35:46+00:00",
   "items": [
     {
-      "id": "795c730c6bc5ec43",
-      "title": "Former Virginia Tech standout lands a big promotion",
-      "link": "https://sports.yahoo.com/articles/former-virginia-tech-standout-lands-040732815.html",
+      "id": "e16ddb2c14f4fefb",
+      "title": "Parker: Fixing Cowboys' D 'day-by-day' process",
+      "link": "https://espn.com/nfl/story/_/id/47970515/christian-parker-taking-day-day-cowboys-defense",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-20T05:20:28+0000",
+      "summary": "New Cowboys defensive coordinator Christian Parker says he's taking a \"day by day\" approach with his defense, which finished last in the NFL in points per game allowed last season."
+    },
+    {
+      "id": "5084af18e18b3b45",
+      "title": "🔮 Experts predict the 2026 NFL season",
+      "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-20T05:20:28+0000",
+      "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
+    },
+    {
+      "id": "5b2edd7efcf12a99",
+      "title": "Arizona Cardinals making Rod Wilson their new inside linebackers coach",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-making-rod-wilson-051351611.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-20T04:07:32+0000",
-      "summary": "A big-time NFL promotion for a former Hokie great."
+      "published": "2026-02-20T05:13:51+0000",
+      "summary": "Rod Wilson joins Mike LaFleur's staff after only working under Andy Reid in the NFL."
+    },
+    {
+      "id": "ca681cd73fe1fc23",
+      "title": "Chicago Bears possible move to Indiana and why it does and doesn’t work for the NFL",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-possible-move-indiana-044852613.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-20T04:48:52+0000",
+      "summary": "For more than a century, the Chicago Bears have been synonymous with the city of Chicago. From the grit of the Midway to the frozen tundra of Soldier Field in January, the franchise has built its identity on tradition, history,…"
     },
     {
       "id": "7c10f4a2cb00253e",
@@ -27,24 +54,6 @@
       "feed": "Stampede Blue",
       "published": "2026-02-20T02:23:12+0000",
       "summary": "According to CBS Sports Matt Zenitz, Indianapolis Colts defensive quality control coach Brent Jackson is set to join the Arizona Cardinals coaching staff under their new head coach Mike LaFleur: Having joined the Colts in May of 2022, Jackson just finished his 4th season as Indianapolis’ defensive quality control—after previously working as a graduate assistant [&#8230;]"
-    },
-    {
-      "id": "e16ddb2c14f4fefb",
-      "title": "Parker: Fixing Cowboys' D 'day-by-day' process",
-      "link": "https://espn.com/nfl/story/_/id/47970515/christian-parker-taking-day-day-cowboys-defense",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-20T01:08:36+0000",
-      "summary": "New Cowboys defensive coordinator Christian Parker says he's taking a \"day by day\" approach with his defense, which finished last in the NFL in points per game allowed last season."
-    },
-    {
-      "id": "5084af18e18b3b45",
-      "title": "🔮 Experts predict the 2026 NFL season",
-      "link": "https://espn.com/nfl/story/_/id/47878802/2026-nfl-predictions-mvp-super-bowl-offseason-moves-breakout-candidates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-20T01:08:36+0000",
-      "summary": "Who will win next season's Super Bowl? Who is set to be the next MVP? We asked NFL experts to make early calls on how 2026 will play out."
     },
     {
       "id": "2a294e56c7f34ff4",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-01-08T17:52:26+0000",
       "summary": "The Colts made the roster move on Thursday."
-    },
-    {
-      "id": "ca4261341d0b1b48",
-      "title": "Tom Moore, Peyton Manning's offensive coordinator and 62-year coaching veteran, retires",
-      "link": "https://colts.com/news/tom-moore-peyton-manning-s-offensive-coordinator-and-62-year-coaching-veteran-retires",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-01-08T17:45:48+0000",
-      "summary": "Moore was the Colts' offensive coordinator from 1998-2009 and held the role of senior offensive assistant in 2010, meaning he was in Indianapolis for every year of Peyton Manning's tenure with the Colts."
     }
   ],
   "links": [
