@@ -1,42 +1,6 @@
 {
-  "updated": "2026-02-21T01:55:31+00:00",
+  "updated": "2026-02-21T04:06:38+00:00",
   "items": [
-    {
-      "id": "b45c97b0ab911f32",
-      "title": "Los Angeles Rams make major decision on their future",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-major-decision-012822473.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-21T01:28:22+0000",
-      "summary": "On Friday, the Los Angeles Rams made an important promotion within their coaching staff for the upcoming NFL season."
-    },
-    {
-      "id": "62b8f51dbd4bdbbf",
-      "title": "Texas A&M star OL sets PFF record, could be a 2026 NFL Draft steal",
-      "link": "https://sports.yahoo.com/articles/texas-m-star-ol-sets-011700654.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-21T01:17:00+0000",
-      "summary": "Texas A&amp;M OLTrey Zuhn III, known for his versatility and record-setting PFF pass blocking grade, is preparing for the 2026 NFL Draft."
-    },
-    {
-      "id": "c62d5d9b5afb8cf3",
-      "title": "NFL draft analyst says don't look for a trade up from the Steelers",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-analyst-says-dont-010148693.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-21T01:01:48+0000",
-      "summary": "NFL Network draft analyst Daniel Jeremiah thinks the Steelers are more likely to trade down than up in the 2026 NFL draft."
-    },
-    {
-      "id": "29cebdedc03b5d94",
-      "title": "Prospects for Saints To Pay Attention to at the NFL Combine",
-      "link": "https://sports.yahoo.com/articles/prospects-saints-pay-attention-nfl-010002115.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-21T01:00:02+0000",
-      "summary": "Some major interviews and performances could change how prospects are perceived."
-    },
     {
       "id": "d00409b3cead98d6",
       "title": "32 candidates to get cut, traded and passed over this NFL offseason",
@@ -189,6 +153,24 @@
       "feed": "CBS4Indy",
       "published": "2026-02-18T19:53:09+0000",
       "summary": "INDIANAPOLIS – What more could Jonathan Taylor have done? In what has become a disturbing trend, the Indianapolis Colts failed to achieve collective success despite his individual brilliance. Overall, they closed last season on a seven-game losing streak for just the third time in franchise history and missed the playoffs for a fifth consecutive season, [...]"
+    },
+    {
+      "id": "4ad673cb17707bf5",
+      "title": "What I would do if I was Chris Ballard for an offseason",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121586/what-i-would-do-if-i-was-chris-ballard-for-an-offseason",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-18T18:58:30+0000",
+      "summary": "Time and time again I have criticized Chris Ballard, so this time I will leave in writing what I would (or at least try to) do if I were in his shoes. A lot more than we know happens behind the scenes, so take this with a grain of salt. Its February 18th, Wednesday. Suddenly [&#8230;]"
+    },
+    {
+      "id": "a74d399982322c1f",
+      "title": "Colts free agent profiles: Daniel Jones",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/121395/colts-free-agent-profiles-daniel-jones",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-18T13:00:00+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts took a shot on veteran quarterback Daniel Jones after he mutually parted ways with the New York Giants, the team that drafted him 6th overall in the 2019 NFL Draft. The Colts signed Jones to a 1-year, $14M ‘prove-it’ deal, to which he immediately proved it. Originally signed as [&#8230;]"
     },
     {
       "id": "3b412cdb0156f651",
@@ -434,15 +416,6 @@
       "summary": "Walley and Wohler each sustained their respective injuries during the 2025 preseason, but both expect to be fully healthy for 2026."
     },
     {
-      "id": "6ad61a9eb226e2c1",
-      "title": "Colts confirm FBI's investigation into death of former owner Jim Irsay",
-      "link": "https://fox59.com/news/colts-confirm-fbis-investigation-into-death-of-former-owner-jim-irsay/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-01-23T03:40:23+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts are aware of an FBI investigation into the death of former owner Jim Irsay, sources told FOX59/CBS4. Irsay died on May 21, 2025, at the age of 65. While aware of the FBI investigation, the Colts said the organization has not been contacted by the federal agency nor has it [...]"
-    },
-    {
       "id": "c9193e9294778258",
       "title": "RTL kündigt Premium-Dokumentation \"The Game – Die NFL erobert Deutschland\" an",
       "link": "https://colts.com/news/rtl-kundigt-premium-dokumentation-the-game-die-nfl-erobert-deutschland-an",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-01-09T21:30:06+0000",
       "summary": "Gardner was named a first-team All-Pro and Nelson was named to the second team."
+    },
+    {
+      "id": "9f0ed514dcb82d6c",
+      "title": "Colts RB Jonathan Taylor nominated for FedEx Ground Player of the Year",
+      "link": "https://colts.com/news/colts-rb-jonathan-taylor-nominated-for-fedex-ground-player-of-the-year-2025",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-09T20:00:05+0000",
+      "summary": "Taylor led the NFL in total touchdowns (20) and rushing touchdowns (18) in 2025."
+    },
+    {
+      "id": "c7b50b44af86f21d",
+      "title": "Former Colts running back Randy McMillan dies",
+      "link": "https://colts.com/news/former-colts-running-back-randy-mcmillan-dies",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T21:20:57+0000",
+      "summary": "McMillan, a 1981 first-round pick, scored 26 touchdowns for the Colts from 1981-1986."
+    },
+    {
+      "id": "dcdb9729c2697202",
+      "title": "Colts GM Chris Ballard discusses Daniel Jones, Anthony Richardson Sr., Riley Leonard, Alec Pierce and more as 2026 NFL offseason comes into focus",
+      "link": "https://colts.com/news/colts-gm-chris-ballard-discusses-daniel-jones-anthony-richardson-sr-riley-leonard-alec-pierce-and-more-as-2026-nfl-offseason-comes-into-focus",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T20:10:30+0000",
+      "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
     }
   ],
   "links": [
