@@ -1,32 +1,14 @@
 {
-  "updated": "2026-02-22T11:44:01+00:00",
+  "updated": "2026-02-22T12:47:44+00:00",
   "items": [
     {
-      "id": "fa1186e9038e436c",
-      "title": "Cleveland Browns news (2/22): The Scouting Combine is calling",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-2-22-113000048.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-22T11:30:00+0000",
-      "summary": "﻿The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow."
-    },
-    {
-      "id": "4b437574f7a882ed",
-      "title": "Top NFL draft prospect a big fan of Jayden Daniels",
-      "link": "https://sports.yahoo.com/articles/top-nfl-draft-prospect-big-111825843.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-22T11:18:25+0000",
-      "summary": "One of the top prospects in the 2026 NFL Draft recently gave a big compliment to Jayden Daniels."
-    },
-    {
-      "id": "49e0659382b6c84c",
-      "title": "First-team All-SEC pick among Georgia's 6 NFL combine snubs",
-      "link": "https://sports.yahoo.com/articles/first-team-sec-pick-among-111230659.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-22T11:12:30+0000",
-      "summary": "The Georgia Bulldogs have six notable players that did not get NFL combine invitations including one first-team All-SEC pick"
+      "id": "d00409b3cead98d6",
+      "title": "32 candidates to get cut, traded and passed over this NFL offseason",
+      "link": "https://espn.com/nfl/story/_/id/47955391/nfl-2026-offseason-draft-trade-free-agency-change-scenery",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-22T12:35:50+0000",
+      "summary": "Let's pick out players who could use a change of scenery for the 2026 season."
     },
     {
       "id": "cc00b87d7d7f3729",
@@ -34,17 +16,35 @@
       "link": "https://espn.com/nfl/story/_/id/47958363/2026-nfl-offseason-ranking-positions-free-agency-draft-class-deep-thin",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-21T21:57:55+0000",
+      "published": "2026-02-22T12:34:13+0000",
       "summary": "NFL teams looking for edge rusher help are in good shape this offseason; the free agent and draft classes have options. But what about the other 10 positions?"
     },
     {
-      "id": "18630eb5a29cd497",
-      "title": "Pittsburgh at the NFL combine: QB reset in store for Steelers?",
-      "link": "https://espn.com/nfl/story/_/id/47981589/pittsburgh-steelers-nfl-combine-quarterback-reset-store-aaron-rodgers-2026-draft",
+      "id": "7bc3d9d2560e2fa1",
+      "title": "Mendoza, Reese, Tyson: NFL execs, scouts, players discuss the draft class elite",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47979471/2026-nfl-draft-top-pick-prospects-quarterback-raiders-mendoza-reese-executives-polling",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-21T21:57:48+0000",
-      "summary": "Aaron Rodgers isn't a long-term solution, but he could be a bridge as Pittsburgh looks for a franchise QB."
+      "published": "2026-02-22T12:21:17+0000",
+      "summary": "We asked executives, scouts and players to weigh in on the Raiders' No. 1 pick and the best prospects in 2026."
+    },
+    {
+      "id": "4cdc55241ec0770e",
+      "title": "7 observations from Indianapolis Colts' 7-round 2026 NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/7-observations-indianapolis-colts-7-122040507.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-22T12:20:40+0000",
+      "summary": "Here are seven observations from a recent 7-round 2026 NFL mock draft for the Indianapolis Colts."
+    },
+    {
+      "id": "1e303bc8786f4f76",
+      "title": "Breece Hall confident he'll get &quot;everything that's coming to me&quot;",
+      "link": "https://sports.yahoo.com/articles/breece-hall-confident-hell-everything-121307099.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-22T12:13:07+0000",
+      "summary": "Running back Breece Hall isn't sure whether he'll be back with the Jets or playing elsewhere in 2026, but he is confident that he'll be playing on a contract that reflects the production he's shown over his four years in the NFL."
     },
     {
       "id": "0f96a93b16ca71ca",
@@ -63,15 +63,6 @@
       "feed": "ESPN",
       "published": "2026-02-21T11:00:23+0000",
       "summary": "Eric Weddle, Tony Jefferson and Andrew Whitworth share stories of their journeys in and out of retirement."
-    },
-    {
-      "id": "d00409b3cead98d6",
-      "title": "32 candidates to get cut, traded and passed over this NFL offseason",
-      "link": "https://espn.com/nfl/story/_/id/47955391/nfl-2026-offseason-draft-trade-free-agency-change-scenery",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-20T23:55:43+0000",
-      "summary": "Let's pick out players who could use a change of scenery for the 2026 season."
     },
     {
       "id": "5084af18e18b3b45",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-01-08T20:10:30+0000",
       "summary": "Colts general manager Chris Ballard on Thursday discussed several players whose futures and/or roles with the team will need to be addressed in the coming weeks and months."
+    },
+    {
+      "id": "2ab28dd3d4dfcd59",
+      "title": "Colts GM Chris Ballard evaluates 2025 season, outlines goals for 2026",
+      "link": "https://colts.com/news/colts-general-manager-chris-ballard-evaluates-2025-season-outlines-goals-for-2026-carlie-irsay-gordon",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-01-08T19:16:17+0000",
+      "summary": "Ballard spoke to the media on Thursday about how the Colts' 2025 season played out and what he intends to do to set the team up for success in 2026."
     }
   ],
   "links": [
