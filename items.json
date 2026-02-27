@@ -1,59 +1,14 @@
 {
-  "updated": "2026-02-26T23:55:04+00:00",
+  "updated": "2026-02-27T01:59:09+00:00",
   "items": [
     {
-      "id": "19ec878af0110ee5",
-      "title": "Here's a look at every grade Dolphins received in 2026 NFLPA survey",
-      "link": "https://sports.yahoo.com/articles/heres-look-every-grade-dolphins-233328888.html",
+      "id": "de5c8f33bdc7dc87",
+      "title": "NFL combine winners, losers: Rueben Bain, Sonny Styles lead Thursday list",
+      "link": "https://sports.yahoo.com/articles/nfl-combine-winners-losers-rueben-013822258.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:33:28+0000",
-      "summary": "The Miami Dolphins were rated the top team in the NFL by the players, but let's look at how they graded in each category."
-    },
-    {
-      "id": "7dc705771bd035ca",
-      "title": "David Bailey Jr. 40 time: Texas Tech edge posts speedy time at NFL Combine",
-      "link": "https://sports.yahoo.com/articles/david-bailey-jr-40-time-225651035.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:33:00+0000",
-      "summary": "Here is more on Texas Tech EDGE David Bailey Jr.'s blistering 40-yard dash time."
-    },
-    {
-      "id": "2b2aae1c14cd6020",
-      "title": "2 winners, 1 small loser from Day 1 of the 2026 NFL Combine",
-      "link": "https://sports.yahoo.com/articles/2-winners-1-small-loser-233153620.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:31:53+0000",
-      "summary": "All-American DT Lee Hunter underwhelmed in his athletic testing while DT Caleb Banks stood out in numerous ways in Indy."
-    },
-    {
-      "id": "cccdd8055f6bf1f5",
-      "title": "Report: Teams are calling the Bears to discuss a trade for Gervon Dexter Sr.",
-      "link": "https://sports.yahoo.com/articles/report-teams-calling-bears-discuss-233000952.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:30:00+0000",
-      "summary": "The latest trade buzz about the Bears from the NFL Combine."
-    },
-    {
-      "id": "14e94c24779a6cb2",
-      "title": "Aaron Glenn napping video: Jets head coach caught sleeping during NFL combine",
-      "link": "https://sports.yahoo.com/articles/aaron-glenn-napping-video-jets-232822003.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:28:22+0000",
-      "summary": "If the Jets aren't under enough fire, Glenn added another potential meme to the collection."
-    },
-    {
-      "id": "c7ad89091aca070e",
-      "title": "REPORT: Trace McSorley Leaving Penn State for Buffalo Bills",
-      "link": "https://sports.yahoo.com/articles/report-trace-mcsorley-leaving-penn-232521636.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:25:21+0000",
-      "summary": "Another Penn State assistant coach has departed for the NFL, this time it’s assistant quarterbacks coach and program legend Trace McSorley. According to Lions247, McSorley is leaving for a position with the Buffalo Bills, which will reunite him with former PSU graduate assistant Joe Brady, who worked as then-offensive coordinator Joe Moorhead’s right-hand man in […]"
+      "published": "2026-02-27T01:38:22+0000",
+      "summary": "The first day of measurements and athletic testing for NFL prospects provided some important information. Here are five winners and losers."
     },
     {
       "id": "b8c96f315647e3f4",
@@ -61,26 +16,71 @@
       "link": "https://sports.yahoo.com/articles/nfl-combine-live-updates-highlights-192300649.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:25:00+0000",
+      "published": "2026-02-27T01:35:00+0000",
       "summary": "Day 1 begins with DL and LB."
     },
     {
+      "id": "f0515c1ad02ecc84",
+      "title": "Linebacker testing results from the 2026 NFL combine",
+      "link": "https://sports.yahoo.com/articles/linebacker-testing-results-2026-nfl-013241175.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-27T01:32:41+0000",
+      "summary": "Linebackers impressed at the 2026 NFL Combine, led by Sonny Styles’ 4.46 40, 43.5 inch vertical and 11 foot 2 broad jump."
+    },
+    {
+      "id": "4773342b74120df7",
+      "title": "2026 NFL Scouting Combine: Is Sonny Styles the favorite for the NY Giants?",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-scouting-combine-sonny-013036403.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-27T01:30:36+0000",
+      "summary": "Who helped themselves the most in the defensive tackle, EDGE, and linebacker workouts at the 2026 Combine?"
+    },
+    {
+      "id": "929695a298eb0452",
+      "title": "Edge rusher testing results from the 2026 NFL combine",
+      "link": "https://sports.yahoo.com/articles/edge-rusher-testing-results-2026-012858384.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-27T01:28:58+0000",
+      "summary": "Edge defenders showed speed and explosion at the 2026 NFL Combine, led by David Bailey’s 4.50 40 and multiple 40-inch verticals."
+    },
+    {
+      "id": "98eb6df544e44cfa",
+      "title": "Defensive line testing results from the 2026 NFL combine",
+      "link": "https://sports.yahoo.com/articles/defensive-line-testing-results-2026-012332635.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-27T01:23:32+0000",
+      "summary": "Interior defensive linemen impressed in Indy, highlighted by Zane Durant’s 4.75 40 and standout explosion drills."
+    },
+    {
       "id": "75bd6dd64335e9e2",
-      "title": "NFL Combine winners and losers: Live updates on defensive linemen, linebackers in Indianapolis",
+      "title": "NFL Combine winners and losers: Updates on defensive linemen, linebackers in Indianapolis",
       "link": "https://sports.yahoo.com/articles/nfl-combine-winners-losers-updates-204813069.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-02-26T23:24:00+0000",
+      "published": "2026-02-27T01:20:00+0000",
       "summary": "This class has no shortage of front-seven freaks."
     },
     {
-      "id": "813f6da778674f05",
-      "title": "🏈 Kiper's NFL mock draft: Projecting Round 1",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-02-26T19:48:13+0000",
-      "summary": "As the NFL gets ready for this week's combine workouts, let's project where the best players in the 2026 NFL draft class will get picked in April."
+      "id": "bc3532c2da5c75c5",
+      "title": "Patriots graded poorly in latest NFLPA report card",
+      "link": "https://sports.yahoo.com/articles/patriots-graded-poorly-latest-nflpa-011518662.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-27T01:15:18+0000",
+      "summary": "The results of the 2025 NFL players survey have been released."
+    },
+    {
+      "id": "94739f703f7cf63e",
+      "title": "NFL Combine 40 times tracker: Who has the fastest 40-yard dash in 2026 draft?",
+      "link": "https://sports.yahoo.com/articles/nfl-combine-40-times-tracker-072001779.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-27T01:15:00+0000",
+      "summary": "The Sporting News is tracking all 40 times from the NFL Combine. Here are the fastest players from the 2026 NFL Draft class by position."
     },
     {
       "id": "5d87f9eeb84f5f66",
@@ -88,7 +88,7 @@
       "link": "https://espn.com/nfl/story/_/id/48045244/source-dolphins-rank-first-steelers-worst-nflpa-survey",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-26T19:48:12+0000",
+      "published": "2026-02-27T00:33:10+0000",
       "summary": "For the third consecutive year, the Dolphins ranked first overall in the NFL Players Association annual report cards, according to survey results obtained by ESPN. The Steelers finished in last place."
     },
     {
@@ -97,7 +97,7 @@
       "link": "https://espn.com/nfl/story/_/id/48044402/colts-grant-qb-anthony-richardson-ok-seek-trade-source-says",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-26T19:48:12+0000",
+      "published": "2026-02-27T00:33:10+0000",
       "summary": "The Colts have given quarterback Anthony Richardson Sr. permission to seek a trade, his agent told ESPN."
     },
     {
@@ -106,7 +106,7 @@
       "link": "https://espn.com/nfl/story/_/id/48043966/caleb-downs-says-believes-best-defender-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-26T19:48:12+0000",
+      "published": "2026-02-27T00:33:10+0000",
       "summary": "Ohio State safety Caleb Downs said being the \"best defender\" should carry more weight than positional value when selecting players in the NFL draft."
     },
     {
@@ -115,17 +115,35 @@
       "link": "https://espn.com/nfl/story/_/id/48033088/rueben-bain-jr-says-nfl-teams-focused-play-not-arm-length",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-26T19:48:12+0000",
+      "published": "2026-02-27T00:33:10+0000",
       "summary": "Defensive end Rueben Bain Jr. said no team has mentioned arm length to him during his interviews, focusing on his play instead."
     },
     {
-      "id": "41d4f1e88c609369",
-      "title": "Top NFL prospect Reese says he's an OLB/edge",
-      "link": "https://espn.com/nfl/story/_/id/48031883/top-nfl-draft-prospect-reese-linebacker-edge",
+      "id": "813f6da778674f05",
+      "title": "🏈 Kiper's NFL mock draft: Projecting Round 1",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-02-26T19:48:12+0000",
-      "summary": "Ohio State star Arvell Reese, one of the top prospects in April's NFL draft, declared himself an \"outside linebacker/edge\" rusher during media interviews at the combine Wednesday."
+      "published": "2026-02-27T00:33:10+0000",
+      "summary": "As the NFL gets ready for this week's combine workouts, let's project where the best players in the 2026 NFL draft class will get picked in April."
+    },
+    {
+      "id": "7774276a9ba822ea",
+      "title": "Faces of the 2026 NFL combine: Maximum effort and unforgettable expressions",
+      "link": "https://espn.com/nfl/story/_/id/48039180/2026-nfl-combine-faces",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-02-26T23:48:48+0000",
+      "summary": "The NFL combine puts top prospects in front of countless cameras -- and because they're sprinting full speed or lifting heavy weights, the result is often some hilariously intense facial expressions."
+    },
+    {
+      "id": "9f0276d666081747",
+      "title": "9 Potential Anthony Richardson Trade Destinations",
+      "link": "https://stampedeblue.com/indianapolis-colts-rumors/121849/9-potential-anthony-richardson-trade-destinations",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-26T23:00:00+0000",
+      "summary": "The Colts are allowing Richardson to seek out a trade, so he will have some agency on where he lands. Which teams could be a fit for him and provide him an opportunity to either start or give him the mentorship needed to help him hit his ceiling? Minnesota Vikings: Starting Opportunity The Vikings are [&#8230;]"
     },
     {
       "id": "af9f0f6b242d01d7",
@@ -288,15 +306,6 @@
       "feed": "Colts.com",
       "published": "2026-02-25T02:42:24+0000",
       "summary": "Ballard discussed the future of several Colts players during his media sessions on Tuesday at the NFL Combine in Indianapolis."
-    },
-    {
-      "id": "896f031401c14105",
-      "title": "Offseason vision to steer Colts back into playoff contention",
-      "link": "https://stampedeblue.com/indianapolis-colts-discussion/121739/shane-steichens-vision-to-steer-colts-back-into-playoff-contention",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-02-25T02:00:47+0000",
-      "summary": "Indianapolis Colts brass delivered a unified message about the most important offseason priorities inside the Indiana Convention Center, which includes signing quarterback Daniel Jones and receiver Alec Pierce to long-term contracts. Colts General Manager Chris Ballard and head coach Shane Steichen did not come to make headlines at the 2026 NFL Scouting Combine, but rather [&#8230;]"
     },
     {
       "id": "72f7fbabd3d51b33",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-06T03:12:00+0000",
       "summary": "Vinatieri, the NFL's all-time leader in points scored, spent 14 of his 24 years in the NFL with the Colts."
-    },
-    {
-      "id": "d3d4170d9e8a213b",
-      "title": "Adam Vinatieri, NFL's all-time clutch kicker, selected for Pro Football Hall of Fame",
-      "link": "https://fox59.com/sports/colts/adam-vinatieri-nfls-all-time-clutch-kicker-selected-for-pro-football-hall-of-fame/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-06T03:10:25+0000",
-      "summary": "INDIANAPOLIS – Casual conversation that intensified over the past several years has become a reality. Adam Vinatieri is a member of the Pro Football Hall of Fame. Arguably the greatest kicker in NFL history was named to the Class of 2026, which was announced Thursday night. “To have this honor is incredible,” Vinatieri told FOX59/CBS4 [...]"
     }
   ],
   "links": [
