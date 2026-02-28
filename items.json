@@ -1,6 +1,60 @@
 {
-  "updated": "2026-02-28T14:20:50+00:00",
+  "updated": "2026-02-28T14:47:01+00:00",
   "items": [
+    {
+      "id": "bfe75a2be2d1dfab",
+      "title": "Top three Madden NFL 2027 rookie cornerback speed ratings revealed",
+      "link": "https://sports.yahoo.com/articles/top-three-madden-nfl-2027-143000921.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-28T14:30:00+0000",
+      "summary": "We’ve witnessed some impressive performances at the NFL Scouting Combine. All of the drills have had top performers who have caught the eyes of fans and scouts. The 40-yard dash is one of the drills that is an event in…"
+    },
+    {
+      "id": "6634c417375516e0",
+      "title": "NFL sets the 2026 salary cap. Here’s where the Chiefs stand",
+      "link": "https://sports.yahoo.com/articles/nfl-sets-2026-salary-cap-143000918.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-28T14:30:00+0000",
+      "summary": "Slightly disappointing news for the Kansas City front office."
+    },
+    {
+      "id": "6e927e6cc0963f48",
+      "title": "NFL 2026 Franchise Tag value for each position revealed: Wide receivers value reaches $27 million",
+      "link": "https://sports.yahoo.com/articles/nfl-2026-franchise-tag-value-143000242.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-28T14:30:00+0000",
+      "summary": "The NFL has formally released the 2026 franchise tag figures for every position. The numbers were confirmed after the league established the 2026 salary cap at $301."
+    },
+    {
+      "id": "14d40c961b7b9a5f",
+      "title": "7 wide receivers for Rams to watch at the NFL combine",
+      "link": "https://sports.yahoo.com/articles/7-wide-receivers-rams-watch-142534392.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-28T14:25:34+0000",
+      "summary": "The Rams should be in the market for a wide receiver in the draft, and these 7 prospects are particularly intriguing."
+    },
+    {
+      "id": "1341b1152b1d6f57",
+      "title": "6 NFL draft prospects Dolphins fans should watch at combine today",
+      "link": "https://sports.yahoo.com/articles/6-nfl-draft-prospects-dolphins-141944552.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-28T14:19:44+0000",
+      "summary": "QBs, WRs perform at NFL combine today, so here are the handful of players Dolphins fans should watch."
+    },
+    {
+      "id": "8da5cdacdac1272b",
+      "title": "6 NFL draft prospects Dolphins fans should watch at combine today",
+      "link": "https://sports.yahoo.com/articles/6-nfl-draft-prospects-dolphins-141944491.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-02-28T14:19:44+0000",
+      "summary": "QBs, WRs perform at NFL combine today, so here are the handful of players Dolphins fans should watch."
+    },
     {
       "id": "5e497ddf2a7e8cff",
       "title": "2026 NFL mock draft roundup: Texans boost up trenches, but what side?",
@@ -9,42 +63,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-02-28T14:15:36+0000",
       "summary": "As the NFL Draft draws near, the Houston Texans once again remained tied to the trenches, with a majority of picks going toward the offensive line."
-    },
-    {
-      "id": "2a4df055e8e8b5e2",
-      "title": "Browns offseason: 3 free agents where caution is warranted",
-      "link": "https://sports.yahoo.com/articles/browns-offseason-3-free-agents-140838022.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-28T14:08:38+0000",
-      "summary": "The Cleveland Browns could pursue a few players in NFL free agency but cautious is warranted with Braden Smith, others"
-    },
-    {
-      "id": "d15d2399bbeb54a7",
-      "title": "2026 NFL mock draft: Broncos beef up defensive line",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-broncos-140042261.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-28T14:00:42+0000",
-      "summary": "The Broncos beef up their interior defensive line in this 2026 NFL mock draft."
-    },
-    {
-      "id": "ace74806b6595cc7",
-      "title": "Three quarterbacks to watch today at the NFL Scouting Combine",
-      "link": "https://sports.yahoo.com/articles/three-quarterbacks-watch-today-nfl-140000817.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-28T14:00:00+0000",
-      "summary": "The NFL Scouting Combine is already beginning to wind down. After a week of prospects meeting with teams and working out, they’ve had the opportunity to boost their stock. On Saturday, the football world will especially tune in. A deep…"
-    },
-    {
-      "id": "980ceafab0d4b7f5",
-      "title": "2026 NFL Scouting Combine Workouts: QBs, WRs, and RBs",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-scouting-combine-workouts-140000940.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-28T14:00:00+0000",
-      "summary": "The offense shows off for the world"
     },
     {
       "id": "0413393a7921dc03",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-02-10T18:45:00+0000",
       "summary": "(WXIN/WTTV) — Beginning in March, items from Jim Irsay's world-renowned collection of memorabilia will be available for purchase at Christie's in New York. Hundreds of objects from The Jim Irsay Collection, representing various milestones in the worlds of sports, music, movies and pop culture, will be available via online auction from March 3-17. The public [...]"
-    },
-    {
-      "id": "b0e458cd3ea9ed8a",
-      "title": "Colts’ 2026 lookahead: Quarterback, which means Daniel Jones",
-      "link": "https://fox59.com/sports/colts/colts-2026-lookahead-quarterback-which-means-daniel-jones/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-09T21:18:33+0000",
-      "summary": "INDIANAPOLIS – It starts with the most influential position: Quarterback. Always. Whatever awaits the Indianapolis Colts as they transition from another unsatisfactory 2025 to 2026 hinges on Daniel Jones’ right Achilles. That’s the one he ruptured late in the first quarter of their Dec. 7 game at Jacksonville. A season teeming with promise essentially ended [...]"
-    },
-    {
-      "id": "37dd6b15b6158867",
-      "title": "Adam Vinatieri thought he might get cut after his second game in the NFL. Now, he's a Pro Football Hall of Famer.",
-      "link": "https://colts.com/news/adam-vinatieri-new-england-patriots-indianapolis-colts-pro-football-hall-of-fame-kicker-super-bowl-nfl-honors-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-06T14:11:29+0000",
-      "summary": "Vinatieri became just the third kicker to be named to the Pro Football Hall of Fame."
     }
   ],
   "links": [
