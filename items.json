@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T07:25:47+00:00",
+  "updated": "2026-02-28T07:47:00+00:00",
   "items": [
     {
       "id": "8f07dcf7fab18cc8",
@@ -9,15 +9,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-02-28T07:00:00+0000",
       "summary": "How to watch quarterbacks, running backs and wide receivers when they take the field Saturday in the NFL Scouting Combine."
-    },
-    {
-      "id": "67e420f169410267",
-      "title": "Eagles Land New Dallas Goedert Prediction Entering NFL Free Agency",
-      "link": "https://sports.yahoo.com/articles/eagles-land-dallas-goedert-prediction-065302134.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-02-28T06:53:02+0000",
-      "summary": "The Philadelphia Eagles have received a new prediction about the future of free agent tight end Dallas Goedert."
     },
     {
       "id": "bdf14114be45983f",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-02-05T19:38:00+0000",
       "summary": "\"Voice of the Fan\" is one of the NFL's primary benchmarking tools for evaluating the full in-stadium experience across all 32 NFL teams."
+    },
+    {
+      "id": "34cc573780ff46a3",
+      "title": "Colts RB Jonathan Taylor, TE Tyler Warren attend 2026 Pro Bowl Games",
+      "link": "https://colts.com/news/colts-rb-jonathan-taylor-te-tyler-warren-attend-2026-pro-bowl-games-social-media-highlights-quenton-nelson",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-04T15:25:20+0000",
+      "summary": "Check out social media highlights from this week in San Francisco."
     }
   ],
   "links": [
