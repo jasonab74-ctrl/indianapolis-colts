@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-01T11:19:45+00:00",
+  "updated": "2026-03-01T11:42:30+00:00",
   "items": [
+    {
+      "id": "187dd590e1d96756",
+      "title": "Cleveland Browns news (3/1): The NFL is about to get busy",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-3-1-113000921.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-01T11:30:00+0000",
+      "summary": "The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow."
+    },
+    {
+      "id": "9c19d522bf855dbb",
+      "title": "New footage from 2023 shows Sean Strickland busting NFL star Maxx Crosby’s nose during friendly spar",
+      "link": "https://sports.yahoo.com/articles/footage-2023-shows-sean-strickland-113000886.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-01T11:30:00+0000",
+      "summary": "Resurfaced footage from 2023 captures Sean Strickland landing a punch that left Maxx Crosby with a bloodied nose during a friendly sparring session. The clip has recently re-emerged on social media, showing the Las Vegas Raiders defensive end exchanging strikes with the former UFC champion."
+    },
     {
       "id": "f22165d55a2805a2",
       "title": "Salary cap space for all 32 NFL teams (including the Cowboys)",
@@ -45,15 +63,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-03-01T11:01:33+0000",
       "summary": "The Steelers figure to add to their offense early during the 2026 NFL Draft. Here's a 7-round mock where the team selects a WR in the first round."
-    },
-    {
-      "id": "3e95fe2337a79219",
-      "title": "5 things learned on 2026 Seahawks at NFL combine, including Sam Darnold’s deal",
-      "link": "https://sports.yahoo.com/articles/5-things-learned-2026-seahawks-110000777.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-01T11:00:00+0000",
-      "summary": "Jaxon Smith-Njigba, Devon Witherspoon are headed for bags. What Cooper Kupp, DeMarcus Lawrence, Jarran Reed told their coach. And more."
     },
     {
       "id": "d1178ca741469920",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-02-09T21:18:33+0000",
       "summary": "INDIANAPOLIS – It starts with the most influential position: Quarterback. Always. Whatever awaits the Indianapolis Colts as they transition from another unsatisfactory 2025 to 2026 hinges on Daniel Jones’ right Achilles. That’s the one he ruptured late in the first quarter of their Dec. 7 game at Jacksonville. A season teeming with promise essentially ended [...]"
-    },
-    {
-      "id": "37dd6b15b6158867",
-      "title": "Adam Vinatieri thought he might get cut after his second game in the NFL. Now, he's a Pro Football Hall of Famer.",
-      "link": "https://colts.com/news/adam-vinatieri-new-england-patriots-indianapolis-colts-pro-football-hall-of-fame-kicker-super-bowl-nfl-honors-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-06T14:11:29+0000",
-      "summary": "Vinatieri became just the third kicker to be named to the Pro Football Hall of Fame."
     }
   ],
   "links": [
