@@ -1,23 +1,32 @@
 {
-  "updated": "2026-03-03T22:54:42+00:00",
+  "updated": "2026-03-03T23:26:03+00:00",
   "items": [
     {
-      "id": "e2607ab8ee422a3b",
-      "title": "Tristen Kuhn 2026 NFL Draft Defense “My Guys” – Combine",
-      "link": "https://sports.yahoo.com/articles/tristen-kuhn-2026-nfl-draft-224200930.html",
+      "id": "d79f7fe4e519366d",
+      "title": "NFL Free Agency: Top-200 consensus rankings update, post-franchise tags",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-top-200-231725266.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-03T22:42:00+0000",
-      "summary": "Tristen Kuhn’s Defensive “My Guys” - Combine Edition"
+      "published": "2026-03-03T23:17:25+0000",
+      "summary": "The Green Bay Packers have two top-10 consensus free agents in the 2026 class and three in the top 20"
     },
     {
-      "id": "6c5bef66e1b460c8",
-      "title": "Former Eagles linebacker, 6-year NFL veteran, dies",
-      "link": "https://sports.yahoo.com/articles/former-eagles-linebacker-6-nfl-224035462.html",
+      "id": "7d80aab074aaa792",
+      "title": "Patriots make unsurprising decision ahead of NFL franchise tag deadline",
+      "link": "https://sports.yahoo.com/articles/patriots-unsurprising-decision-ahead-nfl-230344011.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-03T22:40:35+0000",
-      "summary": "Dick Absher Jr., who played for four NFL teams over parts of six NFL seasons, died Feb. 25. He was 81. MORE: NFLPA survey reveals worst NFL team; Steelers respond to ESPN bombshell A native of Washington, D.C., Absher starred…"
+      "published": "2026-03-03T23:03:44+0000",
+      "summary": "The Patriots opted not to use the tag with free agency coming up."
+    },
+    {
+      "id": "3bb0f87eb4f25d39",
+      "title": "Eagles Free Agency Tracker: Rumors, Reports, and Signings",
+      "link": "https://sports.yahoo.com/articles/eagles-free-agency-tracker-rumors-004700418.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T23:01:51+0000",
+      "summary": "NFL free agency starts on March 11, and the Eagles will have a lot of moves to make to fill their 2026 roster."
     },
     {
       "id": "686d3509e76e62b0",
@@ -36,33 +45,6 @@
       "feed": "ESPN",
       "published": "2026-03-03T22:37:13+0000",
       "summary": "NFL free agency opens with the legal negotiating window on March 9. Here's all the latest."
-    },
-    {
-      "id": "5d341c5909b60065",
-      "title": "Combine Winners & Losers + Fantasy Lessons You CAN'T Ignore This Offseason",
-      "link": "https://sports.yahoo.com/fantasy/article/combine-winners--losers--fantasy-lessons-you-cant-ignore-this-offseason-223340327.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-03T22:33:40+0000",
-      "summary": "Matt Harmon is joined by Joel Smyth to breakdown the biggest winners and losers from the NFL Scouting Combine. The two dissect over 15 names managers should target and avoid during draft season. Lastly, the two cap off the show with lessons learned so far this offseason that can shakeup the fantasy landscape for 2026."
-    },
-    {
-      "id": "33daef06570a00d8",
-      "title": "Colts salary cap update after using transition tag on Daniel Jones",
-      "link": "https://sports.yahoo.com/articles/colts-salary-cap-using-transition-223202714.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-03T22:32:02+0000",
-      "summary": "After placing the transition tag on Daniel Jones, what does the Indianapolis Colts' current salary cap situation look like?"
-    },
-    {
-      "id": "78d002b5d1e604a9",
-      "title": "3 free agent centers for Bears after Drew Dalman retires",
-      "link": "https://sports.yahoo.com/articles/3-free-agent-centers-bears-223145799.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-03T22:31:45+0000",
-      "summary": "Bears center Drew Dalman shockingly retired from the NFL after five seasons. Here are four potential replacements for Chicago in free agency."
     },
     {
       "id": "1d5e3d2e0c3a4692",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-02-09T21:18:33+0000",
       "summary": "INDIANAPOLIS – It starts with the most influential position: Quarterback. Always. Whatever awaits the Indianapolis Colts as they transition from another unsatisfactory 2025 to 2026 hinges on Daniel Jones’ right Achilles. That’s the one he ruptured late in the first quarter of their Dec. 7 game at Jacksonville. A season teeming with promise essentially ended [...]"
+    },
+    {
+      "id": "37dd6b15b6158867",
+      "title": "Adam Vinatieri thought he might get cut after his second game in the NFL. Now, he's a Pro Football Hall of Famer.",
+      "link": "https://colts.com/news/adam-vinatieri-new-england-patriots-indianapolis-colts-pro-football-hall-of-fame-kicker-super-bowl-nfl-honors-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-06T14:11:29+0000",
+      "summary": "Vinatieri became just the third kicker to be named to the Pro Football Hall of Fame."
+    },
+    {
+      "id": "a7a5dcd75e486591",
+      "title": "Adam Vinatieri named to Pro Football Hall of Fame Class of 2026",
+      "link": "https://colts.com/news/adam-vinatieri-named-to-pro-football-hall-of-fame-class-of-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-06T03:12:00+0000",
+      "summary": "Vinatieri, the NFL's all-time leader in points scored, spent 14 of his 24 years in the NFL with the Colts."
     }
   ],
   "links": [
