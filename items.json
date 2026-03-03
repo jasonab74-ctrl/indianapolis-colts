@@ -1,41 +1,23 @@
 {
-  "updated": "2026-03-03T11:31:14+00:00",
+  "updated": "2026-03-03T12:55:45+00:00",
   "items": [
     {
-      "id": "7869e84285b288a5",
-      "title": "Seattle Seahawks make a decision at running back",
-      "link": "https://sports.yahoo.com/articles/seattle-seahawks-decision-running-back-111656680.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-03T11:16:56+0000",
-      "summary": "The NFL’s new league year is approaching, and teams are looking to lock down key expiring contracts. Without a new deal in place, those players can hit the open market. The Seattle Seahawks have been aiming to make key decisions…"
-    },
-    {
-      "id": "bc5ef1a9c8738e25",
-      "title": "Houston Texans make decision on controversial defender",
-      "link": "https://sports.yahoo.com/articles/houston-texans-decision-controversial-defender-110058957.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-03T11:00:58+0000",
-      "summary": "The NFL’s new league year is approaching next week. Teams are faced with decisions to make in order to transition into the 2026 season. The Houston Texans have already made several moves. They have decided to make another move on…"
-    },
-    {
-      "id": "825062f8d9867d2f",
-      "title": "Barnwell stacks the best defensive players available in free agency next week: Who will get big deals?",
-      "link": "https://espn.com/nfl/story/_/id/47994520/2026-nfl-free-agency-best-players-available-defense-contract-tiers-market-barnwell",
+      "id": "b513a3ecb1b35db4",
+      "title": "Tracking NFL free agency: Updates on re-signings, trades, cuts and rumors",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-03T04:01:01+0000",
-      "summary": "With one week until NFL free agency, let's put defensive players into six tiers based on their potential offseason contracts."
+      "published": "2026-03-03T12:52:03+0000",
+      "summary": "NFL free agency opens with the legal negotiating window on March 9. Here are the latest re-signings, franchise tags, trades and intel."
     },
     {
-      "id": "6356357af1cff9f3",
-      "title": "Offensive tiers: Barnwell ranks the best QBs, RBs, WRs, TEs and OL",
-      "link": "https://espn.com/nfl/story/_/id/47989627/2026-nfl-free-agency-best-players-available-offense-contract-tiers-market-barnwell",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-03T04:01:01+0000",
-      "summary": "NFL free agency is almost here, and we placed players on offense into tiers. Who could get paid?"
+      "id": "b11d82f301e98237",
+      "title": "ESPN NFL mock draft 2026 has Cardinals trading up for a QB",
+      "link": "https://sports.yahoo.com/articles/espn-nfl-mock-draft-2026-125028248.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:50:28+0000",
+      "summary": "Could the Arizona Cardinals draft their QB of the future? Here's what the latest 2026 ESPN NFL mock draft says."
     },
     {
       "id": "0aa15cb61a06d18a",
@@ -43,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48085402/khalil-mack-play-2026-mulling-retirement-explore-all-free-agency-options",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-03T04:00:11+0000",
+      "published": "2026-03-03T12:48:22+0000",
       "summary": "Outside linebacker Khalil Mack, who had mulled retirement, will play in 2026 and explore all options in free agency, a source told ESPN, confirming a report by NFL Network."
     },
     {
@@ -52,8 +34,89 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48046106/2025-nfl-combine-draft-risers-mel-kiper-prospects-top-workouts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-03T04:00:11+0000",
+      "published": "2026-03-03T12:48:22+0000",
       "summary": "Mel Kiper Jr. picked out 13 players who caught his attention during combine workouts, including Chris Brazzell II and Dani Dennis-Sutton."
+    },
+    {
+      "id": "688841c4db6d8a08",
+      "title": "Reid's new two-round NFL mock draft: Which prospects are rising after the combine?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48053564/2026-nfl-mock-draft-two-rounds-64-picks-jordan-reid-combine",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-03T12:48:16+0000",
+      "summary": "Now that the 2026 combine is in the books, how could the NFL draft shake out? Jordan Reid projects the first two rounds -- including two trades."
+    },
+    {
+      "id": "8fd85954d3b0cd80",
+      "title": "Dolphins have little money for NFL free agency. Here’s a to-do list",
+      "link": "https://sports.yahoo.com/articles/dolphins-little-money-nfl-free-123436331.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:34:36+0000",
+      "summary": "Here is the list of positions the Dolphins could address when NFL free agency opens."
+    },
+    {
+      "id": "004b1f95bf5994e1",
+      "title": "Dolphins have little money for NFL free agency. Here’s a to-do list",
+      "link": "https://sports.yahoo.com/articles/dolphins-little-money-nfl-free-123436371.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:34:36+0000",
+      "summary": "Here is the list of positions the Dolphins could address when NFL free agency opens."
+    },
+    {
+      "id": "f06fd284f269c9a8",
+      "title": "Dolphins must consider top EDGE prospect early in the 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/dolphins-must-consider-top-edge-123359300.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:33:59+0000",
+      "summary": "The Dolphins released Bradley Chubb this offseason, but they could help the EDGE group by taking one of the top prospects in the 2026 NFL draft."
+    },
+    {
+      "id": "63ba0d1d3a1c5516",
+      "title": "Sleep weaponization, NFL strategic balance behind Super Bowl success",
+      "link": "https://sports.yahoo.com/articles/sleep-weaponization-nfl-strategic-balance-100006673.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:31:31+0000",
+      "summary": "Marathon work days remain badges of honor for NFL coaches, but weaponization of sleep strategy and balance is yielding championship results."
+    },
+    {
+      "id": "5c27d3358de1d7f0",
+      "title": "Texas A&M OL leads offensive line bench press reps at NFL combine",
+      "link": "https://sports.yahoo.com/articles/texas-m-ol-leads-offensive-123056025.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:30:56+0000",
+      "summary": "Texas A&amp;M players impressed at the NFL Combine, showcasing strength and versatility thanks to S&amp;C coach Tommy Moffitt's method."
+    },
+    {
+      "id": "a12cf4aad640df91",
+      "title": "2026 NFL mock draft: Bears land a top safety prospect",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-bears-123043313.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:30:43+0000",
+      "summary": "In USA Today's post-NFL combine mock draft, the Chicago Bears address their need for the safety position."
+    },
+    {
+      "id": "fcdf9195b802518d",
+      "title": "Broncos met with two 1st-round wide receiver prospects at NFL combine",
+      "link": "https://sports.yahoo.com/articles/broncos-met-two-1st-round-123024852.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:30:24+0000",
+      "summary": "The Broncos met with a pair of first-round wide receiver prospects at the NFL combine."
+    },
+    {
+      "id": "536788622fae82c8",
+      "title": "Latest buzz on Colts, Anthony Richardson trade talks after NFL combine",
+      "link": "https://sports.yahoo.com/articles/latest-buzz-colts-anthony-richardson-123021111.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-03T12:30:21+0000",
+      "summary": "Following the NFL combine, here is the latest buzz on the Indianapolis Colts and Anthony Richardson trade talks."
     },
     {
       "id": "1f607139c46fa400",
@@ -63,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-03-03T03:55:01+0000",
       "summary": "We're handing out report cards on big offseason moves, including Houston's two trades on Monday."
-    },
-    {
-      "id": "cfa01110709be4b4",
-      "title": "NFL combine bests: Risers and standouts at every position",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47978529/2026-nfl-combine-top-draft-prospects-workouts-risers-40-every-position",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-03T03:54:54+0000",
-      "summary": "Our experts break down the combine's top workouts."
     },
     {
       "id": "2c9454244441c848",
@@ -218,6 +272,15 @@
       "summary": "The Colts are allowing Richardson to seek out a trade, so he will have some agency on where he lands. Which teams could be a fit for him and provide him an opportunity to either start or give him the mentorship needed to help him hit his ceiling? Minnesota Vikings: Starting Opportunity The Vikings are [&#8230;]"
     },
     {
+      "id": "af9f0f6b242d01d7",
+      "title": "Report: Colts to allow Anthony Richardson to seek a trade",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/121848/report-colts-to-allow-anthony-richardson-to-seek-a-trade",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-26T18:28:31+0000",
+      "summary": "Indianapolis, IN — The NFL Scouting Combine is back home this week as the on-the-field portion kicks off later today in Lucas Oil Stadium, the very event that popularized quarterback Anthony Richardson Sr. and deemed him the most athletic quarterback prospect in NFL history, according to Relative Athletic Score. Fast-forward three years after being drafted [&#8230;]"
+    },
+    {
       "id": "38c1b5cce872218b",
       "title": "Colts give Anthony Richardson Sr. permission to seek trade",
       "link": "https://fox59.com/sports/colts/colts-give-anthony-richardson-sr-permission-to-seek-a-trade/",
@@ -225,6 +288,15 @@
       "feed": "CBS4Indy",
       "published": "2026-02-26T17:51:04+0000",
       "summary": "INDIANAPOLIS – Anthony Richardson Sr.’s immediate future has taken another expected turn. The Indianapolis Colts have given their erstwhile franchise quarterback permission to seek a trade, according to a source with knowledge of the situation. ESPN first reported the development. Richardson’s future with the team that selected him with the No. 4 overall pick in [...]"
+    },
+    {
+      "id": "ffe0b030df4d31b7",
+      "title": "Indianapolis Colts fan discussion: Where in the world are our Stampede Blue readers?",
+      "link": "https://stampedeblue.com/indianapolis-colts-discussion/24480850/fan-survey-location-census-discussion",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-02-26T17:22:35+0000",
+      "summary": "We’re in that slow period between the Super Bowl and the new league year where it sometimes feels like the NFL world has ground to a halt. And that makes it a perfect time to ask: Where in the world are our Stampede Blue readers?&#160; We don’t want or need your address or any personal [&#8230;]"
     },
     {
       "id": "4137f69a675af8a5",
@@ -468,78 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-10T19:51:14+0000",
       "summary": "To celebrate Black History Month, check out a list of every Colts player to attend one of the 107 Historically Black Colleges and Universities."
-    },
-    {
-      "id": "d4c75b5f18c00e49",
-      "title": "'The Jim Irsay Collection': Items from late Colts owner's iconic memorabilia collection to be sold in auction",
-      "link": "https://fox59.com/news/the-jim-irsay-collection-items-from-late-colts-owners-iconic-memorabilia-collection-to-be-sold-in-auction/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-10T18:45:00+0000",
-      "summary": "(WXIN/WTTV) — Beginning in March, items from Jim Irsay's world-renowned collection of memorabilia will be available for purchase at Christie's in New York. Hundreds of objects from The Jim Irsay Collection, representing various milestones in the worlds of sports, music, movies and pop culture, will be available via online auction from March 3-17. The public [...]"
-    },
-    {
-      "id": "b0e458cd3ea9ed8a",
-      "title": "Colts’ 2026 lookahead: Quarterback, which means Daniel Jones",
-      "link": "https://fox59.com/sports/colts/colts-2026-lookahead-quarterback-which-means-daniel-jones/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-09T21:18:33+0000",
-      "summary": "INDIANAPOLIS – It starts with the most influential position: Quarterback. Always. Whatever awaits the Indianapolis Colts as they transition from another unsatisfactory 2025 to 2026 hinges on Daniel Jones’ right Achilles. That’s the one he ruptured late in the first quarter of their Dec. 7 game at Jacksonville. A season teeming with promise essentially ended [...]"
-    },
-    {
-      "id": "37dd6b15b6158867",
-      "title": "Adam Vinatieri thought he might get cut after his second game in the NFL. Now, he's a Pro Football Hall of Famer.",
-      "link": "https://colts.com/news/adam-vinatieri-new-england-patriots-indianapolis-colts-pro-football-hall-of-fame-kicker-super-bowl-nfl-honors-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-06T14:11:29+0000",
-      "summary": "Vinatieri became just the third kicker to be named to the Pro Football Hall of Fame."
-    },
-    {
-      "id": "a7a5dcd75e486591",
-      "title": "Adam Vinatieri named to Pro Football Hall of Fame Class of 2026",
-      "link": "https://colts.com/news/adam-vinatieri-named-to-pro-football-hall-of-fame-class-of-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-06T03:12:00+0000",
-      "summary": "Vinatieri, the NFL's all-time leader in points scored, spent 14 of his 24 years in the NFL with the Colts."
-    },
-    {
-      "id": "d3d4170d9e8a213b",
-      "title": "Adam Vinatieri, NFL's all-time clutch kicker, selected for Pro Football Hall of Fame",
-      "link": "https://fox59.com/sports/colts/adam-vinatieri-nfls-all-time-clutch-kicker-selected-for-pro-football-hall-of-fame/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-06T03:10:25+0000",
-      "summary": "INDIANAPOLIS – Casual conversation that intensified over the past several years has become a reality. Adam Vinatieri is a member of the Pro Football Hall of Fame. Arguably the greatest kicker in NFL history was named to the Class of 2026, which was announced Thursday night. “To have this honor is incredible,” Vinatieri told FOX59/CBS4 [...]"
-    },
-    {
-      "id": "98b1100840c0aa3b",
-      "title": "Colts' gameday experience earns top rankings in NFL survey, including No.1 in family-oriented entertainment",
-      "link": "https://colts.com/news/colts-gameday-experience-earns-top-rankings-in-nfl-survey-including-no-1-in-family-oriented-entertainment",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-05T19:38:00+0000",
-      "summary": "\"Voice of the Fan\" is one of the NFL's primary benchmarking tools for evaluating the full in-stadium experience across all 32 NFL teams."
-    },
-    {
-      "id": "34cc573780ff46a3",
-      "title": "Colts RB Jonathan Taylor, TE Tyler Warren attend 2026 Pro Bowl Games",
-      "link": "https://colts.com/news/colts-rb-jonathan-taylor-te-tyler-warren-attend-2026-pro-bowl-games-social-media-highlights-quenton-nelson",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-04T15:25:20+0000",
-      "summary": "Check out social media highlights from this week in San Francisco."
-    },
-    {
-      "id": "033d27bdb7cbef2f",
-      "title": "Colts’ Quenton Nelson keeps piling up Pro Bowls and All-Pros; ‘Great, dominant player’",
-      "link": "https://fox59.com/sports/colts-quenton-nelson-keeps-piling-up-pro-bowls-and-all-pros-great-dominant-player/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-03T18:08:50+0000",
-      "summary": "INDIANAPOLIS – There is reason for optimism with a touch of caution with the Indianapolis Colts’ offensive line. And then there’s Quenton Nelson. The optimism is rooted in the continued development of Bernhard Raimann as the long-term answer at left tackle and Tanor Bortolini being up to the task of succeeding Ryan Kelly at center. [...]"
     }
   ],
   "links": [
