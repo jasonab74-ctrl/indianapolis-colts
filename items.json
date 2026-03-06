@@ -1,14 +1,23 @@
 {
-  "updated": "2026-03-06T04:19:36+00:00",
+  "updated": "2026-03-06T05:30:35+00:00",
   "items": [
     {
-      "id": "dd33c1c27fa69be1",
-      "title": "Patriots reportedly will be in strong pursuit of Colts FA wideout Alec Pierce, among other speculated suitors",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122093/patriots-reportedly-will-be-in-strong-pursuit-of-colts-fa-wideout-alec-pierce-among-other-speculated-suitors",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T03:09:14+0000",
-      "summary": "According to Essentially Sports’ NFL Draft Analyst Tony Pauline, the New England Patriots are expected to shortly be in strong pursuit of pending Indianapolis Colts free agent wideout Alec Pierce: “I reported just before the Combine that the Las Vegas Raiders and Tennessee Titans are two teams ready to make a bid for Pierce,” writes [&#8230;]"
+      "id": "1d5e3d2e0c3a4692",
+      "title": "NFL franchise and transition tag winners, losers: Solak sizes up deadline dominoes",
+      "link": "https://espn.com/nfl/story/_/id/48082127/2026-nfl-franchise-tag-deadline-winners-losers-free-agency-offseason-contracts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-06T05:11:43+0000",
+      "summary": "Breece Hall, George Pickens and Kyle Pitts Sr. were franchise-tagged, and Daniel Jones got the transition tag. What does it all mean for free agency?"
+    },
+    {
+      "id": "67622022c302ae7a",
+      "title": "Who got the franchise tag or transition tag this NFL offseason?",
+      "link": "https://espn.com/nfl/story/_/id/47878161/2026-nfl-franchise-tag-transition-tracker-updates-cap-space-free-agency",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-06T05:11:43+0000",
+      "summary": "Three players were franchise-tagged, and one player was transition-tagged. Here's what to know."
     },
     {
       "id": "688841c4db6d8a08",
@@ -16,7 +25,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48053564/2026-nfl-mock-draft-two-rounds-64-picks-jordan-reid-combine",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-06T02:44:55+0000",
+      "published": "2026-03-06T04:37:26+0000",
       "summary": "Following the combine -- and a big Rams-Chiefs trade -- Jordan Reid projects the first two rounds of the 2026 NFL draft. See all 64 pick predictions."
     },
     {
@@ -27,15 +36,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-06T01:31:09+0000",
       "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
-    },
-    {
-      "id": "73d137453a5faaa8",
-      "title": "Report: Colts are shopping LB Zaire Franklin",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122082/report-colts-are-shopping-lb-zaire-franklin",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T01:30:40+0000",
-      "summary": "The Indianapolis Colts are actively speaking with teams about a trade for linebacker Zaire Franklin, according to Adam Schefter of ESPN. The former special teamer turned six-time team captain (2020-2025) has spent all eight of his seasons in the NFL with the Colts, racking up a total of 738 tackles, 34 tackles for loss, 10 [&#8230;]"
     },
     {
       "id": "1f607139c46fa400",
@@ -72,15 +72,6 @@
       "feed": "ESPN",
       "published": "2026-03-05T19:25:22+0000",
       "summary": "Mel Kiper Jr. is stacking the top 25 players in the NFL draft class, starting with Fernando Mendoza."
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Tracking NFL free agency: Updates on re-signings, trades, cuts and rumors",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-05T15:56:00+0000",
-      "summary": "NFL free agency opens with the legal negotiating window on March 9. Here's the latest intel."
     },
     {
       "id": "61f196e360c7f920",
@@ -135,15 +126,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-04T18:33:22+0000",
       "summary": "Indianapolis Colts&#8216; budding star wide receiver Alec Pierce recently revealed on the Up &#38; Adams Show that he will indeed be testing the open market as an unrestricted free agent come Monday, March 9th at 12:00 PM EST. “I love Indy. I’ve loved playing there. Great organization, great people in the city. Just a ton [&#8230;]"
-    },
-    {
-      "id": "1d5e3d2e0c3a4692",
-      "title": "NFL franchise and transition tag winners, losers: Solak sizes up deadline dominoes",
-      "link": "https://espn.com/nfl/story/_/id/48082127/2026-nfl-franchise-tag-deadline-winners-losers-free-agency-offseason-contracts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-04T16:07:27+0000",
-      "summary": "Breece Hall, George Pickens and Kyle Pitts Sr. were franchise-tagged, and Daniel Jones got the transition tag. What does it all mean for free agency?"
     },
     {
       "id": "cac113849c641503",
@@ -207,6 +189,15 @@
       "feed": "Stampede Blue",
       "published": "2026-03-03T17:59:23+0000",
       "summary": "The Indianapolis Colts have a looming decision to make, as the franchise is just hours away from the league’s mandated 4 PM EST, Tuesday deadline where any franchise or transition tag must be applied beforehand. While contract negotiations remain fluid with each priority internal free agent, the Colts still have not struck a deal with [&#8230;]"
+    },
+    {
+      "id": "4473b642d4d50739",
+      "title": "Colts’ Ward is facing a life-altering decision",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122014/colts-ward-is-facing-a-life-altering-decision",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-03T14:12:00+0000",
+      "summary": "Charvarius Ward was the big offseason prize for the Indianapolis Colts. Chris Ballard finally went out and spent in free agency, and all signs pointed to Ward being the answer to shoring up the Colts’ porous defensive backfield. When he was on the field, Ward was that guy. He looked like a true number one. [&#8230;]"
     },
     {
       "id": "2c9454244441c848",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-02-06T03:12:00+0000",
       "summary": "Vinatieri, the NFL's all-time leader in points scored, spent 14 of his 24 years in the NFL with the Colts."
+    },
+    {
+      "id": "d3d4170d9e8a213b",
+      "title": "Adam Vinatieri, NFL's all-time clutch kicker, selected for Pro Football Hall of Fame",
+      "link": "https://fox59.com/sports/colts/adam-vinatieri-nfls-all-time-clutch-kicker-selected-for-pro-football-hall-of-fame/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-02-06T03:10:25+0000",
+      "summary": "INDIANAPOLIS – Casual conversation that intensified over the past several years has become a reality. Adam Vinatieri is a member of the Pro Football Hall of Fame. Arguably the greatest kicker in NFL history was named to the Class of 2026, which was announced Thursday night. “To have this honor is incredible,” Vinatieri told FOX59/CBS4 [...]"
     }
   ],
   "links": [
