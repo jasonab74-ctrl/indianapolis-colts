@@ -1,14 +1,59 @@
 {
-  "updated": "2026-03-06T15:35:55+00:00",
+  "updated": "2026-03-06T16:39:30+00:00",
   "items": [
     {
-      "id": "2fa42060e835aa6b",
-      "title": "NFL insider: Dolphins 'might be interested' in former first-round QB",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-dolphins-might-interested-153152632.html",
+      "id": "fb0b74ea2c8d2694",
+      "title": "Browns free agency: Geno Smith fits if Shedeur, Deshaun not Todd Monken’s choice",
+      "link": "https://sports.yahoo.com/articles/browns-free-agency-geno-smith-162800633.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-06T15:31:52+0000",
-      "summary": "The Miami Dolphins are looking for a new starting quarterback, and they're connected to a former first-round pick who flamed out with his first team."
+      "published": "2026-03-06T16:28:00+0000",
+      "summary": "Cleveland Browns Todd Monken might be sold on Shedeur Sanders, Deshaun Watson, if not Geno Smith fits in NFL free agency"
+    },
+    {
+      "id": "1942275da05cec47",
+      "title": "ESPN lists Colts safety Nick Cross as team’s free agent ‘most likely on move’",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122106/espn-lists-colts-safety-nick-cross-as-teams-free-agent-most-likely-on-move",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-06T16:27:46+0000",
+      "summary": "According to ESPN, Indianapolis Colts starting safety Nick Cross is their pending free agent “most likely on the move”—which may give slight optimism for the Horseshoe faithful worried about retaining wideout Alec Pierce rapidly approaching free agency’s formal kick-off: FA most likely on the move:&#160;S&#160;Nick Cross. The Colts&#8217; signing of veteran free agent&#160;Cam Bynum&#160;last offseason, [&#8230;]"
+    },
+    {
+      "id": "76c5315096b00bae",
+      "title": "ESPN lists Colts safety Nick Cross as team’s free agent ‘most likely on move’",
+      "link": "https://sports.yahoo.com/articles/espn-lists-colts-safety-nick-162746612.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-06T16:27:46+0000",
+      "summary": "The Colts and free agent starting safety Nick Cross could be at a looming crossroads, with signs pointing to him signing elsewhere."
+    },
+    {
+      "id": "2779551e96709962",
+      "title": "Chargers Agree to Three-Year, $30 Million Deal With C Tyler Biadasz",
+      "link": "https://sports.yahoo.com/articles/chargers-agree-three-30-million-162738576.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-06T16:27:38+0000",
+      "summary": "The Los Angeles Chargers reportedly agreed to a three-year, $30 million deal with center Tyler Biadasz, according to a report from NFL Network’s Ian Rapoport. Biadasz was the starting center for the Washington Commanders during the 2025 season. The franchise…"
+    },
+    {
+      "id": "1a81ee0c34aedabc",
+      "title": "How NFL experts graded the Bears' trade of WR DJ Moore",
+      "link": "https://sports.yahoo.com/articles/nfl-experts-graded-bears-trade-162316034.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-06T16:23:16+0000",
+      "summary": "The Chicago Bears made their first big move trading DJ Moore to the Buffalo Bills. We rounded up expert grades."
+    },
+    {
+      "id": "dd9218ded5d296dc",
+      "title": "NFL salary cap cuts 2026: Stefon Diggs, Kyler Murray and more notable players released to NFL free agency",
+      "link": "https://sports.yahoo.com/articles/nfl-salary-cap-cuts-2026-011454146.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-06T16:20:00+0000",
+      "summary": "Here's a look at the NFL salary cap cuts thus far."
     },
     {
       "id": "f35ee4dd4d7c4693",
@@ -27,42 +72,6 @@
       "feed": "ESPN",
       "published": "2026-03-06T15:31:13+0000",
       "summary": "Following the combine -- and a big Rams-Chiefs trade -- Jordan Reid projects the first two rounds of the 2026 NFL draft. See all 64 pick predictions."
-    },
-    {
-      "id": "23baa7cd53029414",
-      "title": "49ers met with monster offensive line prospect at 2026 NFL combine",
-      "link": "https://sports.yahoo.com/articles/49ers-met-monster-offensive-line-153053257.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-06T15:30:53+0000",
-      "summary": "The 49ers need one starting offensive lineman this year and will need more in 2027. They could turn a 6-foot-6 prospect in the 2026 NFL draft."
-    },
-    {
-      "id": "6f23cc2ff9e01980",
-      "title": "Raiders and Titans free agency rumors reveal interest in future Hall of Famer",
-      "link": "https://sports.yahoo.com/articles/raiders-titans-free-agency-rumors-152946698.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-06T15:29:46+0000",
-      "summary": "According to a new rumor from an NFL insider, the Tennessee Titans and Las Vegas Raiders are interested in a future Hall of Famer who is unlikely to be interested in signing with either team."
-    },
-    {
-      "id": "0d7e8701645370da",
-      "title": "Colts defender named 'most likely' free agent to sign elsewhere",
-      "link": "https://sports.yahoo.com/articles/colts-defender-named-most-likely-152038685.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-06T15:20:38+0000",
-      "summary": "A Colts' defender was selected as the team's &quot;most likely&quot; free agent to be on the move this offseason."
-    },
-    {
-      "id": "a5f1105c64886fae",
-      "title": "Browns clear $34 million in salary cap space with one simple move",
-      "link": "https://sports.yahoo.com/articles/browns-clear-34-million-salary-152000920.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-06T15:20:00+0000",
-      "summary": "The Browns have restructured the contract of quarterback Deshaun Watson, clearing $34 million in cap space as NFL free agency gets set to begin"
     },
     {
       "id": "e874c83305206025",
@@ -261,15 +270,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-04T03:33:43+0000",
       "summary": "The Indianapolis Colts have reportedly placed the transition tag, worth $37.833 million, on pending free agent starting quarterback Daniel Jones, which means they’re currently a projected $4.7 million over the 2026 team salary cap (via Fox59/CBS4’s Mike Chappell): Now, the Colts salary cap situation remains entirely fluid. For one, the Colts could still agree to [&#8230;]"
-    },
-    {
-      "id": "5141538a33593628",
-      "title": "Colts apply transition tag to QB Daniel Jones—while continuing to negotiate with both WR Alec Pierce and him",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122025/colts-apply-transition-tag-to-qb-daniel-jones-while-continuing-to-negotiate-with-both-him-and-wr-alec-pierce",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-03T20:45:10+0000",
-      "summary": "According to multiple league sources, the Indianapolis Colts are applying the transition tag, worth $37.83M dollars for the 2026 season, to pending free agent starting quarterback Daniel Jones, which gives the Horseshoe the ability to match any offer sheet Jones signs during the upcoming free agency period: Before then, Indianapolis will continue to negotiate with [&#8230;]"
     },
     {
       "id": "c442eee42654f9a3",
