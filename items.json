@@ -1,6 +1,33 @@
 {
-  "updated": "2026-03-06T18:43:07+00:00",
+  "updated": "2026-03-06T19:33:03+00:00",
   "items": [
+    {
+      "id": "f35ee4dd4d7c4693",
+      "title": "Sources: Watson deal reworked to shrink cap hit",
+      "link": "https://espn.com/nfl/story/_/id/48121811/sources-browns-rework-watson-contract-lower-nfl-high-cap-hit",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-06T19:25:37+0000",
+      "summary": "The Browns have once again restructured the contract of quarterback Deshaun Watson, league sources confirmed to ESPN, a move that frees close to $36 million in cap space and lowers what was the largest cap hit in the NFL in 2026."
+    },
+    {
+      "id": "688841c4db6d8a08",
+      "title": "🏈 Reid's post-combine mock draft: 64 predictions",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48053564/2026-nfl-mock-draft-two-rounds-64-picks-jordan-reid-combine",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-06T19:25:37+0000",
+      "summary": "Following the combine -- and a big Rams-Chiefs trade -- Jordan Reid projects the first two rounds of the 2026 NFL draft. See all 64 pick predictions."
+    },
+    {
+      "id": "7fda9bb09910ae80",
+      "title": "Jets offseason quarterback rumor mill is heating up",
+      "link": "https://sports.yahoo.com/articles/jets-offseason-quarterback-rumor-mill-191246710.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-06T19:12:46+0000",
+      "summary": "The Jets need a new quarterback. With free agency set to begin in the NFL next week, it is no surprise that rumors are flying. Connor Hughes of SNY suggests journeyman veteran quarterback Carson Wentz could be a name to watch due to his ties with offensive coordinator Frank Reich. The #Jets might not target […]"
+    },
     {
       "id": "1f607139c46fa400",
       "title": "Our NFL offseason trade grades: Did the Bills give up too much for DJ Moore?",
@@ -11,24 +38,6 @@
       "summary": "We're handing out report cards on big offseason moves, including the Bears sending DJ Moore to the Bills."
     },
     {
-      "id": "688841c4db6d8a08",
-      "title": "🏈 Reid's post-combine mock draft: 64 predictions",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48053564/2026-nfl-mock-draft-two-rounds-64-picks-jordan-reid-combine",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-06T18:22:47+0000",
-      "summary": "Following the combine -- and a big Rams-Chiefs trade -- Jordan Reid projects the first two rounds of the 2026 NFL draft. See all 64 pick predictions."
-    },
-    {
-      "id": "f35ee4dd4d7c4693",
-      "title": "Sources: Watson deal reworked to shrink cap hit",
-      "link": "https://espn.com/nfl/story/_/id/48121811/sources-browns-rework-watson-contract-lower-nfl-high-cap-hit",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-06T18:22:46+0000",
-      "summary": "The Browns have once again restructured the contract of quarterback Deshaun Watson, league sources confirmed to ESPN, a move that frees close to $36 million in cap space and lowers what was the largest cap hit in the NFL in 2026."
-    },
-    {
       "id": "c0af2a391ccffddc",
       "title": "What 20 NFL free agents could earn next week: Projecting contracts, guarantees and landing spots",
       "link": "https://espn.com/nfl/story/_/id/48112167/2026-nfl-free-agency-contracts-projections-players-willis-pierce-hendrickson",
@@ -36,24 +45,6 @@
       "feed": "ESPN",
       "published": "2026-03-06T18:22:39+0000",
       "summary": "Dan Graziano made calls around the NFL to get a sense of how contracts might look for 20 free agents and then made predictions on exact terms."
-    },
-    {
-      "id": "c5c217b05cae1355",
-      "title": "Does anyone feel optimistic about what the Colts are doing right now?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122101/does-anyone-feel-optimistic-about-what-the-colts-are-doing-right-now",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T17:16:40+0000",
-      "summary": "Does anyone feel optimistic about what the Indianapolis Colts are doing was the question, but maybe a better one is, what exactly are the Colts doing right now? For years, my personal gripe has been that this franchise is directionless. This lack of direction starts at the top with Chris Ballard and has been one [&#8230;]"
-    },
-    {
-      "id": "1942275da05cec47",
-      "title": "ESPN lists Colts safety Nick Cross as team’s free agent ‘most likely on move’",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122106/espn-lists-colts-safety-nick-cross-as-teams-free-agent-most-likely-on-move",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T16:27:46+0000",
-      "summary": "According to ESPN, Indianapolis Colts starting safety Nick Cross is their pending free agent “most likely on the move”—which may give slight optimism for the Horseshoe faithful worried about retaining wideout Alec Pierce rapidly approaching free agency’s formal kick-off: FA most likely on the move:&#160;S&#160;Nick Cross. The Colts&#8217; signing of veteran free agent&#160;Cam Bynum&#160;last offseason, [&#8230;]"
     },
     {
       "id": "e874c83305206025",
@@ -225,6 +216,24 @@
       "feed": "Stampede Blue",
       "published": "2026-03-04T04:00:44+0000",
       "summary": "According to NFL Network’s Ian Rapoport, while the Indianapolis Colts made an ‘aggressive move’ to re-sign Alec Pierce before Tuesday’s late afternoon league tag deadline, all signs were already pointing to the team’s lead wideout testing the free agent waters next mid-week—short of the Horseshoe applying the franchise tag (which the transition tag went to [&#8230;]"
+    },
+    {
+      "id": "e2547b537a47c929",
+      "title": "Colts capology: By placing transition tag on QB Daniel Jones, Indy is currently over the cap, but have flexibility",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122039/colts-capology-by-placing-transition-tag-on-qb-daniel-jones-indy-is-currently-over-the-cap-but-have-flexibility",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-04T03:33:43+0000",
+      "summary": "The Indianapolis Colts have reportedly placed the transition tag, worth $37.833 million, on pending free agent starting quarterback Daniel Jones, which means they’re currently a projected $4.7 million over the 2026 team salary cap (via Fox59/CBS4’s Mike Chappell): Now, the Colts salary cap situation remains entirely fluid. For one, the Colts could still agree to [&#8230;]"
+    },
+    {
+      "id": "5141538a33593628",
+      "title": "Colts apply transition tag to QB Daniel Jones—while continuing to negotiate with both WR Alec Pierce and him",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122025/colts-apply-transition-tag-to-qb-daniel-jones-while-continuing-to-negotiate-with-both-him-and-wr-alec-pierce",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-03T20:45:10+0000",
+      "summary": "According to multiple league sources, the Indianapolis Colts are applying the transition tag, worth $37.83M dollars for the 2026 season, to pending free agent starting quarterback Daniel Jones, which gives the Horseshoe the ability to match any offer sheet Jones signs during the upcoming free agency period: Before then, Indianapolis will continue to negotiate with [&#8230;]"
     },
     {
       "id": "c442eee42654f9a3",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-11T15:00:46+0000",
       "summary": "Qualified candidates for both positions will be evaluated and interviewed by a selection committee composed of the Irsay family, General Manager Chris Ballard, Head Coach Shane Steichen and other members of the Colts coaching staff and football operations team."
-    },
-    {
-      "id": "753eeaeaa83fdfd8",
-      "title": "Black History Month: Every Colts player to attend an HBCU",
-      "link": "https://colts.com/news/black-history-month-every-colts-player-to-attend-an-hbcu-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-10T19:51:14+0000",
-      "summary": "To celebrate Black History Month, check out a list of every Colts player to attend one of the 107 Historically Black Colleges and Universities."
     }
   ],
   "links": [
