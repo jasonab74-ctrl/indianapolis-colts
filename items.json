@@ -1,32 +1,14 @@
 {
-  "updated": "2026-03-07T19:42:50+00:00",
+  "updated": "2026-03-07T20:24:29+00:00",
   "items": [
     {
-      "id": "3bb0f87eb4f25d39",
-      "title": "Eagles Free Agency Tracker: Rumors, Reports, and Signings",
-      "link": "https://sports.yahoo.com/articles/eagles-free-agency-tracker-rumors-004700418.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-07T19:28:19+0000",
-      "summary": "NFL free agency starts on March 11, and the Eagles will have a lot of moves to make to fill their 2026 roster."
-    },
-    {
-      "id": "0c174282c128f0df",
-      "title": "Bills to retain their offensive line amid approaching NFL Free Agency",
-      "link": "https://sports.yahoo.com/articles/bills-retain-offensive-line-amid-192507274.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-07T19:25:07+0000",
-      "summary": "NFL free agency is on its way and the Buffalo Bills are getting good news. The team moved to keep a key interior lineman in-house. That comes before the market opens. Connor McGovern agreed to a four-year, $52 million deal…"
-    },
-    {
-      "id": "52da8ae24ea7d067",
-      "title": "Bills give Connor McGovern contract extension before NFL free agency",
-      "link": "https://sports.yahoo.com/articles/bills-connor-mcgovern-contract-extension-192140926.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-07T19:21:40+0000",
-      "summary": "The Buffalo Bills are keeping their starting center, Connor McGovern, on a four-year extension. Here are the full details of his new contract."
+      "id": "dc20b4f070607fe7",
+      "title": "Rams' D. Williams retires; CB overhaul continues",
+      "link": "https://espn.com/nfl/story/_/id/48133083/rams-darious-williams-retires-cb-overhaul-continues",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-07T19:42:34+0000",
+      "summary": "Rams cornerback Darious Williams has retired after 100 regular-season NFL games. Following Williams' retirement, Los Angeles still has four pending free agents at cornerback."
     },
     {
       "id": "ee7659b6dfd1ade1",
@@ -45,15 +27,6 @@
       "feed": "ESPN",
       "published": "2026-03-07T19:11:58+0000",
       "summary": "Dan Graziano made calls around the NFL to get a sense of how contracts might look for 20 free agents."
-    },
-    {
-      "id": "dc20b4f070607fe7",
-      "title": "Rams' D. Williams retires; CB overhaul continues",
-      "link": "https://espn.com/nfl/story/_/id/48133083/rams-darious-williams-retires-cb-overhaul-continues",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-07T18:52:21+0000",
-      "summary": "Rams cornerback Darious Williams has retired after 100 regular-season NFL games. Following Williams' retirement, Los Angeles still has four pending free agents at cornerback."
     },
     {
       "id": "6198b502efad5872",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2026-02-12T03:46:27+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ defensive line is getting a new direction. The team is hiring Marion Hobby, who has a strong link to coordinator Lou Anarumo, to coach the position, according to a source with knowledge of the situation. CBS Sports was first to report the move. He fills the vacancy created when Charlie [...]"
+    },
+    {
+      "id": "4ccfb1ad835cc434",
+      "title": "Heavy Hoosier presence in upcoming NFL Scouting Combine",
+      "link": "https://fox59.com/sports/heavy-hoosier-presence-in-upcoming-nfl-scouting-combine/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-02-11T18:45:45+0000",
+      "summary": "INDIANAPOLIS – The afterglow of Indiana’s undefeated national championship includes a heavy presence at the upcoming NFL Scouting Combine. A school-record nine Hoosiers have been invited to the NFL’s preeminent player evaluation, which converges on Lucas Oil Stadium Feb. 25. Atop the list is Heisman Trophy-winning quarterback Fernando Mendoza, the presumptive favorite to be selected [...]"
+    },
+    {
+      "id": "755c25e5d85bc583",
+      "title": "Colts accepting resumes for both Tony Dungy and Harriet P. Irsay Fellowship Programs",
+      "link": "https://colts.com/news/tony-dungy-and-harriet-p-irsay-fellowship-programs-applications-open-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-11T15:00:46+0000",
+      "summary": "Qualified candidates for both positions will be evaluated and interviewed by a selection committee composed of the Irsay family, General Manager Chris Ballard, Head Coach Shane Steichen and other members of the Colts coaching staff and football operations team."
+    },
+    {
+      "id": "753eeaeaa83fdfd8",
+      "title": "Black History Month: Every Colts player to attend an HBCU",
+      "link": "https://colts.com/news/black-history-month-every-colts-player-to-attend-an-hbcu-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-10T19:51:14+0000",
+      "summary": "To celebrate Black History Month, check out a list of every Colts player to attend one of the 107 Historically Black Colleges and Universities."
     }
   ],
   "links": [
