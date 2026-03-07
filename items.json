@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T06:52:50+00:00",
+  "updated": "2026-03-07T07:27:43+00:00",
   "items": [
     {
       "id": "1f607139c46fa400",
@@ -9,15 +9,6 @@
       "feed": "ESPN",
       "published": "2026-03-07T06:18:15+0000",
       "summary": "We're handing out report cards on big moves, including the Ravens dealing two first-rounders for Crosby."
-    },
-    {
-      "id": "5d049355d29b099d",
-      "title": "Over 60 active NFL players attend 'Bring The Juice' Pro-Am in Madera",
-      "link": "https://sports.yahoo.com/articles/over-60-active-nfl-players-060357352.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-07T06:03:57+0000",
-      "summary": "Former Fresno State football walk-on turned podcast host Frank Dalena has brought over 60 active NFL players to join his annual &quot;Bring The Juice&quot; golf tournament."
     },
     {
       "id": "e874c83305206025",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-02-12T19:00:08+0000",
       "summary": "Whether through engaging fans, empowering young athletes or supporting local organizations, the Colts made a difference off the field in many ways in 2025."
+    },
+    {
+      "id": "f0c77fdb3ef00462",
+      "title": "Colts adding Marion Hobby as d-line coach",
+      "link": "https://fox59.com/sports/colts/colts-adding-marion-hobby-as-d-line-coach/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-02-12T03:46:27+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ defensive line is getting a new direction. The team is hiring Marion Hobby, who has a strong link to coordinator Lou Anarumo, to coach the position, according to a source with knowledge of the situation. CBS Sports was first to report the move. He fills the vacancy created when Charlie [...]"
     }
   ],
   "links": [
