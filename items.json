@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-08T10:24:23+00:00",
+  "updated": "2026-03-08T10:50:27+00:00",
   "items": [
+    {
+      "id": "b64fc856f9127fd5",
+      "title": "Former Steelers wide receiver retires from NFL at 27 years old",
+      "link": "https://sports.yahoo.com/articles/former-steelers-wide-receiver-retires-103051402.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-08T10:30:51+0000",
+      "summary": "Lance McCutcheon, a former Pittsburgh Steelers training camp standout, has announced his retirement from the NFL."
+    },
+    {
+      "id": "7dda49b538e74ceb",
+      "title": "Cleveland Browns news (3/8): One more sleep until free agency",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-3-8-103000113.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-08T10:30:00+0000",
+      "summary": "The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow."
+    },
     {
       "id": "1082336170b20766",
       "title": "Bengals News (3/8): NFL Free Agency Eve",
@@ -11,6 +29,15 @@
       "summary": "We’re on the precipice of the legal tampering period of 2026 NFL Free Agency."
     },
     {
+      "id": "8488b4bc2c3fe630",
+      "title": "Rich Eisen Urges New York Jets to Sign Kyler Murray By Trading Away NFL Draft Picks to Cardinals",
+      "link": "https://sports.yahoo.com/articles/rich-eisen-urges-york-jets-101118322.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-08T10:11:18+0000",
+      "summary": "With Kyler Murray expected to part ways with the Arizona Cardinals when the new league year begins, speculation about his next destination has already started across the NFL. One potential landing spot, according to longtime broadcaster Rich Eisen, could be the New York Jets."
+    },
+    {
       "id": "badbfca65f8454e4",
       "title": "NFL analyst predicts a big move for the Titans in free agency",
       "link": "https://sports.yahoo.com/articles/nfl-analyst-predicts-big-move-100427768.html",
@@ -18,15 +45,6 @@
       "feed": "Yahoo Sports",
       "published": "2026-03-08T10:04:27+0000",
       "summary": "The NFL free agency signing period is on the horizon and one analyst believes the Tennessee Titans will make a big splash early on."
-    },
-    {
-      "id": "60721829871b091c",
-      "title": "Ranking the Steelers’ roster needs ahead of free agency",
-      "link": "https://sports.yahoo.com/articles/ranking-steelers-roster-needs-ahead-100000361.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-08T10:00:00+0000",
-      "summary": "Where does Pittsburgh need the most free agent help heading into the new NFL year?"
     },
     {
       "id": "3d92f34a4bd7c6e3",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-13T15:00:00+0000",
       "summary": "From Feb. 26-March 1, NFL fans can enjoy free, family-friendly access to on-field action, exclusive content and interactive football fun at Lucas Oil Stadium."
-    },
-    {
-      "id": "a3e4fc88bd69d6d6",
-      "title": "Colts 2026 lookahead: Wide receivers",
-      "link": "https://fox59.com/sports/colts/colts-2026-lookahead-wide-receivers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-12T23:27:49+0000",
-      "summary": "INDIANAPOLIS – Two questions hover over an area of strength. What to do, if anything, with Michael Pittman Jr.? How to do it with Alec Pierce? The answers are paramount to the Indianapolis Colts’ receivers room remaining well-stocked and productive heading into next season. A resolution is likely to come in the next month. No [...]"
-    },
-    {
-      "id": "dbb2531ff0b246e7",
-      "title": "Looking back at Colts' impact in the community in 2025",
-      "link": "https://colts.com/news/looking-back-at-colts-impact-in-the-community-in-2025-girls-flag-makers-of-moments",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-12T19:00:08+0000",
-      "summary": "Whether through engaging fans, empowering young athletes or supporting local organizations, the Colts made a difference off the field in many ways in 2025."
     }
   ],
   "links": [
