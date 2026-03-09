@@ -1,23 +1,32 @@
 {
-  "updated": "2026-03-09T16:55:52+00:00",
+  "updated": "2026-03-09T17:46:29+00:00",
   "items": [
-    {
-      "id": "498bd405e157d15b",
-      "title": "Sources: Texans to bring back Ingram, Rankins",
-      "link": "https://espn.com/nfl/story/_/id/48151253/sources-ed-ingram-stays-texans-3-year-deal",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-09T17:51:09+0000",
-      "summary": "Guard Ed Ingram and defensive tackle Sheldon Rankins will not hit free agency after agreeing to multiyear deals with the Texans, according to ESPN and NFL Network."
-    },
     {
       "id": "a057b066daf83f55",
       "title": "Sources: Pats reach deal with pass rusher Jones",
       "link": "https://espn.com/nfl/story/_/id/48153569/sources-patriots-reach-deal-pass-rusher-dremont-jones",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T17:50:58+0000",
+      "published": "2026-03-09T18:28:04+0000",
       "summary": "The Patriots have agreed to a three-year, $39.5 million contract with free agent pass rusher Dre'Mont Jones, according to NFL Network."
+    },
+    {
+      "id": "498bd405e157d15b",
+      "title": "Sources: Texans to bring back Ingram, Rankins",
+      "link": "https://espn.com/nfl/story/_/id/48151253/sources-ed-ingram-stays-texans-3-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-09T18:28:04+0000",
+      "summary": "Guard Ed Ingram and defensive tackle Sheldon Rankins will not hit free agency after agreeing to multiyear deals with the Texans, according to ESPN and NFL Network."
+    },
+    {
+      "id": "2b0c451488bf47a7",
+      "title": "Sources: Ravens reach 3-year deal with Simpson",
+      "link": "https://espn.com/nfl/story/_/id/48154231/sources-ravens-reach-3-year-deal-guard-john-simpson",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-09T18:28:03+0000",
+      "summary": "The Baltimore Ravens and guard John Simpson have agreed to a three-year, $30 million contract, according to NFL Network."
     },
     {
       "id": "133cc466d3b457d2",
@@ -25,26 +34,98 @@
       "link": "https://espn.com/nfl/story/_/id/48152343/sources-packers-trading-dl-rashan-gary-cowboys",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T17:50:58+0000",
+      "published": "2026-03-09T18:28:03+0000",
       "summary": "The Green Bay Packers are finalizing a deal that would send defensive lineman Rashan Gary to the Dallas Cowboys in exchange for a 2027 draft pick, sources told ESPN's Adam Schefter. The pick is a fourth-rounder, according to NFL Network."
     },
     {
       "id": "4fb0c5b47d0f35dc",
-      "title": "Sources: Pierce returning to Colts on $116M deal",
+      "title": "Colts re-sign WR Pierce, trade Pittman to Steelers",
       "link": "https://espn.com/nfl/story/_/id/48153529/sources-wr-alec-pierce-returning-colts-4-year-116m-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T17:50:57+0000",
-      "summary": "Wide receiver Alec Pierce is returning to the Colts with a four-year, $116 million deal, sources told ESPN."
+      "published": "2026-03-09T18:27:44+0000",
+      "summary": "The Indianapolis Colts are re-signing wide receiver Alec Pierce but are trading his running mate Michael Pittman Jr. out of town."
     },
     {
-      "id": "7f3bd9a6d660e549",
-      "title": "Sources: NFL labor talks with refs hit rough patch",
-      "link": "https://espn.com/nfl/story/_/id/48152956/sources-mounting-frustration-nfl-labor-talks-referees",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-09T17:50:57+0000",
-      "summary": "The NFL's negotiations with the NFL Referees Association on a new collective bargaining agreement are not in a good place, sources told ESPN's Adam Schefter."
+      "id": "2c6f75cc93eb8dad",
+      "title": "Lions' Amik Robertson agrees to 2-year deal with Washington Commanders",
+      "link": "https://sports.yahoo.com/articles/lions-amik-robertson-agrees-2-173629804.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:36:29+0000",
+      "summary": "Amik Robertson, one of Detroit Lions top free agents, agreed to 2-year deal with Washington Commanders shortly after start of 2026 NFL free agency."
+    },
+    {
+      "id": "1fa097c532f0c77b",
+      "title": "Rashan Gary Trade To Dallas Cowboys: Details, Cost & Impact",
+      "link": "https://sports.yahoo.com/articles/rashan-gary-trade-dallas-cowboys-173512166.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:35:12+0000",
+      "summary": "Cowboys land edge rusher Rashan Gary from the Packers for a 2027 fourth-round pick, adding pass-rush help ahead of 2026 NFL free agency."
+    },
+    {
+      "id": "9a2f18d458d2e770",
+      "title": "NFL free agency: Lions lose CB Amik Robertson to Commanders",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-lions-lose-172922939.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:29:22+0000",
+      "summary": "The Detroit Lions defense takes another free agency hit with the loss of Amik Robertson."
+    },
+    {
+      "id": "6e89cf7622fe7add",
+      "title": "Chicago Bears Sign Safety Coby Bryant",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-sign-safety-coby-172911132.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:29:11+0000",
+      "summary": "The Chicago Bears’ revamping of their defense will include their first big splash of the 2026 offseason. Per Tom Pelissero of NFL Network the Bears are signing veteran safety Coby Bryant. Terms of the deal were not disclosed at the time this article was published. Coby (26) was most recently a member of the reigning […]"
+    },
+    {
+      "id": "82fe308e29e91953",
+      "title": "Tennessee Titans agree to terms with quarterback Mitchell Trubisky",
+      "link": "https://sports.yahoo.com/articles/tennessee-titans-agree-terms-quarterback-172809281.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:28:09+0000",
+      "summary": "The Tennessee Titans and veteran quarterback Mitchell Trubisky have agreed to terms during the NFL's legal tampering period."
+    },
+    {
+      "id": "777a98bf1abacd87",
+      "title": "Former Detroit Lions CB Amik Robertson Leaves In Free Agency",
+      "link": "https://sports.yahoo.com/articles/former-detroit-lions-cb-amik-172643927.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:26:43+0000",
+      "summary": "Former Detroit Lions cornerback Amik Robertson has signed a two-year, $16 million contract with the Washington Commanders, per NFL Network’s Tom Pelissero."
+    },
+    {
+      "id": "e6dc1cc51605ddba",
+      "title": "Neville Gallimore signs with Bears; why Colts didn't re-sign free agent",
+      "link": "https://sports.yahoo.com/articles/neville-gallimore-signs-bears-why-172440731.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T17:24:40+0000",
+      "summary": "Free agent DT Neville Gallimore is landing with the Bears. So why didn't the Colts re-sign him?"
+    },
+    {
+      "id": "df6e3f410db02fc7",
+      "title": "Report: Colts WR Michael Pittman Jr. traded to Steelers",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/122245/report-michael-pittman-jr-traded-to-steelers",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T17:10:33+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts establish their wide receiver room moving forward after trading longtime wideout Michael Pittman Jr. to the Pittsburgh Steelers, according to NFL Insider Tom Pelissero. The compensation includes a late-round pick swap, as this move more so points to Indy’s lack of cap space to include Pittman Jr. in their [&#8230;]"
+    },
+    {
+      "id": "fcbf232fed09fdb3",
+      "title": "Colts 2026 NFL free agency tracker",
+      "link": "https://colts.com/news/2026-nfl-free-agency-tracker-daniel-jones-alec-pierce",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-09T17:08:00+0000",
+      "summary": "The NFL free agency negotiating window opened at noon on Monday."
     },
     {
       "id": "1d61bacccf834b48",
@@ -53,106 +134,16 @@
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-03-09T16:53:56+0000",
-      "summary": "INDIANAPOLIS -- Long-time Indianapolis Colts wide receiver Michael Pittman Jr. is heading out east. The Colts are trading Pittman to the Pittsburgh Steelers, according to ESPN's Adam Schefter. The 2020 second-round pick ranks fifth in franchise history with 485 receptions and seventh with 5,254 yards, but is coming off a down season – 80 catches [...]"
+      "summary": "INDIANAPOLIS -- Long-time Indianapolis Colts wide receiver Michael Pittman Jr. is heading out east. The Colts are trading Pittman to the Pittsburgh Steelers, according to ESPN's Adam Schefter. Schefter reported the deal includes a swap of late-round picks plus a contract extension for 3 years and $59 million from Pittsburgh. The 2020 second-round pick ranks [...]"
     },
     {
-      "id": "b8a4a7a678c0c532",
-      "title": "NFL free agency grade: WR Alec Pierce gets  record-setting $116M deal to remain with the Colts",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-free-agency-grade-wr-alec-pierce-gets-record-setting-116m-deal-to-remain-with-the-colts-164803380.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:48:03+0000",
-      "summary": "Alec Pierce got a massive contract to stay in Indianapolis."
-    },
-    {
-      "id": "0ef37e575b904d28",
-      "title": "Why Colts traded Michael Pittman Jr. to Steelers",
-      "link": "https://sports.yahoo.com/articles/why-colts-traded-michael-pittman-164630655.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:46:30+0000",
-      "summary": "The Colts are reportedly trading Michael Pittman Jr. to the Steelers. Here is why that move is being made."
-    },
-    {
-      "id": "006c48e4dcda4d53",
-      "title": "Steelers reportedly trade for WR Michael Pittman Jr., who departs Colts after six seasons",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/steelers-reportedly-trade-for-wr-michael-pittman-jr-who-departs-colts-after-six-seasons-164618299.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:46:18+0000",
-      "summary": "The Colts are moving on from veteran wideout Michael Pittman Jr."
-    },
-    {
-      "id": "ad2fa7893d265322",
-      "title": "Pass rusher Dre’Mont Jones joins Patriots on 3-year, $39.5M deal",
-      "link": "https://sports.yahoo.com/articles/pass-rusher-dre-mont-jones-164141075.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:41:41+0000",
-      "summary": "The New England Patriots chose to fortify their defensive line as their first major move of NFL Free Agency."
-    },
-    {
-      "id": "38ce9157697eef6a",
-      "title": "NFL’s top free agent running back joins Broncos’ division rival",
-      "link": "https://sports.yahoo.com/articles/nfl-top-free-agent-running-164107721.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:41:07+0000",
-      "summary": "The Broncos will now play against Kenneth Walker twice per season."
-    },
-    {
-      "id": "e74ed8c8214eb04e",
-      "title": "Frustration mounts as NFL, Referees Union talks face uncertainty before expiry",
-      "link": "https://sports.yahoo.com/articles/frustration-mounts-nfl-referees-union-164047332.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:40:47+0000",
-      "summary": "Negotiations between the NFL and the NFL Referees Association have reached a difficult stage as both sides try to reach a new labor agreement. The current NFL collective bargaining agreement expires on May 31. Talks have continued since the summer…"
-    },
-    {
-      "id": "79392178448958f6",
-      "title": "Grading every big move in 2026 NFL free agency",
-      "link": "https://sports.yahoo.com/articles/grading-every-big-move-2026-163909005.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:39:09+0000",
-      "summary": "NFL free agency is officially underway in the 2026 offseason. Mark Schofield is grading all the moves as they come in."
-    },
-    {
-      "id": "5b7455678c8790ae",
-      "title": "Chiefs and tight end Travis Kelce nearing a deal for his 14th season, AP source says",
-      "link": "https://sports.yahoo.com/articles/chiefs-tight-end-travis-kelce-163825884.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:38:25+0000",
-      "summary": "The Kansas City Chiefs and Travis Kelce are nearing a deal to bring the four-time All-Pro tight end back for a 14th season, a person familiar with the negotiations told The Associated Press on Monday.  The 36-year-old Kelce said late last season that he would make a decision on whether to retire by early March, which would give the Chiefs some certainty as they attempt to rebuild their roster.  The Chiefs also are trying to plan for next month's NFL draft."
-    },
-    {
-      "id": "74702840e8674b95",
-      "title": "Kenneth Walker, Chiefs agree to terms in free agency: Contract details",
-      "link": "https://sports.yahoo.com/articles/kenneth-walker-chiefs-agree-terms-163811083.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:38:11+0000",
-      "summary": "Kenneth Walker III just won Super Bowl 60 MVP. Now he just won the jackpot in NFL free agency, agreeing to terms with Chiefs. Here are the details."
-    },
-    {
-      "id": "2af642cbb7446f98",
-      "title": "Colts agree to record $114M contract with wide receiver Alec Pierce",
-      "link": "https://sports.yahoo.com/articles/colts-agree-record-114m-contract-163729405.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:37:29+0000",
-      "summary": "The Indianapolis Colts agreed to a four-year, $114 million contract with wide receiver Alec Pierce, he confirmed Monday on social media."
-    },
-    {
-      "id": "ff1a57775305e697",
-      "title": "Former MSU football legend Kenneth Walker III has found his next NFL team",
-      "link": "https://sports.yahoo.com/articles/former-msu-football-legend-kenneth-163645456.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T16:36:45+0000",
-      "summary": "A former Spartans legend is linking up with one of the greatest quarterbacks of all-time in the NFL"
+      "id": "d1ed402b2ccd1d84",
+      "title": "The Alec Pierce Sweepstakes Ends in Historic Fashion",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/122211/the-alec-pierce-sweepstakes-ends-in-historic-fashion",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T16:47:09+0000",
+      "summary": "Indianapolis, IN — The Indianapolis Colts made history today by signing wide receiver Alec Pierce to the biggest free agent contract his position has ever seen, a 4-year, $114m deal containing $84m in guarantees. Pierce is fresh off a season in which he lit the league on fire. Securing his first 1,000-yard season (1,003 yards) [&#8230;]"
     },
     {
       "id": "b513a3ecb1b35db4",
@@ -164,13 +155,22 @@
       "summary": "NFL free agency opened with the legal negotiating window at noon ET Monday. We're following all the moves."
     },
     {
-      "id": "fcbf232fed09fdb3",
-      "title": "Colts 2026 NFL free agency tracker",
-      "link": "https://colts.com/news/2026-nfl-free-agency-tracker-daniel-jones-alec-pierce",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-09T16:31:00+0000",
-      "summary": "The NFL free agency negotiating window opened at noon on Monday."
+      "id": "5d950543219382cd",
+      "title": "Rapid Reaction: Pierce secures record deal to sign with Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122216/pierce-secures-record-deal-to-sign-with-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T16:30:04+0000",
+      "summary": "The Indianapolis Colts made a massive commitment to retain one one of their best skill players, signing standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday. The contract carries an average annual value of $29 million, [&#8230;]"
+    },
+    {
+      "id": "dc530baf0b7f4a5e",
+      "title": "Report: Colts and FA WR Alec Pierce agree to 4-year, $116M contract extension—keeping him in Indianapolis",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122213/report-colts-and-fa-wr-alec-pierce-agree-to-4-year-116m-contract-extension-keeping-him-in-indianapolis",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T16:25:54+0000",
+      "summary": "According to ESPN’s Pat McAfee of ‘The Pat McAfee Show’ (via ESPN’s Adam Schefter), the Indianapolis Colts and highly coveted, otherwise soon-to-be free agent wideout Alec Pierce have agreed to a 4-year, $116 million contract extension, right around where the league’s official tampering period would’ve otherwise opened at noon today (EST): It’ll be interesting to [&#8230;]"
     },
     {
       "id": "030d0a3616a10ece",
@@ -207,6 +207,15 @@
       "feed": "Colts.com",
       "published": "2026-03-09T15:00:07+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back as the NFL's annual free agency frenzy begins at noon on Monday."
+    },
+    {
+      "id": "a70b5f7d57aea13a",
+      "title": "Potential Free Agent Linebacker Targets for the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122201/potential-free-agent-linebacker-targets-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T15:00:00+0000",
+      "summary": "The Indianapolis Colts’ decision to trade away Zaire Franklin leaves a major leadership and production void in the middle of their defense. With Lou Anarumo taking over as defensive coordinator last year and installing his versatile, matchup‑driven defensive system, the Colts must find linebackers who can handle pattern‑matching responsibilities, disguise pressures, and stay disciplined against [&#8230;]"
     },
     {
       "id": "f35918bbfff22e17",
@@ -281,24 +290,6 @@
       "summary": "INDIANAPOLIS — The Indianapolis Colts addressed their defensive front with some addition and subtraction. The team has traded linebacker Zaire Frankin to the Green Bay Packers for defensive tackle Colby Wooden. The move isn’t official until the start of the new league year Wednesday. The Colts began exploring trade possibilities for Franklin, their long-time leading [...]"
     },
     {
-      "id": "50d31a054113066b",
-      "title": "Colts trade former NFL All-Pro LB Zaire Franklin to Packers",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122138/colts-trade-former-nfl-all-pro-lb-zaire-franklin-to-packers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-07T20:48:45+0000",
-      "summary": "According to NFL Network’s Tom Pelissero and Ian Rapoport, the Indianapolis Colts are trading former NFL All-Pro starting linebacker Zaire Franklin to the Green Bay Packers for defensive tackle Colby Wooden: It comes after an initial national report that the Colts were shopping Franklin to other NFL teams earlier this week. With Colts longtime general [&#8230;]"
-    },
-    {
-      "id": "6198b502efad5872",
-      "title": "Colts free agent Alec Pierce’s market ‘expected to be robust’ during upcoming legal tampering period",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122124/colts-pending-free-agent-alec-pierces-market-expected-to-be-robust-during-legal-tampering-period",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-07T17:12:09+0000",
-      "summary": "According to The Athletic’s Dianna Russini, Indianapolis Colts pending free agent wideout Alec Pierce is ‘expected to have a robust market’ once the legal tampering period begins this Monday, at 12 PM EST: For what it’s worth, the NFL’s official free agency signing period begins this Wednesday, March 11th, at 4 PM EST. Of course, [&#8230;]"
-    },
-    {
       "id": "ae0bb790992827e8",
       "title": "Reid's updated NFL draft QB Hot Board: Strengths and weaknesses for the top 12 passers",
       "link": "https://espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
@@ -315,15 +306,6 @@
       "feed": "ESPN",
       "published": "2026-03-07T17:06:22+0000",
       "summary": "Matt Miller is back from the combine and updated his 2026 NFL draft rankings."
-    },
-    {
-      "id": "4ec70f0d39dd03e4",
-      "title": "Former longtime Colts Pro Bowl center Ryan Kelly announces retirement from NFL",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122117/former-longtime-colts-pro-bowl-center-ryan-kelly-announces-retirement",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-07T00:17:48+0000",
-      "summary": "On Friday afternoon, former Indianapolis Colts longtime Pro Bowl center Ryan Kelly announced his retirement from professional football as a current member of the Minnesota Vikings: Originally a 2016 first round pick of Indianapolis, Kelly would go on to make 121 career starts for the Colts at center over his first 9 seasons—en route to [&#8230;]"
     },
     {
       "id": "6e7c1536e1b19d93",
@@ -351,24 +333,6 @@
       "feed": "Colts.com",
       "published": "2026-03-06T20:54:33+0000",
       "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
-    },
-    {
-      "id": "c5c217b05cae1355",
-      "title": "Does anyone feel optimistic about what the Colts are doing right now?",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122101/does-anyone-feel-optimistic-about-what-the-colts-are-doing-right-now",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T17:16:40+0000",
-      "summary": "Does anyone feel optimistic about what the Indianapolis Colts are doing was the question, but maybe a better one is, what exactly are the Colts doing right now? For years, my personal gripe has been that this franchise is directionless. This lack of direction starts at the top with Chris Ballard and has been one [&#8230;]"
-    },
-    {
-      "id": "1942275da05cec47",
-      "title": "ESPN lists Colts safety Nick Cross as team’s free agent ‘most likely on move’",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122106/espn-lists-colts-safety-nick-cross-as-teams-free-agent-most-likely-on-move",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T16:27:46+0000",
-      "summary": "According to ESPN, Indianapolis Colts starting safety Nick Cross is their pending free agent “most likely on the move”—which may give slight optimism for the Horseshoe faithful worried about retaining wideout Alec Pierce rapidly approaching free agency’s formal kick-off: FA most likely on the move:&#160;S&#160;Nick Cross. The Colts&#8217; signing of veteran free agent&#160;Cam Bynum&#160;last offseason, [&#8230;]"
     },
     {
       "id": "ea32ebf16956f12d",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2026-02-24T15:51:41+0000",
       "summary": "Since its launch in 2020, Kicking The Stigma has made a significantly positive impact on the mental health of both Indiana residents and those across the country."
+    },
+    {
+      "id": "81ea8b1f1f195d7f",
+      "title": "Colts talking multi-year deals with Daniel Jones, Alec Pierce",
+      "link": "https://fox59.com/sports/colts/colts-talking-multi-year-deals-with-daniel-jones-alec-pierce/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-02-23T19:05:28+0000",
+      "summary": "INDIANAPOLIS – There’s one time-tested axiom in the NFL: Deadlines spur action. The NFL Scouting Combine’s annual visit to town is a precursor to the opening of the veteran free agent market in mid-March. That means teams with coveted free-agents-to-be have initiated negotiations to keep those players from reaching the open market. And that includes [...]"
+    },
+    {
+      "id": "35cc4cca69dac4d9",
+      "title": "Colts 2026 Mock Draft Monday: Before the NFL Combine",
+      "link": "https://colts.com/news/colts-2026-mock-draft-monday-before-the-nfl-combine",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T17:00:18+0000",
+      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, returns ahead of the start of the NFL Combine this week in downtown Indianapolis."
+    },
+    {
+      "id": "3d3566a69dd4ef63",
+      "title": "Colts announce 2026 coaching staff",
+      "link": "https://colts.com/news/colts-announce-2026-coaching-staff-marian-hobby-defensive-line-lou-anarumo",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T16:07:37+0000",
+      "summary": "Here is what the Colts' 2026 coaching staff will look like this upcoming year."
+    },
+    {
+      "id": "bfea47c743cf744d",
+      "title": "The Netherlands' Lucas LeJeune named Colts 2025 International Fan of the Year",
+      "link": "https://colts.com/news/the-netherlands-lucas-lejeune-named-colts-2025-international-fan-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T14:00:16+0000",
+      "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
     }
   ],
   "links": [
