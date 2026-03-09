@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T21:31:52+00:00",
+  "updated": "2026-03-09T22:27:30+00:00",
   "items": [
     {
       "id": "4fb0c5b47d0f35dc",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/48153529/sources-wr-alec-pierce-returning-colts-4-year-116m-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T22:18:13+0000",
+      "published": "2026-03-09T23:20:02+0000",
       "summary": "The Indianapolis Colts are re-signing wide receiver Alec Pierce but are trading his running mate Michael Pittman Jr. out of town."
     },
     {
@@ -16,8 +16,35 @@
       "link": "https://espn.com/nfl/story/_/id/48155650/sources-commanders-re-signing-backup-qb-marcus-mariota",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T22:18:13+0000",
+      "published": "2026-03-09T23:20:02+0000",
       "summary": "The Washington Commanders are re-signing backup quarterback Marcus Mariota on a one-year, $7 million deal, according to NFL Network."
+    },
+    {
+      "id": "3f0f9304c93d4afb",
+      "title": "Broncos to re-sign LB Singleton, cut Greenlaw",
+      "link": "https://espn.com/nfl/story/_/id/48156566/reports-broncos-re-sign-lb-alex-singleton-2-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-09T23:19:32+0000",
+      "summary": "Alex Singleton is returning to the Broncos on a two-year contract, according to multiple reports, while Dre Greenlaw is being released one year after signing a three-year, $31.5 million contract, according to NFL Network"
+    },
+    {
+      "id": "6e9d79dbbc184acc",
+      "title": "Ravens, Eagles, Steelers awarded 4 comp picks",
+      "link": "https://espn.com/nfl/story/_/id/48156633/ravens-eagles-steelers-awarded-4-compensatory-picks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-09T23:19:32+0000",
+      "summary": "Baltimore, Philadelphia and Pittsburgh each were awarded a league-high four compensatory picks in next month's NFL draft based on their losses and signings in last year's free agency."
+    },
+    {
+      "id": "f1cdfdea0a4bbd32",
+      "title": "Titans free agency news and rumors tracker",
+      "link": "https://sports.yahoo.com/articles/titans-free-agency-news-rumors-153308409.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T22:13:10+0000",
+      "summary": "Keeping track of all of the moves the Titans make in 2026 NFL free agency."
     },
     {
       "id": "b513a3ecb1b35db4",
@@ -29,130 +56,40 @@
       "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves."
     },
     {
-      "id": "9055ad67c7ba6438",
-      "title": "Titans agree to terms with C Austin Schlottmann on one-year deal",
-      "link": "https://sports.yahoo.com/articles/titans-agree-terms-c-austin-212232780.html",
+      "id": "02421f4c6f83922a",
+      "title": "Colts awarded 2 additional 2026 NFL draft picks",
+      "link": "https://sports.yahoo.com/articles/colts-awarded-2-additional-2026-220944317.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:22:32+0000",
-      "summary": "The Titans are signing center Austin Schlottmann to a one-year deal, Tom Pelissero of NFL Media reports."
+      "published": "2026-03-09T22:09:44+0000",
+      "summary": "The Indianapolis Colts were awarded two additional selections in the 2026 NFL draft. Here is why."
     },
     {
-      "id": "96ab895694deacc0",
-      "title": "NFL free agency: Arizona Cardinals signing QB Gardner Minshew",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-arizona-cardinals-212120692.html",
+      "id": "535089fd255ce668",
+      "title": "NFL free agency winners and losers: Chiefs, Ravens flex while Colts, Giants underwhelm",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-winners-losers-220501753.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:21:20+0000",
-      "summary": "The Cardinals' latest QB signing is 17-30 in his career as a starter."
+      "published": "2026-03-09T22:05:01+0000",
+      "summary": "Which teams did well in 2026 NFL free agency with their spending and personnel decisions? Which teams struggled to get better with their moves, or lack thereof? Here's separating who sprang into March and who stumbled in the open market."
     },
     {
-      "id": "3117493e53ee83bf",
-      "title": "Did the Panthers receive any compensatory picks for the 2026 NFL Draft?",
-      "link": "https://sports.yahoo.com/articles/did-panthers-receive-compensatory-picks-211930017.html",
+      "id": "23d349b83e1dc647",
+      "title": "NFL free agency tracker 2026: Live updates on news, rumors, signings and trades",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-tracker-2026-160002705.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:19:30+0000",
-      "summary": "The NFL announced their compensatory picks for the 2026 draft. Did the Panthers walk away with any extra selections?"
+      "published": "2026-03-09T22:05:00+0000",
+      "summary": "The Sporting News is tracking the latest NFL news, rumors, signings and trades from the 2026 free agency period. Follow for complete details for all 32 teams as the new league year begins."
     },
     {
-      "id": "e5bdc27384d05e94",
-      "title": "Jason Witten explains why Oklahoma is the right 'next chapter'",
-      "link": "https://sports.yahoo.com/articles/jason-witten-explains-why-oklahoma-211854799.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:18:54+0000",
-      "summary": "The former NFL great has headed to Norman."
-    },
-    {
-      "id": "a96a7f9b6c855de2",
-      "title": "NFL free agency grades 2026: Live analysis of every free agent signing and trade",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-grades-2026-060002771.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:18:02+0000",
-      "summary": "Sporting News breaks down all the notable early offseason moves by NFL teams in 2026, including free-agent signings and significant trades."
-    },
-    {
-      "id": "24e8793330836f7b",
-      "title": "NFL free agency 2026: Ranking the top 100 free agents, best players available by position, tracking signings",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-2026-ranking-195648922.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:18:00+0000",
-      "summary": "Sporting News breaks down the 100 best unrestricted free agents ahead of 2026 NFL free agency,"
-    },
-    {
-      "id": "da9ba91fa1aa2f17",
-      "title": "Titans' free agent splash could land Broncos an extra pick in 2027 NFL draft",
-      "link": "https://sports.yahoo.com/articles/titans-free-agent-splash-could-211700918.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:17:00+0000",
-      "summary": "After the Titans gave John Franklin-Myers a huge contract, the Broncos could receive a comp pick in the 2027 NFL draft."
-    },
-    {
-      "id": "d574d3ce16e18097",
-      "title": "NFL QB Reps Dodgers Jersey at WBC in Japan",
-      "link": "https://sports.yahoo.com/articles/nfl-qb-reps-dodgers-jersey-211435549.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:14:35+0000",
-      "summary": "New England Patriots quarterback Drake Maye showed support for Los Angeles Dodgers, sporting a jersey at Japan's WBC match against Korea."
-    },
-    {
-      "id": "5276f060645d9fe0",
-      "title": "Packers receive one compensatory pick in the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/packers-receive-one-compensatory-pick-211432403.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:14:32+0000",
-      "summary": "The Green Bay Packers now have seven picks in the 2026 NFL Draft after adding a seventh-round compensatory pick."
-    },
-    {
-      "id": "c2b35c5a4eb0957a",
-      "title": "Packers receive one compensatory pick in the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/packers-receive-one-compensatory-pick-211432475.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:14:32+0000",
-      "summary": "The Green Bay Packers now have seven picks in the 2026 NFL Draft after adding a seventh-round compensatory pick."
-    },
-    {
-      "id": "d7f452a5a73a924c",
-      "title": "Detroit Lions Awarded Additional Pick in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-awarded-additional-pick-211238659.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:12:38+0000",
-      "summary": "The Detroit Lions have received an extra fifth-round compensatory pick tied to free agency departures of Carlton Davis, Kevin Zeitler, and Ifeatu Melifonwu."
-    },
-    {
-      "id": "b47423fc067e8ce3",
-      "title": "NFL world reacts to Chargers agreeing to terms with TE Charlie Kolar",
-      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-chargers-agreeing-211213480.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:12:13+0000",
-      "summary": "The Chargers agreed to terms with former Ravens tight end Charlie Kolar. Here's how social media reacted to the deal."
-    },
-    {
-      "id": "b2dedd38451c5618",
-      "title": "Michael Pittman Jr. Reveals Wife’s Wild Steelers Dream Before Stunning Trade",
-      "link": "https://sports.yahoo.com/articles/michael-pittman-jr-reveals-wife-211209629.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:12:09+0000",
-      "summary": "Michael Pittman Jr. sounds excited to be a Pittsburgh Steeler. After getting traded from the Indianapolis Colts to the Steelers on Monday, Pittman fired off a flurry of posts on X. After congratulating former teammate Alec Pierce on his big extension with the Colts, the veteran wrote “BLACK AND GOLD!!!!!!” after the trade news broke. […]"
-    },
-    {
-      "id": "42f61bd1235435fd",
-      "title": "Giants to make ex-Raven Jordan Stout highest-paid punter in NFL history",
-      "link": "https://sports.yahoo.com/articles/giants-ex-raven-jordan-stout-211103110.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T21:11:03+0000",
-      "summary": "The 2022 fourth-rounder will leave Baltimore for the biggest punter contract in NFL history in New York."
+      "id": "49232374d048ec53",
+      "title": "Report: Former Colts 1st round DE Kwity Paye signs 3-year, $48 million free agency deal with Raiders",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122268/report-former-colts-1st-round-de-kwity-paye-signs-3-year-48-million-free-agency-deal-with-raiders",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T21:54:26+0000",
+      "summary": "According to NFL Network’s Ian Rapoport, Indianapolis Colts free agent starting defensive end Kwity Paye signed a 3-year, $48 million deal with the Las Vegas Raiders, with the contract details reported by NFL Insider Jordan Schultz. As the Colts 2021 first round pick, and the 21st overall pick in that past year’s class, Paye would [&#8230;]"
     },
     {
       "id": "fcbf232fed09fdb3",
@@ -269,7 +206,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-03-09T16:30:04+0000",
-      "summary": "The Indianapolis Colts made a massive commitment to retain one one of their best skill players, signing standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday. The contract carries an average annual value of $29 million, [&#8230;]"
+      "summary": "The Indianapolis Colts made a massive commitment to retain one of their best skill players, agreeing to sign standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday’s announcement. The four-year contract carries an average annual value [&#8230;]"
     },
     {
       "id": "dc530baf0b7f4a5e",
@@ -351,15 +288,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-09T10:53:44+0000",
       "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
-    },
-    {
-      "id": "fcc79972ea9bb27d",
-      "title": "Colts reportedly offered FA QB Daniel Jones ‘Sam Darnold money,’ but his camp had rather lofty counter offer",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122184/colts-reportedly-offered-fa-qb-daniel-jones-sam-darnold-money-but-his-camp-had-a-lofty-counter-offer",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-09T03:27:14+0000",
-      "summary": "According to SI.com’s Albert Breer, the Indianapolis Colts offered pending free agent starting quarterback Daniel Jones ‘Sam Darnold money’, but Jones and his camp countered with a surprising $50 million per year contract proposal: “The Colts’ initial offer to Jones was in the range of Sam Darnold’s three-year, $100.5 million deal last offseason,” writes Breer. [&#8230;]"
     },
     {
       "id": "9b4b7a54cee8d4b2",
@@ -540,6 +468,78 @@
       "feed": "CBS4Indy",
       "published": "2026-02-25T03:53:34+0000",
       "summary": "INDIANAPOLIS — Change is as much a part of the NFL’s fabric as the cowhide leather football with commissioner Roger Goodell’s signature or the sterling silver Lombardi Trophy. Players — and coaches — come and go. Yet as the Indianapolis Colts head into another offseason that undoubtedly will involve significant roster adjustments, it’s not a [...]"
+    },
+    {
+      "id": "a7d9416c5af7ed88",
+      "title": "What Colts GM Chris Ballard said about QB Anthony Richardson Sr., WR Michael Pittman Jr., DT DeForest Buckner at 2026 NFL Combine",
+      "link": "https://colts.com/news/what-colts-gm-chris-ballard-said-about-qb-anthony-richardson-sr-wr-michael-pittman-jr-dt-deforest-buckner-at-2026-nfl-combine",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-25T02:42:24+0000",
+      "summary": "Ballard discussed the future of several Colts players during his media sessions on Tuesday at the NFL Combine in Indianapolis."
+    },
+    {
+      "id": "72f7fbabd3d51b33",
+      "title": "Colts GM Chris Ballard 'hopeful' team can sign QB Daniel Jones and WR Alec Pierce to new contracts prior to NFL free agency",
+      "link": "https://colts.com/news/daniel-jones-alec-pierce-nfl-free-agency-contracts-cap-space-chris-ballard-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-24T23:45:05+0000",
+      "summary": "Ballard on Tuesday also addressed the possibility the Colts could use the franchise tag on either player."
+    },
+    {
+      "id": "38ef83f6869f0357",
+      "title": "Colts GM Chris Ballard, HC Shane Steichen provide updates on Charvarius Ward Sr.",
+      "link": "https://colts.com/news/colts-gm-chris-ballard-hc-shane-steichen-provide-updates-on-charvarius-ward-sr",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-24T23:40:37+0000",
+      "summary": "General manager Chris Ballard and head coach Shane Steichen spoke to the media on Tuesday at the NFL Combine about Ward's outlook for 2026 after the cornerback said he would be reevaluating his future in football after sustaining multiple concussions in 2025."
+    },
+    {
+      "id": "eb021655caf88989",
+      "title": "NFL Commissioner Roger Goodell announces $10,000 donation to Kicking The Stigma",
+      "link": "https://colts.com/news/nfl-commissioner-roger-goodell-announces-10-000-donation-to-kicking-the-stigma",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-24T15:51:41+0000",
+      "summary": "Since its launch in 2020, Kicking The Stigma has made a significantly positive impact on the mental health of both Indiana residents and those across the country."
+    },
+    {
+      "id": "81ea8b1f1f195d7f",
+      "title": "Colts talking multi-year deals with Daniel Jones, Alec Pierce",
+      "link": "https://fox59.com/sports/colts/colts-talking-multi-year-deals-with-daniel-jones-alec-pierce/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-02-23T19:05:28+0000",
+      "summary": "INDIANAPOLIS – There’s one time-tested axiom in the NFL: Deadlines spur action. The NFL Scouting Combine’s annual visit to town is a precursor to the opening of the veteran free agent market in mid-March. That means teams with coveted free-agents-to-be have initiated negotiations to keep those players from reaching the open market. And that includes [...]"
+    },
+    {
+      "id": "35cc4cca69dac4d9",
+      "title": "Colts 2026 Mock Draft Monday: Before the NFL Combine",
+      "link": "https://colts.com/news/colts-2026-mock-draft-monday-before-the-nfl-combine",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T17:00:18+0000",
+      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, returns ahead of the start of the NFL Combine this week in downtown Indianapolis."
+    },
+    {
+      "id": "3d3566a69dd4ef63",
+      "title": "Colts announce 2026 coaching staff",
+      "link": "https://colts.com/news/colts-announce-2026-coaching-staff-marian-hobby-defensive-line-lou-anarumo",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T16:07:37+0000",
+      "summary": "Here is what the Colts' 2026 coaching staff will look like this upcoming year."
+    },
+    {
+      "id": "bfea47c743cf744d",
+      "title": "The Netherlands' Lucas LeJeune named Colts 2025 International Fan of the Year",
+      "link": "https://colts.com/news/the-netherlands-lucas-lejeune-named-colts-2025-international-fan-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T14:00:16+0000",
+      "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
     }
   ],
   "links": [
