@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T22:27:30+00:00",
+  "updated": "2026-03-09T22:55:26+00:00",
   "items": [
     {
       "id": "4fb0c5b47d0f35dc",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/48153529/sources-wr-alec-pierce-returning-colts-4-year-116m-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T23:20:02+0000",
+      "published": "2026-03-09T23:34:25+0000",
       "summary": "The Indianapolis Colts are re-signing wide receiver Alec Pierce but are trading his running mate Michael Pittman Jr. out of town."
     },
     {
@@ -16,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/48155650/sources-commanders-re-signing-backup-qb-marcus-mariota",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T23:20:02+0000",
+      "published": "2026-03-09T23:34:25+0000",
       "summary": "The Washington Commanders are re-signing backup quarterback Marcus Mariota on a one-year, $7 million deal, according to NFL Network."
     },
     {
@@ -25,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48156566/reports-broncos-re-sign-lb-alex-singleton-2-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T23:19:32+0000",
+      "published": "2026-03-09T23:33:56+0000",
       "summary": "Alex Singleton is returning to the Broncos on a two-year contract, according to multiple reports, while Dre Greenlaw is being released one year after signing a three-year, $31.5 million contract, according to NFL Network"
     },
     {
@@ -34,17 +34,17 @@
       "link": "https://espn.com/nfl/story/_/id/48156633/ravens-eagles-steelers-awarded-4-compensatory-picks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T23:19:32+0000",
+      "published": "2026-03-09T23:33:56+0000",
       "summary": "Baltimore, Philadelphia and Pittsburgh each were awarded a league-high four compensatory picks in next month's NFL draft based on their losses and signings in last year's free agency."
     },
     {
-      "id": "f1cdfdea0a4bbd32",
-      "title": "Titans free agency news and rumors tracker",
-      "link": "https://sports.yahoo.com/articles/titans-free-agency-news-rumors-153308409.html",
+      "id": "c342ab9432c4b00f",
+      "title": "NFL free agency: Arizona Cardinals bring back DL L.J. Collier",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-arizona-cardinals-224327800.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-09T22:13:10+0000",
-      "summary": "Keeping track of all of the moves the Titans make in 2026 NFL free agency."
+      "published": "2026-03-09T22:43:27+0000",
+      "summary": "L.J. Collier will play his fourth season with the Cardinals after agreeing to a one-year $2.5 million contract."
     },
     {
       "id": "b513a3ecb1b35db4",
@@ -54,33 +54,6 @@
       "feed": "ESPN",
       "published": "2026-03-09T22:10:44+0000",
       "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves."
-    },
-    {
-      "id": "02421f4c6f83922a",
-      "title": "Colts awarded 2 additional 2026 NFL draft picks",
-      "link": "https://sports.yahoo.com/articles/colts-awarded-2-additional-2026-220944317.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T22:09:44+0000",
-      "summary": "The Indianapolis Colts were awarded two additional selections in the 2026 NFL draft. Here is why."
-    },
-    {
-      "id": "535089fd255ce668",
-      "title": "NFL free agency winners and losers: Chiefs, Ravens flex while Colts, Giants underwhelm",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-winners-losers-220501753.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T22:05:01+0000",
-      "summary": "Which teams did well in 2026 NFL free agency with their spending and personnel decisions? Which teams struggled to get better with their moves, or lack thereof? Here's separating who sprang into March and who stumbled in the open market."
-    },
-    {
-      "id": "23d349b83e1dc647",
-      "title": "NFL free agency tracker 2026: Live updates on news, rumors, signings and trades",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-tracker-2026-160002705.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T22:05:00+0000",
-      "summary": "The Sporting News is tracking the latest NFL news, rumors, signings and trades from the 2026 free agency period. Follow for complete details for all 32 teams as the new league year begins."
     },
     {
       "id": "49232374d048ec53",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-02-23T14:00:16+0000",
       "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
+    },
+    {
+      "id": "9f0178d2d309b909",
+      "title": "Der Niederländer Lucas LeJeune zum \"International Fan of the Year\" 2025 der Colts gekürt",
+      "link": "https://colts.com/news/der-niederlander-lucas-lejeune-zum-international-fan-of-the-year-2025-der-colts-gekurt",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T13:59:00+0000",
+      "summary": "Mit diesem Titel werden außergewöhnliche Fans der NFL weltweit gewürdigt, die andere mit ihrer Begeisterung für American Football inspirieren."
+    },
+    {
+      "id": "642098b1c40f9b32",
+      "title": "TUNE IN: General manager Chris Ballard and head coach Shane Steichen at NFL Scouting Combine Tuesday, February 24",
+      "link": "https://colts.com/news/2026-nfl-combine-chris-ballard-shane-steichen-roster-news-trade-daniel-jones-indiana-chicago-bears",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T13:00:00+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
+    },
+    {
+      "id": "aa231428d6c8b3d1",
+      "title": "Text COLTS to 317317 to sign up for Colts text alerts!",
+      "link": "https://colts.com/news/indianapolis-colts-text-alerts-win-tickets-team-news-special-offers-exclusive-sweepstakes",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-20T16:00:28+0000",
+      "summary": "Colts launch official SMS number for 2026 offers and exclusive access."
     }
   ],
   "links": [
