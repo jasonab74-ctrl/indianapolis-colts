@@ -1,32 +1,14 @@
 {
-  "updated": "2026-03-09T11:08:12+00:00",
+  "updated": "2026-03-09T11:55:23+00:00",
   "items": [
     {
-      "id": "545835e65b3729ac",
-      "title": "Colts, NFL prepare to deal for free agents",
-      "link": "https://fox59.com/sports/colts/colts-nfl-prepare-to-deal-for-free-agents/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-09T10:53:44+0000",
-      "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
-    },
-    {
-      "id": "5df96e9b2eacbdb7",
-      "title": "2026 NFL draft: Jets load up on defense in USAT pre-free agency mock",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-jets-load-104541548.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T10:45:41+0000",
-      "summary": "In a pre-free agency mock draft, the Jets load up on defense in 2026 NFL draft."
-    },
-    {
-      "id": "899933f6a64628b1",
-      "title": "2026 NFL draft: Missouri Josiah Trotter-Bills have pre-draft visit",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-missouri-josiah-104533760.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T10:45:33+0000",
-      "summary": "Missouri LB Josiah Trotter has pre-draft visit with the Buffalo Bills"
+      "id": "498bd405e157d15b",
+      "title": "Sources: Ingram back to Texans on 3-year deal",
+      "link": "https://espn.com/nfl/story/_/id/48151253/sources-ed-ingram-stays-texans-3-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-09T12:49:58+0000",
+      "summary": "Texans guard Ed Ingram will not hit free agency after agreeing to return to Houston on a three-year, $37.5 million deal, according to ESPN and NFL Network."
     },
     {
       "id": "e7f92ef7467b4d5b",
@@ -34,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/48144246/sources-rb-james-conner-reworks-deal-stay-cardinals",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T05:45:18+0000",
+      "published": "2026-03-09T12:49:58+0000",
       "summary": "The Cardinals and Pro Bowl running back James Conner have agreed to a revised contract to keep him in Arizona for 2026, according to NFL Network."
     },
     {
@@ -43,8 +25,53 @@
       "link": "https://espn.com/nfl/story/_/id/48149700/source-eric-wilson-stays-vikings-3-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T05:45:18+0000",
+      "published": "2026-03-09T12:49:58+0000",
       "summary": "Linebacker Eric Wilson is staying with the Minnesota Vikings, as the sides agreed to a three-year, $22.5 million contract Sunday ahead of NFL free agency, according to NFL Network."
+    },
+    {
+      "id": "ae6df548d3eacbe8",
+      "title": "Colts free agency: Breaking down every 2026 move Indianapolis makes",
+      "link": "https://sports.yahoo.com/articles/colts-free-agency-breaking-down-114834861.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T11:48:34+0000",
+      "summary": "With free agency here, we will be breaking down every move that the Indianapolis Colts make."
+    },
+    {
+      "id": "c60578a5e5d8af46",
+      "title": "Indianapolis Colts' 2026 free agency rumors and reports tracker",
+      "link": "https://sports.yahoo.com/articles/indianapolis-colts-2026-free-agency-113921964.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T11:39:21+0000",
+      "summary": "Here we are tracking the latest free agency reports and rumors that pertain to the Indianapolis Colts."
+    },
+    {
+      "id": "c6cdf044832b4feb",
+      "title": "Broncos met with more than 10 linebackers at the NFL combine",
+      "link": "https://sports.yahoo.com/articles/broncos-met-more-10-linebackers-113038337.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T11:30:38+0000",
+      "summary": "The Broncos are taking a close look at linebackers in this year's NFL draft."
+    },
+    {
+      "id": "de1e26403e487986",
+      "title": "Top 5 NFL quarterbacks available in the free agency",
+      "link": "https://sports.yahoo.com/articles/top-5-nfl-quarterbacks-available-113000795.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T11:30:00+0000",
+      "summary": "Every offseason in the NFL brings a new wave of roster movement, but few positions draw more attention than quarterback. In today’s league, where passing efficiency and offensive creativity are paramount, the availability of capable quarterbacks in free agency can…"
+    },
+    {
+      "id": "545835e65b3729ac",
+      "title": "Colts, NFL prepare to deal for free agents",
+      "link": "https://fox59.com/sports/colts/colts-nfl-prepare-to-deal-for-free-agents/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-09T10:53:44+0000",
+      "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
     },
     {
       "id": "fcc79972ea9bb27d",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-17T14:00:00+0000",
       "summary": "The NFL's window for teams to use the franchise or transition tag opened Tuesday and will run through 4 p.m. on March 3."
-    },
-    {
-      "id": "1087d440ca9b804a",
-      "title": "Top finalists to compete for spot on 2026 Colts Cheer Squad",
-      "link": "https://colts.com/news/indianapolis-colts-cheerleaders-audition-showcase-tickets-2026-hilbert-circle-theatre",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-17T13:58:00+0000",
-      "summary": "Next month, the Indianapolis Colts Cheerleaders will host their Final Audition Showcase, where 48 finalists, representing Indiana and 16 other states, will compete to become members of the 2026 squad."
-    },
-    {
-      "id": "4b97b3324afd6ca7",
-      "title": "2026 NFL Scouting Combine offers four days of free fan events at Lucas Oil Stadium",
-      "link": "https://colts.com/news/2026-nfl-scouting-combine-offers-four-days-of-free-fan-events-at-lucas-oil-stadium",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-13T15:00:00+0000",
-      "summary": "From Feb. 26-March 1, NFL fans can enjoy free, family-friendly access to on-field action, exclusive content and interactive football fun at Lucas Oil Stadium."
-    },
-    {
-      "id": "a3e4fc88bd69d6d6",
-      "title": "Colts 2026 lookahead: Wide receivers",
-      "link": "https://fox59.com/sports/colts/colts-2026-lookahead-wide-receivers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-12T23:27:49+0000",
-      "summary": "INDIANAPOLIS – Two questions hover over an area of strength. What to do, if anything, with Michael Pittman Jr.? How to do it with Alec Pierce? The answers are paramount to the Indianapolis Colts’ receivers room remaining well-stocked and productive heading into next season. A resolution is likely to come in the next month. No [...]"
     }
   ],
   "links": [
