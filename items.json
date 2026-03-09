@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T14:28:57+00:00",
+  "updated": "2026-03-09T15:32:33+00:00",
   "items": [
     {
       "id": "8bc8d1101e6e7f8a",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/48151647/dolphins-release-tua-tagovailoa-take-record-cap-hit",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T14:58:54+0000",
+      "published": "2026-03-09T15:54:31+0000",
       "summary": "The Dolphins will release quarterback Tua Tagovailoa after the start of the new league year in a move that will leave Miami with an NFL-record $99 million in dead money."
     },
     {
@@ -16,17 +16,107 @@
       "link": "https://espn.com/nfl/story/_/id/48152343/sources-packers-trading-dl-rashan-gary-cowboys",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T14:58:54+0000",
+      "published": "2026-03-09T15:54:31+0000",
       "summary": "The Green Bay Packers are finalizing a deal that would send defensive lineman Rashan Gary to the Dallas Cowboys in exchange for a 2027 draft pick, sources told ESPN's Adam Schefter. The pick is a fourth-rounder, according to NFL Network."
     },
     {
+      "id": "7f3bd9a6d660e549",
+      "title": "Sources: NFL labor talks with refs hit rough patch",
+      "link": "https://espn.com/nfl/story/_/id/48152956/sources-mounting-frustration-nfl-labor-talks-referees",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-09T15:54:31+0000",
+      "summary": "The NFL's negotiations with the NFL Referees Association on a new collective bargaining agreement are not in a good place, sources told ESPN's Adam Schefter."
+    },
+    {
       "id": "498bd405e157d15b",
-      "title": "Sources: Ingram back to Texans on 3-year deal",
+      "title": "Sources: Texans to bring back Ingram, Rankins",
       "link": "https://espn.com/nfl/story/_/id/48151253/sources-ed-ingram-stays-texans-3-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-09T14:58:54+0000",
-      "summary": "Texans guard Ed Ingram will not hit free agency after agreeing to return to Houston on a three-year, $37.5 million deal, according to ESPN and NFL Network."
+      "published": "2026-03-09T15:54:31+0000",
+      "summary": "Guard Ed Ingram and defensive tackle Sheldon Rankins will not hit free agency after agreeing to multiyear deals with the Texans, according to ESPN and NFL Network."
+    },
+    {
+      "id": "cc2a0fb4a714afa4",
+      "title": "Jets acquiring Minkah Fitzpatrick from Dolphins and signing him to $40M extension, AP source says",
+      "link": "https://sports.yahoo.com/articles/jets-acquiring-minkah-fitzpatrick-dolphins-151715690.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:17:15+0000",
+      "summary": "The New York Jets are acquiring five-time Pro Bowl safety Minkah Fitzpatrick from the Miami Dolphins and signing him to a three-year, $40 million contract extension, a person with knowledge of the deal told The Associated Press on Monday.  The Jets will send a seventh-round pick in this year's draft to the Dolphins in the trade, according to two people who spoke to the AP on condition of anonymity because the trade can’t become official until the start of the NFL’s new league year on Wednesday.  The deal, first reported by ESPN, addresses a major need for the Jets, who became the first team in NFL history to go an entire season without an interception."
+    },
+    {
+      "id": "9c2f2f50fd8f8c88",
+      "title": "Colts free agency rumor could lead to rising star signing with 49ers, Patriots or Raiders",
+      "link": "https://sports.yahoo.com/articles/colts-free-agency-rumor-could-151635410.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:16:35+0000",
+      "summary": "An Indianapolis Colts free agency rumor could see one of the team's rising stars depart for the New England Patriots, Las Vegas Raiders, or San Francisco 49ers"
+    },
+    {
+      "id": "b2af05b84064bb77",
+      "title": "NFL 2026 free-agency tracker: Chiefs news, trades, signings, more",
+      "link": "https://sports.yahoo.com/articles/nfl-2026-free-agency-tracker-151500776.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:15:00+0000",
+      "summary": "We’re keeping you up to date on all the news from free agency in Kansas City and across the NFL."
+    },
+    {
+      "id": "b613463b77a4ccbd",
+      "title": "Rams Make Trent McDuffie Highest Paid Cornerback in NFL History With New Extension",
+      "link": "https://sports.yahoo.com/articles/rams-trent-mcduffie-highest-paid-151238381.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:12:38+0000",
+      "summary": "The Los Angeles Rams signed star cornerback Trent McDuffie to a record four-year, $124 million extension on Sunday, according to ESPN’s Adam Schefter. The deal includes $100 million guaranteed. This contract makes 25-year-old McDuffie the highest-paid cornerback in NFL history.…"
+    },
+    {
+      "id": "23d349b83e1dc647",
+      "title": "NFL free agency tracker 2026: Live updates on news, rumors, signings and trades",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-tracker-2026-160002705.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:10:00+0000",
+      "summary": "The Sporting News is tracking the latest NFL news, rumors, signings and trades from the 2026 free agency period. Follow for complete details for all 32 teams as the new league year begins."
+    },
+    {
+      "id": "88b8e45073c5eed8",
+      "title": "What we’re hearing about NFL free agency, Patriots moves on Day 1 of legal tamping",
+      "link": "https://sports.yahoo.com/articles/hearing-nfl-free-agency-patriots-142018128.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:09:24+0000",
+      "summary": "NFL free agency is upon us as the legal tampering begins Monday. Follow along with live updates around the league as well as what the Patriots decide to do on Day 1."
+    },
+    {
+      "id": "903f3c45837931f0",
+      "title": "Tua Tagovailoa shares heartfelt message to the Miami Dolphins following release",
+      "link": "https://sports.yahoo.com/articles/tua-tagovailoa-shares-heartfelt-message-150907233.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-09T15:09:07+0000",
+      "summary": "The Miami Dolphins have made the decision to release QB Tua Tagovailoa after the start of the new league year. After spending spending six NFL seasons with Miami, Tagovailoa expressed his gratitude to the Dolphins fans and team in a…"
+    },
+    {
+      "id": "4115ae35391a7bc3",
+      "title": "Colts 2026 Mock Draft Monday: Pre-NFL free agency",
+      "link": "https://colts.com/news/colts-2026-mock-draft-monday-pre-nfl-free-agency",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-09T15:00:07+0000",
+      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back as the NFL's annual free agency frenzy begins at noon on Monday."
+    },
+    {
+      "id": "a70b5f7d57aea13a",
+      "title": "Potential Free Agent Linebacker Targets for the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122201/potential-free-agent-linebacker-targets-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T15:00:00+0000",
+      "summary": "The Indianapolis Colts’ decision to trade away Zaire Franklin leaves a major leadership and production void in the middle of their defense. With Lou Anarumo taking over as defensive coordinator last year and installing his versatile, matchup‑driven defensive system, the Colts must find linebackers who can handle pattern‑matching responsibilities, disguise pressures, and stay disciplined against [&#8230;]"
     },
     {
       "id": "b513a3ecb1b35db4",
@@ -38,49 +128,13 @@
       "summary": "NFL free agency opens with the legal negotiating window at noon ET Monday. Here's the latest intel."
     },
     {
-      "id": "6ad3ec1baaab7733",
-      "title": "Travis Kelce Is Expected to Return for 14th NFL Season and Delay Retirement: Report",
-      "link": "https://sports.yahoo.com/articles/travis-kelce-expected-return-14th-141846749.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T14:18:46+0000",
-      "summary": "The NFL vet, whose contract with the Kansas City Chiefs expires on March 11, is leaning toward playing another season, reported The Athletic"
-    },
-    {
-      "id": "ba671d6afa259441",
-      "title": "Cowboys acquire Rashan Gary via trade with Packers",
-      "link": "https://sports.yahoo.com/articles/cowboys-acquire-rashan-gary-via-141424463.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T14:14:24+0000",
-      "summary": "The Dallas Cowboys traded a Day 3 NFL draft pick to the Green Bay Packers in exchange for pass rusher Rashan Gary, according to multiple reports."
-    },
-    {
-      "id": "4dfdaec93b13e6a1",
-      "title": "2026 NFL offseason moves tracker: Instant fantasy reaction to latest free agent signings and trades",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-offseason-moves-tracker-141410899.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T14:14:10+0000",
-      "summary": "The Rotoworld team looks at what free agent moves and trades could mean in fantasy football for 2026."
-    },
-    {
-      "id": "8e261055bee10e91",
-      "title": "NFL Free Agency: Steelers Reportedly Make First Signing, Bring Back Defender",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-steelers-reportedly-140910125.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T14:09:10+0000",
-      "summary": "The Pittsburgh Steelers have reportedly made their first move of NFL free agency. “The #Steelers have re-signed versatile CB Asante Samuel Jr., sources say, as he gets a 1-year deal,” NFL Network national insider Ian Rapoport posted on X. “After signing midseason, the former #Chargers standout appeared in six games and flashed the potential that […]"
-    },
-    {
-      "id": "62b0c02c3efa2562",
-      "title": "Cowboys NFL free agency tracker: Latest signings, departures, cap space",
-      "link": "https://sports.yahoo.com/articles/cowboys-nfl-free-agency-tracker-140715697.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-09T14:07:15+0000",
-      "summary": "Jerry Jones expects the Dallas Cowboys to be &quot;aggressive&quot; in free agency. USA TODAY Sports is tracking every move made in 2026 NFL free agency."
+      "id": "f35918bbfff22e17",
+      "title": "Indianapolis Colts free agent WR replacement options if Alec Pierce departs soon",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122181/indianapolis-colts-free-agent-wr-replacement-options-if-alec-pierce-departs-soon",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T13:58:06+0000",
+      "summary": "With Alec Pierce signaling he intends to explore free agency, the Indianapolis Colts must prepare for the possibility of losing their primary vertical threat. Pierce has expressed admiration for the franchise but believes he has “earned the right to explore free agency,” leaving Indianapolis with a potential hole in its deep‑passing game. If he departs, [&#8230;]"
     },
     {
       "id": "32acfbced13f0507",
@@ -227,15 +281,6 @@
       "summary": "Does anyone feel optimistic about what the Indianapolis Colts are doing was the question, but maybe a better one is, what exactly are the Colts doing right now? For years, my personal gripe has been that this franchise is directionless. This lack of direction starts at the top with Chris Ballard and has been one [&#8230;]"
     },
     {
-      "id": "1942275da05cec47",
-      "title": "ESPN lists Colts safety Nick Cross as team’s free agent ‘most likely on move’",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122106/espn-lists-colts-safety-nick-cross-as-teams-free-agent-most-likely-on-move",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T16:27:46+0000",
-      "summary": "According to ESPN, Indianapolis Colts starting safety Nick Cross is their pending free agent “most likely on the move”—which may give slight optimism for the Horseshoe faithful worried about retaining wideout Alec Pierce rapidly approaching free agency’s formal kick-off: FA most likely on the move:&#160;S&#160;Nick Cross. The Colts&#8217; signing of veteran free agent&#160;Cam Bynum&#160;last offseason, [&#8230;]"
-    },
-    {
       "id": "ea32ebf16956f12d",
       "title": "Mike Clay's fantasy football rookie rankings for 2026: Jeremiyah Love on top",
       "link": "https://espn.com/fantasy/football/story/_/id/48100578/fantasy-football-rankings-2026-nfl-rookies-draft-preview",
@@ -261,15 +306,6 @@
       "feed": "ESPN",
       "published": "2026-03-06T13:04:49+0000",
       "summary": "Our NFL Nation reporters played GM and made contract offers for free agent quarterback Malik Willis."
-    },
-    {
-      "id": "87af8d8c71ed42d9",
-      "title": "NFL Insider has reportedly ‘heard Cardinals Pro Bowl QB Kyler Murray has interest joining Colts’",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122098/nfl-insider-has-reportedly-heard-cardinals-pro-bowl-qb-kyler-murray-has-interest-joining-colts",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-06T04:13:40+0000",
-      "summary": "According to SI.com’s Albert Breer, Arizona Cardinals former Pro Bowl starting quarterback Kyler Murray, who’s expected to be released shortly, has interest in joining the Indianapolis Colts: “The obvious one, as we said earlier, is Minnesota,” writes Breer when asked which top NFL teams are interested in Murray. “Who else? Well, the Jets could potentially [&#8230;]"
     },
     {
       "id": "753c6170e5816156",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-20T15:40:58+0000",
       "summary": "Jeremiah, the lead NFL Draft analyst for NFL Network, spoke about the 2026 NFL Draft prior to the NFL Combine."
-    },
-    {
-      "id": "50bbad085accbe4c",
-      "title": "Colts’ 2026 lookahead: Running back",
-      "link": "https://fox59.com/sports/colts/colts-2026-lookahead-running-back/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-18T19:53:09+0000",
-      "summary": "INDIANAPOLIS – What more could Jonathan Taylor have done? In what has become a disturbing trend, the Indianapolis Colts failed to achieve collective success despite his individual brilliance. Overall, they closed last season on a seven-game losing streak for just the third time in franchise history and missed the playoffs for a fifth consecutive season, [...]"
-    },
-    {
-      "id": "66eae0eb81b60d52",
-      "title": "Colts have ’tag’ option in dealing with Daniel Jones, Alec Pierce",
-      "link": "https://fox59.com/sports/colts/colts-have-tag-option-in-dealing-with-daniel-jones-alec-pierce/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-17T19:08:13+0000",
-      "summary": "INDIANAPOLIS – The NFL has entered its “tag’’ season. Will the Indianapolis Colts play? Maybe. The franchise/transition tags are two of the restrictive/lucrative mechanisms possessed by teams as part of the Collective Bargaining Agreement. Depending on the level of the tag, it either keeps a pending free agent off the open market entirely or compensates [...]"
-    },
-    {
-      "id": "bf52a3cb0b6c7f4d",
-      "title": "The NFL franchise and transition tag, explained",
-      "link": "https://colts.com/news/the-nfl-franchise-and-transition-tag-explained-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-17T14:00:00+0000",
-      "summary": "The NFL's window for teams to use the franchise or transition tag opened Tuesday and will run through 4 p.m. on March 3."
-    },
-    {
-      "id": "1087d440ca9b804a",
-      "title": "Top finalists to compete for spot on 2026 Colts Cheer Squad",
-      "link": "https://colts.com/news/indianapolis-colts-cheerleaders-audition-showcase-tickets-2026-hilbert-circle-theatre",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-17T13:58:00+0000",
-      "summary": "Next month, the Indianapolis Colts Cheerleaders will host their Final Audition Showcase, where 48 finalists, representing Indiana and 16 other states, will compete to become members of the 2026 squad."
     }
   ],
   "links": [
