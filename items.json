@@ -1,32 +1,14 @@
 {
-  "updated": "2026-03-10T01:56:12+00:00",
+  "updated": "2026-03-10T04:10:45+00:00",
   "items": [
     {
-      "id": "37fd9f5d2ff7b092",
-      "title": "Source: Dobbins back to Broncos for 2 years, $20M",
-      "link": "https://espn.com/nfl/story/_/id/48158406/denver-broncos-bringing-back-running-back-jk-dobbins-2-year-deal",
+      "id": "007b7adf5e78bc56",
+      "title": "WR Thornton agrees to $11M deal with Chiefs",
+      "link": "https://espn.com/nfl/story/_/id/48159376/wr-tyquan-thornton-agrees-2-year-11m-deal-chiefs",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T02:16:44+0000",
-      "summary": "The Broncos are bringing back running back J.K. Dobbins on a two-year, $20 million deal that includes $8 million fully guaranteed at signing, NFL Network reported Monday."
-    },
-    {
-      "id": "d89bd0e9e4dd285d",
-      "title": "Former Weber State star Rashid Shaheed earns lucrative deal with Seahawks after Super Bowl winning season",
-      "link": "https://sports.yahoo.com/articles/former-weber-state-star-rashid-014223295.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T01:42:23+0000",
-      "summary": "Shaheed, one of the NFL’s top return specialists and deep threats, agreed to stay in Seattle on reported three-year, $51 million deal."
-    },
-    {
-      "id": "6e9d79dbbc184acc",
-      "title": "Ravens, Eagles, Steelers awarded 4 comp picks",
-      "link": "https://espn.com/nfl/story/_/id/48156633/ravens-eagles-steelers-awarded-4-compensatory-picks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-10T01:38:40+0000",
-      "summary": "Baltimore, Philadelphia and Pittsburgh each were awarded a league-high four compensatory picks in next month's NFL draft based on their losses and signings in last year's free agency."
+      "published": "2026-03-10T04:26:21+0000",
+      "summary": "Wide receiver Tyquan Thornton and the Chiefs agreed to a two-year, $11 million deal with a maximum value of $14 million, NFL Network reported Monday."
     },
     {
       "id": "4fb0c5b47d0f35dc",
@@ -34,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/48153529/sources-wr-alec-pierce-returning-colts-4-year-116m-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T01:38:40+0000",
+      "published": "2026-03-10T04:26:21+0000",
       "summary": "The Indianapolis Colts are re-signing wide receiver Alec Pierce but are trading his running mate Michael Pittman Jr. out of town."
     },
     {
@@ -43,8 +25,26 @@
       "link": "https://espn.com/nfl/story/_/id/48155650/sources-commanders-re-signing-backup-qb-marcus-mariota",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T01:38:40+0000",
+      "published": "2026-03-10T04:26:21+0000",
       "summary": "The Washington Commanders are re-signing backup quarterback Marcus Mariota on a one-year, $7 million deal, according to NFL Network."
+    },
+    {
+      "id": "02cf5c0a495a26e5",
+      "title": "Source: Steelers add RB Dowdle on 2-year deal",
+      "link": "https://espn.com/nfl/story/_/id/48159257/pittsburgh-steelers-rb-rico-dowdle-agree-2-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T04:02:25+0000",
+      "summary": "The Steelers are signing former Panthers standout running back Rico Dowdle to a two-year, $12.25 million deal, NFL Network reported Monday."
+    },
+    {
+      "id": "37fd9f5d2ff7b092",
+      "title": "Source: Dobbins back to Broncos for 2 years, $20M",
+      "link": "https://espn.com/nfl/story/_/id/48158406/denver-broncos-bringing-back-running-back-jk-dobbins-2-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T04:02:25+0000",
+      "summary": "The Broncos are bringing back running back J.K. Dobbins on a two-year, $20 million deal that includes $8 million fully guaranteed at signing, NFL Network reported Monday."
     },
     {
       "id": "23d349b83e1dc647",
@@ -52,17 +52,26 @@
       "link": "https://sports.yahoo.com/articles/nfl-free-agency-tracker-2026-160002705.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-10T01:35:00+0000",
+      "published": "2026-03-10T03:40:00+0000",
       "summary": "The Sporting News is tracking the latest NFL news, rumors, signings and trades from the 2026 free agency period. Follow for complete details for all 32 teams as the new league year begins."
     },
     {
-      "id": "8fcd4c942b631165",
-      "title": "Browns free agency tracker: Live rumors, news, updates on Quincy Williams and Cleveland's other signings",
-      "link": "https://sports.yahoo.com/articles/browns-free-agency-tracker-live-013305741.html",
+      "id": "4a909c1cde7b7f9f",
+      "title": "Guide to NFL offseason signings: Will Walker see heavier workload in KC?",
+      "link": "https://espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T03:33:46+0000",
+      "summary": "Your one-stop shop for fantasy football reaction to all the key player movement via free agency and trades."
+    },
+    {
+      "id": "c1ee7d044be928bd",
+      "title": "Colts re-signed WR Alec Pierce ‘knew his heart was in Indianapolis’—and best is still yet to come",
+      "link": "https://sports.yahoo.com/articles/colts-signed-wr-alec-pierce-032903177.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-10T01:33:05+0000",
-      "summary": "All you need to know about the Browns' moves in NFL free agency."
+      "published": "2026-03-10T03:29:03+0000",
+      "summary": "It appears as though Colts re-signed wideout Alec Pierce never actually wanted to leave—even turning down money to stay in Indianapolis, and finish the job."
     },
     {
       "id": "7a5f4541a7464f3a",
@@ -92,6 +101,15 @@
       "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves as they happen."
     },
     {
+      "id": "49232374d048ec53",
+      "title": "Report: Former Colts 1st round DE Kwity Paye signs 3-year, $48 million free agency deal with Raiders",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122268/report-former-colts-1st-round-de-kwity-paye-signs-3-year-48-million-free-agency-deal-with-raiders",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T21:54:26+0000",
+      "summary": "According to NFL Network’s Ian Rapoport, Indianapolis Colts free agent starting defensive end Kwity Paye signed a 3-year, $48 million deal with the Las Vegas Raiders, with the contract details reported by NFL Insider Jordan Schultz. As the Colts 2021 first round pick, and the 21st overall pick in that past year’s class, Paye would [&#8230;]"
+    },
+    {
       "id": "fcbf232fed09fdb3",
       "title": "Colts 2026 NFL free agency tracker",
       "link": "https://colts.com/news/2026-nfl-free-agency-tracker-daniel-jones-alec-pierce",
@@ -108,15 +126,6 @@
       "feed": "Colts.com",
       "published": "2026-03-09T20:35:19+0000",
       "summary": "The Colts now have seven selections in the 2026 NFL Draft."
-    },
-    {
-      "id": "4a909c1cde7b7f9f",
-      "title": "Guide to NFL offseason signings: Will Walker see heavier workload in KC?",
-      "link": "https://espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-09T19:36:04+0000",
-      "summary": "Your one-stop shop for fantasy football reaction to all the key player movement via free agency and trades."
     },
     {
       "id": "c2e17a1cc61beea7",
@@ -188,7 +197,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-03-09T16:30:04+0000",
-      "summary": "The Indianapolis Colts made a massive commitment to retain one one of their best skill players, signing standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday. The contract carries an average annual value of $29 million, [&#8230;]"
+      "summary": "The Indianapolis Colts made a massive commitment to retain one of their best skill players, agreeing to sign standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday’s announcement. The four-year contract carries an average annual value [&#8230;]"
     },
     {
       "id": "dc530baf0b7f4a5e",
@@ -272,15 +281,6 @@
       "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
     },
     {
-      "id": "fcc79972ea9bb27d",
-      "title": "Colts reportedly offered FA QB Daniel Jones ‘Sam Darnold money,’ but his camp had rather lofty counter offer",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122184/colts-reportedly-offered-fa-qb-daniel-jones-sam-darnold-money-but-his-camp-had-a-lofty-counter-offer",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-09T03:27:14+0000",
-      "summary": "According to SI.com’s Albert Breer, the Indianapolis Colts offered pending free agent starting quarterback Daniel Jones ‘Sam Darnold money’, but Jones and his camp countered with a surprising $50 million per year contract proposal: “The Colts’ initial offer to Jones was in the range of Sam Darnold’s three-year, $100.5 million deal last offseason,” writes Breer. [&#8230;]"
-    },
-    {
       "id": "9b4b7a54cee8d4b2",
       "title": "Colts re-sign K Blake Grupe",
       "link": "https://fox59.com/sports/colts-re-sign-k-blake-grupe/",
@@ -324,15 +324,6 @@
       "feed": "Colts.com",
       "published": "2026-03-06T20:54:33+0000",
       "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
-    },
-    {
-      "id": "ea32ebf16956f12d",
-      "title": "Mike Clay's fantasy football rookie rankings for 2026: Jeremiyah Love on top",
-      "link": "https://espn.com/fantasy/football/story/_/id/48100578/fantasy-football-rankings-2026-nfl-rookies-draft-preview",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-06T14:42:22+0000",
-      "summary": "With the NFL draft fast approaching, Mike Clay provides his rankings and analysis of 80 of the top skill position players from the combine and what to expect in fantasy."
     },
     {
       "id": "753c6170e5816156",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-02-23T13:59:00+0000",
       "summary": "Mit diesem Titel werden außergewöhnliche Fans der NFL weltweit gewürdigt, die andere mit ihrer Begeisterung für American Football inspirieren."
+    },
+    {
+      "id": "642098b1c40f9b32",
+      "title": "TUNE IN: General manager Chris Ballard and head coach Shane Steichen at NFL Scouting Combine Tuesday, February 24",
+      "link": "https://colts.com/news/2026-nfl-combine-chris-ballard-shane-steichen-roster-news-trade-daniel-jones-indiana-chicago-bears",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T13:00:00+0000",
+      "summary": "Watch live on Colts.com, Colts mobile app, Colts Facebook page, @Colts on X and Colts Youtube channel."
     }
   ],
   "links": [
