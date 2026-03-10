@@ -1,50 +1,32 @@
 {
-  "updated": "2026-03-10T15:29:36+00:00",
+  "updated": "2026-03-10T16:33:10+00:00",
   "items": [
     {
-      "id": "02cf5c0a495a26e5",
-      "title": "Source: Steelers add RB Dowdle on 2-year deal",
-      "link": "https://espn.com/nfl/story/_/id/48159257/pittsburgh-steelers-rb-rico-dowdle-agree-2-year-deal",
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T16:07:28+0000",
-      "summary": "The Steelers are signing former Panthers standout running back Rico Dowdle to a two-year, $12.25 million deal, NFL Network reported Monday."
+      "published": "2026-03-10T17:01:36+0000",
+      "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves as they happen."
     },
     {
-      "id": "7a5f4541a7464f3a",
-      "title": "🏈 Our mid-free agency NFL mini-mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
+      "id": "1f607139c46fa400",
+      "title": "NFL free agency grades: Sizing up 30-plus big deals",
+      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T16:07:28+0000",
-      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+      "published": "2026-03-10T17:01:36+0000",
+      "summary": "We're handing out report cards on big moves, including the Mike Evans and Devin Lloyd signings."
     },
     {
-      "id": "4998c36a6c975398",
-      "title": "Cowboys 2026 NFL free agency: Tracking every rumor and report",
-      "link": "https://sports.yahoo.com/articles/cowboys-2026-nfl-free-agency-004435179.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T15:22:28+0000",
-      "summary": "Here is our full Cowboys free agency tracker with all rumors, signings, and relevant news."
-    },
-    {
-      "id": "ed0c227c2e0ec1da",
-      "title": "NFL Expert Mocks KC Chiefs Big Overpay for Kenneth ‘Just a Guy’ Walker III",
-      "link": "https://sports.yahoo.com/articles/nfl-expert-mocks-kc-chiefs-151343878.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T15:13:43+0000",
-      "summary": "On Tuesday, the Kansas City Chiefs made one of the first big splashes in NFL free agency when they signed [&#8230;]"
-    },
-    {
-      "id": "b70060399ff76d2b",
-      "title": "See where the Broncos stand after Day 1 of NFL free agency",
-      "link": "https://sports.yahoo.com/articles/see-where-broncos-stand-day-151143805.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T15:11:43+0000",
-      "summary": "Here's a look at the Broncos' moves after the very first wave of NFL free agency."
+      "id": "0582d4a42262b745",
+      "title": "Barnwell: Sorting out the winners, losers and dominoes from NFL free agency's wild opening day",
+      "link": "https://espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T17:01:28+0000",
+      "summary": "Tua Tagovailoa in a great spot? No real help for C.J. Stroud? A wildly player-friendly deal for Tyler Linderbaum? Here's the best and worst of free agency."
     },
     {
       "id": "37fd9f5d2ff7b092",
@@ -52,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48158406/denver-broncos-bringing-back-running-back-jk-dobbins-2-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T14:52:49+0000",
+      "published": "2026-03-10T17:01:14+0000",
       "summary": "The Broncos are bringing back running back J.K. Dobbins on a two-year, $20 million deal that includes $8 million fully guaranteed at signing, NFL Network reported Monday."
     },
     {
@@ -61,8 +43,107 @@
       "link": "https://espn.com/nfl/story/_/id/48159376/wr-tyquan-thornton-agrees-2-year-11m-deal-chiefs",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T14:52:49+0000",
+      "published": "2026-03-10T17:01:13+0000",
       "summary": "Wide receiver Tyquan Thornton and the Chiefs agreed to a two-year, $11 million deal with a maximum value of $14 million, NFL Network reported Monday."
+    },
+    {
+      "id": "02cf5c0a495a26e5",
+      "title": "Source: Steelers add RB Dowdle on 2-year deal",
+      "link": "https://espn.com/nfl/story/_/id/48159257/pittsburgh-steelers-rb-rico-dowdle-agree-2-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T17:00:49+0000",
+      "summary": "The Steelers are signing former Panthers standout running back Rico Dowdle to a two-year, $12.25 million deal, NFL Network reported Monday."
+    },
+    {
+      "id": "7a5f4541a7464f3a",
+      "title": "🏈 Our mid-free agency NFL mini-mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T17:00:48+0000",
+      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+    },
+    {
+      "id": "ddbfa8b7a09af385",
+      "title": "Browns NFL free agency: Quincy Williams contract details revealed",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-free-agency-quincy-162059821.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:20:59+0000",
+      "summary": "The Browns inked linebacker Quincy Williams to a two-year deal in NFL free agency, so let's take a look at the contract details."
+    },
+    {
+      "id": "8b4b5c4422f6cbc8",
+      "title": "Bears to sign former Lions WR and returner to free agent contract for 10th NFL season",
+      "link": "https://sports.yahoo.com/articles/bears-sign-former-lions-wr-161924977.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:19:24+0000",
+      "summary": "This is an interesting depth addition for the Bears."
+    },
+    {
+      "id": "4da35911111c0a95",
+      "title": "Browns NFL free agency: 5 things to know about new OL Zion Johnson",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-free-agency-5-161607975.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:16:07+0000",
+      "summary": "Get to know the Browns' newest NFL free agency addition, guard Zion Johnson, here!"
+    },
+    {
+      "id": "23d349b83e1dc647",
+      "title": "NFL free agency tracker 2026: Live updates on news, rumors, signings and trades",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-tracker-2026-160002705.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:15:00+0000",
+      "summary": "The Sporting News is tracking the latest NFL news, rumors, signings and trades from the 2026 free agency period. Follow for complete details for all 32 teams as the new league year begins."
+    },
+    {
+      "id": "42ff03c1bfff5c07",
+      "title": "5 Best Targets for New England Patriots After First Wave of Free Agency",
+      "link": "https://sports.yahoo.com/articles/5-best-targets-england-patriots-161256371.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:12:56+0000",
+      "summary": "The New England Patriots were active on the first day of 2026 NFL free agency. New England agreed to a [&#8230;]"
+    },
+    {
+      "id": "1863dcbbd49d49b8",
+      "title": "ESPN analyst: Titans one of NFL's biggest free agency losers after Day 1",
+      "link": "https://sports.yahoo.com/articles/espn-analyst-titans-one-nfls-161254927.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:12:54+0000",
+      "summary": "ESPN analyst Bill Barnwell was not impressed by the Tennessee Titans haul on the first day of free agency, naming them one of the biggest losers."
+    },
+    {
+      "id": "85ca83cc8f96c4ad",
+      "title": "Browns NFL free agency: 5 things to know about new LB Quincy Williams",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-free-agency-5-161013194.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:10:13+0000",
+      "summary": "Get to know the newest Browns linebacker here after Quincy Williams agreed to terms with Cleveland in NFL free agency!"
+    },
+    {
+      "id": "c4440239636dd0d2",
+      "title": "NFL Legal Tampering Day 2: Everything we’re hearing, Patriots moves and more",
+      "link": "https://sports.yahoo.com/articles/nfl-legal-tampering-day-2-142003538.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T16:10:03+0000",
+      "summary": "NFL free agency is in ful swing us as the legal tampering enters Day 2. Follow along with live updates around the league as well as what the Patriots decide to do."
+    },
+    {
+      "id": "7a7437da66867d2a",
+      "title": "Colts Free Agency Tracker: Rumors, Reports, and Signings",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122296/colts-free-agency-tracker-rumors-reports-and-signings",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-10T14:30:31+0000",
+      "summary": "Colts DE Kwity Paye Signs With Raiders Colts Sign Titans Veteran Edge Arden Key Bears Poach Backup DT Neville Gallimore Colts Were Interested In Franklin-Myers Michael Pittman Jr. Traded to Steelers Alec Pierce’s Record-Breaking Re-signing"
     },
     {
       "id": "ae0bb790992827e8",
@@ -72,33 +153,6 @@
       "feed": "ESPN",
       "published": "2026-03-10T13:17:31+0000",
       "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza."
-    },
-    {
-      "id": "0582d4a42262b745",
-      "title": "Barnwell: Sorting out the winners, losers and dominoes from NFL free agency's wild opening day",
-      "link": "https://espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-10T13:16:11+0000",
-      "summary": "Tua Tagovailoa in a great spot? No real help for C.J. Stroud? A wildly player-friendly deal for Tyler Linderbaum? Here's the best and worst of free agency."
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-10T13:15:57+0000",
-      "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves as they happen."
-    },
-    {
-      "id": "1f607139c46fa400",
-      "title": "NFL free agency grades: Sizing up 30-plus big deals",
-      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-10T13:15:57+0000",
-      "summary": "We're handing out report cards on big moves, including the Mike Evans and Devin Lloyd signings."
     },
     {
       "id": "33358fa60fc98a9a",
@@ -270,15 +324,6 @@
       "feed": "Colts.com",
       "published": "2026-03-09T15:00:07+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back as the NFL's annual free agency frenzy begins at noon on Monday."
-    },
-    {
-      "id": "a70b5f7d57aea13a",
-      "title": "Potential Free Agent Linebacker Targets for the Colts",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122201/potential-free-agent-linebacker-targets-for-the-colts",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-09T15:00:00+0000",
-      "summary": "The Indianapolis Colts’ decision to trade away Zaire Franklin leaves a major leadership and production void in the middle of their defense. With Lou Anarumo taking over as defensive coordinator last year and installing his versatile, matchup‑driven defensive system, the Colts must find linebackers who can handle pattern‑matching responsibilities, disguise pressures, and stay disciplined against [&#8230;]"
     },
     {
       "id": "32acfbced13f0507",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-24T23:40:37+0000",
       "summary": "General manager Chris Ballard and head coach Shane Steichen spoke to the media on Tuesday at the NFL Combine about Ward's outlook for 2026 after the cornerback said he would be reevaluating his future in football after sustaining multiple concussions in 2025."
-    },
-    {
-      "id": "eb021655caf88989",
-      "title": "NFL Commissioner Roger Goodell announces $10,000 donation to Kicking The Stigma",
-      "link": "https://colts.com/news/nfl-commissioner-roger-goodell-announces-10-000-donation-to-kicking-the-stigma",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-24T15:51:41+0000",
-      "summary": "Since its launch in 2020, Kicking The Stigma has made a significantly positive impact on the mental health of both Indiana residents and those across the country."
-    },
-    {
-      "id": "81ea8b1f1f195d7f",
-      "title": "Colts talking multi-year deals with Daniel Jones, Alec Pierce",
-      "link": "https://fox59.com/sports/colts/colts-talking-multi-year-deals-with-daniel-jones-alec-pierce/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-23T19:05:28+0000",
-      "summary": "INDIANAPOLIS – There’s one time-tested axiom in the NFL: Deadlines spur action. The NFL Scouting Combine’s annual visit to town is a precursor to the opening of the veteran free agent market in mid-March. That means teams with coveted free-agents-to-be have initiated negotiations to keep those players from reaching the open market. And that includes [...]"
-    },
-    {
-      "id": "35cc4cca69dac4d9",
-      "title": "Colts 2026 Mock Draft Monday: Before the NFL Combine",
-      "link": "https://colts.com/news/colts-2026-mock-draft-monday-before-the-nfl-combine",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-23T17:00:18+0000",
-      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, returns ahead of the start of the NFL Combine this week in downtown Indianapolis."
-    },
-    {
-      "id": "3d3566a69dd4ef63",
-      "title": "Colts announce 2026 coaching staff",
-      "link": "https://colts.com/news/colts-announce-2026-coaching-staff-marian-hobby-defensive-line-lou-anarumo",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-23T16:07:37+0000",
-      "summary": "Here is what the Colts' 2026 coaching staff will look like this upcoming year."
-    },
-    {
-      "id": "bfea47c743cf744d",
-      "title": "The Netherlands' Lucas LeJeune named Colts 2025 International Fan of the Year",
-      "link": "https://colts.com/news/the-netherlands-lucas-lejeune-named-colts-2025-international-fan-of-the-year",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-23T14:00:16+0000",
-      "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
     }
   ],
   "links": [
