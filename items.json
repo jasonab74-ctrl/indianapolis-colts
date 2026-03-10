@@ -1,13 +1,31 @@
 {
-  "updated": "2026-03-10T18:44:52+00:00",
+  "updated": "2026-03-10T19:37:16+00:00",
   "items": [
+    {
+      "id": "1f607139c46fa400",
+      "title": "NFL free agency grades: Sizing up 30-plus big deals",
+      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T20:29:52+0000",
+      "summary": "We're handing out report cards on big moves, including the Mike Evans and Devin Lloyd signings."
+    },
+    {
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-10T20:29:51+0000",
+      "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves as they happen."
+    },
     {
       "id": "02cf5c0a495a26e5",
       "title": "Source: Steelers add RB Dowdle on 2-year deal",
       "link": "https://espn.com/nfl/story/_/id/48159257/pittsburgh-steelers-rb-rico-dowdle-agree-2-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T19:39:14+0000",
+      "published": "2026-03-10T20:29:39+0000",
       "summary": "The Steelers are signing former Panthers standout running back Rico Dowdle to a two-year, $12.25 million deal, NFL Network reported Monday."
     },
     {
@@ -16,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48158406/denver-broncos-bringing-back-running-back-jk-dobbins-2-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T19:39:13+0000",
+      "published": "2026-03-10T20:29:38+0000",
       "summary": "The Broncos are bringing back running back J.K. Dobbins on a two-year, $20 million deal that includes $8 million fully guaranteed at signing, NFL Network reported Monday."
     },
     {
@@ -25,7 +43,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T19:38:38+0000",
+      "published": "2026-03-10T20:29:13+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
@@ -34,7 +52,7 @@
       "link": "https://espn.com/nfl/story/_/id/48164261/chiefs-travis-kelce-says-taylor-swift-influenced-return",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T19:38:37+0000",
+      "published": "2026-03-10T20:29:12+0000",
       "summary": "Travis Kelce said that fiancée Taylor Swift was a significant influence on his decision to return to the Chiefs for his 14th NFL season."
     },
     {
@@ -43,26 +61,44 @@
       "link": "https://espn.com/nfl/story/_/id/48164626/texans-faibairn-now-nfl-highest-paid-k-13m-extension",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-10T19:38:37+0000",
-      "summary": "Texans' Ka'imi Fairbairn agrees to a two-year, $13 million extension making him the highest-paid kicker in NFL history, his agency Athletes First announced on Tuesday."
+      "published": "2026-03-10T20:29:12+0000",
+      "summary": "Houston's Ka'imi Fairbairn agreed to a two-year, $13 million extension, making him the highest-paid kicker in NFL history, his agency Athletes First announced Tuesday."
     },
     {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-10T19:26:18+0000",
-      "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves as they happen."
+      "id": "a4cb73391cd8514d",
+      "title": "Las Vegas Raiders 2026 NFL free agency tracker",
+      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-2026-nfl-130516616.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T19:25:37+0000",
+      "summary": "﻿All the latest Raiders’ free agent signings, news and rumors"
     },
     {
-      "id": "1f607139c46fa400",
-      "title": "NFL free agency grades: Sizing up 30-plus big deals",
-      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-10T19:26:18+0000",
-      "summary": "We're handing out report cards on big moves, including the Mike Evans and Devin Lloyd signings."
+      "id": "992ce253eb1b6f6f",
+      "title": "Colts veteran starting RT Braden Smith departs to Texans in free agency",
+      "link": "https://sports.yahoo.com/articles/colts-veteran-starting-rt-braden-192107594.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T19:21:07+0000",
+      "summary": "The Colts longtime starting right bookend is signing a 2-year deal with an AFC South rival."
+    },
+    {
+      "id": "adf599fe7245776d",
+      "title": "What signing Romeo Doubs means for the Patriots",
+      "link": "https://sports.yahoo.com/articles/signing-romeo-doubs-means-patriots-191835226.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T19:18:35+0000",
+      "summary": "The Patriots have agreed to terms with a wide receiver during the NFL legal tampering period."
+    },
+    {
+      "id": "488597bb0871fcd3",
+      "title": "5 things to know about Geno Smith's NFL career",
+      "link": "https://sports.yahoo.com/articles/5-things-know-geno-smiths-191748173.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T19:17:48+0000",
+      "summary": "Geno Smith is back where he started in the NFL 13 season ago. The veteran quarterback is being traded by the Raiders to the Jets."
     },
     {
       "id": "0582d4a42262b745",
@@ -74,76 +110,49 @@
       "summary": "Tua Tagovailoa in a great spot? No real help for C.J. Stroud? A wildly player-friendly deal for Tyler Linderbaum? Here's the best and worst of free agency."
     },
     {
-      "id": "c072f2ef4e0630df",
-      "title": "Former Alabama linebacker reportedly signs with new NFL team",
-      "link": "https://sports.yahoo.com/articles/former-alabama-linebacker-reportedly-signs-183505475.html",
+      "id": "66f227afe795dffc",
+      "title": "NFL Referees Association pushes back against NFL labor propaganda",
+      "link": "https://sports.yahoo.com/articles/nfl-referees-association-pushes-back-191637024.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:35:05+0000",
-      "summary": "The former Alabama inside linebacker and three-year starter has reportedly signed with a new NFL team as a free agent."
+      "published": "2026-03-10T19:16:37+0000",
+      "summary": "The NFL Referees Association has finally begun to push back."
     },
     {
-      "id": "e2af4ef78dfe519d",
-      "title": "Patriots free agency tracker (live updates): New England making key additions to bolster roster",
-      "link": "https://sports.yahoo.com/articles/patriots-2026-free-agency-tracker-141131941.html",
+      "id": "96cb064e6cfcd835",
+      "title": "Can Tyler Allgeier revive his NFL career with the Arizona Cardinals?",
+      "link": "https://sports.yahoo.com/articles/tyler-allgeier-revive-nfl-career-191440772.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:33:24+0000",
-      "summary": "The legal tampering period in 2026 NFL free agency is underway."
+      "published": "2026-03-10T19:14:40+0000",
+      "summary": "Allgeier has found a new home in Arizona as he looks for a career resurgence in 2026."
     },
     {
-      "id": "7fcb6a074be0e8c2",
-      "title": "NFL Free Agency updates: What are the cap spaces for each of the teams?",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-updates-cap-183002302.html",
+      "id": "c1712f4458783241",
+      "title": "Geno Smith on trade to Jets: Complete full circle moment",
+      "link": "https://sports.yahoo.com/articles/geno-smith-trade-jets-complete-191039726.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:30:02+0000",
-      "summary": "The legal tampering window for this year’s NFL free agency opened in early March 2026. Teams had a 52-hour negotiating window before the new league year officially began Wednesday at 4 p.m. ET. That kicked off a busy stretch of…"
+      "published": "2026-03-10T19:10:39+0000",
+      "summary": "Geno Smith is headed back to his first NFL team."
     },
     {
-      "id": "a4cb73391cd8514d",
-      "title": "Las Vegas Raiders 2026 NFL free agency tracker",
-      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-2026-nfl-130516616.html",
+      "id": "cb2d190b44ad8085",
+      "title": "Braden Smith relocates to Houston Texans",
+      "link": "https://fox59.com/sports/colts/braden-smith-relocates-to-houston-texans/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-10T18:49:46+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts have lost another veteran. Long-time starting right tackle Braden Smith has agreed to a two-year, $25 million free-agent contract with the AFC South rival Houston Texans, according to multiple reports. The deal includes $13.5 million in guarantees. Smith, 29, has started 105 games since being selected in the second round [...]"
+    },
+    {
+      "id": "4998c36a6c975398",
+      "title": "Cowboys 2026 NFL free agency: Tracking every rumor and report",
+      "link": "https://sports.yahoo.com/articles/cowboys-2026-nfl-free-agency-004435179.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:29:34+0000",
-      "summary": "﻿All the latest Raiders’ free agent signings, news and rumors"
-    },
-    {
-      "id": "51428985a806f743",
-      "title": "Jaguars 3-round 2026 NFL mock draft after Day 1 of free agency",
-      "link": "https://sports.yahoo.com/articles/jaguars-3-round-2026-nfl-182834832.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:28:34+0000",
-      "summary": "Taking into account the first wave of free agency, here is how a three-round 2026 NFL mock draft turned out for the Jaguars."
-    },
-    {
-      "id": "d5b4ade6b0760b7e",
-      "title": "2026 NFL free agency: Demario Davis reunion with the Jets",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-free-agency-demario-182829530.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:28:29+0000",
-      "summary": "Demario Davis is back with the New York Jets."
-    },
-    {
-      "id": "38946fd38dbf936a",
-      "title": "Packers to lose WR Romeo Doubs to Patriots on 4-year, $70M deal",
-      "link": "https://sports.yahoo.com/articles/packers-lose-wr-romeo-doubs-182804673.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T18:28:04+0000",
-      "summary": "Receiver Romeo Doubs and the Patriots have agreed to terms on a four-year, $70 million deal, per NFL Network."
-    },
-    {
-      "id": "7a7437da66867d2a",
-      "title": "Colts Free Agency Tracker: Rumors, Reports, and Signings",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122296/colts-free-agency-tracker-rumors-reports-and-signings",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-10T14:30:31+0000",
-      "summary": "Colts DE Kwity Paye Signs With Raiders Colts Sign Titans Veteran Edge Arden Key Bears Poach Backup DT Neville Gallimore Colts Were Interested In Franklin-Myers Michael Pittman Jr. Traded to Steelers Alec Pierce’s Record-Breaking Re-signing"
+      "published": "2026-03-10T18:01:29+0000",
+      "summary": "Here is our full Cowboys free agency tracker with all rumors, signings, and relevant news."
     },
     {
       "id": "ae0bb790992827e8",
@@ -324,6 +333,15 @@
       "feed": "Colts.com",
       "published": "2026-03-09T15:00:07+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back as the NFL's annual free agency frenzy begins at noon on Monday."
+    },
+    {
+      "id": "a70b5f7d57aea13a",
+      "title": "Potential Free Agent Linebacker Targets for the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122201/potential-free-agent-linebacker-targets-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T15:00:00+0000",
+      "summary": "The Indianapolis Colts’ decision to trade away Zaire Franklin leaves a major leadership and production void in the middle of their defense. With Lou Anarumo taking over as defensive coordinator last year and installing his versatile, matchup‑driven defensive system, the Colts must find linebackers who can handle pattern‑matching responsibilities, disguise pressures, and stay disciplined against [&#8230;]"
     },
     {
       "id": "32acfbced13f0507",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-25T02:42:24+0000",
       "summary": "Ballard discussed the future of several Colts players during his media sessions on Tuesday at the NFL Combine in Indianapolis."
-    },
-    {
-      "id": "72f7fbabd3d51b33",
-      "title": "Colts GM Chris Ballard 'hopeful' team can sign QB Daniel Jones and WR Alec Pierce to new contracts prior to NFL free agency",
-      "link": "https://colts.com/news/daniel-jones-alec-pierce-nfl-free-agency-contracts-cap-space-chris-ballard-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-24T23:45:05+0000",
-      "summary": "Ballard on Tuesday also addressed the possibility the Colts could use the franchise tag on either player."
-    },
-    {
-      "id": "38ef83f6869f0357",
-      "title": "Colts GM Chris Ballard, HC Shane Steichen provide updates on Charvarius Ward Sr.",
-      "link": "https://colts.com/news/colts-gm-chris-ballard-hc-shane-steichen-provide-updates-on-charvarius-ward-sr",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-24T23:40:37+0000",
-      "summary": "General manager Chris Ballard and head coach Shane Steichen spoke to the media on Tuesday at the NFL Combine about Ward's outlook for 2026 after the cornerback said he would be reevaluating his future in football after sustaining multiple concussions in 2025."
     }
   ],
   "links": [
