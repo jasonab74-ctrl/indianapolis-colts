@@ -1,6 +1,51 @@
 {
-  "updated": "2026-03-10T09:42:15+00:00",
+  "updated": "2026-03-10T10:37:56+00:00",
   "items": [
+    {
+      "id": "2cacbb87190a4623",
+      "title": "Miami Dolphins' NFL draft history shows why Tua Tagovailoa is gone",
+      "link": "https://sports.yahoo.com/articles/miami-dolphins-nfl-draft-history-103052576.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T10:30:52+0000",
+      "summary": "The Miami Dolphins' history of poor first-round draft picks explains why Tua Tagovailoa and Minkah Fitzpatrick are gone."
+    },
+    {
+      "id": "fd78cbf52724a667",
+      "title": "8 players New York Giants could target on Day 2 of NFL's tampering period",
+      "link": "https://sports.yahoo.com/articles/8-players-york-giants-could-102823307.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T10:28:23+0000",
+      "summary": "A look at eight free agents the New York Giants could (and probably should) consider on Day 2 of the NFL's legal tampering period."
+    },
+    {
+      "id": "8fd20ce74c7833b5",
+      "title": "The 11 best players available after day one of 2026 NFL free agency",
+      "link": "https://sports.yahoo.com/articles/11-best-players-available-day-100654649.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T10:06:54+0000",
+      "summary": "Trey Hendrickson, Kyler Murray and Leo Chenal top the list of free agents still around after a Day 1 spending spree."
+    },
+    {
+      "id": "8e043a03f0e0d6f6",
+      "title": "Takeaways from Day 1 of Browns free agency",
+      "link": "https://sports.yahoo.com/articles/takeaways-day-1-browns-free-100647565.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T10:06:47+0000",
+      "summary": "A few takeaways from Day 1 of NFL free agency for the Cleveland Browns"
+    },
+    {
+      "id": "f634c78e1be2a729",
+      "title": "Tennessee Titans news, free agency updates as NFL signings, trades continue",
+      "link": "https://sports.yahoo.com/articles/tennessee-titans-news-free-agency-100506639.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-10T10:05:06+0000",
+      "summary": "Day 2 of the NFL free agency negotiation window and legal tampering period is here. Follow along for Tennessee Titans news, signings, trades and more."
+    },
     {
       "id": "b513a3ecb1b35db4",
       "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
@@ -9,24 +54,6 @@
       "feed": "ESPN",
       "published": "2026-03-10T09:36:50+0000",
       "summary": "NFL free agency opened Monday with the legal negotiating window. We're following all the moves as they happen."
-    },
-    {
-      "id": "9fd2896a0c5510ef",
-      "title": "Fanatics Flag Football Classic bringing NFL stars and Team USA to BMO Stadium in Los Angeles",
-      "link": "https://sports.yahoo.com/articles/fanatics-flag-football-classic-bringing-093347120.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T09:33:47+0000",
-      "summary": "LOS ANGELES — Some of football’s biggest names will return to the field later this month when the Fanatics Flag Football Classic comes to Los Angeles, featuring NFL stars, elite flag football players and the first on-field appearance by Tom Brady since his retirement."
-    },
-    {
-      "id": "f2d5c6ef0026db3a",
-      "title": "2026 NFL draft: New York Giants not awarded any compensatory picks",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-york-giants-090907334.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-10T09:09:07+0000",
-      "summary": "The New York Giants did not receive any compensatory picks in the 2026 NFL draft."
     },
     {
       "id": "7a5f4541a7464f3a",
@@ -99,24 +126,6 @@
       "feed": "ESPN",
       "published": "2026-03-10T03:33:46+0000",
       "summary": "Your one-stop shop for fantasy football reaction to all the key player movement via free agency and trades."
-    },
-    {
-      "id": "485ad2ef15d36dfa",
-      "title": "Colts re-signed WR Alec Pierce ‘knew his heart was in Indianapolis’—and best is still yet to come",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122276/colts-re-signed-alec-pierce-knew-his-heart-was-in-indianapolis-and-best-is-still-yet-to-come",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-10T03:29:03+0000",
-      "summary": "With ESPN’s Pat McAfee on ‘The Pat McAfee Show,’ Indianapolis Colts recently re-signed wide receiver Alec Pierce shared his initial thoughts and excitement after reportedly inking a 4-year, $116 million contract extension (with $84 million guaranteed, $60 million being guaranteed at signing)—which is a historic deal for his position: “Yeah, I think with the whole [&#8230;]"
-    },
-    {
-      "id": "49232374d048ec53",
-      "title": "Report: Former Colts 1st round DE Kwity Paye signs 3-year, $48 million free agency deal with Raiders",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122268/report-former-colts-1st-round-de-kwity-paye-signs-3-year-48-million-free-agency-deal-with-raiders",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-09T21:54:26+0000",
-      "summary": "According to NFL Network’s Ian Rapoport, Indianapolis Colts free agent starting defensive end Kwity Paye signed a 3-year, $48 million deal with the Las Vegas Raiders, with the contract details reported by NFL Insider Jordan Schultz. As the Colts 2021 first round pick, and the 21st overall pick in that past year’s class, Paye would [&#8230;]"
     },
     {
       "id": "fcbf232fed09fdb3",
@@ -206,7 +215,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-03-09T16:30:04+0000",
-      "summary": "The Indianapolis Colts made a massive commitment to retain one of their best skill players, agreeing to sign standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday’s announcement. The four-year contract carries an average annual value [&#8230;]"
+      "summary": "The Indianapolis Colts made a massive commitment to retain one one of their best skill players, signing standout receiver Alec Pierce to a four-year, $116 million contract extension. The deal was negotiated by agents Mike Swenson and CJ LaBoy and was agreed on before Monday. The contract carries an average annual value of $29 million, [&#8230;]"
     },
     {
       "id": "dc530baf0b7f4a5e",
@@ -288,6 +297,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-09T10:53:44+0000",
       "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
+    },
+    {
+      "id": "fcc79972ea9bb27d",
+      "title": "Colts reportedly offered FA QB Daniel Jones ‘Sam Darnold money,’ but his camp had rather lofty counter offer",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122184/colts-reportedly-offered-fa-qb-daniel-jones-sam-darnold-money-but-his-camp-had-a-lofty-counter-offer",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-09T03:27:14+0000",
+      "summary": "According to SI.com’s Albert Breer, the Indianapolis Colts offered pending free agent starting quarterback Daniel Jones ‘Sam Darnold money’, but Jones and his camp countered with a surprising $50 million per year contract proposal: “The Colts’ initial offer to Jones was in the range of Sam Darnold’s three-year, $100.5 million deal last offseason,” writes Breer. [&#8230;]"
     },
     {
       "id": "9b4b7a54cee8d4b2",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-23T16:07:37+0000",
       "summary": "Here is what the Colts' 2026 coaching staff will look like this upcoming year."
-    },
-    {
-      "id": "bfea47c743cf744d",
-      "title": "The Netherlands' Lucas LeJeune named Colts 2025 International Fan of the Year",
-      "link": "https://colts.com/news/the-netherlands-lucas-lejeune-named-colts-2025-international-fan-of-the-year",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-23T14:00:16+0000",
-      "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
-    },
-    {
-      "id": "9f0178d2d309b909",
-      "title": "Der Niederländer Lucas LeJeune zum \"International Fan of the Year\" 2025 der Colts gekürt",
-      "link": "https://colts.com/news/der-niederlander-lucas-lejeune-zum-international-fan-of-the-year-2025-der-colts-gekurt",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-23T13:59:00+0000",
-      "summary": "Mit diesem Titel werden außergewöhnliche Fans der NFL weltweit gewürdigt, die andere mit ihrer Begeisterung für American Football inspirieren."
     }
   ],
   "links": [
