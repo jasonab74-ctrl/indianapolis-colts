@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-11T08:40:00+00:00",
+  "updated": "2026-03-11T09:41:01+00:00",
   "items": [
+    {
+      "id": "2d228e1a37f44b90",
+      "title": "Former Bengals player scores pretty surprising deal in NFL free agency",
+      "link": "https://sports.yahoo.com/articles/former-bengals-player-scores-pretty-093103009.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-11T09:31:03+0000",
+      "summary": "A former Bengals player got an interesting contract with another AFC team."
+    },
     {
       "id": "b513a3ecb1b35db4",
       "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
@@ -9,24 +18,6 @@
       "feed": "ESPN",
       "published": "2026-03-11T08:31:59+0000",
       "summary": "The NFL free agency opened Monday, and we're following all the moves as they happen."
-    },
-    {
-      "id": "aa2bae67486a46d2",
-      "title": "NFL experts grade Titans' deal with John Franklin-Myers",
-      "link": "https://sports.yahoo.com/articles/nfl-experts-grade-titans-deal-080409002.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-11T08:04:09+0000",
-      "summary": "The grades are in on the Tennessee Titans aquisition of defensive tackle John Franklin-Myers"
-    },
-    {
-      "id": "1702aa6c450da2ec",
-      "title": "NY Giants free agency tracker 2026: Latest news and updates",
-      "link": "https://sports.yahoo.com/articles/ny-giants-free-agency-tracker-080402253.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-11T08:04:02+0000",
-      "summary": "NY Giants are remaking their roster to fit what John Harbaugh wants as head coach as NFL league year kicks off Wednesday. Here’s the latest"
     },
     {
       "id": "a2e3592ba9c66d3f",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-02-23T16:07:37+0000",
       "summary": "Here is what the Colts' 2026 coaching staff will look like this upcoming year."
+    },
+    {
+      "id": "bfea47c743cf744d",
+      "title": "The Netherlands' Lucas LeJeune named Colts 2025 International Fan of the Year",
+      "link": "https://colts.com/news/the-netherlands-lucas-lejeune-named-colts-2025-international-fan-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T14:00:16+0000",
+      "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
     }
   ],
   "links": [
