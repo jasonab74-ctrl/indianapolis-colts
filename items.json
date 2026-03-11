@@ -1,13 +1,67 @@
 {
-  "updated": "2026-03-11T21:32:01+00:00",
+  "updated": "2026-03-11T22:26:03+00:00",
   "items": [
+    {
+      "id": "b4e70f436e4dbfc5",
+      "title": "Sources: Byard, NFL's INTs leader in '25, to Pats",
+      "link": "https://espn.com/nfl/story/_/id/48175886/sources-kevin-byard-reaches-one-year-deal-patriots",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T23:03:12+0000",
+      "summary": "Free agent safety Kevin Byard III has agreed to sign with the Patriots on a one-year, $9 million deal, according to NFL Network."
+    },
+    {
+      "id": "7390416751a42fb7",
+      "title": "Source: Ex-Saints TE Moreau to sign with Texans",
+      "link": "https://espn.com/nfl/story/_/id/48177372/source-ex-saints-te-foster-moreau-sign-texans",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T23:03:12+0000",
+      "summary": "The Texans have agreed to a contract with free agent tight end Foster Moreau, according to NFL Network."
+    },
+    {
+      "id": "b1d8daa5f70432aa",
+      "title": "Colts, QB Jones agree to 2-year, $88M contract",
+      "link": "https://espn.com/nfl/story/_/id/48174240/sources-colts-re-sign-qb-daniel-jones-2-year-88m-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T23:03:12+0000",
+      "summary": "The Colts and quarterback Daniel Jones reached agreement Wednesday on a two-year, $88 million contract that can be worth up to $100 million, his agents told ESPN's Adam Schefter."
+    },
+    {
+      "id": "7a5f4541a7464f3a",
+      "title": "🏈 Our mid-free agency NFL mini-mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T23:03:12+0000",
+      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+    },
+    {
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T23:03:07+0000",
+      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
+    },
+    {
+      "id": "ca137696d68e4e65",
+      "title": "Commanders adding TE Okonkwo, safety Cross",
+      "link": "https://espn.com/nfl/story/_/id/48176079/commanders-agree-3-year-deal-te-chig-okonkwo",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T22:45:36+0000",
+      "summary": "The Commanders have agreed to terms on a three-year contract with tight end Chig Okonkwo, agents Jason Chayut and Jared Fox told NFL Network."
+    },
     {
       "id": "6c0824c69fc067c3",
       "title": "Source: Jets add O-line reinforcement in Parham",
       "link": "https://espn.com/nfl/story/_/id/48176465/source-jets-add-o-line-reinforcement-dylan-parham",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-11T22:15:18+0000",
+      "published": "2026-03-11T22:45:36+0000",
       "summary": "The Jets have agreed to a two-year contract worth up to $20 million with guard Dylan Parham, according to NFL Network."
     },
     {
@@ -16,7 +70,7 @@
       "link": "https://espn.com/nfl/story/_/id/48174929/tisch-family-looks-transfer-giants-stake-children-trusts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-11T22:15:18+0000",
+      "published": "2026-03-11T22:45:36+0000",
       "summary": "Giants co-owners Steve, Laurie and Jonathan Tisch are requesting to transfer their stakes in the team to their children's trusts, according to an NFL memo."
     },
     {
@@ -25,7 +79,7 @@
       "link": "https://espn.com/nfl/story/_/id/48176095/nfl-bringing-back-front-office-coaching-accelerator-program",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-11T22:15:18+0000",
+      "published": "2026-03-11T22:45:36+0000",
       "summary": "The NFL is bringing back its front office and coaching accelerator program, which was paused in 2025. The program will now include nonminority participants, according to a memo sent to teams Tuesday that was obtained by ESPN."
     },
     {
@@ -34,44 +88,35 @@
       "link": "https://espn.com/nfl/story/_/id/48173018/commanders-agree-edge-rusher-chaisson",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-11T22:15:18+0000",
+      "published": "2026-03-11T22:45:36+0000",
       "summary": "The Washington Commanders have agreed to sign K'Lavon Chaisson to a one-year deal, according to NFL Network, adding another edge rusher to their overhauled pass rush."
     },
     {
-      "id": "b4e70f436e4dbfc5",
-      "title": "Sources: Byard, NFL's INTs leader in '25, to Pats",
-      "link": "https://espn.com/nfl/story/_/id/48175886/sources-kevin-byard-reaches-one-year-deal-patriots",
+      "id": "796ae6f0bdd2950f",
+      "title": "NFL futures: Ravens tied for second-shortest Super Bowl odds after whirlwind week",
+      "link": "https://espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-11T22:14:53+0000",
-      "summary": "Free agent safety Kevin Byard III has agreed to sign with the Patriots on a one-year, $9 million deal, according to NFL Network."
+      "published": "2026-03-11T22:41:38+0000",
+      "summary": "Every NFL team's team's win total, as well as odds to win their division, the conference and Super Bowl LXI."
     },
     {
-      "id": "b1d8daa5f70432aa",
-      "title": "Colts, QB Jones agree to 2-year, $88M contract",
-      "link": "https://espn.com/nfl/story/_/id/48174240/sources-colts-re-sign-qb-daniel-jones-2-year-88m-deal",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T22:14:53+0000",
-      "summary": "The Colts and quarterback Daniel Jones reached agreement Wednesday on a two-year, $88 million contract that can be worth up to $100 million, his agents told ESPN's Adam Schefter."
+      "id": "515a147a6619fc3f",
+      "title": "Former Alabama star reportedly signs one-year deal with NFL team",
+      "link": "https://sports.yahoo.com/articles/former-alabama-star-reportedly-signs-221513319.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-11T22:15:13+0000",
+      "summary": "Former Alabama wide receiver John Metchie has reportedly signed a one-year deal to reunite with a former Crimson Tide teammate."
     },
     {
-      "id": "ca137696d68e4e65",
-      "title": "Commanders adding TE Okonkwo, safety Cross",
-      "link": "https://espn.com/nfl/story/_/id/48176079/commanders-agree-3-year-deal-te-chig-okonkwo",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T22:14:53+0000",
-      "summary": "The Commanders have agreed to terms on a three-year contract with tight end Chig Okonkwo, agents Jason Chayut and Jared Fox told NFL Network."
-    },
-    {
-      "id": "7a5f4541a7464f3a",
-      "title": "🏈 Our mid-free agency NFL mini-mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T22:14:53+0000",
-      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+      "id": "973bfb9fe6553260",
+      "title": "Browns first round bust makes his NFL return official; finds new home",
+      "link": "https://sports.yahoo.com/articles/browns-first-round-bust-makes-220616096.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-11T22:06:16+0000",
+      "summary": "After sitting out the 2025 NFL season, former Browns draft bust Jedrick Wills Jr. is reportedly signing with the Chicago Bears"
     },
     {
       "id": "fd31d7e2d85915fd",
@@ -83,15 +128,6 @@
       "summary": "The 25-year-old Wooden started 16 games for the Packers in 2025."
     },
     {
-      "id": "f1cdfdea0a4bbd32",
-      "title": "Titans free agency news and rumors tracker",
-      "link": "https://sports.yahoo.com/articles/titans-free-agency-news-rumors-153308409.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-11T21:09:27+0000",
-      "summary": "Keeping track of all of the moves the Titans make in 2026 NFL free agency."
-    },
-    {
       "id": "339383ae42728770",
       "title": "Colts free agent safety Nick Cross headed home to DC",
       "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122412/colts-free-agent-safety-nick-cross-headed-home-to-dc",
@@ -99,15 +135,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-11T19:51:02+0000",
       "summary": "According to NFL Network’s Ian Rapoport, Indianapolis Colts starting safety Nick Cross is signing with the Washington Commanders on a 2-year deal, worth up to $14 million: Originally a 2022 3rd round pick of the Colts out of Maryland, Cross had become a full-time starter for the Colts over the past two seasons, starting in [&#8230;]"
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T19:50:22+0000",
-      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
     },
     {
       "id": "ae0bb790992827e8",
@@ -147,7 +174,7 @@
     },
     {
       "id": "8993e521e77a9dfa",
-      "title": "Colts Sign DE Micheal Clemons",
+      "title": "Colts Sign DE Michael Clemons",
       "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122388/colts-sign-de-michael-clemons",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-25T17:39:20+0000",
       "summary": "The Colts are projected to have at least seven picks in this year's draft."
-    },
-    {
-      "id": "85b94a99cdbf32ee",
-      "title": "2026 Colts Schedule Tracker: Live Updates",
-      "link": "https://colts.com/news/colts-2026-nfl-schedule-football-games-tickets-playoffs",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-25T17:01:00+0000",
-      "summary": "Keep track of all updates to the 2026 NFL schedule, including early announcements, international games & more!"
-    },
-    {
-      "id": "714edc95f7b663eb",
-      "title": "Daniel Jones, Alec Pierce ‘big pieces' to Colts moving forward",
-      "link": "https://fox59.com/sports/colts/daniel-jones-alec-pierce-big-pieces-to-colts-moving-forward/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-25T03:53:34+0000",
-      "summary": "INDIANAPOLIS — Change is as much a part of the NFL’s fabric as the cowhide leather football with commissioner Roger Goodell’s signature or the sterling silver Lombardi Trophy. Players — and coaches — come and go. Yet as the Indianapolis Colts head into another offseason that undoubtedly will involve significant roster adjustments, it’s not a [...]"
-    },
-    {
-      "id": "a7d9416c5af7ed88",
-      "title": "What Colts GM Chris Ballard said about QB Anthony Richardson Sr., WR Michael Pittman Jr., DT DeForest Buckner at 2026 NFL Combine",
-      "link": "https://colts.com/news/what-colts-gm-chris-ballard-said-about-qb-anthony-richardson-sr-wr-michael-pittman-jr-dt-deforest-buckner-at-2026-nfl-combine",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-25T02:42:24+0000",
-      "summary": "Ballard discussed the future of several Colts players during his media sessions on Tuesday at the NFL Combine in Indianapolis."
     }
   ],
   "links": [
