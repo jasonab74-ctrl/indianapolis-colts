@@ -1,23 +1,14 @@
 {
-  "updated": "2026-03-11T06:52:54+00:00",
+  "updated": "2026-03-11T07:42:25+00:00",
   "items": [
     {
-      "id": "611aa13daf790ffc",
-      "title": "Chargers upgrade trenches in mock draft after initial wave of signings",
-      "link": "https://sports.yahoo.com/articles/chargers-upgrade-trenches-mock-draft-062604332.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-11T06:26:04+0000",
-      "summary": "Here's how the initial signings might affect what the Los Angeles Chargers do in the first three rounds of the 2026 NFL Draft."
-    },
-    {
-      "id": "90515155bf880ece",
-      "title": "Charlie Kolar sends message to fans after joining Chargers",
-      "link": "https://sports.yahoo.com/articles/charlie-kolar-sends-message-fans-061901121.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-11T06:19:01+0000",
-      "summary": "Chargers' new tight end Charlie Kolar sent a message to fans amid NFL free agency."
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-11T08:31:59+0000",
+      "summary": "The NFL free agency opened Monday, and we're following all the moves as they happen."
     },
     {
       "id": "a2e3592ba9c66d3f",
@@ -65,13 +56,13 @@
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts and rumors",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T01:21:17+0000",
-      "summary": "The NFL free agency opened Monday, and we're following all the moves as they happen."
+      "id": "a701e9199dddd331",
+      "title": "Colts reportedly remain potential dark horse for All-Pro edge Trey Hendrickson",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122323/colts-reportedly-remain-potential-dark-horse-for-all-pro-trey-hendrickson",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-11T01:39:19+0000",
+      "summary": "According to ESPN’s Stephen Holder, the Indianapolis Colts ‘shouldn’t be ruled out’ regarding ultimately landing prized Cincinnati Bengals All-Pro free agent defensive end Trey Hendrickson. Per Holder’s ESPN colleague, Adam Schefter, no NFL team has been able so far to meet Hendrickson’s hefty contract demands of a projected $30 to $4o million per year, but [&#8230;]"
     },
     {
       "id": "1f607139c46fa400",
@@ -125,7 +116,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-03-10T14:30:31+0000",
-      "summary": "Colts, QB Daniel Jones Still Negotiating False Alarm On Colts QB Daniel Jones Braden Smith Joins AFC South Rival Colts DE Kwity Paye Signs With Raiders Colts Sign Titans Veteran Edge Arden Key Bears Poach Backup DT Neville Gallimore Colts Were Interested In Franklin-Myers Michael Pittman Jr. Traded to Steelers Alec Pierce’s Record-Breaking Re-signing"
+      "summary": "Don’t Sleep on Colts for Hendrickson Colts, QB Daniel Jones Still Negotiating False Alarm On Colts QB Daniel Jones Braden Smith Joins AFC South Rival Colts DE Kwity Paye Signs With Raiders Colts Sign Titans Veteran Edge Arden Key Colts Were Interested In Franklin-Myers Bears Poach Backup DT Neville Gallimore Michael Pittman Jr. Traded to [&#8230;]"
     },
     {
       "id": "ae0bb790992827e8",
@@ -243,15 +234,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-09T16:53:56+0000",
       "summary": "INDIANAPOLIS -- Long-time Indianapolis Colts wide receiver Michael Pittman Jr. is heading out east. The Colts are trading Pittman to the Pittsburgh Steelers, according to ESPN's Adam Schefter. Schefter reported the deal includes a swap of late-round picks plus a contract extension for 3 years and $59 million from Pittsburgh. The 2020 second-round pick ranks [...]"
-    },
-    {
-      "id": "d1ed402b2ccd1d84",
-      "title": "The Alec Pierce Sweepstakes Ends in Historic Fashion",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122211/the-alec-pierce-sweepstakes-ends-in-historic-fashion",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-09T16:47:09+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts made history today by signing wide receiver Alec Pierce to the biggest free agent contract his position has ever seen, a 4-year, $114m deal containing $84m in guarantees. Pierce is fresh off a season in which he lit the league on fire. Securing his first 1,000-yard season (1,003 yards) [&#8230;]"
     },
     {
       "id": "030d0a3616a10ece",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-02-23T16:07:37+0000",
       "summary": "Here is what the Colts' 2026 coaching staff will look like this upcoming year."
+    },
+    {
+      "id": "bfea47c743cf744d",
+      "title": "The Netherlands' Lucas LeJeune named Colts 2025 International Fan of the Year",
+      "link": "https://colts.com/news/the-netherlands-lucas-lejeune-named-colts-2025-international-fan-of-the-year",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T14:00:16+0000",
+      "summary": "The award recognizes extraordinary NFL fans around the world who inspire others through their love of American football."
+    },
+    {
+      "id": "9f0178d2d309b909",
+      "title": "Der Niederländer Lucas LeJeune zum \"International Fan of the Year\" 2025 der Colts gekürt",
+      "link": "https://colts.com/news/der-niederlander-lucas-lejeune-zum-international-fan-of-the-year-2025-der-colts-gekurt",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-23T13:59:00+0000",
+      "summary": "Mit diesem Titel werden außergewöhnliche Fans der NFL weltweit gewürdigt, die andere mit ihrer Begeisterung für American Football inspirieren."
     }
   ],
   "links": [
