@@ -1,6 +1,42 @@
 {
-  "updated": "2026-03-12T05:33:45+00:00",
+  "updated": "2026-03-12T06:54:29+00:00",
   "items": [
+    {
+      "id": "b4e70f436e4dbfc5",
+      "title": "Sources: Byard, NFL's INTs leader in '25, to Pats",
+      "link": "https://espn.com/nfl/story/_/id/48175886/sources-kevin-byard-reaches-one-year-deal-patriots",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T06:48:36+0000",
+      "summary": "Free agent safety Kevin Byard III has agreed to sign with the Patriots on a one-year, $9 million deal, according to NFL Network."
+    },
+    {
+      "id": "7a5f4541a7464f3a",
+      "title": "🏈 Our mid-free agency NFL mini-mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T06:48:36+0000",
+      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+    },
+    {
+      "id": "cbad19daafb4da74",
+      "title": "NFL world reacts to Commanders signing tight end Chig Okonkwo",
+      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-commanders-signing-064523798.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-12T06:45:23+0000",
+      "summary": "Everyone loves this move."
+    },
+    {
+      "id": "aaac7157610e0aec",
+      "title": "Former Oregon Ducks QB Marcus Mariota lands new NFL contract",
+      "link": "https://sports.yahoo.com/articles/former-oregon-ducks-qb-marcus-053039970.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-12T05:30:39+0000",
+      "summary": "The 2014 Heisman Trophy winner will play his 12th NFL season in 2026."
+    },
     {
       "id": "ad582e8ebcb9da03",
       "title": "Colts add Chiefs free agent DT Derrick Nnadi to boost interior depth",
@@ -54,33 +90,6 @@
       "feed": "ESPN",
       "published": "2026-03-12T01:12:07+0000",
       "summary": "Giants co-owners Steve, Laurie and Jonathan Tisch are requesting to transfer their stakes in the team to their children's trusts, according to an NFL memo."
-    },
-    {
-      "id": "b4e70f436e4dbfc5",
-      "title": "Sources: Byard, NFL's INTs leader in '25, to Pats",
-      "link": "https://espn.com/nfl/story/_/id/48175886/sources-kevin-byard-reaches-one-year-deal-patriots",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:11:43+0000",
-      "summary": "Free agent safety Kevin Byard III has agreed to sign with the Patriots on a one-year, $9 million deal, according to NFL Network."
-    },
-    {
-      "id": "7390416751a42fb7",
-      "title": "Source: Ex-Saints TE Moreau to sign with Texans",
-      "link": "https://espn.com/nfl/story/_/id/48177372/source-ex-saints-te-foster-moreau-sign-texans",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:11:43+0000",
-      "summary": "The Texans have agreed to a contract with free agent tight end Foster Moreau, according to NFL Network."
-    },
-    {
-      "id": "7a5f4541a7464f3a",
-      "title": "🏈 Our mid-free agency NFL mini-mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:11:43+0000",
-      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
       "id": "d60de8ee3bc37da8",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-02-25T17:39:20+0000",
       "summary": "The Colts are projected to have at least seven picks in this year's draft."
-    },
-    {
-      "id": "85b94a99cdbf32ee",
-      "title": "2026 Colts Schedule Tracker: Live Updates",
-      "link": "https://colts.com/news/colts-2026-nfl-schedule-football-games-tickets-playoffs",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-25T17:01:00+0000",
-      "summary": "Keep track of all updates to the 2026 NFL schedule, including early announcements, international games & more!"
     }
   ],
   "links": [
