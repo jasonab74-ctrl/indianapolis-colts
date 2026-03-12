@@ -1,23 +1,14 @@
 {
-  "updated": "2026-03-12T11:30:53+00:00",
+  "updated": "2026-03-12T12:58:06+00:00",
   "items": [
     {
-      "id": "fcb8409d3ee96c03",
-      "title": "This Week in Sports Trivia: March 12, 2026",
-      "link": "https://sports.yahoo.com/articles/week-sports-trivia-march-12-111607165.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-12T11:16:07+0000",
-      "summary": "NFL free agency is always a whirlwind, and this year’s feeding frenzy has been as busy as ever. The legal tampering period — we have a great explainer on that here — ended Wednesday, with a host of deals finally becoming official. Moves included Daniel Jones re-upping with the Indianapolis Colts, Jaelan Phillips signing with the Carolina Panthers and Mike Evans ending a long run with the Tampa Bay Buccaneers in favor of a deal with the San Francisco 49ers. The biggest news of the week, though, w"
-    },
-    {
-      "id": "582150ab8e069651",
-      "title": "The Daily Mauling: 3/12/26",
-      "link": "https://sports.yahoo.com/articles/daily-mauling-3-12-26-111100621.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-12T11:11:00+0000",
-      "summary": "Kansas Jayhawks News The daughter of a former NFL star committed to run track at Kansas Bill Self addressed rumors of his retirement with reporters CBS brings you even more new quotes from Self about Darryn Peterson’s season Links! Big 12 p players have a variety of complaints about the fancy court in Kansas City […]"
+      "id": "1f607139c46fa400",
+      "title": "NFL free agency grades: Sizing up 55-plus big signings and trades",
+      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:43:57+0000",
+      "summary": "We're handing out report cards on big moves, including the Javon Hargrave signing and Osa Odighizuwa trade."
     },
     {
       "id": "b4e70f436e4dbfc5",
@@ -25,8 +16,35 @@
       "link": "https://espn.com/nfl/story/_/id/48175886/sources-kevin-byard-reaches-one-year-deal-patriots",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-12T06:48:36+0000",
+      "published": "2026-03-12T13:37:49+0000",
       "summary": "Free agent safety Kevin Byard III has agreed to sign with the Patriots on a one-year, $9 million deal, according to NFL Network."
+    },
+    {
+      "id": "b1d8daa5f70432aa",
+      "title": "Colts, QB Jones agree to 2-year, $88M contract",
+      "link": "https://espn.com/nfl/story/_/id/48174240/sources-colts-re-sign-qb-daniel-jones-2-year-88m-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:37:49+0000",
+      "summary": "The Colts and quarterback Daniel Jones reached agreement Wednesday on a two-year, $88 million contract that can be worth up to $100 million, his agents told ESPN's Adam Schefter."
+    },
+    {
+      "id": "ca137696d68e4e65",
+      "title": "Commanders adding TE Okonkwo, safety Cross",
+      "link": "https://espn.com/nfl/story/_/id/48176079/commanders-agree-3-year-deal-te-chig-okonkwo",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:37:49+0000",
+      "summary": "The Commanders have agreed to terms on a three-year contract with tight end Chig Okonkwo, agents Jason Chayut and Jared Fox told NFL Network."
+    },
+    {
+      "id": "6c0824c69fc067c3",
+      "title": "Source: Jets add O-line reinforcement in Parham",
+      "link": "https://espn.com/nfl/story/_/id/48176465/source-jets-add-o-line-reinforcement-dylan-parham",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:37:49+0000",
+      "summary": "The Jets have agreed to a two-year contract worth up to $20 million with guard Dylan Parham, according to NFL Network."
     },
     {
       "id": "7a5f4541a7464f3a",
@@ -34,8 +52,62 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-12T06:48:36+0000",
+      "published": "2026-03-12T13:37:24+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+    },
+    {
+      "id": "7819e3694d6c21b6",
+      "title": "How the Browns have succeeded in their first offseason priority",
+      "link": "https://espn.com/nfl/story/_/id/48179206/how-cleveland-browns-succeeded-their-first-offseason-priority-2026-nfl-free-agency",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:11:10+0000",
+      "summary": "Cleveland has attacked its offensive line issues head-on during the early window of NFL free agency."
+    },
+    {
+      "id": "04ed95a2a7fbd502",
+      "title": "The best (and worst) of NFL free agency: The Dominoes Award, Classic Overpay Award and more",
+      "link": "https://espn.com/nfl/story/_/id/48147334/2026-nfl-free-agency-awards-superlatives-best-worst-surprising-moves-contracts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:07:25+0000",
+      "summary": "The edge rush market exploded, the Titans called on old friends, Mike Evans landed in a new place, and two players were very particular about their contract numbers."
+    },
+    {
+      "id": "0582d4a42262b745",
+      "title": "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
+      "link": "https://espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:07:25+0000",
+      "summary": "Tua Tagovailoa in a great spot? Houston has a problem? A wildly player-friendly deal for Tyler Linderbaum?"
+    },
+    {
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-12T13:02:06+0000",
+      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
+    },
+    {
+      "id": "98f20183340f88ed",
+      "title": "Fantasy Football Risers and Fallers in 2026 Free Agency",
+      "link": "https://sports.yahoo.com/articles/fantasy-football-risers-fallers-2026-124717393.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-12T12:47:17+0000",
+      "summary": "With the bulk of NFL free agency behind us, it’s time to react. We have seen significant movement at all the primary fantasy positions. Many questions have been answered, and the stage is set for the NFL Draft. Let’s take&hellip;"
+    },
+    {
+      "id": "e469f93dce5603b4",
+      "title": "Best remaining 2026 NFL free agents: Kyler Murray, Jauan Jennings and the top players still available at each position",
+      "link": "https://sports.yahoo.com/articles/best-remaining-2026-nfl-free-203026455.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-12T12:38:00+0000",
+      "summary": "NFL free agency 2026 has already gone through the first few waves, but there are plenty of solid veterans still available on the open market. SN's Vinnie Iyer breaks down the best of who's left at every position."
     },
     {
       "id": "ad582e8ebcb9da03",
@@ -45,51 +117,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-12T02:02:12+0000",
       "summary": "Per his representation at SportsTrust advisors, the Indianapolis Colts have signed Kansas City Chiefs veteran free agent defensive tackle Derrick Nnadi. Originally a 2018 3rd round pick of the Chiefs, the 6’1”, 317 pound Nnadi has appeared in 130 career games, making 98 career starts. The 29-year-old veteran defensive tackle is fresh off a 2025 [&#8230;]"
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:15:06+0000",
-      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
-    },
-    {
-      "id": "b1d8daa5f70432aa",
-      "title": "Colts, QB Jones agree to 2-year, $88M contract",
-      "link": "https://espn.com/nfl/story/_/id/48174240/sources-colts-re-sign-qb-daniel-jones-2-year-88m-deal",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:12:07+0000",
-      "summary": "The Colts and quarterback Daniel Jones reached agreement Wednesday on a two-year, $88 million contract that can be worth up to $100 million, his agents told ESPN's Adam Schefter."
-    },
-    {
-      "id": "ca137696d68e4e65",
-      "title": "Commanders adding TE Okonkwo, safety Cross",
-      "link": "https://espn.com/nfl/story/_/id/48176079/commanders-agree-3-year-deal-te-chig-okonkwo",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:12:07+0000",
-      "summary": "The Commanders have agreed to terms on a three-year contract with tight end Chig Okonkwo, agents Jason Chayut and Jared Fox told NFL Network."
-    },
-    {
-      "id": "6c0824c69fc067c3",
-      "title": "Source: Jets add O-line reinforcement in Parham",
-      "link": "https://espn.com/nfl/story/_/id/48176465/source-jets-add-o-line-reinforcement-dylan-parham",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:12:07+0000",
-      "summary": "The Jets have agreed to a two-year contract worth up to $20 million with guard Dylan Parham, according to NFL Network."
-    },
-    {
-      "id": "4efb2ba12e1afd4f",
-      "title": "Memo: Tisches ask to move Giants stake to trusts",
-      "link": "https://espn.com/nfl/story/_/id/48174929/tisch-family-looks-transfer-giants-stake-children-trusts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-12T01:12:07+0000",
-      "summary": "Giants co-owners Steve, Laurie and Jonathan Tisch are requesting to transfer their stakes in the team to their children's trusts, according to an NFL memo."
     },
     {
       "id": "d60de8ee3bc37da8",
@@ -164,24 +191,6 @@
       "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza."
     },
     {
-      "id": "04ed95a2a7fbd502",
-      "title": "The best (and worst) of NFL free agency: The Dominoes Award, Classic Overpay Award and more",
-      "link": "https://espn.com/nfl/story/_/id/48147334/2026-nfl-free-agency-awards-superlatives-best-worst-surprising-moves-contracts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T19:35:05+0000",
-      "summary": "The edge rush market exploded, the Titans called on old friends, Mike Evans landed in a new place, and two players were very particular about their contract numbers."
-    },
-    {
-      "id": "0582d4a42262b745",
-      "title": "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
-      "link": "https://espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T19:35:05+0000",
-      "summary": "Tua Tagovailoa in a great spot? Houston has a problem? A wildly player-friendly deal for Tyler Linderbaum?"
-    },
-    {
       "id": "fcbf232fed09fdb3",
       "title": "Colts 2026 NFL free agency tracker",
       "link": "https://colts.com/news/2026-nfl-free-agency-tracker-daniel-jones-alec-pierce",
@@ -252,15 +261,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-11T15:24:00+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts and Daniel Jones are transitioning from the transition tag. The team and its starting quarterback agreed on a 2-year, $88 million extension that replaces the one-year, $37.833 million transition tag that was put in place March 3, according to a source. Jones could earn up to $100 million in incentives [...]"
-    },
-    {
-      "id": "1f607139c46fa400",
-      "title": "NFL free agency grades: Sizing up 55-plus big signings and trades",
-      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-11T15:23:40+0000",
-      "summary": "We're handing out report cards on big moves, including the Javon Hargrave signing and Osa Odighizuwa trade."
     },
     {
       "id": "7b702a60d1537e0b",
