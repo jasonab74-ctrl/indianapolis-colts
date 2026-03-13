@@ -1,59 +1,113 @@
 {
-  "updated": "2026-03-13T19:31:03+00:00",
+  "updated": "2026-03-13T20:33:16+00:00",
   "items": [
-    {
-      "id": "8a4a47c91543e638",
-      "title": "Colts get much needed help at safety, sign veteran free agent",
-      "link": "https://sports.yahoo.com/articles/colts-much-needed-help-safety-191831054.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-13T19:18:31+0000",
-      "summary": "The Indianapolis Colts are giving their safety depth a much-needed boost, signing a veteran free agent."
-    },
-    {
-      "id": "2be9dea225eb0980",
-      "title": "NFL free agency: DT Dalvin Tomlinson signing with LA Chargers",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-dt-dalvin-191704042.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-13T19:17:04+0000",
-      "summary": "The Cardinals cut Dalvin Tomlinson before free agency. He lands with another team, getting $6M guaranteed."
-    },
-    {
-      "id": "b91d169f5df0306e",
-      "title": "LB Greenlaw returns to 49ers as DE Huff retires",
-      "link": "https://espn.com/nfl/story/_/id/48187169/sources-dre-greenlaw-back-49ers-year-broncos",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-13T19:17:00+0000",
-      "summary": "Linebacker Dre Greenlaw is returning to the 49ers, agreeing to terms on a one-year, $7.5 million contract, a source told ESPN. Defensive end Bryce Huff, however, is retiring from the NFL, he announced."
-    },
     {
       "id": "7a5f4541a7464f3a",
       "title": "🏈 Our mid-free agency NFL mini-mock draft",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-13T19:17:00+0000",
+      "published": "2026-03-13T21:24:05+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
-      "id": "7de7dff8d287d549",
-      "title": "Michael Pittman opens up to Pat McAfee about move to Steelers",
-      "link": "https://sports.yahoo.com/articles/michael-pittman-opens-pat-mcafee-191542451.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-13T19:15:42+0000",
-      "summary": "New Pittsburgh Steelers wide receiver Michael Pittman Jr. is embracing the culture. Pittman, whose first six NFL seasons took place in Indianapolis with the Colts, the AFC South franchise shipped him to Pittsburgh to join forces with DK Metcalf, and,…"
+      "id": "c61c60a5d982de83",
+      "title": "Where nine of the best remaining NFL free agents should sign: We found perfect landing spots",
+      "link": "https://espn.com/nfl/story/_/id/48185973/2026-nfl-free-agency-best-team-fits-top-players-available-barnwell",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-13T21:14:01+0000",
+      "summary": "Where should Jauan Jennings, Joey Bosa and Rasheed Walker sign? Which roster needs Kirk Cousins? Let's find new homes for nine players still looking for one."
     },
     {
-      "id": "42919a8b361f9f83",
-      "title": "L'Jarius Sneed: Titans cut ex-Chiefs star, two-time Super Bowl champ",
-      "link": "https://sports.yahoo.com/articles/ljarius-sneed-titans-cut-ex-191355989.html",
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-13T21:14:01+0000",
+      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
+    },
+    {
+      "id": "ae0bb790992827e8",
+      "title": "Reid's updated NFL draft QB Hot Board: Strengths and weaknesses for the top passers",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-13T20:56:36+0000",
+      "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza."
+    },
+    {
+      "id": "f7be400ec3e275ea",
+      "title": "Colts re-sign own veteran free agent wide receiver",
+      "link": "https://sports.yahoo.com/articles/colts-sign-own-veteran-free-202339727.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-13T19:13:55+0000",
-      "summary": "According to NFL insider Adam Schefter, former Kansas City Chiefs DB L'Jarius Sneed was released by the Tennessee Titans on March 13."
+      "published": "2026-03-13T20:23:39+0000",
+      "summary": "The Indianapolis Colts have re-signed one of their own veteran free agent wide receivers."
+    },
+    {
+      "id": "7c23448990ee0fe0",
+      "title": "Colts sign DL Derrick Nnadi, re-sign TE Drew Ogletree",
+      "link": "https://sports.yahoo.com/articles/colts-sign-dl-derrick-nnadi-201813519.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T20:18:13+0000",
+      "summary": "The Colts announced a pair of signings on Friday afternoon."
+    },
+    {
+      "id": "02bfd8f33f26d8d0",
+      "title": "Colts safety depth chart after 2 free agent signings: Questions linger",
+      "link": "https://sports.yahoo.com/articles/colts-safety-depth-chart-2-201652196.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T20:16:52+0000",
+      "summary": "After making two free agent signings, here is an updated look at the Colts' safety depth chart and the current state of this position group."
+    },
+    {
+      "id": "cf52c39b8c2a5c66",
+      "title": "Colts re-sign WR Laquon Treadwell",
+      "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T20:13:55+0000",
+      "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
+    },
+    {
+      "id": "23d349b83e1dc647",
+      "title": "NFL free agency tracker 2026: Live updates on news, rumors, signings and trades",
+      "link": "https://sports.yahoo.com/articles/nfl-free-agency-tracker-2026-160002705.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T20:13:00+0000",
+      "summary": "The Sporting News is tracking the latest NFL news, rumors, signings and trades from the 2026 free agency period. Follow for complete details for all 32 teams as the new league year begins."
+    },
+    {
+      "id": "fafc6c5f9c7f44da",
+      "title": "Colts re-sign fourth-year tight end Drew Ogletree",
+      "link": "https://sports.yahoo.com/articles/colts-sign-fourth-tight-end-200702510.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T20:07:02+0000",
+      "summary": "After the completion of his four-year rookie deal, the Colts re-signed tight end Drew Ogletree to a new deal, the team announced Friday."
+    },
+    {
+      "id": "dbf446884f2548dc",
+      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
+      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-13T19:34:38+0000",
+      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
+    },
+    {
+      "id": "89aa2aa3a8911b9d",
+      "title": "Colts sign free agent DT Derrick Nnadi",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:30:28+0000",
+      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
     },
     {
       "id": "b3f9653f48c88f59",
@@ -92,24 +146,6 @@
       "summary": "The Colts made the trade official on Friday."
     },
     {
-      "id": "c61c60a5d982de83",
-      "title": "Where nine of the best remaining NFL free agents should sign: We found perfect landing spots",
-      "link": "https://espn.com/nfl/story/_/id/48185973/2026-nfl-free-agency-best-team-fits-top-players-available-barnwell",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-13T16:40:12+0000",
-      "summary": "Where should Jauan Jennings, Joey Bosa and Rasheed Walker sign? Which roster needs Kirk Cousins? Let's find new homes for nine players still looking for one."
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-13T16:40:12+0000",
-      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
-    },
-    {
       "id": "c94ab123149a64c4",
       "title": "Dynamic duo of Alec Pierce and Daniel Jones set high standards for Colts offense in 2026: 'We can be the best team in the NFL'",
       "link": "https://colts.com/news/dynamic-duo-of-alec-pierce-and-daniel-jones-set-high-standards-for-colts-offense-in-2026-we-can-be-the-best-team-in-the-nfl",
@@ -120,7 +156,7 @@
     },
     {
       "id": "c86e3aa8e7daaa49",
-      "title": "The Colts are borrowing from tomorrow to survive 2026",
+      "title": "Looking back at the Colts’ crazy start to free agency",
       "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122452/looking-back-at-the-colts-crazy-start-to-free-agency",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -153,15 +189,6 @@
       "feed": "ESPN",
       "published": "2026-03-13T12:40:23+0000",
       "summary": "They kept Daniel Jones, Alec Pierce but lost in bid for Trey Hendrickson, so did Indy win or lose free agency?"
-    },
-    {
-      "id": "ae0bb790992827e8",
-      "title": "Reid's updated NFL draft QB Hot Board: Strengths and weaknesses for the top passers",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-13T12:38:11+0000",
-      "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza."
     },
     {
       "id": "4c24801a990c6355",
@@ -215,7 +242,7 @@
       "source": "Colts.com",
       "feed": "Colts.com",
       "published": "2026-03-12T20:33:00+0000",
-      "summary": "The NFL free agency negotiating window opened at noon on Monday."
+      "summary": "We're through the first wave of NFL free agency, but there still will be plenty of moves for the Colts to make."
     },
     {
       "id": "9eb02f8eb81210ea",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-06T22:08:59+0000",
       "summary": "INDIANAPOLIS – Ten seasons were enough. Ryan Kelly, a 2016 first-round draft pick and anchor of the Indianapolis Colts for nine seasons, announced his retirement on Friday on his social media account. “What an incredible ride it was,’’ he posted on his X account. Kelly finished his career with the Minnesota Vikings in 2025, but [...]"
-    },
-    {
-      "id": "d61cf3a8b65605e5",
-      "title": "Former Colts C Ryan Kelly announces retirement from NFL",
-      "link": "https://colts.com/news/former-colts-c-ryan-kelly-announces-retirement-from-nfl",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-06T21:38:35+0000",
-      "summary": "Kelly played for the Colts from 2016-2024."
-    },
-    {
-      "id": "df6c43e5033f2c4f",
-      "title": "Tune in LIVE to see who will make the 2026 Colts Cheer team!",
-      "link": "https://colts.com/news/indianapolis-colts-cheerleaders-audition-showcase-2026-team-instagram-tiktok-facebook",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-06T20:54:33+0000",
-      "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
-    },
-    {
-      "id": "753c6170e5816156",
-      "title": "Source: Colts exploring trade for Zaire Franklin",
-      "link": "https://fox59.com/sports/colts/source-colts-exploring-trade-for-zaire-franklin/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-06T01:31:09+0000",
-      "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
     }
   ],
   "links": [
