@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T17:59:00+00:00",
+  "updated": "2026-03-13T18:55:44+00:00",
   "items": [
     {
       "id": "b91d169f5df0306e",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/48187169/sources-dre-greenlaw-back-49ers-year-broncos",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-13T17:49:28+0000",
+      "published": "2026-03-13T19:17:00+0000",
       "summary": "Linebacker Dre Greenlaw is returning to the 49ers, agreeing to terms on a one-year, $7.5 million contract, a source told ESPN. Defensive end Bryce Huff, however, is retiring from the NFL, he announced."
     },
     {
@@ -16,26 +16,53 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-13T17:49:28+0000",
+      "published": "2026-03-13T19:17:00+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
-      "id": "9f52c1317633be46",
-      "title": "Colts - Steelers Michael Pittman trade official: Full trade details",
-      "link": "https://sports.yahoo.com/articles/colts-steelers-michael-pittman-trade-174812263.html",
+      "id": "4998c36a6c975398",
+      "title": "Cowboys 2026 NFL free agency: Tracking every rumor and report",
+      "link": "https://sports.yahoo.com/articles/cowboys-2026-nfl-free-agency-004435179.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-13T17:48:12+0000",
-      "summary": "The Colts and Steelers trade for Michael Pittman is now official. Here are the full details."
+      "published": "2026-03-13T18:51:19+0000",
+      "summary": "Here is our full Cowboys free agency tracker with all rumors, signings, and relevant news."
     },
     {
-      "id": "225aff85ef7e2c06",
-      "title": "2026 NFC NFL Free Agency Grades: Kyler Murray earns the Vikings an A",
-      "link": "https://sports.yahoo.com/articles/2026-nfc-nfl-free-agency-174740933.html",
+      "id": "cbe60b89fbfa1804",
+      "title": "How Bengals signing Jonathan Allen changes NFL draft plan",
+      "link": "https://sports.yahoo.com/articles/bengals-signing-jonathan-allen-changes-184526449.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-13T17:47:40+0000",
-      "summary": "Kyler Murray headlined the 2026 NFL free agency class. His addition to the Vikings gives them one of the biggest possible upgrades heading into the upcoming season."
+      "published": "2026-03-13T18:45:26+0000",
+      "summary": "The Bengals spent big on Jonathan Allen in NFL free agency. What does it mean for the draft?"
+    },
+    {
+      "id": "d9c86046293302a7",
+      "title": "Kamari Ramsey Leaning On Former USC CB For Advice Ahead of NFL Draft",
+      "link": "https://sports.yahoo.com/articles/kamari-ramsey-leaning-former-usc-184451054.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T18:44:51+0000",
+      "summary": "Kamari Ramsey is one of multiple USC football stars entering the 2026 NFL Draft. Ramsey has participated in the Senior Bowl, NFL Scouting Combine, and most recently, USC’s Pro Day on Thursday. Although the draft process can be demanding and…"
+    },
+    {
+      "id": "72b7881da6193900",
+      "title": "Travis Etienne reveals people have been saying his name wrong for years",
+      "link": "https://sports.yahoo.com/articles/travis-etienne-reveals-people-saying-184047688.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T18:40:47+0000",
+      "summary": "New Orleans Saints running back Travis Etienne is setting the record straight entering his fifth NFL season. Here's how to pronounce his last name."
+    },
+    {
+      "id": "38b78ff2f521a21b",
+      "title": "Bucs make unique pick in NFL Free agency mock draft",
+      "link": "https://sports.yahoo.com/articles/bucs-unique-pick-nfl-free-183309678.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T18:33:09+0000",
+      "summary": "The Bucs draft a new offensive weapon in a unique mock draft selection."
     },
     {
       "id": "10de0843d4b167f8",
@@ -90,6 +117,15 @@
       "feed": "Colts.com",
       "published": "2026-03-13T16:36:32+0000",
       "summary": "Thanks to their connection on the field and their friendship off the field, Pierce and Jones see a bright future for each other – and the Colts – in 2026."
+    },
+    {
+      "id": "c86e3aa8e7daaa49",
+      "title": "The Colts are borrowing from tomorrow to survive 2026",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122452/looking-back-at-the-colts-crazy-start-to-free-agency",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-13T15:00:00+0000",
+      "summary": "This offseason has felt a little different for the Colts. Not necessarily because of the individual moves themselves, but because of what those moves suggest about the direction of the team. Normally when a team signs players or restructures contracts, it feels like normal roster building. A couple depth signings here, an extension there, maybe [&#8230;]"
     },
     {
       "id": "e858349bf5552f0a",
@@ -155,9 +191,9 @@
       "summary": "Your one-stop shop for fantasy football reaction to all the key player movement via free agency and trades."
     },
     {
-      "id": "54dae5e3bd0cbd80",
+      "id": "7b7f1dda31aea91a",
       "title": "Colts’ Daniel Jones: ‘We saw how good we can be’",
-      "link": "https://fox59.com/sports/colts-daniel-jones-we-saw-how-good-we-can-be/",
+      "link": "https://fox59.com/sports/colts/colts-daniel-jones-we-saw-how-good-we-can-be/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-03-12T22:04:32+0000",
@@ -344,15 +380,6 @@
       "summary": "INDIANAPOLIS – With his relationship with the Indianapolis Colts secure, Daniel Jones’ focus can zero in on when he’ll be able to get back on the field. And the timeline hasn’t really altered. “My goal is to be back by week 1 and be ready to go,’’ Jones said Wednesday during an appearance on the [...]"
     },
     {
-      "id": "9a82197ecd178906",
-      "title": "Initial thoughts on Colts’ first free-agent moves",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122365/initial-thoughts-on-colts-first-free-agent-moves",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-11T17:46:18+0000",
-      "summary": "First wave of free-agency done, and the Colts have moved as many of us expected, which is rather surprising. It usually does not transpire like this, I was especially surprised by the Pittman and Franklin moves because I did not expect them to happen, but here are my hot opinions on what Ballard and Steichen [&#8230;]"
-    },
-    {
       "id": "c88ab06321b4314c",
       "title": "Colts, Daniel Jones agree on new contract",
       "link": "https://fox59.com/sports/colts/colts-daniel-jones-agree-on-new-contract/",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-06T01:31:09+0000",
       "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
-    },
-    {
-      "id": "b8177b321d5b345a",
-      "title": "Colts' Alec Pierce: I've earned the right to explore free agency",
-      "link": "https://fox59.com/sports/colts/colts-alec-pierce-ive-earned-the-right-to-explore-free-agency/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-04T18:51:13+0000",
-      "summary": "INDIANAPOLIS – Alec Pierce could be excused for experiencing flashbacks. You know, to when he was a multi-sport standout at Glenbard West High School in Glen Ellyn, Ill. and his speed and deep-threat skills in football were drawing the attention of D-I schools. It was when he had all the leverage. Which college is best [...]"
-    },
-    {
-      "id": "c442eee42654f9a3",
-      "title": "Colts using transition tag on Daniel Jones",
-      "link": "https://fox59.com/sports/colts/colts-using-transition-tag-on-daniel-jones/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-03T20:12:23+0000",
-      "summary": "INDIANAPOLIS – Tag. Daniel Jones is it. The Indianapolis Colts’ commitment to moving into 2026 with Jones as their starting quarterback consists of applying the seldom-used transition tag, according to a source with knowledge of the situation. It’s a guaranteed, one-year $37.833 million deal. However, it comes with risk. The transition tag allows Jones to [...]"
-    },
-    {
-      "id": "e1e74de8f56d9c32",
-      "title": "Colts place transition tag on QB Daniel Jones",
-      "link": "https://colts.com/news/daniel-jones-transition-tag-2026-nfl-free-agency-explainer-explanation-what-it-means",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-03T20:08:10+0000",
-      "summary": "The transition tag gives the Colts the right to match any offer Jones receives in free agency."
     }
   ],
   "links": [
