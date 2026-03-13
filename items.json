@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T05:31:50+00:00",
+  "updated": "2026-03-13T06:52:25+00:00",
   "items": [
     {
       "id": "b91d169f5df0306e",
@@ -27,24 +27,6 @@
       "feed": "ESPN",
       "published": "2026-03-13T05:55:55+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
-    },
-    {
-      "id": "0dd6a69c234828b4",
-      "title": "NFL free agency: Emari Demercado joining Kansas City Chiefs",
-      "link": "https://sports.yahoo.com/articles/nfl-free-agency-emari-demercado-051143884.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-13T05:11:43+0000",
-      "summary": "After three seasons with the Cardinals, free agent running back Emari Demercado lands with the Chiefs."
-    },
-    {
-      "id": "4998c36a6c975398",
-      "title": "Cowboys 2026 NFL free agency: Tracking every rumor and report",
-      "link": "https://sports.yahoo.com/articles/cowboys-2026-nfl-free-agency-004435179.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-13T04:51:34+0000",
-      "summary": "Here is our full Cowboys free agency tracker with all rumors, signings, and relevant news."
     },
     {
       "id": "4c24801a990c6355",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-02-27T19:53:50+0000",
       "summary": "The Colts were recognized as one of the three best pro departments in the league."
+    },
+    {
+      "id": "1f5638a9fd952aa8",
+      "title": "After strong rookie year, Colts see even more for Tyler Warren in 2026",
+      "link": "https://colts.com/news/colts-tight-end-tyler-warren-rookie-year-chris-ballard-shane-steichen-nfl-combine-draft-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-02-27T15:52:50+0000",
+      "summary": "General manager Chris Ballard and head coach Shane Steichen spoke at the 2026 NFL Combine about Warren's success in his rookie year and his potential in 2026."
+    },
+    {
+      "id": "3f5ec4f93881f5c1",
+      "title": "Colts Cheerleader finalists compete for spots",
+      "link": "https://fox59.com/morning-news/colts-cheerleader-finalists-compete-for-spots/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-02-27T14:50:48+0000",
+      "summary": "In just a few days, 48 finalists will compete for a spot with the Indianapolis Colts Cheerleaders. It will all come to a head at the Final Audition Showcase on March 7 at the Hilbert Circle Theatre in downtown Indianapolis. Allison and Whitney joined FOX59 Morning News to discuss the process and talk about the [...]"
     }
   ],
   "links": [
