@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T17:05:21+00:00",
+  "updated": "2026-03-13T17:59:00+00:00",
   "items": [
     {
       "id": "b91d169f5df0306e",
@@ -18,6 +18,51 @@
       "feed": "ESPN",
       "published": "2026-03-13T17:49:28+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+    },
+    {
+      "id": "9f52c1317633be46",
+      "title": "Colts - Steelers Michael Pittman trade official: Full trade details",
+      "link": "https://sports.yahoo.com/articles/colts-steelers-michael-pittman-trade-174812263.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T17:48:12+0000",
+      "summary": "The Colts and Steelers trade for Michael Pittman is now official. Here are the full details."
+    },
+    {
+      "id": "225aff85ef7e2c06",
+      "title": "2026 NFC NFL Free Agency Grades: Kyler Murray earns the Vikings an A",
+      "link": "https://sports.yahoo.com/articles/2026-nfc-nfl-free-agency-174740933.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-13T17:47:40+0000",
+      "summary": "Kyler Murray headlined the 2026 NFL free agency class. His addition to the Vikings gives them one of the biggest possible upgrades heading into the upcoming season."
+    },
+    {
+      "id": "10de0843d4b167f8",
+      "title": "Colts hold 7 picks in NFL Draft",
+      "link": "https://fox59.com/sports/colts/colts-hold-7-picks-in-nfl-draft/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-13T17:44:14+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ allotment of picks in the April 23-25 draft has been set. For now. With the trade of Michael Pittman Jr. and a seventh-round pick (No. 230) to the Pittsburgh Steelers becoming official Friday, the Colts received a sixth-round pick (No. 214). That brings their draft stash to seven picks. A [...]"
+    },
+    {
+      "id": "18d40ddc5d178fc0",
+      "title": "Colts' full 2026 NFL Draft picks announced",
+      "link": "https://colts.com/news/every-pick-in-2026-nfl-draft-second-round-seven-selections",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T17:30:46+0000",
+      "summary": "The Colts own seven picks in the 2026 NFL Draft, beginning with the No. 47 overall pick in the second round."
+    },
+    {
+      "id": "7dbddf12f98e5e5f",
+      "title": "Colts acquire 2026 sixth-round pick in trade with Pittsburgh Steelers for wide receiver Michael Pittman Jr., 2026 seventh-round pick",
+      "link": "https://colts.com/news/colts-acquire-2026-sixth-round-pick-in-trade-with-pittsburgh-steelers-for-wide-receiver-michael-pittman-jr-2026-seventh-round-pick",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T17:15:45+0000",
+      "summary": "The Colts made the trade official on Friday."
     },
     {
       "id": "c61c60a5d982de83",
@@ -45,15 +90,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T16:36:32+0000",
       "summary": "Thanks to their connection on the field and their friendship off the field, Pierce and Jones see a bright future for each other – and the Colts – in 2026."
-    },
-    {
-      "id": "c86e3aa8e7daaa49",
-      "title": "Looking back at the Colts’ crazy start to free agency",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122452/looking-back-at-the-colts-crazy-start-to-free-agency",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-13T15:00:00+0000",
-      "summary": "This offseason has felt a little different for the Colts. Not necessarily because of the individual moves themselves, but because of what those moves suggest about the direction of the team. Normally when a team signs players or restructures contracts, it feels like normal roster building. A couple depth signings here, an extension there, maybe [&#8230;]"
     },
     {
       "id": "e858349bf5552f0a",
@@ -308,6 +344,15 @@
       "summary": "INDIANAPOLIS – With his relationship with the Indianapolis Colts secure, Daniel Jones’ focus can zero in on when he’ll be able to get back on the field. And the timeline hasn’t really altered. “My goal is to be back by week 1 and be ready to go,’’ Jones said Wednesday during an appearance on the [...]"
     },
     {
+      "id": "9a82197ecd178906",
+      "title": "Initial thoughts on Colts’ first free-agent moves",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122365/initial-thoughts-on-colts-first-free-agent-moves",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-11T17:46:18+0000",
+      "summary": "First wave of free-agency done, and the Colts have moved as many of us expected, which is rather surprising. It usually does not transpire like this, I was especially surprised by the Pittman and Franklin moves because I did not expect them to happen, but here are my hot opinions on what Ballard and Steichen [&#8230;]"
+    },
+    {
       "id": "c88ab06321b4314c",
       "title": "Colts, Daniel Jones agree on new contract",
       "link": "https://fox59.com/sports/colts/colts-daniel-jones-agree-on-new-contract/",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-03T20:08:10+0000",
       "summary": "The transition tag gives the Colts the right to match any offer Jones receives in free agency."
-    },
-    {
-      "id": "2c9454244441c848",
-      "title": "Colts 2026 Mock Draft Monday: Post-NFL Combine",
-      "link": "https://colts.com/news/colts-2026-mock-draft-monday-post-nfl-combine",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-02T17:01:33+0000",
-      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back as the 2026 NFL Combine wraps up in Indianapolis."
-    },
-    {
-      "id": "d53d3dd982dc639d",
-      "title": "Tuesday deadline approaching for Colts to play tag with Daniel Jones or Alec Pierce",
-      "link": "https://fox59.com/sports/colts/tuesday-deadline-approaching-for-colts-to-play-tag-with-daniel-jones-or-alec-pierce/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-02T16:58:22+0000",
-      "summary": "INDIANAPOLIS – The clock keeps ticking, and options remain. Possible consequences hinge on which option – general manager Chris Ballard described it as a “tool’’ – the Indianapolis Colts use in dealing with quarterback Daniel Jones and wide receiver Alec Pierce. The optimum resolution is long-term contracts for the team’s top two pending free agents. [...]"
-    },
-    {
-      "id": "d0f3def436a9de86",
-      "title": "Colts win multiple 2026 BART List awards",
-      "link": "https://colts.com/news/colts-win-multiple-2026-bart-list-awards-ed-dodds-scouts-personnel",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-27T19:53:50+0000",
-      "summary": "The Colts were recognized as one of the three best pro departments in the league."
-    },
-    {
-      "id": "1f5638a9fd952aa8",
-      "title": "After strong rookie year, Colts see even more for Tyler Warren in 2026",
-      "link": "https://colts.com/news/colts-tight-end-tyler-warren-rookie-year-chris-ballard-shane-steichen-nfl-combine-draft-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-02-27T15:52:50+0000",
-      "summary": "General manager Chris Ballard and head coach Shane Steichen spoke at the 2026 NFL Combine about Warren's success in his rookie year and his potential in 2026."
-    },
-    {
-      "id": "3f5ec4f93881f5c1",
-      "title": "Colts Cheerleader finalists compete for spots",
-      "link": "https://fox59.com/morning-news/colts-cheerleader-finalists-compete-for-spots/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-02-27T14:50:48+0000",
-      "summary": "In just a few days, 48 finalists will compete for a spot with the Indianapolis Colts Cheerleaders. It will all come to a head at the Final Audition Showcase on March 7 at the Hilbert Circle Theatre in downtown Indianapolis. Allison and Whitney joined FOX59 Morning News to discuss the process and talk about the [...]"
     }
   ],
   "links": [
