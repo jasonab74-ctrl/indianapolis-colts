@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-14T23:26:56+00:00",
+  "updated": "2026-03-14T23:51:09+00:00",
   "items": [
+    {
+      "id": "e601f34673930bd4",
+      "title": "New Bears addition Coby Bryant ‘just scratching the surface’ as an NFL safety",
+      "link": "https://sports.yahoo.com/articles/bears-addition-coby-bryant-just-233300496.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-14T23:33:00+0000",
+      "summary": "CHICAGO — Ryan Poles knew he got a good one. Not because of what he saw on tape — although that told the same story. No, this was because of the texts and phone calls that flooded in after the Bears signed former Seattle Seahawks safety Coby Bryant. “Anytime you bring a player in and your phones go off — coaches, front office — on how pissed off Seattle was not having him back and how ..."
+    },
+    {
+      "id": "f55dc96e439af704",
+      "title": "Colts re-sign long-time contributor on offense",
+      "link": "https://sports.yahoo.com/articles/colts-sign-long-time-contributor-233026190.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-14T23:30:26+0000",
+      "summary": "The Indianapolis Colts are reportedly re-signing a long-time contributor to their offense."
+    },
     {
       "id": "858d7b82e86517e4",
       "title": "Irsay collection nets more than $93M at auction",
@@ -27,24 +45,6 @@
       "feed": "ESPN",
       "published": "2026-03-14T23:16:26+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
-    },
-    {
-      "id": "e6ea8805c4b69850",
-      "title": "Looking through the career of Kaden Elliss as he returns to the Saints",
-      "link": "https://sports.yahoo.com/articles/looking-career-kaden-elliss-returns-231011404.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-14T23:10:11+0000",
-      "summary": "Kaden Elliss returned to the New Orleans Saints team that gave him his NFL start. We look back on his first stint and what has happened since."
-    },
-    {
-      "id": "801afffe0f815402",
-      "title": "Report: New trade suitor emerges from shadows for Colts QB Anthony Richardson Sr.",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122570/report-new-trade-suitor-emerges-from-shadows-for-colts-qb-anthony-richardson-sr",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-14T17:38:46+0000",
-      "summary": "According to ESPN’s Stephen Holder, a new trade suitor, the Green Bay Packers, have emerged from the shadows regarding Indianapolis Colts quarterback Anthony Richardson Sr. Richardson and his representation already been granted permission by the team to seek a trade. However, no such deal appears imminent after the dust begins to settle from the first [&#8230;]"
     },
     {
       "id": "c375f328f73b9400",
@@ -290,6 +290,15 @@
       "summary": "The Colts officially re-signed Jones on Thursday, keeping him behind center in Indianapolis with an eye on replicating the success he and the team had over the first 10 games of 2025."
     },
     {
+      "id": "423d827b1f3ccc33",
+      "title": "Jonathan Greenard or Josh Sweat: which edge rusher should the Colts trade for?",
+      "link": "https://stampedeblue.com/indianapolis-colts-roster/122466/jonathan-greenard-or-josh-sweat-which-edge-rusher-should-the-colts-trade-for",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-12T19:30:00+0000",
+      "summary": "Colts have made a pair of depth signings already at defensive end, with Arden Key looking like a potential upgrade in pressure generation (11.2% Pressure Rate in 2025) from the Samson Ebukam (9.8%), Kwity Paye (9.6%), and Tyquan Lewis (8%) trio in 2025, and Micheal Clemons providing depth in run defense with his size, power, [&#8230;]"
+    },
+    {
       "id": "94f458c1e645fd4f",
       "title": "Colts sign free agent DE Arden Key",
       "link": "https://colts.com/news/colts-sign-free-agent-de-arden-key",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-06T20:54:33+0000",
       "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
-    },
-    {
-      "id": "753c6170e5816156",
-      "title": "Source: Colts exploring trade for Zaire Franklin",
-      "link": "https://fox59.com/sports/colts/source-colts-exploring-trade-for-zaire-franklin/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-06T01:31:09+0000",
-      "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
     }
   ],
   "links": [
