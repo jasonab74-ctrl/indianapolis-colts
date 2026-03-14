@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T21:25:32+00:00",
+  "updated": "2026-03-14T21:49:14+00:00",
   "items": [
     {
       "id": "858d7b82e86517e4",
@@ -27,15 +27,6 @@
       "feed": "ESPN",
       "published": "2026-03-14T21:17:35+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
-    },
-    {
-      "id": "b44bd1250fe1e743",
-      "title": "Anthony Richardson’s likely next team revealed",
-      "link": "https://sports.yahoo.com/articles/anthony-richardson-likely-next-team-210208793.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-14T21:02:08+0000",
-      "summary": "The NFL free agency period brought a wave of lucrative new contracts and several notable trades. The Indianapolis Colts were among the teams making significant moves. After agreeing to terms with quarterback Daniel Jones, the team made Anthony Richardson Sr.…"
     },
     {
       "id": "801afffe0f815402",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-06T01:31:09+0000",
       "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
+    },
+    {
+      "id": "b8177b321d5b345a",
+      "title": "Colts' Alec Pierce: I've earned the right to explore free agency",
+      "link": "https://fox59.com/sports/colts/colts-alec-pierce-ive-earned-the-right-to-explore-free-agency/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-04T18:51:13+0000",
+      "summary": "INDIANAPOLIS – Alec Pierce could be excused for experiencing flashbacks. You know, to when he was a multi-sport standout at Glenbard West High School in Glen Ellyn, Ill. and his speed and deep-threat skills in football were drawing the attention of D-I schools. It was when he had all the leverage. Which college is best [...]"
     }
   ],
   "links": [
