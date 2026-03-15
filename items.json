@@ -1,14 +1,41 @@
 {
-  "updated": "2026-03-15T12:51:39+00:00",
+  "updated": "2026-03-15T13:46:49+00:00",
   "items": [
     {
-      "id": "c79e50086e107930",
-      "title": "Report: Broncos beat out 2 other teams to re-sign in-house free agent",
-      "link": "https://sports.yahoo.com/articles/report-broncos-beat-2-other-123033921.html",
+      "id": "858d7b82e86517e4",
+      "title": "Irsay collection nets more than $93M at auction",
+      "link": "https://espn.com/nfl/story/_/id/48205033/jim-irsay-memorabilia-collection-nets-93m-auction",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-15T14:40:21+0000",
+      "summary": "An expansive memorabilia collection belonging to late Colts owner Jim Irsay has brought in more than $93 million via auction with Christie's."
+    },
+    {
+      "id": "34345cfb5fa0b579",
+      "title": "Bengals sign veteran J. Johnson for QB depth",
+      "link": "https://espn.com/nfl/story/_/id/48204682/bengals-add-qb-depth-sign-veteran-backup-josh-johnson",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-15T14:40:21+0000",
+      "summary": "Josh Johnson's tour around the NFL has returned to Cincinnati, with the veteran quarterback signing a one-year deal with the Bengals, the team announced Saturday."
+    },
+    {
+      "id": "7a5f4541a7464f3a",
+      "title": "🏈 Our mid-free agency NFL mini-mock draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-15T14:40:21+0000",
+      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
+    },
+    {
+      "id": "d151faf4ada1907f",
+      "title": "Packers GM Brian Gutekunst Continues To Shine, While HC Matt LaFleur Keeps Fumbling",
+      "link": "https://sports.yahoo.com/articles/packers-gm-brian-gutekunst-continues-131444105.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-15T12:30:33+0000",
-      "summary": "Adam Prentice had offers from other teams during NFL free agency, but he opted to remain with the Broncos."
+      "published": "2026-03-15T13:14:44+0000",
+      "summary": "Green Bay Packers coach Matt LaFleur (right) is the NFL's longest tenured coach that hasn't reached a Super Bowl."
     },
     {
       "id": "38010fd6317c31b3",
@@ -36,33 +63,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-15T00:33:12+0000",
       "summary": "Mo Alie-Cox’s tenure continues for another year. On Saturday evening news broke that the former VCU Rams Forward turned NFL Tight End re-signed on a 1 year deal with his only NFL team of his career. From his humble practice squad origins learning the game of football in 2017, to backing up Jack Doyle and [&#8230;]"
-    },
-    {
-      "id": "858d7b82e86517e4",
-      "title": "Irsay collection nets more than $93M at auction",
-      "link": "https://espn.com/nfl/story/_/id/48205033/jim-irsay-memorabilia-collection-nets-93m-auction",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-14T23:16:26+0000",
-      "summary": "An expansive memorabilia collection belonging to late Colts owner Jim Irsay has brought in more than $93 million via auction with Christie's."
-    },
-    {
-      "id": "34345cfb5fa0b579",
-      "title": "Bengals sign veteran J. Johnson for QB depth",
-      "link": "https://espn.com/nfl/story/_/id/48204682/bengals-add-qb-depth-sign-veteran-backup-josh-johnson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-14T23:16:26+0000",
-      "summary": "Josh Johnson's tour around the NFL has returned to Cincinnati, with the veteran quarterback signing a one-year deal with the Bengals, the team announced Saturday."
-    },
-    {
-      "id": "7a5f4541a7464f3a",
-      "title": "🏈 Our mid-free agency NFL mini-mock draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-14T23:16:26+0000",
-      "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
       "id": "801afffe0f815402",
