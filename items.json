@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T21:26:34+00:00",
+  "updated": "2026-03-15T21:51:49+00:00",
   "items": [
     {
       "id": "858d7b82e86517e4",
@@ -27,15 +27,6 @@
       "feed": "ESPN",
       "published": "2026-03-15T21:16:05+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
-    },
-    {
-      "id": "da2ee3c98d2a0b6b",
-      "title": "2015 NFL re-draft: Who should New York Giants have selected over Ereck Flowers?",
-      "link": "https://sports.yahoo.com/articles/2015-nfl-draft-york-giants-210045016.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-15T21:00:45+0000",
-      "summary": "The New York Giants selected OL Ereck Flowers at No. 9 overall in the 2015 NFL draft, passing over several more productive players."
     },
     {
       "id": "c61c60a5d982de83",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-03-06T20:54:33+0000",
       "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
+    },
+    {
+      "id": "753c6170e5816156",
+      "title": "Source: Colts exploring trade for Zaire Franklin",
+      "link": "https://fox59.com/sports/colts/source-colts-exploring-trade-for-zaire-franklin/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-06T01:31:09+0000",
+      "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
     }
   ],
   "links": [
