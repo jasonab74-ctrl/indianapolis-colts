@@ -1,23 +1,32 @@
 {
-  "updated": "2026-03-16T02:23:42+00:00",
+  "updated": "2026-03-16T05:03:01+00:00",
   "items": [
+    {
+      "id": "50da8bf36b54d8a3",
+      "title": "Bulldog LB Jadon Pearson discusses future at Fresno St. Pro-Day",
+      "link": "https://sports.yahoo.com/articles/bulldog-lb-jadon-pearson-discusses-040721077.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-16T04:07:21+0000",
+      "summary": "FRENSO, CA (KSEE/KGPE) – After stops at five different programs during his collegiate career, Fresno State’s leading tackler from 2025 now eyes a jump to the NFL following an impressive showing at Pro-Day."
+    },
+    {
+      "id": "f045a0cb5aa220b3",
+      "title": "Reeves-Maybin re-elected as NFLPA president",
+      "link": "https://espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-16T03:50:15+0000",
+      "summary": "Jalen Reeves-Maybin was re-elected as president of the NFL Players Association's Board of Player Representatives on Sunday."
+    },
     {
       "id": "858d7b82e86517e4",
       "title": "Irsay collection nets more than $93M at auction",
       "link": "https://espn.com/nfl/story/_/id/48205033/jim-irsay-memorabilia-collection-nets-93m-auction",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-15T21:16:05+0000",
+      "published": "2026-03-16T03:50:15+0000",
       "summary": "An expansive memorabilia collection belonging to late Colts owner Jim Irsay has brought in more than $93 million via auction with Christie's."
-    },
-    {
-      "id": "34345cfb5fa0b579",
-      "title": "Bengals sign veteran J. Johnson for QB depth",
-      "link": "https://espn.com/nfl/story/_/id/48204682/bengals-add-qb-depth-sign-veteran-backup-josh-johnson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-15T21:16:05+0000",
-      "summary": "Josh Johnson's tour around the NFL has returned to Cincinnati, with the veteran quarterback signing a one-year deal with the Bengals, the team announced Saturday."
     },
     {
       "id": "7a5f4541a7464f3a",
@@ -25,7 +34,7 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-15T21:16:05+0000",
+      "published": "2026-03-16T03:50:15+0000",
       "summary": "How has NFL free agency affected 2026 draft plans? Here are Field Yates' updated predictions for picks Nos. 1-10 after the first wave of deals."
     },
     {
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-06T20:54:33+0000",
       "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
-    },
-    {
-      "id": "753c6170e5816156",
-      "title": "Source: Colts exploring trade for Zaire Franklin",
-      "link": "https://fox59.com/sports/colts/source-colts-exploring-trade-for-zaire-franklin/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-06T01:31:09+0000",
-      "summary": "INDIANAPOLIS – One of the Indianapolis Colts’ defensive cornerstones might be on the move. The team is exploring trade possibilities for linebacker Zaire Franklin, a source confirmed. ESPN was first to report the situation. The Colts entered the offseason needing to address their salary cap and trading Franklin would clear $5.755 million in cap space [...]"
     }
   ],
   "links": [
