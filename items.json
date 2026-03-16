@@ -1,32 +1,14 @@
 {
-  "updated": "2026-03-16T10:52:07+00:00",
+  "updated": "2026-03-16T11:45:47+00:00",
   "items": [
     {
-      "id": "9aa5181c778ac75a",
-      "title": "Falcons praised for signing Tua Tagovailoa in ESPN free agency grades",
-      "link": "https://sports.yahoo.com/articles/falcons-praised-signing-tua-tagovailoa-103033777.html",
+      "id": "7a1419c97532bf9c",
+      "title": "NFL draft injury analysis: Blake Miller, OT - Clemson",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-blake-112622316.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-16T10:30:33+0000",
-      "summary": "ESPN gave the Falcons a B+ grade for signing Tua Tagovailoa in NFL free agency"
-    },
-    {
-      "id": "075228ed305076af",
-      "title": "NFL draft medical preview: Rueben Bain, EDGE - Miami",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-medical-preview-rueben-101823458.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T10:18:23+0000",
-      "summary": "Rueben Bain medical report"
-    },
-    {
-      "id": "1df82ae403a0d54d",
-      "title": "NFL agent questions one Commanders' free agent deal",
-      "link": "https://sports.yahoo.com/articles/nfl-agent-questions-one-commanders-101547864.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T10:15:47+0000",
-      "summary": "Not everyone loves the Commanders' signing of Odafe Oweh."
+      "published": "2026-03-16T11:26:22+0000",
+      "summary": "Blake Miller medical"
     },
     {
       "id": "f045a0cb5aa220b3",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-03-06T22:08:59+0000",
       "summary": "INDIANAPOLIS – Ten seasons were enough. Ryan Kelly, a 2016 first-round draft pick and anchor of the Indianapolis Colts for nine seasons, announced his retirement on Friday on his social media account. “What an incredible ride it was,’’ he posted on his X account. Kelly finished his career with the Minnesota Vikings in 2025, but [...]"
+    },
+    {
+      "id": "d61cf3a8b65605e5",
+      "title": "Former Colts C Ryan Kelly announces retirement from NFL",
+      "link": "https://colts.com/news/former-colts-c-ryan-kelly-announces-retirement-from-nfl",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-06T21:38:35+0000",
+      "summary": "Kelly played for the Colts from 2016-2024."
+    },
+    {
+      "id": "df6c43e5033f2c4f",
+      "title": "Tune in LIVE to see who will make the 2026 Colts Cheer team!",
+      "link": "https://colts.com/news/indianapolis-colts-cheerleaders-audition-showcase-2026-team-instagram-tiktok-facebook",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-06T20:54:33+0000",
+      "summary": "The 2026 Colts Cheer team announcement will take place LIVE on March 7 at 6:15pm ET on Colts Cheer Instagram, Facebook and TikTok"
     }
   ],
   "links": [
