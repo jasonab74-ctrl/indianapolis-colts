@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-16T19:54:02+00:00",
+  "updated": "2026-03-16T20:37:21+00:00",
   "items": [
+    {
+      "id": "bf76ad23c8e9664b",
+      "title": "Let's overreact to NFL free agency: Fallout for two QBs, two trade targets and one RB on a big new deal",
+      "link": "https://espn.com/nfl/story/_/id/48200450/2026-nfl-free-agency-deals-trades-judging-overreactions-takeaways",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-16T20:51:28+0000",
+      "summary": "Are J.J. McCarthy and Michael Penix Jr. officially QB2s? Will Maxx Crosby and A.J. Brown actually leave their current teams? We sized up five free agency takes."
+    },
+    {
+      "id": "b513a3ecb1b35db4",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-16T20:51:28+0000",
+      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
+    },
     {
       "id": "c516d53158e81333",
       "title": "Veteran CB Slay retires to 'start my new journey'",
@@ -18,42 +36,6 @@
       "feed": "ESPN",
       "published": "2026-03-16T20:44:54+0000",
       "summary": "Jalen Reeves-Maybin was re-elected as president of the NFL Players Association's Board of Player Representatives on Sunday."
-    },
-    {
-      "id": "bf76ad23c8e9664b",
-      "title": "Let's overreact to NFL free agency: Fallout for two QBs, two trade targets and one RB on a big new deal",
-      "link": "https://espn.com/nfl/story/_/id/48200450/2026-nfl-free-agency-deals-trades-judging-overreactions-takeaways",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-16T20:33:31+0000",
-      "summary": "Are J.J. McCarthy and Michael Penix Jr. officially QB2s? Will Maxx Crosby and A.J. Brown actually leave their current teams? We sized up five free agency takes."
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-16T20:33:31+0000",
-      "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
-    },
-    {
-      "id": "738576bb81d8a109",
-      "title": "Former Lions All-Pro DB announces NFL retirement",
-      "link": "https://sports.yahoo.com/articles/former-lions-pro-db-announces-193514227.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T19:35:14+0000",
-      "summary": "Former Detroit Lions defensive back Darius Slay announced his retirement from the NFL."
-    },
-    {
-      "id": "c95ee0a57d264fcb",
-      "title": "The Tennessee Titans Should Draft the Best Player Available",
-      "link": "https://sports.yahoo.com/articles/tennessee-titans-draft-best-player-193259200.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T19:32:59+0000",
-      "summary": "The conundrum for drafting players for NFL teams is always: Do we draft the best player available or what we need the most? For the Tennessee Titans, they must select the best player available on the big board. Titans Must Address Edge Rusher This Offseason The Titans enter the 2026 offseason with a long list […] The post The Tennessee Titans Should Draft the Best Player Available appeared first on The Lead."
     },
     {
       "id": "40f6d7b750ddc6e6",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-03-07T21:02:08+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts addressed their defensive front with some addition and subtraction. The team has traded linebacker Zaire Frankin to the Green Bay Packers for defensive tackle Colby Wooden. The move isn’t official until the start of the new league year Wednesday. The Colts began exploring trade possibilities for Franklin, their long-time leading [...]"
+    },
+    {
+      "id": "6e7c1536e1b19d93",
+      "title": "Ryan Kelly retires after 10 seasons",
+      "link": "https://fox59.com/sports/colts/ryan-kelly-retires-after-10-seasons/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-06T22:08:59+0000",
+      "summary": "INDIANAPOLIS – Ten seasons were enough. Ryan Kelly, a 2016 first-round draft pick and anchor of the Indianapolis Colts for nine seasons, announced his retirement on Friday on his social media account. “What an incredible ride it was,’’ he posted on his X account. Kelly finished his career with the Minnesota Vikings in 2025, but [...]"
+    },
+    {
+      "id": "d61cf3a8b65605e5",
+      "title": "Former Colts C Ryan Kelly announces retirement from NFL",
+      "link": "https://colts.com/news/former-colts-c-ryan-kelly-announces-retirement-from-nfl",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-06T21:38:35+0000",
+      "summary": "Kelly played for the Colts from 2016-2024."
     }
   ],
   "links": [
