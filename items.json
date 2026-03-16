@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T21:38:16+00:00",
+  "updated": "2026-03-16T22:32:11+00:00",
   "items": [
     {
       "id": "c516d53158e81333",
@@ -7,8 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/48224223/veteran-cb-darius-slay-retires-13-nfl-seasons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-16T22:08:27+0000",
+      "published": "2026-03-16T22:50:21+0000",
       "summary": "Cornerback Darius Slay announced his retirement from the NFL on Monday after 13 seasons."
+    },
+    {
+      "id": "f58de65d08d6472a",
+      "title": "Colts re-sign Alie-Cox, a key cog in rush attack",
+      "link": "https://espn.com/nfl/story/_/id/48226115/colts-re-sign-te-mo-alie-cox-key-piece-rushing-attack",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-16T22:50:21+0000",
+      "summary": "The Colts have re-signed tight end Mo Alie-Cox, the team announced Monday."
     },
     {
       "id": "f045a0cb5aa220b3",
@@ -16,8 +25,17 @@
       "link": "https://espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-16T22:08:26+0000",
+      "published": "2026-03-16T22:50:21+0000",
       "summary": "Jalen Reeves-Maybin was re-elected as president of the NFL Players Association's Board of Player Representatives on Sunday."
+    },
+    {
+      "id": "54a53ba215b50c6c",
+      "title": "Steelers Predicted To Select Star Offensive Lineman In 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/steelers-predicted-select-star-offensive-221739404.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-16T22:17:39+0000",
+      "summary": "The Pittsburgh Steelers have made several big moves early on this offseason in an attempt to build off of their positive 2025 campaign. While there’s still a massive question mark at the quarterback position, thanks to Aaron Rodgers taking his time to decide on his NFL future, the rest of the roster looks to be […]"
     },
     {
       "id": "4a909c1cde7b7f9f",
@@ -27,42 +45,6 @@
       "feed": "ESPN",
       "published": "2026-03-16T21:57:22+0000",
       "summary": "Your one-stop shop for fantasy football reaction to all the key player movement via free agency and trades."
-    },
-    {
-      "id": "d13ad433b32b3a54",
-      "title": "Best remaining NFL free agents",
-      "link": "https://sports.yahoo.com/articles/best-remaining-nfl-free-agents-213256195.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T21:32:56+0000",
-      "summary": "As the NFL draft looms, there are some big names left on the NFL free agent market."
-    },
-    {
-      "id": "e69ed9f933877e2d",
-      "title": "Rex Culpepper, former Syracuse QB & son of ex-NFL star, dies at 28",
-      "link": "https://sports.yahoo.com/articles/rex-culpepper-former-syracuse-qb-213049830.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T21:30:49+0000",
-      "summary": "Rex Culpepper, a former college football quarterback and son of former NFL star Brad Culpepper, has died at age 28. Culpepper’s fiancée, Savanna Morgan, announced the news on Monday. According to the Tampa Bay Times, Culpepper, who played for the…"
-    },
-    {
-      "id": "057f3f2abc8c32d3",
-      "title": "Cowboys icon Troy Aikman to continue to work with another NFL team's front office",
-      "link": "https://sports.yahoo.com/articles/cowboys-icon-troy-aikman-continue-213031014.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T21:30:31+0000",
-      "summary": "Aikman helped the Cowboys win 3 Super Bowls. More recently, he helped the Dolphins find a GM and head coach in a job he admits &quot;scratches an itch.&quot;"
-    },
-    {
-      "id": "671c72797b4fbcf3",
-      "title": "Raiders predicted to sign 6-foot former 49ers All-Pro receiver to help Fernando Mendoza",
-      "link": "https://sports.yahoo.com/articles/raiders-predicted-sign-6-foot-211529510.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-16T21:15:29+0000",
-      "summary": "An NFL journalist believes the Las Vegas Raiders could land a gifted former San Francisco 49ers standout wide receiver."
     },
     {
       "id": "37645838518163c5",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-03-09T13:00:05+0000",
       "summary": "The Indianapolis Colts Cheerleaders this weekend announced the members of the 2026 Colts Cheer squad."
+    },
+    {
+      "id": "545835e65b3729ac",
+      "title": "Colts, NFL prepare to deal for free agents",
+      "link": "https://fox59.com/sports/colts/colts-nfl-prepare-to-deal-for-free-agents/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-09T10:53:44+0000",
+      "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
+    },
+    {
+      "id": "b96c5be303e9f990",
+      "title": "Colts re-sign K Blake Grupe",
+      "link": "https://fox59.com/sports/colts/colts-re-sign-k-blake-grupe/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-08T20:56:30+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts re-signed Blake Grupe, according to a source, giving them a quality backup or training camp competition at kicker. Grupe converted all 21 of his kicking attempts last season — 11 field goals, 10 PATs — as the Colts were forced to utilize three kickers for the first time in franchise [...]"
     }
   ],
   "links": [
