@@ -1,6 +1,105 @@
 {
-  "updated": "2026-03-17T16:07:16+00:00",
+  "updated": "2026-03-17T17:34:29+00:00",
   "items": [
+    {
+      "id": "c516d53158e81333",
+      "title": "Veteran CB Slay retires to 'start my new journey'",
+      "link": "https://espn.com/nfl/story/_/id/48224223/veteran-cb-darius-slay-retires-13-nfl-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-17T18:21:08+0000",
+      "summary": "Cornerback Darius Slay announced his retirement from the NFL on Monday after 13 seasons."
+    },
+    {
+      "id": "f58de65d08d6472a",
+      "title": "Colts re-sign Alie-Cox, a key cog in rush attack",
+      "link": "https://espn.com/nfl/story/_/id/48226115/colts-re-sign-te-mo-alie-cox-key-piece-rushing-attack",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-17T18:21:08+0000",
+      "summary": "The Colts have re-signed tight end Mo Alie-Cox, the team announced Monday."
+    },
+    {
+      "id": "f045a0cb5aa220b3",
+      "title": "Reeves-Maybin re-elected as NFLPA president",
+      "link": "https://espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-17T18:21:08+0000",
+      "summary": "Jalen Reeves-Maybin was re-elected as president of the NFL Players Association's Board of Player Representatives on Sunday."
+    },
+    {
+      "id": "b971c737ad13b137",
+      "title": "2026 NFL mock draft: Jaylen Waddle trade alters outlook for Broncos, Dolphins, others",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-jaylen-172926799.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:29:26+0000",
+      "summary": "With Denver sending its first-round pick as part of the package, Miami might not be able to wait long to replace its former speedster."
+    },
+    {
+      "id": "3bb0f87eb4f25d39",
+      "title": "Eagles Free Agency Tracker: Rumors, Reports, and Signings",
+      "link": "https://sports.yahoo.com/articles/eagles-free-agency-tracker-rumors-004700418.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:18:58+0000",
+      "summary": "NFL free agency starts on March 11, and the Eagles will have a lot of moves to make to fill their 2026 roster."
+    },
+    {
+      "id": "6e8e8e68bf54dc64",
+      "title": "4-time NFL MVP emerges as option for Tom Brady’s Raiders",
+      "link": "https://sports.yahoo.com/articles/4-time-nfl-mvp-emerges-171659992.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:16:59+0000",
+      "summary": "The Las Vegas Raiders’ 2026 offseason has been entertaining, to say the least. They made several moves to bolster the ranks, while starring in a controversial trade featuring Maxx Crosby. The defensive end failed his physical test after the Baltimore…"
+    },
+    {
+      "id": "2c346a921812fdbe",
+      "title": "2026 NFL draft: Bills hold private workout with Toledo DB Andre Fuller",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-bills-hold-171625424.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:16:25+0000",
+      "summary": "Toledo's Andre Fuller visits the Bills ahead of 2026 NFL draft"
+    },
+    {
+      "id": "8698f7f2ba4f5418",
+      "title": "Viral Jaylen Waddle clip emerges challenging new Broncos teammate in boxing match",
+      "link": "https://sports.yahoo.com/articles/viral-jaylen-waddle-clip-emerges-171425232.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:14:25+0000",
+      "summary": "Newly-acquired Denver Broncos star Jaylen Waddle recently called out one of his new NFL teammates to step into the boxing ring with the wide receiver. However, the viral clip has resurfaced following Tuesday’s massive NFL trade. The Miami Dolphins dealt…"
+    },
+    {
+      "id": "47de5de2352e9bc9",
+      "title": "3-round Jets 2026 NFL mock draft after first wave of 2026 free agency",
+      "link": "https://sports.yahoo.com/articles/3-round-jets-2026-nfl-171339622.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:13:39+0000",
+      "summary": "Conducting a three-round New York Jets 2026 NFL mock draft after the first wave of NFL free agency."
+    },
+    {
+      "id": "75b14113fe91216c",
+      "title": "Looking Ahead to the 2027 NFL Free Agency Class",
+      "link": "https://sports.yahoo.com/articles/looking-ahead-2027-nfl-free-171253736.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:12:53+0000",
+      "summary": "We’re about one week into 2026 free agency. Most of the notable names have signed contracts already, though a few significant players still remain available. This league changes on a dime, and while it’s not wise to get too ahead&hellip;"
+    },
+    {
+      "id": "9b76220be3689340",
+      "title": "Falcons sign veteran slot receiver in NFL free agency",
+      "link": "https://sports.yahoo.com/articles/falcons-sign-veteran-slot-receiver-171034952.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T17:10:34+0000",
+      "summary": "Falcons officially sign slot WR Olamide Zaccheaus in NFL free agency"
+    },
     {
       "id": "e14919c4e3784f19",
       "title": "Kiper's new NFL mock draft: How free agency shook up first-round landing spots for top prospects",
@@ -29,78 +128,6 @@
       "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
     },
     {
-      "id": "f045a0cb5aa220b3",
-      "title": "Reeves-Maybin re-elected as NFLPA president",
-      "link": "https://espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-17T16:22:44+0000",
-      "summary": "Jalen Reeves-Maybin was re-elected as president of the NFL Players Association's Board of Player Representatives on Sunday."
-    },
-    {
-      "id": "c516d53158e81333",
-      "title": "Veteran CB Slay retires to 'start my new journey'",
-      "link": "https://espn.com/nfl/story/_/id/48224223/veteran-cb-darius-slay-retires-13-nfl-seasons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-17T16:22:43+0000",
-      "summary": "Cornerback Darius Slay announced his retirement from the NFL on Monday after 13 seasons."
-    },
-    {
-      "id": "f58de65d08d6472a",
-      "title": "Colts re-sign Alie-Cox, a key cog in rush attack",
-      "link": "https://espn.com/nfl/story/_/id/48226115/colts-re-sign-te-mo-alie-cox-key-piece-rushing-attack",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-17T16:22:43+0000",
-      "summary": "The Colts have re-signed tight end Mo Alie-Cox, the team announced Monday."
-    },
-    {
-      "id": "45af2d7cf4f3c1f4",
-      "title": "Jaylen Waddle trade details: Broncos bolster Bo Nix's offensive weapons in blockbuster deal with Dolphins",
-      "link": "https://sports.yahoo.com/articles/jaylen-waddle-trade-details-broncos-153116430.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T15:58:00+0000",
-      "summary": "Denver has landed one of the NFL's premiere wide receivers in a deal with Miami."
-    },
-    {
-      "id": "d34c1d4773395562",
-      "title": "Broncos get star wide receiver Jaylen Waddle from Dolphins in a blockbuster trade, AP source says",
-      "link": "https://sports.yahoo.com/articles/broncos-star-wide-receiver-jaylen-155537102.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T15:55:37+0000",
-      "summary": "The Denver Broncos have acquired standout wide receiver Jaylen Waddle in a blockbuster deal that sends three draft picks to the Miami Dolphins, including a first-rounder, a person with knowledge of the deal told The Associated Press on Tuesday.  The Dolphins will receive the 30th overall pick in next month’s NFL draft along with picks in the third and fourth rounds.  Denver will get Miami’s fourth-rounder along with Waddle."
-    },
-    {
-      "id": "76df376aed962f16",
-      "title": "What Jaylen Waddle's trade means for Dolphins' WR depth chart",
-      "link": "https://sports.yahoo.com/articles/jaylen-waddles-trade-means-dolphins-155358916.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T15:53:58+0000",
-      "summary": "This might be the worst WR room in the NFL."
-    },
-    {
-      "id": "d63f5a77da9a3fad",
-      "title": "Broncos' updated order of draft picks following the Jaylen Waddle trade",
-      "link": "https://sports.yahoo.com/articles/broncos-updated-order-draft-picks-155204239.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T15:52:04+0000",
-      "summary": "Here's a look at the Broncos' updated order of picks in the 2026 NFL draft following the Jaylen Waddle trade."
-    },
-    {
-      "id": "a4cb73391cd8514d",
-      "title": "Las Vegas Raiders 2026 NFL free agency tracker",
-      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-2026-nfl-130516616.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T15:46:31+0000",
-      "summary": "﻿All the latest Raiders’ free agent signings, news and rumors"
-    },
-    {
       "id": "7237d6c9d0fce18b",
       "title": "Colts are hoping the luck of the Irish comes through",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/122600/colts-are-hoping-the-luck-of-the-irish-comes-through",
@@ -120,7 +147,7 @@
     },
     {
       "id": "4a909c1cde7b7f9f",
-      "title": "Fantasy guide to NFL offseason signings: Jets trade Justin Fields to Chiefs",
+      "title": "Fantasy guide to NFL offseason signings: Broncos acquire Waddle from Dolphins",
       "link": "https://espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades",
       "source": "ESPN",
       "feed": "ESPN",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-09T15:44:25+0000",
       "summary": "Grupe made all 11 of his field goals, including a franchise-record 60-yarder, over five games with the Colts in 2025."
-    },
-    {
-      "id": "4115ae35391a7bc3",
-      "title": "Colts 2026 Mock Draft Monday: Pre-NFL free agency",
-      "link": "https://colts.com/news/colts-2026-mock-draft-monday-pre-nfl-free-agency",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-09T15:00:07+0000",
-      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back as the NFL's annual free agency frenzy begins at noon on Monday."
-    },
-    {
-      "id": "32acfbced13f0507",
-      "title": "Colts Cheerleaders announce members of 2026 squad",
-      "link": "https://colts.com/news/colts-cheerleaders-announce-members-of-2026-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-09T13:00:05+0000",
-      "summary": "The Indianapolis Colts Cheerleaders this weekend announced the members of the 2026 Colts Cheer squad."
-    },
-    {
-      "id": "545835e65b3729ac",
-      "title": "Colts, NFL prepare to deal for free agents",
-      "link": "https://fox59.com/sports/colts/colts-nfl-prepare-to-deal-for-free-agents/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-09T10:53:44+0000",
-      "summary": "INDIANAPOLIS – The NFL’s version of \"Let’s Make a Deal\" is almost upon us. Even though the new league year begins Wednesday at 4 p.m., free agency gets a head start at noon Monday. That’s when the Indianapolis Colts and 31 other teams are allowed to approach players with expiring contracts. Deals can be arranged [...]"
     }
   ],
   "links": [
