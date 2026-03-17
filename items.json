@@ -1,13 +1,22 @@
 {
-  "updated": "2026-03-17T20:39:06+00:00",
+  "updated": "2026-03-17T21:36:26+00:00",
   "items": [
+    {
+      "id": "0836ffa113d8f078",
+      "title": "CB Taylor-Britt signs with Colts, rejoins Anarumo",
+      "link": "https://espn.com/nfl/story/_/id/48233416/cb-cam-taylor-britt-signs-colts-rejoins-dc-lou-anarumo",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-17T21:48:58+0000",
+      "summary": "Free agent cornerback Cam Taylor-Britt signed with the Colts, the team announced Tuesday."
+    },
     {
       "id": "071d15973278d83f",
       "title": "Source: Texans to add Teller to rebuilt O-line",
       "link": "https://espn.com/nfl/story/_/id/48232064/source-texans-add-wyatt-teller-rebuilt-o-line",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-17T21:31:20+0000",
+      "published": "2026-03-17T21:48:58+0000",
       "summary": "The Texans have agreed to a two-year deal with Wyatt Teller, according to NFL Network, adding the veteran guard to their rebuilt offensive line."
     },
     {
@@ -16,17 +25,8 @@
       "link": "https://espn.com/nfl/story/_/id/48224223/veteran-cb-darius-slay-retires-13-nfl-seasons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-17T21:31:20+0000",
+      "published": "2026-03-17T21:48:58+0000",
       "summary": "Cornerback Darius Slay announced his retirement from the NFL on Monday after 13 seasons."
-    },
-    {
-      "id": "f045a0cb5aa220b3",
-      "title": "Reeves-Maybin re-elected as NFLPA president",
-      "link": "https://espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-17T21:31:20+0000",
-      "summary": "Jalen Reeves-Maybin was re-elected as president of the NFL Players Association's Board of Player Representatives on Sunday."
     },
     {
       "id": "b513a3ecb1b35db4",
@@ -36,6 +36,33 @@
       "feed": "ESPN",
       "published": "2026-03-17T21:29:20+0000",
       "summary": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen."
+    },
+    {
+      "id": "cd179ec65bb57373",
+      "title": "3 observations from Colts signing free agent CB Cam Taylor-Britt",
+      "link": "https://sports.yahoo.com/articles/3-observations-colts-signing-free-211928846.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T21:19:28+0000",
+      "summary": "The Indianapolis Colts have signed free agent CB Cam Taylor-Britt. Here are three takeaways from the move."
+    },
+    {
+      "id": "877d7a33bbf64f3e",
+      "title": "Browns must avoid trading for former first-round QB this offseason",
+      "link": "https://sports.yahoo.com/articles/browns-must-avoid-trading-former-211333540.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T21:13:33+0000",
+      "summary": "Here's why the Cleveland Browns must avoid trading for this former first-round quarterback during the 2026 NFL offseason."
+    },
+    {
+      "id": "242e95a5cf9b000f",
+      "title": "Report: Seahawks will open 2026 NFL season playing their 1st-ever Wednesday game",
+      "link": "https://sports.yahoo.com/articles/report-seahawks-open-2026-nfl-211135602.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-17T21:11:35+0000",
+      "summary": "The Wall Street Journal reports the league is going to have the Super Bowl champions kick off next season on a special day. Here’s why:"
     },
     {
       "id": "796ae6f0bdd2950f",
@@ -54,51 +81,6 @@
       "feed": "Colts.com",
       "published": "2026-03-17T20:36:15+0000",
       "summary": "Taylor-Britt totaled 38 passes defended over four seasons with the Cincinnati Bengals."
-    },
-    {
-      "id": "8282676e3212f063",
-      "title": "Kenyon Sadiq pushes back on blocking critics at Oregon Pro Day",
-      "link": "https://sports.yahoo.com/articles/kenyon-sadiq-pushes-back-blocking-202718766.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T20:27:18+0000",
-      "summary": "Oregon TE Kenyon Sadiq impressed at the Ducks' Pro Day and responded to critics of his blocking ahead of the NFL Draft."
-    },
-    {
-      "id": "781273c045c646c9",
-      "title": "De'Von Achane landing spots: Which NFL teams could trade for Dolphins RB?",
-      "link": "https://sports.yahoo.com/articles/devon-achane-landing-spots-nfl-202612599.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T20:26:12+0000",
-      "summary": "With Jaylen Waddle gone, could De'Von Achane be the next Dolphins standout to be traded? Keep an eye on these seven NFL teams as potential suitors."
-    },
-    {
-      "id": "6c61932fe896c376",
-      "title": "Two Steelers among NFL leaders in performance-based payouts",
-      "link": "https://sports.yahoo.com/articles/two-steelers-among-nfl-leaders-202543353.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-17T20:25:43+0000",
-      "summary": "Two Steelers receive big raises based on their snap counts in 2025."
-    },
-    {
-      "id": "4cc8c17981fd1c5d",
-      "title": "Colts sign a pair of intriguing depth pieces",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/24480853/colts-sign-two-intriguing-depth-pieces",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-17T19:48:20+0000",
-      "summary": "Indianapolis, IN — The Indianapolis Colts announced they have signed veteran defensive tackle Jerry Tillery and undrafted free agent tight end Carson Towt. Both players represent opposite sides of the spectrum in experience, yet both are facing similar expectations upon signing. These are rather inconsequential signings as far as the grand scheme goes, but competition [&#8230;]"
-    },
-    {
-      "id": "491215a14bf7e4a4",
-      "title": "Report: Former Colts center Danny Pinter agrees to one-year deal with Ravens",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/24480852/report-colts-center-danny-pinter-agrees-to-one-year-deal-with-ravens",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-17T18:51:29+0000",
-      "summary": "Former Colts center Danny Pinter will be playing professional football elsewhere in 2026. On Tuesday, Pinter agreed to a deal with the Baltimore Ravens, according to ESPN’s Jeremy Fowler. According to The Athletic’s Jeff Zrebiec, Pinter agreed to a one-year, $2.25 million deal that’s worth up to $2.75 million. Pinter was drafted by the Colts [&#8230;]"
     },
     {
       "id": "a5d54ce17f7aa9b4",
@@ -137,15 +119,6 @@
       "summary": "We're through the first wave of NFL free agency, but there still will be plenty of moves for the Colts to make."
     },
     {
-      "id": "a3abd0965909ea71",
-      "title": "Colts retained top free agent priorities, but have they actually improved so far?",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122616/colts-retained-top-free-agent-priorities-but-have-they-actually-improved-so-far",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-17T17:33:22+0000",
-      "summary": "Now that the first frenzied waves of NFL free agency have ended, we can now safely see where the Indianapolis Colts stand—with the initial dust having finally settled: Re-Signings QB Daniel Jones: 2-years, $88 million WR Alec Pierce: 4-years, $114 million WR Laquon Treadwell TE Mo Alie-Cox TE Drew Ogletree Signings Edge Arden Key: 2-years, [&#8230;]"
-    },
-    {
       "id": "e14919c4e3784f19",
       "title": "Kiper's new NFL mock draft: How free agency shook up first-round landing spots for top prospects",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
@@ -153,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-03-17T16:47:18+0000",
       "summary": "Team needs have shifted in free agency, so how will top prospects come off the board in Round 1? Mel Kiper Jr. projects the NFL draft's first 32 picks."
-    },
-    {
-      "id": "7237d6c9d0fce18b",
-      "title": "Colts are hoping the luck of the Irish comes through",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122600/colts-are-hoping-the-luck-of-the-irish-comes-through",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-17T13:19:45+0000",
-      "summary": "It’s Saint Patrick’s Day! Today is celebrated by many by enjoying a pint, wearing green, or preparing a heaping plate of corned beef and cabbage. While all of those are associated with the day and the Irish themselves, stereotypes or not, one of the biggest associations is luck. As the 2026 offseason comes into full [&#8230;]"
     },
     {
       "id": "02e6b91e7c3f7223",
@@ -281,6 +245,33 @@
       "summary": "According to Fox59/CBS4’s Mike Chappell, the Indianapolis Colts have re-signed tight end Drew Ogletree, meaning one of their best blockers at the position will be back: Initially selected by the Colts in the 6th round of the 2022 NFL Draft, the 6,’5”, 260 pound tight end makes it to a 2nd contract in Indianapolis. During [&#8230;]"
     },
     {
+      "id": "d495e72a1a09c2d2",
+      "title": "Colts reportedly add Bears free agent safety and special teamer",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122556/colts-reportedly-add-bears-free-agent-safety-and-special-teamer",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-14T02:48:47+0000",
+      "summary": "According to NFL Network’s Mike Garafolo, the Indianapolis Colts have signed Chicago Bears free agent safety and key special teamer Jonathan Owens to bolster their depleted positional depth: Originally signed as an undrafted free agent of the Arizona Cardinals in 2018, the 5,‘11”, 204 pound safety has played for the Houston Texans, Green Bay Packers, [&#8230;]"
+    },
+    {
+      "id": "54922cd94e54cf11",
+      "title": "Top 7 best Free Agent Edge Rushers still available for the Colts",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122461/top-7-best-free-agent-edge-rushers-still-available-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-13T23:12:29+0000",
+      "summary": "Colts have made a pair of depth signings already at defensive end, with Arden Key looking like a potential upgrade in pressure generation (11.2% Pressure Rate in 2025) from the Samson Ebukam (9.8%), Kwity Paye (9.6%), and Tyquan Lewis (8%) trio in 2025, and Micheal Clemons providing depth in run defense with his size, power, [&#8230;]"
+    },
+    {
+      "id": "70ab4b5991896976",
+      "title": "Report: Colts sign safety Juanyeh Thomas to 1-year deal",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122519/report-colts-sign-safety-juanyeh-thomas-to-1-year-deal",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-13T20:30:26+0000",
+      "summary": "The Indianapolis Colts continued reshaping their secondary Friday, agreeing to sign free agent safety Juanyeh Thomas on a one-year deal that gives the young defender a new opportunity to compete for a starting role. Thomas spent the first three seasons of his NFL career with the Dallas Cowboys, appearing in 36 games while carving out [&#8230;]"
+    },
+    {
       "id": "cf52c39b8c2a5c66",
       "title": "Colts re-sign WR Laquon Treadwell",
       "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
@@ -351,6 +342,15 @@
       "feed": "Colts.com",
       "published": "2026-03-13T16:36:32+0000",
       "summary": "Thanks to their connection on the field and their friendship off the field, Pierce and Jones see a bright future for each other – and the Colts – in 2026."
+    },
+    {
+      "id": "c86e3aa8e7daaa49",
+      "title": "The Colts are borrowing from tomorrow to survive 2026",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122452/looking-back-at-the-colts-crazy-start-to-free-agency",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-13T15:00:00+0000",
+      "summary": "This offseason has felt a little different for the Colts. Not necessarily because of the individual moves themselves, but because of what those moves suggest about the direction of the team. Normally when a team signs players or restructures contracts, it feels like normal roster building. A couple depth signings here, an extension there, maybe [&#8230;]"
     },
     {
       "id": "7b7f1dda31aea91a",
