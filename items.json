@@ -1,14 +1,32 @@
 {
-  "updated": "2026-03-18T21:33:11+00:00",
+  "updated": "2026-03-18T22:31:18+00:00",
   "items": [
+    {
+      "id": "1f607139c46fa400",
+      "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
+      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-18T23:17:57+0000",
+      "summary": "We're handing out report cards on big moves, including trades for Andy Dalton and Jaylen Waddle."
+    },
     {
       "id": "468d7a997608248f",
       "title": "Ex-Bengals, Cowboys LB Wilson retires at 29",
       "link": "https://espn.com/nfl/story/_/id/48242732/ex-bengals-cowboys-lb-logan-wilson-retires-29",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-18T21:58:06+0000",
+      "published": "2026-03-18T22:49:41+0000",
       "summary": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday."
+    },
+    {
+      "id": "fc788c80342605bd",
+      "title": "NFL laying groundwork to hire replacement refs",
+      "link": "https://espn.com/nfl/story/_/id/48243257/nfl-seeks-list-possible-replacement-refs-cba-not-reached",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-18T22:49:41+0000",
+      "summary": "The NFL is laying groundwork for hiring replacement officials this season if the league is unable to agree on a new collective bargaining agreement with the NFL Referees Association."
     },
     {
       "id": "33ceca345639dd63",
@@ -16,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48242826/long-colts-receiver-ty-hilton-retires-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-18T21:58:06+0000",
+      "published": "2026-03-18T22:49:41+0000",
       "summary": "T.Y. Hilton, a four-time Pro Bowl wide receiver in his 10 seasons with the Colts, officially announced his retirement after last playing for the Cowboys in 2022."
     },
     {
@@ -25,53 +43,35 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-18T21:58:06+0000",
+      "published": "2026-03-18T22:49:41+0000",
       "summary": "Team needs have shifted in free agency, so how will top prospects come off the board in Round 1? Mel Kiper Jr. projects the NFL draft's first 32 picks."
     },
     {
-      "id": "20fadce6d62d6161",
-      "title": "Former Cowboys wide receiver announces unexpected retirement",
-      "link": "https://sports.yahoo.com/articles/former-cowboys-wide-receiver-announces-212125107.html",
+      "id": "4f29fadca531b417",
+      "title": "Browns re-sign DE Julian Okwara",
+      "link": "https://sports.yahoo.com/articles/browns-sign-julian-okwara-221731886.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-18T21:21:25+0000",
-      "summary": "Former NFL wide receiver T.Y. Hilton announced his retirement on Wednesday at 36 years old. Hilton spent most of his career with the Indianapolis Colts and had not played in an NFL game since the 2022 season with the Dallas…"
+      "published": "2026-03-18T22:17:31+0000",
+      "summary": "The Browns have re-signed defensive end Julian Okwara, according to the NFL's transactions wire."
     },
     {
-      "id": "c0915182d43572fc",
-      "title": "3 observations from Colts signing free agent LB Akeem Davis-Gaither",
-      "link": "https://sports.yahoo.com/articles/3-observations-colts-signing-free-211442695.html",
+      "id": "a16d2eff92ead1b4",
+      "title": "Arizona Cardinals could play Wednesday night in Week 1, but likely won't",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-could-play-wednesday-221651121.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-18T21:14:42+0000",
-      "summary": "Here are three observations from the Colts signing free agent linebacker Akeem Davis-Gaither."
+      "published": "2026-03-18T22:16:51+0000",
+      "summary": "The NFL season opener will come on a Wednesday in 2026. The Cardinals could play in that game."
     },
     {
-      "id": "2525613c5072da02",
-      "title": "Browns have perfect chance to help Shedeur Sanders with first-round picks in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/browns-perfect-chance-help-shedeur-211315465.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-18T21:13:15+0000",
-      "summary": "This is a great opportunity for the Browns."
-    },
-    {
-      "id": "488d1f1e6bd2e284",
-      "title": "Former Bengals linebacker Logan Wilson retires from NFL",
-      "link": "https://sports.yahoo.com/articles/former-bengals-linebacker-logan-wilson-211315322.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-18T21:13:15+0000",
-      "summary": "The Cowboy hangs ‘em up."
-    },
-    {
-      "id": "c4615004d1be8d7a",
-      "title": "Reactions to 3 Arizona Cardinals free agent additions; best/weirdest moves",
-      "link": "https://sports.yahoo.com/articles/reactions-3-arizona-cardinals-free-211102703.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-18T21:11:02+0000",
-      "summary": "Jess Root and Seth Cox talk more free agency and a little NFL draft in the latest episode of the podcast."
+      "id": "907a35a18cdbb792",
+      "title": "Colts add 2 more former Lou Anarumo players: Cam Taylor-Britt and Akeem Davis-Gaither",
+      "link": "https://fox59.com/sports/colts-add-2-more-former-lou-anarumo-players-cam-taylor-britt-and-akeem-davis-gaither/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-18T22:14:56+0000",
+      "summary": "INDIANAPOLIS – It’s never wrong to connect the dots and consider relationships when teams look to add new talent and players seek to extend their careers. That remains true with the Indianapolis Colts and defensive coordinator Lou Anarumo. In the past week, the team has added nine defensive players. Two forged a relationship with Anarumo [...]"
     },
     {
       "id": "386b34d175608dee",
@@ -171,15 +171,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-18T14:40:20+0000",
       "summary": "After letting Nick Cross sign with the Commanders, on a very reasonable deal, the Colts signed Juanyeh Thomas— a former UDFA from the Cowboys. Thomas played three years with the Cowboys and only started four games in that span. I was shocked to see the Colts part ways with Nick Cross, especially after seeing what [&#8230;]"
-    },
-    {
-      "id": "1f607139c46fa400",
-      "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
-      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-18T12:18:25+0000",
-      "summary": "We're handing out report cards on big moves, including trades for Andy Dalton and Jaylen Waddle"
     },
     {
       "id": "72dec599746ccd46",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-03-09T18:14:00+0000",
       "summary": "Pierce's ability to win on vertical, downfield routes provides a skillset that's becoming harder and harder to find in today's modern NFL."
+    },
+    {
+      "id": "1d61bacccf834b48",
+      "title": "Colts trading Michael Pittman Jr. to Steelers",
+      "link": "https://fox59.com/sports/colts/colts-trading-michael-pittman-jr-to-steelers/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-09T16:53:56+0000",
+      "summary": "INDIANAPOLIS -- Long-time Indianapolis Colts wide receiver Michael Pittman Jr. is heading out east. The Colts are trading Pittman to the Pittsburgh Steelers, according to ESPN's Adam Schefter. Schefter reported the deal includes a swap of late-round picks plus a contract extension for 3 years and $59 million from Pittsburgh. The 2020 second-round pick ranks [...]"
     }
   ],
   "links": [
