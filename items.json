@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T19:50:52+00:00",
+  "updated": "2026-03-18T20:35:04+00:00",
   "items": [
     {
       "id": "e14919c4e3784f19",
@@ -11,31 +11,49 @@
       "summary": "Team needs have shifted in free agency, so how will top prospects come off the board in Round 1? Mel Kiper Jr. projects the NFL draft's first 32 picks."
     },
     {
-      "id": "49eac3ed6f38c261",
-      "title": "Panthers reportedly trading backup QB Andy Dalton to Eagles in exchange for 2027 seventh-round pick",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/panthers-reportedly-trading-backup-qb-andy-dalton-to-eagles-in-exchange-for-2027-seventh-round-pick-194405754.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-18T19:44:05+0000",
-      "summary": "Dalton, 38, is preparing for his 16th NFL season."
+      "id": "619e37835f8e4c3d",
+      "title": "Former Colts WR T.Y. Hilton announces retirement from NFL",
+      "link": "https://colts.com/news/former-colts-wr-t-y-hilton-announces-retirement-from-nfl",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-18T20:25:10+0000",
+      "summary": "Hilton, who spent a decade in Indianapolis, ranks third in Colts history in receptions (631) and receiving yards (9,691)."
     },
     {
-      "id": "b17c213c5b69ff22",
-      "title": "With so many former Jets and Giants around, how will Titans be any good?",
-      "link": "https://sports.yahoo.com/articles/many-former-jets-giants-around-193841649.html",
+      "id": "dfc74273460b9047",
+      "title": "Logan Wilson retires from the NFL",
+      "link": "https://sports.yahoo.com/articles/logan-wilson-retires-nfl-202445129.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-18T19:38:41+0000",
-      "summary": "As the Tennessee Titans rebuilt their roster in NFL free agency with so many New York Jets and New York Giants, how's the confidence things will be different?"
+      "published": "2026-03-18T20:24:45+0000",
+      "summary": "The Cowboys released linebacker Logan Wilson last month and he won't be joining another team for the 2026 season."
     },
     {
-      "id": "96f56c3c13a8b63f",
-      "title": "Carolina Panthers trade QB Andy Dalton to Eagles for 2027 draft pick",
-      "link": "https://sports.yahoo.com/articles/carolina-panthers-trade-qb-andy-193651306.html",
+      "id": "e2be42bb2cabb675",
+      "title": "Logan Wilson, former Bengals linebacker, announces NFL retirement",
+      "link": "https://sports.yahoo.com/articles/logan-wilson-former-bengals-linebacker-202231131.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-18T19:36:51+0000",
-      "summary": "The Philadelphia Eagles traded a 2027 NFL draft pick to the Carolina Panthers in exchange for quarterback Andy Dalton, according to multiple reports."
+      "published": "2026-03-18T20:22:31+0000",
+      "summary": "Former Cincinnati Bengals linebacker Logan Wilson announced his retirement via Instagram post."
+    },
+    {
+      "id": "8e91406ec817099e",
+      "title": "NFL begins beating the bushes for potential replacement officials",
+      "link": "https://sports.yahoo.com/articles/nfl-begins-beating-bushes-potential-201752986.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-18T20:17:52+0000",
+      "summary": "Project Fail Mary 2 is in the works."
+    },
+    {
+      "id": "17d05ca744970668",
+      "title": "Washington Commanders Showing NFL Draft Prospect ‘A Lot of Love’",
+      "link": "https://sports.yahoo.com/articles/washington-commanders-showing-nfl-draft-201407311.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-18T20:14:07+0000",
+      "summary": "The Washington Commanders have been busy this offseason, targeting several upgrades to a defense that ranked 27th in points allowed [&#8230;]"
     },
     {
       "id": "394f4382b289e5dc",
@@ -54,24 +72,6 @@
       "feed": "Colts.com",
       "published": "2026-03-18T19:30:42+0000",
       "summary": "Davis-Gaither played for the Cincinnati Bengals under Lou Anarumo from 2020-24."
-    },
-    {
-      "id": "9a442bb913b3a5a2",
-      "title": "Eagles’ 6-year veteran, ‘angry’ and ‘bitter,’ announces NFL retirement at 30",
-      "link": "https://sports.yahoo.com/articles/eagles-6-veteran-angry-bitter-192754319.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-18T19:27:54+0000",
-      "summary": "To say Boston Scott retired with mixed emotions is putting it mildly. MORE: Tributes pour in as winningest executive in NFL history dies at 89 In a lengthy post on his Instagram account March 18, Scott announced his retirement from…"
-    },
-    {
-      "id": "06ab957e74ffd05e",
-      "title": "$96 million star eyed as new playmaker for Chiefs Patrick Mahomes amid rumors",
-      "link": "https://sports.yahoo.com/articles/96-million-star-eyed-playmaker-192601634.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-18T19:26:01+0000",
-      "summary": "A.J. Brown trade talk has taken over the NFL again, and the market is moving fast. The Philadelphia Eagles wide receiver remains one of the biggest names on the board, while several teams keep watching the situation closely. New England…"
     },
     {
       "id": "222162f7de1451f7",
@@ -288,15 +288,6 @@
       "feed": "Colts.com",
       "published": "2026-03-16T16:00:47+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
-    },
-    {
-      "id": "fbafcdf20fab0b7e",
-      "title": "Your weekly dose of Colts optimism",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122463/your-weekly-dose-of-colts-optimism",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-15T14:00:24+0000",
-      "summary": "It has come to my attention that I lean towards giving our GM more credit than he deserves. I’ll admit that given the massive amounts of blame placed at CB’s feet, going against the flow might paint me in that apologist light. I thought I was pretty clear that I was ready to move on, [&#8230;]"
     },
     {
       "id": "09adf2fa96b4934a",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-03-09T16:13:09+0000",
       "summary": "Pierce, originally selected by the Colts in the second round of the 2022 NFL Draft, has become one of the league's top downfield receivers."
+    },
+    {
+      "id": "a8849d90d20604be",
+      "title": "Colts, WR Alec Pierce reach long-term deal",
+      "link": "https://fox59.com/sports/colts/colts-wr-alec-pierce-reach-long-term-deal/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-09T16:10:26+0000",
+      "summary": "INDIANAPOLIS – Alec Pierce isn’t going anywhere. Pierce agreed to a 4-year, $116 million deal, according to multiple sources. Word first came via \"The Pat McAfee Show.\" Pierce, who turns 26 in May, was expected to be one of the most coveted free agents when the NFL’s negotiating window opened at noon Monday. The deal [...]"
     }
   ],
   "links": [
