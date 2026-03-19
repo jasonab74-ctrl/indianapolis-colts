@@ -1,14 +1,50 @@
 {
-  "updated": "2026-03-19T21:34:08+00:00",
+  "updated": "2026-03-19T22:27:42+00:00",
   "items": [
     {
-      "id": "9ec3086c95b0fbf8",
-      "title": "2026 NFL Draft rankings: defensive line & edge breakdown",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-draft-rankings-defensive-line--edge-breakdown-211839866.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-19T21:18:39+0000",
-      "summary": "Nate Tice & Charles McDonald break down the 2026 NFL Draft's top defensive line prospects."
+      "id": "ffcb872c95ac07c9",
+      "title": "Sources: NFL to vote on Raiders succession plan",
+      "link": "https://espn.com/nfl/story/_/id/48252529/nfl-owners-set-vote-raiders-succession-plan",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-19T22:45:29+0000",
+      "summary": "NFL owners are scheduled to vote on a Raiders succession plan that gives Silver Lake co-chief executive officer Egon Durban the option to purchase a majority stake in the team from longtime owner Mark Davis, sources told ESPN."
+    },
+    {
+      "id": "b6e1ab23d370c621",
+      "title": "NFL to consider 5-year window for pick trades",
+      "link": "https://espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-19T22:45:29+0000",
+      "summary": "The Browns are proposing a rule change that would allow NFL teams to trade draft picks five years into the future instead of three."
+    },
+    {
+      "id": "468d7a997608248f",
+      "title": "Ex-Bengals, Cowboys LB Wilson retires at 29",
+      "link": "https://espn.com/nfl/story/_/id/48242732/ex-bengals-cowboys-lb-logan-wilson-retires-29",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-19T22:45:29+0000",
+      "summary": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday."
+    },
+    {
+      "id": "fc788c80342605bd",
+      "title": "NFL laying groundwork to hire replacement refs",
+      "link": "https://espn.com/nfl/story/_/id/48243257/nfl-seeks-list-possible-replacement-refs-cba-not-reached",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-19T22:45:29+0000",
+      "summary": "The NFL is laying groundwork for hiring replacement officials this season if the league is unable to agree on a new collective bargaining agreement with the NFL Referees Association."
+    },
+    {
+      "id": "e14919c4e3784f19",
+      "title": "🏈 Kiper's new mock draft: All 32 Round 1 picks",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-19T22:45:29+0000",
+      "summary": "Team needs have shifted in free agency, so how will top prospects come off the board in Round 1? Mel Kiper Jr. projects the NFL draft's first 32 picks."
     },
     {
       "id": "e3a31370ffeda3fe",
@@ -36,42 +72,6 @@
       "feed": "ESPN",
       "published": "2026-03-19T15:52:24+0000",
       "summary": "We've graded more than 60 signings and trades over the past few weeks. But only 16 moves received top marks. We ranked those deals."
-    },
-    {
-      "id": "fc788c80342605bd",
-      "title": "NFL laying groundwork to hire replacement refs",
-      "link": "https://espn.com/nfl/story/_/id/48243257/nfl-seeks-list-possible-replacement-refs-cba-not-reached",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-19T14:41:14+0000",
-      "summary": "The NFL is laying groundwork for hiring replacement officials this season if the league is unable to agree on a new collective bargaining agreement with the NFL Referees Association."
-    },
-    {
-      "id": "b6e1ab23d370c621",
-      "title": "NFL to consider 5-year window for pick trades",
-      "link": "https://espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-19T14:41:13+0000",
-      "summary": "The Browns are proposing a rule change that would allow NFL teams to trade draft picks five years into the future instead of three."
-    },
-    {
-      "id": "468d7a997608248f",
-      "title": "Ex-Bengals, Cowboys LB Wilson retires at 29",
-      "link": "https://espn.com/nfl/story/_/id/48242732/ex-bengals-cowboys-lb-logan-wilson-retires-29",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-19T14:41:13+0000",
-      "summary": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday."
-    },
-    {
-      "id": "e14919c4e3784f19",
-      "title": "🏈 Kiper's new mock draft: All 32 Round 1 picks",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-19T14:41:13+0000",
-      "summary": "Team needs have shifted in free agency, so how will top prospects come off the board in Round 1? Mel Kiper Jr. projects the NFL draft's first 32 picks."
     },
     {
       "id": "fc6e6ec9de989164",
