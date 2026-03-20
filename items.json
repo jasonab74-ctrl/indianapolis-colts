@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T12:57:46+00:00",
+  "updated": "2026-03-20T14:02:41+00:00",
   "items": [
     {
       "id": "b513a3ecb1b35db4",
@@ -7,26 +7,44 @@
       "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-20T13:06:58+0000",
-      "summary": "We followed every NFL free agency signing, trade, cut, contract restructures over the course of two weeks."
+      "published": "2026-03-20T14:14:47+0000",
+      "summary": "We followed every NFL free agency signing, trade, cut, contract restructures and other moves over the course of two weeks."
     },
     {
-      "id": "89fc5119aaadace7",
-      "title": "Takeaways from opening week of NFL free agency: Biggest signings, losses for all 32 teams",
-      "link": "https://espn.com/nfl/story/_/id/48227150/2026-nfl-free-agency-key-roster-additions-subtractions-goals-buzz-questions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-20T13:06:57+0000",
-      "summary": "Let's break down the main free agency signings, latest buzz on moves and biggest remaining questions for every team."
-    },
-    {
-      "id": "3845356a95bfaacf",
-      "title": "Is Browns desire for one QB that strong? Jimmy Haslam’s fingerprints seem evident",
-      "link": "https://sports.yahoo.com/articles/browns-desire-one-qb-strong-123135813.html",
+      "id": "6c9f95bd7252809f",
+      "title": "Browns NFL free agency: Grading the signing of DE A.J. Epenesa",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-free-agency-grading-135112213.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-20T12:31:35+0000",
-      "summary": "The Cleveland Browns new rule proposal about the NFL draft could be all about Jimmy Haslam’s Arch Manning desire"
+      "published": "2026-03-20T13:51:12+0000",
+      "summary": "The Browns have added more depth to their defensive line with A.J. Epenesa. How does this NFL free agency signing grade out?"
+    },
+    {
+      "id": "e86fccc3dc948b6f",
+      "title": "Chargers Daily Links: Friday Open Thread",
+      "link": "https://sports.yahoo.com/articles/chargers-daily-links-friday-open-135000455.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-20T13:50:00+0000",
+      "summary": "Your source for all Chargers and NFL news from around the web."
+    },
+    {
+      "id": "664a1d9e2b9184e7",
+      "title": "Browns NFL Draft: 3 potential trade-down partners for pick No. 6",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-draft-3-potential-134831658.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-20T13:48:31+0000",
+      "summary": "If the Browns wanted to move off of the sixth pick in the NFL Draft, here are three partners that they could do business with."
+    },
+    {
+      "id": "a83d416c954b5c5b",
+      "title": "Colts “March Madness”: Dark horse contenders",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122703/colts-march-madness-dark-horse-contenders",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-20T13:30:00+0000",
+      "summary": "Only four teams can claim a number one seed each year and rarely do we ever see all of them make it to the Final Four. There are plenty of options for true contenders smattered throughout the rest of the two, three, four, and even five seeds. For the Indianapolis Colts, these contenders are moves [&#8230;]"
     },
     {
       "id": "0dd91b8b5ef3e476",
@@ -252,15 +270,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-17T19:48:20+0000",
       "summary": "Indianapolis, IN — The Indianapolis Colts announced they have signed veteran defensive tackle Jerry Tillery and undrafted free agent tight end Carson Towt. Both players represent opposite sides of the spectrum in experience, yet both are facing similar expectations upon signing. These are rather inconsequential signings as far as the grand scheme goes, but competition [&#8230;]"
-    },
-    {
-      "id": "491215a14bf7e4a4",
-      "title": "Report: Former Colts center Danny Pinter agrees to one-year deal with Ravens",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/24480852/report-colts-center-danny-pinter-agrees-to-one-year-deal-with-ravens",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-17T18:51:29+0000",
-      "summary": "Former Colts center Danny Pinter will be playing professional football elsewhere in 2026. On Tuesday, Pinter agreed to a deal with the Baltimore Ravens, according to ESPN’s Jeremy Fowler. According to The Athletic’s Jeff Zrebiec, Pinter agreed to a one-year, $2.25 million deal that’s worth up to $2.75 million. Pinter was drafted by the Colts [&#8230;]"
     },
     {
       "id": "320397687fb312c5",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-10T18:49:46+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts have lost another veteran. Long-time starting right tackle Braden Smith has agreed to a two-year, $25 million free-agent contract with the AFC South rival Houston Texans, according to multiple reports. The deal includes $13.5 million in guarantees. Smith, 29, has started 105 games since being selected in the second round [...]"
-    },
-    {
-      "id": "2fa8108e868d1f2a",
-      "title": "Colts awarded 2 7th-round compensatory picks in 2026 NFL Draft",
-      "link": "https://colts.com/news/compensatory-draft-picks-comp-seventh-round-additional-pick-selections-2026-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-09T20:35:19+0000",
-      "summary": "The Colts now have seven selections in the 2026 NFL Draft."
     }
   ],
   "links": [
