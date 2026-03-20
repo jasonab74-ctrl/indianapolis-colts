@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-20T22:27:34+00:00",
+  "updated": "2026-03-20T22:56:44+00:00",
   "items": [
+    {
+      "id": "fd3324a95b02922e",
+      "title": "Former Panthers WR announces retirement from NFL at 29 years old",
+      "link": "https://sports.yahoo.com/articles/former-panthers-wr-announces-retirement-223411490.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-20T22:34:11+0000",
+      "summary": "WR D.J. Chark, who appeared in 15 games for the Panthers in 2023, has announced his retirement from the NFL."
+    },
+    {
+      "id": "afc76957883b30d9",
+      "title": "How free agency tells us the Cowboys’ NFL draft plan",
+      "link": "https://sports.yahoo.com/articles/free-agency-tells-us-cowboys-223000426.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-20T22:30:00+0000",
+      "summary": "All signs point towards the Cowboys addressing pass rusher with a first-round pick"
+    },
     {
       "id": "3a4d7212c83bd0b3",
       "title": "Draft daze: Pittsburgh schools go remote for NFL",
@@ -45,15 +63,6 @@
       "feed": "ESPN",
       "published": "2026-03-20T22:27:20+0000",
       "summary": "The Browns are proposing a rule change that would allow NFL teams to trade draft picks five years into the future instead of three."
-    },
-    {
-      "id": "041d86aeb10ca4e9",
-      "title": "Former Jaguars' WR and draft pick announces retirement from NFL",
-      "link": "https://sports.yahoo.com/articles/former-jaguars-wr-draft-pick-221954694.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-20T22:19:54+0000",
-      "summary": "A former Jaguars' wide receiver and draft pick announced his retirement from the NFL."
     },
     {
       "id": "1b8470b1b95339de",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-10T18:49:46+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts have lost another veteran. Long-time starting right tackle Braden Smith has agreed to a two-year, $25 million free-agent contract with the AFC South rival Houston Texans, according to multiple reports. The deal includes $13.5 million in guarantees. Smith, 29, has started 105 games since being selected in the second round [...]"
-    },
-    {
-      "id": "2fa8108e868d1f2a",
-      "title": "Colts awarded 2 7th-round compensatory picks in 2026 NFL Draft",
-      "link": "https://colts.com/news/compensatory-draft-picks-comp-seventh-round-additional-pick-selections-2026-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-09T20:35:19+0000",
-      "summary": "The Colts now have seven selections in the 2026 NFL Draft."
     }
   ],
   "links": [
