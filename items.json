@@ -1,23 +1,32 @@
 {
-  "updated": "2026-03-20T11:30:42+00:00",
+  "updated": "2026-03-20T12:57:46+00:00",
   "items": [
     {
-      "id": "602bc0a981cfef38",
-      "title": "NFL analyst breaks down Titans' biggest remaining roster hole",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-breaks-down-titans-110303796.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-20T11:03:03+0000",
-      "summary": "The Tennessee Titans have added some players to the roster, and one analyst singles out their biggest remaining need."
+      "id": "b513a3ecb1b35db4",
+      "title": "Tracking NFL free agency: We recapped all the signings, trades and cuts from March",
+      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-20T13:06:58+0000",
+      "summary": "We followed every NFL free agency signing, trade, cut, contract restructures over the course of two weeks."
     },
     {
-      "id": "97a6d7e17243c0ce",
-      "title": "2026 Lions Mock Draft Roundup 8.0: Free agency heavily alters projections",
-      "link": "https://sports.yahoo.com/articles/2026-lions-mock-draft-roundup-110216154.html",
+      "id": "89fc5119aaadace7",
+      "title": "Takeaways from opening week of NFL free agency: Biggest signings, losses for all 32 teams",
+      "link": "https://espn.com/nfl/story/_/id/48227150/2026-nfl-free-agency-key-roster-additions-subtractions-goals-buzz-questions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-20T13:06:57+0000",
+      "summary": "Let's break down the main free agency signings, latest buzz on moves and biggest remaining questions for every team."
+    },
+    {
+      "id": "3845356a95bfaacf",
+      "title": "Is Browns desire for one QB that strong? Jimmy Haslam’s fingerprints seem evident",
+      "link": "https://sports.yahoo.com/articles/browns-desire-one-qb-strong-123135813.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-20T11:02:16+0000",
-      "summary": "Taking a closer look at the prospects from the 2026 NFL Draft that have been projected to the Lions over the past week."
+      "published": "2026-03-20T12:31:35+0000",
+      "summary": "The Cleveland Browns new rule proposal about the NFL draft could be all about Jimmy Haslam’s Arch Manning desire"
     },
     {
       "id": "0dd91b8b5ef3e476",
@@ -117,24 +126,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-19T12:00:00+0000",
       "summary": "March Madness is here and with it comes a high level of excitement and a warm welcome to the chaos. The more unpredictable, the better the tournament can be. The most stable picks are usually the number one seeds. These are the top dogs that have run the gauntlet in the toughest conferences. In the [&#8230;]"
-    },
-    {
-      "id": "89fc5119aaadace7",
-      "title": "Takeaways from opening week of NFL free agency: Biggest signings, losses for all 32 teams",
-      "link": "https://espn.com/nfl/story/_/id/48227150/2026-nfl-free-agency-key-roster-additions-subtractions-goals-buzz-questions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-19T01:03:20+0000",
-      "summary": "Let's break down the main free agency signings, latest buzz on moves and biggest remaining questions for every team."
-    },
-    {
-      "id": "b513a3ecb1b35db4",
-      "title": "Tracking NFL free agency: We recapped all the signings, trades and cuts from March",
-      "link": "https://espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-19T01:03:20+0000",
-      "summary": "We followed every NFL free agency signing, trade, cut, contract restructures and other moves over the course of two weeks."
     },
     {
       "id": "907a35a18cdbb792",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-10T18:49:46+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts have lost another veteran. Long-time starting right tackle Braden Smith has agreed to a two-year, $25 million free-agent contract with the AFC South rival Houston Texans, according to multiple reports. The deal includes $13.5 million in guarantees. Smith, 29, has started 105 games since being selected in the second round [...]"
+    },
+    {
+      "id": "2fa8108e868d1f2a",
+      "title": "Colts awarded 2 7th-round compensatory picks in 2026 NFL Draft",
+      "link": "https://colts.com/news/compensatory-draft-picks-comp-seventh-round-additional-pick-selections-2026-nfl-draft",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-09T20:35:19+0000",
+      "summary": "The Colts now have seven selections in the 2026 NFL Draft."
     }
   ],
   "links": [
