@@ -1,13 +1,22 @@
 {
-  "updated": "2026-03-24T20:40:06+00:00",
+  "updated": "2026-03-24T21:36:47+00:00",
   "items": [
+    {
+      "id": "82fa4b32055bddc8",
+      "title": "NFL to consider rule tweaks for replacement refs",
+      "link": "https://espn.com/nfl/story/_/id/48298693/nfl-consider-rule-proposals-case-ref-work-stoppage",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-24T22:23:28+0000",
+      "summary": "The NFL competition committee has finalized a series of wide-ranging rule change proposals to account for the growing possibility of a work stoppage amid tense collective bargaining negotiations with the NFL Referees Association."
+    },
     {
       "id": "1d3601ba99c2cd7e",
       "title": "LB David retires as one of Bucs' all-time greats",
       "link": "https://espn.com/nfl/story/_/id/48296137/buccaneers-lb-lavonte-david-12-captain-retires-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-24T20:37:06+0000",
+      "published": "2026-03-24T22:23:28+0000",
       "summary": "Linebacker Lavonte David announced his retirement Tuesday after a 14-year career with the Tampa Bay Buccaneers in which he was a 12-time captain and has led the league in tackles since he entered the NFL."
     },
     {
@@ -16,7 +25,7 @@
       "link": "https://espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-24T20:37:06+0000",
+      "published": "2026-03-24T22:23:28+0000",
       "summary": "The NFL, its data partner Genius Sports, and sportsbooks FanDuel and DraftKings have been named as defendants in a gambling addiction lawsuit filed Tuesday in a Pennsylvania state court."
     },
     {
@@ -25,48 +34,48 @@
       "link": "https://espn.com/nfl/story/_/id/48297501/falcons-agree-one-year-deal-rb-brian-robinson",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-24T20:37:06+0000",
+      "published": "2026-03-24T22:23:28+0000",
       "summary": "The Falcons have reached a one-year, $2.5 million deal with running back Brian Robinson, according to NFL Network."
     },
     {
-      "id": "d2c28fa2f2749aeb",
-      "title": "Sources: JSN gets record extension with Seattle",
-      "link": "https://espn.com/nfl/story/_/id/48286903/sources-seahawks-jaxon-smith-njigba-agrees-record-extension",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-24T20:37:06+0000",
-      "summary": "Jaxon Smith-Njigba has reached agreement with the Seahawks on a four-year, $168.6 million extension that makes him the highest-paid wide receiver in NFL history, sources told ESPN."
-    },
-    {
-      "id": "550d5970cf298077",
-      "title": "Competition Committee proposes expanded league officials' assistance if the event of NFLRA work stoppage",
-      "link": "https://sports.yahoo.com/articles/competition-committee-proposes-expanded-league-201915868.html",
+      "id": "724fc6f28538ad56",
+      "title": "League personnel being able to weigh in on on-field calls among NFL's new proposals",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/league-personnel-being-able-to-weigh-in-on-on-field-calls-among-nfls-new-proposals-212856954.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-24T20:19:15+0000",
-      "summary": "The league is looking at a contingency plan to prevent egregious officiating errors if the NFL ends up with replacement officials to start the 2026 season."
+      "published": "2026-03-24T21:28:56+0000",
+      "summary": "Voting will take place at the Annual League Meeting on March 29 in Phoenix"
     },
     {
-      "id": "3e501e4f6022217a",
-      "title": "Cowboys agree to terms with CB Derion Kendrick",
-      "link": "https://sports.yahoo.com/articles/cowboys-agree-terms-cb-derion-201841709.html",
+      "id": "0f8f62ad5cca4c2c",
+      "title": "NFL rule changes 2026: Competition committees submits five proposals",
+      "link": "https://sports.yahoo.com/articles/nfl-rule-changes-2026-competition-212655469.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-24T20:18:41+0000",
-      "summary": "The Cowboys are signing cornerback Derion Kendrick to a one-year deal, Tom Pelissero of NFL Media reports."
+      "published": "2026-03-24T21:26:55+0000",
+      "summary": "The NFL's competition committee proposed five rule changes for 2026, including adjustments to onside kicks and a referee contingency."
     },
     {
-      "id": "c0ac99f6d9f6648a",
-      "title": "Seahawks hosting star LSU safety in official pre-NFL Draft visit",
-      "link": "https://sports.yahoo.com/articles/seahawks-hosting-star-lsu-safety-201510721.html",
+      "id": "b033fe77b4390b11",
+      "title": "2 ex-Broncos QBs find homes; Eagles sign DB who was cut by Denver after 1 game",
+      "link": "https://sports.yahoo.com/articles/2-ex-broncos-qbs-homes-212420110.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-24T20:15:10+0000",
-      "summary": "Haulcy was a first-team All-American and first-team All-SEC at LSU."
+      "published": "2026-03-24T21:24:20+0000",
+      "summary": "A pair of former Broncos quarterbacks have found NFL homes, and the Eagles signed an ex-Denver safety."
+    },
+    {
+      "id": "95111f0c2a0a1448",
+      "title": "Buffalo Bills 2026 NFL Draft visit tracker",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-2026-nfl-draft-001059632.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-24T21:23:53+0000",
+      "summary": "Which 2026 NFL Draft prospects are meeting with the Buffalo Bills?"
     },
     {
       "id": "521f492b2ba02e5d",
-      "title": "Can Colts find trading partner at the NFL League Meetings?",
+      "title": "Can the Colts find a trading partner at the League Meetings?",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/122756/can-the-colts-find-a-trading-partner-at-the-league-meetings",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-12T18:25:26+0000",
       "summary": "Clemons compiled 8.5 sacks, 13 tackles for loss and 20 quarterback hits in four seasons with the New York Jets."
-    },
-    {
-      "id": "dbf7ffcc1fbc2d9e",
-      "title": "Daniel Jones progressing well through Achilles injury, expects to be '100 percent' for Week 1 of 2026 season",
-      "link": "https://colts.com/news/daniel-jones-progressing-well-through-achilles-injury-expects-to-be-100-percent-for-week-1-of-2026-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T18:00:13+0000",
-      "summary": "Jones, who officially signed a new contract with the Colts on Thursday, said he intends to be ready to play by Week 1 of the 2026 season, if not sooner."
     }
   ],
   "links": [
