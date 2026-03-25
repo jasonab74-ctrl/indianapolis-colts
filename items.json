@@ -1,6 +1,69 @@
 {
-  "updated": "2026-03-25T13:08:34+00:00",
+  "updated": "2026-03-25T14:40:14+00:00",
   "items": [
+    {
+      "id": "1ed652c634e6c409",
+      "title": "Elite longevity: Flacco, 41, agrees to Cincy deal",
+      "link": "https://espn.com/nfl/story/_/id/48298896/bengals-41-year-old-qb-joe-flacco-agree-1-year-deal",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-25T15:18:54+0000",
+      "summary": "Quarterback Joe Flacco is coming back for a 19th NFL season, agreeing to a one-year, $6 million deal with the Bengals, sources told ESPN's Jeremy Fowler."
+    },
+    {
+      "id": "ac95fa76257d64b8",
+      "title": "Source: Falcons improve RB depth, add Robinson",
+      "link": "https://espn.com/nfl/story/_/id/48297501/falcons-agree-one-year-deal-rb-brian-robinson",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-25T15:18:54+0000",
+      "summary": "The Falcons have reached a one-year, $2.5 million deal with running back Brian Robinson, according to NFL Network."
+    },
+    {
+      "id": "82fa4b32055bddc8",
+      "title": "NFL to consider rule tweaks for replacement refs",
+      "link": "https://espn.com/nfl/story/_/id/48298693/nfl-consider-rule-proposals-case-ref-work-stoppage",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-25T15:18:54+0000",
+      "summary": "The NFL competition committee has finalized a series of wide-ranging rule change proposals to account for the growing possibility of a work stoppage amid tense collective bargaining negotiations with the NFL Referees Association."
+    },
+    {
+      "id": "1d3601ba99c2cd7e",
+      "title": "LB David retires as one of Bucs' all-time greats",
+      "link": "https://espn.com/nfl/story/_/id/48296137/buccaneers-lb-lavonte-david-12-captain-retires-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-25T15:18:54+0000",
+      "summary": "Linebacker Lavonte David announced his retirement Tuesday after a 14-year career with the Tampa Bay Buccaneers in which he was a 12-time captain and has led the league in tackles since he entered the NFL."
+    },
+    {
+      "id": "f8149a0557e0f0ff",
+      "title": "Gambling addiction suit targets NFL, sportsbooks",
+      "link": "https://espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-25T15:18:54+0000",
+      "summary": "The NFL, its data partner Genius Sports, and sportsbooks FanDuel and DraftKings have been named as defendants in a gambling addiction lawsuit filed Tuesday in a Pennsylvania state court."
+    },
+    {
+      "id": "cf472c6d77c950a4",
+      "title": "This Ohio State star still impressing Giants with Styles and substance",
+      "link": "https://sports.yahoo.com/articles/ohio-state-star-still-impressing-142025941.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T14:20:25+0000",
+      "summary": "Sonny Styles left NFL Combine last month as most talked-about prospect on and off field. Giants will spend more time with him at Ohio State Pro Day"
+    },
+    {
+      "id": "6243d44c18b8821e",
+      "title": "Jaguars early 53-man roster prediction after free agency",
+      "link": "https://sports.yahoo.com/articles/jaguars-early-53-man-roster-141723824.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T14:17:23+0000",
+      "summary": "Following NFL free agency, let's make a way-too-early 53-man roster prediction for the Jacksonville Jaguars."
+    },
     {
       "id": "fdaef6843dfffcd2",
       "title": "Ranking every NFL free agency class: Solak on what he liked -- and didn't like -- for all 32 teams",
@@ -20,33 +83,6 @@
       "summary": "Let's look at the largest contracts from 2013 to 2022 to see how often megadeals meet expectations."
     },
     {
-      "id": "e2d0edda98ebf482",
-      "title": "Puka Nacua faces legal action after woman claims LA Rams star ‘bit her’",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-faces-legal-action-130000342.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T13:00:00+0000",
-      "summary": "Puka Nacua is facing legal action after a woman accused the Los Angeles Rams star of a serious off-field incident during a New Year’s Eve night out. The allegations have quickly drawn attention due to their nature and the involvement of a high-profile NFL player."
-    },
-    {
-      "id": "13a61e7116585139",
-      "title": "Broncos’ J.K. Dobbins sends warning message to NFL defenses",
-      "link": "https://sports.yahoo.com/articles/broncos-j-k-dobbins-sends-125651641.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T12:56:51+0000",
-      "summary": "The Denver Broncos made a move to keep running back J.K. Dobbins around this offseason, locking him up on a two-year contract worth $16 million. He’s expected to share the backfield with R.J. Harvey, but the real question has always…"
-    },
-    {
-      "id": "09e82ec478cc22ea",
-      "title": "Cowboys coach Schottenheimer takes Texas LB Anthony Hill Jr. to dinner",
-      "link": "https://sports.yahoo.com/articles/cowboys-coach-schottenheimer-takes-texas-125321831.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T12:53:21+0000",
-      "summary": "Longhorns LB Anthony Hill Jr is emerging as a Cowboys NFL Draft target. Dallas Coach Brian Schottenheimer even took Hill to dinner."
-    },
-    {
       "id": "ca29f4ecc229c579",
       "title": "Predicting Rounds 1-2 of the NFL draft: Yates finds landing spots for 64 top prospects",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48259253/2026-nfl-mock-draft-two-rounds-64-picks-field-yates",
@@ -54,51 +90,6 @@
       "feed": "ESPN",
       "published": "2026-03-25T12:12:19+0000",
       "summary": "Field Yates unveils his latest NFL mock draft, projecting two full rounds. Which top prospects could go in the opening 64 picks?"
-    },
-    {
-      "id": "1ed652c634e6c409",
-      "title": "Elite longevity: Flacco, 41, agrees to Cincy deal",
-      "link": "https://espn.com/nfl/story/_/id/48298896/bengals-41-year-old-qb-joe-flacco-agree-1-year-deal",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T03:22:43+0000",
-      "summary": "Quarterback Joe Flacco is coming back for a 19th NFL season, agreeing to a one-year, $6 million deal with the Bengals, sources told ESPN's Jeremy Fowler."
-    },
-    {
-      "id": "82fa4b32055bddc8",
-      "title": "NFL to consider rule tweaks for replacement refs",
-      "link": "https://espn.com/nfl/story/_/id/48298693/nfl-consider-rule-proposals-case-ref-work-stoppage",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T03:22:43+0000",
-      "summary": "The NFL competition committee has finalized a series of wide-ranging rule change proposals to account for the growing possibility of a work stoppage amid tense collective bargaining negotiations with the NFL Referees Association."
-    },
-    {
-      "id": "1d3601ba99c2cd7e",
-      "title": "LB David retires as one of Bucs' all-time greats",
-      "link": "https://espn.com/nfl/story/_/id/48296137/buccaneers-lb-lavonte-david-12-captain-retires-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T03:22:43+0000",
-      "summary": "Linebacker Lavonte David announced his retirement Tuesday after a 14-year career with the Tampa Bay Buccaneers in which he was a 12-time captain and has led the league in tackles since he entered the NFL."
-    },
-    {
-      "id": "f8149a0557e0f0ff",
-      "title": "Gambling addiction suit targets NFL, sportsbooks",
-      "link": "https://espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T03:22:43+0000",
-      "summary": "The NFL, its data partner Genius Sports, and sportsbooks FanDuel and DraftKings have been named as defendants in a gambling addiction lawsuit filed Tuesday in a Pennsylvania state court."
-    },
-    {
-      "id": "ac95fa76257d64b8",
-      "title": "Source: Falcons improve RB depth, add Robinson",
-      "link": "https://espn.com/nfl/story/_/id/48297501/falcons-agree-one-year-deal-rb-brian-robinson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T03:22:43+0000",
-      "summary": "The Falcons have reached a one-year, $2.5 million deal with running back Brian Robinson, according to NFL Network."
     },
     {
       "id": "270068cbfcd633f5",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-12T00:34:55+0000",
       "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
+    },
+    {
+      "id": "edc3a4868c43e9a5",
+      "title": "New opportunities, family and unfinished business: Why Alec Pierce's return to Colts was a no-brainer",
+      "link": "https://colts.com/news/alec-pierce-colts-contract-wide-receiver-reggie-wayne-daniel-jones-nfl-sauce-gardner-purdue-basketball",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-11T23:50:10+0000",
+      "summary": "Pierce officially signed his new contract with the Colts on Wednesday, motivated to return by everything from his relationship with Reggie Wayne to his own desire for greatness."
     }
   ],
   "links": [
