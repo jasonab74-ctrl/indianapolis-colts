@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T19:45:31+00:00",
+  "updated": "2026-03-25T20:37:40+00:00",
   "items": [
     {
       "id": "d95971af9c852343",
@@ -7,8 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/48305550/sources-las-vegas-expected-host-super-bowl-lxiii",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-25T20:04:54+0000",
+      "published": "2026-03-25T20:58:19+0000",
       "summary": "NFL owners are expected to vote Las Vegas as the host city for Super Bowl LXIII after the 2028 season, sources told ESPN."
+    },
+    {
+      "id": "f85174d7187dca4b",
+      "title": "Tate doesn't run 'overvalued' 40 at OSU pro day",
+      "link": "https://espn.com/nfl/story/_/id/48306075/carnell-tate-run-overvalued-40-ohio-state-pro-day",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-25T20:58:19+0000",
+      "summary": "Receiver Carnell Tate elected Wednesday not to improve on the 40-yard dash time from the NFL combine, saying during Ohio State's pro day that it can be \"overvalued.\""
     },
     {
       "id": "ac95fa76257d64b8",
@@ -16,35 +25,71 @@
       "link": "https://espn.com/nfl/story/_/id/48297501/falcons-agree-one-year-deal-rb-brian-robinson",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-25T20:04:54+0000",
+      "published": "2026-03-25T20:58:19+0000",
       "summary": "The Falcons have reached a one-year, $2.5 million deal with running back Brian Robinson, according to NFL Network."
     },
     {
-      "id": "82fa4b32055bddc8",
-      "title": "NFL to consider rule tweaks for replacement refs",
-      "link": "https://espn.com/nfl/story/_/id/48298693/nfl-consider-rule-proposals-case-ref-work-stoppage",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T20:04:54+0000",
-      "summary": "The NFL competition committee has finalized a series of wide-ranging rule change proposals to account for the growing possibility of a work stoppage amid tense collective bargaining negotiations with the NFL Referees Association."
+      "id": "7350d2c0facc9668",
+      "title": "2026 NFL Draft early QB rankings: Ty Simpson is a good prospect, but behind 2 others",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-draft-early-qb-rankings-ty-simpson-is-a-good-prospect-but-behind-2-others-203218343.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:32:18+0000",
+      "summary": "Here's an early look at the top three quarterbacks in this class, including the Heisman Trophy winner, Alabama's rising signal-caller and a gunslinger who makes good decisions."
     },
     {
-      "id": "1d3601ba99c2cd7e",
-      "title": "LB David retires as one of Bucs' all-time greats",
-      "link": "https://espn.com/nfl/story/_/id/48296137/buccaneers-lb-lavonte-david-12-captain-retires-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T20:04:54+0000",
-      "summary": "Linebacker Lavonte David announced his retirement Tuesday after a 14-year career with the Tampa Bay Buccaneers in which he was a 12-time captain and has led the league in tackles since he entered the NFL."
+      "id": "f613eb6976661e95",
+      "title": "NFL, NFLRA talks continue to go nowhere",
+      "link": "https://sports.yahoo.com/articles/nfl-nflra-talks-continue-nowhere-201740734.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:17:40+0000",
+      "summary": "Fail Mary 2 is getting closer and closer to becoming a reality."
     },
     {
-      "id": "f8149a0557e0f0ff",
-      "title": "Gambling addiction suit targets NFL, sportsbooks",
-      "link": "https://espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-25T20:04:54+0000",
-      "summary": "The NFL, its data partner Genius Sports, and sportsbooks FanDuel and DraftKings have been named as defendants in a gambling addiction lawsuit filed Tuesday in a Pennsylvania state court."
+      "id": "cc54a12a51f79df1",
+      "title": "Investing too heavily in Free Agency is a bad thing for an NFL team",
+      "link": "https://sports.yahoo.com/articles/investing-too-heavily-free-agency-201500271.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:15:00+0000",
+      "summary": "The way to win the game is not to play (at least not too much)."
+    },
+    {
+      "id": "c801884cd73b2c12",
+      "title": "Joe Flacco calls out 'dumb' NFL teams for not giving him a starting shot",
+      "link": "https://sports.yahoo.com/articles/joe-flacco-calls-dumb-nfl-201254089.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:12:54+0000",
+      "summary": "Veteran quarterback Joe Flacco was hoping to get an opportunity to compete for a starting spot somewhere in the NFL for the 2026 season.  Instead, he’s back in Cincinnati on a one-year deal to serve as Joe Burrow’s backup.  While Flacco, 41, appreciates the opportunity afforded to him in Cincinnati, he wasn’t shy about slamming QB-needy teams for not giving him a chance."
+    },
+    {
+      "id": "e04cb2a611156217",
+      "title": "Is this wide receiver the best fit for Rams in draft?",
+      "link": "https://sports.yahoo.com/articles/wide-receiver-best-fit-rams-201204257.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:12:04+0000",
+      "summary": "KC Concepcion could be the ideal WR fit for the Rams at 13th overall in the 2026 NFL Draft."
+    },
+    {
+      "id": "b6efdd564e1251ac",
+      "title": "Pro Day tracker: Schedule, results, Giants attendance, more",
+      "link": "https://sports.yahoo.com/articles/pro-day-tracker-schedule-results-201506439.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:12:00+0000",
+      "summary": "The next phase of the NFL Draft process is underway."
+    },
+    {
+      "id": "7c14e3e5e81ee70f",
+      "title": "Patrick Mahomes posts ACL rehab update at same time NFL opener announced",
+      "link": "https://sports.yahoo.com/articles/patrick-mahomes-posts-acl-rehab-201015050.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-25T20:10:15+0000",
+      "summary": "Is Patrick Mahomes just showing how well his rehab is going, or is there something more here?"
     },
     {
       "id": "fdaef6843dfffcd2",
@@ -72,78 +117,6 @@
       "feed": "ESPN",
       "published": "2026-03-25T20:01:34+0000",
       "summary": "Field Yates unveils his latest NFL mock draft. Which top prospects could go in the opening 64 picks?"
-    },
-    {
-      "id": "e40767a0a44d9913",
-      "title": "2026 Colts fantasy preview: Biggest bargain, bust, and wild card",
-      "link": "https://sports.yahoo.com/articles/2026-colts-fantasy-preview-biggest-194236944.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:42:36+0000",
-      "summary": "If the season started today, one Colts player would be their biggest fantasy bargain, another a likely bust, and a third a likely wild card."
-    },
-    {
-      "id": "cbd9f60747b16ffe",
-      "title": "2026 NFL Draft position rankings: Wide receiver",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-position-rankings-193824285.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:38:24+0000",
-      "summary": "With the Scouting Combine over and pro days underway, we have a more complete picture of the 2026 NFL Draft class. Film, production, athletic testing, interviews, and medical evaluations come together to make a profile of a player, which makes it easier to map out the class. Over the next few weeks, I will be […]"
-    },
-    {
-      "id": "7cf48bf4184170cd",
-      "title": "It’s official: Seahawks to host 2026 NFL Kickoff on a Wednesday night",
-      "link": "https://sports.yahoo.com/articles/official-seahawks-host-2026-nfl-193607195.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:36:07+0000",
-      "summary": "Are you ready for some Wednesday night Seahawks football?!"
-    },
-    {
-      "id": "2fa1994898a12c3a",
-      "title": "Senior analyst critical of the play of Vikings QB J.J. McCarthy",
-      "link": "https://sports.yahoo.com/articles/senior-analyst-critical-play-vikings-193243598.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:32:43+0000",
-      "summary": "Legendary NFL analyst Greg Cosell was critical of J.J. McCarthy lately, although he did leave some room for the young quarterback to improve."
-    },
-    {
-      "id": "f3086a43a214d0ef",
-      "title": "Alabama QB Ty Simpson set to visit Jets. Here's what it means.",
-      "link": "https://sports.yahoo.com/articles/alabama-qb-ty-simpson-set-193046366.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:30:46+0000",
-      "summary": "Ty Simpson, one of the best QB prospects in the 2026 NFL Draft, is set to work out for the Jets on Friday, March 27. Here's what that means."
-    },
-    {
-      "id": "2c743768171360dc",
-      "title": "2026 NFL draft: Jets to have private workout with potential first-round QB",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-jets-private-192948475.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:29:48+0000",
-      "summary": "The Jets have an important private workout coming later this week."
-    },
-    {
-      "id": "edc6734472c9fa53",
-      "title": "Nashville's wait for Super Bowl extended, Las Vegas expected to host in 2029",
-      "link": "https://sports.yahoo.com/articles/nashvilles-wait-super-bowl-extended-192650225.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:26:50+0000",
-      "summary": "Nashville's wait for a Super Bowl continues with Las Vegas reportedly the front runner to host Super Bowl LXIII in 2029 ahead of NFL owners meetings."
-    },
-    {
-      "id": "8a2b837b057ccfc4",
-      "title": "Nashville's wait for Super Bowl extended, Las Vegas expected to host in 2029",
-      "link": "https://sports.yahoo.com/articles/nashvilles-wait-super-bowl-extended-192650955.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-25T19:26:50+0000",
-      "summary": "Nashville's wait for a Super Bowl continues with Las Vegas reportedly the front runner to host Super Bowl LXIII in 2029 ahead of NFL owners meetings."
     },
     {
       "id": "729d72d76c986cea",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2026-03-12T22:04:32+0000",
       "summary": "INDIANAPOLIS – One by one, the pieces have fallen into place. First, re-sign explosive receiver, Alec Pierce. Next, re-sign quarterback Daniel Jones. They represented general manager Chris Ballard’s overriding offseason priorities, and both boxes have been checked off. Now what? There will be more additions and subtractions as the 2026 roster crystallizes, but owner Carlie [...]"
+    },
+    {
+      "id": "9eb02f8eb81210ea",
+      "title": "5 Colts Things: Why Colts (and NFL analysts) believe in plan for Daniel Jones, plus a player comparison that isn't Mayfield, Darnold or Smith",
+      "link": "https://colts.com/news/daniel-jones-plan-2026-season-achilles-recovery-timeline-sam-darnold-baker-mayfield-comparison",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-12T20:30:18+0000",
+      "summary": "The Colts officially re-signed Jones on Thursday, keeping him behind center in Indianapolis with an eye on replicating the success he and the team had over the first 10 games of 2025."
+    },
+    {
+      "id": "94f458c1e645fd4f",
+      "title": "Colts sign free agent DE Arden Key",
+      "link": "https://colts.com/news/colts-sign-free-agent-de-arden-key",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-12T18:25:52+0000",
+      "summary": "The Colts signed Key, who spent the last three seasons with the Tennessee Titans, on Thursday."
+    },
+    {
+      "id": "0e647b275cbfe54f",
+      "title": "Colts sign free agent DE Micheal Clemons",
+      "link": "https://colts.com/news/colts-sign-free-agent-de-micheal-clemons",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-12T18:25:26+0000",
+      "summary": "Clemons compiled 8.5 sacks, 13 tackles for loss and 20 quarterback hits in four seasons with the New York Jets."
     }
   ],
   "links": [
