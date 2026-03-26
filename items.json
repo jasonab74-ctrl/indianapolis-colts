@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T19:36:26+00:00",
+  "updated": "2026-03-26T20:34:54+00:00",
   "items": [
     {
       "id": "0e4707891aff027f",
@@ -7,17 +7,17 @@
       "link": "https://espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-26T20:20:34+0000",
+      "published": "2026-03-26T20:59:43+0000",
       "summary": "Tom Brady says he explored the possibility of coming out of retirement and returning to the NFL, adding that the league did not \"like that idea very much.\""
     },
     {
-      "id": "c99b85fd9668b77b",
-      "title": "QB Simpson says he's 'absolutely' 1st-round pick",
-      "link": "https://espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
+      "id": "3693a634447da8fb",
+      "title": "RG III invited to try out for Team USA flag team",
+      "link": "https://espn.com/nfl/story/_/id/48314017/robert-griffin-iii-invited-try-team-usa-flag-football",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-26T20:20:34+0000",
-      "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick."
+      "published": "2026-03-26T20:59:43+0000",
+      "summary": "Former NFL quarterback Robert Griffin III received an invitation from USA Football to two training camps starting next month in Chula Vista, California."
     },
     {
       "id": "b2d00b3763600926",
@@ -25,17 +25,44 @@
       "link": "https://espn.com/nfl/story/_/id/48306607/sources-browns-myles-garrett-modify-language-contract",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-26T20:20:34+0000",
+      "published": "2026-03-26T20:59:43+0000",
       "summary": "The Browns and reigning NFL Defensive Player of the Year Myles Garrett have agreed to modified language on his contract that became official on Tuesday, per league sources."
     },
     {
-      "id": "2711115211856f18",
-      "title": "Sources: Labor talks stop amid NFL-ref impasse",
-      "link": "https://espn.com/nfl/story/_/id/48306490/sources-nfl-referees-break-labor-talks-amid-impasse",
+      "id": "c99b85fd9668b77b",
+      "title": "QB Simpson says he's 'absolutely' 1st-round pick",
+      "link": "https://espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-26T20:20:34+0000",
-      "summary": "Labor negotiations between the NFL and NFL Referees Association broke off earlier than scheduled this week as the sides were unable to make progress toward a new collective bargaining agreement, sources told ESPN."
+      "published": "2026-03-26T20:59:42+0000",
+      "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick."
+    },
+    {
+      "id": "a9f7aaa8e60bd99a",
+      "title": "Colts Blue Zone Podcast 458: Evaluating the Offseason So Far",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-458-evaluating-the-offseason-so-far/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-26T20:22:58+0000",
+      "summary": "In the latest edition of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams explore the team's offseason moves and where things stack up about a month away from April's NFL Draft. Topics include: the Week 1 starter for Indianapolis, Daniel Jones' recovery, the importance of Alec Pierce and some deficiencies on [...]"
+    },
+    {
+      "id": "4e476c37deeefe8e",
+      "title": "2026 NFL Draft scouting report: Omar Cooper Jr., WR, Indiana",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-202216205.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-26T20:22:16+0000",
+      "summary": "Is Omar Cooper Jr. worth all the national media love he's been getting? Check out his 2026 NFL Draft scouting report to find out!"
+    },
+    {
+      "id": "fbf877dd6f9b1a18",
+      "title": "2026 NFL Draft scouting report: Bryce Lance, WR, North Dakota State",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-202102604.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-26T20:21:02+0000",
+      "summary": "Could NDSU's Bryce Lance be flying under the radar heading into the 2026 NFL Draft?"
     },
     {
       "id": "345fc85fe7750f50",
@@ -56,40 +83,31 @@
       "summary": "Field Yates unveils his latest NFL mock draft. Which top prospects could go in the opening 64 picks?"
     },
     {
-      "id": "43b335b3ca9ec7ac",
-      "title": "Tom Brady says he's weighed coming out of retirement, but the NFL didn't like the idea",
-      "link": "https://sports.yahoo.com/articles/tom-brady-says-hes-weighed-193046187.html",
+      "id": "ca2af66ec5228d43",
+      "title": "2026 NFL Draft scouting report: Makai Lemon, WR, USC",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-201806147.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-26T19:30:46+0000",
-      "summary": "Tom Brady revealed in an interview released on Thursday that he considered coming out of retirement, but the National Football League wasn't particularly receptive to the idea.  Brady, a seven-time Super Bowl champion and minority owner of the Las Vegas Raiders, was asked in a recent interview with CNBC if he's looked into the rules regarding a minority owner returning to NFL play.  “I actually have inquired, and they (the NFL) don’t like that idea very much, so I’m going to leave it at that,” Brady said."
+      "published": "2026-03-26T20:18:06+0000",
+      "summary": "Next up to receive his 2026 NFL Draft scouting report is USC WR Makai Lemon."
     },
     {
-      "id": "a44dce1fd6ae8fe5",
-      "title": "2026 NFL Draft: Justin Boone's favorite sleeper prospects for fantasy football at each position",
-      "link": "https://sports.yahoo.com/fantasy/article/2026-nfl-draft-justin-boones-favorite-sleeper-prospects-for-fantasy-football-at-each-position-191944019.html",
+      "id": "beba236e03723f64",
+      "title": "Florida AG says NFL's Rooney Rule breaks state law: What to know",
+      "link": "https://sports.yahoo.com/articles/florida-ag-says-nfls-rooney-201557692.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-26T19:19:44+0000",
-      "summary": "With the 2026 NFL Draft approaching, Justin Boone offers his favorite sleeper prospects at each position for fantasy football dynasty leagues."
+      "published": "2026-03-26T20:15:57+0000",
+      "summary": "The NFL adopted the rule in 2003."
     },
     {
-      "id": "fd2d440dae65a429",
-      "title": "Falcons sign RB Tyler Goodson",
-      "link": "https://sports.yahoo.com/articles/falcons-sign-rb-tyler-goodson-191755187.html",
+      "id": "ae16510018f4805e",
+      "title": "The NFL didn’t want Tom Brady to return to football",
+      "link": "https://sports.yahoo.com/articles/nfl-didn-t-want-tom-201539068.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-26T19:17:55+0000",
-      "summary": "The former Colt will be the early favorite for RB3 duties in Atlanta."
-    },
-    {
-      "id": "ec818b4e5a863320",
-      "title": "Tom Brady Received Flak From NFL After Asking About Un-Retiring",
-      "link": "https://sports.yahoo.com/articles/tom-brady-received-flak-nfl-191500600.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-26T19:15:00+0000",
-      "summary": "NFL legend Tom Brady decided to hang up his cleats in February 2023, but in a recent interview, he revealed The Tom Brady Received Flak From NFL After Asking About Un-Retiring first appeared on The Blast"
+      "published": "2026-03-26T20:15:39+0000",
+      "summary": "Tom Brady wanted to return to football, but the NFL didn't oblige."
     },
     {
       "id": "031f2cd0dd6dfb88",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-12T18:25:52+0000",
       "summary": "The Colts signed Key, who spent the last three seasons with the Tennessee Titans, on Thursday."
-    },
-    {
-      "id": "0e647b275cbfe54f",
-      "title": "Colts sign free agent DE Micheal Clemons",
-      "link": "https://colts.com/news/colts-sign-free-agent-de-micheal-clemons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T18:25:26+0000",
-      "summary": "Clemons compiled 8.5 sacks, 13 tackles for loss and 20 quarterback hits in four seasons with the New York Jets."
-    },
-    {
-      "id": "dbf7ffcc1fbc2d9e",
-      "title": "Daniel Jones progressing well through Achilles injury, expects to be '100 percent' for Week 1 of 2026 season",
-      "link": "https://colts.com/news/daniel-jones-progressing-well-through-achilles-injury-expects-to-be-100-percent-for-week-1-of-2026-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T18:00:13+0000",
-      "summary": "Jones, who officially signed a new contract with the Colts on Thursday, said he intends to be ready to play by Week 1 of the 2026 season, if not sooner."
     }
   ],
   "links": [
