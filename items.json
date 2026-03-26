@@ -1,50 +1,23 @@
 {
-  "updated": "2026-03-26T04:44:08+00:00",
+  "updated": "2026-03-26T06:11:50+00:00",
   "items": [
     {
-      "id": "64d35ee6bb6be70d",
-      "title": "Arizona Cardinals NFL draft needs: Quarterback",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-nfl-draft-needs-041530316.html",
+      "id": "e8c3dcc3c400874b",
+      "title": "NFL draft injury analysis: Oscar Delp, TE - Georgia",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-oscar-054727066.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-26T04:15:30+0000",
-      "summary": "A look at where the draft priority should be for the quarterback position, based on roster needs."
+      "published": "2026-03-26T05:47:27+0000",
+      "summary": "Oscar Delp, TE medical concern level"
     },
     {
-      "id": "fd1ed1d45370a68c",
-      "title": "Whatever Happened to Bucs’ 2025 Free Agents? Greg Gaines",
-      "link": "https://sports.yahoo.com/articles/whatever-happened-bucs-2025-free-040406161.html",
+      "id": "be5c33af1c93b23f",
+      "title": "Florida Attorney General Claims NFL’s Rooney Rule Is ‘Discrimination,' Demands League Suspend It",
+      "link": "https://sports.yahoo.com/articles/florida-attorney-general-claims-nfl-050515240.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-26T04:04:06+0000",
-      "summary": "Greg Gaines unexpectedly stepped up for the Tampa Bay Buccaneers. Now a free agent, his future NFL destination remains uncertain."
-    },
-    {
-      "id": "6f308df21b3647b3",
-      "title": "NFL mock draft: Arizona Cardinals land Miami pass rusher",
-      "link": "https://sports.yahoo.com/articles/nfl-mock-draft-arizona-cardinals-040237694.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-26T04:02:37+0000",
-      "summary": "The Cardinals land Miami EDGE Rueben Bain Jr. in Draft Wire's latest mock draft."
-    },
-    {
-      "id": "a5099fde25d3dace",
-      "title": "Gritiron Gang podcast: Brad Holmes talks free agency, financial constraints",
-      "link": "https://sports.yahoo.com/articles/gritiron-gang-podcast-brad-holmes-035024856.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-26T03:50:24+0000",
-      "summary": "Nolan Bianchi and Richard Silva talk about Brad Holmes' free-agency approach and they break down their NFL Mock Draft 3.0."
-    },
-    {
-      "id": "137a552085117f4e",
-      "title": "Ten athletes to take part in USD Pro Day",
-      "link": "https://sports.yahoo.com/articles/ten-athletes-part-usd-pro-034834205.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-26T03:48:34+0000",
-      "summary": "VERMILLION, S.D. (KELO) — The USD football team will host their annual Pro Day on Thursday in Vermillion. Ten athletes will be take part in the Pro Day activities, with several NFL scouts in attedance. Players at Pro Day: KELOLAND Sports will be at the Pro Day with coverage on the evening news."
+      "published": "2026-03-26T05:05:15+0000",
+      "summary": "&quot;Florida law is clear. Hiring decisions cannot be based on race,&quot; the state's attorney general said"
     },
     {
       "id": "ca29f4ecc229c579",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-03-12T18:00:13+0000",
       "summary": "Jones, who officially signed a new contract with the Colts on Thursday, said he intends to be ready to play by Week 1 of the 2026 season, if not sooner."
+    },
+    {
+      "id": "4513ade1dc452b22",
+      "title": "Colts re-sign QB Daniel Jones",
+      "link": "https://colts.com/news/colts-sign-qb-daniel-jones-to-contract-extension",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-12T17:39:29+0000",
+      "summary": "Jones started 13 games for the Colts in 2025 and finished the season third in the NFL in yards per attempt (8.1), fourth in completion percentage (68 percent) and sixth in passer rating (100.2)."
+    },
+    {
+      "id": "5d141a184eaa8e64",
+      "title": "Alec Pierce: This is where I wanted to be",
+      "link": "https://fox59.com/sports/colts/alec-pierce-this-is-where-i-wanted-to-be/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-12T00:34:55+0000",
+      "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
+    },
+    {
+      "id": "edc3a4868c43e9a5",
+      "title": "New opportunities, family and unfinished business: Why Alec Pierce's return to Colts was a no-brainer",
+      "link": "https://colts.com/news/alec-pierce-colts-contract-wide-receiver-reggie-wayne-daniel-jones-nfl-sauce-gardner-purdue-basketball",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-11T23:50:10+0000",
+      "summary": "Pierce officially signed his new contract with the Colts on Wednesday, motivated to return by everything from his relationship with Reggie Wayne to his own desire for greatness."
     }
   ],
   "links": [
