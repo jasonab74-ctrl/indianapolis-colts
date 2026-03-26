@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-26T22:28:26+00:00",
+  "updated": "2026-03-26T22:57:25+00:00",
   "items": [
+    {
+      "id": "7d5db15c1f8e4668",
+      "title": "Good news for Jaguars and top positional needs in 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/good-news-jaguars-top-positional-223908084.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-26T22:39:08+0000",
+      "summary": "One NFL analyst highlighted edge rusher and linebacker as loaded draft positions, aligning with key needs for the Jaguars this offseason."
+    },
     {
       "id": "0e4707891aff027f",
       "title": "Brady on comeback: NFL didn't 'like that idea'",
@@ -29,24 +38,6 @@
       "summary": "Ty Simpson felt like he made a final impression at Alabama's pro day in front of NFL scouts. He believes he's 'absolutely' a lock to be a first-round pick."
     },
     {
-      "id": "fcdc9e7f449839a4",
-      "title": "Ty Simpson reveals where he thinks he should be selected in NFL Draft",
-      "link": "https://sports.yahoo.com/articles/ty-simpson-reveals-where-thinks-220903089.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-26T22:09:03+0000",
-      "summary": "Ty Simpson is valuing himself highly entering the 2026 NFL Draft."
-    },
-    {
-      "id": "369f19379e5e1167",
-      "title": "NY Giants NFL Draft meetings tracker 2026: Players the Giants have met with",
-      "link": "https://sports.yahoo.com/articles/ny-giants-nfl-draft-meetings-190000727.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-26T22:06:06+0000",
-      "summary": "Could any of these players be Giants once the draft concludes?"
-    },
-    {
       "id": "a9f7aaa8e60bd99a",
       "title": "Colts Blue Zone Podcast 458: Evaluating the Offseason So Far",
       "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-458-evaluating-the-offseason-so-far/",
@@ -72,6 +63,15 @@
       "feed": "ESPN",
       "published": "2026-03-26T20:20:30+0000",
       "summary": "Field Yates unveils his latest NFL mock draft. Which top prospects could go in the opening 64 picks?"
+    },
+    {
+      "id": "031f2cd0dd6dfb88",
+      "title": "Colts backup free agent running back plucked by Falcons this early offseason",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/122807/colts-backup-free-agent-running-back-plucked-by-falcons-this-early-offseason",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-03-26T18:38:36+0000",
+      "summary": "The Atlanta Falcons announced on Thursday that the team has signed former Indianapolis Colts running back Tyler Goodson to a deal in free agency: Originally signed as an undrafted free agent out of Iowa by the Green Bay Packers, the 25-year-old running back had spent the last three seasons in Indianapolis, having been initially signed [&#8230;]"
     },
     {
       "id": "4d4db5e5de9e83c6",
@@ -261,15 +261,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-18T22:14:56+0000",
       "summary": "INDIANAPOLIS – It’s never wrong to connect the dots and consider relationships when teams look to add new talent and players seek to extend their careers. That remains true with the Indianapolis Colts and defensive coordinator Lou Anarumo. In the past week, the team has added nine defensive players. Two forged a relationship with Anarumo [...]"
-    },
-    {
-      "id": "386b34d175608dee",
-      "title": "Colts former longtime WR great T.Y. Hilton officially announces retirement",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122684/colts-former-longtime-wr-great-t-y-hilton-officially-announces-retirement",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-03-18T21:03:17+0000",
-      "summary": "Former Indianapolis Colts wideout great T.Y. Hilton took to Twitter (or X?) to officially announce his retirement, having not played professional football since 2022. Now 36-years-old, the 11-year veteran formally finishes his highly productive pro career with 638 receptions for 9,812 total receiving yards (15.4 ypr. avg.) and 53 touchdown receptions during 146 career games [&#8230;]"
     },
     {
       "id": "619e37835f8e4c3d",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-12T00:34:55+0000",
       "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
+    },
+    {
+      "id": "edc3a4868c43e9a5",
+      "title": "New opportunities, family and unfinished business: Why Alec Pierce's return to Colts was a no-brainer",
+      "link": "https://colts.com/news/alec-pierce-colts-contract-wide-receiver-reggie-wayne-daniel-jones-nfl-sauce-gardner-purdue-basketball",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-11T23:50:10+0000",
+      "summary": "Pierce officially signed his new contract with the Colts on Wednesday, motivated to return by everything from his relationship with Reggie Wayne to his own desire for greatness."
     }
   ],
   "links": [
