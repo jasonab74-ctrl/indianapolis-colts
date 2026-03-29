@@ -1,6 +1,33 @@
 {
-  "updated": "2026-03-29T14:33:10+00:00",
+  "updated": "2026-03-29T15:30:33+00:00",
   "items": [
+    {
+      "id": "11bf9469dd684921",
+      "title": "2026 NFL draft: Arizona Cardinals meet Arizona S Treydan Stukes",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-arizona-cardinals-151736909.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-29T15:17:36+0000",
+      "summary": "One name to watch for the Cardinals on Day 3 of the draft is Arizona safety Treydan Stukes."
+    },
+    {
+      "id": "3cd853aada101b1d",
+      "title": "NFL Draft Injury Analysis: Eli Heidenreich, RB - Navy",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-eli-151724387.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-29T15:17:24+0000",
+      "summary": "Eli Heidenreich, RB medical report"
+    },
+    {
+      "id": "45edb9ccf55a14e8",
+      "title": "Browns to predicted to pull off major trade during 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/browns-predicted-pull-off-major-151701877.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-29T15:17:01+0000",
+      "summary": "The Cleveland Browns had an abysmal offense in 2025, so they may be willing to make a major move this offseason in a bid to improve."
+    },
     {
       "id": "5911a926f828eadd",
       "title": "A former NFL GM's must-draft board for 2026: Tannenbaum pounds the table for 14 prospects",
@@ -27,33 +54,6 @@
       "feed": "ESPN",
       "published": "2026-03-29T15:00:12+0000",
       "summary": "Which receivers in the 2026 draft class will have the most success in the pros? We have projections for the top prospects."
-    },
-    {
-      "id": "823ce357e2d4e5bd",
-      "title": "2026 NFL draft: Updated defensive positional rankings",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-updated-defensive-142408796.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-29T14:24:08+0000",
-      "summary": "With just over three weeks to the 2026 NFL draft we've udpated and expanded our defensive positional rankings."
-    },
-    {
-      "id": "d78d1da2a846f4f4",
-      "title": "Replacement officials, kickoffs and other rule changes will be discussed at NFL’s annual meeting",
-      "link": "https://sports.yahoo.com/articles/replacement-officials-kickoffs-other-rule-141100965.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-29T14:11:00+0000",
-      "summary": "NFC coaches will speak to reporters on Monday, AFC coaches will do so on Tuesday and Commissioner Roger Goodell closes it out."
-    },
-    {
-      "id": "8b1232d7f7f1d09f",
-      "title": "NFL Draft Injury Analysis: Mike Washington, RB - Arkansas",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-mike-140920226.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-29T14:09:20+0000",
-      "summary": "Mike Washington, RB medical report"
     },
     {
       "id": "74d513032276d09d",
@@ -207,15 +207,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-25T00:28:56+0000",
       "summary": "Your bracket is busted. I know it is. If you’re like me, it was no longer perfect after the very first game. Hey, don’t throw shade. 18 million brackets were done because of that game. Anyway…the Indianapolis Colts have had their share of bracket busters along the way; moves that seemed like winners but ended [&#8230;]"
-    },
-    {
-      "id": "a7607894dbcb89eb",
-      "title": "Meet the 'Tokyo Toe' -- the NFL draft's most interesting kicker prospect",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48249122/kansei-matsuzawa-tokyo-toe-kicker-nfl-draft-2026-hawaii",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-24T18:06:26+0000",
-      "summary": "After learning how to kick on YouTube and teaching himself English, Kansei Matsuzawa's dream of playing in the NFL is nearing reality."
     },
     {
       "id": "dbf89e787d6bcafc",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-03-12T17:39:29+0000",
       "summary": "Jones started 13 games for the Colts in 2025 and finished the season third in the NFL in yards per attempt (8.1), fourth in completion percentage (68 percent) and sixth in passer rating (100.2)."
+    },
+    {
+      "id": "5d141a184eaa8e64",
+      "title": "Alec Pierce: This is where I wanted to be",
+      "link": "https://fox59.com/sports/colts/alec-pierce-this-is-where-i-wanted-to-be/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-12T00:34:55+0000",
+      "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
     }
   ],
   "links": [
