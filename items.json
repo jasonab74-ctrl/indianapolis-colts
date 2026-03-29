@@ -1,41 +1,23 @@
 {
-  "updated": "2026-03-29T15:30:33+00:00",
+  "updated": "2026-03-29T16:34:33+00:00",
   "items": [
     {
-      "id": "11bf9469dd684921",
-      "title": "2026 NFL draft: Arizona Cardinals meet Arizona S Treydan Stukes",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-arizona-cardinals-151736909.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-29T15:17:36+0000",
-      "summary": "One name to watch for the Cardinals on Day 3 of the draft is Arizona safety Treydan Stukes."
-    },
-    {
-      "id": "3cd853aada101b1d",
-      "title": "NFL Draft Injury Analysis: Eli Heidenreich, RB - Navy",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-eli-151724387.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-29T15:17:24+0000",
-      "summary": "Eli Heidenreich, RB medical report"
-    },
-    {
-      "id": "45edb9ccf55a14e8",
-      "title": "Browns to predicted to pull off major trade during 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/browns-predicted-pull-off-major-151701877.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-29T15:17:01+0000",
-      "summary": "The Cleveland Browns had an abysmal offense in 2025, so they may be willing to make a major move this offseason in a bid to improve."
+      "id": "c762f0ecea85ed91",
+      "title": "Predicting top wide receiver prospects' NFL stats: Who ranks No. 1 in the 2026 draft class?",
+      "link": "https://espn.com/nfl/story/_/id/48304971/2026-nfl-draft-wide-receiver-projections-stats-historical-comps-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-29T17:19:20+0000",
+      "summary": "Which receivers in the 2026 draft class will have the most success in the pros? We have projections for the top prospects."
     },
     {
       "id": "5911a926f828eadd",
-      "title": "A former NFL GM's must-draft board for 2026: Tannenbaum pounds the table for 14 prospects",
+      "title": "A former NFL GM's must-draft board: Tannenbaum pounds the table for 14 prospects",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48305662/2026-nfl-draft-tannenbaum-board-prospects-targets-seven-rounds-gm",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-29T15:00:25+0000",
-      "summary": "From Dillon Thieneman on Day 1 to Jaffer Murphy late on Day 3, Mike Tannenbaum picks the draft prospects he'd want to target across all seven rounds."
+      "published": "2026-03-29T17:19:20+0000",
+      "summary": "Mike Tannenbaum picks the draft prospects he'd want to target across all seven rounds."
     },
     {
       "id": "ef96792e0aa8320b",
@@ -43,17 +25,26 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48311668/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-simpson-love",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-29T15:00:25+0000",
+      "published": "2026-03-29T17:18:29+0000",
       "summary": "Is Jeremiyah Love really a possibility for the Titans at No. 4? Our draft experts weigh in with new intel."
     },
     {
-      "id": "c762f0ecea85ed91",
-      "title": "Predicting top wide receiver prospects' NFL stats: Who ranks No. 1 in the 2026 draft class?",
-      "link": "https://espn.com/nfl/story/_/id/48304971/2026-nfl-draft-wide-receiver-projections-stats-historical-comps-prospects",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-29T15:00:12+0000",
-      "summary": "Which receivers in the 2026 draft class will have the most success in the pros? We have projections for the top prospects."
+      "id": "7e85a8b992500574",
+      "title": "NFL Draft Injury Analysis: Demond Claiborne, RB - Wake Forest",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-demond-161216695.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-29T16:12:16+0000",
+      "summary": "Demond Claiborne, RB medical report"
+    },
+    {
+      "id": "19b9b1fcf6f5f0b3",
+      "title": "NFL Draft Injury Analysis: Kaytron Allen, RB - Penn State",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-injury-analysis-kaytron-161111519.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-29T16:11:11+0000",
+      "summary": "Kaytron Allen, RB medical report"
     },
     {
       "id": "74d513032276d09d",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-12T00:34:55+0000",
       "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
+    },
+    {
+      "id": "edc3a4868c43e9a5",
+      "title": "New opportunities, family and unfinished business: Why Alec Pierce's return to Colts was a no-brainer",
+      "link": "https://colts.com/news/alec-pierce-colts-contract-wide-receiver-reggie-wayne-daniel-jones-nfl-sauce-gardner-purdue-basketball",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-11T23:50:10+0000",
+      "summary": "Pierce officially signed his new contract with the Colts on Wednesday, motivated to return by everything from his relationship with Reggie Wayne to his own desire for greatness."
     }
   ],
   "links": [
