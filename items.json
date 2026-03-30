@@ -1,14 +1,68 @@
 {
-  "updated": "2026-03-30T13:17:41+00:00",
+  "updated": "2026-03-30T14:48:49+00:00",
   "items": [
+    {
+      "id": "0eb7592df33d9327",
+      "title": "Miller’s new NFL mock draft: Seven full rounds of projections, from first overall to Mr. Irrelevant",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T15:26:45+0000",
+      "summary": "Matt Miller predicted every pick in the 2026 draft, from the Raiders' selection at No. 1 to the Broncos' Mr. Irrelevant slot at the end of Round 7."
+    },
+    {
+      "id": "ef96792e0aa8320b",
+      "title": "Latest NFL draft buzz: Ty Simpson's pro day, Jeremiyah Love's ceiling and more",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48311668/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-simpson-love",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T15:26:45+0000",
+      "summary": "Is Jeremiyah Love really a possibility for the Titans at No. 4? Our draft experts weigh in with new intel."
+    },
+    {
+      "id": "cd59b426edfe99fd",
+      "title": "GM: Garrett deal tweak not a precursor to trade",
+      "link": "https://espn.com/nfl/story/_/id/48340452/browns-gm-myles-garrett-contract-tweak-unrelated-trade",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T15:25:10+0000",
+      "summary": "The modified language in Myles Garrett's contract is unrelated to a possible trade for the NFL's reigning Defensive Player of the Year, Browns general manager Andrew Berry said Sunday."
+    },
     {
       "id": "cf0b29bbc0ee7be6",
       "title": "Sources: NFL set to begin hiring replacement refs",
       "link": "https://espn.com/nfl/story/_/id/48344034/nfl-begin-hiring-replacement-officials-given-state-negotiations-nfl-referees-association",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-30T14:15:19+0000",
+      "published": "2026-03-30T15:25:10+0000",
       "summary": "NFL owners are \"alarmed\" by the state of negotiations with the NFL Referees Association and have authorized staff members to begin hiring and onboarding replacement officials in the coming weeks, league sources said Sunday."
+    },
+    {
+      "id": "0e7cda30195f7e44",
+      "title": "NFL: Stop vulnerable prediction market trades",
+      "link": "https://espn.com/nfl/story/_/id/48338843/nfl-asks-prediction-markets-stop-manipulable-trading",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T15:25:10+0000",
+      "summary": "The NFL asked prediction market operators to refrain from offering trades on events that can be easily manipulated or determined in advance."
+    },
+    {
+      "id": "c583709c95771665",
+      "title": "Lynch: 49ers' injury conspiracy 'big nothing burger'",
+      "link": "https://espn.com/nfl/story/_/id/48340939/lynch-49ers-injury-conspiracy-burger",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T15:25:10+0000",
+      "summary": "Speaking Sunday afternoon at the NFL's annual meetings, 49ers GM John Lynch ruled out one conspiracy theory behind the team's avalanche of injuries in 2025."
+    },
+    {
+      "id": "93409da4b335f788",
+      "title": "🏈 Early look at 2027 free agency: The top players",
+      "link": "https://espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T15:25:10+0000",
+      "summary": "Which top players might be available in next year's NFL free agency? We picked out 49 stars to keep an eye on."
     },
     {
       "id": "bb25c14d72ada8bc",
@@ -20,15 +74,6 @@
       "summary": "Colston Loveland and Tyler Warren set the bar high last year, and Oregon's Kenyon Sadiq has a shot to reach it."
     },
     {
-      "id": "0eb7592df33d9327",
-      "title": "Miller's seven-round NFL mock draft: Let's project landing spots for 257 prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T13:22:07+0000",
-      "summary": "Matt Miller predicted every pick in the 2026 draft, from the Raiders' selection at No. 1 to the Broncos' Mr. Irrelevant slot at the end of Round 7."
-    },
-    {
       "id": "5d207362a99fda8b",
       "title": "Keeping Colts in the family: Why the Irsay sisters are shunning private equity (for now)",
       "link": "https://espn.com/nfl/story/_/id/48342632/colts-carlie-irsay-gordon-open-private-equity-help-not-now",
@@ -36,42 +81,6 @@
       "feed": "ESPN",
       "published": "2026-03-30T13:03:41+0000",
       "summary": "Renovations to Lucas Oil Stadium will be costly, and Irsay-Gordon acknowledged diversified funding could help."
-    },
-    {
-      "id": "cd59b426edfe99fd",
-      "title": "GM: Garrett deal tweak not a precursor to trade",
-      "link": "https://espn.com/nfl/story/_/id/48340452/browns-gm-myles-garrett-contract-tweak-unrelated-trade",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T12:29:21+0000",
-      "summary": "The modified language in Myles Garrett's contract is unrelated to a possible trade for the NFL's reigning Defensive Player of the Year, Browns general manager Andrew Berry said Sunday."
-    },
-    {
-      "id": "c583709c95771665",
-      "title": "Lynch: 49ers' injury conspiracy 'big nothing burger'",
-      "link": "https://espn.com/nfl/story/_/id/48340939/lynch-49ers-injury-conspiracy-burger",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T12:29:21+0000",
-      "summary": "Speaking Sunday afternoon at the NFL's annual meetings, 49ers GM John Lynch ruled out one conspiracy theory behind the team's avalanche of injuries in 2025."
-    },
-    {
-      "id": "ca29f4ecc229c579",
-      "title": "🏈 Yates' mock draft: Predicting Rounds 1 & 2",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48259253/2026-nfl-mock-draft-two-rounds-64-picks-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T12:29:21+0000",
-      "summary": "Field Yates unveils his latest NFL mock draft, projecting two full rounds. Which top prospects could go in the opening 64 picks?"
-    },
-    {
-      "id": "ef96792e0aa8320b",
-      "title": "Latest NFL draft buzz: Ty Simpson's pro day, Jeremiyah Love's ceiling and more",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48311668/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-simpson-love",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T12:29:17+0000",
-      "summary": "Is Jeremiyah Love really a possibility for the Titans at No. 4? Our draft experts weigh in with new intel."
     },
     {
       "id": "4bae23bce801ae00",
@@ -144,15 +153,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-28T03:54:35+0000",
       "summary": "While the first frenzied waves of free agency are over, the Indianapolis Colts still have a few key roster holes to fill this early offseason, particularly at defensive end, linebacker, wide receiver, and potentially safety. We’ll take a look at the best remaining free agent options at each position: Defensive End With a pair of [&#8230;]"
-    },
-    {
-      "id": "93409da4b335f788",
-      "title": "An early look at 2027 free agency: Which playmakers could be available next March?",
-      "link": "https://espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-28T02:22:41+0000",
-      "summary": "Which top players might be available in next year's NFL free agency? We picked out 50 stars to keep an eye on."
     },
     {
       "id": "fdaef6843dfffcd2",
