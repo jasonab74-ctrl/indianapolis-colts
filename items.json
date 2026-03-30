@@ -1,50 +1,95 @@
 {
-  "updated": "2026-03-30T20:42:56+00:00",
+  "updated": "2026-03-30T21:40:49+00:00",
   "items": [
-    {
-      "id": "dd8b3ebc0d5a685e",
-      "title": "Browns pull proposal to trade picks 5 years out",
-      "link": "https://espn.com/nfl/story/_/id/48348462/sources-browns-pull-proposal-allow-trades-5-years-out",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T21:29:52+0000",
-      "summary": "The Browns have withdrawn their rule proposal to allow NFL teams to trade draft picks five years into the future instead of three, according to NFL Network."
-    },
     {
       "id": "93409da4b335f788",
       "title": "🏈 Early look at 2027 free agency: The top players",
       "link": "https://espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-30T21:29:52+0000",
+      "published": "2026-03-30T21:59:44+0000",
       "summary": "Which top players might be available in next year's NFL free agency? We picked out 49 stars to keep an eye on."
     },
     {
-      "id": "27bd55a8c21bf01e",
-      "title": "Top Expert Projects 2 Big Defensive Adds for KC Chiefs in Latest NFL Mock Draft",
-      "link": "https://sports.yahoo.com/articles/top-expert-projects-2-big-202626376.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-30T20:26:26+0000",
-      "summary": "The 2026 NFL Draft is right around the corner—just a few weeks out—and the Kansas City Chiefs are sitting on [&#8230;]"
+      "id": "dd8b3ebc0d5a685e",
+      "title": "Browns pull proposal to trade picks 5 years out",
+      "link": "https://espn.com/nfl/story/_/id/48348462/sources-browns-pull-proposal-allow-trades-5-years-out",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T21:59:43+0000",
+      "summary": "The Browns have withdrawn their rule proposal to allow NFL teams to trade draft picks five years into the future instead of three, according to NFL Network."
     },
     {
-      "id": "9dace61ac1ae876c",
-      "title": "NFL confirms flag football partnership with Tiger Woods' TMRW Sports, backed by Tom Brady, Peyton Manning, Serena Williams",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-confirms-flag-football-partnership-with-tiger-woods-tmrw-sports-backed-by-tom-brady-peyton-manning-serena-williams-202455517.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-30T20:24:55+0000",
-      "summary": "TMRW sports was founded by Tiger Woods and Rory McIlroy and is the venture behind the TGL indoor golf league."
+      "id": "bb25c14d72ada8bc",
+      "title": "Are tight ends making a first-round comeback? Why top NFL draft prospect Kenyon Sadiq could be next in line",
+      "link": "https://espn.com/nfl/story/_/id/48313813/will-oregon-kenyon-sadiq-build-tes-nfl-draft-momentum",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T21:59:39+0000",
+      "summary": "Colston Loveland and Tyler Warren set the bar high last year, and Oregon's Kenyon Sadiq has a shot to reach it."
     },
     {
-      "id": "155e71f60f98ab0e",
-      "title": "Cleveland Browns quarterback Shedeur Sanders makes big announcement",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-quarterback-shedeur-sanders-202033655.html",
+      "id": "0c5c053701096ff0",
+      "title": "2026 NFL Draft wide receiver rankings: 5 could go in 1st round, so who's No. 1?",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-draft-wide-receiver-rankings-5-could-go-in-1st-round-so-whos-no-1-212828846.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-30T20:20:33+0000",
-      "summary": "The NFL offseason has reached the league meetings stage. Soon, franchises will gather for the 2026 NFL Draft, where fresh talent will join new teams. Last year, one of the biggest draft slides occurred when quarterback Shedeur Sanders fell to…"
+      "published": "2026-03-30T21:28:28+0000",
+      "summary": "Here are the top 10 wide receiver prospects of this draft class according to Nate Tice and Charles McDonald, including a tie at No. 7."
+    },
+    {
+      "id": "1fbbed6ca35813f3",
+      "title": "NFL announces Super Bowl LXIII will be hosted at Allegiant Stadium in Las Vegas in 2029",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-announces-super-bowl-lxiii-will-be-hosted-at-allegiant-stadium-in-las-vegas-in-2029-212531141.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-30T21:25:31+0000",
+      "summary": "The Super Bowl is coming back to Las Vegas."
+    },
+    {
+      "id": "60dac681c0e62556",
+      "title": "Will the NFL season expand? Owners weigh in at League Meeting",
+      "link": "https://sports.yahoo.com/articles/nfl-season-expand-owners-weigh-211330822.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-30T21:13:30+0000",
+      "summary": "Discussions heated up at the NFL League Meeting this week on whether or not the regular season show continue to grow."
+    },
+    {
+      "id": "568c1bad0bca9f5f",
+      "title": "NFL gets major financial backing for professional flag football league",
+      "link": "https://sports.yahoo.com/articles/nfl-gets-major-financial-backing-211220027.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-30T21:12:20+0000",
+      "summary": "The NFL announced that it is launching a professional flag football league, and it already has some serious financial investment."
+    },
+    {
+      "id": "caa58f2f9623ed3f",
+      "title": "Vikings signing of Kyler Murray labeled as 'intriguing' by analyst",
+      "link": "https://sports.yahoo.com/articles/vikings-signing-kyler-murray-labeled-210930351.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-30T21:09:30+0000",
+      "summary": "CBS Sports believes Kyler Murray is one of the NFL's most intriguing free agent signings because of what Kevin O'Connell can do with him."
+    },
+    {
+      "id": "8cb9a217d915c9a4",
+      "title": "Patriots Insider Predicts Team Will Land 21-Sack Michigan Product In Second Round",
+      "link": "https://sports.yahoo.com/articles/patriots-insider-predicts-team-land-210738994.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-30T21:07:38+0000",
+      "summary": "The New England Patriots are in the market for some pass rush help, and they could land some in the second round of the upcoming NFL Draft."
+    },
+    {
+      "id": "2c896e034ed20aeb",
+      "title": "What is the Vikings most valuable trade asset in 2026?",
+      "link": "https://sports.yahoo.com/articles/vikings-most-valuable-trade-asset-210725005.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-30T21:07:25+0000",
+      "summary": "Every team has some valuable assetts, but who is at the top of the list heading towards the NFL Draft?"
     },
     {
       "id": "5911a926f828eadd",
@@ -90,15 +135,6 @@
       "feed": "Colts.com",
       "published": "2026-03-30T16:00:56+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back amid plenty of college hosting their annual Pro Days on campuses across the country."
-    },
-    {
-      "id": "bb25c14d72ada8bc",
-      "title": "Are tight ends making a first-round comeback? Why top NFL draft prospect Kenyon Sadiq could be next in line",
-      "link": "https://espn.com/nfl/story/_/id/48313813/will-oregon-kenyon-sadiq-build-tes-nfl-draft-momentum",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T13:24:07+0000",
-      "summary": "Colston Loveland and Tyler Warren set the bar high last year, and Oregon's Kenyon Sadiq has a shot to reach it."
     },
     {
       "id": "4bae23bce801ae00",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-12T22:04:32+0000",
       "summary": "INDIANAPOLIS – One by one, the pieces have fallen into place. First, re-sign explosive receiver, Alec Pierce. Next, re-sign quarterback Daniel Jones. They represented general manager Chris Ballard’s overriding offseason priorities, and both boxes have been checked off. Now what? There will be more additions and subtractions as the 2026 roster crystallizes, but owner Carlie [...]"
-    },
-    {
-      "id": "9eb02f8eb81210ea",
-      "title": "5 Colts Things: Why Colts (and NFL analysts) believe in plan for Daniel Jones, plus a player comparison that isn't Mayfield, Darnold or Smith",
-      "link": "https://colts.com/news/daniel-jones-plan-2026-season-achilles-recovery-timeline-sam-darnold-baker-mayfield-comparison",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T20:30:18+0000",
-      "summary": "The Colts officially re-signed Jones on Thursday, keeping him behind center in Indianapolis with an eye on replicating the success he and the team had over the first 10 games of 2025."
-    },
-    {
-      "id": "94f458c1e645fd4f",
-      "title": "Colts sign free agent DE Arden Key",
-      "link": "https://colts.com/news/colts-sign-free-agent-de-arden-key",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T18:25:52+0000",
-      "summary": "The Colts signed Key, who spent the last three seasons with the Tennessee Titans, on Thursday."
-    },
-    {
-      "id": "0e647b275cbfe54f",
-      "title": "Colts sign free agent DE Micheal Clemons",
-      "link": "https://colts.com/news/colts-sign-free-agent-de-micheal-clemons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T18:25:26+0000",
-      "summary": "Clemons compiled 8.5 sacks, 13 tackles for loss and 20 quarterback hits in four seasons with the New York Jets."
-    },
-    {
-      "id": "dbf7ffcc1fbc2d9e",
-      "title": "Daniel Jones progressing well through Achilles injury, expects to be '100 percent' for Week 1 of 2026 season",
-      "link": "https://colts.com/news/daniel-jones-progressing-well-through-achilles-injury-expects-to-be-100-percent-for-week-1-of-2026-season",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-12T18:00:13+0000",
-      "summary": "Jones, who officially signed a new contract with the Colts on Thursday, said he intends to be ready to play by Week 1 of the 2026 season, if not sooner."
     }
   ],
   "links": [
