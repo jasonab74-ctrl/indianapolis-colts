@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-30T10:15:43+00:00",
+  "updated": "2026-03-30T11:32:35+00:00",
   "items": [
-    {
-      "id": "cf0b29bbc0ee7be6",
-      "title": "Sources: NFL set to begin hiring replacement refs",
-      "link": "https://espn.com/nfl/story/_/id/48344034/nfl-begin-hiring-replacement-officials-given-state-negotiations-nfl-referees-association",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T04:09:34+0000",
-      "summary": "NFL owners are \"alarmed\" by the state of negotiations with the NFL Referees Association and have authorized staff members to begin hiring and onboarding replacement officials in the coming weeks, league sources said Sunday."
-    },
     {
       "id": "cd59b426edfe99fd",
       "title": "GM: Garrett deal tweak not a precursor to trade",
       "link": "https://espn.com/nfl/story/_/id/48340452/browns-gm-myles-garrett-contract-tweak-unrelated-trade",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-30T02:58:05+0000",
+      "published": "2026-03-30T12:29:21+0000",
       "summary": "The modified language in Myles Garrett's contract is unrelated to a possible trade for the NFL's reigning Defensive Player of the Year, Browns general manager Andrew Berry said Sunday."
+    },
+    {
+      "id": "cf0b29bbc0ee7be6",
+      "title": "Sources: NFL set to begin hiring replacement refs",
+      "link": "https://espn.com/nfl/story/_/id/48344034/nfl-begin-hiring-replacement-officials-given-state-negotiations-nfl-referees-association",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T12:29:21+0000",
+      "summary": "NFL owners are \"alarmed\" by the state of negotiations with the NFL Referees Association and have authorized staff members to begin hiring and onboarding replacement officials in the coming weeks, league sources said Sunday."
     },
     {
       "id": "c583709c95771665",
@@ -25,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48340939/lynch-49ers-injury-conspiracy-burger",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-30T02:58:05+0000",
+      "published": "2026-03-30T12:29:21+0000",
       "summary": "Speaking Sunday afternoon at the NFL's annual meetings, 49ers GM John Lynch ruled out one conspiracy theory behind the team's avalanche of injuries in 2025."
     },
     {
@@ -34,8 +34,26 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48259253/2026-nfl-mock-draft-two-rounds-64-picks-field-yates",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-03-30T02:58:05+0000",
+      "published": "2026-03-30T12:29:21+0000",
       "summary": "Field Yates unveils his latest NFL mock draft, projecting two full rounds. Which top prospects could go in the opening 64 picks?"
+    },
+    {
+      "id": "0eb7592df33d9327",
+      "title": "Miller's seven-round NFL mock draft: Let's project landing spots for 257 prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T12:29:17+0000",
+      "summary": "Matt Miller predicted every pick in the 2026 draft, from the Raiders' selection at No. 1 to the Broncos' Mr. Irrelevant slot at the end of Round 7."
+    },
+    {
+      "id": "ef96792e0aa8320b",
+      "title": "Latest NFL draft buzz: Ty Simpson's pro day, Jeremiyah Love's ceiling and more",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48311668/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-simpson-love",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T12:29:17+0000",
+      "summary": "Is Jeremiyah Love really a possibility for the Titans at No. 4? Our draft experts weigh in with new intel."
     },
     {
       "id": "4bae23bce801ae00",
@@ -81,15 +99,6 @@
       "feed": "ESPN",
       "published": "2026-03-29T17:19:20+0000",
       "summary": "Mike Tannenbaum picks the draft prospects he'd want to target across all seven rounds."
-    },
-    {
-      "id": "ef96792e0aa8320b",
-      "title": "Latest NFL draft buzz: Ty Simpson's pro day, Jeremiyah Love's ceiling and more",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48311668/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-simpson-love",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-29T17:18:29+0000",
-      "summary": "Is Jeremiyah Love really a possibility for the Titans at No. 4? Our draft experts weigh in with new intel."
     },
     {
       "id": "d186c99e370f7928",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-12T17:39:29+0000",
       "summary": "Jones started 13 games for the Colts in 2025 and finished the season third in the NFL in yards per attempt (8.1), fourth in completion percentage (68 percent) and sixth in passer rating (100.2)."
-    },
-    {
-      "id": "5d141a184eaa8e64",
-      "title": "Alec Pierce: This is where I wanted to be",
-      "link": "https://fox59.com/sports/colts/alec-pierce-this-is-where-i-wanted-to-be/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-12T00:34:55+0000",
-      "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
     }
   ],
   "links": [
