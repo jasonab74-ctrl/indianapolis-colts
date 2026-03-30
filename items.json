@@ -1,6 +1,51 @@
 {
-  "updated": "2026-03-29T23:56:25+00:00",
+  "updated": "2026-03-30T02:42:03+00:00",
   "items": [
+    {
+      "id": "cf0b29bbc0ee7be6",
+      "title": "Sources: NFL set to begin hiring replacement refs",
+      "link": "https://espn.com/nfl/story/_/id/48344034/nfl-begin-hiring-replacement-officials-given-state-negotiations-nfl-referees-association",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T03:27:46+0000",
+      "summary": "NFL owners are \"alarmed\" by the state of negotiations with the NFL Referees Association and have authorized staff members to begin hiring and onboarding replacement officials in the coming weeks, league sources said Sunday."
+    },
+    {
+      "id": "cd59b426edfe99fd",
+      "title": "GM: Garrett deal tweak not a precursor to trade",
+      "link": "https://espn.com/nfl/story/_/id/48340452/browns-gm-myles-garrett-contract-tweak-unrelated-trade",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T02:58:05+0000",
+      "summary": "The modified language in Myles Garrett's contract is unrelated to a possible trade for the NFL's reigning Defensive Player of the Year, Browns general manager Andrew Berry said Sunday."
+    },
+    {
+      "id": "c583709c95771665",
+      "title": "Lynch: 49ers' injury conspiracy 'big nothing burger'",
+      "link": "https://espn.com/nfl/story/_/id/48340939/lynch-49ers-injury-conspiracy-burger",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T02:58:05+0000",
+      "summary": "Speaking Sunday afternoon at the NFL's annual meetings, 49ers GM John Lynch ruled out one conspiracy theory behind the team's avalanche of injuries in 2025."
+    },
+    {
+      "id": "ca29f4ecc229c579",
+      "title": "🏈 Yates' mock draft: Predicting Rounds 1 & 2",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48259253/2026-nfl-mock-draft-two-rounds-64-picks-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-30T02:58:05+0000",
+      "summary": "Field Yates unveils his latest NFL mock draft, projecting two full rounds. Which top prospects could go in the opening 64 picks?"
+    },
+    {
+      "id": "4bae23bce801ae00",
+      "title": "Carlie Irsay-Gordon: Chemistry between Shane Steichen, Daniel Jones key",
+      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-chemistry-between-shane-steichen-daniel-jones-key/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-30T00:18:05+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts’ immediate future is a matter of chemistry. Carlie Irsay-Gordon made that clear while meeting with a handful of her team’s media Sunday at the NFL owners’ meetings in Phoenix. The Colts essentially decided to head into 2026 following the same blueprint that had them among the league’s best teams after [...]"
+    },
     {
       "id": "bf5fcc727c8cb18a",
       "title": "Browns GM Andrew Berry speaks on swirling Myles Garrett trade rumors",
@@ -18,42 +63,6 @@
       "feed": "Colts.com",
       "published": "2026-03-29T22:25:10+0000",
       "summary": "Colts Owner and CEO Carlie Irsay-Gordon on Sunday went into detail as to why she believes her team can hit the ground running in 2026 after a disappointing final seven games of the 2025 season."
-    },
-    {
-      "id": "cd59b426edfe99fd",
-      "title": "GM: Garrett deal tweak not a precursor to trade",
-      "link": "https://espn.com/nfl/story/_/id/48340452/browns-gm-myles-garrett-contract-tweak-unrelated-trade",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-29T21:57:40+0000",
-      "summary": "The modified language in Myles Garrett's contract is unrelated to a possible trade for the NFL's reigning Defensive Player of the Year, Browns general manager Andrew Berry said Sunday."
-    },
-    {
-      "id": "c583709c95771665",
-      "title": "Lynch: 49ers' injury conspiracy 'big nothing burger'",
-      "link": "https://espn.com/nfl/story/_/id/48340939/lynch-49ers-injury-conspiracy-burger",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-29T21:57:40+0000",
-      "summary": "Speaking Sunday afternoon at the NFL's annual meetings, 49ers GM John Lynch ruled out one conspiracy theory behind the team's avalanche of injuries in 2025."
-    },
-    {
-      "id": "74d513032276d09d",
-      "title": "Florida AG challenges NFL to abolish Rooney Rule",
-      "link": "https://espn.com/nfl/story/_/id/48322280/florida-attorney-general-says-nfl-get-rid-rooney-rule",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-29T21:57:40+0000",
-      "summary": "Florida's attorney general has sent a letter to NFL commissioner Roger Goodell to express concern that the Rooney Rule is \"blatant race and sex discrimination\" and that hiring decisions should be based on merit only."
-    },
-    {
-      "id": "ca29f4ecc229c579",
-      "title": "🏈 Yates' mock draft: Predicting Rounds 1 & 2",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48259253/2026-nfl-mock-draft-two-rounds-64-picks-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-29T21:57:40+0000",
-      "summary": "Field Yates unveils his latest NFL mock draft, projecting two full rounds. Which top prospects could go in the opening 64 picks?"
     },
     {
       "id": "c762f0ecea85ed91",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-12T00:34:55+0000",
       "summary": "INDIANAPOLIS – Alec Pierce knew – or hoped – how his first excursion into the NFL’s free-agency world would end. He already had found a home. “At the bottom of my heart, this is where I wanted to be,’’ he said Wednesday after ensuring that by signing a four-year, $116 million contract that includes up [...]"
-    },
-    {
-      "id": "edc3a4868c43e9a5",
-      "title": "New opportunities, family and unfinished business: Why Alec Pierce's return to Colts was a no-brainer",
-      "link": "https://colts.com/news/alec-pierce-colts-contract-wide-receiver-reggie-wayne-daniel-jones-nfl-sauce-gardner-purdue-basketball",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-11T23:50:10+0000",
-      "summary": "Pierce officially signed his new contract with the Colts on Wednesday, motivated to return by everything from his relationship with Reggie Wayne to his own desire for greatness."
     }
   ],
   "links": [
