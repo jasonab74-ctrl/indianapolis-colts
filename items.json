@@ -1,41 +1,122 @@
 {
-  "updated": "2026-03-31T21:02:29+00:00",
+  "updated": "2026-03-31T22:01:53+00:00",
   "items": [
     {
-      "id": "e6a5bad8f8fb0102",
-      "title": "Banks lands in back end of USA TODAY first-round NFL mock draft",
-      "link": "https://sports.yahoo.com/articles/banks-lands-back-end-usa-204515098.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-31T20:45:15+0000",
-      "summary": "Caleb Banks is a projected first-rounder in the 2026 NFL draft by several outlets. Here's where USA TODAY sees the former Florida Gator going."
+      "id": "bb3d887a44524783",
+      "title": "NFL owners OK two significant replay changes",
+      "link": "https://espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:55:53+0000",
+      "summary": "NFL owners approved a contingency plan Tuesday to centralize officiating in the event of a work stoppage as negotiations continue on a CBA with the NFL Referees Association."
     },
     {
-      "id": "0a3648e51a1fe8d8",
-      "title": "NFL makes huge rule change following Steelers WR DK Metcalf incident",
-      "link": "https://sports.yahoo.com/articles/nfl-makes-huge-rule-change-203850523.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-31T20:38:50+0000",
-      "summary": "The National Football League has made an important rule change that is somewhat connected to DK Metcalf."
+      "id": "b99394f0189bfebd",
+      "title": "Sources: OBJ meets with Giants at NFL meetings",
+      "link": "https://espn.com/nfl/story/_/id/48360179/sources-beckham-jr-meets-harbaugh-giants-nfl-meetings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:55:53+0000",
+      "summary": "Odell Beckham Jr. came to the Arizona Biltmore during the NFL's annual meetings and met with Giants coach John Harbaugh on Monday about potentially joining the team, sources told ESPN."
     },
     {
-      "id": "f705b1f767a406f8",
-      "title": "Jason Kelce Says It's 'Bulls---' Former Lions Lineman Frank Ragnow Has to Return His Signing Bonus After Retiring",
-      "link": "https://sports.yahoo.com/articles/jason-kelce-says-bulls-former-203649307.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-03-31T20:36:49+0000",
-      "summary": "The retired NFL star is standing up for Ragnow, after the Lions asked for him to return part of his signing bonus"
+      "id": "094c7ac29a76cb92",
+      "title": "Jags OK'd to play '27 home games in Orlando",
+      "link": "https://espn.com/nfl/story/_/id/48360475/jaguars-okd-play-27-home-games-orlando-renovations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:55:53+0000",
+      "summary": "The Jaguars' proposal to play their home games in the 2027 season in Orlando, Florida, during the final year of the $1.4 billion renovation of EverBank Stadium was unanimously approved by the NFL's owners Tuesday."
     },
     {
-      "id": "c33b75a02fed610a",
-      "title": "Browns HC Todd Monken perfectly described this NFL Draft WR prospect",
-      "link": "https://sports.yahoo.com/articles/browns-hc-todd-monken-perfectly-203606350.html",
+      "id": "634b8240d0485807",
+      "title": "Fired female official sues NFL, citing hostilities",
+      "link": "https://espn.com/nfl/story/_/id/48359085/woman-officiate-nfl-games-sues-reinstatement-damages",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:55:53+0000",
+      "summary": "Robin DeLorenzo, one of the first female NFL officials, has sued the league after being fired in 2025, citing gender-based scrutiny, humiliation and open hostility."
+    },
+    {
+      "id": "93409da4b335f788",
+      "title": "🏈 Early look at 2027 free agency: The top players",
+      "link": "https://espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:55:53+0000",
+      "summary": "Which top players might be available in next year's NFL free agency? We picked out 49 stars to keep an eye on."
+    },
+    {
+      "id": "3f222efb967539dd",
+      "title": "Do CFB starts matter when evaluating QBs in the draft? Ty Simpson is the latest test case",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48349533/nfl-draft-quarterback-starts-threshold-lack-success-ty-simpson",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:55:51+0000",
+      "summary": "The Alabama product is regarded as the 2026 NFL draft's QB2 despite having far fewer starts (15) than most first-round signal-callers."
+    },
+    {
+      "id": "5b6c3bb2e2677523",
+      "title": "18-game regular season? Mixed reaction by NFL owners, coaches",
+      "link": "https://espn.com/nfl/story/_/id/48352133/18-game-regular-season-cba-nfl-owners-coaches-weigh-league-meetings-phoenix",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-03-31T22:54:44+0000",
+      "summary": "Colts, Chiefs, Browns and Patriots owners among those talking about the feasibility of expanding the schedule."
+    },
+    {
+      "id": "12f3cf7c747d2049",
+      "title": "Las Vegas Raiders NFL Draft “X” Receiver Targets",
+      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-nfl-draft-214400511.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-03-31T20:36:06+0000",
-      "summary": "Asked for what he looks for in wide receivers, Browns head coach Todd Monken subconsciously described one particular NFL Draft prospect"
+      "published": "2026-03-31T21:44:00+0000",
+      "summary": "These receivers could be fits"
+    },
+    {
+      "id": "0dfc3cf72c2863a7",
+      "title": "Jaguars to play home games in 2027 at Orlando's Camping World Stadium",
+      "link": "https://sports.yahoo.com/articles/jaguars-play-home-games-2027-214343231.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-31T21:43:43+0000",
+      "summary": "The Jacksonville Jaguars are going to Disney World!  The Jaguars will play most of their 2027 home games in Orlando after NFL owners rubber-stamped a proposal Tuesday that has been years in the making and essentially a done deal for months.  Jacksonville started searching for a home away from home when it unveiled plans for a “stadium of the future” in 2023."
+    },
+    {
+      "id": "29299bebd43b22f3",
+      "title": "Sashi Brown breaks his silence on Ravens’ near-trade for Maxx Crosby",
+      "link": "https://sports.yahoo.com/articles/sashi-brown-breaks-silence-ravens-213927905.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-31T21:39:27+0000",
+      "summary": "Speaking at the 2026 NFL meetings, Brown acknowledged both the excitement and the disappointment tied to the failed deal."
+    },
+    {
+      "id": "f35e3bfec41880ac",
+      "title": "Bianchi: Hallelujah, it’s official! The Jaguars and the NFL are coming to Oooooor-lan-do!",
+      "link": "https://sports.yahoo.com/articles/bianchi-hallelujah-official-jaguars-nfl-213900913.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-31T21:39:00+0000",
+      "summary": "Orlando, this is no longer a drill or a dream. This is no longer speculation, rumor or civic wishful thinking. This is now official, and this is a moment this city has been building toward for decades The NFL is coming to Orlando. The Teal is real! The league announced Tuesday that the Jacksonville Jaguars will play the entire 2027 season at Camping World Stadium while EverBank Stadium in ..."
+    },
+    {
+      "id": "b9c2af34cca9b11b",
+      "title": "NFL owners approve Jaguars playing 2027 games in Orlando",
+      "link": "https://sports.yahoo.com/articles/nfl-owners-approve-jaguars-playing-213559077.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-31T21:35:59+0000",
+      "summary": "By unanimous vote, NFL owners on Tuesday, March 31, approved the Jacksonville Jaguars’ proposal to play their 2027 home games in Orlando."
+    },
+    {
+      "id": "f6332b6bd1343822",
+      "title": "NFL kickoff rules 2026: League makes changes to onside kick, more",
+      "link": "https://sports.yahoo.com/articles/nfl-kickoff-rules-2026-league-213518217.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-03-31T21:35:18+0000",
+      "summary": "The NFL had limited onside kicks as part of its switch to the dynamic kickoff in 2024. That will no longer be the case in 2026."
     },
     {
       "id": "7b2fda0d828c7fc5",
@@ -56,33 +137,6 @@
       "summary": "According to longtime general manager Chris Ballard, the Indianapolis Colts are still evaluating options at their depleted linebacker position—including both externally and internally, with a mention of even ascending 3rd-year linebacker Jaylon Carlies as a realistic replacement possibility (via Stampede Blue’s Noah Compton): After the Colts traded former All-Pro veteran linebacker Zaire Franklin to the [&#8230;]"
     },
     {
-      "id": "bb3d887a44524783",
-      "title": "NFL owners OK two significant replay changes",
-      "link": "https://espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T19:55:34+0000",
-      "summary": "NFL owners approved a contingency plan Tuesday to centralize officiating in the event of a work stoppage as negotiations continue on a CBA with the NFL Referees Association."
-    },
-    {
-      "id": "634b8240d0485807",
-      "title": "Fired female official sues NFL, citing hostilities",
-      "link": "https://espn.com/nfl/story/_/id/48359085/woman-officiate-nfl-games-sues-reinstatement-damages",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T19:55:34+0000",
-      "summary": "Robin DeLorenzo, one of the first female NFL officials, has sued the league after being fired in 2025, citing gender-based scrutiny, humiliation and open hostility."
-    },
-    {
-      "id": "93409da4b335f788",
-      "title": "🏈 Early look at 2027 free agency: The top players",
-      "link": "https://espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T19:55:34+0000",
-      "summary": "Which top players might be available in next year's NFL free agency? We picked out 49 stars to keep an eye on."
-    },
-    {
       "id": "21d08dcd63049418",
       "title": "Trade market for Colts QB Anthony Richardson has reportedly been ‘soft’ so far",
       "link": "https://stampedeblue.com/indianapolis-colts-rumors/122938/trade-market-for-colts-qb-anthony-richardson-has-reportedly-been-soft-so-far",
@@ -90,15 +144,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-31T19:33:56+0000",
       "summary": "According to ESPN’s Adam Schefter, the trade market for Indianapolis Colts quarterback Antony Richardson has so far been soft—meaning longtime general manager Chris Ballard hasn’t been compelled to move him quite yet: Despite reported initial interest from trade suitors such as the Cleveland Browns, Green Bay Packers, Los Angeles Rams, and Washington Commanders, Ballard himself [&#8230;]"
-    },
-    {
-      "id": "5b6c3bb2e2677523",
-      "title": "18-game regular season? Mixed reaction by NFL owners, coaches",
-      "link": "https://espn.com/nfl/story/_/id/48352133/18-game-regular-season-cba-nfl-owners-coaches-weigh-league-meetings-phoenix",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T19:06:27+0000",
-      "summary": "Colts, Chiefs, Browns and Patriots owners among those talking about the feasibility of expanding the schedule."
     },
     {
       "id": "1be47e72e0fcdeff",
@@ -110,15 +155,6 @@
       "summary": "Downs had 58 catches for 566 yards in 2025, but the Colts envision the fourth-year wide receiver's role as being more significant in their 2026 offense."
     },
     {
-      "id": "3f222efb967539dd",
-      "title": "Do CFB starts matter when evaluating QBs in the draft? Ty Simpson is the latest test case",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48349533/nfl-draft-quarterback-starts-threshold-lack-success-ty-simpson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T13:09:03+0000",
-      "summary": "The Alabama product is regarded as the 2026 NFL draft's QB2 despite having far fewer starts (15) than most first-round signal-callers."
-    },
-    {
       "id": "652f879c1f7cbb6c",
       "title": "Colts ownership may believe in Daniel Jones, but do you?",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/122927/colts-ownership-may-believe-in-daniel-jones-but-do-you",
@@ -126,15 +162,6 @@
       "feed": "Stampede Blue",
       "published": "2026-03-31T12:37:00+0000",
       "summary": "This isn’t a critique of Daniel Jones’ toughness. This isn’t a critique of him as a person. This is solely a critique of whether you believe Jones is the right person to lead the Indianapolis Colts at quarterback. People who know him much better than I do say yes. Is that hot air sold to [&#8230;]"
-    },
-    {
-      "id": "d09b224473e6e7b0",
-      "title": "Robert Kraft sets expectation for 2026 squad with 'hardest schedule'",
-      "link": "https://espn.com/nfl/story/_/id/48348804/new-england-patriots-robert-kraft-expectation-2026-patriots-schedule",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T03:05:14+0000",
-      "summary": "Kraft addressed reporters in Arizona where the NFL's annual meetings are being held."
     },
     {
       "id": "deb5242723362572",
@@ -171,15 +198,6 @@
       "feed": "Colts.com",
       "published": "2026-03-30T22:33:48+0000",
       "summary": "The Colts turned over several key areas of their defense this offseason, with more work still yet to be done."
-    },
-    {
-      "id": "bb25c14d72ada8bc",
-      "title": "Are tight ends making a first-round comeback? Why top NFL draft prospect Kenyon Sadiq could be next in line",
-      "link": "https://espn.com/nfl/story/_/id/48313813/will-oregon-kenyon-sadiq-build-tes-nfl-draft-momentum",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-30T21:59:39+0000",
-      "summary": "Colston Loveland and Tyler Warren set the bar high last year, and Oregon's Kenyon Sadiq has a shot to reach it."
     },
     {
       "id": "5d207362a99fda8b",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T19:30:28+0000",
       "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
-    },
-    {
-      "id": "b3f9653f48c88f59",
-      "title": "Colts re-sign TE Drew Ogletree",
-      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:02:04+0000",
-      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
-    },
-    {
-      "id": "10de0843d4b167f8",
-      "title": "Colts hold 7 picks in NFL Draft",
-      "link": "https://fox59.com/sports/colts/colts-hold-7-picks-in-nfl-draft/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T17:44:14+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts’ allotment of picks in the April 23-25 draft has been set. For now. With the trade of Michael Pittman Jr. and a seventh-round pick (No. 230) to the Pittsburgh Steelers becoming official Friday, the Colts received a sixth-round pick (No. 214). That brings their draft stash to seven picks. A [...]"
     }
   ],
   "links": [
