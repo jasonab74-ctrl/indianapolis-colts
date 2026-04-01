@@ -1,23 +1,50 @@
 {
-  "updated": "2026-04-01T10:54:52+00:00",
+  "updated": "2026-04-01T11:52:28+00:00",
   "items": [
     {
-      "id": "a569d070acb19e5e",
-      "title": "Bills 2026 NFL draft target: Scouting report for CB Julian Neal",
-      "link": "https://sports.yahoo.com/articles/bills-2026-nfl-draft-target-104522356.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-01T10:45:22+0000",
-      "summary": "Scouting report of cornerback Julian Neal, who may be a target for the Buffalo Bills at the 2026 draft."
+      "id": "3ecff2c3ae153004",
+      "title": "Solak's favorite NFL draft prospects to watch at every position: The best tape in the class",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48357403/2026-nfl-draft-all-tape-team-best-prospects-every-position-nussmeier-bernard-barham",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-01T12:25:53+0000",
+      "summary": "NFL scouts are watching a lot of tape as we get ready for the 2026 draft. Which underrated players jump off the screen? Ben Solak fills out his All-Film team."
     },
     {
-      "id": "b03170138fa3e96b",
-      "title": "How Much Are Men’s Final Four Tickets? Prices And Resale Costs",
-      "link": "https://sports.yahoo.com/articles/much-men-final-four-tickets-103603211.html",
+      "id": "4663b2544407d98c",
+      "title": "Eagles owners meetings notebook: From droning A.J. Brown chatter to Jeffrey Lurie&#8217;s stadium scuttlebutt, 5 things we heard",
+      "link": "https://sports.yahoo.com/articles/eagles-owners-meetings-notebook-droning-113448360.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-01T10:36:03+0000",
-      "summary": "Men's Final Four ticket prices, resale costs, how they compare to 2025, and more ahead of Saturday's semifinals at Lucas Oil Stadium, home of the Indianapolis Colts."
+      "published": "2026-04-01T11:34:48+0000",
+      "summary": "PHOENIX — A stained glass ceiling decoration tucked away in a Biltmore Hotel conference room provided a pop of color as Jeffrey Lurie effectively closed down the NFL owners meetings..."
+    },
+    {
+      "id": "144f74687ca1fbb9",
+      "title": "Broncos had (virtual) meetings with 3 quarterbacks in NFL draft",
+      "link": "https://sports.yahoo.com/articles/broncos-had-virtual-meetings-3-113018999.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-01T11:30:18+0000",
+      "summary": "The Broncos are scouting late-round quarterbacks in the 2026 NFL draft."
+    },
+    {
+      "id": "c384eb1dee9ed4eb",
+      "title": "How high should the Titans select an OT in the 2026 NFL Draft?",
+      "link": "https://sports.yahoo.com/articles/high-titans-select-ot-2026-113000030.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-01T11:30:00+0000",
+      "summary": "The Tennessee Titans have a long-term need at offensive tackle; should they address it during the 2026 NFL Draft?"
+    },
+    {
+      "id": "99751d3593ad3d6b",
+      "title": "NY Giants 2026 NFL Draft: Edge defender options on all 3 days of the draft",
+      "link": "https://sports.yahoo.com/articles/ny-giants-2026-nfl-draft-113000165.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-01T11:30:00+0000",
+      "summary": "The Giants are loaded on the edge, but what if they do want to add there?"
     },
     {
       "id": "62b3985c1a1025e4",
@@ -57,7 +84,7 @@
     },
     {
       "id": "bb3d887a44524783",
-      "title": "NFL owners OK two significant replay changes",
+      "title": "NFL owners approve 2 significant replay changes",
       "link": "https://espn.com/nfl/story/_/id/48358865/plan-assist-replacement-refs-five-approved-nfl-rules",
       "source": "ESPN",
       "feed": "ESPN",
@@ -66,7 +93,7 @@
     },
     {
       "id": "094c7ac29a76cb92",
-      "title": "Jags OK'd to play '27 home games in Orlando",
+      "title": "Jags OK'd to play 2027 home games in Orlando",
       "link": "https://espn.com/nfl/story/_/id/48360475/jaguars-okd-play-27-home-games-orlando-renovations",
       "source": "ESPN",
       "feed": "ESPN",
@@ -99,24 +126,6 @@
       "feed": "ESPN",
       "published": "2026-04-01T01:41:19+0000",
       "summary": "Colts, Chiefs, Browns and Patriots owners among those talking about the feasibility of expanding the schedule."
-    },
-    {
-      "id": "3f222efb967539dd",
-      "title": "Do CFB starts matter when evaluating QBs in the draft? Ty Simpson is the latest test case",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48349533/nfl-draft-quarterback-starts-threshold-lack-success-ty-simpson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T22:55:51+0000",
-      "summary": "The Alabama product is regarded as the 2026 NFL draft's QB2 despite having far fewer starts (15) than most first-round signal-callers."
-    },
-    {
-      "id": "7b2fda0d828c7fc5",
-      "title": "Best team fits for 20 draft prospects: We found matches for Mansoor Delane, Caleb Downs, Denzel Boston",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48346957/2026-nfl-draft-favorite-team-fits-20-top-prospects-reese-love-simpson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-03-31T20:14:01+0000",
-      "summary": "We took 20 NFL draft prospects who could get picked in Rounds 1 and 2 and found ideal scheme matches based on what each player does best."
     },
     {
       "id": "55b6bc364d64ee3e",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T19:30:28+0000",
       "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
-    },
-    {
-      "id": "b3f9653f48c88f59",
-      "title": "Colts re-sign TE Drew Ogletree",
-      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:02:04+0000",
-      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
     }
   ],
   "links": [
