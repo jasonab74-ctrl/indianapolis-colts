@@ -1,15 +1,6 @@
 {
-  "updated": "2026-04-02T06:10:58+00:00",
+  "updated": "2026-04-02T07:46:25+00:00",
   "items": [
-    {
-      "id": "492b329256dcf551",
-      "title": "NFL mock draft: Arizona Cardinals get Ty Simpson in Round 2",
-      "link": "https://sports.yahoo.com/articles/nfl-mock-draft-arizona-cardinals-050146724.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-02T05:01:46+0000",
-      "summary": "Draft Wire's new mock draft goes two rounds and the Cardinals get a quarterback."
-    },
     {
       "id": "e277e1bb484f5b5d",
       "title": "Goodell backs Rooney Rule amid litigation threat",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-03-13T17:30:46+0000",
       "summary": "The Colts own seven picks in the 2026 NFL Draft, beginning with the No. 47 overall pick in the second round."
+    },
+    {
+      "id": "7dbddf12f98e5e5f",
+      "title": "Colts acquire 2026 sixth-round pick in trade with Pittsburgh Steelers for wide receiver Michael Pittman Jr., 2026 seventh-round pick",
+      "link": "https://colts.com/news/colts-acquire-2026-sixth-round-pick-in-trade-with-pittsburgh-steelers-for-wide-receiver-michael-pittman-jr-2026-seventh-round-pick",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T17:15:45+0000",
+      "summary": "The Colts made the trade official on Friday."
     }
   ],
   "links": [
