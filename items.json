@@ -1,13 +1,40 @@
 {
-  "updated": "2026-04-02T17:48:57+00:00",
+  "updated": "2026-04-02T18:55:30+00:00",
   "items": [
+    {
+      "id": "138e8bda69d5a520",
+      "title": "Three-round NFL mock draft: Kiper, Miller, Reid and Yates' top 100 picks",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48357214/2026-nfl-mock-draft-three-rounds-kiper-miller-reid-yates-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-02T18:58:15+0000",
+      "summary": "We asked four NFL draft analysts to make picks in the first three rounds. Where do the top prospects land?"
+    },
+    {
+      "id": "be029651c50d779e",
+      "title": "These flaws could hold back the NFL draft's top QBs",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-02T18:58:15+0000",
+      "summary": "Each has something that could set them back."
+    },
+    {
+      "id": "7afd9d05c4158a90",
+      "title": "'Thank you football': LB Walker retires from NFL",
+      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-02T18:51:06+0000",
+      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
+    },
     {
       "id": "ef0cf75314d63653",
       "title": "Fanatics takes over exclusive NFL card license",
       "link": "https://espn.com/nfl/story/_/id/48375610/fanatics-takes-exclusive-nfl-trading-card-license",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-02T17:49:46+0000",
+      "published": "2026-04-02T18:51:06+0000",
       "summary": "A 20-year deal between Fanatics and the NFL has kicked in, consolidating the league's and players' union's trading card licenses under one company."
     },
     {
@@ -16,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/48370278/nflpa-supports-referees-cba-negotiations-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-02T17:49:46+0000",
+      "published": "2026-04-02T18:51:06+0000",
       "summary": "Player safety requires \"trained, professional officials on the field,\" NFLPA executive director JC Tretter said in a statement amid ongoing contract negotiations between the NFL and the NFL Referees Association."
     },
     {
@@ -25,17 +52,8 @@
       "link": "https://espn.com/nfl/story/_/id/48372927/expected-no-1-fernando-mendoza-puts-show-indiana-pro-day",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-02T17:49:46+0000",
+      "published": "2026-04-02T18:51:06+0000",
       "summary": "Expected No. 1 pick Fernando Mendoza threw roughly 56 passes in front of scouts from all 32 NFL teams and more than 100 members of the media Wednesday."
-    },
-    {
-      "id": "e277e1bb484f5b5d",
-      "title": "Goodell backs Rooney Rule amid litigation threat",
-      "link": "https://espn.com/nfl/story/_/id/48362846/goodell-backs-rooney-rule-says-diversity-benefit-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-02T17:49:46+0000",
-      "summary": "NFL commissioner Roger Goodell says he believes the Rooney Rule is \"consistent\" with hiring laws after recently being threatened by Florida's attorney general with potential civil litigation if the rule was not eliminated."
     },
     {
       "id": "0345d4028e4cb0bb",
@@ -43,8 +61,44 @@
       "link": "https://espn.com/nfl/story/_/id/48358306/nfl-owners-meetings-2026-buzz-annual-league-draft-phoenix",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-02T17:49:46+0000",
+      "published": "2026-04-02T18:51:06+0000",
       "summary": "The NFL's annual league meeting wrapped up Tuesday, and 30 of our reporters shared all the buzz from Phoenix."
+    },
+    {
+      "id": "79f03a06ddb61c97",
+      "title": "Colts' 4-year starter retires from NFL after 9 seasons with 4 teams",
+      "link": "https://sports.yahoo.com/articles/colts-4-starter-retires-nfl-184250439.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-02T18:42:50+0000",
+      "summary": "He was always a reliable player."
+    },
+    {
+      "id": "9018e297cb1306e3",
+      "title": "James Madison safety Jacob Thomas set for pre-draft visit with Packers",
+      "link": "https://sports.yahoo.com/articles/james-madison-safety-jacob-thomas-183729523.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-02T18:37:29+0000",
+      "summary": "NFL teams are allowed to host up to 30 draft-eligible players for in-person visits. The Packers will host James Madison safety Jacob Thomas."
+    },
+    {
+      "id": "c5becb869c54cd84",
+      "title": "James Madison safety Jacob Thomas set for pre-draft visit with Packers",
+      "link": "https://sports.yahoo.com/articles/james-madison-safety-jacob-thomas-183729854.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-02T18:37:29+0000",
+      "summary": "NFL teams are allowed to host up to 30 draft-eligible players for in-person visits. The Packers will host James Madison safety Jacob Thomas."
+    },
+    {
+      "id": "f2799c80a3914949",
+      "title": "Browns' 3-round mock draft from ESPN features two OL, one CB, and one WR",
+      "link": "https://sports.yahoo.com/articles/browns-3-round-mock-draft-183630542.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-02T18:36:30+0000",
+      "summary": "This would be a solid haul for the Browns in the 2026 NFL Draft."
     },
     {
       "id": "16e6dd52bdd5da17",
@@ -54,33 +108,6 @@
       "feed": "ESPN",
       "published": "2026-04-02T17:47:46+0000",
       "summary": "Here's what we learned during the NFL's annual league meeting in Phoenix this week."
-    },
-    {
-      "id": "81b397153e297e8c",
-      "title": "Bucs linebacker veteran announces immediate retirement from NFL at 30",
-      "link": "https://sports.yahoo.com/articles/bucs-linebacker-veteran-announces-immediate-173540808.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-02T17:35:40+0000",
-      "summary": "Anthony Walker Jr., who played the last of his nine NFL seasons with the Tampa Bay Buccaneers in 2025, announced his immediate retirement from football in a post to his Instagram account April 2. MORE: Vikings announce tragic death of…"
-    },
-    {
-      "id": "9352c1bf54b74a4f",
-      "title": "Steelers 2026 NFL Draft scouting report: CB Tacario Davis",
-      "link": "https://sports.yahoo.com/articles/steelers-2026-nfl-draft-scouting-173041081.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-02T17:30:41+0000",
-      "summary": "As the Pittsburgh Steelers prepare for the 2026 NFL Draft, here is a scouting report for cornerback Tacario Davis of Washington."
-    },
-    {
-      "id": "62b89a1f2b811b1d",
-      "title": "Former Dolphins LB announces retirement after 9 seasons in the NFL",
-      "link": "https://sports.yahoo.com/articles/former-dolphins-lb-announces-retirement-172728946.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-02T17:27:28+0000",
-      "summary": "A former fifth-round pick who spent one year with the Miami Dolphins announced his retirement from the NFL after nine seasons on Thursday."
     },
     {
       "id": "1f607139c46fa400",
@@ -108,24 +135,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-02T13:09:07+0000",
       "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
-    },
-    {
-      "id": "be029651c50d779e",
-      "title": "These flaws could hold back the NFL draft's top QBs",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-02T12:33:44+0000",
-      "summary": "We've seen a lot during the college careers of the draft's top QBs. Each has something that could set them back."
-    },
-    {
-      "id": "138e8bda69d5a520",
-      "title": "Three-round NFL mock draft: Kiper, Miller, Reid and Yates' top 100 picks",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48357214/2026-nfl-mock-draft-three-rounds-kiper-miller-reid-yates-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-02T12:33:44+0000",
-      "summary": "We asked four NFL draft analysts to make picks in the first three rounds. Where do the top prospects land?"
     },
     {
       "id": "3d9c6c9f6d64043f",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T19:30:28+0000",
       "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
-    },
-    {
-      "id": "b3f9653f48c88f59",
-      "title": "Colts re-sign TE Drew Ogletree",
-      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:02:04+0000",
-      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
     }
   ],
   "links": [
