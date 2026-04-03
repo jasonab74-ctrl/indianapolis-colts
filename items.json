@@ -1,6 +1,60 @@
 {
-  "updated": "2026-04-03T21:32:58+00:00",
+  "updated": "2026-04-03T22:32:11+00:00",
   "items": [
+    {
+      "id": "528df1dd7b6fa236",
+      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
+      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-03T22:47:33+0000",
+      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+    },
+    {
+      "id": "a2ee2dfa5be16e14",
+      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
+      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-03T22:47:33+0000",
+      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
+    },
+    {
+      "id": "7afd9d05c4158a90",
+      "title": "'Thank you football': LB Walker retires from NFL",
+      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-03T22:47:33+0000",
+      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
+    },
+    {
+      "id": "ef0cf75314d63653",
+      "title": "Fanatics takes over exclusive NFL card license",
+      "link": "https://espn.com/nfl/story/_/id/48375610/fanatics-takes-exclusive-nfl-trading-card-license",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-03T22:47:33+0000",
+      "summary": "A 20-year deal between Fanatics and the NFL has kicked in, consolidating the league's and players' union's trading card licenses under one company."
+    },
+    {
+      "id": "0345d4028e4cb0bb",
+      "title": "🐝 Buzz from the NFL league meeting",
+      "link": "https://espn.com/nfl/story/_/id/48358306/nfl-owners-meetings-2026-buzz-annual-league-draft-phoenix",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-03T22:47:33+0000",
+      "summary": "The NFL's annual league meeting wrapped up Tuesday, and 30 of our reporters shared all the buzz from Phoenix."
+    },
+    {
+      "id": "1bd5c5ed08ee165d",
+      "title": "Arizona Cardinals NFL draft needs: Safety",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-nfl-draft-needs-222703723.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-03T22:27:03+0000",
+      "summary": "A look at where the draft priority should be for safety, based on roster needs."
+    },
     {
       "id": "fc46a30476f715d2",
       "title": "Latest NFL draft buzz: What we're hearing on Jermod McCoy's pro day, the QB3 debate",
@@ -11,67 +65,13 @@
       "summary": "How did Jermod McCoy perform at his pro day? Who is the third-best QB in this class? Our NFL draft experts weigh in with new intel three weeks out."
     },
     {
-      "id": "ef0cf75314d63653",
-      "title": "Fanatics takes over exclusive NFL card license",
-      "link": "https://espn.com/nfl/story/_/id/48375610/fanatics-takes-exclusive-nfl-trading-card-license",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-03T22:14:40+0000",
-      "summary": "A 20-year deal between Fanatics and the NFL has kicked in, consolidating the league's and players' union's trading card licenses under one company."
-    },
-    {
-      "id": "0345d4028e4cb0bb",
-      "title": "🐝 Buzz from the NFL league meeting",
-      "link": "https://espn.com/nfl/story/_/id/48358306/nfl-owners-meetings-2026-buzz-annual-league-draft-phoenix",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-03T22:14:40+0000",
-      "summary": "The NFL's annual league meeting wrapped up Tuesday, and 30 of our reporters shared all the buzz from Phoenix."
-    },
-    {
-      "id": "a2ee2dfa5be16e14",
-      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
-      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-03T22:14:39+0000",
-      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
-    },
-    {
-      "id": "7afd9d05c4158a90",
-      "title": "'Thank you football': LB Walker retires from NFL",
-      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-03T22:14:39+0000",
-      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
-    },
-    {
-      "id": "d4b3404283eff0c1",
-      "title": "2026 NFL draft: Arvell Reese has top-30 visit with Arizona Cardinals",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-arvell-reese-212057745.html",
+      "id": "67f2494feb790ba1",
+      "title": "Arizona Cardinals NFL draft needs: Cornerback",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-nfl-draft-needs-221352738.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-03T21:20:57+0000",
-      "summary": "Ohio State's Arvell Reese has top-30 visits with six teams in the top 12 of the draft, including the Cardinals."
-    },
-    {
-      "id": "43ea304f38cc5d3b",
-      "title": "Free agent running back Najee Harris visited Raiders on Friday",
-      "link": "https://sports.yahoo.com/articles/free-agent-running-back-najee-211401449.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-03T21:14:01+0000",
-      "summary": "Free agent running back Najee Harris visited the Raiders on Friday, according to the NFL's transactions report."
-    },
-    {
-      "id": "080a33230e12a4dd",
-      "title": "Chiefs Rashee Rice NFL Personal Conduct Policy domestic violence",
-      "link": "https://sports.yahoo.com/articles/chiefs-rashee-rice-nfl-personal-210313840.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-03T21:03:13+0000",
-      "summary": "League clears Rice from recent allegations of domestic violence."
+      "published": "2026-04-03T22:13:52+0000",
+      "summary": "A look at where the draft priority should be for cornerback, based on roster needs."
     },
     {
       "id": "743df1878a71c1ec",
