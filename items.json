@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-04T17:58:07+00:00",
+  "updated": "2026-04-04T18:53:51+00:00",
   "items": [
+    {
+      "id": "528df1dd7b6fa236",
+      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
+      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-04T19:01:58+0000",
+      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+    },
+    {
+      "id": "a2ee2dfa5be16e14",
+      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
+      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-04T19:01:58+0000",
+      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
+    },
+    {
+      "id": "7afd9d05c4158a90",
+      "title": "'Thank you football': LB Walker retires from NFL",
+      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-04T19:01:58+0000",
+      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
+    },
+    {
+      "id": "d37f2615c489a7b0",
+      "title": "Latest NFL Draft Buzz on QB Ty Simpson, 2 Teams That May Pass on Him",
+      "link": "https://sports.yahoo.com/articles/latest-nfl-draft-buzz-qb-184045871.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-04T18:40:45+0000",
+      "summary": "Former Alabama Crimson Tide quarterback Ty Simpson has been one of the most talked-about players ahead of the 2026 NFL [&#8230;]"
+    },
     {
       "id": "28f84f9b2e040b63",
       "title": "Who will be the best RBs in the NFL draft class? We gave projections and comps for top prospects",
@@ -11,13 +47,13 @@
       "summary": "We have stat projections for the top running back prospects in the 2026 NFL draft class, from Jeremiyah Love to late-round sleepers."
     },
     {
-      "id": "25a3d6650d84b5dd",
-      "title": "NFL Rumors: Early Buzz On Where Shedeur Sanders Stands in CLE Browns QB Competition",
-      "link": "https://sports.yahoo.com/articles/nfl-rumors-early-buzz-where-174401374.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-04T17:44:01+0000",
-      "summary": "The Cleveland Browns opted not to add to the quarterback room in NFL free agency, rolling with the trio of [&#8230;]"
+      "id": "6874a5685830832f",
+      "title": "Colts Reacts Survey Results",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/123044/colts-reacts-survey-results",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-04T17:32:33+0000",
+      "summary": "With this month’s upcoming NFL Draft rapidly approaching, the Indianapolis Colts still have a number of key positional holes to fill, which they so far haven’t in free agency. In particular, the Colts’ starting defensive positions of edge and linebacker need to be addressed, while outside wide receiver could also be a position of need [&#8230;]"
     },
     {
       "id": "9259988f0f6abb1c",
@@ -36,33 +72,6 @@
       "feed": "ESPN",
       "published": "2026-04-04T15:18:21+0000",
       "summary": "How did Jermod McCoy perform at his pro day? Our NFL draft experts weigh in with new intel three weeks out."
-    },
-    {
-      "id": "528df1dd7b6fa236",
-      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
-      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T12:32:41+0000",
-      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
-    },
-    {
-      "id": "a2ee2dfa5be16e14",
-      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
-      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T12:32:41+0000",
-      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
-    },
-    {
-      "id": "7afd9d05c4158a90",
-      "title": "'Thank you football': LB Walker retires from NFL",
-      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T12:32:41+0000",
-      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
     },
     {
       "id": "743df1878a71c1ec",
@@ -189,15 +198,6 @@
       "feed": "Colts.com",
       "published": "2026-04-01T21:44:47+0000",
       "summary": "We heard from Colts Owner & CEO Carlie Irsay-Gordon, general manager Chris Ballard and head coach Shane Steichen this week at the NFL Annual Meeting at the Arizona Biltmore in Phoenix."
-    },
-    {
-      "id": "3efe6fb69c707080",
-      "title": "NFL.com names Colts QB Daniel Jones as top ‘Next Sam Darnold’ candidate for 2026",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122964/nfl-com-names-colts-qb-daniel-jones-as-top-next-sam-darnold-candidate-for-2026",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-01T18:31:03+0000",
-      "summary": "According to NFL.com’s Jeffri Chadiha, recently re-signed Indianapolis Colts quarterback Daniel Jones is his top candidate to become the ‘Next Sam Darnold’ for the 2026 campaign: Specifically, the 28-year-old Darnold was a former failed 2020 Top 5 pick of the New York Jets, who would bounce around to four NFL teams over the next five [&#8230;]"
     },
     {
       "id": "1be47e72e0fcdeff",
