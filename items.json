@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-04T11:28:10+00:00",
+  "updated": "2026-04-04T11:52:50+00:00",
   "items": [
+    {
+      "id": "528df1dd7b6fa236",
+      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
+      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-04T12:32:41+0000",
+      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+    },
+    {
+      "id": "a2ee2dfa5be16e14",
+      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
+      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-04T12:32:41+0000",
+      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
+    },
+    {
+      "id": "7afd9d05c4158a90",
+      "title": "'Thank you football': LB Walker retires from NFL",
+      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-04T12:32:41+0000",
+      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
+    },
     {
       "id": "28f84f9b2e040b63",
       "title": "Who will be the best RBs in the NFL draft class? We gave projections and comps for top prospects",
@@ -29,49 +56,22 @@
       "summary": "How did Jermod McCoy perform at his pro day? Our NFL draft experts weigh in with new intel three weeks out."
     },
     {
-      "id": "453264af754f786b",
-      "title": "Cowboys news: Brian Schottenheimer’s approach to the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/cowboys-news-brian-schottenheimer-approach-110000919.html",
+      "id": "44b6a85cb54401ef",
+      "title": "2026 NFL draft: NFL.com sends QB to Jets in multi-round mock",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-nfl-com-114310463.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-04T11:00:00+0000",
-      "summary": "Here's the latest news surrounding America's Team."
+      "published": "2026-04-04T11:43:10+0000",
+      "summary": "The Jets land a QB and playmakers in this NFL.com mock draft."
     },
     {
-      "id": "528df1dd7b6fa236",
-      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
-      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T02:26:42+0000",
-      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
-    },
-    {
-      "id": "a2ee2dfa5be16e14",
-      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
-      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T02:26:42+0000",
-      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
-    },
-    {
-      "id": "7afd9d05c4158a90",
-      "title": "'Thank you football': LB Walker retires from NFL",
-      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T02:26:42+0000",
-      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
-    },
-    {
-      "id": "0345d4028e4cb0bb",
-      "title": "🐝 Buzz from the NFL league meeting",
-      "link": "https://espn.com/nfl/story/_/id/48358306/nfl-owners-meetings-2026-buzz-annual-league-draft-phoenix",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-04T02:26:42+0000",
-      "summary": "The NFL's annual league meeting wrapped up Tuesday, and 30 of our reporters shared all the buzz from Phoenix."
+      "id": "17e0c269556c0713",
+      "title": "Colts among teams to meet with Duke defensive tackle",
+      "link": "https://sports.yahoo.com/articles/colts-among-teams-meet-duke-112324004.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-04T11:23:24+0000",
+      "summary": "The Indianapolis Colts were among several teams to meet with a Duke defensive tackle."
     },
     {
       "id": "743df1878a71c1ec",
