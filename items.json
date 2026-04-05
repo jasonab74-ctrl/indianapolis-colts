@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-05T11:28:54+00:00",
+  "updated": "2026-04-05T11:55:03+00:00",
   "items": [
+    {
+      "id": "ae0bb790992827e8",
+      "title": "NFL draft QB Hot Board: Reid on strengths and weaknesses for the top 12 passers",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-05T12:47:08+0000",
+      "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza and Ty Simpson."
+    },
+    {
+      "id": "70e6551d5b0f452a",
+      "title": "What does the SackSEER model say about the top edge rushers in the 2026 NFL draft?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48359548/2026-nfl-draft-edge-rusher-projections-rankings-historical-comps-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-05T12:47:08+0000",
+      "summary": "Which prospects will have the most sacks through five NFL seasons? We projected the top edge rushers."
+    },
+    {
+      "id": "9259988f0f6abb1c",
+      "title": "End of the feature back? What the rise of running back tandems means for the NFL draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48349028/nfl-draft-2026-running-backs-sharing-carries",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-05T12:27:10+0000",
+      "summary": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing."
+    },
     {
       "id": "528df1dd7b6fa236",
       "title": "NFL probe finds no reason to discipline Chiefs' Rice",
@@ -29,67 +56,22 @@
       "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
     },
     {
-      "id": "ae0bb790992827e8",
-      "title": "NFL draft QB Hot Board: Reid on strengths and weaknesses for the top 12 passers",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-05T12:25:35+0000",
-      "summary": "Who are the best quarterbacks in the 2026 class? We sized up the top 12, starting with Fernando Mendoza and Ty Simpson."
-    },
-    {
-      "id": "fc46a30476f715d2",
-      "title": "Latest NFL draft buzz: What we're hearing on Jermod McCoy's pro day, the QB3 debate",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48377191/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-mccoy-nussmeier-beck",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-05T12:25:35+0000",
-      "summary": "How did Jermod McCoy perform at his pro day? Our NFL draft experts weigh in with new intel three weeks out."
-    },
-    {
-      "id": "b27a5c4051f96371",
-      "title": "NFL Analyst Predicts How Houston Texans Will Draft",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-predicts-houston-texans-110030568.html",
+      "id": "98d3501f1e0565aa",
+      "title": "Browns Draft profile: S Michael Taaffe could be Day 3 steal",
+      "link": "https://sports.yahoo.com/articles/browns-draft-profile-michael-taaffe-114023613.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:00:30+0000",
-      "summary": "A leading analyst unpacks the Texans' draft dilemma: can they prioritize premium talent or address a glaring offensive line need at pick 28?"
+      "published": "2026-04-05T11:40:23+0000",
+      "summary": "Looking for additional help in Cleveland Browns safety room, Texas Longhorns Michael Taffee could be an NFL draft steal"
     },
     {
-      "id": "ce9ba3e5fd4d44e0",
-      "title": "Colts named landing spot for former first-round free agent pass rusher",
-      "link": "https://sports.yahoo.com/articles/colts-named-landing-spot-former-110012175.html",
+      "id": "e4509e9267a44cd3",
+      "title": "ESPN predicts LSU safety AJ Haulcy’s landing spot in 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/espn-predicts-lsu-safety-aj-113229555.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:00:12+0000",
-      "summary": "One analyst named the Colts a landing spot for former first-round pass rusher, who is still available in free agency."
-    },
-    {
-      "id": "34a95c6a3aa8e1ec",
-      "title": "What is a Detroit Lions sneaky need for the NFL Draft?",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-sneaky-nfl-draft-110000708.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:00:00+0000",
-      "summary": "Identifying some of the Detroit Lions’ sneaky needs heading into the 2026 NFL Draft."
-    },
-    {
-      "id": "16eef13e549c02c0",
-      "title": "NY Giants 6-round NFL mock draft: Sonny Styles, and an unexpected trade",
-      "link": "https://sports.yahoo.com/articles/ny-giants-6-round-nfl-110000391.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:00:00+0000",
-      "summary": "There are a few new names in this version of our weekly mock draft."
-    },
-    {
-      "id": "9366f24a59093c69",
-      "title": "New York Jets Flight Connections 04/05/26",
-      "link": "https://sports.yahoo.com/articles/york-jets-flight-connections-04-110000586.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:00:00+0000",
-      "summary": "Happy Easter Sunday, Jets fans! Below are your links for the day. Brian Costello – What Jets might do at quarterback in 2026 NFL Draft Rich Cimini – With Sabres playoff berth, Jets own longest active playoff drought Andrew Crane – Jets now by themselves for longest-active playoff drought with Sabres clinching berth after 14 […]"
+      "published": "2026-04-05T11:32:29+0000",
+      "summary": "LSU safety AJ Haulcy is widely regarded as a top-100 pick in the 2026 NFL Draft. Here’s where ESPN predicts he will go when April rolls around:"
     },
     {
       "id": "732e5c745577d69d",
@@ -126,15 +108,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-04T17:32:33+0000",
       "summary": "With this month’s upcoming NFL Draft rapidly approaching, the Indianapolis Colts still have a number of key positional holes to fill, which they so far haven’t in free agency. In particular, the Colts’ starting defensive positions of edge and linebacker need to be addressed, while outside wide receiver could also be a position of need [&#8230;]"
-    },
-    {
-      "id": "743df1878a71c1ec",
-      "title": "2026 NFL offseason OTA, minicamp dates for all 32 teams",
-      "link": "https://espn.com/nfl/story/_/id/48387060/nfl-offseason-2026-every-32-team-otas-minicamp-key-dates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-03T20:02:10+0000",
-      "summary": "Here are dates for the NFL's offseason workout programs in 2026, with mandatory minicamps starting in June."
     },
     {
       "id": "570862ad9badf00b",
@@ -540,6 +513,33 @@
       "feed": "CBS4Indy",
       "published": "2026-03-13T19:34:38+0000",
       "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
+    },
+    {
+      "id": "89aa2aa3a8911b9d",
+      "title": "Colts sign free agent DT Derrick Nnadi",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:30:28+0000",
+      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
+    },
+    {
+      "id": "b3f9653f48c88f59",
+      "title": "Colts re-sign TE Drew Ogletree",
+      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:02:04+0000",
+      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
+    },
+    {
+      "id": "10de0843d4b167f8",
+      "title": "Colts hold 7 picks in NFL Draft",
+      "link": "https://fox59.com/sports/colts/colts-hold-7-picks-in-nfl-draft/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-13T17:44:14+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts’ allotment of picks in the April 23-25 draft has been set. For now. With the trade of Michael Pittman Jr. and a seventh-round pick (No. 230) to the Pittsburgh Steelers becoming official Friday, the Colts received a sixth-round pick (No. 214). That brings their draft stash to seven picks. A [...]"
     }
   ],
   "links": [
