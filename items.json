@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T11:55:03+00:00",
+  "updated": "2026-04-05T12:55:38+00:00",
   "items": [
     {
       "id": "ae0bb790992827e8",
@@ -18,6 +18,24 @@
       "feed": "ESPN",
       "published": "2026-04-05T12:47:08+0000",
       "summary": "Which prospects will have the most sacks through five NFL seasons? We projected the top edge rushers."
+    },
+    {
+      "id": "347bbede25837795",
+      "title": "NFL.com grades Broncos’ 2025 draft class after Year 1",
+      "link": "https://sports.yahoo.com/articles/nfl-com-grades-broncos-2025-123023699.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-05T12:30:23+0000",
+      "summary": "One year later, what grade would you give the Broncos' 2025 draft class?"
+    },
+    {
+      "id": "e96188c387f8a049",
+      "title": "Daily Slop: Commanders may be getting more than they bargained for with Nick Cross",
+      "link": "https://sports.yahoo.com/articles/daily-slop-commanders-may-getting-123000087.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-05T12:30:00+0000",
+      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
     },
     {
       "id": "9259988f0f6abb1c",
@@ -56,22 +74,13 @@
       "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
     },
     {
-      "id": "98d3501f1e0565aa",
-      "title": "Browns Draft profile: S Michael Taaffe could be Day 3 steal",
-      "link": "https://sports.yahoo.com/articles/browns-draft-profile-michael-taaffe-114023613.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:40:23+0000",
-      "summary": "Looking for additional help in Cleveland Browns safety room, Texas Longhorns Michael Taffee could be an NFL draft steal"
-    },
-    {
-      "id": "e4509e9267a44cd3",
-      "title": "ESPN predicts LSU safety AJ Haulcy’s landing spot in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/espn-predicts-lsu-safety-aj-113229555.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-05T11:32:29+0000",
-      "summary": "LSU safety AJ Haulcy is widely regarded as a top-100 pick in the 2026 NFL Draft. Here’s where ESPN predicts he will go when April rolls around:"
+      "id": "3f0e407f4c6c75c9",
+      "title": "Where the Colts stand with the salary cap",
+      "link": "https://stampedeblue.com/indianapolis-colts-salary-cap/122979/where-the-colts-stand-with-the-salary-cap",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-05T12:00:00+0000",
+      "summary": "According to Over the Cap, the Colts currently sit at roughly $26.6 million in available cap space for the 2026 season. That’s the official number, but the real number is lower. Teams typically need to reserve around $3 million for in-season transactions (injuries, practice squad elevations, emergency signings) and another ~$3 million to account for [&#8230;]"
     },
     {
       "id": "732e5c745577d69d",
@@ -198,15 +207,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-02T13:38:00+0000",
       "summary": "This time last year, the buzz was high. The Indianapolis Colts coveted Tyler Warren, but signs pointed to him being off the board much sooner. Things worked out, and the Colts got their man. The excitement Warren generated before and during the season was palpable. This year? This year feels totally different. As we near [&#8230;]"
-    },
-    {
-      "id": "f3d39ffc8cb2bb1e",
-      "title": "Colts Reacts Survey",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/122935/colts-reacts-survey",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-02T13:09:07+0000",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
     },
     {
       "id": "b97cb6d80d8319bd",
