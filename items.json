@@ -1,41 +1,86 @@
 {
-  "updated": "2026-04-06T13:51:03+00:00",
+  "updated": "2026-04-06T14:45:20+00:00",
   "items": [
+    {
+      "id": "1f607139c46fa400",
+      "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
+      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-06T15:22:01+0000",
+      "summary": "We're handing out report cards on big moves, including the Raiders' Kirk Cousins signing."
+    },
+    {
+      "id": "9259988f0f6abb1c",
+      "title": "End of the feature back? What the rise of running back tandems means for the NFL draft",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48349028/nfl-draft-2026-running-backs-sharing-carries",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-06T15:21:16+0000",
+      "summary": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing."
+    },
     {
       "id": "44026a31017456d8",
       "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-06T14:44:13+0000",
+      "published": "2026-04-06T15:02:47+0000",
       "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
     },
     {
-      "id": "1a975585cd689dab",
-      "title": "Bucs legend discusses concerns over top 2026 NFL Draft prospect",
-      "link": "https://sports.yahoo.com/articles/bucs-legend-discusses-concerns-over-133659100.html",
+      "id": "34009c6d0f9f612a",
+      "title": "Analyst selects 'perfect' mid-round NFL draft prospect for Colts",
+      "link": "https://sports.yahoo.com/articles/analyst-selects-perfect-mid-round-143826446.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-06T13:36:59+0000",
-      "summary": "A former Bucs defender discusses some concerns with one area of a top prospects game."
+      "published": "2026-04-06T14:38:26+0000",
+      "summary": "One draft analyst selected the &quot;perfect&quot; mid-round selection for the Indianapolis Colts."
     },
     {
-      "id": "8905de9fde541207",
-      "title": "NFL offseason grades: Which teams are ready for 2026?",
-      "link": "https://sports.yahoo.com/articles/nfl-offseason-grades-teams-ready-133039178.html",
+      "id": "11f6e16450230605",
+      "title": "NFL Mock Draft 3.0: Patriots Can Find Value In Attacking Middle Rounds",
+      "link": "https://sports.yahoo.com/articles/nfl-mock-draft-3-0-143028759.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-06T13:30:39+0000",
-      "summary": "An in-depth look at every NFL team's offseason moves, from coaching changes to player trades and free agency grades."
+      "published": "2026-04-06T14:30:28+0000",
+      "summary": "The New England Patriots have plenty of needs to address during the 2026 NFL Draft, and this is another way they can go about doing that."
     },
     {
-      "id": "4ab7250d98695680",
-      "title": "Tennessee Titans meet with versatile small school wideout at his pro day",
-      "link": "https://sports.yahoo.com/articles/tennessee-titans-meet-versatile-small-132537387.html",
+      "id": "d395ac4dfbb2cf60",
+      "title": "Eagles' $4 million quarterback named under-the-radar trade candidate",
+      "link": "https://sports.yahoo.com/articles/eagles-4-million-quarterback-named-143002656.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-06T13:25:37+0000",
-      "summary": "The Tennessee Titans are turning over every stone to find talent ahead of the 2026 NFL draft, and another one of those is a small school wideout."
+      "published": "2026-04-06T14:30:02+0000",
+      "summary": "An NFL writer believes the Philadelphia Eagles could cut ties with a 6-foot-6 signal-caller."
+    },
+    {
+      "id": "fc221f89a96a7d0d",
+      "title": "Notes: NFL announces Lions offseason workout dates",
+      "link": "https://sports.yahoo.com/articles/notes-nfl-announces-lions-offseason-143000738.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T14:30:00+0000",
+      "summary": "Dates are out for the Detroit Lions’ nine-week offseason program, starting April 20."
+    },
+    {
+      "id": "f743775b304aed70",
+      "title": "'Perfect' mid-round NFL draft prospect for Jaguars",
+      "link": "https://sports.yahoo.com/articles/perfect-mid-round-nfl-draft-142820477.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T14:28:20+0000",
+      "summary": "One analyst selected a mid-round NFL draft prospect for the Jaguars who could become a key contributor."
+    },
+    {
+      "id": "611a43278f34c729",
+      "title": "Steelers predicted to trade up in 2026 NFL Draft for Ohio State star",
+      "link": "https://sports.yahoo.com/articles/steelers-predicted-trade-2026-nfl-142721181.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T14:27:21+0000",
+      "summary": "This would be an exciting move for Pittsburgh."
     },
     {
       "id": "621a0491eeaed914",
@@ -90,15 +135,6 @@
       "feed": "ESPN",
       "published": "2026-04-06T12:27:50+0000",
       "summary": "We have stat projections for the top running back prospects in the 2026 NFL draft class."
-    },
-    {
-      "id": "9259988f0f6abb1c",
-      "title": "End of the feature back? What the rise of running back tandems means for the NFL draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48349028/nfl-draft-2026-running-backs-sharing-carries",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-05T12:27:10+0000",
-      "summary": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing."
     },
     {
       "id": "3f0e407f4c6c75c9",
@@ -207,15 +243,6 @@
       "feed": "CBS4Indy",
       "published": "2026-04-02T22:26:38+0000",
       "summary": "It's been a busy offseason for the NFL and the Indianapolis Colts. This week, NFL personnel were in Phoenix for annual league meetings. In the latest Blue Zone Podcast, Mike Chappell and Matt Adams discuss comments on the offseason from owner Carlie Irsay-Gordon and GM Chris Ballard."
-    },
-    {
-      "id": "1f607139c46fa400",
-      "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
-      "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-02T16:54:24+0000",
-      "summary": "We're handing out report cards on big moves, including the Raiders' Kirk Cousins signing."
     },
     {
       "id": "41ef06a0ec8264e7",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-15T00:48:06+0000",
       "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
-    },
-    {
-      "id": "cf52c39b8c2a5c66",
-      "title": "Colts re-sign WR Laquon Treadwell",
-      "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T20:13:55+0000",
-      "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
-    },
-    {
-      "id": "dbf446884f2548dc",
-      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T19:34:38+0000",
-      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
-    },
-    {
-      "id": "89aa2aa3a8911b9d",
-      "title": "Colts sign free agent DT Derrick Nnadi",
-      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:30:28+0000",
-      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
     }
   ],
   "links": [
