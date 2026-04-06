@@ -1,22 +1,13 @@
 {
-  "updated": "2026-04-06T16:45:21+00:00",
+  "updated": "2026-04-06T17:42:44+00:00",
   "items": [
-    {
-      "id": "0528d8e9575e4bde",
-      "title": "Seahawks trade idea moves out of Round 1 to no longer have fewest picks in 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/seahawks-trade-idea-moves-round-163020738.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T16:30:20+0000",
-      "summary": "This would be a very typical John Schneider trade to make."
-    },
     {
       "id": "528df1dd7b6fa236",
       "title": "NFL probe finds no reason to discipline Chiefs' Rice",
       "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-06T16:23:48+0000",
+      "published": "2026-04-06T17:50:19+0000",
       "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
     },
     {
@@ -25,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-06T16:23:48+0000",
+      "published": "2026-04-06T17:50:19+0000",
       "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
     },
     {
@@ -34,35 +25,44 @@
       "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-06T16:23:48+0000",
+      "published": "2026-04-06T17:50:19+0000",
       "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
     },
     {
-      "id": "ff47b60714720c8e",
-      "title": "Patriots-Seahawks Super Bowl Rematch Could Be 2026 NFL Season-Opener",
-      "link": "https://sports.yahoo.com/articles/patriots-seahawks-super-bowl-rematch-161925062.html",
+      "id": "10c3230fd60ec417",
+      "title": "Latest USA TODAY NFL mock draft matches Penn State guard to Bengals",
+      "link": "https://sports.yahoo.com/articles/latest-usa-today-nfl-mock-173917091.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-06T16:19:25+0000",
-      "summary": "Will the New England Patriots and Seattle Seahawks play a Super Bowl LX rematch in the 2026 NFL season-opener on Sept. 9?"
+      "published": "2026-04-06T17:39:17+0000",
+      "summary": "Nate Davis's latest NFL mock draft projects the Bengals to take a guard out of Penn State with the 10th overall pick."
     },
     {
-      "id": "1cec55d82d4791f6",
-      "title": "Let’s re-draft the 2021 NFL Draft after 5 years",
-      "link": "https://sports.yahoo.com/articles/let-draft-2021-nfl-draft-161850766.html",
+      "id": "4d90744ed3586c9f",
+      "title": "ESPN has Seahawks gaining picks from Browns in ‘all-trades’ NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/espn-seahawks-gaining-picks-browns-173025680.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-06T16:18:50+0000",
-      "summary": "Let’s go back in time and see who made the right choices in 2021."
+      "published": "2026-04-06T17:30:25+0000",
+      "summary": "John Schneider gets back in his trade down bag in Bill Barnwell’s wacky mock draft."
     },
     {
-      "id": "dd378fc752176a7a",
-      "title": "What’s an underrated need for the 49ers heading into the NFL Draft?",
-      "link": "https://sports.yahoo.com/articles/underrated-49ers-heading-nfl-draft-161800513.html",
+      "id": "4c2f161e6609d53a",
+      "title": "NFL Draft 2026: Finding perfect Packers threshold players",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-finding-perfect-173000767.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-06T16:18:00+0000",
-      "summary": "Are there any needs that are flying under the radar for the 49ers heading into the NFL Draft?"
+      "published": "2026-04-06T17:30:00+0000",
+      "summary": "A lack of complete testing numbers makes this list a lot shorter than it used to be."
+    },
+    {
+      "id": "9826739f09388345",
+      "title": "Ranking 13 running backs in the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/ranking-13-running-backs-2026-172300549.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T17:23:00+0000",
+      "summary": "It’s NFL Draft Season! Before you read, some important context… I’ve ranked these players based on the Eagles’ needs and scheme fit. So while I may rate player ‘X’ higher than player ‘Y’ on pure talent, ‘Y’ could rank higher here due to fit or need. Focus more on tiers than exact order. Players in […]"
     },
     {
       "id": "186f770f7d4f7dc3",
@@ -234,6 +234,15 @@
       "feed": "CBS4Indy",
       "published": "2026-04-02T22:26:38+0000",
       "summary": "It's been a busy offseason for the NFL and the Indianapolis Colts. This week, NFL personnel were in Phoenix for annual league meetings. In the latest Blue Zone Podcast, Mike Chappell and Matt Adams discuss comments on the offseason from owner Carlie Irsay-Gordon and GM Chris Ballard."
+    },
+    {
+      "id": "41ef06a0ec8264e7",
+      "title": "This year’s Colts draft just feels less exciting",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/122981/this-years-colts-draft-just-feels-less-exciting",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-02T13:38:00+0000",
+      "summary": "This time last year, the buzz was high. The Indianapolis Colts coveted Tyler Warren, but signs pointed to him being off the board much sooner. Things worked out, and the Colts got their man. The excitement Warren generated before and during the season was palpable. This year? This year feels totally different. As we near [&#8230;]"
     },
     {
       "id": "b97cb6d80d8319bd",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T20:13:55+0000",
       "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
-    },
-    {
-      "id": "dbf446884f2548dc",
-      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T19:34:38+0000",
-      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
     }
   ],
   "links": [
