@@ -1,6 +1,78 @@
 {
-  "updated": "2026-04-06T14:45:20+00:00",
+  "updated": "2026-04-06T15:44:43+00:00",
   "items": [
+    {
+      "id": "528df1dd7b6fa236",
+      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
+      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-06T16:23:48+0000",
+      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+    },
+    {
+      "id": "a2ee2dfa5be16e14",
+      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
+      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-06T16:23:48+0000",
+      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
+    },
+    {
+      "id": "7afd9d05c4158a90",
+      "title": "'Thank you football': LB Walker retires from NFL",
+      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-06T16:23:48+0000",
+      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
+    },
+    {
+      "id": "7a1421e2e4e7f43a",
+      "title": "Falcons 1 of 12 NFL teams to host supersized WR prospect for workout",
+      "link": "https://sports.yahoo.com/articles/falcons-1-12-nfl-teams-153519064.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:35:19+0000",
+      "summary": "Georgia State WR Ted Hurst could fill Robin role to Drake London's Batman"
+    },
+    {
+      "id": "46c9a8010baac0ad",
+      "title": "Scouting Future Saints: Pitt Panthers linebacker Kyle Louis",
+      "link": "https://sports.yahoo.com/articles/scouting-future-saints-pitt-panthers-153057101.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:30:57+0000",
+      "summary": "If you're looking for a mid-round steal in the 2026 draft, Kyle Louis of the Pitt Panthers might be just the bet for an NFL defense's linebacker corps"
+    },
+    {
+      "id": "16265cdbe51644a2",
+      "title": "Which Rams Mock Draft is your favorite?",
+      "link": "https://sports.yahoo.com/articles/rams-mock-draft-favorite-152501399.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:25:01+0000",
+      "summary": "﻿5 Rams mock draft scenarios ahead of the 2026 NFL Draft. Which path makes the most sense?"
+    },
+    {
+      "id": "92b67039d37c8c4d",
+      "title": "Is Jeremiyah Love still the most common pick in Titans mock drafts?",
+      "link": "https://sports.yahoo.com/articles/jeremiyah-love-still-most-common-152304975.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:23:04+0000",
+      "summary": "The Tennessee Titans have the No. 4 pick in the 2026 NFL Draft. Is RB Jeremiyah Love still the consensus pick, or is someone else taking the lead?"
+    },
+    {
+      "id": "a8d1e547cf36ca18",
+      "title": "Is Jeremiyah Love still the most common pick in Titans mock drafts?",
+      "link": "https://sports.yahoo.com/articles/jeremiyah-love-still-most-common-152304628.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:23:04+0000",
+      "summary": "The Tennessee Titans have the No. 4 pick in the 2026 NFL Draft. Is RB Jeremiyah Love still the consensus pick, or is someone else taking the lead?"
+    },
     {
       "id": "1f607139c46fa400",
       "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
@@ -20,6 +92,24 @@
       "summary": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing."
     },
     {
+      "id": "cdab0626dd104025",
+      "title": "Patriots Predicted To Add 6-Foot-4 Redzone Target For Drake Maye",
+      "link": "https://sports.yahoo.com/articles/patriots-predicted-add-6-foot-151652044.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:16:52+0000",
+      "summary": "An NFL writer predicted the New England Patriots would draft a 6-foot-4 wide receiver to help support Drake Maye."
+    },
+    {
+      "id": "d0f57e2abf3daf63",
+      "title": "Panthers reportedly have visit with dual-threat QB, 2025 ACC Player of the Year",
+      "link": "https://sports.yahoo.com/articles/panthers-reportedly-visit-dual-threat-151637432.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-06T15:16:37+0000",
+      "summary": "According to the NFL Network, the Panthers have a visit with the reigning ACC Player of the Year."
+    },
+    {
       "id": "44026a31017456d8",
       "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
@@ -29,60 +119,6 @@
       "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
     },
     {
-      "id": "34009c6d0f9f612a",
-      "title": "Analyst selects 'perfect' mid-round NFL draft prospect for Colts",
-      "link": "https://sports.yahoo.com/articles/analyst-selects-perfect-mid-round-143826446.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T14:38:26+0000",
-      "summary": "One draft analyst selected the &quot;perfect&quot; mid-round selection for the Indianapolis Colts."
-    },
-    {
-      "id": "11f6e16450230605",
-      "title": "NFL Mock Draft 3.0: Patriots Can Find Value In Attacking Middle Rounds",
-      "link": "https://sports.yahoo.com/articles/nfl-mock-draft-3-0-143028759.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T14:30:28+0000",
-      "summary": "The New England Patriots have plenty of needs to address during the 2026 NFL Draft, and this is another way they can go about doing that."
-    },
-    {
-      "id": "d395ac4dfbb2cf60",
-      "title": "Eagles' $4 million quarterback named under-the-radar trade candidate",
-      "link": "https://sports.yahoo.com/articles/eagles-4-million-quarterback-named-143002656.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T14:30:02+0000",
-      "summary": "An NFL writer believes the Philadelphia Eagles could cut ties with a 6-foot-6 signal-caller."
-    },
-    {
-      "id": "fc221f89a96a7d0d",
-      "title": "Notes: NFL announces Lions offseason workout dates",
-      "link": "https://sports.yahoo.com/articles/notes-nfl-announces-lions-offseason-143000738.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T14:30:00+0000",
-      "summary": "Dates are out for the Detroit Lions’ nine-week offseason program, starting April 20."
-    },
-    {
-      "id": "f743775b304aed70",
-      "title": "'Perfect' mid-round NFL draft prospect for Jaguars",
-      "link": "https://sports.yahoo.com/articles/perfect-mid-round-nfl-draft-142820477.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T14:28:20+0000",
-      "summary": "One analyst selected a mid-round NFL draft prospect for the Jaguars who could become a key contributor."
-    },
-    {
-      "id": "611a43278f34c729",
-      "title": "Steelers predicted to trade up in 2026 NFL Draft for Ohio State star",
-      "link": "https://sports.yahoo.com/articles/steelers-predicted-trade-2026-nfl-142721181.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-06T14:27:21+0000",
-      "summary": "This would be an exciting move for Pittsburgh."
-    },
-    {
       "id": "621a0491eeaed914",
       "title": "How A.J. Terrell Jr. mentored his brother, Avieon, who's set to join the All-Pro in the NFL",
       "link": "https://espn.com/nfl/story/_/id/48347414/2026-nfl-draft-avieon-terrell-aj-terrell-jr-mentored-brother-clemson-atlanta-falcons",
@@ -90,33 +126,6 @@
       "feed": "ESPN",
       "published": "2026-04-06T12:34:30+0000",
       "summary": "Set to be a first-round cornerback in the NFL draft like his brother, Avieon Terrell has looked to A.J. as his inspiration throughout his life."
-    },
-    {
-      "id": "528df1dd7b6fa236",
-      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
-      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-06T12:28:34+0000",
-      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
-    },
-    {
-      "id": "a2ee2dfa5be16e14",
-      "title": "Two-time All-Pro, 2019 DPOY Gilmore retiring",
-      "link": "https://espn.com/nfl/story/_/id/48380010/two-all-pro-2019-dpoy-stephon-gilmore-retires-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-06T12:28:34+0000",
-      "summary": "Two-time All-Pro cornerback Stephon Gilmore announced his retirement from the NFL."
-    },
-    {
-      "id": "7afd9d05c4158a90",
-      "title": "'Thank you football': LB Walker retires from NFL",
-      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-06T12:28:33+0000",
-      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
     },
     {
       "id": "70e6551d5b0f452a",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-16T16:00:47+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
-    },
-    {
-      "id": "09adf2fa96b4934a",
-      "title": "Colts re-sign tight end Mo Alie-Cox; Alec Pierce contract details released",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-mo-alie-cox-alec-pierce-contract-details-released/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-15T00:48:06+0000",
-      "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
     }
   ],
   "links": [
