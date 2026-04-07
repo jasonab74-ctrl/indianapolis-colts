@@ -1,50 +1,86 @@
 {
-  "updated": "2026-04-07T10:33:14+00:00",
+  "updated": "2026-04-07T11:52:52+00:00",
   "items": [
     {
-      "id": "a88444c620e65c9a",
-      "title": "Cowboys Headlines: Cost to move up in draft? More broadcasters to take NFL jobs?",
-      "link": "https://sports.yahoo.com/articles/cowboys-headlines-cost-move-draft-100455750.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-07T10:04:55+0000",
-      "summary": "What would moving up in the first round really cost the Cowboys? Also, will Troy Aikman's Miami job see other teams hire broadcasters?"
+      "id": "2eca9834822b9acb",
+      "title": "Why the Giants can't afford to trade Dexter Lawrence",
+      "link": "https://espn.com/nfl/story/_/id/48413987/new-york-giants-cannot-afford-trade-dexter-lawrence",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T12:42:49+0000",
+      "summary": "Honoring Lawrence's request is unlikely at this stage of the NFL calendar."
     },
     {
-      "id": "e2d868bad3434b1f",
-      "title": "Fernando Mendoza partnership to bring financial education to NFL players",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-partnership-bring-financial-100405388.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-07T10:04:05+0000",
-      "summary": "The 2026 NFL draft's likely No. 1 overall pick, Fernando Mendoza, is partnering with U.S. Bank to educate players about business and finance."
+      "id": "fbb912a1060524b1",
+      "title": "Will the 49ers trade, release or keep Brandon Aiyuk? Breaking down the options",
+      "link": "https://espn.com/nfl/story/_/id/48414734/brandon-aiyuk-contract-trade-san-francisco-49ers-commanders",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T12:41:56+0000",
+      "summary": "Aiyuk hasn't played an NFL game since Oct. 20, 2024, and his time with the 49ers may be nearing an end."
     },
     {
-      "id": "ed4cd54c6401fb39",
-      "title": "Are NFL mock drafts better prediction tools than throwing darts? We're testing it out",
-      "link": "https://sports.yahoo.com/articles/nfl-mock-drafts-better-prediction-100229149.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-07T10:02:29+0000",
-      "summary": "For this week's NFL mock draft, we predicted the first round of the 2026 NFL Draft by literally throwing darts and seeing how it worked out."
+      "id": "4dd6b532db712421",
+      "title": "2026 rankings: Profiling the top 45 RBs after NFL free agency",
+      "link": "https://espn.com/fantasy/football/story/_/id/48348941/2026-fantasy-football-rankings-rb-profiles",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T12:33:48+0000",
+      "summary": "Mike Clay delivers bite-sized but detailed breakdowns of his top 45 running backs for 2026."
     },
     {
-      "id": "721c6f2288d07224",
-      "title": "Are NFL mock drafts better prediction tools than throwing darts? We're testing it out",
-      "link": "https://sports.yahoo.com/articles/nfl-mock-drafts-better-prediction-100229101.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-07T10:02:29+0000",
-      "summary": "For this week's NFL mock draft, we predicted the first round of the 2026 NFL Draft by literally throwing darts and seeing how it worked out."
+      "id": "44026a31017456d8",
+      "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T12:24:10+0000",
+      "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
     },
     {
-      "id": "5e248f7ab26b21eb",
-      "title": "'He's a throwback': Fernando Mendoza keeps business focus as NFL Draft waits",
-      "link": "https://sports.yahoo.com/articles/hes-throwback-fernando-mendoza-keeps-100115003.html",
+      "id": "8f6ce9333e076dfe",
+      "title": "New NFL mock draft: Schrager projects all 32 first-round picks based on what he's hearing",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T12:22:47+0000",
+      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft. Here's where things stand right now in Round 1."
+    },
+    {
+      "id": "bce0ec7875382881",
+      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T12:22:46+0000",
+      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
+    },
+    {
+      "id": "d990e12631b8b3a7",
+      "title": "Patriots to release former third-round draft pick",
+      "link": "https://sports.yahoo.com/articles/patriots-release-former-third-round-112631173.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-07T10:01:15+0000",
-      "summary": "Fernando Mendoza's passion for finance has helped him become a better football player, he says, as the Heisman winner prepares for the 2026 NFL draft."
+      "published": "2026-04-07T11:35:58+0000",
+      "summary": "Marte Mapu will be let go by the team ahead of the upcoming NFL Draft."
+    },
+    {
+      "id": "f10c915ae7d3bf5e",
+      "title": "2018 NFL re-draft: Tennessee Titans land four-time All-Pro in Round 1",
+      "link": "https://sports.yahoo.com/articles/2018-nfl-draft-tennessee-titans-113055389.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-07T11:30:55+0000",
+      "summary": "The Tennessee Titans make a change in our 2018 NFL re-draft, landing a four-time All-Pro in Round 1."
+    },
+    {
+      "id": "b470fe5f7de6e238",
+      "title": "Ex-Dolphins teammate reacts to Jaylen Waddle joining Broncos",
+      "link": "https://sports.yahoo.com/articles/ex-dolphins-teammate-reacts-jaylen-113031969.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-07T11:30:31+0000",
+      "summary": "Terron Armstead, who played under Sean Payton in New Orleans and played with Jaylen Waddle in Miami, reacted to the trade on NFL Network."
     },
     {
       "id": "528df1dd7b6fa236",
@@ -72,15 +108,6 @@
       "feed": "ESPN",
       "published": "2026-04-07T02:55:29+0000",
       "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
-    },
-    {
-      "id": "44026a31017456d8",
-      "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-07T02:55:24+0000",
-      "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
     },
     {
       "id": "1f607139c46fa400",
@@ -144,15 +171,6 @@
       "feed": "Colts.com",
       "published": "2026-04-06T16:00:16+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back with the 2026 NFL Draft fast approaching."
-    },
-    {
-      "id": "9259988f0f6abb1c",
-      "title": "End of the feature back? What the rise of running back tandems means for the NFL draft",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48349028/nfl-draft-2026-running-backs-sharing-carries",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-06T15:21:16+0000",
-      "summary": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing."
     },
     {
       "id": "70e6551d5b0f452a",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-16T16:53:01+0000",
       "summary": "The Colts last week re-signed Grupe, who set a franchise record with a 60-yard field goal last season."
-    },
-    {
-      "id": "9107993578cffafe",
-      "title": "Colts 2026 Mock Draft Monday: After first wave of free agency",
-      "link": "https://colts.com/news/colts-2026-mock-draft-monday-after-first-wave-of-free-agency",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-16T16:00:47+0000",
-      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
-    },
-    {
-      "id": "09adf2fa96b4934a",
-      "title": "Colts re-sign tight end Mo Alie-Cox; Alec Pierce contract details released",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-mo-alie-cox-alec-pierce-contract-details-released/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-15T00:48:06+0000",
-      "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
     }
   ],
   "links": [
