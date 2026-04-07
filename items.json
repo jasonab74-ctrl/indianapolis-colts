@@ -1,41 +1,23 @@
 {
-  "updated": "2026-04-07T14:52:00+00:00",
+  "updated": "2026-04-07T16:08:52+00:00",
   "items": [
     {
-      "id": "292097ab4aab09a2",
-      "title": "2026 NFL Draft: A WR in every round for the Steelers",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-wr-every-144144143.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-07T14:41:44+0000",
-      "summary": "We expect the Steelers to select at least one wide receiver in the 2026 NFL draft and here are our favorites."
-    },
-    {
-      "id": "b6f77db03dbf6986",
-      "title": "Report: Tennessee Titans not looking to draft Rueben Bain Jr.",
-      "link": "https://sports.yahoo.com/articles/report-tennessee-titans-not-looking-143503584.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-07T14:35:03+0000",
-      "summary": "The Tennessee Titans are apparently uninterested in edge rusher Rueben Bain Jr., reports one NFL draft insider."
-    },
-    {
-      "id": "528df1dd7b6fa236",
-      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
-      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "id": "8f6ce9333e076dfe",
+      "title": "New NFL mock draft: Schrager projects all 32 first-round picks based on what he's hearing",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-07T14:28:47+0000",
-      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+      "published": "2026-04-07T16:58:21+0000",
+      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft. Here's where things stand right now in Round 1."
     },
     {
-      "id": "7afd9d05c4158a90",
-      "title": "'Thank you football': LB Walker retires from NFL",
-      "link": "https://espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
+      "id": "bce0ec7875382881",
+      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-07T14:28:47+0000",
-      "summary": "Linebacker Anthony Walker Jr. announced his retirement from the NFL on Thursday."
+      "published": "2026-04-07T16:58:21+0000",
+      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
     },
     {
       "id": "2eca9834822b9acb",
@@ -43,8 +25,53 @@
       "link": "https://espn.com/nfl/story/_/id/48413987/new-york-giants-cannot-afford-trade-dexter-lawrence",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-07T12:42:49+0000",
+      "published": "2026-04-07T16:58:14+0000",
       "summary": "Honoring Lawrence's request is unlikely at this stage of the NFL calendar."
+    },
+    {
+      "id": "44026a31017456d8",
+      "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T16:35:56+0000",
+      "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
+    },
+    {
+      "id": "621a0491eeaed914",
+      "title": "How A.J. Terrell Jr. mentored his brother, Avieon, who's set to join the All-Pro in the NFL",
+      "link": "https://espn.com/nfl/story/_/id/48347414/2026-nfl-draft-avieon-terrell-aj-terrell-jr-mentored-brother-clemson-atlanta-falcons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T16:35:51+0000",
+      "summary": "Set to be a first-round cornerback in the NFL draft like his brother, Avieon Terrell has looked to A.J. as his inspiration throughout his life."
+    },
+    {
+      "id": "efa1770e4468f503",
+      "title": "Pitts signing tag, reports to Falcons' workouts",
+      "link": "https://espn.com/nfl/story/_/id/48420592/kyle-pitts-signing-franchise-tag-reports-falcons-workouts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T16:17:12+0000",
+      "summary": "Tight end Kyle Pitts Sr. is signing his franchise tender and reported for the beginning of the Falcons' offseason workout program, according to NFL Network."
+    },
+    {
+      "id": "528df1dd7b6fa236",
+      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
+      "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-07T16:17:12+0000",
+      "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+    },
+    {
+      "id": "e30196cab477dc2f",
+      "title": "Kamari Ramsey predicted to be Titans' next potential star safety",
+      "link": "https://sports.yahoo.com/articles/kamari-ramsey-predicted-titans-next-155337776.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-07T15:53:37+0000",
+      "summary": "One ESPN NFL draft analyst has Kamari Ramsey joining Robert Saleh's new operation in Tennessee. Getting a great defensive coach would boost Ramsey"
     },
     {
       "id": "fbb912a1060524b1",
@@ -65,33 +92,6 @@
       "summary": "Mike Clay delivers bite-sized but detailed breakdowns of his top 45 running backs for 2026."
     },
     {
-      "id": "44026a31017456d8",
-      "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-07T12:24:10+0000",
-      "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
-    },
-    {
-      "id": "8f6ce9333e076dfe",
-      "title": "New NFL mock draft: Schrager projects all 32 first-round picks based on what he's hearing",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-07T12:22:47+0000",
-      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft. Here's where things stand right now in Round 1."
-    },
-    {
-      "id": "bce0ec7875382881",
-      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-07T12:22:46+0000",
-      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
-    },
-    {
       "id": "1f607139c46fa400",
       "title": "NFL free agency grades: Sizing up 60-plus big signings and trades",
       "link": "https://espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
@@ -99,15 +99,6 @@
       "feed": "ESPN",
       "published": "2026-04-07T00:31:49+0000",
       "summary": "We're handing out report cards on big moves, including the Raiders' Kirk Cousins signing."
-    },
-    {
-      "id": "621a0491eeaed914",
-      "title": "How A.J. Terrell Jr. mentored his brother, Avieon, who's set to join the All-Pro in the NFL",
-      "link": "https://espn.com/nfl/story/_/id/48347414/2026-nfl-draft-avieon-terrell-aj-terrell-jr-mentored-brother-clemson-atlanta-falcons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-06T21:50:58+0000",
-      "summary": "Set to be a first-round cornerback in the NFL draft like his brother, Avieon Terrell has looked to A.J. as his inspiration throughout his life."
     },
     {
       "id": "cc65193efff477a8",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-03-15T00:48:06+0000",
       "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
+    },
+    {
+      "id": "cf52c39b8c2a5c66",
+      "title": "Colts re-sign WR Laquon Treadwell",
+      "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T20:13:55+0000",
+      "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
     }
   ],
   "links": [
