@@ -1,13 +1,22 @@
 {
-  "updated": "2026-04-08T17:02:31+00:00",
+  "updated": "2026-04-08T18:46:01+00:00",
   "items": [
+    {
+      "id": "ac4c7d035bae9be5",
+      "title": "Sources: Giants, ex-Ravens G Faalele reach deal",
+      "link": "https://espn.com/nfl/story/_/id/48430717/sources-faalele-latest-ex-raven-follow-harbaugh-giants",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T19:05:14+0000",
+      "summary": "The Giants made an offensive line addition Wednesday, agreeing to a one-year deal with former Ravens guard Daniel Faalele, according to NFL Network."
+    },
     {
       "id": "f658fda4b5b4a50f",
       "title": "Sources: Mendoza not planning to attend draft",
       "link": "https://espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-08T17:55:50+0000",
+      "published": "2026-04-08T19:05:13+0000",
       "summary": "Fernando Mendoza has informed the NFL that he is not planning to attend the draft, sources told ESPN."
     },
     {
@@ -16,8 +25,71 @@
       "link": "https://espn.com/nfl/story/_/id/48413987/new-york-giants-cannot-afford-trade-dexter-lawrence",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-08T16:44:32+0000",
+      "published": "2026-04-08T18:36:32+0000",
       "summary": "Honoring Lawrence's request is unlikely at this stage of the NFL calendar."
+    },
+    {
+      "id": "6bc839e34815f74b",
+      "title": "New mock draft: Schrager projects every first-round pick based on what he's hearing",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T18:36:11+0000",
+      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft."
+    },
+    {
+      "id": "bce0ec7875382881",
+      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T18:36:10+0000",
+      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
+    },
+    {
+      "id": "c2f62f8e571af032",
+      "title": "'He's reinvigorated': A rare long offseason has given Andy Reid time to make changes",
+      "link": "https://espn.com/nfl/story/_/id/48414312/kansas-city-chiefs-andy-reid-2026-pivotal-season",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T18:36:02+0000",
+      "summary": "The NFL's oldest and longest-tenured coach faces a task he hasn't seen in a long time -- a bounce-back season."
+    },
+    {
+      "id": "81686e42de093d64",
+      "title": "2026 NFL Draft quarterback’s stock takes big hit",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-quarterback-stock-183509922.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-08T18:35:09+0000",
+      "summary": "As NFL teams begin voluntary workouts, they also turn their attention to preparing for the 2026 NFL Draft. Front offices are finalizing draft boards and scheduling Top-30 visits. Quarterback has emerged as the most polarizing position in this year’s class.…"
+    },
+    {
+      "id": "feb37b457af0a24c",
+      "title": "Complete 2026 NFL draft order for all 32 teams",
+      "link": "https://sports.yahoo.com/articles/complete-2026-nfl-draft-order-183314891.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-08T18:33:14+0000",
+      "summary": "The NFL draft is about two weeks away. There are teams like the Steelers and Ravens that have stockpiled picks, each with a dozen."
+    },
+    {
+      "id": "2f354311d6510017",
+      "title": "NFL analyst says Mac Jones could be next QB to revitalize career",
+      "link": "https://sports.yahoo.com/articles/nfl-analyst-says-mac-jones-181532869.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-08T18:15:32+0000",
+      "summary": "Mac Jones proved in 2025 that he can still play at a high level, and other teams might want a piece of that in 2027."
+    },
+    {
+      "id": "7d7f11809aed87b0",
+      "title": "Bills want new Highmark Stadium to have special regular season debut",
+      "link": "https://sports.yahoo.com/articles/bills-want-highmark-stadium-special-181526096.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-08T18:15:26+0000",
+      "summary": "The Bills asked the NFL about an idea the team has for the new Highmark Stadium."
     },
     {
       "id": "44026a31017456d8",
@@ -45,33 +117,6 @@
       "feed": "ESPN",
       "published": "2026-04-08T16:18:24+0000",
       "summary": "Many of the NFL draft's most talented prospects come with big questions. We asked sources about them."
-    },
-    {
-      "id": "d615e6bbf8231d15",
-      "title": "'He's reinvigorated': A rare long offseason has given Andy Reid time to make changes",
-      "link": "https://espn.com/nfl/story/_/id/48414312/kansas-city-chiefs-andy-reid-2026-pivotal-seasonkansas-city-chiefs-andy-reid-2026-pivotal-season",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T14:31:21+0000",
-      "summary": "The NFL's oldest and longest-tenured coach faces a task he hasn't seen in a long time -- a bounce-back season."
-    },
-    {
-      "id": "8f6ce9333e076dfe",
-      "title": "New mock draft: Schrager projects every first-round pick based on what he's hearing",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T14:30:47+0000",
-      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft."
-    },
-    {
-      "id": "bce0ec7875382881",
-      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T14:30:47+0000",
-      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
     },
     {
       "id": "fba11b7105409423",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T20:13:55+0000",
       "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
-    },
-    {
-      "id": "dbf446884f2548dc",
-      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T19:34:38+0000",
-      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
-    },
-    {
-      "id": "89aa2aa3a8911b9d",
-      "title": "Colts sign free agent DT Derrick Nnadi",
-      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:30:28+0000",
-      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
-    },
-    {
-      "id": "b3f9653f48c88f59",
-      "title": "Colts re-sign TE Drew Ogletree",
-      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:02:04+0000",
-      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
-    },
-    {
-      "id": "10de0843d4b167f8",
-      "title": "Colts hold 7 picks in NFL Draft",
-      "link": "https://fox59.com/sports/colts/colts-hold-7-picks-in-nfl-draft/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T17:44:14+0000",
-      "summary": "INDIANAPOLIS – The Indianapolis Colts’ allotment of picks in the April 23-25 draft has been set. For now. With the trade of Michael Pittman Jr. and a seventh-round pick (No. 230) to the Pittsburgh Steelers becoming official Friday, the Colts received a sixth-round pick (No. 214). That brings their draft stash to seven picks. A [...]"
-    },
-    {
-      "id": "18d40ddc5d178fc0",
-      "title": "Colts' full 2026 NFL Draft picks announced",
-      "link": "https://colts.com/news/every-pick-in-2026-nfl-draft-second-round-seven-selections",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T17:30:46+0000",
-      "summary": "The Colts own seven picks in the 2026 NFL Draft, beginning with the No. 47 overall pick in the second round."
     }
   ],
   "links": [
