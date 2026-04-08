@@ -1,41 +1,23 @@
 {
-  "updated": "2026-04-08T00:01:56+00:00",
+  "updated": "2026-04-08T03:38:24+00:00",
   "items": [
     {
-      "id": "164f3b20c00c8357",
-      "title": "What we're hearing on the Cowboys' draft plans: Intel on the Nos. 12 and 20 picks",
-      "link": "https://espn.com/nfl/story/_/id/48421367/2026-nfl-draft-dallas-cowboys-updates-buzz-intel-picks-positions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T00:50:16+0000",
-      "summary": "The Cowboys have eight picks, two in Round 1. Here's the latest on what Dallas might do in the 2026 NFL draft."
-    },
-    {
-      "id": "8f6ce9333e076dfe",
-      "title": "New mock draft: Schrager projects every first-round pick based on what he's hearing",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T00:07:39+0000",
-      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft."
-    },
-    {
-      "id": "bce0ec7875382881",
-      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T00:07:39+0000",
-      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
-    },
-    {
-      "id": "5c8228776eb2a986",
-      "title": "Complicated Browns draft trade proposal is interesting, not enough value",
-      "link": "https://sports.yahoo.com/articles/complicated-browns-draft-trade-proposal-232449922.html",
+      "id": "a6e14306df15bd9d",
+      "title": "Why did Carson Walch leave the NFL for New Mexico?",
+      "link": "https://sports.yahoo.com/articles/why-did-carson-walch-leave-030900923.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-07T23:24:49+0000",
-      "summary": "An NFL mock draft that is all about trades, the ones involving the Cleveland Browns are underwhelming"
+      "published": "2026-04-08T03:09:00+0000",
+      "summary": "Carson Walch was a believer almost from the start. In 2007, Division II Winona State, a small public school in southeast Minnesota, was looking for a new offensive line coach. As the Warriors’ first-year assistant head coach, offensive coordinator and receivers coach, Walch sat in to help interview Jason Eck, a candidate for the gig after spending the last three years at Idaho. If he wasn’t ..."
+    },
+    {
+      "id": "0eecd2e0fd608ad9",
+      "title": "Colts head coach Shane Steichen improves year-to-year in Rotoworld rankings",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/123134/colts-head-coach-shane-steichen-improves-year-to-year-in-rotoworld-rankings",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-08T02:02:04+0000",
+      "summary": "According to Rotoworld’s Patrick Daugherty, despite his team failing to make the playoffs again, Indianapolis Colts head coach Shane Steichen improved from 20th to 15th year-to-year in their latest 2026 NFL head coach rankings: 15. Shane Steichen, Colts Career Record: 25-26 (.490)With The Colts Since: 2023Last Year’s Ranking: 20 We are trying to answer an [&#8230;]"
     },
     {
       "id": "f658fda4b5b4a50f",
@@ -43,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-07T20:35:41+0000",
+      "published": "2026-04-08T01:09:47+0000",
       "summary": "Fernando Mendoza has informed the NFL that he is not planning to attend the draft, sources told ESPN."
     },
     {
@@ -52,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48420592/kyle-pitts-signing-franchise-tag-reports-falcons-workouts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-07T20:35:41+0000",
+      "published": "2026-04-08T01:09:47+0000",
       "summary": "Tight end Kyle Pitts Sr. is signing his franchise tender and reported for the beginning of the Falcons' offseason workout program, according to NFL Network."
     },
     {
@@ -61,8 +43,35 @@
       "link": "https://espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-07T20:35:41+0000",
+      "published": "2026-04-08T01:09:47+0000",
       "summary": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\""
+    },
+    {
+      "id": "8f6ce9333e076dfe",
+      "title": "New mock draft: Schrager projects every first-round pick based on what he's hearing",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T01:00:58+0000",
+      "summary": "Peter Schrager leans on his intel after last week's annual league meeting to project picks in the NFL draft."
+    },
+    {
+      "id": "bce0ec7875382881",
+      "title": "Best NFL comps for this draft class: Experts pick 15 perfect matches for top prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48407219/2026-nfl-draft-comps-best-prospect-pro-matches-comparisons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T01:00:57+0000",
+      "summary": "Who are the best comps for Rueben Bain Jr., Jermod McCoy and Fernando Mendoza?"
+    },
+    {
+      "id": "164f3b20c00c8357",
+      "title": "What we're hearing on the Cowboys' draft plans: Intel on the Nos. 12 and 20 picks",
+      "link": "https://espn.com/nfl/story/_/id/48421367/2026-nfl-draft-dallas-cowboys-updates-buzz-intel-picks-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T00:50:16+0000",
+      "summary": "The Cowboys have eight picks, two in Round 1. Here's the latest on what Dallas might do in the 2026 NFL draft."
     },
     {
       "id": "2eca9834822b9acb",
@@ -207,15 +216,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-04T19:43:30+0000",
       "summary": "Cue the SpongeBob meme in which he is holding a paper clip and a string because that is just about all the Indianapolis Colts sound like they will be getting in return for Anthony Richardson if they can find a trade partner. Gone are the days of the Vikings being rumored to offer four first-round [&#8230;]"
-    },
-    {
-      "id": "6874a5685830832f",
-      "title": "Colts Reacts Survey Results",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/123044/colts-reacts-survey-results",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-04T17:32:33+0000",
-      "summary": "With this month’s upcoming NFL Draft rapidly approaching, the Indianapolis Colts still have a number of key positional holes to fill, which they so far haven’t in free agency. In particular, the Colts’ starting defensive positions of edge and linebacker need to be addressed, while outside wide receiver could also be a position of need [&#8230;]"
     },
     {
       "id": "712ab713fb4234c3",
