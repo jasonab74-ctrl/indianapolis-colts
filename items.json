@@ -1,13 +1,22 @@
 {
-  "updated": "2026-04-08T18:46:01+00:00",
+  "updated": "2026-04-08T19:57:50+00:00",
   "items": [
+    {
+      "id": "a670cfecbba80d1e",
+      "title": "Ravens say Lamar excited to work with new staff",
+      "link": "https://espn.com/nfl/story/_/id/48431404/ravens-say-jackson-excited-work-new-coaching-staff",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T20:27:42+0000",
+      "summary": "The Baltimore Ravens noticed a difference in quarterback Lamar Jackson when the two-time NFL Most Valuable Player reported for the start of offseason workouts this week."
+    },
     {
       "id": "ac4c7d035bae9be5",
       "title": "Sources: Giants, ex-Ravens G Faalele reach deal",
       "link": "https://espn.com/nfl/story/_/id/48430717/sources-faalele-latest-ex-raven-follow-harbaugh-giants",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-08T19:05:14+0000",
+      "published": "2026-04-08T20:27:41+0000",
       "summary": "The Giants made an offensive line addition Wednesday, agreeing to a one-year deal with former Ravens guard Daniel Faalele, according to NFL Network."
     },
     {
@@ -16,8 +25,35 @@
       "link": "https://espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-08T19:05:13+0000",
+      "published": "2026-04-08T20:27:41+0000",
       "summary": "Fernando Mendoza has informed the NFL that he is not planning to attend the draft, sources told ESPN."
+    },
+    {
+      "id": "dae42482345c6d26",
+      "title": "What execs, scouts are saying about the NFL draft class' most polarizing players",
+      "link": "https://espn.com/nfl/story/_/id/48420715/nfl-execs-scouts-2026-draft-most-polarizing-players",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T19:59:44+0000",
+      "summary": "Many of the NFL draft's most talented prospects come with big questions. We asked sources about them."
+    },
+    {
+      "id": "ea14713e595d5da3",
+      "title": "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-08T19:59:44+0000",
+      "summary": "Projecting landing spots for the nine QBs he considers draftable in the 2026 class (and one trade)."
+    },
+    {
+      "id": "ccd7a857b2d45b43",
+      "title": "Colts’ Ballard better draft like it’s 2018",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123137/colts-ballard-better-draft-like-its-2018",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-08T19:00:00+0000",
+      "summary": "Chris “the cat” Ballard. That is an appropriate name given the number of lives he has had with the Indianapolis Colts. Every year seems like his last, yet he keeps going. The hopes are high he will succeed, but the faith meter is low. If he is going to pull a rabbit out of his [&#8230;]"
     },
     {
       "id": "2eca9834822b9acb",
@@ -56,42 +92,6 @@
       "summary": "The NFL's oldest and longest-tenured coach faces a task he hasn't seen in a long time -- a bounce-back season."
     },
     {
-      "id": "81686e42de093d64",
-      "title": "2026 NFL Draft quarterback’s stock takes big hit",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-quarterback-stock-183509922.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-08T18:35:09+0000",
-      "summary": "As NFL teams begin voluntary workouts, they also turn their attention to preparing for the 2026 NFL Draft. Front offices are finalizing draft boards and scheduling Top-30 visits. Quarterback has emerged as the most polarizing position in this year’s class.…"
-    },
-    {
-      "id": "feb37b457af0a24c",
-      "title": "Complete 2026 NFL draft order for all 32 teams",
-      "link": "https://sports.yahoo.com/articles/complete-2026-nfl-draft-order-183314891.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-08T18:33:14+0000",
-      "summary": "The NFL draft is about two weeks away. There are teams like the Steelers and Ravens that have stockpiled picks, each with a dozen."
-    },
-    {
-      "id": "2f354311d6510017",
-      "title": "NFL analyst says Mac Jones could be next QB to revitalize career",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-says-mac-jones-181532869.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-08T18:15:32+0000",
-      "summary": "Mac Jones proved in 2025 that he can still play at a high level, and other teams might want a piece of that in 2027."
-    },
-    {
-      "id": "7d7f11809aed87b0",
-      "title": "Bills want new Highmark Stadium to have special regular season debut",
-      "link": "https://sports.yahoo.com/articles/bills-want-highmark-stadium-special-181526096.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-08T18:15:26+0000",
-      "summary": "The Bills asked the NFL about an idea the team has for the new Highmark Stadium."
-    },
-    {
       "id": "44026a31017456d8",
       "title": "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
@@ -99,24 +99,6 @@
       "feed": "ESPN",
       "published": "2026-04-08T16:44:26+0000",
       "summary": "We proposed 32 trades to shake up Round 1 -- one at every slot -- including deals that involve McCarthy and Crosby."
-    },
-    {
-      "id": "ea14713e595d5da3",
-      "title": "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215: New homes for nine passers",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T16:38:10+0000",
-      "summary": "Ben Solak projects landing spots for the nine QBs he considers draftable in the 2026 class (and one trade) and sizes up each team fit."
-    },
-    {
-      "id": "dae42482345c6d26",
-      "title": "What execs, scouts are saying about the NFL draft class' most polarizing players",
-      "link": "https://espn.com/nfl/story/_/id/48420715/nfl-execs-scouts-2026-draft-most-polarizing-players",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T16:18:24+0000",
-      "summary": "Many of the NFL draft's most talented prospects come with big questions. We asked sources about them."
     },
     {
       "id": "fba11b7105409423",
@@ -216,15 +198,6 @@
       "feed": "CBS4Indy",
       "published": "2026-04-04T22:55:59+0000",
       "summary": "INDIANAPOLIS — Andrew Luck begs to differ with Eric Ebron. The former Indianapolis Colts quarterback reacted and refuted comments from former teammate Eric Ebron, insisting general manager Chris Ballard issued a play-or-else ultimatum prior to Luck’s decision to retire in the weeks leading up to the 2019 season. \"Chris and I had a wonderful partnership, [...]"
-    },
-    {
-      "id": "6982b3474a65d58b",
-      "title": "The Colts hold responsibility for the soft Richardson trade market",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123008/the-colts-hold-responsibility-for-the-soft-richardson-trade-market",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-04T19:43:30+0000",
-      "summary": "Cue the SpongeBob meme in which he is holding a paper clip and a string because that is just about all the Indianapolis Colts sound like they will be getting in return for Anthony Richardson if they can find a trade partner. Gone are the days of the Vikings being rumored to offer four first-round [&#8230;]"
     },
     {
       "id": "712ab713fb4234c3",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-03-13T20:13:55+0000",
       "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
+    },
+    {
+      "id": "dbf446884f2548dc",
+      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
+      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-13T19:34:38+0000",
+      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
+    },
+    {
+      "id": "89aa2aa3a8911b9d",
+      "title": "Colts sign free agent DT Derrick Nnadi",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:30:28+0000",
+      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
+    },
+    {
+      "id": "b3f9653f48c88f59",
+      "title": "Colts re-sign TE Drew Ogletree",
+      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:02:04+0000",
+      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
     }
   ],
   "links": [
