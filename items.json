@@ -1,59 +1,68 @@
 {
-  "updated": "2026-04-09T15:21:27+00:00",
+  "updated": "2026-04-09T16:47:29+00:00",
   "items": [
-    {
-      "id": "31c7163492262e38",
-      "title": "DOJ opens investigation into NFL",
-      "link": "https://sports.yahoo.com/articles/doj-opens-investigation-nfl-151147332.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T15:11:47+0000",
-      "summary": "The attack on the league's antitrust exemption intensifies."
-    },
-    {
-      "id": "f0e670761c5c324d",
-      "title": "Pass defense remains Cowboys' primary focus in 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/pass-defense-remains-cowboys-primary-150604183.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T15:06:04+0000",
-      "summary": "The Cowboys head into the 2026 NFL draft but focusing on their passing defense this season is a major priority."
-    },
-    {
-      "id": "e7b3818ed63acb78",
-      "title": "Top “my guys” for the Houston Texans 2026 NFL Draft Class",
-      "link": "https://sports.yahoo.com/articles/top-guys-houston-texans-2026-150200249.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T15:02:00+0000",
-      "summary": "Hours spent pouring over film, digging into player backgrounds, and tracking countless school transfers all culminate in this list of my favorite draft targets for the Houston Texans. These are the players I’d gladly pound the table for if I were sitting in the Texans’ draft war room regardless of where they ultimately come off […]"
-    },
-    {
-      "id": "12f5961fb19c2a9d",
-      "title": "Detroit Lions NFL Draft Injury Report: Indiana EDGE Mikail Kamara",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-nfl-draft-injury-150105957.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T15:01:05+0000",
-      "summary": "Mikail Kamara NFL Draft medical report. Full injury analysis heading into the 2026 NFL draft. How will it affect Detroit Lions draft strategy?"
-    },
-    {
-      "id": "e2bd530663eec770",
-      "title": "Patriots receive visit from most mocked player to be drafted by team",
-      "link": "https://sports.yahoo.com/articles/patriots-receive-visit-most-mocked-150103873.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T15:01:03+0000",
-      "summary": "Missouri defensive end Zion Young reportedly had a visit with the Patriots prior to the 2026 NFL Draft."
-    },
     {
       "id": "97c3322e31eaa256",
       "title": "The latest NFL draft intel for all 32 teams: What we're hearing on how the picks could play out",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48378778/2026-nfl-draft-latest-buzz-rumors-news-answering-questions-all-32-teams-picks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-09T13:54:01+0000",
+      "published": "2026-04-09T17:09:38+0000",
       "summary": "Our NFL reporters answer questions for every team two weeks out from the draft, and our analysts weigh in with some new intel on picks and moves."
+    },
+    {
+      "id": "3dbeedfba333f450",
+      "title": "KC Concepcion visits with Miami Dolphins ahead of 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/kc-concepcion-visits-miami-dolphins-163744582.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T16:37:44+0000",
+      "summary": "Considered a top wide receiver in this year’s class, Concepcion meets with Miami’s brass two weeks before the draft."
+    },
+    {
+      "id": "8eeebbbac8a83ff5",
+      "title": "Highlights from Jaguars' Gladstone, Coen's pre-draft press conference",
+      "link": "https://sports.yahoo.com/articles/highlights-jaguars-gladstone-coens-pre-163129464.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T16:31:29+0000",
+      "summary": "The Jaguars' James Gladstone and Liam Coen spoke with the media ahead of the 2026 NFL draft. Here are the highlights from it."
+    },
+    {
+      "id": "f42c393f46ba8447",
+      "title": "NFL Analyst Explains Why Next Steelers QB Is In Enviable Spot",
+      "link": "https://sports.yahoo.com/articles/nfl-analyst-explains-why-next-162834025.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T16:28:34+0000",
+      "summary": "Pittsburgh's next QB is primed for success."
+    },
+    {
+      "id": "b5bf53b19f445b25",
+      "title": "Rams land Davante Adams replacement in first round of latest ESPN NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/rams-land-davante-adams-replacement-162634357.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T16:26:34+0000",
+      "summary": "A potent offensive attack has become the calling card of the Los Angeles Rams with quarterback Matthew Stafford.  In order for that to remain the case, the Rams will have to infuse their offense with some young talent, which they could early on in the upcoming 2026 NFL Draft.  In the first round of his latest mock draft, ESPN's Peter Schrager has the Rams selecting USC wide receiver Makai Lemon with the No. 13 overall pick in the draft."
+    },
+    {
+      "id": "7ef1e8b096d23ce3",
+      "title": "Patriots Suddenly In Danger Of Losing Draft Target To AFC East Rival",
+      "link": "https://sports.yahoo.com/articles/patriots-suddenly-danger-losing-draft-162553325.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T16:25:53+0000",
+      "summary": "The New England Patriots have the 31st pick in the NFL Draft, and their AFC East rivals will have five opportunities to pick before them."
+    },
+    {
+      "id": "63453da329e2a64b",
+      "title": "DOJ probing NFL over games on paid platforms, sources say",
+      "link": "https://sports.yahoo.com/articles/doj-probing-nfl-over-games-162333001.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T16:23:33+0000",
+      "summary": "The NFL is being investigated for practices that allegedly harm consumers for licensing games to multiple platforms — paid streaming platforms, paid cable networks, and others, sources said."
     },
     {
       "id": "ea14713e595d5da3",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-15T00:48:06+0000",
       "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
-    },
-    {
-      "id": "cf52c39b8c2a5c66",
-      "title": "Colts re-sign WR Laquon Treadwell",
-      "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T20:13:55+0000",
-      "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
     }
   ],
   "links": [
