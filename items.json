@@ -1,6 +1,51 @@
 {
-  "updated": "2026-04-09T13:49:45+00:00",
+  "updated": "2026-04-09T15:21:27+00:00",
   "items": [
+    {
+      "id": "31c7163492262e38",
+      "title": "DOJ opens investigation into NFL",
+      "link": "https://sports.yahoo.com/articles/doj-opens-investigation-nfl-151147332.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T15:11:47+0000",
+      "summary": "The attack on the league's antitrust exemption intensifies."
+    },
+    {
+      "id": "f0e670761c5c324d",
+      "title": "Pass defense remains Cowboys' primary focus in 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/pass-defense-remains-cowboys-primary-150604183.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T15:06:04+0000",
+      "summary": "The Cowboys head into the 2026 NFL draft but focusing on their passing defense this season is a major priority."
+    },
+    {
+      "id": "e7b3818ed63acb78",
+      "title": "Top “my guys” for the Houston Texans 2026 NFL Draft Class",
+      "link": "https://sports.yahoo.com/articles/top-guys-houston-texans-2026-150200249.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T15:02:00+0000",
+      "summary": "Hours spent pouring over film, digging into player backgrounds, and tracking countless school transfers all culminate in this list of my favorite draft targets for the Houston Texans. These are the players I’d gladly pound the table for if I were sitting in the Texans’ draft war room regardless of where they ultimately come off […]"
+    },
+    {
+      "id": "12f5961fb19c2a9d",
+      "title": "Detroit Lions NFL Draft Injury Report: Indiana EDGE Mikail Kamara",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-nfl-draft-injury-150105957.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T15:01:05+0000",
+      "summary": "Mikail Kamara NFL Draft medical report. Full injury analysis heading into the 2026 NFL draft. How will it affect Detroit Lions draft strategy?"
+    },
+    {
+      "id": "e2bd530663eec770",
+      "title": "Patriots receive visit from most mocked player to be drafted by team",
+      "link": "https://sports.yahoo.com/articles/patriots-receive-visit-most-mocked-150103873.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T15:01:03+0000",
+      "summary": "Missouri defensive end Zion Young reportedly had a visit with the Patriots prior to the 2026 NFL Draft."
+    },
     {
       "id": "97c3322e31eaa256",
       "title": "The latest NFL draft intel for all 32 teams: What we're hearing on how the picks could play out",
@@ -9,69 +54,6 @@
       "feed": "ESPN",
       "published": "2026-04-09T13:54:01+0000",
       "summary": "Our NFL reporters answer questions for every team two weeks out from the draft, and our analysts weigh in with some new intel on picks and moves."
-    },
-    {
-      "id": "8fb2e2c753a72ed2",
-      "title": "Steelers linked to DK Metcalf trade prediction ahead of 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/steelers-linked-dk-metcalf-trade-134159836.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:41:59+0000",
-      "summary": "Pittsburgh Steelers WR DK Metcalf has been linked to a potential trade with the Washington Commanders."
-    },
-    {
-      "id": "20c2a8e0561c8f1c",
-      "title": "Packers prospects: 8 best quarterback fits in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/packers-prospects-8-best-quarterback-134149688.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:41:49+0000",
-      "summary": "Based on size, athleticism and experience, there are eight quarterbacks in the 2026 Draft who fit what Green Bay usually looks for."
-    },
-    {
-      "id": "cabc87125b4152c3",
-      "title": "Kirk Cousins spoils Raiders' NFL Draft plans, says he doesn't want to start unless he's 'the best option'",
-      "link": "https://sports.yahoo.com/nfl/article/kirk-cousins-spoils-raiders-nfl-draft-plans-says-he-doesnt-want-to-start-unless-hes-the-best-option-133047802.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:30:47+0000",
-      "summary": "Kirk Cousins is ready to help Fernando Mendoza any way he can."
-    },
-    {
-      "id": "bfe017717d3d445f",
-      "title": "Bengals would love if NFL draft 'faller' prediction comes true",
-      "link": "https://sports.yahoo.com/articles/bengals-love-nfl-draft-faller-132839359.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:28:39+0000",
-      "summary": "If this prospect falls to the Bengals, it's an A+ trip to the NFL draft."
-    },
-    {
-      "id": "216bfef850c4d4e8",
-      "title": "One player for all 32 teams who could be traded during the NFL draft",
-      "link": "https://sports.yahoo.com/articles/one-player-32-teams-could-132735782.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:27:35+0000",
-      "summary": "NFL draft night trades have included A.J. Brown and Eli Manning. Here is one player from each team that could be traded during the 2026 NFL draft."
-    },
-    {
-      "id": "6a43385c8589633d",
-      "title": "Browns Draft Profile: S Jalen Huskey would help depth, options",
-      "link": "https://sports.yahoo.com/articles/browns-draft-profile-jalen-huskey-132343865.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:23:43+0000",
-      "summary": "The Cleveland Browns need safety help with the 2026 NFL draft providing options, including Jalen Huskey"
-    },
-    {
-      "id": "813b44df256bdb7f",
-      "title": "Report: Rams expected to target LB early, likely in 2nd round",
-      "link": "https://sports.yahoo.com/articles/report-rams-expected-target-lb-132258136.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T13:22:58+0000",
-      "summary": "ESPN's Matt Miller says people around the NFL believe the Rams will target a linebacker early, potentially in Round 2."
     },
     {
       "id": "ea14713e595d5da3",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-03-16T16:00:47+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
+    },
+    {
+      "id": "09adf2fa96b4934a",
+      "title": "Colts re-sign tight end Mo Alie-Cox; Alec Pierce contract details released",
+      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-mo-alie-cox-alec-pierce-contract-details-released/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-15T00:48:06+0000",
+      "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
+    },
+    {
+      "id": "cf52c39b8c2a5c66",
+      "title": "Colts re-sign WR Laquon Treadwell",
+      "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T20:13:55+0000",
+      "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
     }
   ],
   "links": [
