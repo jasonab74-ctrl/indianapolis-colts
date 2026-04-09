@@ -1,6 +1,60 @@
 {
-  "updated": "2026-04-09T17:57:15+00:00",
+  "updated": "2026-04-09T19:13:59+00:00",
   "items": [
+    {
+      "id": "93c3b2f3b7173e74",
+      "title": "Sources: DOJ opens probe of NFL over TV deals",
+      "link": "https://espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-09T20:06:31+0000",
+      "summary": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consumers to pay subscription costs to watch some games, sources confirmed to ABC News."
+    },
+    {
+      "id": "ac4c7d035bae9be5",
+      "title": "Sources: Giants, ex-Ravens G Faalele reach deal",
+      "link": "https://espn.com/nfl/story/_/id/48430717/sources-faalele-latest-ex-raven-follow-harbaugh-giants",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-09T20:06:31+0000",
+      "summary": "The Giants made an offensive line addition Wednesday, agreeing to a one-year deal with former Ravens guard Daniel Faalele, according to NFL Network."
+    },
+    {
+      "id": "a670cfecbba80d1e",
+      "title": "Ravens say Lamar excited to work with new staff",
+      "link": "https://espn.com/nfl/story/_/id/48431404/ravens-say-jackson-excited-work-new-coaching-staff",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-09T20:06:31+0000",
+      "summary": "The Baltimore Ravens noticed a difference in quarterback Lamar Jackson when the two-time NFL Most Valuable Player reported for the start of offseason workouts this week."
+    },
+    {
+      "id": "97c3322e31eaa256",
+      "title": "The latest NFL draft intel for all 32 teams: What we're hearing on how the picks could play out",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48378778/2026-nfl-draft-latest-buzz-rumors-news-answering-questions-all-32-teams-picks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-09T19:59:34+0000",
+      "summary": "Our NFL reporters answer questions for every team two weeks out from the draft, and our analysts weigh in with some new intel on picks and moves."
+    },
+    {
+      "id": "e1b6bde5ceffd7dd",
+      "title": "NY Giants 2026 NFL Draft scouting report: Brenen Thompson, WR, Mississippi State",
+      "link": "https://sports.yahoo.com/articles/ny-giants-2026-nfl-draft-190000257.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T19:00:00+0000",
+      "summary": "Can Mississippi State wide receiver Brenen Thompson become an explosive weapon for the NY Giants’ offense?"
+    },
+    {
+      "id": "9d93a1a9a143d691",
+      "title": "The Justice Department is investigating the NFL for potential anticompetitive practices, AP source says",
+      "link": "https://sports.yahoo.com/articles/justice-department-investigating-nfl-potential-185451710.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-09T18:54:51+0000",
+      "summary": ""
+    },
     {
       "id": "2eca9834822b9acb",
       "title": "Why the Giants can't afford to trade Dexter Lawrence",
@@ -9,51 +63,6 @@
       "feed": "ESPN",
       "published": "2026-04-09T18:20:29+0000",
       "summary": "Honoring Lawrence's request is unlikely at this stage of the NFL calendar."
-    },
-    {
-      "id": "e5e143601ac0b155",
-      "title": "Dianna Russini returned to Twitter on Thursday, and it didn't go well",
-      "link": "https://sports.yahoo.com/articles/dianna-russini-returned-twitter-thursday-175132840.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T17:51:32+0000",
-      "summary": "The biggest story in the NFL continues to be the recent photos of, and the denials issued by, Patriots coach Mike Vrabel and New York Times reporter Dianna Russini."
-    },
-    {
-      "id": "07384fb7e051afde",
-      "title": "Wild add a college free agent defenseman with a unique first name that befits a Minnesota team",
-      "link": "https://sports.yahoo.com/articles/wild-add-college-free-agent-174917067.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T17:49:17+0000",
-      "summary": "The Minnesota Wild have added a Viking.  No, not a player from the local NFL team, but a defenseman named Viking Gustafsson Nyberg, a native of Sweden and former University of Connecticut standout who signed a two-year, entry-level contract Thursday that begins with the current season.  The 22-year-old Gustafsson Nyberg had played two games with the Iowa Wild in the AHL this week on an amateur tryout basis."
-    },
-    {
-      "id": "63453da329e2a64b",
-      "title": "DOJ probing NFL over games on paid platforms, sources say",
-      "link": "https://sports.yahoo.com/articles/doj-probing-nfl-over-games-162333001.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T17:48:06+0000",
-      "summary": "The NFL is being investigated for practices that allegedly harm consumers for licensing games to multiple platforms — paid streaming platforms, paid cable networks, and others, sources said."
-    },
-    {
-      "id": "5a69b4a598df7232",
-      "title": "Former Seahawks S Rickey Thenarse hospitalized after shooting incident",
-      "link": "https://sports.yahoo.com/articles/former-seahawks-rickey-thenarse-hospitalized-173024411.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T17:30:24+0000",
-      "summary": "Former safety Rickey Thenarse, who briefly spent time with the Seattle Seahawks and was released before his NFL regular-season debut, was hospitalized after a shooting incident in Los Angeles on Friday morning. Reports indicate he was struck in the stomach…"
-    },
-    {
-      "id": "97c3322e31eaa256",
-      "title": "The latest NFL draft intel for all 32 teams: What we're hearing on how the picks could play out",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48378778/2026-nfl-draft-latest-buzz-rumors-news-answering-questions-all-32-teams-picks",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-09T17:09:38+0000",
-      "summary": "Our NFL reporters answer questions for every team two weeks out from the draft, and our analysts weigh in with some new intel on picks and moves."
     },
     {
       "id": "ea14713e595d5da3",
@@ -72,33 +81,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-09T03:01:41+0000",
       "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Colts fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Please take our survey"
-    },
-    {
-      "id": "ac4c7d035bae9be5",
-      "title": "Sources: Giants, ex-Ravens G Faalele reach deal",
-      "link": "https://espn.com/nfl/story/_/id/48430717/sources-faalele-latest-ex-raven-follow-harbaugh-giants",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T23:07:47+0000",
-      "summary": "The Giants made an offensive line addition Wednesday, agreeing to a one-year deal with former Ravens guard Daniel Faalele, according to NFL Network."
-    },
-    {
-      "id": "a670cfecbba80d1e",
-      "title": "Ravens say Lamar excited to work with new staff",
-      "link": "https://espn.com/nfl/story/_/id/48431404/ravens-say-jackson-excited-work-new-coaching-staff",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T23:07:47+0000",
-      "summary": "The Baltimore Ravens noticed a difference in quarterback Lamar Jackson when the two-time NFL Most Valuable Player reported for the start of offseason workouts this week."
-    },
-    {
-      "id": "f658fda4b5b4a50f",
-      "title": "Sources: Mendoza not planning to attend draft",
-      "link": "https://espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-08T23:07:47+0000",
-      "summary": "Fernando Mendoza has informed the NFL that he is not planning to attend the draft, sources told ESPN."
     },
     {
       "id": "1bf0e2ed580e9bc0",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-03-13T19:34:38+0000",
       "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
+    },
+    {
+      "id": "89aa2aa3a8911b9d",
+      "title": "Colts sign free agent DT Derrick Nnadi",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:30:28+0000",
+      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
+    },
+    {
+      "id": "b3f9653f48c88f59",
+      "title": "Colts re-sign TE Drew Ogletree",
+      "link": "https://colts.com/news/drew-ogletree-re-signed-nfl-free-agency-2026-run-blocking-pass-catching-career-touchdowns",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:02:04+0000",
+      "summary": "Ogletree, a 2022 sixth-round pick, has appeared in 44 games (20 starts) with the Colts in his career."
     }
   ],
   "links": [
