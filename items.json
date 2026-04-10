@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T21:35:57+00:00",
+  "updated": "2026-04-10T22:36:34+00:00",
   "items": [
     {
       "id": "fb96073af321e254",
@@ -7,7 +7,7 @@
       "link": "https://espn.com/nfl/story/_/id/48447175/sources-colts-agree-seek-new-team-cb-kenny-moore-ii",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-10T22:06:49+0000",
+      "published": "2026-04-10T22:52:58+0000",
       "summary": "The Colts and Kenny Moore II have agreed to seek a trade to find the veteran cornerback a new team, sources told ESPN."
     },
     {
@@ -16,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-10T22:06:49+0000",
+      "published": "2026-04-10T22:52:58+0000",
       "summary": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consumers to pay subscription costs to watch some games, sources confirmed to ABC News."
     },
     {
@@ -25,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48443052/5-ohio-st-players-ty-simpson-16-attend-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-10T22:06:49+0000",
+      "published": "2026-04-10T22:52:58+0000",
       "summary": "Five Ohio State players are among the 16 planning to attend the first round of the NFL draft on April 23 in Pittsburgh, a group that doesn't include Fernando Mendoza but does include fellow QB Ty Simpson."
     },
     {
@@ -34,8 +34,35 @@
       "link": "https://espn.com/nfl/story/_/id/48442188/source-49ers-ex-bengals-de-cam-sample-reach-one-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-10T22:06:49+0000",
+      "published": "2026-04-10T22:52:58+0000",
       "summary": "The 49ers agreed to a one-year contract with free agent defensive end Cam Sample, a source told NFL Network on Thursday."
+    },
+    {
+      "id": "951b7f157ae50a2c",
+      "title": "Report: Dianna Russini &quot;will not be reporting&quot; during internal investigation",
+      "link": "https://sports.yahoo.com/articles/report-dianna-russini-not-reporting-222036577.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T22:20:36+0000",
+      "summary": "The New York Times has reversed course regarding NFL insider Dianna Russini."
+    },
+    {
+      "id": "5c6211c1e233d96e",
+      "title": "Adam Schefter Provides Update On When Eagles Might Trade A.J. Brown Following Dontayvion Wicks Deal",
+      "link": "https://sports.yahoo.com/articles/adam-schefter-provides-eagles-might-220328321.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T22:03:28+0000",
+      "summary": "ESPN's NFL insider Adam Schefter provided a new update about the Eagles potentially trading wide receiver A.J. Brown after Philadelphia traded for wide receiver Dontayvion Wicks."
+    },
+    {
+      "id": "918cb09a320dbd98",
+      "title": "Dianna Russini under internal investigation after Mike Vrabel photo leak",
+      "link": "https://sports.yahoo.com/articles/dianna-russini-under-internal-investigation-220300624.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T22:03:00+0000",
+      "summary": "NFL insider Dianna Russini could be in some hot water after photos leaked online of a getaway with New England Patriots head coach Mike Vrabel. Russini and Vrabel appeared to be holding hands and hugging in the photos, which were…"
     },
     {
       "id": "4dd6b532db712421",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-16T17:31:35+0000",
       "summary": "Thomas spent his first three NFL seasons with the Dallas Cowboys."
-    },
-    {
-      "id": "4a9e0f7825169599",
-      "title": "Blake Grupe re-signs with Colts ready to take on challenge of competing for kicking role",
-      "link": "https://colts.com/news/blake-grupe-contract-spencer-shrader-colts-kicker-special-teams-brian-mason-notre-dame",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-16T16:53:01+0000",
-      "summary": "The Colts last week re-signed Grupe, who set a franchise record with a 60-yard field goal last season."
-    },
-    {
-      "id": "9107993578cffafe",
-      "title": "Colts 2026 Mock Draft Monday: After first wave of free agency",
-      "link": "https://colts.com/news/colts-2026-mock-draft-monday-after-first-wave-of-free-agency",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-16T16:00:47+0000",
-      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
-    },
-    {
-      "id": "09adf2fa96b4934a",
-      "title": "Colts re-sign tight end Mo Alie-Cox; Alec Pierce contract details released",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-mo-alie-cox-alec-pierce-contract-details-released/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-15T00:48:06+0000",
-      "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
     }
   ],
   "links": [
