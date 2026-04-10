@@ -1,23 +1,32 @@
 {
-  "updated": "2026-04-10T00:00:37+00:00",
+  "updated": "2026-04-10T03:46:16+00:00",
   "items": [
+    {
+      "id": "e07b1e09dc529a9e",
+      "title": "2026 NFL draft preview: Defensive tackles and the Arizona Cardinals",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-preview-defensive-033439125.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T03:34:39+0000",
+      "summary": "Jess Root and Seth Cox talk NFL draft, going over the defensive tackle prospects to know for the Arizona Cardinals."
+    },
     {
       "id": "97c3322e31eaa256",
       "title": "The latest NFL draft intel for all 32 teams: What we're hearing on how the picks could play out",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48378778/2026-nfl-draft-latest-buzz-rumors-news-answering-questions-all-32-teams-picks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-10T00:30:53+0000",
+      "published": "2026-04-10T02:30:35+0000",
       "summary": "Our NFL reporters answer questions for every team two weeks out from the draft, and our analysts weigh in with some new intel on picks and moves."
     },
     {
-      "id": "93c3b2f3b7173e74",
-      "title": "Sources: DOJ opens probe of NFL over TV deals",
-      "link": "https://espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
+      "id": "74e35273cefad286",
+      "title": "5 Buckeyes, Simpson among 16 draft attendees",
+      "link": "https://espn.com/nfl/story/_/id/48443052/5-ohio-st-players-ty-simpson-16-attend-nfl-draft",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-09T23:36:31+0000",
-      "summary": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consumers to pay subscription costs to watch some games, sources confirmed to ABC News."
+      "published": "2026-04-10T01:15:19+0000",
+      "summary": "Five Ohio State players are among the 16 planning to attend the first round of the NFL draft on April 23 in Pittsburgh, a group that doesn't include Fernando Mendoza but does include fellow QB Ty Simpson."
     },
     {
       "id": "fa3be2565d02699a",
@@ -25,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48442188/source-49ers-ex-bengals-de-cam-sample-reach-one-year-deal",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-09T23:36:31+0000",
+      "published": "2026-04-10T01:15:19+0000",
       "summary": "The 49ers agreed to a one-year contract with free agent defensive end Cam Sample, a source told NFL Network on Thursday."
     },
     {
@@ -34,62 +43,17 @@
       "link": "https://espn.com/nfl/story/_/id/48431404/ravens-say-jackson-excited-work-new-coaching-staff",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-09T23:36:31+0000",
+      "published": "2026-04-10T01:15:19+0000",
       "summary": "The Baltimore Ravens noticed a difference in quarterback Lamar Jackson when the two-time NFL Most Valuable Player reported for the start of offseason workouts this week."
     },
     {
-      "id": "a39233cc9d889f43",
-      "title": "Chargers urged to be aggressive in NFL Draft for Justin Herbert",
-      "link": "https://sports.yahoo.com/articles/chargers-urged-aggressive-nfl-draft-233624094.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T23:36:24+0000",
-      "summary": "Herbert needs options."
-    },
-    {
-      "id": "699ac43f7992b95d",
-      "title": "5 Ohio State players to attend the first round of the NFL draft on April 23",
-      "link": "https://sports.yahoo.com/articles/5-ohio-state-players-attend-233449352.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T23:34:49+0000",
-      "summary": "Five Ohio State players plan to attend the first round of the NFL draft on April 23.  Defensive back Caleb Downs, defensive tackle Kayden McDonald, linebacker Arvell Reese, linebacker Sonny Styles and wide receiver Carnell Tate will be in the green room in Pittsburgh waiting for their name to be called before coming out to applause and receive congratulations and a hug from NFL Commissioner Roger Goodell."
-    },
-    {
-      "id": "ca6fb41dd536dedb",
-      "title": "NFL faces massive federal investigation over anticompetitive practices",
-      "link": "https://sports.yahoo.com/articles/nfl-faces-massive-federal-investigation-233441530.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T23:34:41+0000",
-      "summary": "The NFL could be in hot water as they're now the subject of a federal investigation."
-    },
-    {
-      "id": "9828cdd91324c27b",
-      "title": "Dallas Cowboys, Jerry Jones have two 2026 NFL Draft prospects they’d trade up for",
-      "link": "https://sports.yahoo.com/articles/dallas-cowboys-jerry-jones-two-233426342.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T23:34:26+0000",
-      "summary": "The NFL is charging full speed toward the 2026 NFL Draft. Teams are not only finalizing their draft boards but also kicking off offseason workouts. The Dallas Cowboys enter this stretch with significant draft capital, thanks to last season’s Micah…"
-    },
-    {
-      "id": "72554c945589da94",
-      "title": "Fernando Mendoza will be with family, not at NFL Draft in Pittsburgh",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-family-not-nfl-233300001.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T23:33:00+0000",
-      "summary": "While Fernando Mendoza will be in Miami watching the draft on TV, UM's Rueben Bain Jr. and Francis Mauigoa will be in Pittsburgh where the draft is being held."
-    },
-    {
-      "id": "cbdfa0f23840c02e",
-      "title": "Chiefs must make this NFL Draft move to save Patrick Mahomes",
-      "link": "https://sports.yahoo.com/articles/chiefs-must-nfl-draft-move-233127292.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-09T23:31:27+0000",
-      "summary": "The Kansas City Chiefs need to make things easier for Patrick Mahomes. And that all starts with the upcoming NFL Draft."
+      "id": "93c3b2f3b7173e74",
+      "title": "Sources: DOJ opens probe of NFL over TV deals",
+      "link": "https://espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-10T01:15:18+0000",
+      "summary": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consumers to pay subscription costs to watch some games, sources confirmed to ABC News."
     },
     {
       "id": "75059339ef470d23",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2026-03-16T16:00:47+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
+    },
+    {
+      "id": "09adf2fa96b4934a",
+      "title": "Colts re-sign tight end Mo Alie-Cox; Alec Pierce contract details released",
+      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-mo-alie-cox-alec-pierce-contract-details-released/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-15T00:48:06+0000",
+      "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
+    },
+    {
+      "id": "cf52c39b8c2a5c66",
+      "title": "Colts re-sign WR Laquon Treadwell",
+      "link": "https://colts.com/news/colts-re-sign-wr-laquon-treadwell",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T20:13:55+0000",
+      "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
+    },
+    {
+      "id": "dbf446884f2548dc",
+      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
+      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-13T19:34:38+0000",
+      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
+    },
+    {
+      "id": "89aa2aa3a8911b9d",
+      "title": "Colts sign free agent DT Derrick Nnadi",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-13T19:30:28+0000",
+      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
     }
   ],
   "links": [
