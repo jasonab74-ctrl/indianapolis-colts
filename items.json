@@ -1,14 +1,32 @@
 {
-  "updated": "2026-04-10T09:07:43+00:00",
+  "updated": "2026-04-10T10:32:36+00:00",
   "items": [
     {
-      "id": "4246e768e19f4c3a",
-      "title": "2026 NFL Draft scouting report: Emmanuel Pregnon, G, Oregon",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-085559451.html",
+      "id": "8ae5d1dc85d97a7a",
+      "title": "NFL mock draft 2026: Meta AI predicts the entire first round",
+      "link": "https://sports.yahoo.com/articles/nfl-mock-draft-2026-meta-100601430.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-10T08:55:59+0000",
-      "summary": "Oregon's Emmanuel Pregnon is next up to receive his 2026 NFL Draft scouting report."
+      "published": "2026-04-10T10:06:01+0000",
+      "summary": "USA TODAY Sports had Meta AI predict the first round of the 2026 NFL Draft. The chatbot's mock was respectable, but had some notable omissions."
+    },
+    {
+      "id": "72512ef121fc535a",
+      "title": "2026 NFL Draft sleepers: Why these prospects could rise into Round 1",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-sleepers-why-100128771.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T10:01:28+0000",
+      "summary": "Every year, at least one player is a surprise pick at the end of Round 1. Here are six potential sleepers for the 2026 NFL Draft."
+    },
+    {
+      "id": "af26b9e3ba7deafa",
+      "title": "NFL Analyst predicts first-time honor for Chiefs QB Patrick Mahomes",
+      "link": "https://sports.yahoo.com/articles/nfl-analyst-predicts-first-time-100100197.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T10:01:00+0000",
+      "summary": "During a recent studio show, NFL Analyst Isaac Rochell predicted a first-time honor for Kansas City Chiefs quarterback Patrick Mahomes | @EdEastonJr"
     },
     {
       "id": "ea14713e595d5da3",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T20:13:55+0000",
       "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
-    },
-    {
-      "id": "dbf446884f2548dc",
-      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T19:34:38+0000",
-      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
-    },
-    {
-      "id": "89aa2aa3a8911b9d",
-      "title": "Colts sign free agent DT Derrick Nnadi",
-      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:30:28+0000",
-      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
     }
   ],
   "links": [
