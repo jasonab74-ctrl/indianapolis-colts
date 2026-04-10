@@ -1,14 +1,32 @@
 {
-  "updated": "2026-04-10T03:46:16+00:00",
+  "updated": "2026-04-10T05:56:51+00:00",
   "items": [
     {
-      "id": "e07b1e09dc529a9e",
-      "title": "2026 NFL draft preview: Defensive tackles and the Arizona Cardinals",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-preview-defensive-033439125.html",
+      "id": "ea14713e595d5da3",
+      "title": "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-10T05:51:39+0000",
+      "summary": "Projecting landing spots for the nine QBs he considers draftable in the 2026 class (and one trade)."
+    },
+    {
+      "id": "bd4ba5cf640fefd1",
+      "title": "16 prospects set to attend 1st round of 2026 NFL draft",
+      "link": "https://sports.yahoo.com/articles/16-prospects-set-attend-1st-053919927.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-10T03:34:39+0000",
-      "summary": "Jess Root and Seth Cox talk NFL draft, going over the defensive tackle prospects to know for the Arizona Cardinals."
+      "published": "2026-04-10T05:39:19+0000",
+      "summary": "Fernando Mendoza won't be there, but 16 prospects confirm attendance to 2026 NFL draft."
+    },
+    {
+      "id": "1e24ce05da8c5b6e",
+      "title": "When will Chargers 2026 NFL schedule be announced?",
+      "link": "https://sports.yahoo.com/articles/chargers-2026-nfl-schedule-announced-053620849.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T05:36:20+0000",
+      "summary": "Find out when the Chargers' 2026 schedule will be released."
     },
     {
       "id": "97c3322e31eaa256",
@@ -16,8 +34,17 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48378778/2026-nfl-draft-latest-buzz-rumors-news-answering-questions-all-32-teams-picks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-10T02:30:35+0000",
+      "published": "2026-04-10T05:24:53+0000",
       "summary": "Our NFL reporters answer questions for every team two weeks out from the draft, and our analysts weigh in with some new intel on picks and moves."
+    },
+    {
+      "id": "bf803b96b719a5c8",
+      "title": "2026 NFL draft: DL Kaleb Procter visits Arizona Cardinals",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-dl-kaleb-045529328.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-10T04:55:29+0000",
+      "summary": "The Arizona Cardinals had DL Kaleb Procter in for a Top-30 visit."
     },
     {
       "id": "74e35273cefad286",
@@ -99,15 +126,6 @@
       "feed": "ESPN",
       "published": "2026-04-09T18:20:29+0000",
       "summary": "Honoring Lawrence's request is unlikely at this stage of the NFL calendar."
-    },
-    {
-      "id": "ea14713e595d5da3",
-      "title": "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-09T12:52:25+0000",
-      "summary": "Projecting landing spots for the nine QBs he considers draftable in the 2026 class (and one trade)."
     },
     {
       "id": "91ad08888f6f92ae",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-13T20:13:55+0000",
       "summary": "Treadwell, a 2016 first-round pick, has spent the last two seasons with the Colts"
-    },
-    {
-      "id": "dbf446884f2548dc",
-      "title": "Colts re-sign tight end Drew Ogletree, add Jonathan Owens and Juanyeh Thomas",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-drew-ogletree/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-13T19:34:38+0000",
-      "summary": "INDIANAPOLIS – Drew Ogletree has re-upped. The 2022 sixth-round draft pick has re-signed to help fortify the Indianapolis Colts’ tight ends room. Ogletree, 27, is heading into his fifth year and is veteran support for Tyler Warren, who enjoyed a record-breaking rookie season. He has appeared in 44 games with 20 starts and been more [...]"
-    },
-    {
-      "id": "89aa2aa3a8911b9d",
-      "title": "Colts sign free agent DT Derrick Nnadi",
-      "link": "https://colts.com/news/colts-sign-free-agent-dt-derrick-nnadi",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-13T19:30:28+0000",
-      "summary": "Nnadi is a three-time Super Bowl champion who has played all eight of his NFL seasons with the Kansas City Chiefs."
     }
   ],
   "links": [
