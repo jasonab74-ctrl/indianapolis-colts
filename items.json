@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-11T11:02:08+00:00",
+  "updated": "2026-04-11T11:52:53+00:00",
   "items": [
     {
-      "id": "6fe8bd8f510c5deb",
-      "title": "Cleveland Browns news (4/11):",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-4-11-103000052.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-11T10:30:00+0000",
-      "summary": "﻿﻿﻿The latest Cleveland Browns news and notes from around the NFL in the Saturday Dawg Chow."
-    },
-    {
-      "id": "0a192a7eb836f79c",
-      "title": "Miller's final 2026 NFL draft rankings: Let's stack the 482 best prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
+      "id": "37bd86c355f23d75",
+      "title": "What the DOJ's NFL investigation could mean for networks, fans",
+      "link": "https://espn.com/nfl/story/_/id/48446280/doj-nfl-investigation-tv-television-broadcast-rights-fans",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-11T04:08:20+0000",
-      "summary": "Matt Miller has finalized his rankings for the 2026 draft, listing his top 482 players and providing grades for each prospect."
+      "published": "2026-04-11T12:35:13+0000",
+      "summary": "What could the federal government's investigation of the NFL mean for fans and television networks?"
+    },
+    {
+      "id": "bc8e24e1056ba875",
+      "title": "Which of the NFL draft's quarterbacks will be elite? Average? Busts? We projected the top five prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48446727/2026-nfl-draft-quarterback-projections-stats-rankings-comps-prospects",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-11T12:28:33+0000",
+      "summary": "Aaron Schatz uses his QBASE 2.0 model to project NFL career ceilings and floors for the 2026 draft class' top QBs."
     },
     {
       "id": "39408ec340857914",
@@ -25,8 +25,44 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48428742/2026-nfl-draft-latest-buzz-rumors-news-mocks-predictions-jets-lions-chargers-panthers",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-11T04:08:20+0000",
+      "published": "2026-04-11T12:28:33+0000",
       "summary": "Could Jacob Rodriguez sneak into Round 1? Our NFL draft experts weigh in with their newest intel."
+    },
+    {
+      "id": "9273b0c323f12341",
+      "title": "'It's the new frontier': How AI is pushing NFL draft prep to 'a different level'",
+      "link": "https://espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-11T12:12:05+0000",
+      "summary": "When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables."
+    },
+    {
+      "id": "5cf7fc8f4b89cd7a",
+      "title": "CBS mocks Alabama star to Detroit Lions in NFL draft projection",
+      "link": "https://sports.yahoo.com/articles/cbs-mocks-alabama-star-detroit-114532836.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-11T11:45:32+0000",
+      "summary": "Another NFL mock draft has the Detroit Lions looking to the Alabama Crimson Tide for a potential answer up front."
+    },
+    {
+      "id": "4de702b6787a07fa",
+      "title": "Broncos taking a look at 7 wide receivers ahead of NFL draft",
+      "link": "https://sports.yahoo.com/articles/broncos-taking-look-7-wide-113029614.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-11T11:30:29+0000",
+      "summary": "The Broncos are taking a look at mid-to-late-round wide receiver prospects ahead of the NFL draft, including the speedy Brenen Thompson."
+    },
+    {
+      "id": "c8a824292deceafa",
+      "title": "Longtime NFL writer suggests wild trade idea for Commanders",
+      "link": "https://sports.yahoo.com/articles/longtime-nfl-writer-suggests-wild-112221460.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-11T11:22:21+0000",
+      "summary": "One longtime NFL writer says the Commanders should approach the Steelers with a trade offer."
     },
     {
       "id": "5e5c44e2a4e14c23",
@@ -54,33 +90,6 @@
       "feed": "ESPN",
       "published": "2026-04-11T04:08:12+0000",
       "summary": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consumers to pay subscription costs to watch some games, sources confirmed to ABC News."
-    },
-    {
-      "id": "4dd6b532db712421",
-      "title": "Rankings: Profiling the top 45 RBs after NFL free agency",
-      "link": "https://espn.com/fantasy/football/story/_/id/48348941/2026-fantasy-football-rankings-rb-profiles",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-10T18:10:19+0000",
-      "summary": "Mike Clay delivers bite-sized but detailed breakdowns of his top 45 running backs for 2026."
-    },
-    {
-      "id": "37bd86c355f23d75",
-      "title": "What the DOJ's NFL investigation could mean for networks, fans",
-      "link": "https://espn.com/nfl/story/_/id/48446280/doj-nfl-investigation-tv-television-broadcast-rights-fans",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-10T17:48:04+0000",
-      "summary": "What could the federal government's investigation of the NFL mean for fans and television networks?"
-    },
-    {
-      "id": "ea14713e595d5da3",
-      "title": "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-10T14:28:46+0000",
-      "summary": "Projecting landing spots for the nine QBs he considers draftable in the 2026 class (and one trade)."
     },
     {
       "id": "6d17709b0686a106",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-16T16:00:47+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back after a significant week of free agent signings. How will that impact who experts predict will be available for the Colts in this year's NFL Draft?"
-    },
-    {
-      "id": "09adf2fa96b4934a",
-      "title": "Colts re-sign tight end Mo Alie-Cox; Alec Pierce contract details released",
-      "link": "https://fox59.com/sports/colts/colts-re-sign-tight-end-mo-alie-cox-alec-pierce-contract-details-released/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-15T00:48:06+0000",
-      "summary": "INDIANAPOLIS — One of the longest-tenured members of the Indianapolis Colts is extending his relationship with the team. Mo-Alie-Cox, who signed with the team as an undrafted rookie in 2017, has agreed to a one-year contract, according to a source. The Schultz Report was first with the transaction. Alie-Cox, 32, is only pre-dated on the [...]"
     }
   ],
   "links": [
