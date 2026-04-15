@@ -1,14 +1,86 @@
 {
-  "updated": "2026-04-14T23:40:42+00:00",
+  "updated": "2026-04-15T02:28:12+00:00",
   "items": [
+    {
+      "id": "0b6db8858e639454",
+      "title": "Russini resigns from Athletic following Vrabel pics",
+      "link": "https://espn.com/nfl/story/_/id/48486392/dianna-russini-resigns-athletic-following-mike-vrabel-photos",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-15T02:54:17+0000",
+      "summary": "NFL reporter Dianna Russini has resigned from The Athletic less than a week after published photos of her and Patriots coach Mike Vrabel at an Arizona resort prompted an internal investigation at the New York Times-owned sports outlet."
+    },
+    {
+      "id": "60c0826799532255",
+      "title": "Adderley joins Colts, ending 3-year retirement",
+      "link": "https://espn.com/nfl/story/_/id/48485763/safety-nasir-adderley-signs-colts-ending-retirement",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-15T02:54:17+0000",
+      "summary": "Safety Nasir Adderley signed with the Colts on Tuesday, two months after he announced he was ready to return to the NFL after retiring following the 2022 season."
+    },
+    {
+      "id": "016c070fd470a876",
+      "title": "Ex-Cardinals coach, Titans assistant McGinnis dies",
+      "link": "https://espn.com/nfl/story/_/id/48479231/former-tennessee-titans-assistant-dave-mcginnis-dies-74",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-15T02:54:17+0000",
+      "summary": "Former Tennessee assistant Dave McGinnis, who also served as head coach for the Arizona Cardinals in a decorated career on the NFL sidelines, died at 74 on Monday with his family by his side at Ascension St. Thomas Midtown Hospital, the Titans announced."
+    },
+    {
+      "id": "65e75cbb5d98ca98",
+      "title": "Report: Ex-Canes DE Bain drove in fatal car crash",
+      "link": "https://espn.com/college-football/story/_/id/48471125/ex-miami-de-rueben-bain-involved-2024-car-accident-which-1-person-later-died-report-says",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-15T02:54:17+0000",
+      "summary": "Former Miami defensive end and 2026 NFL draft prospect Rueben Bain Jr. was involved in an auto accident in 2024 in which a passenger later died because of injuries sustained in the crash, according to a report published on Sunday."
+    },
+    {
+      "id": "f5822e3ff5f47bbc",
+      "title": "NFL hires Flinn as senior VP of global flag football",
+      "link": "https://espn.com/nfl/story/_/id/48487345/nfl-hires-brian-flinn-senior-vp-global-flag-football",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-15T02:54:17+0000",
+      "summary": "Brian Flinn has been named the NFL's senior vice president of global flag football."
+    },
     {
       "id": "fda07da834945e95",
       "title": "Barnwell: Why four NFL teams should trade up in Round 1 -- and six should trade down (or into next year)",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48470863/2026-nfl-draft-round-1-trades-barnwell-teams-moves-picks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-15T00:15:43+0000",
+      "published": "2026-04-15T02:54:13+0000",
       "summary": "Would it make sense for the Eagles, Bears and Chiefs to trade up in Round 1? Should the Cowboys and Lions try to move down the board? Here's our advice for 10 teams."
+    },
+    {
+      "id": "a701ba7114c44404",
+      "title": "2026 NFL draft preview: Where Chicago Bears stand at offensive line",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-preview-where-021018190.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-15T02:10:18+0000",
+      "summary": "Up next in our Bears draft preview is offensive line, a unit that stood out in 2025 for its strong play but faces multiple question changes."
+    },
+    {
+      "id": "abe95a8f362101b2",
+      "title": "Raiders intent on taking a safety in later rounds of 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/raiders-intent-taking-safety-later-015918485.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-15T01:59:18+0000",
+      "summary": "Raiders general manager John Spytek is confident that Las Vegas will find a safety that meets their needs in the later rounds of the 2026 NFL Draft."
+    },
+    {
+      "id": "aeb05882a3c23ea2",
+      "title": "Colts sign unretired veteran safety to bolster depth",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/123381/colts-sign-unretired-veteran-safety-to-bolster-depth",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-15T01:05:36+0000",
+      "summary": "Tell me if you’ve heard this story recently before. A former Los Angeles Charger surprisingly comes out of retirement after a number of years to play for the Indianapolis Colts, only this time, it isn’t longtime grizzled veteran quarterback Philip Rivers. Instead, per ESPN’s Adam Schefter, the Indianapolis Colts signed free agent safety Nasir Adderley, [&#8230;]"
     },
     {
       "id": "e7ddb1df0feabc00",
@@ -18,87 +90,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-14T23:35:20+0000",
       "summary": "According to Essentially Sports Tony Pauline, the Indianapolis Colts are ‘very high’ on TCU linebacker Kaleb Elarms-Orr ahead of the upcoming NFL Draft, among other interested league teams: “Kaleb Elarms-Orr of TCU and Trey Moore from Texas are receiving a lot of positive chatter in the scouting community and could end up being selected higher [&#8230;]"
-    },
-    {
-      "id": "8767b710654828eb",
-      "title": "Colts reportedly ‘very high’ on TCU LB Kaleb Elarms-Orr ahead of NFL Draft",
-      "link": "https://sports.yahoo.com/articles/colts-reportedly-very-high-tcu-233520560.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-14T23:35:20+0000",
-      "summary": "The Colts reportedly could have their eye on an intriguing ‘Day 2’ linebacker in the upcoming draft."
-    },
-    {
-      "id": "25a4c34d307bf268",
-      "title": "2026 NFL draft: The last 10 players selected No. 217 overall",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-last-10-232940208.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-14T23:29:40+0000",
-      "summary": "The Arizona Cardinals have 217th overall pick in the 2026 draft. Here are the last 10 players selected No. 217 overall."
-    },
-    {
-      "id": "3baa76dd87252ec0",
-      "title": "Patriots' Mike Vrabel Won't Speak To Media Until NFL Draft",
-      "link": "https://sports.yahoo.com/articles/patriots-mike-vrabel-wont-speak-232734161.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-14T23:27:34+0000",
-      "summary": "Despite Diana Russini's resignation, New England Patriots head coach Mike Vrabel is not expected to speak to the media until the NFL Draft."
-    },
-    {
-      "id": "a9e1b1cb17899c31",
-      "title": "Kyle Shanahan holds top-3 NFL head coach spot despite massive flaw",
-      "link": "https://sports.yahoo.com/articles/kyle-shanahan-holds-top-3-231521651.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-14T23:15:21+0000",
-      "summary": "San Francisco 49ers head coach Kyle Shanahan is one of the most-respected coaches in the league after nine seasons with the team."
-    },
-    {
-      "id": "0b6db8858e639454",
-      "title": "Russini resigns from Athletic following Vrabel pics",
-      "link": "https://espn.com/nfl/story/_/id/48486392/dianna-russini-resigns-athletic-following-mike-vrabel-photos",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-14T21:58:14+0000",
-      "summary": "NFL reporter Dianna Russini has resigned from The Athletic less than a week after published photos of her and Patriots coach Mike Vrabel at an Arizona resort prompted an internal investigation at the New York Times-owned sports outlet."
-    },
-    {
-      "id": "60c0826799532255",
-      "title": "Adderley joins Colts, ending 3-year retirement",
-      "link": "https://espn.com/nfl/story/_/id/48485763/safety-nasir-adderley-signs-colts-ending-retirement",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-14T21:58:14+0000",
-      "summary": "Safety Nasir Adderley signed with the Colts on Tuesday, two months after he announced he was ready to return to the NFL after retiring following the 2022 season."
-    },
-    {
-      "id": "016c070fd470a876",
-      "title": "Ex-Cardinals coach, Titans assistant McGinnis dies",
-      "link": "https://espn.com/nfl/story/_/id/48479231/former-tennessee-titans-assistant-dave-mcginnis-dies-74",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-14T21:58:14+0000",
-      "summary": "Former Tennessee assistant Dave McGinnis, who also served as head coach for the Arizona Cardinals in a decorated career on the NFL sidelines, died at 74 on Monday with his family by his side at Ascension St. Thomas Midtown Hospital, the Titans announced."
-    },
-    {
-      "id": "65e75cbb5d98ca98",
-      "title": "Report: Ex-Canes DE Bain drove in fatal car crash",
-      "link": "https://espn.com/college-football/story/_/id/48471125/ex-miami-de-rueben-bain-involved-2024-car-accident-which-1-person-later-died-report-says",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-14T21:58:14+0000",
-      "summary": "Former Miami defensive end and 2026 NFL draft prospect Rueben Bain Jr. was involved in an auto accident in 2024 in which a passenger later died because of injuries sustained in the crash, according to a report published on Sunday."
-    },
-    {
-      "id": "f5822e3ff5f47bbc",
-      "title": "NFL hires Flinn as senior VP of global flag football",
-      "link": "https://espn.com/nfl/story/_/id/48487345/nfl-hires-brian-flinn-senior-vp-global-flag-football",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-14T21:58:14+0000",
-      "summary": "Brian Flinn has been named the NFL's senior vice president of global flag football."
     },
     {
       "id": "9a18ff25349a12e0",
@@ -252,15 +243,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-13T12:00:00+0000",
       "summary": "Yes, another Anthony Richardson and Colts mismanagement article! A lot of this has been said before when it comes to quarterback development and the Colts, but now there’s a real comparison to look at with the Raiders and Mendoza, and it makes the contrast even clearer. There’s a right way to develop a young quarterback [&#8230;]"
-    },
-    {
-      "id": "eac078124d1fde45",
-      "title": "5 Defensive End Draft Options For The Indianapolis Colts",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123241/5-defensive-end-draft-options-for-the-indianapolis-colts",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-12T04:35:00+0000",
-      "summary": "As the Indianapolis Colts look ahead to the 2026 NFL Draft, reinforcing the defensive line, particularly at defensive end (EDGE), is a priority. With the modern NFL placing heavy emphasis on pressuring quarterbacks and holding the edge against the run, adding a dynamic defensive end is essential for long-term defensive success. Fortunately, the 2026 class [&#8230;]"
     },
     {
       "id": "37bd86c355f23d75",
@@ -540,6 +522,24 @@
       "feed": "CBS4Indy",
       "published": "2026-03-17T22:49:33+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ offseason personnel push has added experience at safety as well as a high-profile fan. Consider it a package deal. Jonathan Owens has appeared in 82 games with 35 starts in seven seasons with three teams and should have the opportunity to challenge for a starting spot after the Colts saw [...]"
+    },
+    {
+      "id": "b20ded7e55606686",
+      "title": "Colts sign free agent CB Cam Taylor-Britt",
+      "link": "https://colts.com/news/colts-sign-free-agent-cb-cam-taylor-britt-lou-anarumo-bengals-connection",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T20:36:15+0000",
+      "summary": "Taylor-Britt totaled 38 passes defended over four seasons with the Cincinnati Bengals."
+    },
+    {
+      "id": "320397687fb312c5",
+      "title": "Colts sign free agent S Jonathan Owens",
+      "link": "https://colts.com/news/colts-sign-free-agent-s-jonathan-owens-simone-biles",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:25:00+0000",
+      "summary": "Owens has appeared in 82 games over seven seasons spent with the Houston Texans, Green Bay Packers and Chicago Bears."
     }
   ],
   "links": [
