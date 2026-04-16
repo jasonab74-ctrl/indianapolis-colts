@@ -1,6 +1,69 @@
 {
-  "updated": "2026-04-16T12:41:30+00:00",
+  "updated": "2026-04-16T14:54:47+00:00",
   "items": [
+    {
+      "id": "37eaad1fe432a69f",
+      "title": "Cowboys pre-draft visits indicate team likely to trade, enter 2nd rd",
+      "link": "https://sports.yahoo.com/articles/cowboys-pre-draft-visits-indicate-143904928.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-16T14:39:04+0000",
+      "summary": "Based on who the Cowboys are scouting and what positions they are targeting Dallas' intensions are becoming clear in the 2026 NFL draft"
+    },
+    {
+      "id": "bc6f73bcaa8576f1",
+      "title": "NFL owners’ collusion on the Kyler Murray contract? Nope",
+      "link": "https://sports.yahoo.com/articles/nfl-owners-collusion-kyler-murray-143724149.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-16T14:37:24+0000",
+      "summary": "﻿The arbitrator’s decision was upheld"
+    },
+    {
+      "id": "e4b7a65ad11fe45b",
+      "title": "NFL, YouTube negotiating lengthy deal for extended streaming package",
+      "link": "https://sports.yahoo.com/articles/nfl-youtube-negotiating-lengthy-deal-143550450.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-16T14:35:50+0000",
+      "summary": "The NFL is exploring ways to grow its streaming footprint beyond traditional television. FOX, NBC, CBS, and ESPN still control most of the league’s media rights, but that could shift as streaming platforms push harder for access. MORE: NFL draft…"
+    },
+    {
+      "id": "812abf8d625cb9b7",
+      "title": "Patriots Linked To Drafting 4-TD TE As Potential Hunter Henry Replacement",
+      "link": "https://sports.yahoo.com/articles/patriots-linked-drafting-4-td-142847424.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-16T14:28:47+0000",
+      "summary": "New England could look to find their future tight end in the 2026 NFL Draft."
+    },
+    {
+      "id": "c8542f47ccce8eb8",
+      "title": "Patriots Projected To Draft Small School Receiver Early In Draft",
+      "link": "https://sports.yahoo.com/articles/patriots-projected-draft-small-school-142844601.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-16T14:28:44+0000",
+      "summary": "The New England Patriots have reportedly shown interest in adding another receiver to their team, and the NFL Draft will provide them with an opportunity to do that."
+    },
+    {
+      "id": "80aab518985256e7",
+      "title": "How all 32 teams can crush the NFL draft: We have prospects and positions to target",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-16T14:25:36+0000",
+      "summary": "A week before the NFL draft, Ben Solak hits the top priorities for every single team -- and the prospects who can meet those needs."
+    },
+    {
+      "id": "46e5a120466f0dd4",
+      "title": "Yates' final rankings for the NFL draft: Sizing up the top 150 prospects",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-16T14:25:36+0000",
+      "summary": "Field Yates stacks his top 150 prospects, including scouting reports on the first 50."
+    },
     {
       "id": "a6d71fa2ae487192",
       "title": "How music kept NFL dream alive for Panthers' Jaelan Phillips",
@@ -11,58 +74,13 @@
       "summary": "Music was a bridge for Phillips, who medically retired from football in college before working his way to the NFL."
     },
     {
-      "id": "80aab518985256e7",
-      "title": "How every NFL team can ace the draft: Solak plans perfect moves, picks for all 32 rosters",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-16T13:00:53+0000",
-      "summary": "A week before the NFL draft, Ben Solak hits the top priorities for every single team -- and the prospects who can meet those needs."
-    },
-    {
-      "id": "46e5a120466f0dd4",
-      "title": "Yates' final rankings for the NFL draft: Sizing up the top 150 prospects",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/47590505/2026-nfl-draft-rankings-board-top-prospects-best-positional-field-yates",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-16T13:00:53+0000",
-      "summary": "Field Yates stacks his top 150 prospects, including scouting reports on the first 50."
-    },
-    {
-      "id": "66daa5f67da0e0ea",
-      "title": "Dolphins intrigued by freakishly athletic prospect in 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/dolphins-intrigued-freakishly-athletic-prospect-121954143.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-16T12:19:54+0000",
-      "summary": "The Miami Dolphins may consider taking an athletic defensive linemen in the 2026 NFL draft after top-30 visit this week."
-    },
-    {
-      "id": "4f579e84c275ec6e",
-      "title": "5 Las Vegas Raiders Whose April Minicamp Attendance Tells Us Everything",
-      "link": "https://sports.yahoo.com/articles/5-las-vegas-raiders-whose-121439949.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-16T12:14:39+0000",
-      "summary": "The Las Vegas Raiders&#8217; voluntary veteran minicamp runs April 21-23, three days before the NFL Draft kicks off in Pittsburgh. [&#8230;]"
-    },
-    {
-      "id": "627cda3dd708cb26",
-      "title": "ESPN analyst reveals Dallas Cowboys' perfect NFL Draft",
-      "link": "https://sports.yahoo.com/articles/espn-analyst-reveals-dallas-cowboys-121343717.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-16T12:13:43+0000",
-      "summary": "There's some work to do for Jerry Jones."
-    },
-    {
-      "id": "3a23f84e429a3e8f",
-      "title": "Patriots Rival Reportedly Cancels Visit With Projected Top Five Pick",
-      "link": "https://sports.yahoo.com/articles/patriots-rival-reportedly-cancels-visit-121141885.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-16T12:11:41+0000",
-      "summary": "The New England Patriots are scheduled to make their first pick of the NFL Draft at No. 31, while all of their division rivals are slated to pick before them."
+      "id": "b7026b0ce9681816",
+      "title": "It’s time to make Quenton Nelson a Colt for life",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123399/its-time-to-make-quenton-nelson-a-colt-for-life",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-16T12:00:00+0000",
+      "summary": "There are a lot of decisions the Colts have to get right over the next year; the one with Quenton Nelson isn’t one of the complicated ones. Nelson has been one of the best interior offensive linemen in the NFL since he entered the league in 2018. The resume speaks for itself: three First-Team All-Pro [&#8230;]"
     },
     {
       "id": "44d4e335e21fa76b",
@@ -261,15 +279,6 @@
       "feed": "Stampede Blue",
       "published": "2026-04-13T22:56:06+0000",
       "summary": "According to ESPN’s Adam Schefter on ‘The Pat McAfee Show’ with host Pat McAfee, he anticipates that the Indianapolis Colts will complete a trade for veteran slot cornerback Kenny Moore II around late April’s upcoming NFL Draft weekend: “I think that you will see a slew of moves made draft weekend,” Schefter said on Monday’s [&#8230;]"
-    },
-    {
-      "id": "233792ee66320971",
-      "title": "Kenny Moore and the Future of the Nickel Position",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123256/kenny-moore-and-the-future-of-the-nickel-position",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-13T21:11:22+0000",
-      "summary": "Last week, Kenny Moore and the Colts mutually agreed to part ways, with Moore now expected to seek a trade. On one hand, it’s a bit surprising. Moore was supposed to benefit from Lou Anarumo and the new scheme he’s bringing to Indianapolis. Anarumo loves to blitz from the slot—one of Moore’s best traits—and uses [&#8230;]"
     },
     {
       "id": "45f0869ad81ff053",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-18T19:33:20+0000",
       "summary": "Westbrook-Ikhine played at Indiana University and has spent six seasons in the NFL with the Tennessee Titans (2024-24) and Miami Dolphins (2025)."
-    },
-    {
-      "id": "2ac984ac9b6eabfb",
-      "title": "Colts sign free agent LB Akeem Davis-Gaither",
-      "link": "https://colts.com/news/colts-sign-free-agent-lb-akeem-davis-gaither-cincinnati-bengals-lou-anarumo-appalachian-state-arizona-cardinals",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-18T19:30:42+0000",
-      "summary": "Davis-Gaither played for the Cincinnati Bengals under Lou Anarumo from 2020-24."
     }
   ],
   "links": [
