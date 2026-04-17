@@ -1,32 +1,95 @@
 {
-  "updated": "2026-04-17T17:02:10+00:00",
+  "updated": "2026-04-17T18:10:45+00:00",
   "items": [
     {
-      "id": "e7a1bea0adb842ec",
-      "title": "Ted Hurst Analytical NFL Draft Profile",
-      "link": "https://sports.yahoo.com/articles/ted-hurst-analytical-nfl-draft-165144284.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T16:51:44+0000",
-      "summary": "Ted Hurst has an intriguing boundary receiver profile, vertical usage, and one of the best size-adjusted athletic percentiles in the class."
+      "id": "743a8cc473ab168f",
+      "title": "Report: Penix, Njoku among targets used in fraud",
+      "link": "https://espn.com/nfl/story/_/id/48504890/report-penix-njoku-mckinney-targets-ex-bama-de-fraud",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-17T18:58:01+0000",
+      "summary": "A former Alabama defensive end is accused of using wigs and fake IDs to impersonate NFL players to secure nearly $20 million in fraudulent loans, with a report identifying Michael Penix Jr., David Njoku and Xavier McKinney as the targeted players."
     },
     {
-      "id": "c1ba0aba323d0767",
-      "title": "These are the most Green Bay Packers-type players in the NFL draft",
-      "link": "https://sports.yahoo.com/articles/most-green-bay-packers-type-165014635.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T16:50:14+0000",
-      "summary": "We'd be a little surprised if none of these seven players wound up on the Packers during the 2026 draft. They certainly fit the mould."
+      "id": "e166dc27d0956d11",
+      "title": "Chiefs GM expecting a lot of trades in first round",
+      "link": "https://espn.com/nfl/story/_/id/48504831/chiefs-gm-brett-veach-expecting-lot-trades-first-round",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-17T18:58:01+0000",
+      "summary": "Chiefs general manager Brett Veach said Thursday that there will \"probably be a lot of trades\" in the first round of this year's NFL draft."
     },
     {
-      "id": "fb52c4c390d1c8d6",
-      "title": "Browns face obstacle from NFC team for huge NFL Draft trade",
-      "link": "https://sports.yahoo.com/articles/browns-face-obstacle-nfc-team-164228259.html",
+      "id": "355557ee94a6dfba",
+      "title": "Memo: NFL onboarding replacement officials",
+      "link": "https://espn.com/nfl/story/_/id/48497778/memo-nfl-begins-onboarding-potential-replacement-officials",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-17T18:58:01+0000",
+      "summary": "The NFL has started onboarding potential replacement officials as the expiration of its CBA with the NFL Referees Association approaches."
+    },
+    {
+      "id": "51347ec661bc8d01",
+      "title": "How Will Anderson's historic contract sets record for highest-paid non-QB in NFL",
+      "link": "https://sports.yahoo.com/articles/andersons-historic-contract-sets-record-175847884.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-17T16:42:28+0000",
-      "summary": "The Browns aren't going to have an easy time finding a trade."
+      "published": "2026-04-17T17:58:47+0000",
+      "summary": "Will Anderson landed the largest non-QB deal in NFL history on Friday."
+    },
+    {
+      "id": "1106c09dd27ec65e",
+      "title": "2026 NFL Draft Predictions & Best Bets: Mock Draft, Odds, and Expert Picks",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-predictions-best-131800061.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T17:56:00+0000",
+      "summary": "Get the latest 2026 NFL Draft predictions, including first overall pick odds for Fernando Mendoza, best bets for Round 1, and expert sleepers. Updated April 17."
+    },
+    {
+      "id": "10d9b37dc5cbb12b",
+      "title": "Predicting 2026 NFL Draft trades",
+      "link": "https://sports.yahoo.com/articles/predicting-2026-nfl-draft-trades-175421238.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T17:54:21+0000",
+      "summary": "Maybe this is not a hot take, but the 2026 NFL Draft is ripe for trades. Not because teams suddenly got creative, but because the class is seriously compressed. Chiefs GM Brett Veach said it plainly – grades are close…"
+    },
+    {
+      "id": "61024ee90985e1c8",
+      "title": "Bills GM Brandon Beane doubles down again on Keon Coleman support",
+      "link": "https://sports.yahoo.com/articles/bills-gm-brandon-beane-doubles-175343610.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T17:53:43+0000",
+      "summary": "Here were Brandon Beane's latest thoughts on WR Keon Coleman ahead of the 2026 NFL Draft."
+    },
+    {
+      "id": "6281f3d18c4a408b",
+      "title": "Bengals QB Joe Flacco not a fan of potential 18-game NFL schedule",
+      "link": "https://sports.yahoo.com/articles/bengals-qb-joe-flacco-not-175327914.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T17:53:27+0000",
+      "summary": "Bengals quarterback Joe Flacco on potential 18-game schedule, and possibly more: &quot;At some point it has to stop.&quot;"
+    },
+    {
+      "id": "344e4551f238ea5d",
+      "title": "Bengals QB Joe Flacco not a fan of potential 18-game NFL schedule",
+      "link": "https://sports.yahoo.com/articles/bengals-qb-joe-flacco-not-175327503.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T17:53:27+0000",
+      "summary": "Bengals quarterback Joe Flacco on potential 18-game schedule, and possibly more: &quot;At some point it has to stop.&quot;"
+    },
+    {
+      "id": "07d0f544c95dba9d",
+      "title": "Falcons TE coaches met with NC State prospect Justin Joly",
+      "link": "https://sports.yahoo.com/articles/falcons-te-coaches-met-nc-175158705.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T17:51:58+0000",
+      "summary": "Falcons TE coaches met with NC State prospect Justin Joly ahead of 2026 NFL Draft"
     },
     {
       "id": "271bb5906bbf2906",
@@ -45,33 +108,6 @@
       "feed": "ESPN",
       "published": "2026-04-17T15:20:11+0000",
       "summary": "Wide receiver Carnell Tate is confident, intelligent and ready to star in the NFL. His mother made sure of it."
-    },
-    {
-      "id": "743a8cc473ab168f",
-      "title": "Report: Penix, Njoku among targets used in fraud",
-      "link": "https://espn.com/nfl/story/_/id/48504890/report-penix-njoku-mckinney-targets-ex-bama-de-fraud",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-17T14:56:17+0000",
-      "summary": "A former Alabama defensive end is accused of using wigs and fake IDs to impersonate NFL players to secure nearly $20 million in fraudulent loans, with a report identifying Michael Penix Jr., David Njoku and Xavier McKinney as the targeted players."
-    },
-    {
-      "id": "e166dc27d0956d11",
-      "title": "Chiefs GM expecting a lot of trades in first round",
-      "link": "https://espn.com/nfl/story/_/id/48504831/chiefs-gm-brett-veach-expecting-lot-trades-first-round",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-17T14:56:17+0000",
-      "summary": "Chiefs general manager Brett Veach said Thursday that there will \"probably be a lot of trades\" in the first round of this year's NFL draft."
-    },
-    {
-      "id": "355557ee94a6dfba",
-      "title": "Memo: NFL onboarding replacement officials",
-      "link": "https://espn.com/nfl/story/_/id/48497778/memo-nfl-begins-onboarding-potential-replacement-officials",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-17T14:56:17+0000",
-      "summary": "The NFL has started onboarding potential replacement officials as the expiration of its CBA with the NFL Referees Association approaches."
     },
     {
       "id": "a8c9d7afe49c09f1",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-18T20:25:10+0000",
       "summary": "Hilton, who spent a decade in Indianapolis, ranks third in Colts history in receptions (631) and receiving yards (9,691)."
-    },
-    {
-      "id": "394f4382b289e5dc",
-      "title": "Colts sign free agent WR Nick Westbrook-Ikhine",
-      "link": "https://colts.com/news/colts-free-agent-wide-receiver-nick-westbrook-ikhine-titans-dolphins-indiana-hoosiers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-18T19:33:20+0000",
-      "summary": "Westbrook-Ikhine played at Indiana University and has spent six seasons in the NFL with the Tennessee Titans (2024-24) and Miami Dolphins (2025)."
-    },
-    {
-      "id": "2ac984ac9b6eabfb",
-      "title": "Colts sign free agent LB Akeem Davis-Gaither",
-      "link": "https://colts.com/news/colts-sign-free-agent-lb-akeem-davis-gaither-cincinnati-bengals-lou-anarumo-appalachian-state-arizona-cardinals",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-18T19:30:42+0000",
-      "summary": "Davis-Gaither played for the Cincinnati Bengals under Lou Anarumo from 2020-24."
-    },
-    {
-      "id": "222162f7de1451f7",
-      "title": "Colts free agent signings add depth and versatility to defensive line",
-      "link": "https://colts.com/news/colts-free-agent-signings-add-depth-and-versatility-to-defensive-line",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-18T18:55:00+0000",
-      "summary": "The Colts have signed DEs Arden Key and Micheal Clemons, and DTs Colby Wooden, Jerry Tillery and Derrick Nnadi in the last week."
-    },
-    {
-      "id": "b20ded7e55606686",
-      "title": "Colts sign free agent CB Cam Taylor-Britt",
-      "link": "https://colts.com/news/colts-sign-free-agent-cb-cam-taylor-britt-lou-anarumo-bengals-connection",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-17T20:36:15+0000",
-      "summary": "Taylor-Britt totaled 38 passes defended over four seasons with the Cincinnati Bengals."
     }
   ],
   "links": [
