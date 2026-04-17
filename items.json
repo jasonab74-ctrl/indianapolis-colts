@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T03:50:07+00:00",
+  "updated": "2026-04-17T06:01:56+00:00",
   "items": [
     {
       "id": "10e8ff4346c26f19",
@@ -9,51 +9,6 @@
       "feed": "ESPN",
       "published": "2026-04-17T04:15:11+0000",
       "summary": "The Miami DE once struggled to make an impact in youth football. Now, he's a potential first-round pick."
-    },
-    {
-      "id": "3a4ef6a8998da911",
-      "title": "Atrium Health doubles down on Carolina Panthers partnership with new naming rights deal",
-      "link": "https://sports.yahoo.com/articles/atrium-health-doubles-down-carolina-031509865.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T03:15:09+0000",
-      "summary": "Atrium Health and the NFL Carolina Panthers have reached a long-term extension of the health-care system’s sponsorship that adds naming rights to an indoor practice facility now under construction near Bank of America Stadium."
-    },
-    {
-      "id": "d239bc3edcca9859",
-      "title": "Browns' Todd Monken gives Shedeur Sanders a pass, Colorado offense wasn't NFL ready",
-      "link": "https://sports.yahoo.com/articles/browns-todd-monken-gives-shedeur-031426831.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T03:14:26+0000",
-      "summary": "The comment and Colorado narratives don't match."
-    },
-    {
-      "id": "4c94bc1e19c90673",
-      "title": "Rankings: Where does the Vikings QB situation rank in the NFL?",
-      "link": "https://sports.yahoo.com/articles/rankings-where-does-vikings-qb-031145255.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T03:11:45+0000",
-      "summary": "Where does the Minnesota Vikings' quarterback situation stack up with the rest of the NFL heading into the draft?"
-    },
-    {
-      "id": "9cf29c974024df6e",
-      "title": "Could the Vikings trade J.J. McCarthy during the 2026 NFL Draft?",
-      "link": "https://sports.yahoo.com/articles/could-vikings-trade-j-j-031032317.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T03:10:32+0000",
-      "summary": "The Minnesota Vikings could trade J.J. McCarthy if they deem Kyler Murray a long-term solution at quarterback."
-    },
-    {
-      "id": "b4827e0cd5b54f88",
-      "title": "2026 NFL Draft scouting report: Keldric Faulk, EDGE, Auburn",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-scouting-report-030922983.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T03:09:22+0000",
-      "summary": "Our latest scouting report ahead of the 2026 NFL Draft is live and it is on Auburn's Keldric Faulk."
     },
     {
       "id": "743a8cc473ab168f",
@@ -540,6 +495,51 @@
       "feed": "Colts.com",
       "published": "2026-03-18T18:55:00+0000",
       "summary": "The Colts have signed DEs Arden Key and Micheal Clemons, and DTs Colby Wooden, Jerry Tillery and Derrick Nnadi in the last week."
+    },
+    {
+      "id": "b20ded7e55606686",
+      "title": "Colts sign free agent CB Cam Taylor-Britt",
+      "link": "https://colts.com/news/colts-sign-free-agent-cb-cam-taylor-britt-lou-anarumo-bengals-connection",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T20:36:15+0000",
+      "summary": "Taylor-Britt totaled 38 passes defended over four seasons with the Cincinnati Bengals."
+    },
+    {
+      "id": "320397687fb312c5",
+      "title": "Colts sign free agent S Jonathan Owens",
+      "link": "https://colts.com/news/colts-sign-free-agent-s-jonathan-owens-simone-biles",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:25:00+0000",
+      "summary": "Owens has appeared in 82 games over seven seasons spent with the Houston Texans, Green Bay Packers and Chicago Bears."
+    },
+    {
+      "id": "ebb6a8744200ed40",
+      "title": "Colts sign free agent DT Jerry Tillery",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-jerry-tillery-chiefs-chargers-notre-dame",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:23:00+0000",
+      "summary": "Tillery was selected by the Los Angeles Chargers in the first round (No. 28 overall) of the 2019 NFL Draft."
+    },
+    {
+      "id": "fcbf232fed09fdb3",
+      "title": "Colts 2026 NFL free agency tracker",
+      "link": "https://colts.com/news/2026-nfl-free-agency-tracker-daniel-jones-alec-pierce",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:15:00+0000",
+      "summary": "We're through the first wave of NFL free agency, but there still will be plenty of moves for the Colts to make."
+    },
+    {
+      "id": "37645838518163c5",
+      "title": "Colts re-sign TE Mo Alie-Cox",
+      "link": "https://colts.com/news/colts-re-sign-te-mo-alie-cox",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-16T21:11:51+0000",
+      "summary": "Alie-Cox has appeared in 125 games over eight seasons with the Colts."
     }
   ],
   "links": [
