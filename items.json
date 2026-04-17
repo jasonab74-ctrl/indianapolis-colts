@@ -1,22 +1,13 @@
 {
-  "updated": "2026-04-17T11:51:36+00:00",
+  "updated": "2026-04-17T13:17:39+00:00",
   "items": [
     {
-      "id": "80aab518985256e7",
-      "title": "How all 32 teams can crush the NFL draft: We have prospects and positions to target",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-17T12:35:16+0000",
-      "summary": "A week before the NFL draft, Ben Solak hits the top priorities for every single team -- and the prospects who can meet those needs."
-    },
-    {
       "id": "a8c9d7afe49c09f1",
-      "title": "10 NFL scouts predict the first 10 draft picks: Intriguing landing spots for top prospects",
+      "title": "10 anonymous scouts predict the top of the NFL draft: Mini mock of picks 1-10 -- with a few surprises",
       "link": "https://espn.com/nfl/draft2026/story/_/id/48488008/2026-nfl-draft-mock-scouts-top-10-predictions-picks",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-17T12:32:57+0000",
+      "published": "2026-04-17T13:39:31+0000",
       "summary": "We asked NFL scouts to make draft picks for other teams, assigning one to each top-10 slot. Which prospects could go early?"
     },
     {
@@ -25,8 +16,62 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48495253/2026-nfl-draft-latest-buzz-steals-news-downs-tyson-sadiq-eagles-giants-steelers",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-17T12:32:57+0000",
+      "published": "2026-04-17T13:39:31+0000",
       "summary": "What are the Eagles, Giants and Steelers thinking for their picks? Our experts share new intel."
+    },
+    {
+      "id": "0fecb5c770ba0f16",
+      "title": "#Jaguars 2026 NFL Draft Targets: Linebackers",
+      "link": "https://sports.yahoo.com/articles/jaguars-2026-nfl-draft-targets-130400986.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T13:04:00+0000",
+      "summary": "The 2026 NFL Draft is loaded with LB talent. Let’s break down what each target could bring to the Jacksonville Jaguars"
+    },
+    {
+      "id": "3ce3d46a56282f72",
+      "title": "Broncos traveled to meet with WR-turned-RB who could fall to sweet spot in NFL draft",
+      "link": "https://sports.yahoo.com/articles/broncos-traveled-meet-wr-turned-130038441.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T13:00:38+0000",
+      "summary": "The Broncos traveled to meet with a dynamic wide receiver-turned-running back ahead of the 2026 NFL draft."
+    },
+    {
+      "id": "2b4c0670cffe84a2",
+      "title": "Would retired Bengals wide receiver AJ Green come back to the NFL?",
+      "link": "https://sports.yahoo.com/articles/retired-bengals-wide-receiver-aj-130014527.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T13:00:14+0000",
+      "summary": "A.J. Green announced his retirement in 2023 but said a few teams have reached out to him about making an NFL return."
+    },
+    {
+      "id": "68e6534460e80153",
+      "title": "2026 NFL Mock Draft: Carnell Tate leads six WR taken; Ty Simpson goes in Round 1 collab mock",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-carnell-130000678.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T13:00:00+0000",
+      "summary": "Connor Rogers, Eric Froton, and Kyle Dvorchak collaborated for a special 2026 NFL Mock Draft where they alternated making selections."
+    },
+    {
+      "id": "5452725644da0010",
+      "title": "Which NFL draft rumors are you buying this year, and which are nothingburgers?",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-rumors-buying-nothingburgers-130000324.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-17T13:00:00+0000",
+      "summary": "Plus, what will the Raiders QB room look like next season? And can the 2026 draft completely change any team?"
+    },
+    {
+      "id": "80aab518985256e7",
+      "title": "How all 32 teams can crush the NFL draft: We have prospects and positions to target",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-17T12:35:16+0000",
+      "summary": "A week before the NFL draft, Ben Solak hits the top priorities for every single team -- and the prospects who can meet those needs."
     },
     {
       "id": "1712edd1db1086c8",
@@ -45,42 +90,6 @@
       "feed": "ESPN",
       "published": "2026-04-17T11:58:54+0000",
       "summary": "Wide receiver Carnell Tate is confident, intelligent and ready to star in the NFL. His mother made sure of it."
-    },
-    {
-      "id": "c60807fc9c50671e",
-      "title": "Fernando Mendoza shares his vision for the perfect 2026 NFL Draft night",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-shares-vision-perfect-114049688.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T11:40:49+0000",
-      "summary": "The 2026 NFL Draft arrives on April 23, and Fernando Mendoza keeps showing up in every conversation about the top pick. What started as speculation turned into something more concrete after his dominant 2025 season. The Las Vegas Raiders hold…"
-    },
-    {
-      "id": "51ac704b1959f272",
-      "title": "Ranking the 10 best running backs in 2026 NFL Draft, from Jeremiyah Love to Eli Heidenreich",
-      "link": "https://sports.yahoo.com/articles/ranking-10-best-running-backs-113001900.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T11:30:01+0000",
-      "summary": "The 2026 NFL Draft class at running back has only one first-rounder with a big dropoff to his college teammate after that. After an active free agency period for the position, here's looking at the top options to fill remaining backfield holes this offseason."
-    },
-    {
-      "id": "b37c135aab1df94c",
-      "title": "It sure sounds like the Tennessee Titans love Sonny Styles",
-      "link": "https://sports.yahoo.com/articles/sure-sounds-tennessee-titans-love-113000281.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T11:30:00+0000",
-      "summary": "Tennessee Titans general manager Mike Borgonzi spoke highly of Ohio State linebacker Sonny Styles in the NFL Draft."
-    },
-    {
-      "id": "48e8aa7199659e7e",
-      "title": "Colts trade up, address pass rush in 2026 NFL mock draft",
-      "link": "https://sports.yahoo.com/articles/colts-trade-address-pass-rush-112323147.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-17T11:23:23+0000",
-      "summary": "In a 2026 NFL mock draft, the Indianapolis Colts traded up in Round 2 to address their pass rush."
     },
     {
       "id": "10e8ff4346c26f19",
@@ -153,6 +162,15 @@
       "feed": "Stampede Blue",
       "published": "2026-04-16T12:00:00+0000",
       "summary": "There are a lot of decisions the Colts have to get right over the next year; the one with Quenton Nelson isn’t one of the complicated ones. Nelson has been one of the best interior offensive linemen in the NFL since he entered the league in 2018. The resume speaks for itself: three First-Team All-Pro [&#8230;]"
+    },
+    {
+      "id": "ce295d1c17286927",
+      "title": "What are the odds the Colts keep the 47th pick?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123417/what-are-the-odds-the-colts-keep-the-47th-pick",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-16T11:53:00+0000",
+      "summary": "On the surface, asking whether the Indianapolis Colts will stay pat at pick 47 in the draft may seem like a rather boring question, but if one thinks about it, it’s an intriguing exercise. For all the classic Chris Ballard moves and his well known style, he isn’t always that consistent. This isn’t the first [&#8230;]"
     },
     {
       "id": "44d4e335e21fa76b",
@@ -261,15 +279,6 @@
       "feed": "CBS4Indy",
       "published": "2026-04-14T15:40:52+0000",
       "summary": "We’re just over a week away from the 2026 NFL Draft, and the Indianapolis Colts won’t have a first-round selection. The Colts traded their 2026 and 2027 first-round picks for cornerback Sauce Gardner. That means the team won’t be able to address some roster holes until the second round. Matt Taylor, voice of the Indianapolis [...]"
-    },
-    {
-      "id": "76135b99b02ce8da",
-      "title": "With no first round pick, the Colts are looking for more Day 2 success",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123327/with-no-first-round-pick-the-colts-are-looking-for-more-day-2-success",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-14T13:13:00+0000",
-      "summary": "The Indianapolis Colts have been down this road before. Chris Ballard is no stranger to being without a first-round pick. Whether trading out of the first round or using the pick to acquire DeForest Buckner and Carson Wentz, Ballard has shown an ability to make it work. He will have to come up big again [&#8230;]"
     },
     {
       "id": "b8c73be5282b2f1a",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-18T19:33:20+0000",
       "summary": "Westbrook-Ikhine played at Indiana University and has spent six seasons in the NFL with the Tennessee Titans (2024-24) and Miami Dolphins (2025)."
-    },
-    {
-      "id": "2ac984ac9b6eabfb",
-      "title": "Colts sign free agent LB Akeem Davis-Gaither",
-      "link": "https://colts.com/news/colts-sign-free-agent-lb-akeem-davis-gaither-cincinnati-bengals-lou-anarumo-appalachian-state-arizona-cardinals",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-18T19:30:42+0000",
-      "summary": "Davis-Gaither played for the Cincinnati Bengals under Lou Anarumo from 2020-24."
     }
   ],
   "links": [
