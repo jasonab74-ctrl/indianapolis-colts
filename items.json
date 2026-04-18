@@ -1,59 +1,14 @@
 {
-  "updated": "2026-04-18T16:00:33+00:00",
+  "updated": "2026-04-18T17:04:21+00:00",
   "items": [
     {
-      "id": "9ed9042bf3b9bce6",
-      "title": "Top OL prospect would be excellent first-round pick for Steelers",
-      "link": "https://sports.yahoo.com/articles/top-ol-prospect-excellent-first-154525685.html",
+      "id": "a6b1ee6dc8c607a7",
+      "title": "Who do the Lions select in Todd McShay's latest NFL mock draft?",
+      "link": "https://sports.yahoo.com/articles/lions-select-todd-mcshays-latest-164540917.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-18T15:45:25+0000",
-      "summary": "As the Pittsburgh Steelers prepare for the 2026 NFL Draft, here is a scouting report for offensive tackle Spencer Fano of Utah."
-    },
-    {
-      "id": "9a2d8114585c7a7f",
-      "title": "A look at prospects for all 3 days of the NFL Draft",
-      "link": "https://sports.yahoo.com/articles/look-prospects-3-days-nfl-154500805.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-18T15:45:00+0000",
-      "summary": "A collection of articles, podcasts & tweets from around the web to keep you in touch with the Commanders, the NFC East, the NFL and sports in general, and a sprinkling of other stuff"
-    },
-    {
-      "id": "641e58b7d8d1f608",
-      "title": "3 first-round trade partners for Steelers in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/3-first-round-trade-partners-154227011.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-18T15:42:27+0000",
-      "summary": "The Pittsburgh Steelers could be looking to trade up in the 2026 NFL Draft, and these three teams are perfect fits."
-    },
-    {
-      "id": "060fb23a6a5e1d1c",
-      "title": "Bills news: Scouting edge rushers and defensive linemen in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/bills-news-scouting-edge-rushers-153841832.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-18T15:38:41+0000",
-      "summary": "Edge rushers Cashius Howell, T.J. Parker, Malachi Lawrence and DTs Kayden McDonald or Keldric Faulk are names to watch."
-    },
-    {
-      "id": "1bb35ac82641c00a",
-      "title": "Ranking the 5 worst NFL Draft picks of the Mike Tomlin era",
-      "link": "https://sports.yahoo.com/articles/ranking-5-worst-nfl-draft-153200488.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-18T15:32:00+0000",
-      "summary": "With the Mike McCarthy era set to begin with the 2026 NFL draft, we look back at the worst of the Mike Tomlin era."
-    },
-    {
-      "id": "e845eee572600ed0",
-      "title": "USC's 1981 NFL draft first-round picks all made it big in the pros",
-      "link": "https://sports.yahoo.com/articles/uscs-1981-nfl-draft-first-153120584.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-18T15:31:20+0000",
-      "summary": "USC has produced some great first-round NFL draft classes. The 1981 class is as good as any of them, and arguably the best"
+      "published": "2026-04-18T16:45:40+0000",
+      "summary": "Todd McShay's latest NFL mock draft is out. Who do the Detroit Lions select?"
     },
     {
       "id": "a8c9d7afe49c09f1",
@@ -540,6 +495,51 @@
       "feed": "Colts.com",
       "published": "2026-03-17T20:36:15+0000",
       "summary": "Taylor-Britt totaled 38 passes defended over four seasons with the Cincinnati Bengals."
+    },
+    {
+      "id": "320397687fb312c5",
+      "title": "Colts sign free agent S Jonathan Owens",
+      "link": "https://colts.com/news/colts-sign-free-agent-s-jonathan-owens-simone-biles",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:25:00+0000",
+      "summary": "Owens has appeared in 82 games over seven seasons spent with the Houston Texans, Green Bay Packers and Chicago Bears."
+    },
+    {
+      "id": "ebb6a8744200ed40",
+      "title": "Colts sign free agent DT Jerry Tillery",
+      "link": "https://colts.com/news/colts-sign-free-agent-dt-jerry-tillery-chiefs-chargers-notre-dame",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:23:00+0000",
+      "summary": "Tillery was selected by the Los Angeles Chargers in the first round (No. 28 overall) of the 2019 NFL Draft."
+    },
+    {
+      "id": "fcbf232fed09fdb3",
+      "title": "Colts 2026 NFL free agency tracker",
+      "link": "https://colts.com/news/2026-nfl-free-agency-tracker-daniel-jones-alec-pierce",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-17T18:15:00+0000",
+      "summary": "We're through the first wave of NFL free agency, but there still will be plenty of moves for the Colts to make."
+    },
+    {
+      "id": "37645838518163c5",
+      "title": "Colts re-sign TE Mo Alie-Cox",
+      "link": "https://colts.com/news/colts-re-sign-te-mo-alie-cox",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-16T21:11:51+0000",
+      "summary": "Alie-Cox has appeared in 125 games over eight seasons with the Colts."
+    },
+    {
+      "id": "7feb7192dc01f073",
+      "title": "Colts sign free agent S Juanyeh Thomas",
+      "link": "https://colts.com/news/colts-sign-free-agent-s-juanyeh-thomas",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-03-16T17:31:35+0000",
+      "summary": "Thomas spent his first three NFL seasons with the Dallas Cowboys."
     }
   ],
   "links": [
