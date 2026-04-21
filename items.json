@@ -1,13 +1,49 @@
 {
-  "updated": "2026-04-21T17:00:30+00:00",
+  "updated": "2026-04-21T18:38:10+00:00",
   "items": [
+    {
+      "id": "cadf43982b8ab2b7",
+      "title": "5 Georgia Bulldogs ranked among NFL draft's top-100 prospects",
+      "link": "https://sports.yahoo.com/articles/5-georgia-bulldogs-ranked-among-183046860.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T18:30:46+0000",
+      "summary": "The Georgia Bulldogs have five players in the top-100 rankings for the 2026 NFL draft including three players in the top-50"
+    },
+    {
+      "id": "cf22304810d73381",
+      "title": "Rams’ Matthew Stafford Contract Update Hints at Career Beyond 2026",
+      "link": "https://sports.yahoo.com/articles/rams-matthew-stafford-contract-hints-183000545.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T18:30:00+0000",
+      "summary": "The Los Angeles Rams were not sure if quarterback Matthew Stafford would return or retire after the 2025 season. The 2025 NFL Most Valuable Player ultimately decided to come back to the Rams for the 2026 season. And now, there are rumors that Stafford could sign a contract extension that keeps him with Los Angeles […] The post Rams’ Matthew Stafford Contract Update Hints at Career Beyond 2026 appeared first on LA Sports Report."
+    },
+    {
+      "id": "f87f7e4cff7f39d1",
+      "title": "NFL Draft 2026: What will Giants do after trading Dexter Lawrence? | 7-round mock",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-giants-trading-150402898.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T18:25:52+0000",
+      "summary": "Our latest draft projection."
+    },
+    {
+      "id": "78820c82cec838d8",
+      "title": "Mike Vrabel did Dianna Russini no favors with his statement",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-did-dianna-russini-182426528.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T18:24:26+0000",
+      "summary": "For more than two minutes on Tuesday, Patriots coach Mike Vrabel basically said nothing about the controversy that has been the top story in the NFL for two weeks."
+    },
     {
       "id": "ef16be2bcc3a4e5a",
       "title": "Garoppolo considering retirement, sources say",
       "link": "https://espn.com/nfl/story/_/id/48542726/sources-free-agent-qb-jimmy-garoppolo-considering-retirement",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T16:56:24+0000",
+      "published": "2026-04-21T18:24:14+0000",
       "summary": "Free agent quarterback Jimmy Garoppolo is considering retirement, sources told NFL Network on Monday."
     },
     {
@@ -16,7 +52,7 @@
       "link": "https://espn.com/nfl/story/_/id/48545207/seattle-seahawks-looking-trade-2026-nfl-draft-willing-deal-nfc-west",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T16:56:24+0000",
+      "published": "2026-04-21T18:24:14+0000",
       "summary": "The Super Bowl champion Seahawks are looking to trade down in this year's NFL draft -- \"it's no secret with us,\" general manager John Schneider said Monday -- and are not opposed to making deals within their division."
     },
     {
@@ -25,8 +61,44 @@
       "link": "https://espn.com/nfl/draft2026/story/_/id/48521984/2026-nfl-draft-mel-kiper-favorite-prospects-every-position-class-sleepers",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T16:56:24+0000",
+      "published": "2026-04-21T18:24:14+0000",
       "summary": "Mel Kiper Jr.'s annual list of NFL draft favorites includes two speedy receivers, three undersized cornerbacks and some gritty linemen."
+    },
+    {
+      "id": "8b588f63d0f2b3c6",
+      "title": "2026 NFL Draft: Fantasy football analysis, rankings, positional previews, more",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-nfl-draft-fantasy-football-analysis-rankings-positional-previews-more-182003245.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T18:20:03+0000",
+      "summary": "Here you'll find all the fantasy football analysis you need from the 2026 NFL Draft."
+    },
+    {
+      "id": "bfaa58e50fab57d4",
+      "title": "Patriots Coach Mike Vrabel Breaks Silence on Dianna Russini Scandal",
+      "link": "https://sports.yahoo.com/articles/patriots-coach-mike-vrabel-breaks-181941641.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T18:19:41+0000",
+      "summary": "Mike Vrabel, the New England Patriots head coach caught at the center of the photo scandal with NFL reporter Dianna Russini, broke his silence two weeks after the scandal broke. “I understand I could have addressed you sooner, but it was important to me [that] I have a conversation with the players, which I did […]"
+    },
+    {
+      "id": "cd7ad5c7942b066d",
+      "title": "The Draft Day Predictor settles big Round 1 debates: Could Ty Simpson slide? Should Dallas trade up?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48542553/2026-nfl-draft-day-predictor-forecasts-picks-trades-slides-simpson-love-cowboys",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T18:02:10+0000",
+      "summary": "Our analytics model crunches the numbers on Ty Simpson, Jeremiyah Love and how four NFL teams should approach their first-round picks."
+    },
+    {
+      "id": "c53ad58ff931f023",
+      "title": "Meet Prospect X, who could be the 2026 NFL draft's brightest diamond in the rough",
+      "link": "https://espn.com/nfl/story/_/id/48543478/2026-prospect-x-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T18:02:10+0000",
+      "summary": "After months of searching, we've found the prospect we believe is the 2026 NFL draft's best-kept secret."
     },
     {
       "id": "7541c026a50784c4",
@@ -36,87 +108,6 @@
       "feed": "Colts.com",
       "published": "2026-04-21T16:51:23+0000",
       "summary": "Head coach Shane Steichen said Jones, who sustained a torn Achilles' in December, is dropping back and throwing."
-    },
-    {
-      "id": "3f5f4f32040feb4a",
-      "title": "Who do the Vikings land in Jordan Reid's final 2026 NFL Mock Draft?",
-      "link": "https://sports.yahoo.com/articles/vikings-land-jordan-reids-final-164819554.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:48:19+0000",
-      "summary": "ESPN's Jordan Reid has the published his final mock draft ahead of Thursday and he has an interesting pick for the Bucs."
-    },
-    {
-      "id": "a704d5ffeb623d1f",
-      "title": "2026 NFL Draft profile: Texas CB Manny Muhammad",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-profile-texas-164522242.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:45:22+0000",
-      "summary": "The über athletic cover corner will be the next Longhorn DB to join the NFL ranks."
-    },
-    {
-      "id": "61f48a6e49db05cb",
-      "title": "Tennessee CB Jermod McCoy: 2026 NFL Draft profile, latest mock predictions",
-      "link": "https://sports.yahoo.com/articles/tennessee-cb-jermod-mccoy-2026-164515921.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:45:15+0000",
-      "summary": "The Vols have a rare class with two secondary players projected in top 30 picks."
-    },
-    {
-      "id": "324ac3d417988908",
-      "title": "The case for the Bills trading down and out of the 1st round of the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/case-bills-trading-down-1st-164409364.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:44:09+0000",
-      "summary": "This would be a calculated maneuver."
-    },
-    {
-      "id": "faba4db7dee07673",
-      "title": "Chris Ballard on trading Anthony Richardson: We had some calls, nothing came to fruition",
-      "link": "https://sports.yahoo.com/articles/chris-ballard-trading-anthony-richardson-164116984.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:41:16+0000",
-      "summary": "Colts General Manager Chris Ballard would like to trade quarterback Anthony Richardson, but he hasn't found a partner yet."
-    },
-    {
-      "id": "99e516ea8d6e00b5",
-      "title": "2026 NFL draft preview: Kentucky wide receiver Kendrick Law",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-preview-kentucky-164101363.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:41:01+0000",
-      "summary": "With the 2026 NFL Draft looming, we look at where Kentucky wide receiver Kendrick Law is projected to land at the next level."
-    },
-    {
-      "id": "2a1e347211da767d",
-      "title": "Bills' Keon Coleman mistake looms large in 2026 NFL Draft week",
-      "link": "https://sports.yahoo.com/articles/bills-keon-coleman-mistake-looms-163718934.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T16:37:18+0000",
-      "summary": "Buffalo didn't get this one right."
-    },
-    {
-      "id": "cd7ad5c7942b066d",
-      "title": "The Draft Day Predictor settles big Round 1 debates: Could Ty Simpson slide? Should Dallas trade up?",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48542553/2026-nfl-draft-day-predictor-forecasts-picks-trades-slides-simpson-love-cowboys",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-21T16:30:44+0000",
-      "summary": "Our analytics model crunches the numbers on Ty Simpson, Jeremiyah Love and how four NFL teams should approach their first-round picks."
-    },
-    {
-      "id": "c53ad58ff931f023",
-      "title": "Meet Prospect X, who could be the 2026 NFL draft's brightest diamond in the rough",
-      "link": "https://espn.com/nfl/story/_/id/48543478/2026-prospect-x-nfl-draft",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-21T16:30:44+0000",
-      "summary": "After months of searching, we've found the prospect we believe is the 2026 NFL draft's best-kept secret."
     },
     {
       "id": "30ccfe44c96c25df",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-03-30T16:00:56+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back amid plenty of college hosting their annual Pro Days on campuses across the country."
+    },
+    {
+      "id": "4bae23bce801ae00",
+      "title": "Carlie Irsay-Gordon: Chemistry between Shane Steichen, Daniel Jones key",
+      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-chemistry-between-shane-steichen-daniel-jones-key/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-03-30T00:18:05+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts’ immediate future is a matter of chemistry. Carlie Irsay-Gordon made that clear while meeting with a handful of her team’s media Sunday at the NFL owners’ meetings in Phoenix. The Colts essentially decided to head into 2026 following the same blueprint that had them among the league’s best teams after [...]"
     }
   ],
   "links": [
