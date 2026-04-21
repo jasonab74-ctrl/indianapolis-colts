@@ -1,6 +1,105 @@
 {
-  "updated": "2026-04-21T15:51:05+00:00",
+  "updated": "2026-04-21T17:00:30+00:00",
   "items": [
+    {
+      "id": "ef16be2bcc3a4e5a",
+      "title": "Garoppolo considering retirement, sources say",
+      "link": "https://espn.com/nfl/story/_/id/48542726/sources-free-agent-qb-jimmy-garoppolo-considering-retirement",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T16:56:24+0000",
+      "summary": "Free agent quarterback Jimmy Garoppolo is considering retirement, sources told NFL Network on Monday."
+    },
+    {
+      "id": "a16d925061bd7f35",
+      "title": "Seahawks keen to trade down, even within division",
+      "link": "https://espn.com/nfl/story/_/id/48545207/seattle-seahawks-looking-trade-2026-nfl-draft-willing-deal-nfc-west",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T16:56:24+0000",
+      "summary": "The Super Bowl champion Seahawks are looking to trade down in this year's NFL draft -- \"it's no secret with us,\" general manager John Schneider said Monday -- and are not opposed to making deals within their division."
+    },
+    {
+      "id": "81a6e85b115fdb38",
+      "title": "📈 15 players who will outperform their draft slot",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48521984/2026-nfl-draft-mel-kiper-favorite-prospects-every-position-class-sleepers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T16:56:24+0000",
+      "summary": "Mel Kiper Jr.'s annual list of NFL draft favorites includes two speedy receivers, three undersized cornerbacks and some gritty linemen."
+    },
+    {
+      "id": "7541c026a50784c4",
+      "title": "Colts QB Daniel Jones back to throwing, remains on track for training camp",
+      "link": "https://colts.com/news/daniel-jones-achilles-recovery-throwing-training-camp-regular-season-jayson-tatum-boston-celtics",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-04-21T16:51:23+0000",
+      "summary": "Head coach Shane Steichen said Jones, who sustained a torn Achilles' in December, is dropping back and throwing."
+    },
+    {
+      "id": "3f5f4f32040feb4a",
+      "title": "Who do the Vikings land in Jordan Reid's final 2026 NFL Mock Draft?",
+      "link": "https://sports.yahoo.com/articles/vikings-land-jordan-reids-final-164819554.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:48:19+0000",
+      "summary": "ESPN's Jordan Reid has the published his final mock draft ahead of Thursday and he has an interesting pick for the Bucs."
+    },
+    {
+      "id": "a704d5ffeb623d1f",
+      "title": "2026 NFL Draft profile: Texas CB Manny Muhammad",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-profile-texas-164522242.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:45:22+0000",
+      "summary": "The über athletic cover corner will be the next Longhorn DB to join the NFL ranks."
+    },
+    {
+      "id": "61f48a6e49db05cb",
+      "title": "Tennessee CB Jermod McCoy: 2026 NFL Draft profile, latest mock predictions",
+      "link": "https://sports.yahoo.com/articles/tennessee-cb-jermod-mccoy-2026-164515921.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:45:15+0000",
+      "summary": "The Vols have a rare class with two secondary players projected in top 30 picks."
+    },
+    {
+      "id": "324ac3d417988908",
+      "title": "The case for the Bills trading down and out of the 1st round of the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/case-bills-trading-down-1st-164409364.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:44:09+0000",
+      "summary": "This would be a calculated maneuver."
+    },
+    {
+      "id": "faba4db7dee07673",
+      "title": "Chris Ballard on trading Anthony Richardson: We had some calls, nothing came to fruition",
+      "link": "https://sports.yahoo.com/articles/chris-ballard-trading-anthony-richardson-164116984.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:41:16+0000",
+      "summary": "Colts General Manager Chris Ballard would like to trade quarterback Anthony Richardson, but he hasn't found a partner yet."
+    },
+    {
+      "id": "99e516ea8d6e00b5",
+      "title": "2026 NFL draft preview: Kentucky wide receiver Kendrick Law",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-preview-kentucky-164101363.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:41:01+0000",
+      "summary": "With the 2026 NFL Draft looming, we look at where Kentucky wide receiver Kendrick Law is projected to land at the next level."
+    },
+    {
+      "id": "2a1e347211da767d",
+      "title": "Bills' Keon Coleman mistake looms large in 2026 NFL Draft week",
+      "link": "https://sports.yahoo.com/articles/bills-keon-coleman-mistake-looms-163718934.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T16:37:18+0000",
+      "summary": "Buffalo didn't get this one right."
+    },
     {
       "id": "cd7ad5c7942b066d",
       "title": "The Draft Day Predictor settles big Round 1 debates: Could Ty Simpson slide? Should Dallas trade up?",
@@ -20,15 +119,6 @@
       "summary": "After months of searching, we've found the prospect we believe is the 2026 NFL draft's best-kept secret."
     },
     {
-      "id": "15a20b536efcce6f",
-      "title": "Francis Mauigoa injury concerns: Does it affect his NFL Draft stock?",
-      "link": "https://sports.yahoo.com/articles/francis-mauigoa-injury-concerns-does-153948765.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T15:39:48+0000",
-      "summary": "Will the projected first-round pick go later than anticipated due to injury concerns?"
-    },
-    {
       "id": "30ccfe44c96c25df",
       "title": "'Making The Team' to recap the road to 2026 Colts Cheer Squad",
       "link": "https://colts.com/news/making-of-the-team-2026-colts-cheer-squad-fox59",
@@ -36,78 +126,6 @@
       "feed": "Colts.com",
       "published": "2026-04-21T15:30:15+0000",
       "summary": "“Colts Cheer: Making The Team,” a 30 min. show recounting the audition process for the 2026 Colts Cheerleaders, will air this Wed., April 22, at 11:30 a.m. and 8 p.m. on Fox59 Now, the free app available on Amazon Fire, Apple TV, Roku and Samsung connected TVs."
-    },
-    {
-      "id": "554a2f30b0522903",
-      "title": "2026 NFL trade value chart: How much is each draft pick worth?",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-trade-value-chart-153014471.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T15:30:14+0000",
-      "summary": "With the trade value chart, we can see how much each draft pick is worth, including the Rams' seven selections this year."
-    },
-    {
-      "id": "294c3e0d1a0c9d39",
-      "title": "Why the Los Angeles Rams will not draft Ty Simpson, explains NFL expert",
-      "link": "https://sports.yahoo.com/articles/why-los-angeles-rams-not-153000330.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T15:30:00+0000",
-      "summary": "Ty Simpson’s draft outlook has taken an interesting turn, and the Los Angeles Rams are no longer at the center of it. The quarterback had been loosely linked to multiple teams, including Los Angeles, but recent insight suggests that scenario is far less likely than it once appeared."
-    },
-    {
-      "id": "8a09305cb02544fb",
-      "title": "Shorter time for first-round picks could lead to a bigger backlog, at times",
-      "link": "https://sports.yahoo.com/articles/shorter-time-first-round-picks-152811821.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T15:28:11+0000",
-      "summary": "Despite the large crowd that will gather by the confluence of the three rivers on Thursday night, the NFL draft is fundamentally a TV show."
-    },
-    {
-      "id": "95fb4bc864898fd3",
-      "title": "Bills’ Josh Allen reveals how fatherhood could be key to success",
-      "link": "https://sports.yahoo.com/articles/bills-josh-allen-reveals-fatherhood-152448319.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T15:24:48+0000",
-      "summary": "Buffalo Bills quarterback Josh Allen is still in his first month as a father but already his daughter has changed his outlook on the NFL. Allen’s wife, actress Hailee Steinfeld, announced the birth of the couple’s first child on April…"
-    },
-    {
-      "id": "ef16be2bcc3a4e5a",
-      "title": "Garoppolo considering retirement, sources say",
-      "link": "https://espn.com/nfl/story/_/id/48542726/sources-free-agent-qb-jimmy-garoppolo-considering-retirement",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-21T14:59:12+0000",
-      "summary": "Free agent quarterback Jimmy Garoppolo is considering retirement, sources told NFL Network on Monday."
-    },
-    {
-      "id": "a16d925061bd7f35",
-      "title": "Seahawks keen to trade down, even within division",
-      "link": "https://espn.com/nfl/story/_/id/48545207/seattle-seahawks-looking-trade-2026-nfl-draft-willing-deal-nfc-west",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-21T14:59:12+0000",
-      "summary": "The Super Bowl champion Seahawks are looking to trade down in this year's NFL draft -- \"it's no secret with us,\" general manager John Schneider said Monday -- and are not opposed to making deals within their division."
-    },
-    {
-      "id": "99573b8aa17c619c",
-      "title": "Cowboys make Aubrey NFL's highest-paid kicker",
-      "link": "https://espn.com/nfl/story/_/id/48542115/cowboys-give-brandon-aubrey-4-year-deal-averaging-7m-per-season",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-21T14:59:12+0000",
-      "summary": "Brandon Aubrey and the Cowboys reached an agreement Monday on a deal that will make him the highest-paid kicker in NFL history, his agents told ESPN's Adam Schefter."
-    },
-    {
-      "id": "81a6e85b115fdb38",
-      "title": "📈 15 players who will outperform their draft slot",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48521984/2026-nfl-draft-mel-kiper-favorite-prospects-every-position-class-sleepers",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-21T14:59:12+0000",
-      "summary": "Mel Kiper Jr.'s annual list of NFL draft favorites includes two speedy receivers, three undersized cornerbacks and some gritty linemen."
     },
     {
       "id": "10738f19aa059800",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-03-30T16:00:56+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back amid plenty of college hosting their annual Pro Days on campuses across the country."
-    },
-    {
-      "id": "4bae23bce801ae00",
-      "title": "Carlie Irsay-Gordon: Chemistry between Shane Steichen, Daniel Jones key",
-      "link": "https://fox59.com/sports/colts/carlie-irsay-gordon-chemistry-between-shane-steichen-daniel-jones-key/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-30T00:18:05+0000",
-      "summary": "INDIANAPOLIS — The Indianapolis Colts’ immediate future is a matter of chemistry. Carlie Irsay-Gordon made that clear while meeting with a handful of her team’s media Sunday at the NFL owners’ meetings in Phoenix. The Colts essentially decided to head into 2026 following the same blueprint that had them among the league’s best teams after [...]"
-    },
-    {
-      "id": "fa5ad7ea0d37a4e7",
-      "title": "With Daniel Jones & Alec Pierce back, Colts Owner & CEO Carlie Irsay-Gordon ready to press play on re-capturing success in first half of 2025",
-      "link": "https://colts.com/news/with-daniel-jones-alec-pierce-back-colts-owner-ceo-carlie-irsay-gordon-ready-to-press-play-on-re-capturing-success-in-first-half-of-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-29T22:25:10+0000",
-      "summary": "Colts Owner and CEO Carlie Irsay-Gordon on Sunday went into detail as to why she believes her team can hit the ground running in 2026 after a disappointing final seven games of the 2025 season."
     }
   ],
   "links": [
