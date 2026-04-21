@@ -1,104 +1,23 @@
 {
-  "updated": "2026-04-21T11:16:43+00:00",
+  "updated": "2026-04-21T12:12:43+00:00",
   "items": [
     {
-      "id": "e55e50100f84b5a0",
-      "title": "10 Ravens who could be impacted the most by the 2026 NFL draft",
-      "link": "https://sports.yahoo.com/articles/10-ravens-could-impacted-most-110617141.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:06:17+0000",
-      "summary": "With the draft fast approaching, we're looking at ten Ravens who'll be impacted the most by the three-day weekend."
-    },
-    {
-      "id": "1016e4befb4b57ab",
-      "title": "2026 NFL Draft big board: The Top 79 players available (and Fernando Mendoza isn't No. 1)",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-big-board-110243831.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:02:43+0000",
-      "summary": "Fernando Mendoza may be the top pick, but he isn't No. 1 on on our board. See the players he's chasing at the 2026 NFL Draft."
-    },
-    {
-      "id": "e1cad2b75b19e152",
-      "title": "2026 NFL draft: New York Giants not interested in Sonny Styles?",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-york-giants-110234157.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:02:34+0000",
-      "summary": "As the 2026 NFL draft nears, rumors abound about the New York Giants' apparent lack of interest in Ohio State LB Sonny Styles."
-    },
-    {
-      "id": "ceee7722d6080b2e",
-      "title": "Best NFL draft class that never won a Super Bowl",
-      "link": "https://sports.yahoo.com/articles/best-nfl-draft-class-never-110200651.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:02:00+0000",
-      "summary": "In the NFL, draft classes are often judged by championships, but that standard can obscure just how dominant a group of players truly was. As identified by Sports Illustrated, the 2017 class of the New Orleans Saints stands as a…"
-    },
-    {
-      "id": "0cd1ddb70aa27b15",
-      "title": "Nittany Lions in the NFL: Final Mock Draft Round-Up",
-      "link": "https://sports.yahoo.com/articles/nittany-lions-nfl-final-mock-110200271.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:02:00+0000",
-      "summary": "It’s almost NFL draft time!"
-    },
-    {
-      "id": "bc90395d40a75e9b",
-      "title": "2026 NFL Draft Profile: Carver Willis",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-profile-carver-110000247.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:00:00+0000",
-      "summary": "Today’s 2026 NFL draft profile is on former Kansas State transfer and Husky starting LT Carver Willis. The one-year starter on Montlake was a key addition to an offensive line that made a dramatic turnaround from year one to year two under head coach Jedd Fisch. As a seasoned veteran, Willis brought stability and a […]"
-    },
-    {
-      "id": "7a26ab96a923dd36",
-      "title": "NFL and Bronco Draft History",
-      "link": "https://sports.yahoo.com/articles/nfl-bronco-draft-history-110000806.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:00:00+0000",
-      "summary": "The first overall pick in the draft has been a QB in 19 of the 25 drafts this century with 2001 being the first draft of this century. The other six drafts have either had an edge (four) or an offensive tackle (two). So it’s a very safe bet that the first overall pick will […]"
-    },
-    {
-      "id": "5a4b54692cb3cd43",
-      "title": "Heinz to Honor the NFL Draft's 57th Pick with a Custom Mr. 57 Jacket and Lifetime Supply of Ketchup",
-      "link": "https://sports.yahoo.com/articles/heinz-honor-nfl-drafts-57th-110000670.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:00:00+0000",
-      "summary": "The condiment company will also offer the selected athlete the opportunity to partner with the brand as they kick off their professional football career"
-    },
-    {
-      "id": "98556f8387f73293",
-      "title": "NFL draft profile 2026: Olaivavega Ioane (Offensive guard, Penn State)",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-profile-2026-olaivavega-110000350.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:00:00+0000",
-      "summary": "Is Ioane the Steelers’ ideal first-round target?"
-    },
-    {
-      "id": "94ae5ba26a859e3a",
-      "title": "Spartan NFL Draft Prospects",
-      "link": "https://sports.yahoo.com/articles/spartan-nfl-draft-prospects-110000895.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-21T11:00:00+0000",
-      "summary": "Hopefully this article gets longer in future years"
-    },
-    {
-      "id": "055c9ed8c7ca5f31",
-      "title": "Schefter’s NFL draft week intel: Nuggets on top picks, intriguing prospects, QBs and trade candidates",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48507444/2026-nfl-draft-notes-intel-buzz-adam-schefter-first-round-picks-teams-trades",
+      "id": "cd7ad5c7942b066d",
+      "title": "The Draft Day Predictor settles big Round 1 debates: Could Ty Simpson slide? Should Dallas trade up?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48542553/2026-nfl-draft-day-predictor-forecasts-picks-trades-slides-simpson-love-cowboys",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T03:02:49+0000",
-      "summary": "How early could Jeremiyah Love be drafted? Will Ty Simpson go in Round 1? Could we still see A.J. Brown traded? Adam Schefter has the latest."
+      "published": "2026-04-21T12:54:11+0000",
+      "summary": "Our analytics model crunches the numbers on Ty Simpson, Jeremiyah Love and how four NFL teams should approach their first-round picks."
+    },
+    {
+      "id": "c53ad58ff931f023",
+      "title": "Meet Prospect X, who could be the 2026 NFL draft's brightest diamond in the rough",
+      "link": "https://espn.com/nfl/story/_/id/48543478/2026-prospect-x-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T12:54:11+0000",
+      "summary": "After months of searching, we've found the prospect we believe is the 2026 NFL draft's best-kept secret."
     },
     {
       "id": "ef16be2bcc3a4e5a",
@@ -106,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48542726/sources-free-agent-qb-jimmy-garoppolo-considering-retirement",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T03:02:42+0000",
+      "published": "2026-04-21T12:33:25+0000",
       "summary": "Free agent quarterback Jimmy Garoppolo is considering retirement, sources told NFL Network on Monday."
     },
     {
@@ -115,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48545207/seattle-seahawks-looking-trade-2026-nfl-draft-willing-deal-nfc-west",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T03:02:42+0000",
+      "published": "2026-04-21T12:33:25+0000",
       "summary": "The Super Bowl champion Seahawks are looking to trade down in this year's NFL draft -- \"it's no secret with us,\" general manager John Schneider said Monday -- and are not opposed to making deals within their division."
     },
     {
@@ -124,7 +43,7 @@
       "link": "https://espn.com/nfl/story/_/id/48542115/cowboys-give-brandon-aubrey-4-year-deal-averaging-7m-per-season",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T03:02:42+0000",
+      "published": "2026-04-21T12:33:25+0000",
       "summary": "Brandon Aubrey and the Cowboys reached an agreement Monday on a deal that will make him the highest-paid kicker in NFL history, his agents told ESPN's Adam Schefter."
     },
     {
@@ -133,8 +52,116 @@
       "link": "https://espn.com/nfl/story/_/id/48542922/colts-alec-pierce-missing-offseason-workouts-ankle-surgery",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-04-21T03:02:42+0000",
+      "published": "2026-04-21T12:33:25+0000",
       "summary": "Colts WR Alec Pierce recently underwent surgery after playing through nagging ankle pain for much of last season and will be sidelined during offseason workouts."
+    },
+    {
+      "id": "81a6e85b115fdb38",
+      "title": "📈 15 players who will outperform their draft slot",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48521984/2026-nfl-draft-mel-kiper-favorite-prospects-every-position-class-sleepers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T12:33:25+0000",
+      "summary": "Mel Kiper Jr.'s annual list of NFL draft favorites includes two speedy receivers, three undersized cornerbacks and some gritty linemen."
+    },
+    {
+      "id": "ecce614820a12819",
+      "title": "The unprecedented rise of Fernando Mendoza",
+      "link": "https://espn.com/nfl/story/_/id/48530106/fernando-mendoza-consensus-no-1-2026-nfl-draft-pick-indiana-hoosiers-las-vegas-raiders",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T12:30:31+0000",
+      "summary": "The consensus top pick is bringing his unique mix of curiosity, quirk and command to the NFL."
+    },
+    {
+      "id": "5063da0dac68d3ff",
+      "title": "Kiper's final 2026 Big Board: Ranking the top 150 NFL draft prospects, plus position reports",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T12:28:11+0000",
+      "summary": "Mel Kiper Jr. updated his NFL draft rankings one last time. His Big Board stacks 150 prospects -- starting with Fernando Mendoza -- and goes deep at every position."
+    },
+    {
+      "id": "b7e44b001fb7c5d4",
+      "title": "Reid's final NFL mock draft: We projected fits for all 32 teams across seven rounds",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48480079/2026-nfl-mock-draft-seven-rounds-257-picks-predictions-jordan-reid-fits",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-21T12:28:11+0000",
+      "summary": "Jordan Reid projected every single pick from the Raiders' selection at No. 1 to Mr. Irrelevant."
+    },
+    {
+      "id": "835398adc3b8185e",
+      "title": "NFL insider says what Dolphins should do with their first-round picks",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-says-dolphins-first-120453662.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T12:04:53+0000",
+      "summary": "The Miami Dolphins have two first-round picks in the 2026 NFL draft, and ESPN's Adam Schefter explains what he thinks they should do with them."
+    },
+    {
+      "id": "8eb65ebdc4e92391",
+      "title": "NFL Draft buzz opens path for Saints to trade Alvin Kamara",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-buzz-opens-path-120310619.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T12:03:10+0000",
+      "summary": "The 2026 NFL Draft class isn’t looking too hot at the running back position and that could open the door for the New Orleans Saints to trade Alvin Kamara. One of the most respected draft gurus, NFL Network’s Daniel Jeremiah,…"
+    },
+    {
+      "id": "076c49fd9a91d0ca",
+      "title": "Ducks' Emmanuel Pregnon to outperform draft stock, per Mel Kiper Jr.",
+      "link": "https://sports.yahoo.com/articles/ducks-emmanuel-pregnon-outperform-draft-120203049.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T12:02:03+0000",
+      "summary": "Top ESPN draft analyst Mel Kiper Jr. expects one former Oregon Duck in particular to perform better in the NFL than his draft stock may suggest."
+    },
+    {
+      "id": "a4f3465c62abe074",
+      "title": "5 NFL teams (including the Broncos) with lowest salary cap space in 2027",
+      "link": "https://sports.yahoo.com/articles/5-nfl-teams-including-broncos-120115574.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T12:01:15+0000",
+      "summary": "The Broncos rank among the NFL's bottom-five teams in projected 2027 salary cap space."
+    },
+    {
+      "id": "6e267816f56ac9fc",
+      "title": "Aziz’s 2026 NFL Draft offensive positional rankings",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/123442/azizs-2026-nfl-draft-offensive-positional-rankings",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-21T12:00:00+0000",
+      "summary": "Quarterbacks 1. Fernando Mendoza &#8211; IndianaMendoza is a big-framed, well-rounded quarterback with functional mobility, toughness, and enough arm talent to attack all areas of the field when he is able to throw on schedule. He throws well on the move, can buy time with his legs, and has shown the poise to make high-level throws [&#8230;]"
+    },
+    {
+      "id": "575588faacef5ef5",
+      "title": "Devon Witherspoon, vet Seahawks on field early in offseason blows away coach",
+      "link": "https://sports.yahoo.com/articles/devon-witherspoon-vet-seahawks-field-120000736.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T12:00:00+0000",
+      "summary": "Mike Macdonald told Witherspoon, fellow starters he didn’t expect them to attend the 1st phase of the NFL offseason program post-Super Bowl."
+    },
+    {
+      "id": "75b3bb405aecd385",
+      "title": "Browns NFL draft: Return of the fullback has options",
+      "link": "https://sports.yahoo.com/articles/browns-nfl-draft-return-fullback-115637662.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T11:56:37+0000",
+      "summary": "The Cleveland Browns under Todd Monken are likely to get their fullback return. A few NFL draft prospects fit the bill"
+    },
+    {
+      "id": "c50613addcef2d9b",
+      "title": "A year later, Browns' Shedeur Sanders sets bar for NFL Draft craziness",
+      "link": "https://sports.yahoo.com/articles/later-browns-shedeur-sanders-sets-115037945.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-21T11:50:37+0000",
+      "summary": "Could there be anything like that this year?"
     },
     {
       "id": "29338657094518c2",
@@ -236,15 +263,6 @@
       "summary": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?"
     },
     {
-      "id": "b7e44b001fb7c5d4",
-      "title": "Reid's seven-round NFL mock draft: A forecast of every pick from No. 1 to No. 257",
-      "link": "https://espn.com/nfl/draft2026/story/_/id/48480079/2026-nfl-mock-draft-seven-rounds-257-picks-predictions-jordan-reid-fits",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-20T16:20:02+0000",
-      "summary": "Jordan Reid projected every single pick for this week's NFL draft, from the Raiders' selection at No. 1 to Mr. Irrelevant."
-    },
-    {
       "id": "80fc7f53030acdba",
       "title": "Colts 2026 Mock Draft Monday: The final countdown",
       "link": "https://colts.com/news/colts-2026-mock-draft-monday-the-final-countdown",
@@ -252,15 +270,6 @@
       "feed": "Colts.com",
       "published": "2026-04-20T16:00:33+0000",
       "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back for one last edition ahead of the 2026 NFL Draft, which begins Thursday in Pittsburgh."
-    },
-    {
-      "id": "ecce614820a12819",
-      "title": "'It's his superpower': Inside Fernando Mendoza's extraordinary rise to No. 1",
-      "link": "https://espn.com/nfl/story/_/id/48530106/fernando-mendoza-consensus-no-1-2026-nfl-draft-pick-indiana-hoosiers-las-vegas-raiders",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-04-20T15:42:54+0000",
-      "summary": "The consensus top pick is bringing his unique mix of curiosity, quirk and command to the NFL."
     },
     {
       "id": "2fa7fc1533235634",
@@ -315,15 +324,6 @@
       "feed": "ESPN",
       "published": "2026-04-19T19:31:55+0000",
       "summary": "What does that say about the NFL's trade market, this draft class and the state of the Bengals?"
-    },
-    {
-      "id": "afb309e0bc6d54b8",
-      "title": "A decade later and Ballard’s Colts are still chasing their white whale",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123448/a-decade-later-and-ballards-colts-are-still-chasing-their-white-whale",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-18T20:44:44+0000",
-      "summary": "“Thar she blows” or maybe, “Thar she doesn’t blow” is more appropriate when describing the odyssey Chris Ballard and the Indianapolis Colts have been on trying to find a truly impactful defensive end. Just like Captain Ahab, Ballard has been on the hunt. I’m not sure an edge rusher took his leg but the obsession [&#8230;]"
     },
     {
       "id": "18fcda564223b4ed",
