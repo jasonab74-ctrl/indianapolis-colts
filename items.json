@@ -1,23 +1,77 @@
 {
-  "updated": "2026-04-22T03:34:51+00:00",
+  "updated": "2026-04-22T05:58:36+00:00",
   "items": [
     {
-      "id": "41366f704c572e21",
-      "title": "Sean McVay gives update on star WR, talks Rams upcoming NFL draft plans",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-gives-star-wr-031633553.html",
+      "id": "769a65f5636448c3",
+      "title": "2026 NFL draft: A tight end for every round",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-tight-end-054733234.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-22T03:16:33+0000",
-      "summary": "A familiar face was on hand when the Rams opened the on-field phase of their offseason program on Monday. Puka Nacua, their star wide receiver, is taking part in the program after entering a rehabilitation facility last month."
+      "published": "2026-04-22T05:47:33+0000",
+      "summary": "If the Arizona Cardinals want to draft a tight end, here is one for every round of the 2026 NFL draft."
     },
     {
-      "id": "1c39f048163a415f",
-      "title": "Colts veteran DT DeForest Buckner hopeful for training camp return",
-      "link": "https://sports.yahoo.com/articles/colts-veteran-dt-deforest-buckner-031058977.html",
+      "id": "7ac5817ed51166b4",
+      "title": "How does the NFL draft work?",
+      "link": "https://sports.yahoo.com/articles/does-nfl-draft-054656725.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
+      "published": "2026-04-22T05:46:56+0000",
+      "summary": "BBC Sport's guide to how the NFL draft works, how many players get picked and which team gets the first pick?"
+    },
+    {
+      "id": "2ffff12eb9ff97ea",
+      "title": "Why NFL teams have less time than ever to make Round 1 draft picks",
+      "link": "https://sports.yahoo.com/articles/why-nfl-teams-less-time-052002741.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-22T05:20:02+0000",
+      "summary": "Here's why this year's first round could be the shortest ever in NFL Draft history."
+    },
+    {
+      "id": "6e06d8b80a546223",
+      "title": "Jason Kelce talks retirement, NFL Draft and Eagles future during visit to Rowan University",
+      "link": "https://sports.yahoo.com/articles/jason-kelce-talks-retirement-nfl-042854822.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-22T05:16:53+0000",
+      "summary": "Retired Eagles center Jason Kelce drew a packed crowd and a rock-star welcome during a campus visit Tuesday at Rowan University."
+    },
+    {
+      "id": "653fe9f070c29a0c",
+      "title": "How a Shedeur Sanders prank call forced significant changes to NFL Draft",
+      "link": "https://sports.yahoo.com/articles/shedeur-sanders-prank-call-forced-051611531.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-22T05:16:11+0000",
+      "summary": "The Cleveland Browns QB was pranked last year and the NFL is making sure that never happens again."
+    },
+    {
+      "id": "7ed042e2944e0aef",
+      "title": "Colts veteran DT DeForest Buckner hopeful for training camp return",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/123620/colts-veteran-dt-deforest-buckner-hopeful-for-training-camp-return",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2026-04-22T03:10:58+0000",
-      "summary": "Colts veteran defensive tackle DeForest Buckner is eyeing a training camp return—if all goes to plan."
+      "summary": "According to longtime Indianapolis Colts Pro Bowl veteran defensive tackle DeForest Buckner, he is hopeful about returning from a season-ending neck injury and ensuing surgery for the team’s training camp occurring in mid-to-late July (via ESPN’s Stephen Holder): The 32-year-old veteran defensive tackle initially suffered the neck injury in Week 9 of last year on [&#8230;]"
+    },
+    {
+      "id": "e7d3b66445c2a3de",
+      "title": "Colts head coach Shane Steichen provides encouraging update on QB Daniel Jones",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/123616/colts-head-coach-shane-steichen-provides-encouraging-update-on-qb-daniel-jones",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-22T02:44:04+0000",
+      "summary": "On Tuesday for his pre-draft media availability, Indianapolis Colts head coach Shane Steichen provided an encouraging injury update on recently re-signed starting quarterback Daniel Jones, who’s apparently progressing well in his ongoing rehabilitation: Specifically, per Steichen, the Colts’ new $100 million dollar man (*with earned incentives of course) is back to throwing and performing drop-backs [&#8230;]"
+    },
+    {
+      "id": "fb3774c3e9aa96de",
+      "title": "Conspiracy Report: Colts GM Chris Ballard Has Leaked the 2026 Draft Plan",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/122860/conspiracy-report-colts-gm-chris-ballard-has-leaked-the-2026-draft-plan",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-22T02:12:49+0000",
+      "summary": "To the reader: First, I’d like to start by saying this article is presented as a “conspiracy theory” because that’s how this series started. I noticed that general manager Chris Ballard didn’t lie in his press conferences. He usually gave winding vague answers but he never said one thing and then did another. Armed with [&#8230;]"
     },
     {
       "id": "25ab11d5e6cc4ee8",
@@ -147,7 +201,7 @@
     },
     {
       "id": "6e267816f56ac9fc",
-      "title": "Aziz’s 2026 NFL Draft offensive positional rankings",
+      "title": "Aziz’s 2026 NFL Draft positional rankings (offense)",
       "link": "https://stampedeblue.com/indianapolis-colts-draft/123442/azizs-2026-nfl-draft-offensive-positional-rankings",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -270,33 +324,6 @@
       "feed": "ESPN",
       "published": "2026-04-20T14:10:23+0000",
       "summary": "Jeff Legwold reveals his list of top NFL draft prospects for 2026, which is based purely on talent."
-    },
-    {
-      "id": "c6f0109e4d39c78b",
-      "title": "The Colts sealed their fate with the 2023 NFL draft",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123489/the-colts-sealed-their-fate-with-the-2023-nfl-draft",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-20T13:06:00+0000",
-      "summary": "Fate isn’t necessarily good or bad. It’s a word that goes both ways, but what the Indianapolis Colts did in 2023 sealed theirs for the foreseeable future and unfortunately, it isn’t the good kind of fate. Selecting Anthony Richardson fourth overall is shaping the future in ways unknown. It could all work out in the [&#8230;]"
-    },
-    {
-      "id": "efe9c10837a565dc",
-      "title": "Annual Draft Contest coming! Pick the new Colts and win nothing but bragging rights.",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/123482/annual-draft-contest-coming-pick-the-new-colts-and-win-nothing-but-bragging-rights",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-20T00:44:26+0000",
-      "summary": "Many of you are familiar with this from my days of posting on Fan Posts, which is now The Feed. I’ve been given to opportunity to present the contest here on the main site, so this may be the first time that some of you have heard of this. For those of you who have [&#8230;]"
-    },
-    {
-      "id": "82f56a230ae60260",
-      "title": "Making the Case for a Draft Day Trade: Could the Colts Trade More of Their 2026 Picks?",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123475/making-the-case-for-a-draft-day-trade-could-the-colts-trade-more-of-their-2026-picks",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-19T19:41:57+0000",
-      "summary": "The Colts are heading into the 2026 draft without a first-round pick. Chris Ballard has built his reputation on stockpiling picks, acquiring as many “darts to throw at the dartboard” as possible. That’s why last year’s trade for Sauce Gardner was so surprising. It went against everything Ballard has typically avoided as a general manager. [&#8230;]"
     },
     {
       "id": "18fcda564223b4ed",
@@ -513,33 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-03-30T00:18:05+0000",
       "summary": "INDIANAPOLIS — The Indianapolis Colts’ immediate future is a matter of chemistry. Carlie Irsay-Gordon made that clear while meeting with a handful of her team’s media Sunday at the NFL owners’ meetings in Phoenix. The Colts essentially decided to head into 2026 following the same blueprint that had them among the league’s best teams after [...]"
-    },
-    {
-      "id": "fa5ad7ea0d37a4e7",
-      "title": "With Daniel Jones & Alec Pierce back, Colts Owner & CEO Carlie Irsay-Gordon ready to press play on re-capturing success in first half of 2025",
-      "link": "https://colts.com/news/with-daniel-jones-alec-pierce-back-colts-owner-ceo-carlie-irsay-gordon-ready-to-press-play-on-re-capturing-success-in-first-half-of-2025",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-29T22:25:10+0000",
-      "summary": "Colts Owner and CEO Carlie Irsay-Gordon on Sunday went into detail as to why she believes her team can hit the ground running in 2026 after a disappointing final seven games of the 2025 season."
-    },
-    {
-      "id": "a9f7aaa8e60bd99a",
-      "title": "Colts Blue Zone Podcast 458: Evaluating the Offseason So Far",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-458-evaluating-the-offseason-so-far/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-03-26T20:22:58+0000",
-      "summary": "In the latest edition of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams explore the team's offseason moves and where things stack up about a month away from April's NFL Draft. Topics include: the Week 1 starter for Indianapolis, Daniel Jones' recovery, the importance of Alec Pierce and some deficiencies on [...]"
-    },
-    {
-      "id": "4d4db5e5de9e83c6",
-      "title": "How Akeem Davis-Gaither, Cam Taylor-Britt's relationships with Lou Anarumo made signing with Colts a 'no-brainer'",
-      "link": "https://colts.com/news/akeem-davis-gaither-colts-bengals-lou-anarumo-linebacker-nfl-cardinals-cam-taylor-britt",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-03-26T16:35:52+0000",
-      "summary": "Both Davis-Gaither and Taylor-Britt played for Anarumo during their time with the Cincinnati Bengals."
     }
   ],
   "links": [
