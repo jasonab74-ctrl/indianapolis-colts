@@ -1,68 +1,41 @@
 {
-  "updated": "2026-04-25T16:04:17+00:00",
+  "updated": "2026-04-25T17:08:30+00:00",
   "items": [
     {
-      "id": "abc2f73568322448",
-      "title": "NFL draft picks tracker: Analysis of Rounds 4-7 on Day 3",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-picks-tracker-analysis-160028596.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T16:00:28+0000",
-      "summary": "USA TODAY Sports is analyzing every player drafted on Saturday in our NFL draft picks tracker. Follow along!"
+      "id": "d9326ad292a9d1c1",
+      "title": "Follow along in ESPN's Draftcast: Analysis for every pick",
+      "link": "https://espn.com/nfl/draft/rounds",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T17:52:27+0000",
+      "summary": "See every pick in the NFL draft, including what each prospect brings and how he fits with his new team."
     },
     {
-      "id": "50bb67eb79fa32ef",
-      "title": "NFL.com grades Falcons' Day 2 picks in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/nfl-com-grades-falcons-day-155541388.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:55:41+0000",
-      "summary": "Falcons draft grades: NFL.com gives Atlanta an A for Day 2 picks"
+      "id": "fda918945ee66b78",
+      "title": "Grading NFL draft trades: Who won the Jonathan Greenard deal, Eagles or Vikings?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48542597/2026-nfl-draft-trade-grades-biggest-deals-players-picks-contracts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T17:31:00+0000",
+      "summary": "We're grading the most impactful trades of the 2026 NFL draft, including the Vikings trading Greenard to Philly."
     },
     {
-      "id": "e1a54bb2874f6aef",
-      "title": "NFL Draft 2026: Day 3 Open Thread",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-day-3-155500154.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:55:00+0000",
-      "summary": "The Saints are set for the third and final day of the draft. Follow along with us here in our live thread!"
+      "id": "0e74377391386150",
+      "title": "Which teams won -- and lost -- on Day 2 of the NFL draft? Kiper on the best values, biggest reaches",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48547336/2026-nfl-draft-kiper-rounds-2-3-winners-losers-value-picks-updates-best-available",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T17:30:48+0000",
+      "summary": "We're through 100 picks of the NFL draft. Mel Kiper Jr. sorts through the steals and reaches of Day 2, including some big value selections."
     },
     {
-      "id": "c73dd2a6145e8b1a",
-      "title": "Detroit Lions cancel rookie minicamp in 2026",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-cancel-rookie-minicamp-155438633.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:54:38+0000",
-      "summary": "NFL teams allowed three-day minicamp as part of their rookie development program for drafted players, undrafted rookies and tryouts. Lions opted out."
-    },
-    {
-      "id": "f607b2b1c0f47b13",
-      "title": "Eagles have 3 picks left entering Day 3 of the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/eagles-3-picks-left-entering-135103279.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:50:32+0000",
-      "summary": "The Eagles now only have three selections left on Saturday afternoon."
-    },
-    {
-      "id": "17aceb94e0dd5b5e",
-      "title": "Indianapolis Colts draft picks tracker: Updated list of 2026 selections, next pick predictions",
-      "link": "https://sports.yahoo.com/articles/indianapolis-colts-draft-picks-tracker-172354409.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:50:01+0000",
-      "summary": "The Colts are trying to follow up a season that had a lot of promise."
-    },
-    {
-      "id": "9c3641a1c49def70",
-      "title": "HBCU draft pick tracker: Updated list of 2026 NFL selections, top prospects available",
-      "link": "https://sports.yahoo.com/articles/hbcu-draft-pick-tracker-updated-230653066.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:50:00+0000",
-      "summary": "This is what to know about players from Historically Black Colleges and Universities."
+      "id": "58e3e1e53dfbfba7",
+      "title": "Kiper's winners, losers from wild Round 1",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48547294/2026-nfl-draft-kiper-round-1-winners-losers-value-picks-updates-best-available",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T17:30:48+0000",
+      "summary": "Mel Kiper Jr. makes sense of the first round of the NFL draft, sizing up moves like the Makai Lemon and Ty Simpson picks."
     },
     {
       "id": "2394cf0f6af1116a",
@@ -70,134 +43,278 @@
       "link": "https://sports.yahoo.com/articles/diego-pavia-2026-nfl-draft-200001779.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:50:00+0000",
+      "published": "2026-04-25T17:01:00+0000",
       "summary": "The Commodores QB draft has a tough road ahead."
     },
     {
-      "id": "34ae75c9449f28cb",
-      "title": "5 Day 2 picks that could already be heavy contributors",
-      "link": "https://sports.yahoo.com/articles/5-day-2-picks-could-154908724.html",
+      "id": "16e3745f6146a039",
+      "title": "Miami Hurricanes 2026 NFL Draft tracker live updates, best available and reactions",
+      "link": "https://sports.yahoo.com/articles/miami-hurricanes-2026-nfl-draft-200001391.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:49:08+0000",
-      "summary": "Day 2 of the NFL draft still had some talented prospects, and five of them could be immediate contributors in year 1."
+      "published": "2026-04-25T17:00:01+0000",
+      "summary": "Hurricanes should come off the board early and often."
     },
     {
-      "id": "3b9db6c9b918d5d6",
-      "title": "2026 NFL Draft: Consensus best available for Day 3",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-consensus-best-154852188.html",
+      "id": "eb572f5f7a3f51e7",
+      "title": "Best available CB in 2026 NFL Draft: Updated results, top prospects still on board",
+      "link": "https://sports.yahoo.com/articles/best-available-cb-2026-nfl-200001542.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:48:52+0000",
-      "summary": "According to the Consensus Big Board, these are the best available players as we head into Day three of the 2026 NFL Draft."
+      "published": "2026-04-25T16:59:01+0000",
+      "summary": "The latest news and notes from Pittsburgh."
     },
     {
-      "id": "b7fb192c0a8cde28",
-      "title": "Browns NFL Draft: 5 things about new safety Emmanuel McNeil-Warren",
-      "link": "https://sports.yahoo.com/articles/browns-nfl-draft-5-things-154834371.html",
+      "id": "6a964fc8063145df",
+      "title": "Georgia Bulldogs 2026 NFL Draft tracker live updates, best available and reactions",
+      "link": "https://sports.yahoo.com/articles/georgia-bulldogs-2026-nfl-draft-200001147.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:48:34+0000",
-      "summary": "Getting to know the Cleveland Browns' new safety Emmanuel McNeil-Warren from just down the freeway in Toledo."
+      "published": "2026-04-25T16:58:00+0000",
+      "summary": "Seven of Georgia's 11 eligible players could go in the first two days."
     },
     {
-      "id": "de53069ae558a224",
-      "title": "Rams Still Have Not Drafted WR But Say It’s ‘In the Mix’ Every Pick",
-      "link": "https://sports.yahoo.com/articles/rams-still-not-drafted-wr-154807144.html",
+      "id": "5579681b553f6e73",
+      "title": "Best available WR in 2026 NFL Draft: Updated results, top prospects still on board",
+      "link": "https://sports.yahoo.com/articles/best-available-wr-2026-nfl-200001958.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:48:07+0000",
-      "summary": "Three rounds into the 2026 NFL Draft, the Los Angeles Rams still have not drafted a wide receiver. Leading up to the draft, the Rams were projected to draft USC wide receiver Makai Lemon with the No. 13 pick. Instead, the Rams used its No. 13 pick to draft Alabama quarterback Ty Simpson then drafted […] The post Rams Still Have Not Drafted WR But Say It’s ‘In the Mix’ Every Pick appeared first on LA Sports Report."
+      "published": "2026-04-25T16:57:01+0000",
+      "summary": "The latest news and notes from Pittsburgh."
     },
     {
-      "id": "b3ed33129b31d108",
-      "title": "NFL Draft Results: Live blog, trades, updates, picks, and more for Day 3",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-results-live-blog-154755690.html",
+      "id": "7f4811fcec973ac0",
+      "title": "Florida Gators 2026 NFL Draft tracker live updates, best available and reactions",
+      "link": "https://sports.yahoo.com/articles/florida-gators-2026-nfl-draft-200001945.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:47:55+0000",
-      "summary": "﻿Follow along with updates here on Bleeding Green Nation!"
+      "published": "2026-04-25T16:57:00+0000",
+      "summary": "All seven Gators should come off the board in the first five rounds."
     },
     {
-      "id": "ff75893f65c86aa7",
-      "title": "49ers Day 3 NFL Draft thread: What positions can we expect today?",
-      "link": "https://sports.yahoo.com/articles/49ers-day-3-nfl-draft-154747681.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:47:47+0000",
-      "summary": "The 49ers have 5 picks on Day 3 of the draft"
+      "id": "62148a3803f3ae10",
+      "title": "For real: Jets pick Sadiq feared draft call was hoax",
+      "link": "https://espn.com/nfl/story/_/id/48590239/jets-first-round-pick-kenyon-sadiq-feared-draft-call-was-hoax",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T16:56:56+0000",
+      "summary": "For a second, Jets first-round draft pick Kenyon Sadiq thought his \"Welcome to the NFL\" moment was a hoax. His mind flashed to last year's draft and Shedeur Sanders. The viral moment occurred when the tight end from Oregon was selected 16th overall."
     },
     {
-      "id": "16c09e7f9219442d",
-      "title": "4 things to know about 49ers third-round draft pick Kaelon Black",
-      "link": "https://sports.yahoo.com/articles/4-things-know-49ers-third-154724933.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:47:24+0000",
-      "summary": "The San Francisco 49ers took running back Kaelon Black in the third round of the 2026 NFL draft. Here's what fans should know about him."
+      "id": "7235cb951abf8796",
+      "title": "Falcons draft Terrell, unite CB with star brother",
+      "link": "https://espn.com/nfl/story/_/id/48584958/falcons-draft-avieon-terrell-pair-cb-star-brother-aj",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T16:56:56+0000",
+      "summary": "The Falcons selected Avieon Terrell with the No. 48 pick of the NFL draft, uniting the Clemson CB with his older brother A.J."
     },
     {
-      "id": "ed88c66bd06fc759",
-      "title": "Browns NFL Draft: 5 things to know about new WR Denzel Boston",
-      "link": "https://sports.yahoo.com/articles/browns-nfl-draft-5-things-154533661.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:45:33+0000",
-      "summary": "Here are five tidbits of information about Cleveland Browns' new wide receiver Denzel Boston"
+      "id": "309482cc8c1ea13e",
+      "title": "📸 Drafted in drip: Best outfits from the NFL draft",
+      "link": "https://espn.com/nfl/story/_/id/48571507/2026-nfl-draft-outfits-red-carpet",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T16:56:56+0000",
+      "summary": "The stars stepped out in their best suits ahead of hearing their names called in the 2026 NFL draft."
     },
     {
-      "id": "2ccf61eb3bbcdd8a",
-      "title": "Zion Young is grateful to Ravens, says NFL teams will regret passing",
-      "link": "https://sports.yahoo.com/articles/zion-young-grateful-ravens-says-154527975.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:45:27+0000",
-      "summary": "Ravens' new pass rusher Zion Young has a 'chip on his shoulder' and a message for teams that passed on him in the draft."
+      "id": "9df0b8e594d44613",
+      "title": "Cowboys add LB depth, trade for Niners' Winters",
+      "link": "https://espn.com/nfl/story/_/id/48584174/sources-49ers-trade-dee-winters-cowboys-5th-round-pick",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T16:56:55+0000",
+      "summary": "The Cowboys acquired linebacker Dee Winters from the 49ers for pick No. 152 in the fifth round of the NFL draft."
     },
     {
-      "id": "354d9047c338500e",
-      "title": "NFL Draft 2026 Day 3 live thread: Cowboys news, trades, needs",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-day-3-154500452.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:45:00+0000",
-      "summary": "Follow along with the 2026 NFL Draft and discuss all the moves with our live thread."
+      "id": "fbd8491ce9a57dc7",
+      "title": "Still waiting on Rodgers, Steelers draft QB Allar",
+      "link": "https://espn.com/nfl/story/_/id/48585442/steelers-select-qb-drew-allar-third-round-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T16:56:55+0000",
+      "summary": "The Steelers added at quarterback by selecting former Penn State star Drew Allar in the third round of the NFL draft."
     },
     {
-      "id": "e360b075c8f43734",
-      "title": "NFL Draft 2026 Day 3: Live blog, trades, picks & Chiefs fan discussion",
-      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-day-3-154500008.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:45:00+0000",
-      "summary": "﻿Follow the draft with live updates from Arrowhead Pride — and talk about it with other Kansas City fans!"
+      "id": "a41358ad72d94a50",
+      "title": "Colts select Kentucky guard, Jalen Farmer with 113th pick in 2026 NFL Draft",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/123896/colts-select-kentucky-guard-jalen-farmer-with-113th-pick-in-2026-nfl-draft",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-25T16:56:34+0000",
+      "summary": "With the 113th pick the Indianapolis Colts have selected Kentucky guard, Jalen Farmer. Farmer will slide right into a Colts team that already features Quenton Nelson and Matt Goncalves set to start at guard in 2026. At Chris Ballard’s post 2025 season press conference he talked about making sure the team could run the ball [&#8230;]"
     },
     {
-      "id": "a4bc99f38c82a8ba",
-      "title": "2026 NFL Draft Day 3 Live Message Board and Fan Discussion",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-day-3-154500944.html",
+      "id": "d31fed619587e4bb",
+      "title": "Explaining 49ers' head-scratching decision to start Day 3 of NFL draft",
+      "link": "https://sports.yahoo.com/articles/explaining-49ers-head-scratching-decision-165540064.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:45:00+0000",
-      "summary": "Talk about the final day of the NFL Draft with us right here!"
+      "published": "2026-04-25T16:55:40+0000",
+      "summary": "The San Francisco 49ers made a head-scratching decision early on Day 3 of the draft. So why did they make the pick they made?"
     },
     {
-      "id": "a8977bb20f415948",
-      "title": "2026 NFL Draft Day 3 live discussion, open thread",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-day-3-154500835.html",
+      "id": "530103ddad0d4bc1",
+      "title": "Darrell Jackson Jr. selected by the NY Jets in the 4th round of the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/darrell-jackson-jr-selected-ny-165326414.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-25T15:45:00+0000",
-      "summary": "Come join our live discussion during Day 3 of the 2026 NFL Draft."
+      "published": "2026-04-25T16:53:26+0000",
+      "summary": "Florida State football extended its NFL Draft streak to 43-straight years after defensive tackle Darrell Jackson Jr. was selected by the New York Jets with the 103rd pick in the 4th round of the 2026 NFL Draft. Jackson Jr. spent three seasons in Tallahassee, although he had to sit out the entire regular season in […]"
+    },
+    {
+      "id": "3441d3d41fe7ebdb",
+      "title": "Micah Parsons trade results: Checking in on Packers and Cowboys after 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/micah-parsons-trade-results-checking-013038747.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:52:59+0000",
+      "summary": "Another big moment from the trade for Micah Parsons has come and gone at the 2026 NFL Draft."
+    },
+    {
+      "id": "7c5c9b0eef287c0a",
+      "title": "Colts boost offensive line depth with 4th round pick in NFL draft",
+      "link": "https://sports.yahoo.com/articles/colts-boost-offensive-line-depth-165219747.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:52:19+0000",
+      "summary": "The Colts added to their offensive line depth with their fourth round pick in the 2026 NFL draft."
+    },
+    {
+      "id": "0581284d11422078",
+      "title": "Best available OL in 2026 NFL Draft: Updated results, top prospects still on board",
+      "link": "https://sports.yahoo.com/articles/best-available-ol-2026-nfl-200001942.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:52:01+0000",
+      "summary": "The latest news and notes from Pittsburgh."
+    },
+    {
+      "id": "dff94ea63b7f6b71",
+      "title": "The Jakobi Meyers trade is complete",
+      "link": "https://sports.yahoo.com/articles/jakobi-meyers-trade-complete-165131242.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:51:31+0000",
+      "summary": "The 2025 Jakobi Meyers trade wraps up at the 2026 NFL Draft."
+    },
+    {
+      "id": "8253a35e29f8fa0f",
+      "title": "Jermod McCoy finally hears his name called in the NFL Draft",
+      "link": "https://sports.yahoo.com/articles/jermod-mccoy-finally-hears-name-165051383.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:50:51+0000",
+      "summary": "Tennessee cornerback Jermod McCoy’s long wait finally ends on day 3 of the 2026 NFL Draft"
+    },
+    {
+      "id": "bfa6fb72df9711b9",
+      "title": "Colts select Kentucky guard Jalen Farmer in fourth round of 2026 NFL Draft",
+      "link": "https://colts.com/news/jalen-farmer-guard-kentucky-fourth-round-2026-nfl-draft-offensive-line",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-04-25T16:50:37+0000",
+      "summary": "Farmer started 24 games at right guard for Kentucky over the last two seasons."
+    },
+    {
+      "id": "ac3f4db40734aacd",
+      "title": "Oklahoma Sooners OL drafted by Houston Texans",
+      "link": "https://sports.yahoo.com/articles/oklahoma-sooners-ol-drafted-houston-165006340.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:50:06+0000",
+      "summary": "Former OU OL chosen by Houston Texans in 2026 NFL Draft."
+    },
+    {
+      "id": "17aceb94e0dd5b5e",
+      "title": "Indianapolis Colts draft picks tracker: Updated list of 2026 selections, next pick predictions",
+      "link": "https://sports.yahoo.com/articles/indianapolis-colts-draft-picks-tracker-172354409.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:50:01+0000",
+      "summary": "The Colts are trying to follow up a season that had a lot of promise."
+    },
+    {
+      "id": "3d344cc0433b17fc",
+      "title": "NFL Draft best players available 2026: Here are top prospects remaining for Rounds 4-7 on Day 3",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-best-players-available-032148176.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:50:00+0000",
+      "summary": "Here are the best players still on the board on Day 3 of the 2026 NFL Draft."
+    },
+    {
+      "id": "4b6c2dae4dac51fc",
+      "title": "NFL Draft Tracker 2026: Full Results, List of Picks From Rounds 1-7",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-tracker-2026-full-231001984.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:50:00+0000",
+      "summary": "Follow along right here for the latest updates from the first three rounds of the 2026 NFL Draft."
+    },
+    {
+      "id": "235c9d36551350fe",
+      "title": "Trojan treat: Ja'Kobi Lane and Makai Lemon join winning NFL teams",
+      "link": "https://sports.yahoo.com/articles/trojan-treat-jakobi-lane-makai-164918429.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:49:18+0000",
+      "summary": "The Ravens took a chance on Ja'Kobi Lane. They firmly believe he can be a difference-maker on Day 1 as a primary Lamar Jackson target"
+    },
+    {
+      "id": "d76b5a68d8f4b484",
+      "title": "NFL Draft 2026: New York Jets trade up with Cincinnati Bengals, take QB Cade Klubnik at No. 110",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-2026-york-jets-164915828.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:49:15+0000",
+      "summary": "Jets have a new backup quarterback!"
+    },
+    {
+      "id": "3c40c339002356c8",
+      "title": "Broncos use their 2026 pick from the 2025 Devaugh Vele trade",
+      "link": "https://sports.yahoo.com/articles/broncos-2026-pick-2025-devaugh-162000307.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-04-25T16:49:06+0000",
+      "summary": "The Broncos’s trade of Devaughn Vele completed it’s next step during the 2026 NFL Draft."
+    },
+    {
+      "id": "32cce9a3fc814c4d",
+      "title": "Colts ‘Day 3’ NFL Draft: Open Thread",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/123917/colts-day-3-nfl-draft-open-thread",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-25T16:24:58+0000",
+      "summary": "The Indianapolis Colts addressed their defense on Friday night’s ‘Day 2’ by selecting two projected defensive starters: Georgia linebacker CJ Allen (53rd overall pick) and LSU SAF A.J. Haulcy (78th overall pick). On the draft’s final ‘Day 3,’ the Colts having the following remaining picks: Round 4: Pick 13 (113) Round 4: Pick 35 (135) (Compensatory [&#8230;]"
+    },
+    {
+      "id": "de1ed7b8ce289f56",
+      "title": "PFF lists Colts new LB CJ Allen as one of draft’s ‘biggest steals’",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/123891/pff-lists-colts-new-lb-cj-allen-as-one-of-drafts-biggest-steals",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-25T16:14:49+0000",
+      "summary": "According to PFF, Indianapolis Colts new linebacker, CJ Allen, who was the 53rd overall pick of the 2026 NFL Draft on Friday night, is one of the biggest steals in this year’s class: The 6,’0 3/4”, 230 pound junior linebacker out of Georgia recorded 88 tackles (47 solo), 8 tackles for loss, 3.5 sacks, 4 [&#8230;]"
     },
     {
       "id": "7e850762412299a8",
-      "title": "UPDATES: Colts and Day 3 of the NFL Draft",
+      "title": "UPDATES: Colts take UK guard in 4th round",
       "link": "https://fox59.com/sports/updates-colts-and-day-3-of-the-nfl-draft/",
       "source": "FOX59 / CBS4",
       "feed": "CBS4Indy",
       "published": "2026-04-25T15:44:24+0000",
       "summary": "PITTSBURGH -- The first two days of the NFL Draft are in the books as teams look ahead to the final day and Rounds 4-7. The Indianapolis Colts started the draft with seven picks. They worked a trade with the Pittsburgh Steelers, swapping picks in the second and seven rounds and picking up a fourth-rounder [...]"
+    },
+    {
+      "id": "3d82e25112af4135",
+      "title": "Best Available Players on Day 3",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/123887/best-available-players-on-day-3",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-25T15:30:00+0000",
+      "summary": "Edge Rushers The Colts still need pass rush help. While there are still plenty of options available in the vet free agency market and a handful on the trade block, the Colts could look to add someone to the rotation of Laiatu Latu, Arden Key, and Jaylahn Tuimoloau in the draft as well. Josephs’ length [&#8230;]"
     },
     {
       "id": "bc9a596039d559f1",
@@ -225,6 +342,42 @@
       "feed": "Stampede Blue",
       "published": "2026-04-25T12:00:00+0000",
       "summary": "After trading back, the Colts landed one of the cleaner linebacker fits in the draft with CJ Allen at pick No. 53. He is expected to step into Lou Anarumo’s defense next to Akeem Davis-Gaither and compete to replace the role Zaire Franklin held in the middle of the defense. Allen brings leadership, range, and [&#8230;]"
+    },
+    {
+      "id": "507a11f12cd02bf0",
+      "title": "Chiefs: 'Top-5 guy' in CB Delane worth trade up",
+      "link": "https://espn.com/nfl/story/_/id/48575049/chiefs-take-mansoor-delane-nfl-draft-trade-browns",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T06:11:09+0000",
+      "summary": "The Chiefs moved up in the NFL draft, acquiring the No. 6 pick from the Browns and using it to select LSU cornerback Mansoor Delane. Cleveland took Spencer Fano at No. 9."
+    },
+    {
+      "id": "9672056ec4c2540e",
+      "title": "Giants thrilled with picks: 'Couldn't do any better'",
+      "link": "https://espn.com/nfl/story/_/id/48575339/giants-draft-arvell-reese-no-5-francis-mauigoa-10",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T06:11:09+0000",
+      "summary": "The Giants addressed both sides of the ball in the first round of the NFL draft, selecting Ohio State linebacker Arvell Reese with the fifth pick and Miami offensive lineman Francis Mauigoa at No. 10."
+    },
+    {
+      "id": "3eda6967a77b97d5",
+      "title": "Ravens set as Cowboys' opponent in '26 Rio game",
+      "link": "https://espn.com/nfl/story/_/id/48584404/ravens-set-cowboys-opponent-2026-rio-de-janeiro-game",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T06:11:08+0000",
+      "summary": "The Ravens on Friday were named the Cowboys' opponent for the first NFL game in Rio de Janeiro on Sept. 27."
+    },
+    {
+      "id": "5c2dcd1e12685d67",
+      "title": "2026 NFL draft superlatives: Standouts from the first three rounds",
+      "link": "https://espn.com/nfl/story/_/id/48573834/2026-nfl-draft-superlatives",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-25T04:51:21+0000",
+      "summary": "The 2026 NFL draft picks can be compared by any number of statistical categories. Here are some of the more subjective superlatives from the event."
     },
     {
       "id": "7285376359735e27",
@@ -264,7 +417,7 @@
     },
     {
       "id": "cba297a2a8a9a081",
-      "title": "Colts select LSU safety, AJ Halucy with 78th pick in 2026 NFL Draft",
+      "title": "Colts select LSU safety, AJ Haulcy with 78th pick in 2026 NFL Draft",
       "link": "https://stampedeblue.com/indianapolis-colts-draft/123793/colts-select-lsu-safety-aj-halucy-with-78th-pick-in-2026-nfl-draft",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
@@ -326,15 +479,6 @@
       "summary": "INDIANAPOLIS – After a brief wait, the Indianapolis Colts addressed their defense in the second round of Friday’s NFL Draft. The Colts traded back from No. 47 to No. 53 with the Pittsburgh Steelers and selected Georgia linebacker C.J. Allen. The trade with the Steelers involved Indy swapping second-round picks and adding a seventh-rounder (No. [...]"
     },
     {
-      "id": "e02bfb46ccc03533",
-      "title": "Colts trade 47th pick",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123794/colts-trade-47th-pick",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-25T00:06:21+0000",
-      "summary": "The Colts have traded their second round pick, the 47th overall and 249th pick, for the 53rd, 135th and 237th picks. Leading up to the draft Chris Ballard made it known the team wanted to add additional picks and tonight he made good on his threats. From the start of this process it was clear [&#8230;]"
-    },
-    {
       "id": "1e45715bd5f750c5",
       "title": "Colts trade back in second round of 2026 NFL Draft with Pittsburgh Steelers",
       "link": "https://colts.com/news/colts-trade-back-in-second-round-of-2026-nfl-draft-with-pittsburgh-steelers",
@@ -344,31 +488,22 @@
       "summary": "The Colts added a fourth round pick in trading back six spots in the second round with the Pittsburgh Steelers."
     },
     {
-      "id": "6bccee13b7c86a49",
-      "title": "ESPN projects All-American to linebacker needy Colts right before ‘Day 2’ kicks off",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123784/espn-projects-all-american-to-linebacker-needy-colts-right-before-day-2-kicks-off",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-24T21:28:54+0000",
-      "summary": "In another popular mainstream ‘Day 2’ NFL Mock Draft, ESPN’s Matt Miller has projected Georgia linebacker CJ Allen to the Indianapolis Colts with the 47th overall pick in Round 2: 47. Indianapolis Colts CJ Allen, LB, Georgia Losing Zaire Franklin in free agency left a hole in the middle of the defense. Allen is a solid run defender [&#8230;]"
+      "id": "282d20162298f26a",
+      "title": "NFL draft faces a new insider betting risk",
+      "link": "https://espn.com/nfl/story/_/id/48496515/nfl-draft-picks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-24T16:58:54+0000",
+      "summary": "Former NFL execs say it's only a matter of time until someone parlays inside information on the draft."
     },
     {
-      "id": "f95a452798b6fc99",
-      "title": "NFL Draft: Colts ‘Day 2’ Picks Open Thread",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123779/nfl-draft-colts-day-2-picks-open-thread",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-24T21:08:52+0000",
-      "summary": "The Indianapolis Colts are currently slated to make their first pick of the 2026 NFL Draft with the 47th overall pick (Round 2) and then have the 78th overall pick (Round 3). Day 2 of the NFL Draft officially kicks off on Friday evening at 7 PM EST and can be watched on ABC, ESPN, [&#8230;]"
-    },
-    {
-      "id": "74c7073a996a4950",
-      "title": "ESPN lists popular mocked linebacker to Colts as ‘best team fit’ ahead of ‘Day 2’",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123771/espn-lists-popular-mocked-linebacker-to-colts-as-best-team-fit-ahead-of-day-2",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-24T20:43:27+0000",
-      "summary": "According to ESPN’s Benjamin Solak, the Indianapolis Colts selecting Texas Tech linebacker Jacob Rodriguez, who’s consistently been a popular mock draft pick to the Horseshoe in the 2nd round, would be among their best team fits for potential ‘Day 2’ selections—coming in at Pick #47 or maybe even earlier in a trade up, as alluded [&#8230;]"
+      "id": "796ae6f0bdd2950f",
+      "title": "NFL futures: Every team's win total, SB odds",
+      "link": "https://espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-24T16:58:54+0000",
+      "summary": "NFC West teams hold on to shortest, longest title odds after first round"
     },
     {
       "id": "e083624f67725673",
@@ -378,6 +513,15 @@
       "feed": "Colts.com",
       "published": "2026-04-24T03:06:38+0000",
       "summary": "The Colts will begin Day 2 of the 2026 NFL Draft with picks No. 47 (second round) and 78 (third round)."
+    },
+    {
+      "id": "c45eccb28a9f0c5d",
+      "title": "2026 NFL draft: Fantasy football outlooks for Love, Allar and more",
+      "link": "https://espn.com/fantasy/football/story/_/id/48505513/2026-nfl-draft-fantasy-football-projections-rookies",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-24T02:05:36+0000",
+      "summary": "Liz Loza, Matt Bowen and Mike Clay break down the fantasy potential of early-round rookies from the NFL draft and provide initial 2026 projections."
     },
     {
       "id": "e2b02a8a5ed0addd",
@@ -396,150 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-23T20:00:18+0000",
       "summary": "The Colts traded two first-round picks and wide receiver Adonai Mitchell for cornerback Sauce Gardner in November"
-    },
-    {
-      "id": "060e344ef1a977dc",
-      "title": "Sauce Gardner: I’m Colts’ first-round pick (next year, too)",
-      "link": "https://fox59.com/sports/colts/sauce-gardner-im-colts-first-round-pick-next-year-too/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-23T18:12:19+0000",
-      "summary": "INDIANAPOLIS – Sauce Gardner isn’t buying into the notion that the Indianapolis Colts don’t have a pick in the first round of Thursday night’s NFL Draft. “I’m the first-round pick,’’ he said this week with a smile. Actually, more than that. “I’m the first-round pick two times,’’ Gardner said. This year, and in 2027. That [...]"
-    },
-    {
-      "id": "0ac4a7c93db6acdd",
-      "title": "Experts' Choice: Who could Colts pick in second, third rounds of 2026 NFL Draft?",
-      "link": "https://colts.com/news/2026-nfl-draft-preview-second-third-rounds-jacob-rodriguez-r-mason-thomas-anthony-hill-jake-golday-linebacker-predictions",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-23T14:07:26+0000",
-      "summary": "The Colts head into the 2026 NFL Draft without a first round pick, but with picks No. 47 (second round) and No. 78 (third round) on Day 2. Here's a final roundup of who various draft experts have, over the last few weeks, predicted the Colts will take with those picks."
-    },
-    {
-      "id": "5989ba3b2eb9caba",
-      "title": "2026 NFL Draft Guide: When do the Colts pick, how to watch and more!",
-      "link": "https://colts.com/news/2026-nfl-draft-start-time-order-picks-date-schedule",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-23T13:00:00+0000",
-      "summary": "Everything Colts fans need to know about the 2026 NFL Draft."
-    },
-    {
-      "id": "ef3cc095be7a77f7",
-      "title": "Colts Blue Zone Podcast 462: So Many Updates and the Final Draft Preview",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-462-so-many-updates-and-the-final-draft-preview/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-23T08:46:27+0000",
-      "summary": "The NFL Draft is almost here. While the Colts don't have a first-round pick thanks to the Sauce Gardner trade, expect an \"active\" couple of days from the team. We're absolutely packed with Colts news and updates after hearing from GM Chris Ballard and head coach Shane Steichen as offseason work begins. Dave Griffiths, Mike [...]"
-    },
-    {
-      "id": "f7c3a3a2e85f9d68",
-      "title": "Colts bring back 'Schedule Challenge' contest",
-      "link": "https://fox59.com/sports/colts/colts-bring-back-schedule-challenge-contest/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-22T15:55:30+0000",
-      "summary": "INDIANAPOLIS -- You can take your best guess at predicting the Indianapolis Colts' 2026 schedule for a chance to win tickets to the Super Bowl. That's right--the \"Schedule Challenge\" contest is back for another go. This year, the contestant with the most accurate guess gets tickets to Super Bowl LXI at SoFi Stadium in Inglewood, [...]"
-    },
-    {
-      "id": "acb309c2bded0d17",
-      "title": "Colts announce '2026 Schedule Challenge'",
-      "link": "https://colts.com/news/2026-colts-schedule-contest-super-bowl-tickets-nfl-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-22T14:00:52+0000",
-      "summary": "The Indianapolis Colts today announced the “2026 Schedule Challenge,” where one contestant can win two tickets to Super Bowl LXI by most accurately predicting the Colts’ entire 18-week schedule for the 2026 regular season."
-    },
-    {
-      "id": "25ab11d5e6cc4ee8",
-      "title": "Daniel Jones’ update: Colts' rehabbing QB dropping back, throwing",
-      "link": "https://fox59.com/sports/colts/daniel-jones-update-colts-rehabbing-qb-dropping-back-throwing/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-21T22:28:48+0000",
-      "summary": "INDIANAPOLIS – The participants were unique, as was the setting. It was March 28, and Riley Leonard was killing time before his wedding later that day. What to do? Find a few able bodies and toss the football around in a backyard. “Just wanted to sweat a little bit,’’ Leonard said Tuesday afternoon. The group [...]"
-    },
-    {
-      "id": "72db79461e86ac16",
-      "title": "DeForest Buckner details recovery, aims for training camp return",
-      "link": "https://colts.com/news/deforest-buckner-neck-injury-training-camp-return-recovery",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T18:54:40+0000",
-      "summary": "DT DeForest Buckner spoke Tuesday about his recovery from his 2025 neck injury that sidelined him for seven games."
-    },
-    {
-      "id": "7541c026a50784c4",
-      "title": "Colts QB Daniel Jones back to throwing, remains on track for training camp",
-      "link": "https://colts.com/news/daniel-jones-achilles-recovery-throwing-training-camp-regular-season-jayson-tatum-boston-celtics",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T16:51:23+0000",
-      "summary": "Head coach Shane Steichen said Jones, who sustained a torn Achilles' in December, is dropping back and throwing."
-    },
-    {
-      "id": "30ccfe44c96c25df",
-      "title": "'Making The Team' to recap the road to 2026 Colts Cheer Squad",
-      "link": "https://colts.com/news/making-of-the-team-2026-colts-cheer-squad-fox59",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T15:30:15+0000",
-      "summary": "“Colts Cheer: Making The Team,” a 30 min. show recounting the audition process for the 2026 Colts Cheerleaders, will air this Wed., April 22, at 11:30 a.m. and 8 p.m. on Fox59 Now, the free app available on Amazon Fire, Apple TV, Roku and Samsung connected TVs."
-    },
-    {
-      "id": "10738f19aa059800",
-      "title": "Colts announce jersey numbers for 2026 free agents",
-      "link": "https://colts.com/news/colts-announce-jersey-numbers-for-2026-free-agents",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T14:55:20+0000",
-      "summary": "Colts players arrived back at the Indiana Farm Bureau Football Center for the beginning of the 2026 offseason program this week."
-    },
-    {
-      "id": "5b233f302d61e148",
-      "title": "After requesting trade, Kenny Moore II, Anthony Richardson Sr. missing Colts’ offseason program",
-      "link": "https://fox59.com/sports/colts/after-requesting-trade-kenny-moore-ii-anthony-richardson-sr-missing-colts-offseason-program/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-20T21:21:00+0000",
-      "summary": "INDIANAPOLIS – The 2026 Indianapolis Colts took their first step into a critical season Monday morning without a pair of high-profile players. Missing from the first day of the team’s offseason workout program were Kenny Moore II and Anthony Richardson Sr. Both have asked for a trade. “We’ll see how it works out,’’ general manager [...]"
-    },
-    {
-      "id": "ebd5c96a18a2d0da",
-      "title": "Colts GM Chris Ballard provides injury updates on Alec Pierce, Daniel Jones, DeForest Buckner, Spencer Shrader & more as offseason program begins",
-      "link": "https://colts.com/news/alec-pierce-ankle-surgery-daniel-jones-spencer-shrader-injury-updates-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T19:42:31+0000",
-      "summary": "Colts players arrived Monday at the Indiana Farm Bureau Football Center for the beginning of the team's 2026 voluntary offseason program."
-    },
-    {
-      "id": "4d41674e4c843187",
-      "title": "Colts’ Alec Pierce rehabbing after ankle surgery",
-      "link": "https://fox59.com/sports/colts/colts-alec-pierce-rehabbing-after-ankle-surgery/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-20T19:11:15+0000",
-      "summary": "INDIANAPOLIS — Alec Pierce’s status as the Indianapolis Colts’ top receiver involves dealing with rehab from ankle surgery. General manager Chris Ballard revealed during his Monday pre-draft press conference that the team’s $114 million wideout decided to undergo “clean-up’’ surgery on an ankle to address pain that bothered him throughout last season. Pierce won’t participate [...]"
-    },
-    {
-      "id": "59666cfa23199efe",
-      "title": "Even without first round pick, Colts GM Chris Ballard sees good depth in 2026 NFL Draft",
-      "link": "https://colts.com/news/chris-ballard-2026-nfl-draft-linebacker-wide-receiver-defensive-end-safety",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T18:42:08+0000",
-      "summary": "Colts GM Chris Ballard held his annual pre-draft press conference Monday."
-    },
-    {
-      "id": "72f5ac0056c1d87a",
-      "title": "Colts announce activities for 2026 NFL Draft Week",
-      "link": "https://colts.com/news/2026-nfl-draft-week-pittsburgh-pat-mcafee-bjoern-werner-hat-shop",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T18:30:00+0000",
-      "summary": "The Indianapolis Colts today announced their 2026 NFL Draft coverage plans, inviting fans to follow along from home as the draft takes place April 23–25 in Pittsburgh, Pa."
     }
   ],
   "links": [
