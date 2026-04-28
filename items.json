@@ -1,32 +1,95 @@
 {
-  "updated": "2026-04-28T02:48:53+00:00",
+  "updated": "2026-04-28T05:58:19+00:00",
   "items": [
     {
-      "id": "9ee3439c88f504a2",
-      "title": "Eagles' Jonathan Greenard Reveals Eye Opening Text From Jalen Hurts",
-      "link": "https://sports.yahoo.com/articles/eagles-jonathan-greenard-reveals-eye-022421351.html",
+      "id": "72e577b9c748a5dd",
+      "title": "Recapping the destinations of Illinois’ 2026 NFL draftees",
+      "link": "https://sports.yahoo.com/articles/recapping-destinations-illinois-2026-nfl-054410123.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-28T02:24:21+0000",
-      "summary": "Howie Roseman and the Philadelphia Eagles did what was needed once again in the 2026 NFL draft, accomplishing what many expected them to when entering the draft out in Pittsburgh, Pennsylvania."
+      "published": "2026-04-28T05:44:10+0000",
+      "summary": "Gabe Jacas figures to make the biggest splash but expect a few other Illini to find their way onto NFL rosters."
     },
     {
-      "id": "fb0c4af1594b19a2",
+      "id": "0e74377391386150",
+      "title": "Which teams won -- and lost -- on Day 2 of the NFL draft? Kiper on the best values, biggest reaches",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48547336/2026-nfl-draft-kiper-rounds-2-3-winners-losers-value-picks-updates-best-available",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-28T04:18:04+0000",
+      "summary": "We're through 100 picks of the NFL draft. Mel Kiper Jr. sorts through the steals and reaches of Day 2, including some big value selections."
+    },
+    {
+      "id": "7b9820c33356d1fe",
+      "title": "Saints declining Wilson's option after draft trade",
+      "link": "https://espn.com/nfl/story/_/id/48612420/saints-declining-tyree-wilson-fifth-year-option-trade",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-28T04:17:54+0000",
+      "summary": "The Saints are declining the fifth-year contract option on defensive end Tyree Wilson after trading for him Saturday, according to the NFL Network."
+    },
+    {
+      "id": "2f71c40d5d6dec18",
+      "title": "Ex-Bama DT pleads guilty after posing as NFLers",
+      "link": "https://espn.com/nhl/story/_/id/48611930/ex-alabama-dt-pleads-guilty-impersonating-nfl-players",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-28T04:17:54+0000",
+      "summary": "Ex-Alabama DT Luther Davis entered guilty pleas in federal court in Atlanta to one count of conspiracy to commit wire fraud and one count of aggravated identity theft. Prosecutors say Davis pretended to be three NFL players on video calls with investors."
+    },
+    {
+      "id": "1eb95d738b156b4e",
+      "title": "Draft 1st round 3rd-most watched, down from '25",
+      "link": "https://espn.com/nfl/story/_/id/48612316/2026-nfl-draft-first-round-third-most-watched-record-last-year",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-28T04:17:54+0000",
+      "summary": "The first round of the NFL draft averaged 13.2 million viewers across television and digital platforms, making it the third-most watched first round on record, behind 2020's audience of 15.5 million and last year's 13.6 million."
+    },
+    {
+      "id": "0ccde30b975fb639",
+      "title": "Postdraft questions for all 32 NFL teams: What could A.J. Brown cost Pats? Did Raiders help Mendoza? Why Ty Simpson?",
+      "link": "https://espn.com/nfl/story/_/page/nfldraftpostdraftquestions48602828/nfl-draft-2026-biggest-postdraft-questions-32-teams-offseason-signings",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-28T04:17:50+0000",
+      "summary": "The 2026 NFL draft is over, but can the rookies make an impact? We answer lingering questions for all 32 teams."
+    },
+    {
+      "id": "7a8d8212f0061b25",
+      "title": "Colts draft grades Reacts survey results: Grading the full 2026 class",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/124112/colts-draft-grades-reacts-survey-results-grading-the-full-2026-class",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-04-28T03:05:15+0000",
+      "summary": "The Indianapolis Colts completed their 8-player rookie class this past extended weekend for the 2026 NFL Draft—and the Horseshoe faithful have weighed in. 51% of Colts fans gave Indianapolis a “B” grade, which seems pretty favorable given that their favorite team didn’t have a first round pick this year. If given the option, I would [&#8230;]"
+    },
+    {
+      "id": "d4cd1426c59eb9f0",
       "title": "Without first rounder again, what positions could Colts address in 2027 NFL Draft?",
-      "link": "https://sports.yahoo.com/articles/without-first-rounder-again-positions-021044706.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/124109/without-first-rounder-again-what-positions-could-colts-address-in-2027-nfl-draft",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
       "published": "2026-04-28T02:10:44+0000",
-      "summary": "Without a first rounder again, what position could the Colts initially address in the 2027 NFL Draft?"
+      "summary": "Our friends at SB Nation NFL published their 2027 NFL Mock Draft, and while the Indianapolis Colts also don’t have next year’s first round pick as a result of last year’s trade deadline Sauce Gardner deal, it’s interesting to think about the potential possibilities. For what’s it’s worth, SB Nation’s James Dator projected the New [&#8230;]"
     },
     {
-      "id": "2f9063ba2546b36c",
-      "title": "Ravens invite Vanderbilt CB Kolbey Taylor to rookie minicamp",
-      "link": "https://sports.yahoo.com/articles/ravens-invite-vanderbilt-cb-kolbey-021015809.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-04-28T02:10:15+0000",
-      "summary": "Vanderbilt cornerback Kolbey Taylor has earned an invitation to the Baltimore Ravens' rookie minicamp, a key step in his NFL dream."
+      "id": "edd6718ebfcd3299",
+      "title": "Kiper's grades for all 32 NFL draft classes: Why the Cowboys and Jets aced their picks",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48547351/2026-nfl-draft-grades-32-teams-kiper-winners-losers-steals-sleepers-favorite-picks-classes",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-27T19:09:57+0000",
+      "summary": "Mel Kiper Jr. evaluates the entire 2026 NFL draft, from the good (Cowboys, Jets) to the very questionable (Rams). See all 32 teams' grades."
+    },
+    {
+      "id": "b115903ce5bd0b5e",
+      "title": "The NFL draft is over ... let's overreact: Will the Cardinals and Rams regret their picks?",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48542105/2026-nfl-draft-judging-overreactions-takeaways-lessons-picks-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-27T19:09:57+0000",
+      "summary": "It's time to weigh in on the biggest overreactions of NFL draft weekend."
     },
     {
       "id": "2a4934151c78b1fc",
@@ -45,6 +108,15 @@
       "feed": "CBS4Indy",
       "published": "2026-04-27T18:47:01+0000",
       "summary": "INDIANAPOLIS – In the aftermath of the NFL Draft, what you see is what you’re going to get with the 2026 Indianapolis Colts. There will be minor adjustments, including one or two prospects from the latest pool of undrafted rookies, but the heavy lifting probably is finished. The draft added Zaire Franklin’s successor at middle linebacker [...]"
+    },
+    {
+      "id": "796ae6f0bdd2950f",
+      "title": "NFL futures: Hierarchy largely unchanged after draft; Rams still favorites",
+      "link": "https://espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-27T17:17:43+0000",
+      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI."
     },
     {
       "id": "135083790449c1f6",
@@ -173,15 +245,6 @@
       "summary": "The Indianapolis Colts had eight draft picks in this extended weekend’s 2026 NFL Draft. With no first round draft pick as a result of last year’s trade deadline Sauce Gardner blockbuster deal, the Colts weren’t initially slated to pick until the 47th overall pick in Round 2. However, with the Pittsburgh Steelers, Indianapolis traded down [&#8230;]"
     },
     {
-      "id": "fbf1cee3c7e63e20",
-      "title": "Colts select Oklahoma Wide Receiver, Deion Burks with 254th pick in 2026 NFL Draft",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123893/colts-select-oklahoma-wide-receiver-deion-burks-with-254th-pick-in-2026-nfl-draft",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-25T23:05:54+0000",
-      "summary": "With the 254th pick the Indianapolis Colts have selected Oklahoma, Wide Receiver, Deon Burks. Burks will slide right into a Colts team that already features Alec Pierce and Josh Downs set to play major roles at receiver in 2026. After the Colts traded Michael Pittman Jr. to the Steelers earlier in the season, it stands [&#8230;]"
-    },
-    {
       "id": "df715fd7ca32f1f9",
       "title": "Colts select Oklahoma wide receiver Deion Burks in seventh round of 2026 NFL Draft",
       "link": "https://colts.com/news/deion-burks-wide-receiver-oklahoma-seventh-round-draft-pick-2026",
@@ -189,15 +252,6 @@
       "feed": "Colts.com",
       "published": "2026-04-25T22:57:25+0000",
       "summary": "Burks ran a 4.30-second 40-yard dash at the NFL Combine earlier this year."
-    },
-    {
-      "id": "22e68461ea41f715",
-      "title": "Colts select Kentucky, Running Back, Seth McGowan with 237th pick in 2026 NFL Draft",
-      "link": "https://stampedeblue.com/indianapolis-colts-draft/123897/colts-select-kentucky-running-back-seth-mcgowan-with-237th-pick-in-2026-nfl-draft",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-04-25T22:28:43+0000",
-      "summary": "With the 237th pick the Indianapolis Colts have selected Kentucky, Running Back, Seth McGowan. McGowan, will slide right into a Colts team that already features Jonathan Taylor as the bell-cow and second year DJ Giddens expected to take on a bigger role at running back in 2026. It stands to reason McGowan will have a [&#8230;]"
     },
     {
       "id": "81f2c38cb1af5d3c",
@@ -486,60 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-04-20T21:21:00+0000",
       "summary": "INDIANAPOLIS – The 2026 Indianapolis Colts took their first step into a critical season Monday morning without a pair of high-profile players. Missing from the first day of the team’s offseason workout program were Kenny Moore II and Anthony Richardson Sr. Both have asked for a trade. “We’ll see how it works out,’’ general manager [...]"
-    },
-    {
-      "id": "ebd5c96a18a2d0da",
-      "title": "Colts GM Chris Ballard provides injury updates on Alec Pierce, Daniel Jones, DeForest Buckner, Spencer Shrader & more as offseason program begins",
-      "link": "https://colts.com/news/alec-pierce-ankle-surgery-daniel-jones-spencer-shrader-injury-updates-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T19:42:31+0000",
-      "summary": "Colts players arrived Monday at the Indiana Farm Bureau Football Center for the beginning of the team's 2026 voluntary offseason program."
-    },
-    {
-      "id": "4d41674e4c843187",
-      "title": "Colts’ Alec Pierce rehabbing after ankle surgery",
-      "link": "https://fox59.com/sports/colts/colts-alec-pierce-rehabbing-after-ankle-surgery/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-20T19:11:15+0000",
-      "summary": "INDIANAPOLIS — Alec Pierce’s status as the Indianapolis Colts’ top receiver involves dealing with rehab from ankle surgery. General manager Chris Ballard revealed during his Monday pre-draft press conference that the team’s $114 million wideout decided to undergo “clean-up’’ surgery on an ankle to address pain that bothered him throughout last season. Pierce won’t participate [...]"
-    },
-    {
-      "id": "59666cfa23199efe",
-      "title": "Even without first round pick, Colts GM Chris Ballard sees good depth in 2026 NFL Draft",
-      "link": "https://colts.com/news/chris-ballard-2026-nfl-draft-linebacker-wide-receiver-defensive-end-safety",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T18:42:08+0000",
-      "summary": "Colts GM Chris Ballard held his annual pre-draft press conference Monday."
-    },
-    {
-      "id": "72f5ac0056c1d87a",
-      "title": "Colts announce activities for 2026 NFL Draft Week",
-      "link": "https://colts.com/news/2026-nfl-draft-week-pittsburgh-pat-mcafee-bjoern-werner-hat-shop",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T18:30:00+0000",
-      "summary": "The Indianapolis Colts today announced their 2026 NFL Draft coverage plans, inviting fans to follow along from home as the draft takes place April 23–25 in Pittsburgh, Pa."
-    },
-    {
-      "id": "80fc7f53030acdba",
-      "title": "Colts 2026 Mock Draft Monday: The final countdown",
-      "link": "https://colts.com/news/colts-2026-mock-draft-monday-the-final-countdown",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T16:00:33+0000",
-      "summary": "Mock Draft Monday, our weekly roundup of mock drafts, is back for one last edition ahead of the 2026 NFL Draft, which begins Thursday in Pittsburgh."
-    },
-    {
-      "id": "18fcda564223b4ed",
-      "title": "Colts Blue Zone Podcast 461: Draft Preview and Dave's Famous RAS Draft",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-461-draft-preview-and-daves-famous-ras-draft/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-16T19:58:15+0000",
-      "summary": "With the NFL Draft one week away, Dave Griffiths, Mike Chappell and Matt Adams look at the Colts' positions of need and Dave unveils his storied All RAS Draft. The Colts Blue Zone Podcast airs at 8 p.m. Thursdays on FOX59 NOW. You can also find it on YouTube, Apple Podcasts or Spotify."
     }
   ],
   "links": [
