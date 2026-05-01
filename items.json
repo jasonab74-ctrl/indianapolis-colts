@@ -1,14 +1,95 @@
 {
-  "updated": "2026-04-30T23:27:08+00:00",
+  "updated": "2026-05-01T01:20:58+00:00",
   "items": [
     {
-      "id": "56aee5c59ea4e031",
-      "title": "Browns receive major praise for NFL Draft haul from AFC North rival GM",
-      "link": "https://sports.yahoo.com/articles/browns-receive-major-praise-nfl-230917765.html",
+      "id": "4b90e567b716ebb7",
+      "title": "Eagles Makai Lemon gets a fully guaranteed contract worth $20 mill",
+      "link": "https://sports.yahoo.com/articles/eagles-makai-lemon-gets-fully-010034624.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-04-30T23:09:17+0000",
-      "summary": "After their impressive 2026 NFL Draft haul, the Browns received praise from an unlikely source."
+      "published": "2026-05-01T01:00:34+0000",
+      "summary": "The 20th overall pick in the 2026 NFL Draft has signed a rookie four-year deal with the Philadelphia Eagles."
+    },
+    {
+      "id": "88a6de55aed417b0",
+      "title": "Sources: Giants' Slayton has core-muscle surgery",
+      "link": "https://espn.com/nfl/story/_/id/48638006/sources-giants-wr-darius-slayton-core-muscle-surgery",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T00:05:53+0000",
+      "summary": "Giants wide receiver Darius Slayton had surgery for a core-muscle injury recently and is expected to be sidelined throughout the Giants' offseason program this spring, sources told NFL Network."
+    },
+    {
+      "id": "f436616764e27310",
+      "title": "Source: Pack pick up Van Ness' fifth-year option",
+      "link": "https://espn.com/nfl/story/_/id/48639345/source-packers-exercise-lukas-van-ness-fifth-year-option",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T00:05:53+0000",
+      "summary": "Despite recording only 8.5 sacks over his first three NFL seasons, Packers defensive end Lukas Van Ness had the fifth-year option picked up on his rookie deal, a source confirmed to ESPN on Thursday."
+    },
+    {
+      "id": "41bce583e7547db4",
+      "title": "Simmons retires as Bronco: 'My heart, my home'",
+      "link": "https://espn.com/nfl/story/_/id/48627879/justin-simmons-retires-bronco-nine-nfl-seasons",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T00:05:53+0000",
+      "summary": "Two-time Pro Bowl safety Justin Simmons announced Wednesday that he is retiring from the NFL as a member of the Broncos."
+    },
+    {
+      "id": "3cfbcb881b1033f2",
+      "title": "Texans, LB Al-Shaair agree to 3-year extension",
+      "link": "https://espn.com/nfl/story/_/id/48628975/texans-lb-azeez-al-shaair-agree-3-year-extension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T00:05:53+0000",
+      "summary": "The Texans and linebacker Azeez Al-Shaair have reached agreement on a three-year, $54 million extension, according to NFL Network."
+    },
+    {
+      "id": "8c315e0080824cb2",
+      "title": "Rooney explains rationale behind Rodgers tender",
+      "link": "https://espn.com/nfl/story/_/id/48632458/rooney-says-steelers-remain-regular-contact-rodgers",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T00:05:53+0000",
+      "summary": "Art Rooney II remains confident Aaron Rodgers will be the team's QB in 2026, but he told NFL Network the club applied the rarely used UFA tender on him to make sure it would secure a compensatory pick \"in the unlikely event he goes somewhere else.\""
+    },
+    {
+      "id": "796193383910c0e1",
+      "title": "Reid's early NFL mock draft for next year: Which 2...",
+      "link": "https://espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T00:05:50+0000",
+      "summary": "We're still a full year out, but let's make way-too-early predictions for every first-round pick of the 2027 NFL draft. Will Arch Manning go No. 1? Jeremiah Smith?"
+    },
+    {
+      "id": "226b113b7db29010",
+      "title": "Fantasy football winners and losers post-NFL draft...",
+      "link": "https://espn.com/fantasy/football/story/_/id/48606629/fantasy-football-winners-losers-nfl-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-30T23:07:00+0000",
+      "summary": "Which players benefited most from the happenings during draft weekend, and which saw their stocks fall the most."
+    },
+    {
+      "id": "c387f7771f674d0a",
+      "title": "What NFL scouts, coaches, execs are saying about a...",
+      "link": "https://espn.com/nfl/story/_/id/48632243/2026-nfl-draft-scouts-coaches-execs-fowler-32-teams-classes",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-30T22:37:10+0000",
+      "summary": "One week since the start of the 2026 NFL draft, what are league sources saying about all 32 classes?"
+    },
+    {
+      "id": "a96b0fab755fa7d8",
+      "title": "Miller: Ranking the 100 best NFL draft picks of 20...",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48610584/2026-nfl-draft-ranking-top-100-picks-best-steals-team-fits-trades",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-30T22:37:10+0000",
+      "summary": "Matt Miller picked out his 100 favorite selections, factoring in value, fit and trades."
     },
     {
       "id": "b202c7d6e81f6da4",
@@ -99,6 +180,15 @@
       "feed": "Stampede Blue",
       "published": "2026-04-30T00:30:11+0000",
       "summary": "What is the best course of action when you have a player that is currently making more money than what he brings in value to your team?&#160; The options always seem to be to either trade the player, or to cut the player.&#160; You try to minimize the loss, by getting rid of the player [&#8230;]"
+    },
+    {
+      "id": "0a8c9b2e4b6946c9",
+      "title": "32 draft-day trades that will always be remembered...",
+      "link": "https://espn.com/nfl/story/_/id/48608897/revisiting-most-impactful-nfl-draft-day-trade-32-teams-2026",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-04-29T20:36:22+0000",
+      "summary": "NFL Nation looks back at the draft deals that produced memorable outcomes -- good or bad -- for their teams."
     },
     {
       "id": "1d74b852c6818cf5",
@@ -450,96 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-23T13:00:00+0000",
       "summary": "Everything Colts fans need to know about the 2026 NFL Draft."
-    },
-    {
-      "id": "ef3cc095be7a77f7",
-      "title": "Colts Blue Zone Podcast 462: So Many Updates and the Final Draft Preview",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-462-so-many-updates-and-the-final-draft-preview/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-23T08:46:27+0000",
-      "summary": "The NFL Draft is almost here. While the Colts don't have a first-round pick thanks to the Sauce Gardner trade, expect an \"active\" couple of days from the team. We're absolutely packed with Colts news and updates after hearing from GM Chris Ballard and head coach Shane Steichen as offseason work begins. Dave Griffiths, Mike [...]"
-    },
-    {
-      "id": "f7c3a3a2e85f9d68",
-      "title": "Colts bring back 'Schedule Challenge' contest",
-      "link": "https://fox59.com/sports/colts/colts-bring-back-schedule-challenge-contest/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-22T15:55:30+0000",
-      "summary": "INDIANAPOLIS -- You can take your best guess at predicting the Indianapolis Colts' 2026 schedule for a chance to win tickets to the Super Bowl. That's right--the \"Schedule Challenge\" contest is back for another go. This year, the contestant with the most accurate guess gets tickets to Super Bowl LXI at SoFi Stadium in Inglewood, [...]"
-    },
-    {
-      "id": "acb309c2bded0d17",
-      "title": "Colts announce '2026 Schedule Challenge'",
-      "link": "https://colts.com/news/2026-colts-schedule-contest-super-bowl-tickets-nfl-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-22T14:00:52+0000",
-      "summary": "The Indianapolis Colts today announced the “2026 Schedule Challenge,” where one contestant can win two tickets to Super Bowl LXI by most accurately predicting the Colts’ entire 18-week schedule for the 2026 regular season."
-    },
-    {
-      "id": "25ab11d5e6cc4ee8",
-      "title": "Daniel Jones’ update: Colts' rehabbing QB dropping back, throwing",
-      "link": "https://fox59.com/sports/colts/daniel-jones-update-colts-rehabbing-qb-dropping-back-throwing/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-21T22:28:48+0000",
-      "summary": "INDIANAPOLIS – The participants were unique, as was the setting. It was March 28, and Riley Leonard was killing time before his wedding later that day. What to do? Find a few able bodies and toss the football around in a backyard. “Just wanted to sweat a little bit,’’ Leonard said Tuesday afternoon. The group [...]"
-    },
-    {
-      "id": "72db79461e86ac16",
-      "title": "DeForest Buckner details recovery, aims for training camp return",
-      "link": "https://colts.com/news/deforest-buckner-neck-injury-training-camp-return-recovery",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T18:54:40+0000",
-      "summary": "DT DeForest Buckner spoke Tuesday about his recovery from his 2025 neck injury that sidelined him for seven games."
-    },
-    {
-      "id": "7541c026a50784c4",
-      "title": "Colts QB Daniel Jones back to throwing, remains on track for training camp",
-      "link": "https://colts.com/news/daniel-jones-achilles-recovery-throwing-training-camp-regular-season-jayson-tatum-boston-celtics",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T16:51:23+0000",
-      "summary": "Head coach Shane Steichen said Jones, who sustained a torn Achilles' in December, is dropping back and throwing."
-    },
-    {
-      "id": "30ccfe44c96c25df",
-      "title": "'Making The Team' to recap the road to 2026 Colts Cheer Squad",
-      "link": "https://colts.com/news/making-of-the-team-2026-colts-cheer-squad-fox59",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T15:30:15+0000",
-      "summary": "“Colts Cheer: Making The Team,” a 30 min. show recounting the audition process for the 2026 Colts Cheerleaders, will air this Wed., April 22, at 11:30 a.m. and 8 p.m. on Fox59 Now, the free app available on Amazon Fire, Apple TV, Roku and Samsung connected TVs."
-    },
-    {
-      "id": "10738f19aa059800",
-      "title": "Colts announce jersey numbers for 2026 free agents",
-      "link": "https://colts.com/news/colts-announce-jersey-numbers-for-2026-free-agents",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T14:55:20+0000",
-      "summary": "Colts players arrived back at the Indiana Farm Bureau Football Center for the beginning of the 2026 offseason program this week."
-    },
-    {
-      "id": "5b233f302d61e148",
-      "title": "After requesting trade, Kenny Moore II, Anthony Richardson Sr. missing Colts’ offseason program",
-      "link": "https://fox59.com/sports/colts/after-requesting-trade-kenny-moore-ii-anthony-richardson-sr-missing-colts-offseason-program/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-20T21:21:00+0000",
-      "summary": "INDIANAPOLIS – The 2026 Indianapolis Colts took their first step into a critical season Monday morning without a pair of high-profile players. Missing from the first day of the team’s offseason workout program were Kenny Moore II and Anthony Richardson Sr. Both have asked for a trade. “We’ll see how it works out,’’ general manager [...]"
-    },
-    {
-      "id": "ebd5c96a18a2d0da",
-      "title": "Colts GM Chris Ballard provides injury updates on Alec Pierce, Daniel Jones, DeForest Buckner, Spencer Shrader & more as offseason program begins",
-      "link": "https://colts.com/news/alec-pierce-ankle-surgery-daniel-jones-spencer-shrader-injury-updates-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-20T19:42:31+0000",
-      "summary": "Colts players arrived Monday at the Indiana Farm Bureau Football Center for the beginning of the team's 2026 voluntary offseason program."
     }
   ],
   "links": [
