@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-02T08:06:48+00:00",
+  "updated": "2026-05-02T09:40:48+00:00",
   "items": [
+    {
+      "id": "f62d375dd483d5f7",
+      "title": "NFL bans popular YouTuber over viral Steelers draft prank",
+      "link": "https://sports.yahoo.com/articles/nfl-bans-popular-youtuber-over-093101647.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-02T09:31:01+0000",
+      "summary": "The NFL handed down an indefinite ban to popular YouTuber Fred Beyer after he rushed the stage during the draft to announce a Steelers pick."
+    },
     {
       "id": "bf73cf6bf913751e",
       "title": "Anonymous NFL execs reportedly weigh in on Colts 2026 NFL Draft class",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-21T14:55:20+0000",
       "summary": "Colts players arrived back at the Indiana Farm Bureau Football Center for the beginning of the 2026 offseason program this week."
-    },
-    {
-      "id": "5b233f302d61e148",
-      "title": "After requesting trade, Kenny Moore II, Anthony Richardson Sr. missing Colts’ offseason program",
-      "link": "https://fox59.com/sports/colts/after-requesting-trade-kenny-moore-ii-anthony-richardson-sr-missing-colts-offseason-program/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-20T21:21:00+0000",
-      "summary": "INDIANAPOLIS – The 2026 Indianapolis Colts took their first step into a critical season Monday morning without a pair of high-profile players. Missing from the first day of the team’s offseason workout program were Kenny Moore II and Anthony Richardson Sr. Both have asked for a trade. “We’ll see how it works out,’’ general manager [...]"
     }
   ],
   "links": [
