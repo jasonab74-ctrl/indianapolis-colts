@@ -1,14 +1,77 @@
 {
-  "updated": "2026-05-03T16:07:47+00:00",
+  "updated": "2026-05-03T17:23:10+00:00",
   "items": [
     {
-      "id": "4741e32be01e5cf6",
-      "title": "Why Dolphins WR could see the field sooner than most fifth-round picks",
-      "link": "https://sports.yahoo.com/articles/why-dolphins-wr-could-see-153528005.html",
+      "id": "0a619b5e78739ae4",
+      "title": "Rodger Goodell discusses plans for NFL Draft, Super Bowl in Cleveland",
+      "link": "https://sports.yahoo.com/articles/rodger-goodell-discusses-plans-nfl-170417819.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-03T15:35:28+0000",
-      "summary": "The Miami Dolphins took their third wide receiver of the 2026 NFL draft in the fifth round, but he can still make an impact as a rookie."
+      "published": "2026-05-03T17:04:17+0000",
+      "summary": "NFL Commissioner Rodger Goodell recently discusses the plans for the Cleveland Browns to host another NFL Draft and its first-ever Super Bowl."
+    },
+    {
+      "id": "a1151c042f11cab0",
+      "title": "Browns HC Todd Monken reveals stance on QB battle this offseason",
+      "link": "https://sports.yahoo.com/articles/browns-hc-todd-monken-reveals-170400150.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-03T17:04:00+0000",
+      "summary": "Cleveland Browns' head coach Todd Monken revealed his stance on the team's quarterback battle heading into the 2026 NFL season."
+    },
+    {
+      "id": "c412fbcfc0ad5493",
+      "title": "After 'unfortunate decision,' Colts' Seth McGowan ...",
+      "link": "https://espn.com/nfl/story/_/id/48647017/nfl-draft-indianapolis-colts-seth-mcgowan-arrest-new-start",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-03T13:08:12+0000",
+      "summary": "He had a challenging road back after an arrest in college, and McGowan wants to make the most of his NFL chance."
+    },
+    {
+      "id": "35d9ca5038621b92",
+      "title": "Sources: Colts declining Richardson's '27 option",
+      "link": "https://espn.com/nfl/story/_/id/48649873/colts-declining-richardson-fifth-year-option-27",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-03T06:06:03+0000",
+      "summary": "The Colts are declining to exercise QB Anthony Richardson's fifth-year option for 2027, a source told ESPN, meaning Richardson will hit unrestricted free agency after the 2026 season."
+    },
+    {
+      "id": "88a6de55aed417b0",
+      "title": "Sources: Giants' Slayton has core-muscle surgery",
+      "link": "https://espn.com/nfl/story/_/id/48638006/sources-giants-wr-darius-slayton-core-muscle-surgery",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-03T06:06:03+0000",
+      "summary": "Giants wide receiver Darius Slayton had surgery for a core-muscle injury recently and is expected to be sidelined throughout the Giants' offseason program this spring, sources told NFL Network."
+    },
+    {
+      "id": "796193383910c0e1",
+      "title": "🏈 Reid's early 2027 NFL mock draft: Arch No. 1?",
+      "link": "https://espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-03T06:06:03+0000",
+      "summary": "We're still a full year out, but let's make way-too-early predictions for every first-round pick of the 2027 NFL draft. Will Arch Manning go No. 1? Jeremiah Smith?"
+    },
+    {
+      "id": "2eaa753992665b0b",
+      "title": "Solak's NFL Rookie of the Year favorites: Ranking ...",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48638807/2026-nfl-rookie-year-candidates-early-rankings-predictions-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-02T15:58:36+0000",
+      "summary": "Which draft picks are set up to win Offensive and Defensive Rookie of the Year? Let's stack the top names to watch on each side of the ball."
+    },
+    {
+      "id": "82f5e88eb3ddfd07",
+      "title": "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in",
+      "link": "https://espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-02T15:28:15+0000",
+      "summary": "After paying Will Anderson, will Houston do the same with its franchise quarterback?"
     },
     {
       "id": "b010b9868c89fd96",
@@ -45,6 +108,24 @@
       "feed": "CBS4Indy",
       "published": "2026-05-01T17:16:40+0000",
       "summary": "INDIANAPOLIS – The signings are trickling in, which soon will be replaced by a deluge. The days of protracted negotiations with draft picks are a distant memory. Using recent history as a blueprint, the Indianapolis Colts will have most, if not all, of their 2026 draft class under contract in the next week or two. [...]"
+    },
+    {
+      "id": "a96b0fab755fa7d8",
+      "title": "Miller: Ranking the 100 best NFL draft picks of 20...",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48610584/2026-nfl-draft-ranking-top-100-picks-best-steals-team-fits-trades",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T13:52:57+0000",
+      "summary": "Matt Miller picked out his 100 favorite selections, factoring in value, fit and trades."
+    },
+    {
+      "id": "c387f7771f674d0a",
+      "title": "What NFL scouts, coaches, execs are saying about a...",
+      "link": "https://espn.com/nfl/story/_/id/48632243/2026-nfl-draft-scouts-coaches-execs-fowler-32-teams-classes",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-01T13:52:56+0000",
+      "summary": "One week since the start of the 2026 NFL draft, what are league sources saying about all 32 classes?"
     },
     {
       "id": "b202c7d6e81f6da4",
@@ -459,87 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-23T14:07:26+0000",
       "summary": "The Colts head into the 2026 NFL Draft without a first round pick, but with picks No. 47 (second round) and No. 78 (third round) on Day 2. Here's a final roundup of who various draft experts have, over the last few weeks, predicted the Colts will take with those picks."
-    },
-    {
-      "id": "5989ba3b2eb9caba",
-      "title": "2026 NFL Draft Guide: When do the Colts pick, how to watch and more!",
-      "link": "https://colts.com/news/2026-nfl-draft-start-time-order-picks-date-schedule",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-23T13:00:00+0000",
-      "summary": "Everything Colts fans need to know about the 2026 NFL Draft."
-    },
-    {
-      "id": "ef3cc095be7a77f7",
-      "title": "Colts Blue Zone Podcast 462: So Many Updates and the Final Draft Preview",
-      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-462-so-many-updates-and-the-final-draft-preview/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-23T08:46:27+0000",
-      "summary": "The NFL Draft is almost here. While the Colts don't have a first-round pick thanks to the Sauce Gardner trade, expect an \"active\" couple of days from the team. We're absolutely packed with Colts news and updates after hearing from GM Chris Ballard and head coach Shane Steichen as offseason work begins. Dave Griffiths, Mike [...]"
-    },
-    {
-      "id": "f7c3a3a2e85f9d68",
-      "title": "Colts bring back 'Schedule Challenge' contest",
-      "link": "https://fox59.com/sports/colts/colts-bring-back-schedule-challenge-contest/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-22T15:55:30+0000",
-      "summary": "INDIANAPOLIS -- You can take your best guess at predicting the Indianapolis Colts' 2026 schedule for a chance to win tickets to the Super Bowl. That's right--the \"Schedule Challenge\" contest is back for another go. This year, the contestant with the most accurate guess gets tickets to Super Bowl LXI at SoFi Stadium in Inglewood, [...]"
-    },
-    {
-      "id": "acb309c2bded0d17",
-      "title": "Colts announce '2026 Schedule Challenge'",
-      "link": "https://colts.com/news/2026-colts-schedule-contest-super-bowl-tickets-nfl-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-22T14:00:52+0000",
-      "summary": "The Indianapolis Colts today announced the “2026 Schedule Challenge,” where one contestant can win two tickets to Super Bowl LXI by most accurately predicting the Colts’ entire 18-week schedule for the 2026 regular season."
-    },
-    {
-      "id": "25ab11d5e6cc4ee8",
-      "title": "Daniel Jones’ update: Colts' rehabbing QB dropping back, throwing",
-      "link": "https://fox59.com/sports/colts/daniel-jones-update-colts-rehabbing-qb-dropping-back-throwing/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-21T22:28:48+0000",
-      "summary": "INDIANAPOLIS – The participants were unique, as was the setting. It was March 28, and Riley Leonard was killing time before his wedding later that day. What to do? Find a few able bodies and toss the football around in a backyard. “Just wanted to sweat a little bit,’’ Leonard said Tuesday afternoon. The group [...]"
-    },
-    {
-      "id": "72db79461e86ac16",
-      "title": "DeForest Buckner details recovery, aims for training camp return",
-      "link": "https://colts.com/news/deforest-buckner-neck-injury-training-camp-return-recovery",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T18:54:40+0000",
-      "summary": "DT DeForest Buckner spoke Tuesday about his recovery from his 2025 neck injury that sidelined him for seven games."
-    },
-    {
-      "id": "7541c026a50784c4",
-      "title": "Colts QB Daniel Jones back to throwing, remains on track for training camp",
-      "link": "https://colts.com/news/daniel-jones-achilles-recovery-throwing-training-camp-regular-season-jayson-tatum-boston-celtics",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T16:51:23+0000",
-      "summary": "Head coach Shane Steichen said Jones, who sustained a torn Achilles' in December, is dropping back and throwing."
-    },
-    {
-      "id": "30ccfe44c96c25df",
-      "title": "'Making The Team' to recap the road to 2026 Colts Cheer Squad",
-      "link": "https://colts.com/news/making-of-the-team-2026-colts-cheer-squad-fox59",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T15:30:15+0000",
-      "summary": "“Colts Cheer: Making The Team,” a 30 min. show recounting the audition process for the 2026 Colts Cheerleaders, will air this Wed., April 22, at 11:30 a.m. and 8 p.m. on Fox59 Now, the free app available on Amazon Fire, Apple TV, Roku and Samsung connected TVs."
-    },
-    {
-      "id": "10738f19aa059800",
-      "title": "Colts announce jersey numbers for 2026 free agents",
-      "link": "https://colts.com/news/colts-announce-jersey-numbers-for-2026-free-agents",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-21T14:55:20+0000",
-      "summary": "Colts players arrived back at the Indiana Farm Bureau Football Center for the beginning of the 2026 offseason program this week."
     }
   ],
   "links": [
