@@ -1,14 +1,32 @@
 {
-  "updated": "2026-05-08T08:55:07+00:00",
+  "updated": "2026-05-08T10:23:09+00:00",
   "items": [
     {
-      "id": "acf691d889d3cebf",
-      "title": "One analyst sees Titans' Cam Ward as a potential 2026 Pro Bowler",
-      "link": "https://sports.yahoo.com/articles/one-analyst-sees-titans-cam-080307108.html",
+      "id": "7160b3e225ef45cb",
+      "title": "Ranking Baltimore Ravens rookies by potential impact in 2026",
+      "link": "https://sports.yahoo.com/articles/ranking-baltimore-ravens-rookies-potential-100927669.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-08T08:03:07+0000",
-      "summary": "NFL.com analyst projects Tennessee Titans quarterback Cam Ward to be a Pro Bowler in his second season."
+      "published": "2026-05-08T10:09:27+0000",
+      "summary": "The Ravens added speed, toughness, and depth in the 2026 NFL draft. Here’s an early ranking of which rookies could make the biggest impact this season."
+    },
+    {
+      "id": "25041ffe9c9cc6ff",
+      "title": "Five NFL teams that deserve more prime-time games in 2026 schedule",
+      "link": "https://sports.yahoo.com/articles/five-nfl-teams-deserve-more-100449573.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-08T10:04:49+0000",
+      "summary": "The 2026 NFL schedule has yet to be released, but several franchises look due for a larger share of the national spotlight."
+    },
+    {
+      "id": "9f332af90bd1a81a",
+      "title": "Colts sign 6 of their 2026 NFL draft picks; 2 remain unsigned",
+      "link": "https://sports.yahoo.com/articles/colts-sign-6-2026-nfl-100000157.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-08T10:00:00+0000",
+      "summary": "The Colts signed six members of their 2026 NFL draft class. Two now remain unsigned."
     },
     {
       "id": "3b98ff82d39c83bf",
@@ -29,6 +47,33 @@
       "summary": "INDIANAPOLIS – The Indianapolis Colts’ rookie minicamp will include 12 undrafted free agents. It’s a list of players who fell short of being among the 257 selected in the April 23-25 NFL Draft, but one that generally provides solid positional competition. Frequently, one or two make an impression that warrants a spot on the 53-player [...]"
     },
     {
+      "id": "dd23519ee9c8b4dd",
+      "title": "The biggest remaining roster hole for every NFL te...",
+      "link": "https://espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:55:53+0000",
+      "summary": "Even after free agency, trades and the draft, NFL teams still have at least one position that needs a boost. Here's one for every roster."
+    },
+    {
+      "id": "2fb1b0a9e8b5ebd1",
+      "title": "Who is on the hot seat after the NFL draft? 14 vet...",
+      "link": "https://espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:55:52+0000",
+      "summary": "Will Carrington Valentine get jumped by Brandon Cisse on the Green Bay depth chart?"
+    },
+    {
+      "id": "42f52a4d18ec3d54",
+      "title": "New NFL Power Rankings poll: We ranked all 32 team...",
+      "link": "https://espn.com/nfl/story/_/id/48630373/2026-nfl-power-rankings-offseason-postdraft-poll-most-improved-positions",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:55:14+0000",
+      "summary": "How do all 32 NFL teams stack up after free agency and the draft? Here are our early rankings for next season, plus one spot each roster got better."
+    },
+    {
       "id": "b377f944bb287d0e",
       "title": "Colts veteran safety Cam Bynum looking forward to teaming up with rookie in revamped secondary",
       "link": "https://stampedeblue.com/indianapolis-colts-news/124273/colts-veteran-safety-cam-bynum-looking-forward-to-teaming-up-with-rookie",
@@ -36,6 +81,42 @@
       "feed": "Stampede Blue",
       "published": "2026-05-08T02:38:58+0000",
       "summary": "Indianapolis Colts veteran safety Cam Bynum is intrigued by the possibility of teaming up with rookie 3rd round safety A.J. Haulcy in the backend of Lou Anarumo’s freshly revamped defense (via The Athletic’s James Boyd): The former First-Team All-SEC safety for the LSU Tigers initially projects as an immediate 1st-year starter for the Colts secondary, [&#8230;]"
+    },
+    {
+      "id": "e25d5263693801b5",
+      "title": "Sources: Rodgers likely to play for Steelers in '2...",
+      "link": "https://espn.com/nfl/story/_/id/48703228/sources-rodgers-visit-steelers-likely-play-team-26",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:31:34+0000",
+      "summary": "Quarterback Aaron Rodgers is expected to visit the Steelers this weekend and is likely to play for them this season, sources told NFL Network's Ian Rapoport on Thursday."
+    },
+    {
+      "id": "9dcd37d55dda0a90",
+      "title": "Colts release CB Moore after failing to find trade...",
+      "link": "https://espn.com/nfl/story/_/id/48704402/colts-release-cornerback-kenny-moore-safety-nassir-adderley",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:31:34+0000",
+      "summary": "The Colts have released veteran cornerback Kenny Moore II and safety Nasir Adderley, the team announced Thursday."
+    },
+    {
+      "id": "1c3f7e1efca045b0",
+      "title": "QB Heinicke retires after improbable NFL career",
+      "link": "https://espn.com/nfl/story/_/id/48707133/taylor-heinicke-retires-improbable-nfl-career",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:31:34+0000",
+      "summary": "Quarterback Taylor Heinicke, who became a fan favorite during his two-plus seasons with the Washington Commanders, announced the end of an improbable NFL career."
+    },
+    {
+      "id": "796193383910c0e1",
+      "title": "👀 Reid's early 2027 NFL mock draft: Arch No. 1?",
+      "link": "https://espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T02:31:34+0000",
+      "summary": "We're still a full year out, but let's make way-too-early predictions for every first-round pick of the 2027 NFL draft. Will Arch Manning go No. 1? Jeremiah Smith?"
     },
     {
       "id": "97872157fe0162c2",
@@ -198,6 +279,15 @@
       "feed": "Stampede Blue",
       "published": "2026-05-03T20:10:36+0000",
       "summary": "The Colts selected AJ Haulcy with their third round pick in this year’s draft.  The player is fascinating, but the use of resources on a safety is even more fascinating to me. I was shocked that they decided to address the safety position with their limited resources in this year’s draft— but I really shouldn’t [&#8230;]"
+    },
+    {
+      "id": "82f5e88eb3ddfd07",
+      "title": "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in",
+      "link": "https://espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-02T15:28:15+0000",
+      "summary": "After paying Will Anderson, will Houston do the same with its franchise quarterback?"
     },
     {
       "id": "b010b9868c89fd96",
@@ -450,96 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-04-25T15:44:24+0000",
       "summary": "PITTSBURGH – The Indianapolis Colts addressed their remaining needs during Day 3 of the 2026 NFL Draft. The Colts picked up an offensive lineman, a linebacker prospect and an intriguing edge rusher in Rounds 4 and 5. In the final two rounds, Indianapolis went after another pass rusher, a running back and a wide receiver. [...]"
-    },
-    {
-      "id": "83a84862fea6ea49",
-      "title": "Colts’ Chris Ballard: We got younger, faster on defense",
-      "link": "https://fox59.com/sports/colts/colts-chris-ballard-we-got-younger-faster-on-defense/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T15:12:59+0000",
-      "summary": "INDIANAPOLIS – The major renovation on defense picked up steam Friday night. After a trade-back with Pittsburgh in round 2 – No. 47 overall to No. 53 – the Indianapolis Colts found Zaire Franklin’s successor at middle linebacker with Georgia’s CJ Allen. In round 3, they invested the 78th overall pick in LSU safety A.J. Haulcy. [...]"
-    },
-    {
-      "id": "7285376359735e27",
-      "title": "2026 NFL Draft: How Colts GM Chris Ballard read the board, traded down and still landed a key defensive addition in Georgia linebacker CJ Allen",
-      "link": "https://colts.com/news/2026-nfl-draft-how-colts-gm-chris-ballard-read-the-board-traded-down-and-still-landed-a-key-defensive-addition-in-georgia-linebacker-cj-allen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T04:36:27+0000",
-      "summary": "Colts general manager Chris Ballard picked up an extra fourth round pick and still landed a starting MIKE linebacker in Georgia's CJ Allen on Day 2 of the 2026 NFL Draft."
-    },
-    {
-      "id": "929363014acb3e97",
-      "title": "2026 NFL Draft: Best available players for Colts on Day 3",
-      "link": "https://colts.com/news/2026-nfl-draft-best-available-players-for-colts-on-day-3",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T03:57:35+0000",
-      "summary": "The Colts selected Georgia linebacker CJ Allen and LSU safety A.J. Haulcy on Day 2 of the NFL Draft, and enter Day 3 with six more selections to make."
-    },
-    {
-      "id": "fb79be65616620b2",
-      "title": "What \"Mr. GiveMeThat\" brings to the Colts",
-      "link": "https://colts.com/news/a-j-haulcy-safety-lsu-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T03:54:58+0000",
-      "summary": "The Colts selected LSU safety A.J. Haulcy in the third round of the 2026 NFL Draft."
-    },
-    {
-      "id": "25c5f4ab6b9d1319",
-      "title": "Colts select LSU safety A.J. Haulcy in third round of 2026 NFL Draft",
-      "link": "https://colts.com/news/2026-nfl-draft-aj-haulcy-safety-lsu-third-round-pick",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T02:05:37+0000",
-      "summary": "Haulcy totaled 10 interceptions over four collegiate seasons."
-    },
-    {
-      "id": "7affe144af982d4e",
-      "title": "The Colts get a Dawg on defense",
-      "link": "https://colts.com/news/cj-allen-nfl-draft-linebacker-georgia-bulldogs",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T01:14:51+0000",
-      "summary": "With pick No. 53, the Colts selected linebacker CJ Allen from the University of Georgia"
-    },
-    {
-      "id": "431676f0cc1cb056",
-      "title": "Colts select Georgia LB CJ Allen in second round of 2026 NFL Draft",
-      "link": "https://colts.com/news/cj-allen-second-round-pick-linebacker-2026-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T00:32:43+0000",
-      "summary": "The Colts opened their 2026 NFL Draft by addressing a key need on Lou Anarumo’s defense."
-    },
-    {
-      "id": "d90863a90f79068f",
-      "title": "Colts’ new ‘backer CJ Allen: ‘You’re getting a dawg'",
-      "link": "https://fox59.com/sports/colts/indianapolis-colts-trade-47th-pick-to-pittsburgh-in-2026-nfl-draft/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T00:10:38+0000",
-      "summary": "INDIANAPOLIS – After a brief wait, the Indianapolis Colts addressed their defense in the second round of Friday’s NFL Draft. The Colts traded back from No. 47 to No. 53 with the Pittsburgh Steelers and selected Georgia linebacker C.J. Allen. The trade with the Steelers involved Indy swapping second-round picks and adding a seventh-rounder (No. [...]"
-    },
-    {
-      "id": "1e45715bd5f750c5",
-      "title": "Colts trade back in second round of 2026 NFL Draft with Pittsburgh Steelers",
-      "link": "https://colts.com/news/colts-trade-back-in-second-round-of-2026-nfl-draft-with-pittsburgh-steelers",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T00:04:06+0000",
-      "summary": "The Colts added a fourth round pick in trading back six spots in the second round with the Pittsburgh Steelers."
-    },
-    {
-      "id": "e083624f67725673",
-      "title": "2026 NFL Draft: Best available players for Colts in second, third rounds",
-      "link": "https://colts.com/news/2026-nfl-draft-best-available-players-for-colts-in-second-third-rounds",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-24T03:06:38+0000",
-      "summary": "The Colts will begin Day 2 of the 2026 NFL Draft with picks No. 47 (second round) and 78 (third round)."
     }
   ],
   "links": [
