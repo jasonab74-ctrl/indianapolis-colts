@@ -1,23 +1,14 @@
 {
-  "updated": "2026-05-08T13:44:58+00:00",
+  "updated": "2026-05-08T15:20:57+00:00",
   "items": [
     {
-      "id": "e5fda6386ec56527",
-      "title": "Copy of 'Maybe I'm a little backwards': Why Frank Reich re...",
-      "link": "https://espn.com/nfl/story/_/id/48702889/new-york-jets-frank-new-oc-reich-challenge-turnaround",
+      "id": "466f343bc5ac379c",
+      "title": "Sources: Seahawks interest 'soft' from buyers",
+      "link": "https://espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-05-08T13:55:59+0000",
-      "summary": "The former NFL coach was attracted at age 64 because he knew it wouldn't be easy getting New York back on track."
-    },
-    {
-      "id": "5cda871452f0a9d0",
-      "title": "NFL analyst loves the Ravens pairing with rookie mauler Vega Ioane",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-loves-ravens-pairing-133217831.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-08T13:32:17+0000",
-      "summary": "Matt Bowen believes Vega Ioane landed in the perfect situation to maximize his strengths."
+      "published": "2026-05-08T16:13:06+0000",
+      "summary": "The Seahawks haven't generated as much buyer interest as NFL officials originally expected, sources told ESPN."
     },
     {
       "id": "e25d5263693801b5",
@@ -25,7 +16,7 @@
       "link": "https://espn.com/nfl/story/_/id/48703228/sources-rodgers-visit-steelers-likely-play-team-26",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-05-08T13:19:18+0000",
+      "published": "2026-05-08T16:13:06+0000",
       "summary": "Quarterback Aaron Rodgers is expected to visit the Steelers this weekend and is likely to play for them this season, sources told NFL Network's Ian Rapoport on Thursday."
     },
     {
@@ -34,7 +25,7 @@
       "link": "https://espn.com/nfl/story/_/id/48704402/colts-release-cornerback-kenny-moore-safety-nassir-adderley",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-05-08T13:19:18+0000",
+      "published": "2026-05-08T16:13:06+0000",
       "summary": "The Colts have released veteran cornerback Kenny Moore II and safety Nasir Adderley, the team announced Thursday."
     },
     {
@@ -43,7 +34,7 @@
       "link": "https://espn.com/nfl/story/_/id/48707133/taylor-heinicke-retires-improbable-nfl-career",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-05-08T13:19:18+0000",
+      "published": "2026-05-08T16:13:06+0000",
       "summary": "Quarterback Taylor Heinicke, who became a fan favorite during his two-plus seasons with the Washington Commanders, announced the end of an improbable NFL career."
     },
     {
@@ -52,8 +43,44 @@
       "link": "https://espn.com/nfl/story/_/id/48630373/2026-nfl-power-rankings-offseason-postdraft-poll-most-improved-positions",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-05-08T13:19:18+0000",
+      "published": "2026-05-08T16:13:06+0000",
       "summary": "How do all 32 NFL teams stack up after free agency and the draft? Here are our early rankings for next season, plus one spot each roster got better."
+    },
+    {
+      "id": "07f0811214e828eb",
+      "title": "Carson Beck delivers strong message after being overlooked in draft",
+      "link": "https://sports.yahoo.com/articles/carson-beck-delivers-strong-message-151318776.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-08T15:13:18+0000",
+      "summary": "Carson Beck feels strongly about his talent entering the NFL."
+    },
+    {
+      "id": "596e2240c15d7ffb",
+      "title": "Journeyman QB Taylor Heinicke retires after 7 NFL seasons and some memorable moments with Washington",
+      "link": "https://sports.yahoo.com/articles/journeyman-qb-taylor-heinicke-retires-151112252.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-08T15:11:12+0000",
+      "summary": "Journeyman quarterback Taylor Heinicke, whose unique path to the NFL helped him become a fan favorite in Washington, has retired from the league.  The 33-year-old Heinicke posted a goodbye message on social media Thursday in which he thanked supporters from his seven NFL seasons."
+    },
+    {
+      "id": "ef3379a6de7ed5df",
+      "title": "Summer offensive tackle rankings for the 2027 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/summer-offensive-tackle-rankings-2027-150055108.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-08T15:00:55+0000",
+      "summary": "The offensive tackle in the 2027 NFL Draft has a chance to be a deep one for teams in need."
+    },
+    {
+      "id": "e5fda6386ec56527",
+      "title": "Copy of 'Maybe I'm a little backwards': Why Frank Reich re...",
+      "link": "https://espn.com/nfl/story/_/id/48702889/new-york-jets-frank-new-oc-reich-challenge-turnaround",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T13:55:59+0000",
+      "summary": "The former NFL coach was attracted at age 64 because he knew it wouldn't be easy getting New York back on track."
     },
     {
       "id": "e58d7b40044a76d3",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-25T17:29:26+0000",
       "summary": "The two-year starter at Kentucky was selected at pick No. 113 in the 2026 NFL Draft"
-    },
-    {
-      "id": "bfa6fb72df9711b9",
-      "title": "Colts select Kentucky guard Jalen Farmer in fourth round of 2026 NFL Draft",
-      "link": "https://colts.com/news/jalen-farmer-guard-kentucky-fourth-round-2026-nfl-draft-offensive-line",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T16:50:37+0000",
-      "summary": "Farmer started 24 games at right guard for Kentucky over the last two seasons."
-    },
-    {
-      "id": "e44a4db891647aa9",
-      "title": "Here's the Colts' haul from Day 3 of the NFL Draft",
-      "link": "https://fox59.com/sports/colts/updates-colts-and-day-3-of-the-nfl-draft/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T15:44:24+0000",
-      "summary": "PITTSBURGH – The Indianapolis Colts addressed their remaining needs during Day 3 of the 2026 NFL Draft. The Colts picked up an offensive lineman, a linebacker prospect and an intriguing edge rusher in Rounds 4 and 5. In the final two rounds, Indianapolis went after another pass rusher, a running back and a wide receiver. [...]"
-    },
-    {
-      "id": "83a84862fea6ea49",
-      "title": "Colts’ Chris Ballard: We got younger, faster on defense",
-      "link": "https://fox59.com/sports/colts/colts-chris-ballard-we-got-younger-faster-on-defense/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T15:12:59+0000",
-      "summary": "INDIANAPOLIS – The major renovation on defense picked up steam Friday night. After a trade-back with Pittsburgh in round 2 – No. 47 overall to No. 53 – the Indianapolis Colts found Zaire Franklin’s successor at middle linebacker with Georgia’s CJ Allen. In round 3, they invested the 78th overall pick in LSU safety A.J. Haulcy. [...]"
     }
   ],
   "links": [
