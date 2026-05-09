@@ -1,59 +1,32 @@
 {
-  "updated": "2026-05-09T11:24:48+00:00",
+  "updated": "2026-05-09T12:08:47+00:00",
   "items": [
     {
-      "id": "d28c71bb832d1ae0",
-      "title": "Hunter Wohler injury update: Latest news on Colts' safety",
-      "link": "https://sports.yahoo.com/articles/hunter-wohler-injury-latest-news-112150208.html",
+      "id": "e68448e2b7838fc5",
+      "title": "NFL Referees Association agrees to a multi-year CBA ahead of deadline",
+      "link": "https://sports.yahoo.com/articles/nfl-referees-association-agrees-multi-120137716.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-09T11:21:50+0000",
-      "summary": "Speaking with the media recently, Colts' second-year safety Hunter Wohler provided an injury update."
+      "published": "2026-05-09T12:01:37+0000",
+      "summary": "On Friday, the NFL and the NFL Referees Association agreed to a multi-year CBA ahead of the current deadline | @EdEastonJr"
     },
     {
-      "id": "2878411ce065de02",
-      "title": "Broncos start UDFA recruiting process months before NFL draft",
-      "link": "https://sports.yahoo.com/articles/broncos-start-udfa-recruiting-process-110102011.html",
+      "id": "767f9d2f585a39b7",
+      "title": "Which Browns’ Day 3 pick will have the best career in Cleveland?",
+      "link": "https://sports.yahoo.com/articles/browns-day-3-pick-best-115300178.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-09T11:01:02+0000",
-      "summary": "The Broncos have a great history of landing UDFA gems, in part because they start the recruiting process so early."
+      "published": "2026-05-09T11:53:00+0000",
+      "summary": "The Browns selected multiple players on Day 3 of the 2026 NFL draft and one in particular has significant career potential"
     },
     {
-      "id": "78480fb419cc23b9",
-      "title": "NFL teams with the most Georgia Bulldogs after the draft",
-      "link": "https://sports.yahoo.com/articles/nfl-teams-most-georgia-bulldogs-110026284.html",
+      "id": "86ed0fcf17c349c5",
+      "title": "Colts draft pick profiles: Everything to know about RB Seth McGowan",
+      "link": "https://sports.yahoo.com/articles/colts-draft-pick-profiles-everything-114342964.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-09T11:00:26+0000",
-      "summary": "Eight NFL teams have at least four Georgia Bulldogs players on their roster with the Falcons and Eagles having the most"
-    },
-    {
-      "id": "4a96faf6c1ee6cf7",
-      "title": "When is the best time for the Detroit Lions’ bye week?",
-      "link": "https://sports.yahoo.com/articles/best-time-detroit-lions-bye-110000085.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-09T11:00:00+0000",
-      "summary": "What is the Detroit Lions’ ideal bye week for the 2026 NFL schedule?"
-    },
-    {
-      "id": "cdc95e02d1b1246d",
-      "title": "NFL avoids replacement refs for 2026 season",
-      "link": "https://sports.yahoo.com/articles/nfl-avoids-replacement-refs-2026-110000969.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-09T11:00:00+0000",
-      "summary": "The new NFLRA CBA reportedly brings raises — and more accountability."
-    },
-    {
-      "id": "246b13ea5f94eeb6",
-      "title": "Column: Chicago Bears rookies get a crash course in NFL life — including from a crafty veteran receiver",
-      "link": "https://sports.yahoo.com/articles/column-chicago-bears-rookies-crash-110000938.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-09T11:00:00+0000",
-      "summary": "DJ Harris’ welcome-to-the-NFL moment came on the final play of Chicago Bears rookie minicamp Friday morning. Scotty Miller, an eight-year veteran with a Super Bowl ring from his time running routes for Tom Brady with the Tampa Bay Buccaneers, ran a go route. Harris grabbed hold of Miller and tried to keep up as quarterback Maverick McIvor — a tryout player from Western Kentucky by way of ..."
+      "published": "2026-05-09T11:43:42+0000",
+      "summary": "Here is a full breakdown of that selection with everything you need to know about new Colts' RB Seth McGowan."
     },
     {
       "id": "c7117c46dc83aa42",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-04-25T16:50:37+0000",
       "summary": "Farmer started 24 games at right guard for Kentucky over the last two seasons."
+    },
+    {
+      "id": "e44a4db891647aa9",
+      "title": "Here's the Colts' haul from Day 3 of the NFL Draft",
+      "link": "https://fox59.com/sports/colts/updates-colts-and-day-3-of-the-nfl-draft/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-04-25T15:44:24+0000",
+      "summary": "PITTSBURGH – The Indianapolis Colts addressed their remaining needs during Day 3 of the 2026 NFL Draft. The Colts picked up an offensive lineman, a linebacker prospect and an intriguing edge rusher in Rounds 4 and 5. In the final two rounds, Indianapolis went after another pass rusher, a running back and a wide receiver. [...]"
+    },
+    {
+      "id": "83a84862fea6ea49",
+      "title": "Colts’ Chris Ballard: We got younger, faster on defense",
+      "link": "https://fox59.com/sports/colts/colts-chris-ballard-we-got-younger-faster-on-defense/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-04-25T15:12:59+0000",
+      "summary": "INDIANAPOLIS – The major renovation on defense picked up steam Friday night. After a trade-back with Pittsburgh in round 2 – No. 47 overall to No. 53 – the Indianapolis Colts found Zaire Franklin’s successor at middle linebacker with Georgia’s CJ Allen. In round 3, they invested the 78th overall pick in LSU safety A.J. Haulcy. [...]"
+    },
+    {
+      "id": "7285376359735e27",
+      "title": "2026 NFL Draft: How Colts GM Chris Ballard read the board, traded down and still landed a key defensive addition in Georgia linebacker CJ Allen",
+      "link": "https://colts.com/news/2026-nfl-draft-how-colts-gm-chris-ballard-read-the-board-traded-down-and-still-landed-a-key-defensive-addition-in-georgia-linebacker-cj-allen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-04-25T04:36:27+0000",
+      "summary": "Colts general manager Chris Ballard picked up an extra fourth round pick and still landed a starting MIKE linebacker in Georgia's CJ Allen on Day 2 of the 2026 NFL Draft."
     }
   ],
   "links": [
