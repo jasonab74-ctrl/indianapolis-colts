@@ -1,23 +1,131 @@
 {
-  "updated": "2026-05-08T23:28:39+00:00",
+  "updated": "2026-05-09T01:16:17+00:00",
   "items": [
     {
-      "id": "7883e97426f628f1",
-      "title": "Packers vote of confidence in MarShawn Lloyd signals a running back move isn't on the way",
-      "link": "https://sports.yahoo.com/articles/packers-vote-confidence-marshawn-lloyd-231147688.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-08T23:11:47+0000",
-      "summary": "Despite lacking a quality running mate for Josh Jacobs in the backfield, the Green Bay Packers may pass on signing a running back and instead give MarShawn Lloyd another chance to break out as he enters his third NFL season."
+      "id": "543ac81ccf4295bd",
+      "title": "NFL to release regular-season schedule Thursday",
+      "link": "https://espn.com/nfl/story/_/id/48713901/nfl-release-regular-season-schedule-thursday",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-09T01:24:17+0000",
+      "summary": "The NFL will release its complete regular-season schedule Thursday. The announcement made Friday is in line with the past couple of years, when the schedule has been released during the second week of May."
     },
     {
-      "id": "a3e0256a05963a36",
-      "title": "NFL schedule to be released on Thursday, May 14",
-      "link": "https://sports.yahoo.com/articles/nfl-schedule-released-thursday-may-225821616.html",
+      "id": "466f343bc5ac379c",
+      "title": "Sources: Seahawks interest 'soft' from buyers",
+      "link": "https://espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-09T01:24:16+0000",
+      "summary": "The Seahawks haven't generated as much buyer interest as NFL officials originally expected, sources told ESPN."
+    },
+    {
+      "id": "e2694d2454c0f095",
+      "title": "NFL, referees association ratify new 7-year CBA",
+      "link": "https://espn.com/nfl/story/_/id/48713349/referees-association-nfl-ratify-7-year-cba-avoid-work-stoppage",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-09T01:24:16+0000",
+      "summary": "The NFL Referees Association ratified a new 7-year collective bargaining agreement with the NFL on Friday, eliminating the possibility of a work stoppage prior to the 2026 season."
+    },
+    {
+      "id": "0a1c5f4d3eceec7e",
+      "title": "Former Commanders fan-favorite QB retires after $19 million NFL career",
+      "link": "https://sports.yahoo.com/articles/former-commanders-fan-favorite-qb-011147415.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-08T22:58:21+0000",
-      "summary": "Almost time to mark your calendars for this year’s Saints games."
+      "published": "2026-05-09T01:11:47+0000",
+      "summary": "A beloved ex-Washington Commanders quarterback is calling it quits after a solid career."
+    },
+    {
+      "id": "e1ff25e8d3a13c95",
+      "title": "Cardinals first-rounder Jeremiyah Love officially signs rookie deal, gets largest RB guarantee in NFL history",
+      "link": "https://sports.yahoo.com/nfl/article/cardinals-first-rounder-jeremiyah-love-officially-signs-rookie-deal-gets-largest-rb-guarantee-in-nfl-history-011108083.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T01:11:08+0000",
+      "summary": "Kenneth Walker III, the reigning Super Bowl MVP, got less guaranteed money in free agency this offseason."
+    },
+    {
+      "id": "d03716c4a6f385b0",
+      "title": "NFL and its referees come to a long-term agreement",
+      "link": "https://sports.yahoo.com/articles/nfl-referees-come-long-term-010937971.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T01:09:37+0000",
+      "summary": "NFL referees avoided a strike."
+    },
+    {
+      "id": "747e66b9fef0da81",
+      "title": "Sights and sounds from Day 1 of Colts' 2026 rookie minicamp",
+      "link": "https://sports.yahoo.com/articles/sights-sounds-day-1-colts-010319492.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T01:03:19+0000",
+      "summary": "Let's take a look back at Day 1 of Colts' rookie minicamp with the sights and sounds from what took place."
+    },
+    {
+      "id": "5259b46e86092dec",
+      "title": "Chicago Bears rookie Logan Jones to wear legendary No. 54 once worn by Brian Urlacher",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-rookie-logan-jones-005008971.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T00:50:08+0000",
+      "summary": "Second-round offensive lineman Logan Jones will wear No. 54 — the legendary number once made famous by Hall of Fame linebacker Brian Urlacher.  Urlacher wore the number throughout his storied career from 2000 to 2012, becoming one of the most recognizable defensive players in franchise history.  During his time in Chicago, Urlacher earned eight Pro Bowl selections, won the NFL Defensive Player of the Year award in 2005, and helped lead the Bears to Super Bowl XLI before eventually earning induction into the Pro Football Hall of Fame."
+    },
+    {
+      "id": "a2ff509f482d0baf",
+      "title": "Seahawks LB Derick Hall ups sacks total in ESPN's 2026 Projection",
+      "link": "https://sports.yahoo.com/articles/seahawks-lb-derick-hall-ups-004332999.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T00:43:32+0000",
+      "summary": "Seahawks linebacker Derick Hall is forecasted to see an increase in sacks next season in Mike Clay's 2026 NFL Projection Guide."
+    },
+    {
+      "id": "5afe7e0142932a8b",
+      "title": "Titans, 1st-round pick Carnell Tate agree on contract. See full details",
+      "link": "https://sports.yahoo.com/articles/titans-1st-round-pick-carnell-004328295.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T00:43:28+0000",
+      "summary": "The Tennessee Titans and WR Carnell Tate have reportedly agreed on a contract, inking the No. 4 pick in the 2026 NFL Draft to a deal."
+    },
+    {
+      "id": "f634903725d382ca",
+      "title": "Titans, 1st-round pick Carnell Tate agree on contract. See full details",
+      "link": "https://sports.yahoo.com/articles/titans-1st-round-pick-carnell-004328812.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T00:43:28+0000",
+      "summary": "The Tennessee Titans and WR Carnell Tate have reportedly agreed on a contract, inking the No. 4 pick in the 2026 NFL Draft to a deal."
+    },
+    {
+      "id": "05dbf8e832892c73",
+      "title": "2026 Detroit Lions Schedule Release Date Officially Announced",
+      "link": "https://sports.yahoo.com/articles/2026-detroit-lions-schedule-release-004208943.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T00:42:08+0000",
+      "summary": "The NFL officially announced the 2026 schedule release date, while Lions fans await Germany game details and primetime matchups."
+    },
+    {
+      "id": "e58d7b40044a76d3",
+      "title": "Early NFL awards favorites, long shots: Which rook...",
+      "link": "https://espn.com/espn/betting/story/_/id/48687620/nfl-awards-offensive-rookie-year-coach-year-2026",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T23:31:04+0000",
+      "summary": "There's still a long way to go until the 2026 season kicks off, but it's never too early to see who's a front-runner."
+    },
+    {
+      "id": "f009e4e3d5cec912",
+      "title": "Rookies who found their ideal NFL landing spots in...",
+      "link": "https://espn.com/nfl/draft2026/story/_/id/48702246/2026-nfl-draft-best-team-fits-landing-spots-top-rookies",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T23:31:04+0000",
+      "summary": "Which rookies fit best with their new schemes? We picked out 15, including Jadarian Price joining the Seahawks."
     },
     {
       "id": "c7117c46dc83aa42",
@@ -27,6 +135,33 @@
       "feed": "CBS4Indy",
       "published": "2026-05-08T22:38:07+0000",
       "summary": "INDIANAPOLIS – The top of the depth chart at the most consequential position is set. Daniel Jones, who’s still on the mend from Dec. 9 surgery to repair a torn right Achilles tendon, is the present and immediate future of the Indianapolis Colts’ quarterbacks room. Any doubt was erased when general manager Chris Ballard and [...]"
+    },
+    {
+      "id": "e5fda6386ec56527",
+      "title": "Copy of 'Maybe I'm a little backwards': Why Frank Reich re...",
+      "link": "https://espn.com/nfl/story/_/id/48702889/new-york-jets-frank-new-oc-reich-challenge-turnaround",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T21:49:20+0000",
+      "summary": "The former NFL coach was attracted at age 64 because he knew it wouldn't be easy getting New York back on track."
+    },
+    {
+      "id": "dd23519ee9c8b4dd",
+      "title": "The biggest remaining roster hole for every NFL te...",
+      "link": "https://espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T21:35:30+0000",
+      "summary": "Even after free agency, trades and the draft, NFL teams still have at least one position that needs a boost. Here's one for every roster."
+    },
+    {
+      "id": "2fb1b0a9e8b5ebd1",
+      "title": "Who is on the hot seat after the NFL draft? 14 vet...",
+      "link": "https://espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-08T21:35:30+0000",
+      "summary": "Will Carrington Valentine get jumped by Brandon Cisse on the Green Bay depth chart?"
     },
     {
       "id": "a7866f494349bfb8",
@@ -65,15 +200,6 @@
       "summary": "Keep track of all updates to the 2026 NFL schedule, including early announcements, international games & more!"
     },
     {
-      "id": "5f72f991cd3a3988",
-      "title": "Colts announce 2026 NFL Draft class rookie jersey numbers",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/124300/colts-announce-2026-nfl-draft-class-rookie-jersey-numbers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-08T15:53:54+0000",
-      "summary": "The Indianapolis Colts announced the initial jersey numbers for their recent 2026 NFL Draft class, which is comprised of eight rookies this year: While these of course, could be subject to change for the final active 53-man roster by the end of training camp and preseason, given additional roster fluctuation and cuts, above is the [&#8230;]"
-    },
-    {
       "id": "e5ade2677aa2b178",
       "title": "Colts announce initial jersey numbers for 2026 NFL Draft picks",
       "link": "https://colts.com/news/colts-announce-initial-jersey-numbers-for-2026-nfl-draft-picks",
@@ -81,33 +207,6 @@
       "feed": "Colts.com",
       "published": "2026-05-08T13:03:55+0000",
       "summary": "Linebacker CJ Allen will wear No. 53, while safety A.J. Haulcy will wear No. 25."
-    },
-    {
-      "id": "9be60bc63c11e30d",
-      "title": "Kenny Moore II’s impact with the Colts went beyond the field",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124294/kenny-moore-iis-impact-with-the-colts-went-beyond-the-field",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-08T12:51:00+0000",
-      "summary": "Lightning in a bottle. That is what teammates call him. The best example comes from the Indianapolis Colts’ postseason push featured on Hard Knocks. Frank Reich called it out to announce that Kenny Moore II had been named to the Pro Bowl. His teammates went wild because that is the type of teammate Moore II [&#8230;]"
-    },
-    {
-      "id": "43dc252a96099d45",
-      "title": "Colts have gotten younger at expense of longstanding veteran pillars",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/124278/colts-have-gotten-younger-at-expense-of-veteran-pillars",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-08T12:00:00+0000",
-      "summary": "Having not found a willing trade partner on a deal that made sense, the Indianapolis Colts made the very difficult football decision and announced that they had released longtime veteran cornerback Kenny Moore II. Not unexpected, as Colts general manager Chris Ballard indicated a few weeks ago that if Indianapolis could not find a suitable [&#8230;]"
-    },
-    {
-      "id": "e08fe98fb98ea8e3",
-      "title": "Colts sign Six draft picks and 12 undrafted free agents",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/124284/colts-sign-six-draft-picks-and-12-undrafted-free-agents",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-08T11:00:00+0000",
-      "summary": "The Indianapolis Colts officially signed six members of their 2026 NFL Draft class and 12 undrafted free agents ahead of rookie minicamp. The six draft picks who signed are linebacker CJ Allen, safety A.J. Haulcy, defensive end George Gumbs Jr., defensive end Caden Curry, running back Seth McGowan and wide receiver Deion Burks. Two draft [&#8230;]"
     },
     {
       "id": "3b98ff82d39c83bf",
@@ -263,6 +362,24 @@
       "summary": "An idea for a poll question emerged from a short conversation I had with Iowacoltsfan on a previous post. I suggested that I believed that the negativity towards Chris Ballard had reached a point that many fans would trade a good season, for a bad one that produced his ouster. He shared that he didn’t [&#8230;]"
     },
     {
+      "id": "c349894c4bf00c27",
+      "title": "Anthony Richardson reports to Colts offseason workouts ahead of pivotal contract year",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124214/anthony-richardson-reports-to-colts-offseason-workouts-ahead-of-pivotal-contract-year",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-04T18:20:25+0000",
+      "summary": "The situation hasn’t changed regarding the Indianapolis Colts endless quarterback carousel, but the optics have. Quarterback Anthony Richardson Sr. walked back into the Colts’ facility Monday to participate in voluntary offseason workouts.&#160; Despite a trade request that still hangs over the franchise, his presence during the install period signals he’s willing to put in the [&#8230;]"
+    },
+    {
+      "id": "ff6241c30f8e67c9",
+      "title": "Report: Readily available Colts QB reports for voluntary offseason workouts",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/124205/report-readily-available-colts-qb-reports-for-voluntary-offseason-workouts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-04T17:59:00+0000",
+      "summary": "According to ESPN’s Stephen Holder, Indianapolis Colts quarterback Anthony Richardson Sr., who is currently available for trade, reported for the team’s voluntary offseason workouts on Monday for the first time: Subject to potential trade negotiations, after his representation and him were given permission to seek out a trade earlier this offseason, Richardson Sr. had missed [&#8230;]"
+    },
+    {
       "id": "3a738ff70bf3b4ea",
       "title": "Anthony Richardson Sr. joins Colts’ voluntary workouts",
       "link": "https://fox59.com/sports/colts/anthony-richardson-sr-joins-colts-voluntary-work/",
@@ -270,6 +387,24 @@
       "feed": "CBS4Indy",
       "published": "2026-05-04T16:54:00+0000",
       "summary": "INDIANAPOLIS – Anthony Richardson Sr. has taken the latest step. The former quarterback of the future for the Indianapolis Colts has joined the team’s voluntary offseason workouts, according to a source. ESPN first reported the news. Richardson, the No. 4 overall pick in the 2023 draft, skipped the first two weeks and opted to work [...]"
+    },
+    {
+      "id": "f3bf433efe987b63",
+      "title": "A.J. Haulcy can be a Chess Piece for the Secondary Lou Anarumo is Coveting",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124193/a-j-haulcy-can-be-a-chess-piece-for-the-secondary-lou-anarumo-is-coveting",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-03T20:10:36+0000",
+      "summary": "The Colts selected AJ Haulcy with their third round pick in this year’s draft.  The player is fascinating, but the use of resources on a safety is even more fascinating to me. I was shocked that they decided to address the safety position with their limited resources in this year’s draft— but I really shouldn’t [&#8230;]"
+    },
+    {
+      "id": "b010b9868c89fd96",
+      "title": "Imagine if you had done what the Colts did",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124186/imagine-if-you-had-done-what-the-colts-did",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-02T12:28:49+0000",
+      "summary": "In unsurprising news, the Indianapolis Colts declined Anthony Richardson’s fifth-year option. The former fourth overall pick is set to be an unrestricted free agent next year which marks the final nail in the coffin. With no trade suitors, the Colts are prepared to run out the clock. This is the reality of the situation. The [&#8230;]"
     },
     {
       "id": "bed0b6f060500c31",
@@ -405,141 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-26T01:03:46+0000",
       "summary": "General manager Chris Ballard only selected players from the Big Ten and SEC in the 2026 Draft"
-    },
-    {
-      "id": "e2b02a8a5ed0addd",
-      "title": "Colts 2026 NFL Draft tracker",
-      "link": "https://colts.com/news/2026-nfl-draft-tracker-picks-players-selections",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-26T00:49:00+0000",
-      "summary": "The Colts own seven selections in the 2026 NFL Draft, beginning in the second round with the 47th overall pick."
-    },
-    {
-      "id": "3d1c9250fee9d981",
-      "title": "'Surreal': Caden Curry back home with Colts",
-      "link": "https://fox59.com/sports/colts/surreal-caden-curry-back-home-with-colts/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T23:31:50+0000",
-      "summary": "INDIANAPOLIS – Caden Curry was dressed for the occasion. On a Zoom conference call early Saturday evening from his parents’ home in Greenwood, he wore a Colts cap and a Peyton Manning Super Bowl jersey. “I had to wear it,\" Curry said with a broad smile. “This is something I’ve had for a while. “Obviously, [...]"
-    },
-    {
-      "id": "df715fd7ca32f1f9",
-      "title": "Colts select Oklahoma wide receiver Deion Burks in seventh round of 2026 NFL Draft",
-      "link": "https://colts.com/news/deion-burks-wide-receiver-oklahoma-seventh-round-draft-pick-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T22:57:25+0000",
-      "summary": "Burks ran a 4.30-second 40-yard dash at the NFL Combine earlier this year."
-    },
-    {
-      "id": "81f2c38cb1af5d3c",
-      "title": "Colts select Kentucky running back Seth McGowan in seventh round of 2026 NFL Draft",
-      "link": "https://colts.com/news/seth-mcgowan-kentucky-running-back-seventh-round-2026-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T22:19:39+0000",
-      "summary": "McGowan rushed for 12 touchdowns with Kentucky in 2025."
-    },
-    {
-      "id": "544642714144ae84",
-      "title": "Defensive end Caden Curry grew up going to Lucas Oil Stadium. Now, he gets to don the horseshoe",
-      "link": "https://colts.com/news/caden-curry-ohio-state-center-grove",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T22:04:47+0000",
-      "summary": "The Ohio State Alum was selected by the Colts with pick No. 214 of the 2026 NFL Draft"
-    },
-    {
-      "id": "f141cdffb9678c43",
-      "title": "Colts select Ohio State defensive end Caden Curry in sixth round of 2026 NFL Draft",
-      "link": "https://colts.com/news/caden-curry-center-grove-greenwood-indiana-ohio-state-defensive-end-sixth-round-2026-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T21:24:21+0000",
-      "summary": "Curry, a Center Grove alum, led Ohio State in sacks and tackles for a loss in 2025."
-    },
-    {
-      "id": "c1e12cb3d1983342",
-      "title": "From wide receiver to defensive end, George Gumbs Jr.'s path has been anything but ordinary",
-      "link": "https://colts.com/news/george-gumbs-jr-nfl-draft-florida-northern-illinois",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T19:35:27+0000",
-      "summary": "The Chicago native was selected at pick No. 156 by the Colts in the 2026 NFL Draft"
-    },
-    {
-      "id": "83ffce533cacc3f4",
-      "title": "Colts select Florida defensive end George Gumbs Jr. in fifth round of 2026 NFL Draft",
-      "link": "https://colts.com/news/2026-nfl-draft-fifth-round-george-gumbs-florida-defensive-end",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T18:41:44+0000",
-      "summary": "Gumbs converted from offense to defense in 2023 and spent the last two years of his college career at Florida."
-    },
-    {
-      "id": "da1c9262e278e69c",
-      "title": "Colts select Oregon linebacker Bryce Boettcher in fourth round of 2026 NFL Draft",
-      "link": "https://colts.com/news/colts-select-oregon-linebacker-bryce-boettcher-in-fourth-round-of-2026-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T17:46:30+0000",
-      "summary": "Boettcher totaled 136 tackles for Oregon in 2025."
-    },
-    {
-      "id": "ae4508c598ec3d28",
-      "title": "Guard Jalen Farmer is ready for anything with the Colts",
-      "link": "https://colts.com/news/jalen-farmer-nfl-draft-kentucky",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T17:29:26+0000",
-      "summary": "The two-year starter at Kentucky was selected at pick No. 113 in the 2026 NFL Draft"
-    },
-    {
-      "id": "bfa6fb72df9711b9",
-      "title": "Colts select Kentucky guard Jalen Farmer in fourth round of 2026 NFL Draft",
-      "link": "https://colts.com/news/jalen-farmer-guard-kentucky-fourth-round-2026-nfl-draft-offensive-line",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T16:50:37+0000",
-      "summary": "Farmer started 24 games at right guard for Kentucky over the last two seasons."
-    },
-    {
-      "id": "e44a4db891647aa9",
-      "title": "Here's the Colts' haul from Day 3 of the NFL Draft",
-      "link": "https://fox59.com/sports/colts/updates-colts-and-day-3-of-the-nfl-draft/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T15:44:24+0000",
-      "summary": "PITTSBURGH – The Indianapolis Colts addressed their remaining needs during Day 3 of the 2026 NFL Draft. The Colts picked up an offensive lineman, a linebacker prospect and an intriguing edge rusher in Rounds 4 and 5. In the final two rounds, Indianapolis went after another pass rusher, a running back and a wide receiver. [...]"
-    },
-    {
-      "id": "83a84862fea6ea49",
-      "title": "Colts’ Chris Ballard: We got younger, faster on defense",
-      "link": "https://fox59.com/sports/colts/colts-chris-ballard-we-got-younger-faster-on-defense/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-04-25T15:12:59+0000",
-      "summary": "INDIANAPOLIS – The major renovation on defense picked up steam Friday night. After a trade-back with Pittsburgh in round 2 – No. 47 overall to No. 53 – the Indianapolis Colts found Zaire Franklin’s successor at middle linebacker with Georgia’s CJ Allen. In round 3, they invested the 78th overall pick in LSU safety A.J. Haulcy. [...]"
-    },
-    {
-      "id": "7285376359735e27",
-      "title": "2026 NFL Draft: How Colts GM Chris Ballard read the board, traded down and still landed a key defensive addition in Georgia linebacker CJ Allen",
-      "link": "https://colts.com/news/2026-nfl-draft-how-colts-gm-chris-ballard-read-the-board-traded-down-and-still-landed-a-key-defensive-addition-in-georgia-linebacker-cj-allen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T04:36:27+0000",
-      "summary": "Colts general manager Chris Ballard picked up an extra fourth round pick and still landed a starting MIKE linebacker in Georgia's CJ Allen on Day 2 of the 2026 NFL Draft."
-    },
-    {
-      "id": "929363014acb3e97",
-      "title": "2026 NFL Draft: Best available players for Colts on Day 3",
-      "link": "https://colts.com/news/2026-nfl-draft-best-available-players-for-colts-on-day-3",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T03:57:35+0000",
-      "summary": "The Colts selected Georgia linebacker CJ Allen and LSU safety A.J. Haulcy on Day 2 of the NFL Draft, and enter Day 3 with six more selections to make."
     }
   ],
   "links": [
