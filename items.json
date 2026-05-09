@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-09T08:57:52+00:00",
+  "updated": "2026-05-09T10:11:34+00:00",
   "items": [
+    {
+      "id": "b9ea0ab2bef0716b",
+      "title": "NFL schedule release week begins Monday",
+      "link": "https://sports.yahoo.com/articles/nfl-schedule-release-week-begins-100000779.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T10:00:00+0000",
+      "summary": "﻿It’s looking like each network will be announcing a game each day leading up to the Thursday, May 14th full schedule release event."
+    },
+    {
+      "id": "940f1c0c8ce531f1",
+      "title": "Commanders LB Sonny Styles earns glowing reviews in first NFL practice",
+      "link": "https://sports.yahoo.com/articles/commanders-lb-sonny-styles-earns-094018886.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-09T09:40:18+0000",
+      "summary": "A great first impression for Sonny Styles."
+    },
     {
       "id": "c7117c46dc83aa42",
       "title": "Anthony Richardson Sr., Riley Leonard ‘will get reps’ as Colts sort out Daniel Jones’ backup",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-04-25T03:57:35+0000",
       "summary": "The Colts selected Georgia linebacker CJ Allen and LSU safety A.J. Haulcy on Day 2 of the NFL Draft, and enter Day 3 with six more selections to make."
-    },
-    {
-      "id": "fb79be65616620b2",
-      "title": "What \"Mr. GiveMeThat\" brings to the Colts",
-      "link": "https://colts.com/news/a-j-haulcy-safety-lsu-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T03:54:58+0000",
-      "summary": "The Colts selected LSU safety A.J. Haulcy in the third round of the 2026 NFL Draft."
-    },
-    {
-      "id": "25c5f4ab6b9d1319",
-      "title": "Colts select LSU safety A.J. Haulcy in third round of 2026 NFL Draft",
-      "link": "https://colts.com/news/2026-nfl-draft-aj-haulcy-safety-lsu-third-round-pick",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-04-25T02:05:37+0000",
-      "summary": "Haulcy totaled 10 interceptions over four collegiate seasons."
     }
   ],
   "links": [
