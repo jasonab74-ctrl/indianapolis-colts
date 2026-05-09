@@ -1,14 +1,32 @@
 {
-  "updated": "2026-05-09T20:55:22+00:00",
+  "updated": "2026-05-09T21:41:26+00:00",
   "items": [
     {
-      "id": "abd88194115c500f",
-      "title": "1 Dolphins UDFA had third-round draft value if not for an injury",
-      "link": "https://sports.yahoo.com/articles/1-dolphins-udfa-had-third-204224536.html",
+      "id": "466f343bc5ac379c",
+      "title": "Sources: Seahawks interest 'soft' from buyers",
+      "link": "https://espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-09T22:05:51+0000",
+      "summary": "The Seahawks haven't generated as much buyer interest as NFL officials originally expected, sources told ESPN."
+    },
+    {
+      "id": "543ac81ccf4295bd",
+      "title": "NFL to release regular-season schedule Thursday",
+      "link": "https://espn.com/nfl/story/_/id/48713901/nfl-release-regular-season-schedule-thursday",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-09T22:05:51+0000",
+      "summary": "The NFL will release its complete regular-season schedule Thursday. The announcement made Friday is in line with the past couple of years, when the schedule has been released during the second week of May."
+    },
+    {
+      "id": "bfc04a9466f10ba9",
+      "title": "'Good chance' Bo Nix is limited participant at Broncos minicamp in June, says Sean Payton",
+      "link": "https://sports.yahoo.com/nfl/article/good-chance-bo-nix-is-limited-participant-at-broncos-minicamp-in-june-says-sean-payton-213327898.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-09T20:42:24+0000",
-      "summary": "The Miami Dolphins signed a few undrafted free agents ahead of rookie minicamp, and one of them could've gone as early as Day 2 in the 2026 NFL draft."
+      "published": "2026-05-09T21:33:27+0000",
+      "summary": "Nix fractured his ankle during the playoffs and had a follow-up procedure days before the NFL Draft."
     },
     {
       "id": "dd23519ee9c8b4dd",
@@ -36,33 +54,6 @@
       "feed": "Stampede Blue",
       "published": "2026-05-09T19:51:49+0000",
       "summary": "Going behind the scenes for an insider’s view of the Indianapolis Colts is always an anticipated event. Hearing from Chris Ballard and the scouts is worthwhile as they sort through the lengthy draft process. This year’s version is “The Draft Plan”. While it is certainly worth the watch, it’s hard to not be a bit [&#8230;]"
-    },
-    {
-      "id": "466f343bc5ac379c",
-      "title": "Sources: Seahawks interest 'soft' from buyers",
-      "link": "https://espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-05-09T19:33:24+0000",
-      "summary": "The Seahawks haven't generated as much buyer interest as NFL officials originally expected, sources told ESPN."
-    },
-    {
-      "id": "543ac81ccf4295bd",
-      "title": "NFL to release regular-season schedule Thursday",
-      "link": "https://espn.com/nfl/story/_/id/48713901/nfl-release-regular-season-schedule-thursday",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-05-09T19:33:23+0000",
-      "summary": "The NFL will release its complete regular-season schedule Thursday. The announcement made Friday is in line with the past couple of years, when the schedule has been released during the second week of May."
-    },
-    {
-      "id": "e2694d2454c0f095",
-      "title": "NFL, referees association ratify new 7-year CBA",
-      "link": "https://espn.com/nfl/story/_/id/48713349/referees-association-nfl-ratify-7-year-cba-avoid-work-stoppage",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-05-09T19:33:23+0000",
-      "summary": "The NFL Referees Association ratified a new 7-year collective bargaining agreement with the NFL on Friday, eliminating the possibility of a work stoppage prior to the 2026 season."
     },
     {
       "id": "e58d7b40044a76d3",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-04-25T18:41:44+0000",
       "summary": "Gumbs converted from offense to defense in 2023 and spent the last two years of his college career at Florida."
+    },
+    {
+      "id": "da1c9262e278e69c",
+      "title": "Colts select Oregon linebacker Bryce Boettcher in fourth round of 2026 NFL Draft",
+      "link": "https://colts.com/news/colts-select-oregon-linebacker-bryce-boettcher-in-fourth-round-of-2026-nfl-draft",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-04-25T17:46:30+0000",
+      "summary": "Boettcher totaled 136 tackles for Oregon in 2025."
     }
   ],
   "links": [
