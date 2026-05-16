@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-16T13:19:29+00:00",
+  "updated": "2026-05-16T14:39:03+00:00",
   "items": [
+    {
+      "id": "5a4a2c8d70643b94",
+      "title": "Saints sign projected $7.2 million contract with Georgia rookie",
+      "link": "https://sports.yahoo.com/articles/saints-sign-projected-7-2-143018326.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-16T14:30:18+0000",
+      "summary": "Georgia tight end Oscar Delp, who was drafted in the third round of the 2026 NFL draft, has signed his rookie contract with the New Orleans Saints."
+    },
+    {
+      "id": "8d8393efe29a851d",
+      "title": "Let's overreact to the NFL schedule release: Tough...",
+      "link": "https://espn.com/nfl/story/_/id/48758666/2026-nfl-schedule-release-overreactions-takeaways-best-games-opponents-matchups",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-16T14:29:24+0000",
+      "summary": "How could strength of schedule impact postseason hopes for the Bears, Bengals and Chiefs? Does the Dolphins' slate point to them landing the top draft pick?"
+    },
+    {
+      "id": "a18abbce84ecb285",
+      "title": "NFL record predictions hype Bengals' major offseason spending, trades",
+      "link": "https://sports.yahoo.com/articles/nfl-record-predictions-hype-bengals-140343826.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-16T14:03:43+0000",
+      "summary": "One look at an NFL record predictions roundup says the Bengals are quite popular all of a sudden."
+    },
     {
       "id": "8176d969070ab139",
       "title": "How a rare infection threatened DaVon Hamilton's N...",
@@ -11,33 +38,6 @@
       "summary": "In 2023, Jaguars doctors had never seen this type of infection in an NFL player."
     },
     {
-      "id": "13bfb0c46613662b",
-      "title": "Giants schedule leaks tracker: Every rumored and confirmed game for 2026 NFL season",
-      "link": "https://sports.yahoo.com/articles/giants-schedule-leaks-tracker-every-130057674.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-16T13:10:01+0000",
-      "summary": "Follow along with our New York Giants schedule leaks tracker for all the leaked and confirmed games on the team's 2026 schedule before it gets officially released on Thursday night."
-    },
-    {
-      "id": "e7d61b2b24a2fa96",
-      "title": "Rich Eisen wonders if NFL Network losing schedule-release show is ‘indication’",
-      "link": "https://sports.yahoo.com/articles/rich-eisen-wonders-nfl-network-130056726.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-16T13:00:56+0000",
-      "summary": "As much as Rich Eisen might be hoping for NFL Network to continue operating as usual under ESPN’s umbrella, the changes have already begun. ESPN’s merger with NFL Media became official earlier this year. And it shouldn’t be considered a coincidence that NFL Network now has its own schedule-release show for the first time, now…"
-    },
-    {
-      "id": "4bce3dc3229b55d1",
-      "title": "The Day After the Day After: The 2026 Houston Texans’ schedule release",
-      "link": "https://sports.yahoo.com/articles/day-day-2026-houston-texans-130000847.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-05-16T13:00:00+0000",
-      "summary": "The 2026 NFL schedule is out. What does it look like for the Texans? Let’s find out."
-    },
-    {
       "id": "0152ded657cc433f",
       "title": "Seahawks schedule 2026: Takeaways, predictions for...",
       "link": "https://espn.com/nfl/story/_/page/nflschedulerelease-48738335/seattle-seahawks-nfl-schedule-2026-takeaways-predictions",
@@ -45,15 +45,6 @@
       "feed": "ESPN",
       "published": "2026-05-16T03:29:25+0000",
       "summary": "Here is everything to know about the Seahawks' 2026 NFL schedule."
-    },
-    {
-      "id": "8d8393efe29a851d",
-      "title": "Let's overreact to the NFL schedule release: Tough...",
-      "link": "https://espn.com/nfl/story/_/id/48758666/2026-nfl-schedule-release-overreactions-takeaways-best-games-opponents-matchups",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-05-16T02:54:33+0000",
-      "summary": "How could strength of schedule impact postseason hopes for the Bears, Bengals and Chiefs? Does the Dolphins' slate point to them landing the top draft pick?"
     },
     {
       "id": "ad6d8f82402f0beb",
@@ -540,6 +531,15 @@
       "feed": "CBS4Indy",
       "published": "2026-05-01T17:16:40+0000",
       "summary": "INDIANAPOLIS – The signings are trickling in, which soon will be replaced by a deluge. The days of protracted negotiations with draft picks are a distant memory. Using recent history as a blueprint, the Indianapolis Colts will have most, if not all, of their 2026 draft class under contract in the next week or two. [...]"
+    },
+    {
+      "id": "430b1f9bbd71f411",
+      "title": "No fifth-year option for Colts’ QB Anthony Richardson Sr.",
+      "link": "https://fox59.com/sports/colts/no-fifth-year-option-for-colts-qb-anthony-richardson-sr/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-04-30T20:30:37+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts won’t trigger the fifth-year option of quarterback Anthony Richardson, according to a source. And that isn’t a surprise. The deadline for teams to exercise the fifth-year option for 2023 first-round picks is Friday, and there will be no action from Indy. At the end of the NFL draft Saturday, general [...]"
     }
   ],
   "links": [
