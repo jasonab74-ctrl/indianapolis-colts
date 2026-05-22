@@ -1,14 +1,50 @@
 {
-  "updated": "2026-05-21T23:02:32+00:00",
+  "updated": "2026-05-22T01:28:17+00:00",
   "items": [
     {
-      "id": "69e17dfb85d0ae62",
-      "title": "Detroit pulled off one of the coolest contract reveals in NFL history",
-      "link": "https://sports.yahoo.com/articles/detroit-pulled-off-one-coolest-225636791.html",
+      "id": "ed7f18a87dc1f834",
+      "title": "Sources: Stafford lands 1-year, $55M extension",
+      "link": "https://espn.com/nfl/story/_/id/48839342/sources-matthew-stafford-rams-reach-1-year-55m-extension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-22T02:17:12+0000",
+      "summary": "Reigning NFL MVP Matthew Stafford and the Rams reached agreement on a one-year, $55 million extension, sources told ESPN's Adam Schefter. The QB is now tied to L.A. through the 2027 season, with $105 million remaining on his deal."
+    },
+    {
+      "id": "7102c0b737bfaffe",
+      "title": "Lions ink All-Pro LB Campbell to 4-year extension",
+      "link": "https://espn.com/nfl/story/_/id/48836875/lions-sign-all-pro-lb-jack-campbell-four-year-extension",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-22T02:17:12+0000",
+      "summary": "The Lions have signed Jack Campbell to a four-year extension, putting him under contract with the franchise through the 2030 season. The deal is for $81 million and includes $51.5M guaranteed, sources told NFL Network's Ian Rapoport."
+    },
+    {
+      "id": "7980d16721757c9d",
+      "title": "The best, worst offseason moves of the AFC: Barnwe...",
+      "link": "https://espn.com/nfl/story/_/id/48817340/2026-nfl-offseason-afc-teams-best-worst-moves-trades-signings-draft-picks-contracts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-22T02:15:56+0000",
+      "summary": "The Steelers signing Jamel Dean? Solid move. The Colts guaranteeing big money to Daniel Jones? Not so much. Let's pick out offseason highs and lows in the AFC."
+    },
+    {
+      "id": "007b9171605f85d4",
+      "title": "New York Giants extending Joe Schoen is a Giant mistake",
+      "link": "https://sports.yahoo.com/articles/york-giants-extending-joe-schoen-010242755.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-05-21T22:56:36+0000",
-      "summary": "The Lions allowed a longtime superfan to annoThe Lions allowed a longtime superfan to announce Jack Campbell’s extension before NFL insiders.unce Jack Campbell’s extension before NFL insiders.The Lions allowed a longtime superfan to announce Jack Campbell’s extension before NFL insiders."
+      "published": "2026-05-22T01:02:42+0000",
+      "summary": "The NFL saw a flurry of major contracts handed out Thursday. After the Los Angeles Rams rewarded their quarterback with a massive new deal, the New York Giants made a more puzzling decision. Reports indicate the Giants extended general manager…"
+    },
+    {
+      "id": "4bd488a6dab2cd98",
+      "title": "NFL's most improved position groups that can swing the season, from Rams' CBs to Patriots' pass catchers and more",
+      "link": "https://sports.yahoo.com/nfl/article/nfls-most-improved-position-groups-that-can-swing-the-season-from-rams-cbs-to-patriots-pass-catchers-and-more-004822724.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-05-22T00:48:22+0000",
+      "summary": "An improved position group can help drive a team to the top. Here are four big ones to keep an eye on, as well as several others that could make an impact."
     },
     {
       "id": "46dcd609b13cff00",
@@ -47,6 +83,42 @@
       "summary": "The defensive end, who was the Colts' sixth-round pick in 2026, moved around the line while at Ohio State."
     },
     {
+      "id": "2506b79c17ab3e1a",
+      "title": "ESPN’s Bill Barnwell names Colts ‘best move’ of 2026 offseason",
+      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/124535/espns-bill-barnwell-names-colts-best-move-of-2026-nfl-offseason",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-21T15:06:26+0000",
+      "summary": "According to ESPN’s Bill Barnwell, the Indianapolis Colts’ best move of the 2026 NFL offseason was signing former Tennessee Titans veteran free agent edge Arden Key to a 2-year, $16 million contract: Best: Signing&#160;Arden Key&#160;to a two-year, $16 million contract. General manager Chris Ballard has tried to draft and develop edge rushers with limited success, [&#8230;]"
+    },
+    {
+      "id": "ccabe04df80caaba",
+      "title": "Stick to the Model gives the Colts offseason a B- grade",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124350/stick-to-the-model-gives-the-colts-offseason-a-b-grade",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-21T14:00:00+0000",
+      "summary": "This newest tool unveiled this offseason has given fans a new way to project how their teams’ offseason will go with an all-in-one offseason simulator including re-signings, restructuring, extensions, free agency, trades, and a mock draft simulator. The site also has its own evaluation for how teams handle the offseason after-the-fact, with grades/values for each [&#8230;]"
+    },
+    {
+      "id": "a62aea3b2793f479",
+      "title": "Which rookies will make the biggest 2026 impact? W...",
+      "link": "https://espn.com/nfl/story/_/id/48777825/2026-nfl-season-projections-rookie-leaders-statistics-touchdowns-sacks",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-21T13:50:27+0000",
+      "summary": "Let's predict the NFL's top rookies in 10 different stats for the 2026 season. Who will lead in rushing yards? Touchdowns? Sacks?"
+    },
+    {
+      "id": "ef8cffad23861668",
+      "title": "Perfect team fits for 14 remaining NFL free agents...",
+      "link": "https://espn.com/nfl/story/_/id/48751416/2026-nfl-best-team-fits-remaining-free-agents-samuel-bosa-diggs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-21T13:50:27+0000",
+      "summary": "Let's find new homes for 14 players who are still available, including Stefon Diggs and Jadeveon Clowney."
+    },
+    {
       "id": "48273d437876933d",
       "title": "How CJ Allen is already impressing Colts LBs coach James Bettcher",
       "link": "https://colts.com/news/james-bettcher-cj-allen",
@@ -54,6 +126,33 @@
       "feed": "Colts.com",
       "published": "2026-05-21T13:00:52+0000",
       "summary": "Bettcher, who is in his second year as the Colts' linebackers coach, says Allen acclimated to the team well when we got into the facility."
+    },
+    {
+      "id": "ba8a30c709a5beb7",
+      "title": "A welcome-to-the-NFL moment in the third grade? Co...",
+      "link": "https://espn.com/nfl/story/_/id/48818826/indianapolis-colts-owner-carlie-irsay-gordon-learned-key-lesson-3rd-grade",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-05-21T12:59:02+0000",
+      "summary": "As Carlie Irsay-Gordon emerges from her father's shadow, criticism becomes a bigger part of the job, but she's prepared."
+    },
+    {
+      "id": "7796bff68b18fdac",
+      "title": "Reviewing the Chris Ballard era: The 2017 draft class",
+      "link": "https://stampedeblue.com/indianapolis-colts-draft/124489/reviewing-the-chris-ballard-era-the-2017-draft-class",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-21T12:00:00+0000",
+      "summary": "This is the first instalment in a series reviewing every Colts draft class of the Chris Ballard era, starting with his first class in 2017. Chris Ballard’s first draft class with the Colts was a strange one. At the top, it was ugly. The Colts missed badly on several premium picks, including a first-round safety, [&#8230;]"
+    },
+    {
+      "id": "52c1142e48ad2eaf",
+      "title": "Colts’ schedule release contained shocking stat that is hard to comprehend",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124484/colts-schedule-release-contained-shocking-stat-that-is-hard-to-comprehend",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-05-21T11:12:00+0000",
+      "summary": "The schedule for all 32 teams is out, and the Indianapolis Colts schedule release is receiving major praise. The partnership with “The Simpsons” was pure gold. There were plenty of nods to Colts Nation in the opening theme, but one is getting a lot of talk. Some fans find it funny in a “it’s better [&#8230;]"
     },
     {
       "id": "0fbbbaf9c53b10b6",
@@ -164,15 +263,6 @@
       "summary": "The 2026 NFL schedule was released for the Indianapolis Colts, and while the release itself was perfection, the path ahead is wrought with peril. Like all seasons, teams can go a totally different direction than the previous year, so nothing is easy to predict. With that said, the first third of the season is potentially [&#8230;]"
     },
     {
-      "id": "1a17e96fc5c2451e",
-      "title": "Colts listed as ‘best fit’ for former All-Pro veteran free agent wideout",
-      "link": "https://stampedeblue.com/indianapolis-colts-free-agency/124460/colts-listed-as-best-fit-for-former-all-pro-veteran-free-agent-wideout",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-19T00:53:55+0000",
-      "summary": "According to ESPN’s Matt Bowen, the Indianapolis Colts are the best fit for veteran free agent wideout Deebo Samuel among potential NFL suitors: Deebo Samuel, WR Best team fit:&#160;Indianapolis Colts The Colts&#160;added&#160;veteran receiver&#160;Nick Westbrook-Ikhine&#160;this offseason, but Samuel would bring a unique skill set to coach Shane Steichen&#8217;s offense as a complement to&#160;Alec Pierce&#160;and slot man&#160;Josh [&#8230;]"
-    },
-    {
       "id": "2ca1852586a9ab5d",
       "title": "How the Wellness Council of Indiana is using its first KTS Action Grant",
       "link": "https://colts.com/news/wellness-council-indiana-kicking-the-stigma-action-grant",
@@ -180,15 +270,6 @@
       "feed": "Colts.com",
       "published": "2026-05-18T18:00:33+0000",
       "summary": "The WCI has been working with the Colts for years, but 2025 was the first time it applied for the Action Grant."
-    },
-    {
-      "id": "840f75764ef77a6f",
-      "title": "Colts announce roster moves at running back",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/24480856/colts-announce-roster-moves-at-running-back",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-18T14:31:50+0000",
-      "summary": "The Indianapolis Colts announced that the team waived Abilene Christian undrafted rookie free agent running back Jordon Vaughn and signed Duke fellow undrafted free agent rookie running back Anderson Castle in a corresponding roster move. Vaughn was originally announced as one of the 12 signed undrafted free agents by the Colts following the recent 2026 [&#8230;]"
     },
     {
       "id": "509b15c41eda30ad",
@@ -207,24 +288,6 @@
       "feed": "CBS4Indy",
       "published": "2026-05-17T17:07:50+0000",
       "summary": "INDIANAPOLIS – Anthony Richardson Sr. views the Indianapolis Colts’ offseason workout program for what it is. An opportunity. After requesting a trade in late February that never materialized, Richardson has immersed himself in the team’s offseason work. He spent the first two weeks of the voluntary regimen working out in Jacksonville, Fla. “The Colts are [...]"
-    },
-    {
-      "id": "33f0beb823a6dde7",
-      "title": "The one Colts position battle no one is talking about",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124381/the-one-colts-position-battle-no-one-is-talking-about",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-17T12:00:00+0000",
-      "summary": "The Colts have a real kicker battle on their hands, and it’s a unique one. That is not something you always say about kicking competitions. Most of the time, it’s one veteran holding off a camp leg, but this one feels different because both Spencer Shrader and Blake Grupe give the Colts real reasons to [&#8230;]"
-    },
-    {
-      "id": "6d701d506c675bff",
-      "title": "The Colts, Simpsons schedule release was a thing of beauty",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/124443/the-colts-simpsons-schedule-release-was-a-thing-of-beauty",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-05-15T13:17:00+0000",
-      "summary": "Two of my favorite things came together to release the 2026 NFL schedule for the Indianapolis Colts. These releases have become more elaborate over the years as the teams in charge of these releases have to feel pressure to not only top last year’s version but to compete against the entire league. I don’t know [&#8230;]"
     },
     {
       "id": "26af4f1d2f747014",
@@ -477,69 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-05-07T18:10:05+0000",
       "summary": "INDIANAPOLIS – Kenny Moore II’s career will resume elsewhere. One of the longest-tenured and most respected Indianapolis Colts was released on Thursday. Moore and general manager Chris Ballard recently met and decided the best path forward was a trade. When that failed to materialize, the decision was made to release Moore and allow him to [...]"
-    },
-    {
-      "id": "422037540ed93c84",
-      "title": "Colts release CB Kenny Moore II, S Nasir Adderley; waive LB John Bullock",
-      "link": "https://colts.com/news/colts-release-cb-kenny-moore-ii-s-nasir-adderley-waive-lb-john-bullock",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-07T18:06:11+0000",
-      "summary": "Moore, who spent the last nine seasons with the Colts, requested a trade in April."
-    },
-    {
-      "id": "39ee923b8c0202ab",
-      "title": "WR Josh Downs hopes for new opportunities in 2026",
-      "link": "https://colts.com/news/josh-downs-michael-pittman-wide-receiver",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-07T13:53:34+0000",
-      "summary": "With Michael Pittman Jr. no longer on the team due to a trade, the outside receiver spot is open."
-    },
-    {
-      "id": "8a4e6f88f9162a1d",
-      "title": "How O-line coach Tony Sparano Jr. has become a team-building weapon for Colts",
-      "link": "https://colts.com/news/tony-sparano-jr-draft-picks-offensive-line-third-fourth-round-roster-construction-jalen-travis-tanor-bortolini-jalen-farmer-matt-goncalves",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-07T01:04:34+0000",
-      "summary": "The Colts are one of two NFL teams to have a completely home-grown starting offensive line, and all but one of those starters for Tony Sparano Jr.'s group was a top-75 draft pick."
-    },
-    {
-      "id": "52f80ef7a3e8ee91",
-      "title": "Big brother Josh Downs rode the emotional wave (and wore the Dallas hat) after Cowboys drafted Caleb",
-      "link": "https://fox59.com/sports/colts/big-brother-josh-downs-rode-the-emotional-wave-and-wore-the-dallas-hat-after-cowboys-drafted-caleb/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-05-06T23:04:09+0000",
-      "summary": "INDIANAPOLIS – For a few emotional hours, Josh Downs’ loyalties were family-driven. As the Indianapolis Colts’ veteran receiver, family and friends celebrated younger brother Caleb being drafted No. 11 overall by Dallas in the April 23 NFL draft, Josh Downs pulled on a Cowboys hat. “I was wearing that hat all night,’’ he said Wednesday [...]"
-    },
-    {
-      "id": "3a738ff70bf3b4ea",
-      "title": "Anthony Richardson Sr. joins Colts’ voluntary workouts",
-      "link": "https://fox59.com/sports/colts/anthony-richardson-sr-joins-colts-voluntary-work/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-05-04T16:54:00+0000",
-      "summary": "INDIANAPOLIS – Anthony Richardson Sr. has taken the latest step. The former quarterback of the future for the Indianapolis Colts has joined the team’s voluntary offseason workouts, according to a source. ESPN first reported the news. Richardson, the No. 4 overall pick in the 2023 draft, skipped the first two weeks and opted to work [...]"
-    },
-    {
-      "id": "bed0b6f060500c31",
-      "title": "From Center Grove to Columbus, Caden Curry's high school coach knows he's ready",
-      "link": "https://colts.com/news/center-grove-caden-curry-eric-moore",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-01T19:00:38+0000",
-      "summary": "Eric Moore, head football coach at Center Grove High School, spoke to Matt Taylor about coaching the Colts' sixth-round pick at CGHS."
-    },
-    {
-      "id": "ef2e9818b950551b",
-      "title": "Rookie paydays slotted for Colts’ draft picks",
-      "link": "https://fox59.com/sports/colts/rookie-paydays-slotted-for-colts-draft-picks/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-05-01T17:16:40+0000",
-      "summary": "INDIANAPOLIS – The signings are trickling in, which soon will be replaced by a deluge. The days of protracted negotiations with draft picks are a distant memory. Using recent history as a blueprint, the Indianapolis Colts will have most, if not all, of their 2026 draft class under contract in the next week or two. [...]"
     }
   ],
   "links": [
