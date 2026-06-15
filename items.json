@@ -1,41 +1,14 @@
 {
-  "updated": "2026-06-15T21:30:55+00:00",
+  "updated": "2026-06-15T23:43:40+00:00",
   "items": [
     {
-      "id": "291b2d7e152758aa",
-      "title": "Bengals confirm their interest in hosting the NFL draft",
-      "link": "https://sports.yahoo.com/articles/bengals-confirm-interest-hosting-nfl-211746656.html",
+      "id": "53731ecbe34382b1",
+      "title": "NFL world reacts to James Pearce attending Falcons minicamp",
+      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-james-pearce-233651714.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-06-15T21:17:46+0000",
-      "summary": "The Cincinnati Enquirer recently reported that the team and the Cincinnati Regional Sports Commission were engaged in talks with the NFL about the 2029 draft."
-    },
-    {
-      "id": "6945b7f4e56f10b6",
-      "title": "Former defensive lineman Aldon Smith dies at 36",
-      "link": "https://espn.com/nfl/story/_/id/49054479/former-nfl-defensive-lineman-aldon-smith-dies-age-36",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-15T19:27:23+0000",
-      "summary": "Aldon Smith, who played six seasons in the NFL with the 49ers, Raiders and Cowboys, has died at age 36."
-    },
-    {
-      "id": "9c9309007f16544c",
-      "title": "NFL closes personal conduct review of WR Diggs",
-      "link": "https://espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-15T19:27:23+0000",
-      "summary": "The NFL has closed its review of wide receiver Stefon Diggs after determining there was insufficient evidence of a personal conduct policy violation, a league official told ESPN's Adam Schefter."
-    },
-    {
-      "id": "f2200a45942cdc26",
-      "title": "Sources: No NFL discipline for Chiefs coach Merrit...",
-      "link": "https://espn.com/nfl/story/_/id/49039791/sources-no-league-discipline-chiefs-dbs-coach-merritt",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-15T19:27:23+0000",
-      "summary": "The NFL has concluded its investigation of Kansas City Chiefs defensive backs coach Dave Merritt and found insufficient evidence of a violation of the personal conduct policy, sources told NFL Network's Mike Garafolo."
+      "published": "2026-06-15T23:36:51+0000",
+      "summary": "Falcons EDGE James Pearce to participate at minicamp: NFL fans react"
     },
     {
       "id": "b4118a04ec75c5ba",
@@ -65,60 +38,6 @@
       "summary": "The Colts spent this offseason implementing the Seahawks method of roster construction. Retaining one side of the ball, while making wholesale changes on the other in order to get younger and to fit the scheme of the new coordinator. However, there are still holes on this roster. Not 2024 secondary sized holes, but significant holes [&#8230;]"
     },
     {
-      "id": "4ebd885cfe375259",
-      "title": "From QB battles to rookie progress, here's everyth...",
-      "link": "https://espn.com/nfl/story/_/id/48988004/2026-nfl-minicamps-otas-teams-rookies-qbs-veterans-watching",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-15T12:27:31+0000",
-      "summary": "NFL Nation reporters frame minicamp storylines, including those surrounding George Pickens, Bo Nix and the QBs in Atlanta."
-    },
-    {
-      "id": "d3d4c56eb0458a17",
-      "title": "NFL minicamp daily updates: Caleb Williams having ...",
-      "link": "https://espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-15T12:27:31+0000",
-      "summary": "ESPN's NFL Nation shares news and insights from every practice."
-    },
-    {
-      "id": "b84d21f11bb9be58",
-      "title": "Tracking postdraft NFL trades: Wanya Morris to the...",
-      "link": "https://espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-14T00:20:39+0000",
-      "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Wanya Morris to the Falcons."
-    },
-    {
-      "id": "4b61784094e627d2",
-      "title": "Cap casualties to trade fireworks: Inside the NFL'...",
-      "link": "https://espn.com/nfl/story/_/id/48976999/how-june-1-2026-blockbuster-trade-day-nfl-myles-garrett-aj-brown-jared-verse",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-14T00:20:39+0000",
-      "summary": "More than 15 coaches, players and execs shed light on the back-to-back trades that happened on a key June day."
-    },
-    {
-      "id": "1d5c45477b2ce99e",
-      "title": "Can the U.S. win it all? NFL players make World Cu...",
-      "link": "https://espn.com/nfl/story/_/id/49009790/nfl-players-world-cup-golden-boot-predictions-france-kylian-mbappe",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-13T21:59:33+0000",
-      "summary": "We asked 29 NFL players to weigh in on who would win the Golden Boot and World Cup."
-    },
-    {
-      "id": "043ae7fa1b857eff",
-      "title": "World Cup only amplifies NFL players' desire for a...",
-      "link": "https://espn.com/nfl/story/_/id/49030490/fifa-world-cup-grass-nfl-stadiums-debate-field-surface",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-13T21:59:32+0000",
-      "summary": "The World Cup is the latest proof of concept that it's possible to have grass fields in all 30 NFL stadiums, even the domes. But obstacles remain from keeping it full time."
-    },
-    {
       "id": "20fb93d5899f178f",
       "title": "Alec Pierce’s absence should make the Colts fidget in their seats",
       "link": "https://stampedeblue.com/indianapolis-colts-analysis/24480858/alec-pierces-absence-should-make-the-colts-fidget-in-their-seats",
@@ -135,15 +54,6 @@
       "feed": "CBS4Indy",
       "published": "2026-06-12T19:17:26+0000",
       "summary": "INDIANAPOLIS – Eight weeks of concentrated offseason work didn’t reveal issues for the Indianapolis Colts. It reinforced them. The team began its offseason regimen April 20 and wrapped things up Thursday with several pressing topics heading into a consequential 2026 season. No new areas surfaced, but there’s no denying the Colts will head to Grand [...]"
-    },
-    {
-      "id": "181c1c3662179385",
-      "title": "Way-too-early NFL draft rankings for 2027: The top...",
-      "link": "https://espn.com/nfl/draft2027/story/_/id/49001685/nfl-draft-2027-top-five-every-position-players-watch",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-12T18:49:29+0000",
-      "summary": "The NFL draft is a long way off, but Matt Miller and Jordan Reid ranked the five best prospects at every position. How do the top QBs, OTs, CBs and more stack up?"
     },
     {
       "id": "a2406f642616c1de",
@@ -540,6 +450,96 @@
       "feed": "Colts.com",
       "published": "2026-05-20T19:04:20+0000",
       "summary": "Ward spoke to the media on Wednesday and detailed the mental challenges he went through during the 2025 season, which went beyond the the three times he was placed in concussion protocol."
+    },
+    {
+      "id": "a45448cefedc5b92",
+      "title": "Colts open auditions for 'The Herd' drumline for 2026",
+      "link": "https://colts.com/news/colts-open-auditions-for-the-herd-drumline-for-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-20T14:00:00+0000",
+      "summary": "The drumline announced the deadline for applications, as well as the deadlines and dates for the audition rounds."
+    },
+    {
+      "id": "e631bebc4bf14138",
+      "title": "Indianapolis Animal Care Services opens new welfare center nearly one year after Jim Irsay's passing",
+      "link": "https://colts.com/news/indianapolis-animal-care-services-jim-and-drake-irsay",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-19T20:00:06+0000",
+      "summary": "The event was held Wednesday, with Colts Owner & Executive Vice President Casey Foyt and Colts Owner & Chief Brand Officer Kalen Jackson in attendance."
+    },
+    {
+      "id": "5a588b14b060a935",
+      "title": "DeForest Buckner: After neck surgery, Colts’ defensive cornerstone eyeing 2026",
+      "link": "https://fox59.com/sports/colts/deforest-buckner-after-neck-surgery-colts-defensive-cornerstone-eyeing-2026/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-05-19T17:36:06+0000",
+      "summary": "INDIANAPOLIS – The massive renovation could have been more massive. Instead of replacing five starters from last season’s defense, the Indianapolis Colts could have faced the prospect of being without a sixth and, arguably, their most indispensable defensive player. There were anxious moments when DeForest Buckner wasn’t certain whether his future included an 11th year in [...]"
+    },
+    {
+      "id": "a279491ab9352e35",
+      "title": "Start time for August 29 Detroit preseason game moved to 1 p.m.",
+      "link": "https://colts.com/news/indianapolis-colts-preseason-schedule-2026-tickets-detroit-lions-nfl-date-change-update",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-19T17:00:01+0000",
+      "summary": "The start time of the Indianapolis Colts’ Aug. 29 preseason matchup vs. the Detroit Lions has been moved to 1 p.m. ET.  The original start time was 3 p.m. The game will be broadcast locally on CBS4."
+    },
+    {
+      "id": "2ca1852586a9ab5d",
+      "title": "How the Wellness Council of Indiana is using its first KTS Action Grant",
+      "link": "https://colts.com/news/wellness-council-indiana-kicking-the-stigma-action-grant",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-18T18:00:33+0000",
+      "summary": "The WCI has been working with the Colts for years, but 2025 was the first time it applied for the Action Grant."
+    },
+    {
+      "id": "509b15c41eda30ad",
+      "title": "Colts sign RB Anderson Castle, waive RB Jordon Vaughn",
+      "link": "https://colts.com/news/colts-sign-rb-anderson-castle-waive-rb-jordon-vaughn",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-18T13:31:15+0000",
+      "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "ed9e24eebf627fd9",
+      "title": "Anthony Richardson Sr.: Colts giving chance ’to potentially get on the field'",
+      "link": "https://fox59.com/sports/colts/anthony-richardson-sr-colts-giving-chance-to-potentially-get-on-the-field/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-05-17T17:07:50+0000",
+      "summary": "INDIANAPOLIS – Anthony Richardson Sr. views the Indianapolis Colts’ offseason workout program for what it is. An opportunity. After requesting a trade in late February that never materialized, Richardson has immersed himself in the team’s offseason work. He spent the first two weeks of the voluntary regimen working out in Jacksonville, Fla. “The Colts are [...]"
+    },
+    {
+      "id": "a1d40c8720e3f93c",
+      "title": "5 Colts Things: Why no post-London bye isn't a surprise, plus other fun facts and analysis of Colts' 2026 regular season schedule",
+      "link": "https://colts.com/news/why-no-bye-week-after-london-game-commanders-tottenham-2026-nfl-schedule-release",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-15T00:00:13+0000",
+      "summary": "The Colts unveiled their 2026 regular season schedule on Thursday night, which opens with the Baltimore Ravens and closes with the Jacksonville Jaguars at Lucas Oil Stadium."
+    },
+    {
+      "id": "82fa1d633dd0f3e4",
+      "title": "Colts release 2026 regular season schedule",
+      "link": "https://colts.com/news/colts-release-2026-regular-season-schedule",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-15T00:00:00+0000",
+      "summary": "The Colts will open the 2026 regular season at Lucas Oil Stadium against the Baltimore Ravens on Sunday, Sept. 13."
+    },
+    {
+      "id": "8bf25bcce672746e",
+      "title": "Colts announce 2026 preseason opponents",
+      "link": "https://colts.com/news/2026-preseason-games-opponents-new-england-patriots-atlanta-falcons-detroit-lions",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-14T23:30:18+0000",
+      "summary": "The Colts will host two preseason games at Lucas Oil Stadium in August."
     }
   ],
   "links": [
