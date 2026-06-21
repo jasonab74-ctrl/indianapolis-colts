@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-21T04:06:06+00:00",
+  "updated": "2026-06-21T08:45:11+00:00",
   "items": [
+    {
+      "id": "bb10e4cead6d3929",
+      "title": "ESPN forced to turn to NFL for World Cup after 'downsizing' decision",
+      "link": "https://sports.yahoo.com/articles/espn-forced-turn-nfl-world-080113945.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-06-21T08:01:13+0000",
+      "summary": "ESPN is using the NFL Network studios for their 2026 World Cup coverage after acquiring the network in a $3 billion deal, following the broadcaster's 'downsizing' of its Los Angeles operations"
+    },
     {
       "id": "1fa1aca0dfa86ebc",
       "title": "Titans, DT Simmons agree to $105M+ extension",
@@ -54,6 +63,15 @@
       "feed": "ESPN",
       "published": "2026-06-20T22:20:58+0000",
       "summary": "What are Sorsby's strengths and weaknesses? Which NFL teams should try to land him in the supplemental draft? Let's sort out what he could bring to a pro QB room."
+    },
+    {
+      "id": "74f8ad165cf98e28",
+      "title": "Are you siding with CBS’ best-case or worst-case scenario for the Colts?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/125124/are-you-siding-with-cbs-best-case-or-worst-case-scenario-for-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-06-20T13:56:35+0000",
+      "summary": "There are so many ways the upcoming season could go for the Indianapolis Colts. We saw a tale of two halves last year, so it is anyone’s guess how this one may turn out. We still have some time before things ramp up, so until then, we are stuck in the slow offseason. That means [&#8230;]"
     },
     {
       "id": "150b4179cefd3f7e",
@@ -234,15 +252,6 @@
       "feed": "Stampede Blue",
       "published": "2026-06-15T13:43:20+0000",
       "summary": "The Colts spent this offseason implementing the Seahawks method of roster construction. Retaining one side of the ball, while making wholesale changes on the other in order to get younger and to fit the scheme of the new coordinator. However, there are still holes on this roster. Not 2024 secondary sized holes, but significant holes [&#8230;]"
-    },
-    {
-      "id": "20fb93d5899f178f",
-      "title": "Alec Pierce’s absence should make the Colts fidget in their seats",
-      "link": "https://stampedeblue.com/indianapolis-colts-analysis/24480858/alec-pierces-absence-should-make-the-colts-fidget-in-their-seats",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-06-13T17:34:11+0000",
-      "summary": "Before the ink was dry on a brand new $114 million deal, Alec Pierce found himself undergoing ankle surgery which carried a 4-6 month timetable. This isn’t to imply that anything was calculated or malicious, but that was some bad timing because that’s a lot of time on the shelf. The hope was to avoid [&#8230;]"
     },
     {
       "id": "c9db826e20f5534b",
@@ -504,15 +513,6 @@
       "feed": "Colts.com",
       "published": "2026-05-26T14:00:12+0000",
       "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
-    },
-    {
-      "id": "7d9d715f152b88d6",
-      "title": "Just like that, Reggie Wayne in 5th season overseeing Colts’ receivers",
-      "link": "https://fox59.com/sports/colts/just-like-that-reggie-wayne-in-5th-season-overseeing-colts-receivers/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-05-22T20:42:22+0000",
-      "summary": "INDIANAPOLIS – Reggie Wayne had to be talked into transitioning from South Florida retiree with time to smoke all the cigars he could handle to an assistant coach with receivers to develop. Frank Reich and Chris Ballard finally convinced the Indianapolis Colts icon to take the leap in 2022. It came after several failed attempts [...]"
     },
     {
       "id": "feaa80eeb84dc7e7",
