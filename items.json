@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T23:17:41+00:00",
+  "updated": "2026-06-23T01:29:38+00:00",
   "items": [
     {
       "id": "1fa1aca0dfa86ebc",
@@ -45,15 +45,6 @@
       "feed": "ESPN",
       "published": "2026-06-23T00:00:26+0000",
       "summary": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp."
-    },
-    {
-      "id": "d25a35559c9d71ad",
-      "title": "NFC Sleepers No More: These breakout candidates are about to become NFL stars after having monster 2026 seasons",
-      "link": "https://sports.yahoo.com/articles/nfc-sleepers-no-more-breakout-225013528.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-06-22T22:50:13+0000",
-      "summary": "Who are the next breakout NFL stars going into the 2026 season? Several NFC players could take a massive leap heading into next year."
     },
     {
       "id": "9b469e3936e8ae8b",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-05-22T13:00:11+0000",
       "summary": "Farmer was the Colts' fourth-round pick in the 2026 draft."
+    },
+    {
+      "id": "08192f49a83c3de5",
+      "title": "Colts' OL Matt Goncalves feeling comfortable, prepared with experience at guard and offseason work with Olin Kreutz",
+      "link": "https://colts.com/news/colts-ol-matt-goncalves-feeling-comfortable-prepared-with-experience-at-guard-and-offseason-work-with-olin-kreutz",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-21T17:47:21+0000",
+      "summary": "Goncalves had never played guard before starting all 17 games at right guard for the Colts in 2025."
     }
   ],
   "links": [
