@@ -1,6 +1,51 @@
 {
-  "updated": "2026-06-24T05:35:49+00:00",
+  "updated": "2026-06-24T09:26:30+00:00",
   "items": [
+    {
+      "id": "8dbc40069ece6d7b",
+      "title": "5 NFL teams that made sneaky-good moves to close gaps this offseason",
+      "link": "https://sports.yahoo.com/articles/5-nfl-teams-made-sneaky-091130057.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-06-24T09:11:30+0000",
+      "summary": "With NFL training camps opening in July, the offseason is winding down. USA TODAY's Tyler Dragon names six NFL franchises that had a good offseason."
+    },
+    {
+      "id": "0d250e57aabb2761",
+      "title": "NFL tells Brendan Sorsby hard truths he needs to hear: He's not special | Opinion",
+      "link": "https://sports.yahoo.com/articles/nfl-tells-brendan-sorsby-hard-090816692.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-06-24T09:08:16+0000",
+      "summary": "Texas Tech tried to make you see Brendan Sorsby as a victim. The Big 12 didn’t buy it. The NFL didn’t buy it, either."
+    },
+    {
+      "id": "79aebf829b9e5d22",
+      "title": "Patriots scouting report: Mike Brown could be more than a special teamer",
+      "link": "https://sports.yahoo.com/articles/patriots-scouting-report-mike-brown-090211840.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-06-24T09:02:11+0000",
+      "summary": "Previewing the Patriots safety heading into his fifth NFL season."
+    },
+    {
+      "id": "11fc07543f674176",
+      "title": "Colts announce 2026 training camp schedule for Grand Park&#8217;s farewell",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/125166/colts-announce-2026-training-camp-schedule-for-grand-parks-farewell",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-06-23T19:09:47+0000",
+      "summary": "On Tuesday, the Indianapolis Colts announced the official schedule for their 2026 team training camp, which will be the last one held at Grand Park in Westfield, Indiana, for the eighth and final time: As the league announced yesterday, the Colts&#8217; rookies will report on Monday, July 27th, while veterans will report a day later [&#8230;]"
+    },
+    {
+      "id": "d4bd968bab49925b",
+      "title": "Could a slow start finally spell the end of Chris Ballard’s time with the Colts?",
+      "link": "https://stampedeblue.com/indianapolis-colts-analysis/125157/could-a-slow-start-finally-spell-the-end-of-chris-ballards-time-with-the-colts",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-06-23T17:07:04+0000",
+      "summary": "If patience is a virtue, then the Indianapolis Colts are the most virtuous team in the entire NFL. Their cup runneth over and that hasn&#8217;t shifted even with the change in ownership. It’s clear to see the Colts prefer continuity, which is fine if the results are present to support it. That hasn’t been the [&#8230;]"
+    },
     {
       "id": "c0f070a6af9a5d2d",
       "title": "2026 Colts Training Camp schedule and themes released",
@@ -137,15 +182,6 @@
       "summary": "Sauce Gardner is great. He is one of the best cornerbacks in the league. Whether he is the best is up for debate. So too is the decision to trade two first-round picks for him. Those are the conversations that make the world of sports move. What isn’t up for debate is his ability on [&#8230;]"
     },
     {
-      "id": "ee25c9cbb10518b3",
-      "title": "Colts What If: What if Mike Vanderjagt made the kick against the Steelers?",
-      "link": "https://stampedeblue.com/indianapolis-colts-history/125082/colts-what-if-what-if-mike-vanderjagt-made-the-kick-against-the-steelers",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-06-18T12:00:00+0000",
-      "summary": "Part 1: What If the Colts Drafted Ryan Leaf Over Peyton Manning? This six-part Colts What If series looks back at some of the biggest turning points in franchise history, from the Peyton Manning draft decision to playoff heartbreak, quarterback pivots and coaching chaos, while revisiting what happened, what could have changed, and how different [&#8230;]"
-    },
-    {
       "id": "0b160e4afafd4f03",
       "title": "Colts launch 2026 Home Opener Sweepstakes",
       "link": "https://colts.com/news/indianapolis-colts-2026-home-opener-tickets-sweepstakes-baltimore-ravens-vip-experience-free-parking-pass-gameday-giveaway",
@@ -189,15 +225,6 @@
       "feed": "Colts.com",
       "published": "2026-06-16T18:25:45+0000",
       "summary": "Created in 2006, this is Blue's fifth time winning the award and second year in a row taking it home."
-    },
-    {
-      "id": "dbd1ad7d242a624f",
-      "title": "Colts What If: What if the Colts drafted Ryan Leaf over Peyton Manning?",
-      "link": "https://stampedeblue.com/indianapolis-colts-history/125077/colts-what-if-what-if-the-colts-drafted-ryan-leaf-over-peyton-manning",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-06-16T12:00:00+0000",
-      "summary": "This six-part Colts What If series looks back at some of the biggest turning points in franchise history, from the Peyton Manning draft decision to playoff heartbreak, quarterback pivots and coaching chaos, while revisiting what happened, what could have changed, and how different the Colts might look if one major moment had gone the other [&#8230;]"
     },
     {
       "id": "ea155c535872e74d",
@@ -513,33 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-05-20T19:04:20+0000",
       "summary": "Ward spoke to the media on Wednesday and detailed the mental challenges he went through during the 2025 season, which went beyond the the three times he was placed in concussion protocol."
-    },
-    {
-      "id": "a45448cefedc5b92",
-      "title": "Colts open auditions for 'The Herd' drumline for 2026",
-      "link": "https://colts.com/news/colts-open-auditions-for-the-herd-drumline-for-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-20T14:00:00+0000",
-      "summary": "The drumline announced the deadline for applications, as well as the deadlines and dates for the audition rounds."
-    },
-    {
-      "id": "e631bebc4bf14138",
-      "title": "Indianapolis Animal Care Services opens new welfare center nearly one year after Jim Irsay's passing",
-      "link": "https://colts.com/news/indianapolis-animal-care-services-jim-and-drake-irsay",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-19T20:00:06+0000",
-      "summary": "The event was held Wednesday, with Colts Owner & Executive Vice President Casey Foyt and Colts Owner & Chief Brand Officer Kalen Jackson in attendance."
-    },
-    {
-      "id": "a279491ab9352e35",
-      "title": "Start time for August 29 Detroit preseason game moved to 1 p.m.",
-      "link": "https://colts.com/news/indianapolis-colts-preseason-schedule-2026-tickets-detroit-lions-nfl-date-change-update",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-19T17:00:01+0000",
-      "summary": "The start time of the Indianapolis Colts’ Aug. 29 preseason matchup vs. the Detroit Lions has been moved to 1 p.m. ET.  The original start time was 3 p.m. The game will be broadcast locally on CBS4."
     }
   ],
   "links": [
