@@ -1,23 +1,41 @@
 {
-  "updated": "2026-06-24T19:11:46+00:00",
+  "updated": "2026-06-24T21:09:11+00:00",
   "items": [
     {
-      "id": "03bc22b1999b0657",
-      "title": "Joey Bosa’s NFL career might be over after 10 seasons",
-      "link": "https://sports.yahoo.com/articles/joey-bosa-nfl-career-might-190339431.html",
+      "id": "8c1164a229c86d26",
+      "title": "New York Times calls Dianna Russini enlisting a coach to get out of a ticket &quot;unacceptable conduct&quot;",
+      "link": "https://sports.yahoo.com/articles/york-times-calls-dianna-russini-204833182.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-06-24T19:03:39+0000",
-      "summary": "ESPN's Adam Schefter revealed that Joey Bosa is more likely to retire than play in 2026."
+      "published": "2026-06-24T20:48:33+0000",
+      "summary": "Some of the things that The Athletic will learn when investigating its former NFL insider, Dianna Russini, will require work."
     },
     {
-      "id": "7af088f82931fd04",
-      "title": "NFL edge Braiden McGregor passionate about 'giving back' to Port Huron",
-      "link": "https://sports.yahoo.com/articles/nfl-edge-braiden-mcgregor-passionate-185232340.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-06-24T18:52:32+0000",
-      "summary": "Entering his third season with the Jets, Braiden McGregor has adjusted to life in the NFL. Now, he's giving back to the city that raised him."
+      "id": "1fa1aca0dfa86ebc",
+      "title": "Titans, DT Simmons agree to $105M+ extension",
+      "link": "https://espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-06-24T20:09:43+0000",
+      "summary": "The Titans and defensive tackle Jeffery Simmons have agreed to a three-year, $105.8M extension, his agents told ESPN's Adam Schefter and NFL Network's Ian Rapoport and Mike Garafolo."
+    },
+    {
+      "id": "aca42285a094693b",
+      "title": "Jaguars, TE Strange agree to 3-year extension",
+      "link": "https://espn.com/nfl/story/_/id/49167201/jaguars-brenton-strange-agree-3-year-deal-worth-48m",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-06-24T20:09:42+0000",
+      "summary": "The Jaguars and tight end Brenton Strange have agreed to terms on a three-year extension worth up to $48 million and including $25 million guaranteed, agents Jim Ivler, JR Roggio and Jon Perzley told NFL Network's Mike Garafolo and Tom Pelissero."
+    },
+    {
+      "id": "a07d4da59f74ba5a",
+      "title": "NFL nixes 2026 supplemental draft; Sorsby stuck",
+      "link": "https://espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-06-24T20:09:42+0000",
+      "summary": "The NFL has decided not to hold a supplemental draft this year, effectively halting Texas Tech quarterback Brendan Sorsby's path to the league this season."
     },
     {
       "id": "08d78fa00abc4978",
@@ -45,33 +63,6 @@
       "feed": "Colts.com",
       "published": "2026-06-24T13:00:28+0000",
       "summary": "The Colts' second-round pick was honored throughout the day Friday in his hometown."
-    },
-    {
-      "id": "a07d4da59f74ba5a",
-      "title": "NFL nixes 2026 supplemental draft; Sorsby stuck",
-      "link": "https://espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-24T12:17:43+0000",
-      "summary": "The NFL has decided not to hold a supplemental draft this year, effectively halting Texas Tech quarterback Brendan Sorsby's path to the league this season."
-    },
-    {
-      "id": "1fa1aca0dfa86ebc",
-      "title": "Titans, DT Simmons agree to $105M+ extension",
-      "link": "https://espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-24T12:17:43+0000",
-      "summary": "The Titans and defensive tackle Jeffery Simmons have agreed to a three-year, $105.8M extension, his agents told ESPN's Adam Schefter and NFL Network's Ian Rapoport and Mike Garafolo."
-    },
-    {
-      "id": "79d1093dcaa09555",
-      "title": "Fresher than listed: Sauce says he's 24, not 25",
-      "link": "https://espn.com/nfl/story/_/id/49112158/colts-sauce-gardner-says-24-not-25-listed-widely",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-06-24T12:17:43+0000",
-      "summary": "Colts cornerback Sauce Gardner says he is 24 years old, not 25 as he is listed in many corners of the internet."
     },
     {
       "id": "9561bad0cf12173e",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-05-27T20:02:07+0000",
       "summary": "Jones took individual snaps Wednesday, while Richardson and Leonard split team reps."
+    },
+    {
+      "id": "91d4d80b51262e70",
+      "title": "Colts’ coach Tony Sparano Jr. confident in course of O-line with Jalen Farmer, Jalen Travis, Matt Goncalves",
+      "link": "https://fox59.com/sports/colts/colts-coach-tony-sparano-jr-confident-in-course-of-o-line-with-jalen-farmer-jalen-travis-matt-goncalves/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-05-26T21:18:30+0000",
+      "summary": "INDIANAPOLIS – Jalen Farmer has found a new home. Two, in fact. Primarily, the former Kentucky standout found himself searching for a residence in Indianapolis after the Colts selected him in the fourth round of the April NFL draft. “I don’t know what the opportunity is,’’ Farmer said recently. “All I know is I’m here [...]"
     }
   ],
   "links": [
