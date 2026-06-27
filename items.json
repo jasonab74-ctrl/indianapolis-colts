@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-27T21:01:34+00:00",
+  "updated": "2026-06-27T22:35:11+00:00",
   "items": [
+    {
+      "id": "4835c63012ebcffe",
+      "title": "‘He is not a fit’: Bills make major O.J. Simpson decision",
+      "link": "https://sports.yahoo.com/articles/not-fit-bills-major-o-221512308.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-06-27T22:15:12+0000",
+      "summary": "The Buffalo Bills will move into Highmark Stadium for the 2026 NFL season, and the organization announced that Pro Football Hall of Fame running back O.J. Simpson will not be part of their Wall of Fame at the brand-new stadium. “We have made an organizational decision that he is not a fit to display inside…"
+    },
     {
       "id": "48024dd730c85bb4",
       "title": "Excessive force alleged in death of ex-RB Martin",
@@ -29,22 +38,13 @@
       "summary": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp."
     },
     {
-      "id": "4909b84e4e249285",
-      "title": "NFL analyst tabs Steelers’ Mike McCarthy as NFL Coach of the Year candidate",
-      "link": "https://sports.yahoo.com/articles/nfl-analyst-tabs-steelers-mike-204900905.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-06-27T20:49:00+0000",
-      "summary": "Mike McCarthy tabbed as Coach of the Year candidate by NFL analyst."
-    },
-    {
-      "id": "a65eda888190985c",
-      "title": "Panthers WR Earns More Recognition With Preseason Ranking",
-      "link": "https://sports.yahoo.com/articles/panthers-wr-earns-more-recognition-203002199.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-06-27T20:30:02+0000",
-      "summary": "A Carolina Panthers wide receiver is earning some praise by making a preseason All-NFL team ahead of the 2026 campaign."
+      "id": "cff8b4ddd785c21d",
+      "title": "Colts What If: What if Hank Baskett recovered the onside kick?",
+      "link": "https://stampedeblue.com/indianapolis-colts-history/125188/colts-what-if-what-if-hank-baskett-recovered-the-onside-kick",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-06-27T12:00:00+0000",
+      "summary": "This six-part Colts What If series looks back at some of the biggest turning points in franchise history, from the Peyton Manning draft decision to playoff heartbreak, quarterback pivots and coaching chaos, while revisiting what happened, what could have changed, and how different the Colts might look if one major moment had gone the other [&#8230;]"
     },
     {
       "id": "c8aefa52a62d934f",
@@ -207,15 +207,6 @@
       "feed": "CBS4Indy",
       "published": "2026-06-23T15:00:00+0000",
       "summary": "WESTFIELD, Ind. – The Indianapolis Colts will hold their first training camp practice at Grand Park Sports Campus on July 29. It’s one of 13 practices open to the public. Learn more here. Training camp will run from July 29 through Aug. 20. Many of the practices start at 10 a.m., although there are also [...]"
-    },
-    {
-      "id": "9b469e3936e8ae8b",
-      "title": "Report dates of Colts training camp and joint training camp practices announced",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/125152/report-dates-of-colts-training-camp-and-joint-training-camp-practices-announced",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-06-22T22:04:31+0000",
-      "summary": "On Monday, the NFL announced the training camp report dates of all the league&#8217;s thirty-two teams and among them, was the Indianapolis Colts. Specifically, per NFL Network&#8217;s Tom Pelissero, the Colts will have rookies report on Monday, July 27th, while veterans will report a day later on Tuesday, July 28th. Meanwhile, the Colts will kickoff [&#8230;]"
     },
     {
       "id": "464960eca34a65a7",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-05-26T14:00:12+0000",
       "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
+    },
+    {
+      "id": "feaa80eeb84dc7e7",
+      "title": "Why OL coach Tony Sparano Jr. is convicted in G Jalen Farmer",
+      "link": "https://colts.com/news/tony-sparano-jr-jalen-farmer",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-22T13:00:11+0000",
+      "summary": "Farmer was the Colts' fourth-round pick in the 2026 draft."
     }
   ],
   "links": [
