@@ -1,15 +1,6 @@
 {
-  "updated": "2026-07-05T14:58:23+00:00",
+  "updated": "2026-07-05T16:14:24+00:00",
   "items": [
-    {
-      "id": "44c3fbdae88ed16e",
-      "title": "Tee Higgins is the best wide receiver two in the NFL, in No. 1 best duo",
-      "link": "https://sports.yahoo.com/articles/tee-higgins-best-wide-receiver-144522365.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-05T14:45:22+0000",
-      "summary": "Tee Higgins has been a star since joining Clemson and is now a member of the NFL’s best wide receiver duo alongside arguably the NFL’s best receiver."
-    },
     {
       "id": "94f1e284001dd74a",
       "title": "Fireworks, fireflies, and Colts football",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-05-15T00:00:13+0000",
       "summary": "The Colts unveiled their 2026 regular season schedule on Thursday night, which opens with the Baltimore Ravens and closes with the Jacksonville Jaguars at Lucas Oil Stadium."
+    },
+    {
+      "id": "82fa1d633dd0f3e4",
+      "title": "Colts release 2026 regular season schedule",
+      "link": "https://colts.com/news/colts-release-2026-regular-season-schedule",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-15T00:00:00+0000",
+      "summary": "The Colts will open the 2026 regular season at Lucas Oil Stadium against the Baltimore Ravens on Sunday, Sept. 13."
     }
   ],
   "links": [
