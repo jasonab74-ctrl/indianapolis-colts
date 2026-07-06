@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T21:09:40+00:00",
+  "updated": "2026-07-06T22:45:17+00:00",
   "items": [
+    {
+      "id": "d5c7f5253847bd87",
+      "title": "ESPN just said the quiet part out loud regarding struggling position group on the Pittsburgh Steelers' 2026 roster",
+      "link": "https://sports.yahoo.com/articles/espn-just-said-quiet-part-221446579.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-06T22:14:46+0000",
+      "summary": "ESPN has ranked the top 32 NFL rosters ahead of the 2026 season, and while the Steelers are lower on the list than they want to be, their perceived &quot;biggest weakness&quot; could be a major problem this season."
+    },
     {
       "id": "1423e56926db7ab7",
       "title": "Former Titans scout Taylor found guilty of murder",
@@ -27,42 +36,6 @@
       "feed": "ESPN",
       "published": "2026-07-06T21:58:03+0000",
       "summary": "The NFL Players Association and Brendan Sorsby will not be pursuing litigation after the NFL's decision not to hold a supplemental draft this year, according to a memo sent to all 32 teams."
-    },
-    {
-      "id": "f946d3929a991851",
-      "title": "Former NFL star arrested for allegedly threatening to kill his wife",
-      "link": "https://sports.yahoo.com/articles/former-nfl-star-arrested-allegedly-155548207.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-06T21:00:24+0000",
-      "summary": "Former ESPN analyst and NFL star Marcellus Wiley was arrested in Florida this past weekend."
-    },
-    {
-      "id": "4b99e0563e825ba1",
-      "title": "Bengals don’t crack top 10 in ESPN’s NFL starting lineup rankings",
-      "link": "https://sports.yahoo.com/articles/bengals-don-t-crack-top-204635744.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-06T20:46:35+0000",
-      "summary": "Confidence isn’t that high."
-    },
-    {
-      "id": "89d3b61bee431fae",
-      "title": "Do the Seahawks have the best pass-catching unit in the NFL for 2026?",
-      "link": "https://sports.yahoo.com/articles/seahawks-best-pass-catching-unit-204520954.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-06T20:45:20+0000",
-      "summary": "The Seahawks’ wide receiver and tight end unit was ranked No. 7 in the NFL in Sharp Football Analysis’ rankings for the 2026 season."
-    },
-    {
-      "id": "efc5dd451e70457c",
-      "title": "Lions' D.J. Reed turned to 49ers star for offseason treatments advice",
-      "link": "https://sports.yahoo.com/articles/lions-d-j-reed-turned-204504807.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-06T20:45:04+0000",
-      "summary": "Lions cornerback D.J. Reed turned to one of the NFL's biggest stars for guidance on how to approach his hamstring treatment."
     },
     {
       "id": "da4c7a823bfe3b32",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-05-21T17:47:21+0000",
       "summary": "Goncalves had never played guard before starting all 17 games at right guard for the Colts in 2025."
+    },
+    {
+      "id": "790fbae1ce60233c",
+      "title": "Colts DL coach Marion Hobby excited about Caden Curry's versatility",
+      "link": "https://colts.com/news/marion-hobby-caden-curry-jaylahn-tuimoloau",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-21T16:12:27+0000",
+      "summary": "The defensive end, who was the Colts' sixth-round pick in 2026, moved around the line while at Ohio State."
+    },
+    {
+      "id": "48273d437876933d",
+      "title": "How CJ Allen is already impressing Colts LBs coach James Bettcher",
+      "link": "https://colts.com/news/james-bettcher-cj-allen",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-21T13:00:52+0000",
+      "summary": "Bettcher, who is in his second year as the Colts' linebackers coach, says Allen acclimated to the team well when we got into the facility."
+    },
+    {
+      "id": "323a646bb0abaa8e",
+      "title": "Colts CB Charvarius Ward Sr. returns for 2026 'in a much better space' after extremely challenging 2025",
+      "link": "https://colts.com/news/charvarius-ward-concussions-return-play-2026-cornerback-mental-health",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-20T19:04:20+0000",
+      "summary": "Ward spoke to the media on Wednesday and detailed the mental challenges he went through during the 2025 season, which went beyond the the three times he was placed in concussion protocol."
     }
   ],
   "links": [
