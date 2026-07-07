@@ -1,41 +1,77 @@
 {
-  "updated": "2026-07-07T11:23:50+00:00",
+  "updated": "2026-07-07T13:33:03+00:00",
   "items": [
     {
-      "id": "88ceb4e7d95b1ae3",
-      "title": "Where does Lions’ Dan Campbell rank among NFL coaches?",
-      "link": "https://sports.yahoo.com/articles/where-does-lions-dan-campbell-110534189.html",
+      "id": "81a045f4a1b3149b",
+      "title": "The 4 most overrated NFC teams coming into the 2026 NFL season",
+      "link": "https://sports.yahoo.com/articles/4-most-overrated-nfc-teams-131332745.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-07T11:05:34+0000",
-      "summary": "Looking where Dan Campbell ranks across several 2026 NFL head coach rankings."
+      "published": "2026-07-07T13:13:32+0000",
+      "summary": "What NFC teams might be a tad bit overrated coming into this season?"
     },
     {
-      "id": "49b2e334f34dd306",
-      "title": "ESPN names Falcons' X-factor for the 2026 NFL season",
-      "link": "https://sports.yahoo.com/articles/espn-names-falcons-x-factor-110224539.html",
+      "id": "3118651e23d0006f",
+      "title": "NFL coaches, execs vote Trent McDuffie a top-5 CB for 2nd straight year",
+      "link": "https://sports.yahoo.com/articles/nfl-coaches-execs-vote-trent-130856781.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-07T11:02:24+0000",
-      "summary": "Falcons rookie CB Avieon Terrell named X-factor by ESPN"
+      "published": "2026-07-07T13:08:56+0000",
+      "summary": "ESPN polled NFL coaches, executives and scouts to find out who the best cornerbacks are, and Trent McDuffie cracked the top 5 once again."
     },
     {
-      "id": "558ad9c70085b914",
-      "title": "Minnesota Vikings Receive Three-Word Description for 2026 Season",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-receive-three-word-110041071.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-07T11:00:41+0000",
-      "summary": "Kyler Murray, J.J. McCarthy, and Carson Wentz ignite a high-stakes quarterback battle as analysts label Kevin O'Connell’s roster one of the NFL’s most compelling storylines for 2026."
+      "id": "1423e56926db7ab7",
+      "title": "Former Titans scout Taylor found guilty of murder",
+      "link": "https://espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T12:19:55+0000",
+      "summary": "Blaise Taylor, a former defensive back at Arkansas State and NFL scout for the Titans, was found guilty of murdering his girlfriend and her unborn child Wednesday in a Nashville courtroom."
     },
     {
-      "id": "71c8f1e05b9635e3",
-      "title": "Kansas City Chiefs to face player No. 97 of the 'NFL Top 100' in 2026",
-      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-face-player-110026405.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-07T11:00:26+0000",
-      "summary": "Kansas City Chiefs to face player No. 97, Seattle Seahawks linebacker Ernest Jones IV, from the 'NFL Top 100' in 2026 | @EdEastonJr"
+      "id": "f3c1f0e5dc799821",
+      "title": "Chris Johnson aims to revive Ice Bucket Challenge",
+      "link": "https://espn.com/nfl/story/_/id/49244639/chris-johnson-seeking-revival-ice-bucket-challenge-amid-als-diagnosis",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T12:19:55+0000",
+      "summary": "Former NFL running back Chris Johnson is calling for the revival of the Ice Bucket Challenge to raise awareness of ALS as he fights the progressive nervous system disease."
+    },
+    {
+      "id": "58e6f0f48cc0a4b2",
+      "title": "Sorsby won't sue NFL, will prepare for '27 draft",
+      "link": "https://espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T12:19:55+0000",
+      "summary": "The NFL Players Association and Brendan Sorsby will not be pursuing litigation after the NFL's decision not to hold a supplemental draft this year, according to a memo sent to all 32 teams."
+    },
+    {
+      "id": "da4c7a823bfe3b32",
+      "title": "Which NFL teams have the best -- and worst -- rost...",
+      "link": "https://espn.com/nfl/story/_/id/49231555/2026-nfl-roster-ranking-starting-lineups-projection-32-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T12:19:41+0000",
+      "summary": "Here's how every NFL roster stacks up ahead of the season, plus strengths, weaknesses, and X factors."
+    },
+    {
+      "id": "fa9dea84eb362e14",
+      "title": "Let's stack the NFL's best cornerbacks: This year'...",
+      "link": "https://espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T12:19:35+0000",
+      "summary": "Decision-makers around the NFL ranked the top 10 cornerbacks. Who is the NFL's best -- Pat Surtain II or Derek Stingley Jr.?"
+    },
+    {
+      "id": "88a8e6b711575fcc",
+      "title": "Inside the Broncos' playoff run: Fifteen days with Sean Payton",
+      "link": "https://espn.com/nfl/story/_/id/49225969/inside-denver-broncos-coach-sean-payton-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T11:38:39+0000",
+      "summary": "Senior writer Seth Wickersham spent two weeks with NFL football coach Sean Payton ahead of the Denver Broncos-New England Patriots AFC Championship Game."
     },
     {
       "id": "b6883e18b1dafa4c",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-05-21T16:12:27+0000",
       "summary": "The defensive end, who was the Colts' sixth-round pick in 2026, moved around the line while at Ohio State."
-    },
-    {
-      "id": "48273d437876933d",
-      "title": "How CJ Allen is already impressing Colts LBs coach James Bettcher",
-      "link": "https://colts.com/news/james-bettcher-cj-allen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T13:00:52+0000",
-      "summary": "Bettcher, who is in his second year as the Colts' linebackers coach, says Allen acclimated to the team well when we got into the facility."
-    },
-    {
-      "id": "323a646bb0abaa8e",
-      "title": "Colts CB Charvarius Ward Sr. returns for 2026 'in a much better space' after extremely challenging 2025",
-      "link": "https://colts.com/news/charvarius-ward-concussions-return-play-2026-cornerback-mental-health",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-20T19:04:20+0000",
-      "summary": "Ward spoke to the media on Wednesday and detailed the mental challenges he went through during the 2025 season, which went beyond the the three times he was placed in concussion protocol."
-    },
-    {
-      "id": "a45448cefedc5b92",
-      "title": "Colts open auditions for 'The Herd' drumline for 2026",
-      "link": "https://colts.com/news/colts-open-auditions-for-the-herd-drumline-for-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-20T14:00:00+0000",
-      "summary": "The drumline announced the deadline for applications, as well as the deadlines and dates for the audition rounds."
-    },
-    {
-      "id": "e631bebc4bf14138",
-      "title": "Indianapolis Animal Care Services opens new welfare center nearly one year after Jim Irsay's passing",
-      "link": "https://colts.com/news/indianapolis-animal-care-services-jim-and-drake-irsay",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-19T20:00:06+0000",
-      "summary": "The event was held Wednesday, with Colts Owner & Executive Vice President Casey Foyt and Colts Owner & Chief Brand Officer Kalen Jackson in attendance."
     }
   ],
   "links": [
