@@ -1,14 +1,95 @@
 {
-  "updated": "2026-07-08T11:45:53+00:00",
+  "updated": "2026-07-08T14:01:43+00:00",
   "items": [
     {
-      "id": "881aad976acaa526",
-      "title": "Titans CB Alontae Taylor nearly makes ESPN’s Top 10 position list",
-      "link": "https://sports.yahoo.com/articles/titans-cb-alontae-taylor-nearly-113000169.html",
+      "id": "875b6942aadd5916",
+      "title": "Patriots scouting report: Chad Muma is right in the LB3 mix",
+      "link": "https://sports.yahoo.com/articles/patriots-scouting-report-chad-muma-135304388.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-08T11:30:00+0000",
-      "summary": "ESPN recently released their list of top 10 cornerbacks in the NFL, and Tennessee Titans CB Alontae Taylor is mentioned."
+      "published": "2026-07-08T13:53:04+0000",
+      "summary": "Previewing the Patriots linebacker heading into his fifth NFL season."
+    },
+    {
+      "id": "6f9a9734553dc70a",
+      "title": "Chargers Daily Links: Wednesday Open Thread",
+      "link": "https://sports.yahoo.com/articles/chargers-daily-links-wednesday-open-135000809.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-08T13:50:00+0000",
+      "summary": "Your source for all Chargers and NFL news from around the web."
+    },
+    {
+      "id": "877bcea08b72a1d7",
+      "title": "Al Riveron is stepping down as the ACC's supervisor of football officials",
+      "link": "https://sports.yahoo.com/articles/al-riveron-stepping-down-accs-133446899.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-08T13:34:46+0000",
+      "summary": "Al Riveron is stepping down as supervisor of football officials for the Atlantic Coast Conference, a role he has held since November 2022.  The league announced the move Wednesday, with Riveron having worked more than three decades as an on-field official or an officiating administrator in college and the NFL.  Riveron's time as head of ACC football officiating has included the building of a newly designed gameday operations center as the league moved its headquarters from Greensboro to Charlotte, North Carolina."
+    },
+    {
+      "id": "591fc97775b8df7b",
+      "title": "ESPN says Miami Dolphins have worst roster in the NFL",
+      "link": "https://sports.yahoo.com/articles/espn-says-miami-dolphins-worst-133344146.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-08T13:33:44+0000",
+      "summary": "ESPN says, &quot;(De'Von) Achane is the star of Miami's offense, and it's not close...The Dolphins are in full rebuild mode and have several units that rank among the league's worst.&quot;"
+    },
+    {
+      "id": "ae511dd2fe8211bd",
+      "title": "Ranking the NFL's top edge rushers: Execs, coaches...",
+      "link": "https://espn.com/nfl/story/_/id/49237026/ranking-nfl-top-10-edge-rushers-2026-execs-coaches-scouts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-08T12:37:16+0000",
+      "summary": "Who are the best edge rushers in the NFL right now? Evaluators around the league ranked the top 10 in our annual position-by-position series."
+    },
+    {
+      "id": "fa9dea84eb362e14",
+      "title": "Let's stack best cornerbacks: This year's top 10, ...",
+      "link": "https://espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-08T12:37:16+0000",
+      "summary": "Decision-makers around the NFL ranked the top 10 cornerbacks. Who is the NFL's best?"
+    },
+    {
+      "id": "e76bfd0db0e9dcf1",
+      "title": "Which NFL players could break out in 2026? Solak p...",
+      "link": "https://espn.com/nfl/story/_/id/49295229/2026-nfl-season-breakout-candidates-burden-bullock-mclaurin",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-08T12:36:19+0000",
+      "summary": "Big year for Luther Burden III? Step forward for Calen Bullock? Opportunity for Nic Scourton to step up? And Ashton Jeanty delivering on expectations in Year 2?"
+    },
+    {
+      "id": "da4c7a823bfe3b32",
+      "title": "Which NFL teams have the best -- and worst -- rost...",
+      "link": "https://espn.com/nfl/story/_/id/49231555/2026-nfl-roster-ranking-starting-lineups-projection-32-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-08T12:20:41+0000",
+      "summary": "Here's how every NFL roster stacks up ahead of the season, plus strengths, weaknesses, and X factors."
+    },
+    {
+      "id": "1423e56926db7ab7",
+      "title": "Former Titans scout Taylor found guilty of murder",
+      "link": "https://espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-08T12:15:51+0000",
+      "summary": "Blaise Taylor, a former defensive back at Arkansas State and NFL scout for the Titans, was found guilty of murdering his girlfriend and her unborn child Wednesday in a Nashville courtroom."
+    },
+    {
+      "id": "f3c1f0e5dc799821",
+      "title": "Chris Johnson aims to revive Ice Bucket Challenge",
+      "link": "https://espn.com/nfl/story/_/id/49244639/chris-johnson-seeking-revival-ice-bucket-challenge-amid-als-diagnosis",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-08T12:15:50+0000",
+      "summary": "Former NFL running back Chris Johnson is calling for the revival of the Ice Bucket Challenge to raise awareness of ALS as he fights the progressive nervous system disease."
     },
     {
       "id": "299fb31e460e32a5",
@@ -45,6 +126,15 @@
       "feed": "Stampede Blue",
       "published": "2026-07-07T15:33:21+0000",
       "summary": "According to ESPN’s Jeremy Fowler, and his annual league survey conducted by league executives, coaches, and scouts, Indianapolis Colts star running back Jonathan Taylor ranks among the top five players at his position: 5. Jonathan Taylor, Indianapolis Colts Highest ranking:&#160;2 &#124;&#160;Lowest ranking:&#160;UnrankedAge:&#160;27 &#124;&#160;Last year&#8217;s ranking:&#160;7 Taylor was pumping out top-three votes this year in appreciation [&#8230;]"
+    },
+    {
+      "id": "88a8e6b711575fcc",
+      "title": "Inside the Broncos' playoff run: Fifteen days with Sean Payton",
+      "link": "https://espn.com/nfl/story/_/id/49225969/inside-denver-broncos-coach-sean-payton-playoffs",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-07T11:38:39+0000",
+      "summary": "Senior writer Seth Wickersham spent two weeks with NFL football coach Sean Payton ahead of the Denver Broncos-New England Patriots AFC Championship Game."
     },
     {
       "id": "b6883e18b1dafa4c",
@@ -450,96 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-06-01T14:00:54+0000",
       "summary": "Participants have exclusive opportunity to finish race on 50-yard line of Lucas Oil Stadium."
-    },
-    {
-      "id": "7dddaf8eb93f95d5",
-      "title": "Where Colts QBs Daniel Jones, Anthony Richardson Sr., Riley Leonard stand as OTAs begin",
-      "link": "https://colts.com/news/colts-qbs-daniel-jones-anthony-richardson-sr-riley-leonard-otas-begin",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-27T20:02:07+0000",
-      "summary": "Jones took individual snaps Wednesday, while Richardson and Leonard split team reps."
-    },
-    {
-      "id": "f9d060e6d021dcae",
-      "title": "Colts release AFC South Plan, includes tickets to three home games and $25 concession credit",
-      "link": "https://colts.com/news/indianapolis-colts-tickets-2026-schedule-home-games-lucas-oil-stadium-texans-jaguars-titans-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-26T14:00:12+0000",
-      "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
-    },
-    {
-      "id": "feaa80eeb84dc7e7",
-      "title": "Why OL coach Tony Sparano Jr. is convicted in G Jalen Farmer",
-      "link": "https://colts.com/news/tony-sparano-jr-jalen-farmer",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-22T13:00:11+0000",
-      "summary": "Farmer was the Colts' fourth-round pick in the 2026 draft."
-    },
-    {
-      "id": "08192f49a83c3de5",
-      "title": "Colts' OL Matt Goncalves feeling comfortable, prepared with experience at guard and offseason work with Olin Kreutz",
-      "link": "https://colts.com/news/colts-ol-matt-goncalves-feeling-comfortable-prepared-with-experience-at-guard-and-offseason-work-with-olin-kreutz",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T17:47:21+0000",
-      "summary": "Goncalves had never played guard before starting all 17 games at right guard for the Colts in 2025."
-    },
-    {
-      "id": "790fbae1ce60233c",
-      "title": "Colts DL coach Marion Hobby excited about Caden Curry's versatility",
-      "link": "https://colts.com/news/marion-hobby-caden-curry-jaylahn-tuimoloau",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T16:12:27+0000",
-      "summary": "The defensive end, who was the Colts' sixth-round pick in 2026, moved around the line while at Ohio State."
-    },
-    {
-      "id": "48273d437876933d",
-      "title": "How CJ Allen is already impressing Colts LBs coach James Bettcher",
-      "link": "https://colts.com/news/james-bettcher-cj-allen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T13:00:52+0000",
-      "summary": "Bettcher, who is in his second year as the Colts' linebackers coach, says Allen acclimated to the team well when we got into the facility."
-    },
-    {
-      "id": "323a646bb0abaa8e",
-      "title": "Colts CB Charvarius Ward Sr. returns for 2026 'in a much better space' after extremely challenging 2025",
-      "link": "https://colts.com/news/charvarius-ward-concussions-return-play-2026-cornerback-mental-health",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-20T19:04:20+0000",
-      "summary": "Ward spoke to the media on Wednesday and detailed the mental challenges he went through during the 2025 season, which went beyond the the three times he was placed in concussion protocol."
-    },
-    {
-      "id": "a45448cefedc5b92",
-      "title": "Colts open auditions for 'The Herd' drumline for 2026",
-      "link": "https://colts.com/news/colts-open-auditions-for-the-herd-drumline-for-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-20T14:00:00+0000",
-      "summary": "The drumline announced the deadline for applications, as well as the deadlines and dates for the audition rounds."
-    },
-    {
-      "id": "e631bebc4bf14138",
-      "title": "Indianapolis Animal Care Services opens new welfare center nearly one year after Jim Irsay's passing",
-      "link": "https://colts.com/news/indianapolis-animal-care-services-jim-and-drake-irsay",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-19T20:00:06+0000",
-      "summary": "The event was held Wednesday, with Colts Owner & Executive Vice President Casey Foyt and Colts Owner & Chief Brand Officer Kalen Jackson in attendance."
-    },
-    {
-      "id": "a279491ab9352e35",
-      "title": "Start time for August 29 Detroit preseason game moved to 1 p.m.",
-      "link": "https://colts.com/news/indianapolis-colts-preseason-schedule-2026-tickets-detroit-lions-nfl-date-change-update",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-19T17:00:01+0000",
-      "summary": "The start time of the Indianapolis Colts’ Aug. 29 preseason matchup vs. the Detroit Lions has been moved to 1 p.m. ET.  The original start time was 3 p.m. The game will be broadcast locally on CBS4."
     }
   ],
   "links": [
