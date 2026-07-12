@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-12T11:58:09+00:00",
+  "updated": "2026-07-12T13:41:02+00:00",
   "items": [
+    {
+      "id": "020d521a1577c794",
+      "title": "Falcons lineman earns top-10 honors from NFL execs",
+      "link": "https://sports.yahoo.com/articles/falcons-lineman-earns-top-10-133157391.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-12T13:31:57+0000",
+      "summary": "Chris Lindstrom makes ESPN list of league's best interior linemen"
+    },
+    {
+      "id": "551ef41f26921700",
+      "title": "Colts pre-training camp 53-man roster prediction: Running back",
+      "link": "https://sports.yahoo.com/articles/colts-pre-training-camp-53-130721839.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-12T13:07:21+0000",
+      "summary": "With training camp near, let's predict which of the Indianapolis Colts' running backs make the 53-man roster."
+    },
+    {
+      "id": "3174d2678a903065",
+      "title": "The NFL’s 32 Starting Quarterbacks Ranked from Worst to Best",
+      "link": "https://sports.yahoo.com/articles/nfl-32-starting-quarterbacks-ranked-130700533.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-12T13:07:00+0000",
+      "summary": "The NFL regular season is 59 days away, and according to sportsbooks, the Los Angeles Rams and Buffalo Bills will [&#8230;]"
+    },
     {
       "id": "bd88071af0905aa3",
       "title": "Copy of NFL evaluators pick the top 10 interior O-linemen ...",
@@ -18,69 +45,6 @@
       "feed": "ESPN",
       "published": "2026-07-12T12:45:35+0000",
       "summary": "A new No. 1 OT in the league? We canvassed NFL decision-makers to rank the NFL's best tackles for 2026."
-    },
-    {
-      "id": "af8a540d5e8dca1e",
-      "title": "NFL players, execs name Bills' James Cook a top-10 RB ahead of 2026",
-      "link": "https://sports.yahoo.com/articles/nfl-players-execs-name-bills-114535979.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:45:35+0000",
-      "summary": "Here's where NFL front offices and his peers ranked the Bills' James Cook among running backs in 2026."
-    },
-    {
-      "id": "6a70cbc8c6da8385",
-      "title": "ESPN picks Detroit Lions' 2026 X-factor",
-      "link": "https://sports.yahoo.com/articles/espn-picks-detroit-lions-2026-114521519.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:45:21+0000",
-      "summary": "NFL games and seasons are won in the margins. ESPN shared its X-factor for the Detroit Lions' 2026 campaign."
-    },
-    {
-      "id": "61de458d7e7db1cb",
-      "title": "NFL talent evaluators leave Jaguars 3 interior OL off top rankings",
-      "link": "https://sports.yahoo.com/articles/nfl-talent-evaluators-leave-jaguars-113951129.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:39:51+0000",
-      "summary": "The Jacksonville Jaguars' three interior offensive linemen were left off ESPN's 2026 rankings."
-    },
-    {
-      "id": "ffd9b1d9b50a4656",
-      "title": "Popular NFL draft site’s mock draft has Browns adding big-name talent, QB in 2027",
-      "link": "https://sports.yahoo.com/articles/popular-nfl-draft-mock-draft-113916746.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:39:16+0000",
-      "summary": "This Cleveland Browns 2027 NFL mock draft haul would be interesting with Jeremiah Smith joined by Drew Mestemaker"
-    },
-    {
-      "id": "08bd90bd432bb4bf",
-      "title": "&quot;He's Not Gonna Be There...&quot;: Joey McGuire Issues Strong Brendan Sorsby Warning While Opening Up on Addiction Struggles",
-      "link": "https://sports.yahoo.com/articles/hes-not-gonna-joey-mcguire-113043534.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:30:43+0000",
-      "summary": "Even after a month since Brendan Sorsby’s chaotic and controversial departure from Texas Tech, Joey McGuire still has hopes for the QB. Sorsby’s gambling issue put him in a negative light, but McGuire believes he’s “special,” while the ex-Red Raiders star aims for the 2027 NFL Draft."
-    },
-    {
-      "id": "548762cdd79d96e1",
-      "title": "PFF's All-PFF Team Honors Vikings Legends Adrian Peterson, Harrison Smith",
-      "link": "https://sports.yahoo.com/articles/pffs-pff-team-honors-vikings-112430618.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:24:30+0000",
-      "summary": "The two franchise legends have been listed among the NFL's best of the last 20 years."
-    },
-    {
-      "id": "91dfb772af716ef6",
-      "title": "Analyst believes the Bengals have a top-5 safety duo in the NFL",
-      "link": "https://sports.yahoo.com/articles/analyst-believes-bengals-top-5-111500345.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-12T11:15:00+0000",
-      "summary": "The duo earns some early praise."
     },
     {
       "id": "dbb0a70ed249028c",
@@ -540,6 +504,42 @@
       "feed": "Colts.com",
       "published": "2026-06-01T14:53:51+0000",
       "summary": "Berry spent all 13 years of his NFL career with the Baltimore Colts and was inducted into the Pro Football Hall of Fame in 1973."
+    },
+    {
+      "id": "a746bd650b3a90fb",
+      "title": "Registration open for Colts 5K, Blue's 'Fun Run' on September 12",
+      "link": "https://colts.com/news/indianapolis-colts-5k-run-walk-race-pace-2026-lucas-oil-stadium-blue-mascot-registration-september",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-06-01T14:00:54+0000",
+      "summary": "Participants have exclusive opportunity to finish race on 50-yard line of Lucas Oil Stadium."
+    },
+    {
+      "id": "7dddaf8eb93f95d5",
+      "title": "Where Colts QBs Daniel Jones, Anthony Richardson Sr., Riley Leonard stand as OTAs begin",
+      "link": "https://colts.com/news/colts-qbs-daniel-jones-anthony-richardson-sr-riley-leonard-otas-begin",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-27T20:02:07+0000",
+      "summary": "Jones took individual snaps Wednesday, while Richardson and Leonard split team reps."
+    },
+    {
+      "id": "f9d060e6d021dcae",
+      "title": "Colts release AFC South Plan, includes tickets to three home games and $25 concession credit",
+      "link": "https://colts.com/news/indianapolis-colts-tickets-2026-schedule-home-games-lucas-oil-stadium-texans-jaguars-titans-football",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-26T14:00:12+0000",
+      "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
+    },
+    {
+      "id": "feaa80eeb84dc7e7",
+      "title": "Why OL coach Tony Sparano Jr. is convicted in G Jalen Farmer",
+      "link": "https://colts.com/news/tony-sparano-jr-jalen-farmer",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-22T13:00:11+0000",
+      "summary": "Farmer was the Colts' fourth-round pick in the 2026 draft."
     }
   ],
   "links": [
