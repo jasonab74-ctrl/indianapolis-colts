@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:10:17+00:00",
+  "updated": "2026-07-14T14:23:42+00:00",
   "items": [
     {
       "id": "ef1e9d6935e0a472",
@@ -7,8 +7,53 @@
       "link": "https://espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts",
       "source": "ESPN",
       "feed": "ESPN",
-      "published": "2026-07-14T12:11:05+0000",
+      "published": "2026-07-14T15:00:29+0000",
       "summary": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?"
+    },
+    {
+      "id": "6f1051be019322f9",
+      "title": "Ranking the best linebackers in the NFL: Our exec ...",
+      "link": "https://espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-14T15:00:23+0000",
+      "summary": "Evaluators around the league ranked their top 10 off-ball linebackers. Is Fred Warner still No. 1? Which young standout is high on the list?"
+    },
+    {
+      "id": "bd88071af0905aa3",
+      "title": "Which guards and centers make the list? NFL evalua...",
+      "link": "https://espn.com/nfl/story/_/id/49285849/ranking-nfl-top-10-guards-centers-interior-offensive-linemen-2026-execs-coaches-scouts",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-14T15:00:23+0000",
+      "summary": "Execs, coaches and scouts from around the NFL ranked their top 10 interior offensive linemen."
+    },
+    {
+      "id": "2e3f650ad15d136e",
+      "title": "49ers' Fred Warner accomplishes rare feat with top-10 LB ranking from ESPN poll",
+      "link": "https://sports.yahoo.com/articles/49ers-fred-warner-accomplishes-rare-141046840.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T14:10:46+0000",
+      "summary": "This shows how great Fred Warner actually is from the NFL's perspective."
+    },
+    {
+      "id": "cef9a063331c1b36",
+      "title": "ESPN Analyst Bashes Detroit Lions Fans, Doubles Down on Recent Take",
+      "link": "https://sports.yahoo.com/articles/espn-analyst-bashes-detroit-lions-140148649.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T14:01:48+0000",
+      "summary": "ESPN analyst Mike Clay fired back at Lions fans while defending his controversial ranking of Penei Sewell as the NFL’s No. 10 tackle."
+    },
+    {
+      "id": "e579f5b6f640f787",
+      "title": "NFL power rankings: Broncos are a top-3 team before training camp",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-broncos-top-140021132.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T14:00:21+0000",
+      "summary": "B/R ranked the Broncos third in the NFL going into training camp, only trailing the Seahawks and Rams."
     },
     {
       "id": "d91e5588f42ccff5",
@@ -20,33 +65,6 @@
       "summary": "Can Brian Daboll take Cam Ward's game to another level? How will Sean Payton scheme up Jaylen Waddle? Is the Chris Shula-Myles Garrett combo unstoppable?"
     },
     {
-      "id": "6f1051be019322f9",
-      "title": "Top 10 NFL linebackers: How execs, coaches and sco...",
-      "link": "https://espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-07-14T12:03:46+0000",
-      "summary": "Evaluators around the league ranked their top 10 off-ball linebackers. Is Fred Warner still No. 1? Which young standout is high on the list?"
-    },
-    {
-      "id": "bd88071af0905aa3",
-      "title": "Which guards and centers make the list? NFL evalua...",
-      "link": "https://espn.com/nfl/story/_/id/49285849/ranking-nfl-top-10-guards-centers-interior-offensive-linemen-2026-execs-coaches-scouts",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-07-14T12:03:46+0000",
-      "summary": "Execs, coaches and scouts from around the NFL ranked their top 10 interior offensive linemen."
-    },
-    {
-      "id": "78013945006d0598",
-      "title": "NFL execs, coaches name Broncos’ Quinn Meinerz among best guards",
-      "link": "https://sports.yahoo.com/articles/nfl-execs-coaches-name-broncos-120141392.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-14T12:01:41+0000",
-      "summary": "NFL executives, coaches and scouts agree: Quinn Meinerz is one of the best guards in the league."
-    },
-    {
       "id": "a0b61da0b8fd25ce",
       "title": "Colts training camp battle early preview: Linebacker",
       "link": "https://stampedeblue.com/indianapolis-colts-news/125426/colts-training-camp-battle-early-preview-linebacker",
@@ -54,24 +72,6 @@
       "feed": "Stampede Blue",
       "published": "2026-07-14T12:00:00+0000",
       "summary": "The Indianapolis Colts have almost completely revamped their linebacker corps, as backups Austin Ajiake and Jaylon Carlies are the lone memorable holdovers from last year’s defense. Specifically, the Colts sent former All-Pro linebacker Zaire Franklin to the Green Bay Packers in an earlier offseason trade, while fellow veteran starter Germaine Pratt remains unsigned as a [&#8230;]"
-    },
-    {
-      "id": "955bc67e8feae431",
-      "title": "Colts training camp battle early preview: Linebacker",
-      "link": "https://sports.yahoo.com/articles/colts-training-camp-battle-early-120000399.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-14T12:00:00+0000",
-      "summary": "The starting linebacker competition is one of the spicier ones for the Colts in camp."
-    },
-    {
-      "id": "cfcce5f02f0779b5",
-      "title": "Ex-LB explains why 49ers are most dangerous offense in the NFC West",
-      "link": "https://sports.yahoo.com/articles/ex-lb-explains-why-49ers-115024352.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-14T11:50:24+0000",
-      "summary": "Manti Te'o believes the combination of Christian McCaffrey and Mike Evans is more daunting for NFL defenses than Davante Adams and Puka Nacua."
     },
     {
       "id": "28ab70080f8df152",
