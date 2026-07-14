@@ -1,6 +1,69 @@
 {
-  "updated": "2026-07-14T22:33:34+00:00",
+  "updated": "2026-07-14T23:52:00+00:00",
   "items": [
+    {
+      "id": "5603be01f1063d3c",
+      "title": "ESPN analyst makes unexpected choice for top 2024 QB draft pick",
+      "link": "https://sports.yahoo.com/articles/espn-analyst-makes-unexpected-choice-234152207.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T23:41:52+0000",
+      "summary": "An MVP-worthy season still isn't enough to convince one NFL analyst that Drake Maye was the best quarterback taken in the 2024 NFL Draft."
+    },
+    {
+      "id": "d17fdea45e6c1516",
+      "title": "Cowboys' Snowden suspended 3 games by NFL",
+      "link": "https://espn.com/nfl/story/_/id/49361698/cowboys-pass-rusher-charles-snowden-suspended-3-games-nfl",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-14T23:39:09+0000",
+      "summary": "Cowboys outside linebacker Charles Snowden has been suspended for the first three games of the 2026 season, according to the NFL's transactions wire."
+    },
+    {
+      "id": "28d6ca6543a69a15",
+      "title": "Free agent Diggs: No WR2 in NFL better than me",
+      "link": "https://espn.com/nfl/story/_/id/49343916/stefon-diggs-says-there-no-wr2-nfl-better-me",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-14T23:39:09+0000",
+      "summary": "Free agent Stefon Diggs says he is better than any No. 2 wide receiver currently on an NFL roster."
+    },
+    {
+      "id": "dbb0a70ed249028c",
+      "title": "No GPS tracker for Arnold, can work out for teams",
+      "link": "https://espn.com/nfl/story/_/id/49325177/no-gps-tracker-terrion-arnold-work-nfl-teams",
+      "source": "ESPN",
+      "feed": "ESPN",
+      "published": "2026-07-14T23:39:09+0000",
+      "summary": "Former Lions cornerback Terrion Arnold does not need to wear a GPS tracker as a condition of his release, a Florida judge ruled Friday, allowing him to continue to work out with NFL teams in an effort to get re-signed after being cut."
+    },
+    {
+      "id": "114750f4eefd1adf",
+      "title": "Caleb Banks Lands a Brutal Bust Prediction",
+      "link": "https://sports.yahoo.com/articles/caleb-banks-lands-brutal-bust-233500118.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T23:35:00+0000",
+      "summary": "Minnesota Vikings rookie defensive tackle Caleb Banks has yet to take an NFL snap, and he&#8217;s already on bust watch. [&#8230;]"
+    },
+    {
+      "id": "08da9b11de1b4ac9",
+      "title": "Eric Singleton Jr. lands among the top 2027 NFL Draft WR rankings",
+      "link": "https://sports.yahoo.com/articles/eric-singleton-jr-lands-among-231916029.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T23:19:16+0000",
+      "summary": "On The Athletic's 2027 NFL Draft preseason positional rankings for wide receivers, Florida transfer Eric Singleton Jr. earns high recognition."
+    },
+    {
+      "id": "9d7e44eb6ff7c0d2",
+      "title": "5 UCF Centers Appear on the All-FBS Team List",
+      "link": "https://sports.yahoo.com/articles/5-ucf-centers-appear-fbs-231256423.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-14T23:12:56+0000",
+      "summary": "From undefeated season anchors to NFL draft picks, these elite blockers defined three decades of Knights dominance while cementing their legacy on the program's all-time roster."
+    },
     {
       "id": "6f1051be019322f9",
       "title": "Ranking the best linebackers in the NFL: Our exec ...",
@@ -20,58 +83,13 @@
       "summary": "Execs, coaches and scouts from around the NFL ranked their top 10 interior offensive linemen."
     },
     {
-      "id": "8311986dff4a41fd",
-      "title": "Cleveland Browns: Veteran QB schooled rookies on substance over style",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-veteran-qb-schooled-222245252.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-14T22:22:45+0000",
-      "summary": "Netflix series reveals Joe Flacco having some fun with Shedeur Sanders and Dillon Gabriel about life in the NFL."
-    },
-    {
-      "id": "d17fdea45e6c1516",
-      "title": "Cowboys' Snowden suspended 3 games by NFL",
-      "link": "https://espn.com/nfl/story/_/id/49361698/cowboys-pass-rusher-charles-snowden-suspended-3-games-nfl",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-07-14T22:20:47+0000",
-      "summary": "Cowboys outside linebacker Charles Snowden has been suspended for the first three games of the 2026 season, according to the NFL's transactions wire."
-    },
-    {
-      "id": "28d6ca6543a69a15",
-      "title": "Free agent Diggs: No WR2 in NFL better than me",
-      "link": "https://espn.com/nfl/story/_/id/49343916/stefon-diggs-says-there-no-wr2-nfl-better-me",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-07-14T22:20:47+0000",
-      "summary": "Free agent Stefon Diggs says he is better than any No. 2 wide receiver currently on an NFL roster."
-    },
-    {
-      "id": "dbb0a70ed249028c",
-      "title": "No GPS tracker for Arnold, can work out for teams",
-      "link": "https://espn.com/nfl/story/_/id/49325177/no-gps-tracker-terrion-arnold-work-nfl-teams",
-      "source": "ESPN",
-      "feed": "ESPN",
-      "published": "2026-07-14T22:20:47+0000",
-      "summary": "Former Lions cornerback Terrion Arnold does not need to wear a GPS tracker as a condition of his release, a Florida judge ruled Friday, allowing him to continue to work out with NFL teams in an effort to get re-signed after being cut."
-    },
-    {
-      "id": "429a48eb7c103bae",
-      "title": "NFC South ranked worst division in the NFL entering 2026",
-      "link": "https://sports.yahoo.com/articles/nfc-south-ranked-worst-division-220833918.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-14T22:08:33+0000",
-      "summary": "NFL.com ranked the NFC South as the league's worst division entering 2026"
-    },
-    {
-      "id": "f263b580b8c3510e",
-      "title": "Ranking 10 teams with uncertain quarterback situations",
-      "link": "https://sports.yahoo.com/articles/ranking-10-teams-uncertain-quarterback-220829951.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-14T22:08:29+0000",
-      "summary": "What NFL teams head into 2026 with uncertainty about whether their quarterbacks are good enough to deliver a winning season?"
+      "id": "a91eaffa68fe35a0",
+      "title": "Colts release statement on passing of Houston Texans Co-Founder And Senior Chair Janice S. McNair",
+      "link": "https://colts.com/news/colts-release-statement-on-passing-of-houston-texans-co-founder-and-senior-chair-janice-s-mcnair",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-14T22:36:03+0000",
+      "summary": "McNair passed away on Tuesday at the age of 89."
     },
     {
       "id": "cdb753ce2a2e1353",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-06-01T17:10:42+0000",
       "summary": "The Colts made the roster moves on Monday."
-    },
-    {
-      "id": "06a2800dcabbc841",
-      "title": "Colts Hall of Famer Raymond Berry dies",
-      "link": "https://colts.com/news/colts-hall-of-famer-raymond-berry-dies",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-06-01T14:53:51+0000",
-      "summary": "Berry spent all 13 years of his NFL career with the Baltimore Colts and was inducted into the Pro Football Hall of Fame in 1973."
-    },
-    {
-      "id": "a746bd650b3a90fb",
-      "title": "Registration open for Colts 5K, Blue's 'Fun Run' on September 12",
-      "link": "https://colts.com/news/indianapolis-colts-5k-run-walk-race-pace-2026-lucas-oil-stadium-blue-mascot-registration-september",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-06-01T14:00:54+0000",
-      "summary": "Participants have exclusive opportunity to finish race on 50-yard line of Lucas Oil Stadium."
     }
   ],
   "links": [
