@@ -1,6 +1,51 @@
 {
-  "updated": "2026-07-20T21:41:57+00:00",
+  "updated": "2026-07-20T22:58:59+00:00",
   "items": [
+    {
+      "id": "1741665a26aec4f8",
+      "title": "BREAKING: ESPN Surprisingly Cuts Ties With Polarizing Super Bowl Champion Earning More Than $2,000,000 Annually",
+      "link": "https://sports.yahoo.com/articles/breaking-espn-surprisingly-cuts-ties-223115666.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-20T22:31:15+0000",
+      "summary": "The NFL season is rapidly approaching, with training camps around the league set to start soon. ESPN is excited about the upcoming season, as they will be broadcasting the Super Bowl in 2027."
+    },
+    {
+      "id": "45dbfe51377c2d9d",
+      "title": "ESPN and NFL Network set for another round of layoffs Tuesday, per report",
+      "link": "https://sports.yahoo.com/articles/espn-nfl-network-set-another-223057220.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-20T22:30:57+0000",
+      "summary": "ESPN is about to go through this again. According to The Athletic’s Andrew Marchand, ESPN and NFL Network are bracing for another wave of job cuts as part of a larger reduction across parent company Disney. Marchand’s report says the cuts will hit a handful of on-camera personalities working out of Bristol along with a…"
+    },
+    {
+      "id": "ce8ec71977d873bf",
+      "title": "Why NFL players want grass fields equal to World Cup quality — but won't get them in 2026",
+      "link": "https://sports.yahoo.com/articles/why-nfl-players-want-grass-222747126.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-20T22:27:47+0000",
+      "summary": "Here's the rundown on why many around the NFL want better and more widespread grass fields instead of turf."
+    },
+    {
+      "id": "3d48f3e775f2f75d",
+      "title": "‘Didn’t See This Coming,’ ‘Long Overdue Decision’ — NFL World Has Mixed Reactions to ESPN Firing Ryan Clark",
+      "link": "https://sports.yahoo.com/articles/didn-t-see-coming-long-222416859.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-20T22:24:16+0000",
+      "summary": "NFL fans got to know Ryan Clark as a hard-hitting safety who earned a Pro Bowl nod and won Super Bowl XLIII while playing 13 seasons that spanned three different teams. Once his playing career wrapped up after the 2014 season, Clark quickly found his next path in 2015 by joining ESPN as a football analyst."
+    },
+    {
+      "id": "e2db19a848773c7c",
+      "title": "This on-air exchange is what pushed Ryan Clark out at ESPN",
+      "link": "https://sports.yahoo.com/articles/air-exchange-pushed-ryan-clark-222257615.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-20T22:22:57+0000",
+      "summary": "News broke on Monday that ESPN cut ties with Ryan Clark, a former NFL player turned analyst for the sports broadcasting network. A report from Andrew Marchand of The Athletic..."
+    },
     {
       "id": "ccf5b711392b0f03",
       "title": "Colts head into training camp, ‘urgent’ 2026 with several ‘hope’ issues",
@@ -495,51 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-05-26T14:00:12+0000",
       "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
-    },
-    {
-      "id": "feaa80eeb84dc7e7",
-      "title": "Why OL coach Tony Sparano Jr. is convicted in G Jalen Farmer",
-      "link": "https://colts.com/news/tony-sparano-jr-jalen-farmer",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-22T13:00:11+0000",
-      "summary": "Farmer was the Colts' fourth-round pick in the 2026 draft."
-    },
-    {
-      "id": "08192f49a83c3de5",
-      "title": "Colts' OL Matt Goncalves feeling comfortable, prepared with experience at guard and offseason work with Olin Kreutz",
-      "link": "https://colts.com/news/colts-ol-matt-goncalves-feeling-comfortable-prepared-with-experience-at-guard-and-offseason-work-with-olin-kreutz",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T17:47:21+0000",
-      "summary": "Goncalves had never played guard before starting all 17 games at right guard for the Colts in 2025."
-    },
-    {
-      "id": "790fbae1ce60233c",
-      "title": "Colts DL coach Marion Hobby excited about Caden Curry's versatility",
-      "link": "https://colts.com/news/marion-hobby-caden-curry-jaylahn-tuimoloau",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T16:12:27+0000",
-      "summary": "The defensive end, who was the Colts' sixth-round pick in 2026, moved around the line while at Ohio State."
-    },
-    {
-      "id": "48273d437876933d",
-      "title": "How CJ Allen is already impressing Colts LBs coach James Bettcher",
-      "link": "https://colts.com/news/james-bettcher-cj-allen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-21T13:00:52+0000",
-      "summary": "Bettcher, who is in his second year as the Colts' linebackers coach, says Allen acclimated to the team well when we got into the facility."
-    },
-    {
-      "id": "323a646bb0abaa8e",
-      "title": "Colts CB Charvarius Ward Sr. returns for 2026 'in a much better space' after extremely challenging 2025",
-      "link": "https://colts.com/news/charvarius-ward-concussions-return-play-2026-cornerback-mental-health",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-20T19:04:20+0000",
-      "summary": "Ward spoke to the media on Wednesday and detailed the mental challenges he went through during the 2025 season, which went beyond the the three times he was placed in concussion protocol."
     }
   ],
   "links": [
