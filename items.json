@@ -1,14 +1,32 @@
 {
-  "updated": "2026-07-23T18:45:05+00:00",
+  "updated": "2026-07-23T20:10:39+00:00",
   "items": [
     {
-      "id": "5d13919c1e7cb7c2",
-      "title": "Tyreek Hill rehab video shows NFL star is far from return",
-      "link": "https://sports.yahoo.com/articles/tyreek-hill-rehab-video-shows-181431923.html",
+      "id": "a2e9642e7539a136",
+      "title": "Report reveals devastating injury news for Panthers OLB Nic Scourton",
+      "link": "https://sports.yahoo.com/articles/report-reveals-devastating-injury-news-200100278.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-23T18:14:31+0000",
-      "summary": "Hill suffered a major leg injury during the 2025 season"
+      "published": "2026-07-23T20:01:00+0000",
+      "summary": "According to NFL Network, tests have revealed a torn ACL for Panthers OLB Nic Scourton."
+    },
+    {
+      "id": "cd2b86c4caf60476",
+      "title": "UFL MVP set to work out for 49ers. His coach thinks he's at 'NFL standard'",
+      "link": "https://sports.yahoo.com/articles/ufl-mvp-set-49ers-coach-195828333.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-23T19:58:28+0000",
+      "summary": "Reigning UFL MVP Jack Plummer is reportedly set to work out for the 49ers and Dolphins. Here's what coach Anthony Becht thinks of his NFL potential."
+    },
+    {
+      "id": "dafe7d61c2918275",
+      "title": "Will Tyreek Hill play in 2026 NFL season? What recent leg rehabilitation update means for WR's football future",
+      "link": "https://sports.yahoo.com/articles/tyreek-hill-play-2026-nfl-195215428.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-23T19:52:15+0000",
+      "summary": "Here's the rundown on whether fans can expect to see the wide receiver back on the gridiron this season."
     },
     {
       "id": "226ad46038cad99d",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-05-27T20:02:07+0000",
       "summary": "Jones took individual snaps Wednesday, while Richardson and Leonard split team reps."
-    },
-    {
-      "id": "f9d060e6d021dcae",
-      "title": "Colts release AFC South Plan, includes tickets to three home games and $25 concession credit",
-      "link": "https://colts.com/news/indianapolis-colts-tickets-2026-schedule-home-games-lucas-oil-stadium-texans-jaguars-titans-football",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-26T14:00:12+0000",
-      "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
-    },
-    {
-      "id": "feaa80eeb84dc7e7",
-      "title": "Why OL coach Tony Sparano Jr. is convicted in G Jalen Farmer",
-      "link": "https://colts.com/news/tony-sparano-jr-jalen-farmer",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-05-22T13:00:11+0000",
-      "summary": "Farmer was the Colts' fourth-round pick in the 2026 draft."
     }
   ],
   "links": [
