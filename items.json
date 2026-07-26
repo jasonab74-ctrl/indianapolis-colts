@@ -1,24 +1,6 @@
 {
-  "updated": "2026-07-25T23:59:18+00:00",
+  "updated": "2026-07-26T03:45:27+00:00",
   "items": [
-    {
-      "id": "47fb4a0c4ac92d0c",
-      "title": "Football Debate Club: Caleb Williams Is Better Than the Analytics Want You to Believe",
-      "link": "https://sports.yahoo.com/articles/football-debate-club-caleb-williams-233540406.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-25T23:35:40+0000",
-      "summary": "Caleb Williams made his NFL Top 100 debut Friday at No. 51, voted there by the only people who line up against him every Sunday."
-    },
-    {
-      "id": "49050e4e0498d5a7",
-      "title": "What’s the ceiling on the Rams edge unit?",
-      "link": "https://sports.yahoo.com/articles/ceiling-rams-edge-unit-231500192.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-25T23:15:00+0000",
-      "summary": "Potentially one of the best in the NFL"
-    },
     {
       "id": "015e4e57e5732002",
       "title": "Colts are taking major gambles heading into the season (part 1)",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-06-01T14:00:54+0000",
       "summary": "Participants have exclusive opportunity to finish race on 50-yard line of Lucas Oil Stadium."
+    },
+    {
+      "id": "7dddaf8eb93f95d5",
+      "title": "Where Colts QBs Daniel Jones, Anthony Richardson Sr., Riley Leonard stand as OTAs begin",
+      "link": "https://colts.com/news/colts-qbs-daniel-jones-anthony-richardson-sr-riley-leonard-otas-begin",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-27T20:02:07+0000",
+      "summary": "Jones took individual snaps Wednesday, while Richardson and Leonard split team reps."
+    },
+    {
+      "id": "f9d060e6d021dcae",
+      "title": "Colts release AFC South Plan, includes tickets to three home games and $25 concession credit",
+      "link": "https://colts.com/news/indianapolis-colts-tickets-2026-schedule-home-games-lucas-oil-stadium-texans-jaguars-titans-football",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-05-26T14:00:12+0000",
+      "summary": "Fans can receive three tickets to three home games for $200, plus $25 concession credit!"
     }
   ],
   "links": [
