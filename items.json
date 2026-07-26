@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-26T16:58:01+00:00",
+  "updated": "2026-07-26T18:04:44+00:00",
   "items": [
+    {
+      "id": "fb438785c19a2173",
+      "title": "NFL veteran deported from United States by ICE",
+      "link": "https://sports.yahoo.com/articles/nfl-veteran-deported-united-states-175013204.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-07-26T17:50:13+0000",
+      "summary": "Former NFL player Daniel Adongo was deported from the United States by ICE earlier this summer."
+    },
     {
       "id": "10c1a76a42829d54",
       "title": "Colts announce completion of Girls Flag 'Road to 100'",
@@ -9,24 +18,6 @@
       "feed": "Colts.com",
       "published": "2026-07-26T16:41:38+0000",
       "summary": "With 108 teams, Girls Flag now eligible to become IHSAA sanctioned sport"
-    },
-    {
-      "id": "a31db92d02df09e8",
-      "title": "All-Pro's bold statement after two practices with Christian Gonzalez",
-      "link": "https://sports.yahoo.com/articles/pros-bold-statement-two-practices-163450129.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-26T16:34:50+0000",
-      "summary": "Kevin Byard has already seen enough to declare Patriots' star Christian Gonzalez as the best cornerback in the NFL."
-    },
-    {
-      "id": "696c5593dd28504f",
-      "title": "Jaguars Trevor Lawrence Earns Major Offseason Praise From Liam Coen, Peter Schrager",
-      "link": "https://sports.yahoo.com/articles/jaguars-trevor-lawrence-earns-major-163222228.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-26T16:32:22+0000",
-      "summary": "After steadying the Jaguars‘ offense last season towards the end, Trevor Lawrence has devoted his time to perfecting his chemistry with wide receiver Brian Thomas Jr. this entire offseason.Lawrence’s growth this offseason is organic, something that both ESPN’s NFL Insider Peter Schrager and Jaguars head coach Laim Coen talked about themselves.“Trevor Lawrence had an outstanding […] The post Jaguars Trevor Lawrence Earns Major Offseason Praise From Liam Coen, Peter Schrager appeared first on HEAV"
     },
     {
       "id": "f248d5cd713705e9",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-06-01T14:53:51+0000",
       "summary": "Berry spent all 13 years of his NFL career with the Baltimore Colts and was inducted into the Pro Football Hall of Fame in 1973."
+    },
+    {
+      "id": "a746bd650b3a90fb",
+      "title": "Registration open for Colts 5K, Blue's 'Fun Run' on September 12",
+      "link": "https://colts.com/news/indianapolis-colts-5k-run-walk-race-pace-2026-lucas-oil-stadium-blue-mascot-registration-september",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-06-01T14:00:54+0000",
+      "summary": "Participants have exclusive opportunity to finish race on 50-yard line of Lucas Oil Stadium."
     }
   ],
   "links": [
