@@ -1,50 +1,41 @@
 {
-  "updated": "2026-07-29T16:48:41+00:00",
+  "updated": "2026-07-29T18:05:38+00:00",
   "items": [
     {
-      "id": "237ae4f6c9685542",
-      "title": "Is Patriots' Drake Maye contender for No. 1 spot on 2026 NFL Top 100?",
-      "link": "https://sports.yahoo.com/articles/patriots-drake-maye-contender-no-163834218.html",
+      "id": "e72a2409c94b1c70",
+      "title": "What is Madden 99 Club? History of NFL video game's top-rated players",
+      "link": "https://sports.yahoo.com/articles/madden-99-club-history-nfl-175437200.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-29T16:38:34+0000",
-      "summary": "Patriots Drake Maye was named among the contenders for the No. 1 spot in the 2026 &quot;NFL Top 100.&quot;"
+      "published": "2026-07-29T17:54:37+0000",
+      "summary": "WR Ja'Marr Chase, QB Josh Allen and DE Myles Garrett repeat their 99 ratings from last year's game. See who else has maxed out over the years."
     },
     {
-      "id": "d89e6eec91a8a635",
-      "title": "‘Why It Cut Him So Deep’ — Jemele Hill Defends Ryan Clark’s Emotional Reaction to ESPN Firing After Spending 2 Days With Him",
-      "link": "https://sports.yahoo.com/articles/why-cut-him-deep-jemele-163551294.html",
+      "id": "0e4443bd98f86798",
+      "title": "Patriots' TreVeyon Henderson Contract Future has Jahmyr Gibbs, Bijan Robinson to Watch",
+      "link": "https://sports.yahoo.com/articles/patriots-treveyon-henderson-contract-future-174704422.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-29T16:35:51+0000",
-      "summary": "Former ESPN broadcaster Jemele Hill publicly defended Ryan Clark on Tuesday following media criticism surrounding the former NFL safety’s emotional reaction to his sudden departure from the network. Clark was notified of his termination during a commercial break while hosting NFL Live on July 20, 2026, ending a decade-long tenure during which he earned a Sports Emmy and became a staple of major studio programming."
+      "published": "2026-07-29T17:47:04+0000",
+      "summary": "The RB contract market is about to get reset in the NFL."
     },
     {
-      "id": "8a142a87b32d93ac",
-      "title": "‘Can’t Make It Up,’ ‘So Cooked’ — NFL World Roasts Keon Coleman for Dropping the First Pass of Bills’ Training Camp",
-      "link": "https://sports.yahoo.com/articles/t-cooked-nfl-world-roasts-163548760.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-29T16:35:48+0000",
-      "summary": "This offseason, the Buffalo Bills set out to upgrade their WR room, and they got that done by trading for DJ Moore. It’s not like Buffalo has been averse to investing in that position, as shown by the Moore deal, but the others haven’t worked out."
+      "id": "7c8ef06bfcea3e69",
+      "title": "Daniel Jones looks 'really good' in first practice of Colts training camp",
+      "link": "https://colts-frontend.pocket.nfl.com/news/daniel-jones-looks-really-good-in-first-practice-of-colts-training-camp",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-29T17:39:50+0000",
+      "summary": "Jones looked very much like himself during the Colts' curtain-lifting training camp practice on Wednesday at Grand Park."
     },
     {
-      "id": "64e1713f89f33e8a",
-      "title": "Jalen Carter cared more about staying with Eagles than record contract",
-      "link": "https://sports.yahoo.com/articles/jalen-carter-cared-more-staying-163423742.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-29T16:34:23+0000",
-      "summary": "Jalen Carter said remaining with the Eagles mattered more than becoming the highest-paid defensive tackle in NFL history"
-    },
-    {
-      "id": "76c6fac2d556b950",
-      "title": "Hall of Fame Game 2026: Schedule, time and how to watch as Cardinals and Panthers kick off NFL preseason",
-      "link": "https://sports.yahoo.com/nfl/article/hall-of-fame-game-2026-schedule-time-and-how-to-watch-as-cardinals-and-panthers-kick-off-nfl-preseason-163225090.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-07-29T16:32:25+0000",
-      "summary": "The Hall of Fame Game is the first sign the NFL regular season is just around the corner."
+      "id": "3f14e3f3d4f28b26",
+      "title": "With Colts' rushing record in sight, Jonathan Taylor hopes fatherhood can power him past it",
+      "link": "https://colts-frontend.pocket.nfl.com/news/with-colts-rushing-record-in-sight-jonathan-taylor-hopes-fatherhood-can-power-him-past-it",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-29T17:31:25+0000",
+      "summary": "Jonathan and Ayanna Taylor welcomed their first child during the offseason."
     },
     {
       "id": "2be50ac8cf27e05c",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-06-30T10:00:01+0000",
       "summary": "As fans make plans for Colts Training Camp at Grand Park, six Primetime Practices will once again headline the summer, delivering a high-energy experience that blends football, entertainment and community impact."
+    },
+    {
+      "id": "c15988caee4c0b2c",
+      "title": "Subscribe to the Colts Show Podcast and be ready for the 2026 NFL season",
+      "link": "https://colts-frontend.pocket.nfl.com/news/2026-nfl-football-season-colts-players-news-podcast-bernhard-raimann-tanor-bortolini-mo-alie-cox-carlie-irsay-gordon-edgerrin-james-daniel-jones-riley-leonard-quarterback-qb-jonathan-taylor-indianapolis",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-06-29T10:00:19+0000",
+      "summary": "Every Tuesday, JJ Stankevitz discusses the most important topics about the Colts and brings you exclusive conversations with players, coaches, front office staffers, national media members and more."
     }
   ],
   "links": [
