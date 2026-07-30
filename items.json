@@ -1,14 +1,32 @@
 {
-  "updated": "2026-07-30T21:41:25+00:00",
+  "updated": "2026-07-30T23:05:01+00:00",
   "items": [
     {
-      "id": "ee4582860445969b",
-      "title": "NFL insider Mike Garofalo provides big update on Leonard Williams extension talks",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-mike-garofalo-provides-212411315.html",
+      "id": "82676785f625c187",
+      "title": "NFL Network officially made available to ESPN Unlimited subscribers",
+      "link": "https://sports.yahoo.com/articles/nfl-network-officially-made-available-223023436.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-07-30T21:24:11+0000",
-      "summary": "An update on the Seahawks’ Leonard Williams contract negotiations."
+      "published": "2026-07-30T22:30:23+0000",
+      "summary": "ESPN formally acquired NFL Network on April 1, and starting July 30 the network is available directly to ESPN subscribers. On Thursday, ESPN announced that NFL Network programming is now available to all ESPN subscribers with access to the Unlimited tier of the ESPN app. That now includes most major cable, satellite, and virtual pay-TV…"
+    },
+    {
+      "id": "2fc6b8250299b7d8",
+      "title": "Colts Blue Zone Podcast 475: So Many Training Camp Updates",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-475-so-many-training-camp-updates/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-07-30T22:10:27+0000",
+      "summary": "The Indianapolis Colts kicked off training camp at Westfield's Grand Park Sports Campus. Dave Griffiths, Mike Chappell and Matt Adams discuss top news from camp, including observations on Daniel Jones, Jonathan Taylor and DeForest Buckner. The show typically airs at 8 p.m. Thursdays on FOX59 NOW. You can also find it on YouTube, Apple Podcasts [...]"
+    },
+    {
+      "id": "248ad547d5250e28",
+      "title": "Colts’ Mooney Ward: ‘I was pretty sure I was done’",
+      "link": "https://fox59.com/sports/colts-mooney-ward-i-was-pretty-sure-i-was-done/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-07-30T21:58:19+0000",
+      "summary": "WESTFIELD – Charvarius – he prefers Mooney – Ward Sr. cradled motivation in his left arm. That would be Mooney Jr., the almost-2-year-old son of Ward and fiancée Monique Cook. Mini-Mooney looked up as his dad spent a few revealing minutes with the media Thursday. Occasionally he reached out for the microphone. The connection was [...]"
     },
     {
       "id": "1810fc3009659279",
@@ -21,12 +39,12 @@
     },
     {
       "id": "8e12020bd3c1a162",
-      "title": "Defense scores twice on Day 2",
+      "title": "Colts defense scores twice on Day 2",
       "link": "https://stampedeblue.com/indianapolis-colts-training-camp/125743/defense-scores-twice-on-day-2",
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-07-30T19:48:12+0000",
-      "summary": "WESTFIELD, Ind. — Indianapolis Colts Quarterback Daniel Jones sold the play-action before rolling right and looking to find tight end Tyler Warren in rhythm, but with defensive end Laiatu Latu chasing him down quickly, Jones released the pass just behind Warren, which allowed linebacker Austin Ajiake to undercut the throw and race the other way [&#8230;]"
+      "summary": "WESTFIELD, Ind. — Indianapolis Colts quarterback Daniel Jones sold the play-action before rolling right, looking to find tight end Tyler Warren in rhythm, but with defensive end Laiatu Latu chasing him down quickly, Jones released the pass just behind Warren, which allowed linebacker Austin Ajiake to undercut the throw and race the other way untouched [&#8230;]"
     },
     {
       "id": "f5ecf9f465531938",
@@ -107,7 +125,7 @@
       "source": "Stampede Blue",
       "feed": "Stampede Blue",
       "published": "2026-07-29T20:00:00+0000",
-      "summary": "For perhaps the final time at Grand Park Sports Campus, the Indianapolis Colts turned the page toward a new season and opened training camp. The first practice won’t define the 2026 season, but Wednesday’s session featured a healthy starting quarterback, one of the league’s deepest secondaries and new faces stepping into more significant roles on [&#8230;]"
+      "summary": "WESTFIELD, Ind. — For perhaps the final time at Grand Park Sports Campus, the Indianapolis Colts turned the page toward a new season and opened training camp. The first practice won’t define the 2026 season, but Wednesday’s session featured a healthy starting quarterback, one of the league’s deepest secondaries and new faces stepping into more [&#8230;]"
     },
     {
       "id": "6474d7e680d5317c",
@@ -522,24 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-07-08T14:20:57+0000",
       "summary": "INDIANAPOLIS – The Indianapolis Colts will induct Hall of Fame kicker Adam Vinatieri into the team’s Ring of Honor. The induction ceremony will happen during the Oct. 18 home game against the Tennessee Titans. Vinatieri played in 365 games over 24 seasons with the Colts (2006-2019) and New England Patriots (1996-2005). He finished with 2,673 [...]"
-    },
-    {
-      "id": "7610747dea1c7376",
-      "title": "Adam Vinatieri to be inducted into Colts Ring of Honor during Week 6 game vs. Tennessee Titans",
-      "link": "https://colts.com/news/adam-vinatieri-colts-ring-of-honor-pro-football-hall-of-fame-tennessee-titans-week-6-nfl-season-schedule-tickets",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-07-08T14:00:02+0000",
-      "summary": "Vinatieri will become the 21st honoree in the Colts Ring of Honor."
-    },
-    {
-      "id": "299fb31e460e32a5",
-      "title": "Important Colts, NFL dates for 2026, 2027: Training Camp, Week 1, NFL Combine, Free Agency, NFL Draft",
-      "link": "https://colts.com/news/important-colts-nfl-dates-for-2026-2027-training-camp-week-1-nfl-combine-free-agency-nfl-draft",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-07-07T17:28:13+0000",
-      "summary": "The NFL on Tuesday announced dates for key events through next spring."
     }
   ],
   "links": [
