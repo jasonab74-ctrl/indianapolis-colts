@@ -1,15 +1,6 @@
 {
-  "updated": "2026-08-09T09:37:01+00:00",
+  "updated": "2026-08-09T10:32:07+00:00",
   "items": [
-    {
-      "id": "f21455d5ddbc9f2c",
-      "title": "Eagles’ Lane Johnson makes Jason Kelce admission after revealing potential retirement decision",
-      "link": "https://sports.yahoo.com/articles/eagles-lane-johnson-makes-jason-092704753.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-09T09:27:04+0000",
-      "summary": "Philadelphia Eagles offensive tackle Lane Johnson revealed he might retire after the 2026-27 NFL season. The 36-year-old has been with the Eagles his entire 13-year NFL career so far, and the likelihood of next season being his last has grown exponentially since he discussed the same on Saturday."
-    },
     {
       "id": "bd2e48bb7ad8b540",
       "title": "Colts legendary PK Adam Vinatieri enshrined into football immortality",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-07-28T14:39:58+0000",
       "summary": "The veteran has been recovering from a herniated disc in his neck since Week 9 of 2025."
+    },
+    {
+      "id": "14bd3f8f92d93f22",
+      "title": "Colts, IHSAA discuss growth in girls flag football",
+      "link": "https://fox59.com/morning-news/colts-ihsaa-discuss-growth-in-girls-flag-football/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-07-28T11:33:43+0000",
+      "summary": "More than 100 Indiana high schools plan to field girls flag football teams during the 2026-2027 season, a major step in the push to make it an IHSAA-sanctioned sport. In Indiana, at least 100 schools must participate in a sport before it's sanctioned. The IHSAA designates a sport as \"emerging\" when at least 20 schools [...]"
     }
   ],
   "links": [
