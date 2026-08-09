@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-09T21:29:52+00:00",
+  "updated": "2026-08-09T21:59:55+00:00",
   "items": [
+    {
+      "id": "28c418dc952848cb",
+      "title": "Alec Pierce injury update as Colts WR continues to remain sidelined",
+      "link": "https://sports.yahoo.com/articles/alec-pierce-injury-colts-wr-213802193.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-09T21:38:02+0000",
+      "summary": "When will Alec Pierce return? That's a question the Indianapolis Colts are struggling to answer as the WR deals with an ankle injury."
+    },
+    {
+      "id": "bcbc8a2a7eea6060",
+      "title": "Steichen reveals Colts' plan at quarterback for first preseason game",
+      "link": "https://sports.yahoo.com/articles/steichen-reveals-colts-plan-quarterback-213631717.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-09T21:36:31+0000",
+      "summary": "Shane Steichen revealed the Colts' plan at quarterback for the team's first preseason game with New England."
+    },
+    {
+      "id": "c6905a3271498e6e",
+      "title": "Former Tennessee quarterback returning to Lions in NFL",
+      "link": "https://sports.yahoo.com/articles/former-tennessee-quarterback-returning-lions-213222197.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-09T21:32:22+0000",
+      "summary": "Former Vol signs with Detroit during the 2026 NFL preseason."
+    },
+    {
+      "id": "50cbe28ab9176ed8",
+      "title": "49ers rookie explains where coaches want him to improve most",
+      "link": "https://sports.yahoo.com/articles/49ers-rookie-explains-where-coaches-213001699.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-09T21:30:01+0000",
+      "summary": "The San Francisco 49ers added a talented pass rusher on Day 2 of the 2026 NFL draft, and his coaches believe there's one thing he needs to work on."
+    },
     {
       "id": "03cb5d35f8586937",
       "title": "Colts sign WR D.J. Montgomery, waive WR Liam Clifford",
@@ -18,6 +54,15 @@
       "feed": "Colts.com",
       "published": "2026-08-09T17:10:09+0000",
       "summary": "Both quarterbacks will see playing time in Thursday's preseason game against the New England Patriots."
+    },
+    {
+      "id": "bd2e48bb7ad8b540",
+      "title": "Colts legendary PK Adam Vinatieri enshrined into football immortality",
+      "link": "https://stampedeblue.com/indianapolis-colts-news/126163/colts-legendary-pk-adam-vinatieri-enshrined-into-football-immortality",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-08-09T03:15:51+0000",
+      "summary": "On Saturday, former legendary Indianapolis Colts placekicker was enshrined into football immortality in Canton, Ohio, as part of the Pro Football Hall of Fame’s Class of 2026: You can find Vinatieri’s entire Pro Football Hall of Fame speech here, which included humorous quips regarding his former New England Patriots head coach Bill Belichick, as well [&#8230;]"
     },
     {
       "id": "a7a0445185406e6b",
@@ -189,15 +234,6 @@
       "feed": "CBS4Indy",
       "published": "2026-08-06T12:02:50+0000",
       "summary": "INDIANAPOLIS – Jonathan Taylor and the Indianapolis Colts agreed on a contract extension. FOX59/CBS4's Mike Chappell, citing sources, confirmed the agreement. As ESPN’s Adam Schefter and Ian Rapoport were first to report, the two sides hammered out a two-year extension worth $44 million that includes $39 million in guaranteed money and incentives worth up to [...]"
-    },
-    {
-      "id": "b0990b7df4a217fb",
-      "title": "Indianapolis Colts 2026 schedule and scores",
-      "link": "https://stampedeblue.com/indianapolis-colts-schedule/125586/indianapolis-colts-2026-schedule-scores",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-08-06T02:24:58+0000",
-      "summary": "The Indianapolis Colts are hoping that their 2026 campaign will progress how last season’s first half fared before things surprisingly snowballed yet again for another late season collapse. With a fully healthy Daniel Jones at starting quarterback, the Colts featured a historically elite offense, and once sat at 8-2 at their midseason BYE week. However, [&#8230;]"
     },
     {
       "id": "617b271c4706b5c8",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-07-28T19:22:05+0000",
       "summary": "Jones sustained a torn Achilles' in December, and was recently given the all-clear for training camp when it opens Wednesday."
-    },
-    {
-      "id": "c046c81060481c5a",
-      "title": "Colts Training Camp Preview: Daniel Jones' mobility, Anthony Richardson Sr. & Riley Leonard battle for QB2, competition at wide receiver, linebacker & safety",
-      "link": "https://colts.com/news/colts-training-camp-preview-daniel-jones-mobility-anthony-richardson-sr-riley-leonard-battle-for-qb2-competition-at-wide-receiver-linebacker-safety",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-07-28T18:35:15+0000",
-      "summary": "The Colts reported to Grand Park on Tuesday, with their first practice of training camp taking place Wednesday. Here are the biggest things to keep an eye on over the next few weeks in Westfield."
-    },
-    {
-      "id": "1fac230e55df382a",
-      "title": "Colts announce Bill Walsh Diversity Coaching Fellows",
-      "link": "https://colts.com/news/indianapolis-colts-announce-bill-walsh-diversity-coaching-fellows",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-07-28T17:15:07+0000",
-      "summary": "The Colts made the announcement Tuesday."
-    },
-    {
-      "id": "d720ef59dcc5a8a1",
-      "title": "Colts have high expectations for WR Josh Downs to begin training camp",
-      "link": "https://colts.com/news/colts-have-high-expectations-for-wr-josh-downs-to-begin-training-camp",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-07-28T16:55:13+0000",
-      "summary": "Downs had 771 yards on 68 receptions in 2023, 803 yards on 72 receptions in 2024 and 566 yards on 58 receptions in 2025."
-    },
-    {
-      "id": "570c51bdf5426e55",
-      "title": "Colts' Buckner medically cleared for upcoming season",
-      "link": "https://fox59.com/sports/colts/colts-buckner-medically-cleared-for-upcoming-season/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-07-28T15:14:51+0000",
-      "summary": "INDIANAPOLIS -- A crucial piece of the Indianapolis Colts defense has been cleared to play. DeForest Buckner, the stalwart defensive end, told reporters he has been medically cleared to resume football activities. Buckner expected a \"ramp-up period\" as training camp starts for the Indianapolis Colts at Westfield's Grand Park Sports Campus. While he found his [...]"
     }
   ],
   "links": [
