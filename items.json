@@ -1,59 +1,14 @@
 {
-  "updated": "2026-08-13T18:25:41+00:00",
+  "updated": "2026-08-13T19:33:59+00:00",
   "items": [
     {
-      "id": "833a70bc5e07d584",
-      "title": "Hoosiers Daily News: Fernando Mendoza set to make NFL preseason debut",
-      "link": "https://sports.yahoo.com/articles/hoosiers-daily-news-fernando-mendoza-181227159.html",
+      "id": "6fc5f309d9be70e4",
+      "title": "Fernando Mendoza awestruck by Raiders' training facilities, entry into NFL life: 'They have a flippin’ pool!'",
+      "link": "https://sports.yahoo.com/nfl/article/fernando-mendoza-awestruck-by-raiders-training-facilities-entry-into-nfl-life-they-have-a-flippin-pool-192639985.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-13T18:12:27+0000",
-      "summary": "Indiana’s lone Heisman Trophy winner is set to make his debut at the professional level in Las Vegas today."
-    },
-    {
-      "id": "a4da3bf3dabdaa89",
-      "title": "Packers football is back! Shop Green Bay Packers Week 1 NFL tickets",
-      "link": "https://sports.yahoo.com/articles/packers-football-back-shop-green-181222373.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-13T18:12:22+0000",
-      "summary": "The Green Bay Packers begin the NFL preseason today. Here's how to buy tickets to the team's Week 1 matchup on Sunday, Sept. 13."
-    },
-    {
-      "id": "af242c9b5a966125",
-      "title": "NFL preseason Week 1: Joshua Dobbs' projection on Lions' depth chart",
-      "link": "https://sports.yahoo.com/articles/nfl-preseason-week-1-joshua-181032269.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-13T18:10:32+0000",
-      "summary": "Where Joshua Dobbs is projected on Detroit's depth chart ahead of the first 2026 NFL preseason game."
-    },
-    {
-      "id": "62c582f15886a686",
-      "title": "Boomer Esiason didn’t mince words over Tony Romo’s CBS career",
-      "link": "https://sports.yahoo.com/articles/boomer-esiason-didn-t-mince-180401059.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-13T18:04:01+0000",
-      "summary": "The former NFL QB has a clear stance on Romo's future with CBS."
-    },
-    {
-      "id": "35d1d85ceb65da06",
-      "title": "How to watch Fernando Mendoza’s NFL preseason debut",
-      "link": "https://sports.yahoo.com/articles/watch-fernando-mendoza-nfl-preseason-180202378.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-13T18:02:02+0000",
-      "summary": "Mendoza is likely set for a rematch with former Miami quarterback Carson Beck, who was picked by the Arizona Cardinals."
-    },
-    {
-      "id": "24ef47c99c46ec9f",
-      "title": "Karen Guregian: Did Christian Gonzalez just draw a line in the sand with the Patriots?",
-      "link": "https://sports.yahoo.com/articles/karen-guregian-did-christian-gonzalez-090155884.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-13T18:01:28+0000",
-      "summary": "Christian Gonzalez' absence from the Patriots joint practice with the Colts can't help but raise some eyebrows."
+      "published": "2026-08-13T19:26:39+0000",
+      "summary": "Anyone worried that the apparently wholesome Mendoza would be corrupted by Las Vegas can relax. The No. 1 overall pick just wants dinner and a movie after practice."
     },
     {
       "id": "96c8d72fa7540fd1",
@@ -540,6 +495,51 @@
       "feed": "CBS4Indy",
       "published": "2026-07-31T20:10:46+0000",
       "summary": "WESTFIELD – The prop was missing, but the optimism from ownership remained. One of the feature moments from previous training camps involved late owner Jim Irsay’s gab session with the media. He would be driven to an area of the Grand Park Sports Campus practice fields in a golf cart and offer his State of [...]"
+    },
+    {
+      "id": "5d379f2cad930c14",
+      "title": "Training Camp Notebook: Colts get first look at LB CJ Allen, kicking competition",
+      "link": "https://colts.com/news/training-camp-notebook-colts-get-first-look-at-lb-cj-allen-kicking-competition",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-31T17:21:45+0000",
+      "summary": "Allen was activated from PUP prior to Friday's practice."
+    },
+    {
+      "id": "066278f2cddf9f91",
+      "title": "Colts sign RB Roydell Williams",
+      "link": "https://colts.com/news/colts-sign-rb-roydell-williams",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-31T13:57:21+0000",
+      "summary": "The Colts made the roster move Friday."
+    },
+    {
+      "id": "bde144fa3f15998c",
+      "title": "Colts rookie LB CJ Allen cleared for return, removed from PUP list",
+      "link": "https://fox59.com/sports/colts/colts-rookie-lb-c-j-allen-cleared-for-return-removed-from-pup-list/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-07-31T13:27:00+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts didn’t expect rookie linebacker CJ Allen to miss much time, and they weren’t wrong. The team removed Allen from the Physically Unable to Perform (PUP) list. When the team started training camp in Westfield this week, it came as a surprise that Allen, the team’s highest pick in the 2026 [...]"
+    },
+    {
+      "id": "84de705fbb688f8b",
+      "title": "Colts remove LB CJ Allen from Active/Physically Unable to Perform list",
+      "link": "https://colts.com/news/colts-remove-lb-cj-allen-from-active-physically-unable-to-perform-list",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-31T12:43:27+0000",
+      "summary": "Allen will participate in his first training camp practice with the Colts on Friday after coming off PUP."
+    },
+    {
+      "id": "2fc6b8250299b7d8",
+      "title": "Colts Blue Zone Podcast 475: So Many Training Camp Updates",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-475-so-many-training-camp-updates/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-07-30T22:10:27+0000",
+      "summary": "The Indianapolis Colts kicked off training camp at Westfield's Grand Park Sports Campus. Dave Griffiths, Mike Chappell and Matt Adams discuss top news from camp, including observations on Daniel Jones, Jonathan Taylor and DeForest Buckner. The show typically airs at 8 p.m. Thursdays on FOX59 NOW. You can also find it on YouTube, Apple Podcasts [...]"
     }
   ],
   "links": [
