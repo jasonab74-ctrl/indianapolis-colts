@@ -1,24 +1,6 @@
 {
-  "updated": "2026-08-15T03:36:24+00:00",
+  "updated": "2026-08-15T04:28:05+00:00",
   "items": [
-    {
-      "id": "8122092332b45606",
-      "title": "NFL suspends Atlanta Falcons player James Pearce eight games over domestic violence arrest",
-      "link": "https://sports.yahoo.com/articles/nfl-suspends-atlanta-falcons-player-031300512.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-15T03:13:00+0000",
-      "summary": "Pearce, a first-round pick of the Falcons in 2025, did not appeal his suspension after a February arrest where he"
-    },
-    {
-      "id": "d1a3f7edbd82c155",
-      "title": "Steelers, DT Keeanu Benton reach deal on massive contract extension",
-      "link": "https://sports.yahoo.com/articles/steelers-dt-keeanu-benton-reach-025613841.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-15T02:56:13+0000",
-      "summary": "The Pittsburgh Steelers have reached a deal on a contract extension with defensive tackle Keeanu Benton, according to a report by Ian Rapoport of NFL Network."
-    },
     {
       "id": "9db4142c80a35732",
       "title": "Colts’ Anthony Richardson Sr.: Felt like my rookie year again",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-08-01T16:30:00+0000",
       "summary": "The Indianapolis Colts practice scheduled for 4:00 p.m. on Saturday, Aug. 1, has been moved indoors to the Grand Park Events Center."
+    },
+    {
+      "id": "f84920b42ed5b37f",
+      "title": "Indianapolis Colts move Saturday training camp practice indoors",
+      "link": "https://fox59.com/sports/colts/indianapolis-colts-move-saturday-training-camp-practice-indoors/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-01T16:07:03+0000",
+      "summary": "WESTFIELD, Ind. — The Indianapolis Colts have moved their training camp practice slated for Saturday afternoon indoors. The practice will now be held inside Grand Park Events Center in Westfield due to inclement weather. Colts City, an interactive experience for fans attending training camp, will be closed on Saturday. Moving practice indoors will also affect [...]"
+    },
+    {
+      "id": "ae3f75c2cda538ec",
+      "title": "Carlie Irsay-Gordon's mantra for 2026 Colts is 'find a way,' and she sees the right people in place to do just that",
+      "link": "https://colts.com/news/carlie-irsay-gordon-s-mantra-for-2026-colts-is-find-a-way-and-she-sees-the-right-people-in-place-to-do-just-that",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-07-31T23:00:34+0000",
+      "summary": "Irsay-Gordon spoke to the media following Friday's training camp practice at Grand Park."
     }
   ],
   "links": [
