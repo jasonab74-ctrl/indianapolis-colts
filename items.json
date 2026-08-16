@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-16T10:20:08+00:00",
+  "updated": "2026-08-16T10:47:51+00:00",
   "items": [
+    {
+      "id": "2d7ff3d74ffe81de",
+      "title": "National reporter goes to bat for DJ Turner",
+      "link": "https://sports.yahoo.com/articles/national-reporter-goes-bat-dj-103000132.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-16T10:30:00+0000",
+      "summary": "The Bengals cornerback looks like a soon-to-be NFL star."
+    },
     {
       "id": "a2c80d22a1be589b",
       "title": "NFL preseason winners and losers: Which rookies stood out?",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-08-03T14:32:45+0000",
       "summary": "The Indianapolis Colts today signed undrafted free agent cornerback Mekhi Rodgers and waived-injured cornerback Cameron Mitchell. If Mitchell clears waivers, he will revert to the Colts Injured Reserve list."
-    },
-    {
-      "id": "0e203409dc39c4c4",
-      "title": "The Week Ahead: 2026 Colts Training Camp August 3 - August 9",
-      "link": "https://colts.com/news/the-week-ahead-2026-colts-training-camp-august-practice-player-autographs-fireworks-blue-the-mascot",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-02T22:30:00+0000",
-      "summary": "The Indianapolis Colts will continue 2026 Colts Training Camp, presented by Koorsen Fire & Security, at Grand Park Sports Campus in Westfield, Ind., this week."
     }
   ],
   "links": [
