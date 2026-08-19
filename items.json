@@ -1,51 +1,6 @@
 {
-  "updated": "2026-08-19T10:54:40+00:00",
+  "updated": "2026-08-19T11:22:28+00:00",
   "items": [
-    {
-      "id": "f1745a1d9874af70",
-      "title": "3 Colts storylines to watch in joint practices v. Falcons",
-      "link": "https://sports.yahoo.com/articles/3-colts-storylines-watch-joint-104507842.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-19T10:45:07+0000",
-      "summary": "As the joint practices with the Falcons unfold, here are three Colts' storylines to watch for."
-    },
-    {
-      "id": "8ce16e694944aebc",
-      "title": "Carolina Panthers franchise value jumps 40%",
-      "link": "https://sports.yahoo.com/articles/carolina-panthers-franchise-value-jumps-103319279.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-19T10:33:19+0000",
-      "summary": "New NFL franchise valuations from Sportico show that the Carolina Panthers are now worth $8.07 billion, a whopping 40% gain from $5.76 billion last year."
-    },
-    {
-      "id": "4a08cf09e17674fd",
-      "title": "Steelers win the Super Bowl? Madden 27 makes wild prediction for 2026 season",
-      "link": "https://sports.yahoo.com/articles/steelers-win-super-bowl-madden-103119604.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-19T10:31:19+0000",
-      "summary": "Madden NFL 27 has finally arrived, and we used the new and improved franchise mode to simulate the outcome for the Pittsburgh Steelers’ 2026 season."
-    },
-    {
-      "id": "a6968b43e15255f8",
-      "title": "Paul Hornung's 1962 NFL Championship Game jersey to be auctioned",
-      "link": "https://sports.yahoo.com/articles/paul-hornungs-1962-nfl-championship-102937338.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-19T10:29:37+0000",
-      "summary": "The jersey Green Bay Packers halfback Paul Hornung wore in the 1962 NFL Championship Game is expected to sell for at least $60,000."
-    },
-    {
-      "id": "3ca39fdb72cef5df",
-      "title": "Ja’Kobi Lane faces his first big NFL test against the Vikings' secondary",
-      "link": "https://sports.yahoo.com/articles/ja-kobi-lane-faces-first-102558640.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-19T10:25:58+0000",
-      "summary": "Ja’Kobi Lane shined in his preseason debut, but Minnesota’s experienced, physical cornerbacks will present his toughest test yet"
-    },
     {
       "id": "1ae4abfd22e7204f",
       "title": "Can Colts fans wrap their arms around Daniel Jones?",
@@ -540,6 +495,51 @@
       "feed": "CBS4Indy",
       "published": "2026-08-07T03:24:28+0000",
       "summary": "WESTFIELD – Extension talks that had been headed in the right direction since the start of training camp reached the expected destination. Jonathan Taylor is under contract with the Indianapolis Colts through 2028 and is one of the NFL’s highest-paid running backs. Thursday, he signed a two-year, $44 million extension with $39 million in guarantees. [...]"
+    },
+    {
+      "id": "3868062a231624c0",
+      "title": "Colts players, head coach Shane Steichen react to RB Jonathan Taylor's extension",
+      "link": "https://colts.com/news/colts-players-head-coach-shane-steichen-react-to-rb-jonathan-taylor-s-extension",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-07T03:23:22+0000",
+      "summary": "The Colts announced the agreement with Taylor Thursday."
+    },
+    {
+      "id": "7f1b76ca6d2e951d",
+      "title": "Colts sign TE Pharaoh Brown, place TE Sean McKeon on injured reserve",
+      "link": "https://colts.com/news/colts-sign-te-pharaoh-brown-place-te-sean-mckeon-on-injured-reserve",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-06T20:55:08+0000",
+      "summary": "The Colts made the roster move Thursday."
+    },
+    {
+      "id": "d1370d9880e81547",
+      "title": "Colts sign RB Jonathan Taylor to contract extension",
+      "link": "https://colts.com/news/colts-sign-rb-jonathan-taylor-to-contract-extension",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-06T18:58:57+0000",
+      "summary": "Taylor set a franchise record for most rushing touchdowns in Colts history in 2025."
+    },
+    {
+      "id": "13464938326758e0",
+      "title": "Colts Blue Zone Podcast 476: JT's New Contract, Kicking Competition",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-476-jts-new-contract-kicking-competition/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-06T16:45:27+0000",
+      "summary": "In the latest edition of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams discuss Jonathan Taylor's contract extension and the kicking competition. Plus: the \"green dot\" debate, Vinny heads to the Hall of Fame and Daniel Jones makes a big move in quarterback rankings. The show typically airs at 8 p.m. [...]"
+    },
+    {
+      "id": "b85cdef4ce42ef21",
+      "title": "Colts, Jonathan Taylor agree on contract extension",
+      "link": "https://fox59.com/sports/colts/report-colts-jonathan-taylor-agree-on-contact-extension/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-06T12:02:50+0000",
+      "summary": "INDIANAPOLIS – Jonathan Taylor and the Indianapolis Colts agreed on a contract extension. FOX59/CBS4's Mike Chappell, citing sources, confirmed the agreement. As ESPN’s Adam Schefter and Ian Rapoport were first to report, the two sides hammered out a two-year extension worth $44 million that includes $39 million in guaranteed money and incentives worth up to [...]"
     }
   ],
   "links": [
