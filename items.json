@@ -1,23 +1,32 @@
 {
-  "updated": "2026-08-19T06:46:11+00:00",
+  "updated": "2026-08-19T07:36:06+00:00",
   "items": [
     {
-      "id": "1e4fecc918f3062c",
-      "title": "‘Why Don’t You Do That?’ — 3-Time Super Bowl Champion Admonishes Patriots For Failing to Take Care of Business With Christian Gonzalez",
-      "link": "https://sports.yahoo.com/articles/why-don-t-3-time-055557500.html",
+      "id": "2ebff048fddd3c82",
+      "title": "‘Sounds Pretty Sexist,’ ‘Infantilizing, Patronizing’ — NFL’s Rumored Madison Beer, Olivia Ponton-Centric Plan to Drive Viewership Backfires",
+      "link": "https://sports.yahoo.com/articles/sounds-pretty-sexist-infantilizing-patronizing-070709343.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-19T05:55:57+0000",
-      "summary": "The New England Patriots know Christian Gonzalez is a key piece of their defense, but the clock is not exactly working in their favor. The team has already shown a willingness to make Gonzalez one of the NFL’s highest-paid cornerbacks, yet the market has shifted again while the sides remain apart."
+      "published": "2026-08-19T07:07:09+0000",
+      "summary": "The NFL is always looking for ways to bring younger fans into the sport, but one reported strategy is already facing plenty of criticism. A report from Front Office Sports (FOS) suggested that the league has been intentionally highlighting star quarterbacks and their high-profile partners as part of an effort to reach more Gen Z and female viewers."
     },
     {
-      "id": "a6caa9c610fecae1",
-      "title": "2 Ravens first-stringers in danger of losing starting jobs ahead of 2026 NFL season",
-      "link": "https://sports.yahoo.com/articles/2-ravens-first-stringers-danger-054912719.html",
+      "id": "c8a399249e13fc68",
+      "title": "Josh Allen has perfect response when offered a snow game in new commercial",
+      "link": "https://sports.yahoo.com/articles/josh-allen-perfect-response-offered-070041515.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-19T05:49:12+0000",
-      "summary": "Trenton Simpson and Danny Pinter face mounting competition as the Ravens finalize their starting lineup for the 2026 NFL season."
+      "published": "2026-08-19T07:00:41+0000",
+      "summary": "Josh Allen joins Matthew Stafford and Micah Parsons in New Era's new NFL campaign and has a predictable response when a snow game comes up."
+    },
+    {
+      "id": "e843875b63dfc52b",
+      "title": "‘The Circus Don’t Go to the Super Bowls’ — Ex-Buccaneers QB Blames Cowboys’ ‘Distractions’ for 30-Year Title Drought",
+      "link": "https://sports.yahoo.com/articles/circus-don-t-super-bowls-064511083.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-19T06:45:11+0000",
+      "summary": "The Dallas Cowboys have spent three decades trying to get back to the Super Bowl, but former NFL quarterback Chris Simms believes their biggest problem isn’t a lack of talent. According to the former Tampa Bay Buccaneers quarterback and current NBC Sports analyst, Dallas has too often allowed contract drama, media attention, and organizational distractions to become part of the story."
     },
     {
       "id": "e9073b4a708bf8f5",
@@ -531,15 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-08-06T20:55:08+0000",
       "summary": "The Colts made the roster move Thursday."
-    },
-    {
-      "id": "d1370d9880e81547",
-      "title": "Colts sign RB Jonathan Taylor to contract extension",
-      "link": "https://colts.com/news/colts-sign-rb-jonathan-taylor-to-contract-extension",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-06T18:58:57+0000",
-      "summary": "Taylor set a franchise record for most rushing touchdowns in Colts history in 2025."
     }
   ],
   "links": [
