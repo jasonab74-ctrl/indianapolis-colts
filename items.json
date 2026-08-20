@@ -1,23 +1,59 @@
 {
-  "updated": "2026-08-20T17:26:10+00:00",
+  "updated": "2026-08-20T17:56:03+00:00",
   "items": [
     {
-      "id": "c86c9a9de82b437b",
-      "title": "NFL preseason Week 2: Raiders' Fernando Mendoza set for more action; Justin Herbert, Mike McDaniel partnership on display in L.A.",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-preseason-week-2-raiders-fernando-mendoza-set-for-more-action-justin-herbert-mike-mcdaniel-partnership-on-display-in-la-171613711.html",
+      "id": "2a40e3e74bc2a28e",
+      "title": "NFL betting, odds: Kansas City Chiefs have longest Super Bowl odds since Patrick Mahomes' first year as starter",
+      "link": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-kansas-city-chiefs-have-longest-super-bowl-odds-since-patrick-mahomes-first-year-as-starter-174558896.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-20T17:16:13+0000",
-      "summary": "Here's a look at who's in and who's out for Thursday night's NFL preseason schedule."
+      "published": "2026-08-20T17:45:58+0000",
+      "summary": "The Chiefs are currently 16-1 to win the Super Bowl, which is unfamiliar preseason territory for Patrick Mahomes."
     },
     {
-      "id": "55b19e273be9198f",
-      "title": "Where to watch Raiders-Texans game tonight live. Time, streaming, NFL schedule",
-      "link": "https://sports.yahoo.com/articles/where-watch-raiders-texans-game-171223185.html",
+      "id": "7047461707e9472e",
+      "title": "CB Ennis Rakestraw left Lions practice with a leg injury",
+      "link": "https://sports.yahoo.com/articles/cb-ennis-rakestraw-left-lions-174522466.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-20T17:12:23+0000",
-      "summary": "NFL preseason kicks off Week 2 when the Houston Texans host the Las Vegas Raiders on Thursday. Start time, how to watch live, streaming and NFL TV schedule."
+      "published": "2026-08-20T17:45:22+0000",
+      "summary": "Lions cornerback Ennis Rakestraw has battled injuries for most of his time in the NFL and he suffered another one on Thursday."
+    },
+    {
+      "id": "e3c81e8ae86decb7",
+      "title": "Colts secondary lands middle of pack in latest NFL ranking",
+      "link": "https://sports.yahoo.com/articles/colts-secondary-lands-middle-pack-174355746.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-20T17:43:55+0000",
+      "summary": "Indianapolis has talent in the secondary, but questions about health and continuity keep the unit out of the NFL's top tier."
+    },
+    {
+      "id": "813ab5b0b0818fa1",
+      "title": "Where to watch 49ers-Chargers game tonight live. Time, streaming, NFL schedule",
+      "link": "https://sports.yahoo.com/articles/where-watch-49ers-chargers-game-173646339.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-20T17:36:46+0000",
+      "summary": "NFL preseason Week 2 rolls on when the Los Angeles Chargers host the San Francisco 49ers Thursday. Time, how to watch live, streaming and NFL TV schedule."
+    },
+    {
+      "id": "c985c8bf3f6cc41d",
+      "title": "Falcons vs. Colts: Highlights from joint practice No. 1",
+      "link": "https://sports.yahoo.com/articles/falcons-vs-colts-highlights-joint-173351796.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-20T17:33:51+0000",
+      "summary": "Watch highlights from the Falcons' first joint practice with the Indianapolis Colts"
+    },
+    {
+      "id": "d08855a1915bca1b",
+      "title": "‘They’ve Already Changed Their Tune’ — Ex-NFL QB Sees Fernando Mendoza Overtaking Kirk Cousins As Raiders’ QB1",
+      "link": "https://sports.yahoo.com/articles/ve-already-changed-tune-ex-173340814.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-08-20T17:33:40+0000",
+      "summary": "The Las Vegas Raiders entered training camp insisting Kirk Cousins was their starting quarterback. Chris Simms believes Fernando Mendoza is making that stance harder to maintain by the day."
     },
     {
       "id": "3c93b956b8425fee",
@@ -504,42 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-08-10T13:59:00+0000",
       "summary": "Mit der „Colts FanZone at Greenwood“, präsentiert von Lucas Oil, schaffen die Indianapolis Colts am NFL Game Weekend im Oktober den zentralen Treffpunkt für Fans des Teams und der NFL"
-    },
-    {
-      "id": "4068621b7d8754a4",
-      "title": "Colts will use Anthony Richardson Sr., Riley Leonard in preseason opener versus Pats",
-      "link": "https://fox59.com/sports/colts/colts-will-use-anthony-richardson-sr-riley-leonard-in-preseason-opener-versus-pats/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-08-10T00:13:09+0000",
-      "summary": "INDIANAPOLIS – The next step in sorting through one of the more interesting training camp battles intensifies next week. So does Anthony Richardson Sr.’s attempt at re-establishing himself. After Sunday’s work at Grand Park Sports Campus in Westfield, coach Shane Steichen said the “plan right now” is for Richardson and Riley Leonard to share the [...]"
-    },
-    {
-      "id": "03cb5d35f8586937",
-      "title": "Colts sign WR D.J. Montgomery, waive WR Liam Clifford",
-      "link": "https://colts.com/news/colts-sign-wr-d-j-montgomery-waive-wr-liam-clifford",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-09T18:11:54+0000",
-      "summary": "The Colts made the roster move on Sunday."
-    },
-    {
-      "id": "d3d55f97991e5321",
-      "title": "Training Camp Notebook: How Riley Leonard, Anthony Richardson Sr. feel about where they stand in backup battle",
-      "link": "https://colts.com/news/training-camp-notebook-how-riley-leonard-anthony-richardson-sr-feel-about-where-they-stand-in-backup-battle",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-09T17:10:09+0000",
-      "summary": "Both quarterbacks will see playing time in Thursday's preseason game against the New England Patriots."
-    },
-    {
-      "id": "3e411bfc8d9b20f1",
-      "title": "Colts head coach Shane Steichen a top 3 playcaller in NFL, says Sauce Gardner",
-      "link": "https://colts.com/news/colts-head-coach-shane-steichen-a-top-3-playcaller-in-nfl-says-sauce-gardner",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-08T16:44:43+0000",
-      "summary": "Practicing against Shane Steichen's offense during training camp has led cornerback Sauce Gardner to hold his head coach in high regard."
     }
   ],
   "links": [
