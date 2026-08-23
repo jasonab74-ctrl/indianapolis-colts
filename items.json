@@ -1,50 +1,23 @@
 {
-  "updated": "2026-08-23T10:49:32+00:00",
+  "updated": "2026-08-23T11:18:56+00:00",
   "items": [
     {
-      "id": "8f0ec8b8f641036b",
-      "title": "Falcons rookie watch: Takeaways from preseason win over Colts",
-      "link": "https://sports.yahoo.com/articles/falcons-rookie-watch-takeaways-preseason-103032716.html",
+      "id": "936dac4062d48f13",
+      "title": "NFL games on TV today: Full schedule, times, channels, live streams to watch preseason Week 2",
+      "link": "https://sports.yahoo.com/articles/nfl-games-tv-today-full-050001894.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-23T10:30:32+0000",
-      "summary": "Atlanta had several rookies shine in Indianapolis"
+      "published": "2026-08-23T11:02:01+0000",
+      "summary": "Here's all you need to know to watch today's preseason games."
     },
     {
-      "id": "45a01934da139f38",
-      "title": "Cleveland Browns news: Did the Browns look like they belonged?",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-did-browns-103000777.html",
+      "id": "fab05e7e1579bb49",
+      "title": "Broncos have one player on Fox’s NFL Half-Decade Team",
+      "link": "https://sports.yahoo.com/articles/broncos-one-player-fox-nfl-110108920.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-08-23T10:30:00+0000",
-      "summary": "The latest Cleveland Browns news and notes from around the NFL in the August 23 edition of the Sunday Dawg Chow."
-    },
-    {
-      "id": "0aad52643dd80bdd",
-      "title": "What channel is Titans vs. Seahawks game tonight? Start time, schedule, streaming",
-      "link": "https://sports.yahoo.com/articles/channel-titans-vs-seahawks-game-102034528.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T10:20:34+0000",
-      "summary": "NFL preseason action continues with Sunday night's game between the Seahawks and Titans at Nissan Stadium. Here's where to watch the NFL game today."
-    },
-    {
-      "id": "6142d9ee37a4521a",
-      "title": "Lions injury updates after NFL preseason date vs. Commanders",
-      "link": "https://sports.yahoo.com/articles/lions-injury-updates-nfl-preseason-101539987.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T10:15:39+0000",
-      "summary": "What's the update on the injury front after the Detroit Lions' win over the Washington Commanders in NFL preseason action?"
-    },
-    {
-      "id": "9b7f97576fc33a08",
-      "title": "NFL preseason winners, losers: Deshaun Watson remains a tone-deaf has-been | Opinion",
-      "link": "https://sports.yahoo.com/articles/nfl-preseason-winners-losers-deshaun-101538797.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T10:15:38+0000",
-      "summary": "The Cleveland quarterback probably lost team's starting QB competition on the field Saturday. He was worse at the podium afterward."
+      "published": "2026-08-23T11:01:08+0000",
+      "summary": "FOX Sports recently put together a team from the best NFL players for the first half of the 2020s. One player from the Denver Broncos earned a spot."
     },
     {
       "id": "4d88c04724de307f",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-08-12T17:00:00+0000",
       "summary": "The Indianapolis Colts and Fanatics today announced an extension of their long-term partnership, which will see Fanatics continue as the team’s official e-commerce and stadium retail partner, a designation that has been in place since 2020."
+    },
+    {
+      "id": "b02ea13898aa7a89",
+      "title": "How Colts LB coach James Bettcher will evaluate the linebacker room",
+      "link": "https://colts.com/news/how-colts-lb-coach-james-bettcher-will-evaluate-the-linebacker-room",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-12T13:00:30+0000",
+      "summary": "Six players have rotated first-team reps at the position throughout training camp."
+    },
+    {
+      "id": "f13f56538b997f96",
+      "title": "FOX59/CBS4 previews new offerings from Indianapolis Colts' culinary team ahead of 2026 season",
+      "link": "https://fox59.com/sports/colts/fox59-cbs4-previews-new-offerings-from-indianapolis-colts-culinary-team-ahead-of-2026-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-11T23:22:01+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts' first home game of the year, a preseason matchup against the Atlanta Falcons, is just 11 days away. On Tuesday, the organization hosted a culinary showcase, highlighting the new creations Executive Chef David Dyrek and his team have crafted for the upcoming season. In total, seven new items will be [...]"
+    },
+    {
+      "id": "2f6c150f4beeb10a",
+      "title": "Anthony Richardson Sr. to start Colts’ preseason opener at Pats",
+      "link": "https://fox59.com/sports/anthony-richardson-sr-to-start-colts-preseason-opener-at-pats/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-11T20:02:04+0000",
+      "summary": "INDIANAPOLIS – Anthony Richardson Sr., you’re up. The Indianapolis Colts’ erstwhile quarterback of the future will take a step toward re-establishing himself in Thursday night’s preseason opener against the New England Patriots in Foxboro, Mass. After Tuesday’s joint practice with the Patriots, coach Shane Steichen said Richardson will start and play the first half of [...]"
     }
   ],
   "links": [
