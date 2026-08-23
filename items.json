@@ -1,51 +1,6 @@
 {
-  "updated": "2026-08-23T17:45:02+00:00",
+  "updated": "2026-08-23T18:25:58+00:00",
   "items": [
-    {
-      "id": "0c755e6bb5dce0d1",
-      "title": "NFL Top 100: 2 Arizona Cardinals opponents in players 20-11",
-      "link": "https://sports.yahoo.com/articles/nfl-top-100-2-arizona-173223669.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T17:32:23+0000",
-      "summary": "90 players of the 'NFL Top 100' have been revealed. The Cardinals will face 43 of them."
-    },
-    {
-      "id": "1e4acfe2b09f4ee2",
-      "title": "Patriots rookie quarterback shows off surprising ability during NFL pre-season game against the Eagles",
-      "link": "https://sports.yahoo.com/articles/patriots-rookie-quarterback-shows-off-172427447.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T17:24:27+0000",
-      "summary": "Patriots rookie Behren Morton put on a double act in the pre-season win over the Eagles. The quarterback was called on as an emergency punter, then won the game under centre."
-    },
-    {
-      "id": "b63cb339874993b4",
-      "title": "Former Gator, rookie Jake Slaughter named starting center for Chargers",
-      "link": "https://sports.yahoo.com/articles/former-gator-rookie-jake-slaughter-172242576.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T17:22:42+0000",
-      "summary": "Fresh out of the 2026 NFL draft, former Florida Gator Jake Slaughter was named the Los Angeles Chargers' starting center after a strong preseason."
-    },
-    {
-      "id": "84650718bf6738d4",
-      "title": "49ers’ George Kittle injury update provides massive NFL Week 1 optimism",
-      "link": "https://sports.yahoo.com/articles/49ers-george-kittle-injury-provides-172234194.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T17:22:34+0000",
-      "summary": "San Francisco 49ers tight end George Kittle now has a real shot to be ready by Week 1."
-    },
-    {
-      "id": "bca3760c06d97c59",
-      "title": "‘Is He in a Good Space?’ — NFL Insider Poses Blunt Questions on Deshaun Watson’s Future After Booing From Fans",
-      "link": "https://sports.yahoo.com/articles/good-space-nfl-insider-poses-172214452.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-23T17:22:14+0000",
-      "summary": "The Cleveland Browns’ quarterback battle has reached a critical point. ESPN NFL insider Jeremy Fowler believes the Browns must evaluate more than Watson’s performance after his rough second half against the Buffalo Bills."
-    },
     {
       "id": "a298feb02c39c75f",
       "title": "5 Colts Things: Seth McGowan, Spencer Shrader, CJ Allen and other notes from preseason Week 2",
@@ -540,6 +495,51 @@
       "feed": "Colts.com",
       "published": "2026-08-12T17:00:00+0000",
       "summary": "The Indianapolis Colts and Fanatics today announced an extension of their long-term partnership, which will see Fanatics continue as the team’s official e-commerce and stadium retail partner, a designation that has been in place since 2020."
+    },
+    {
+      "id": "b02ea13898aa7a89",
+      "title": "How Colts LB coach James Bettcher will evaluate the linebacker room",
+      "link": "https://colts.com/news/how-colts-lb-coach-james-bettcher-will-evaluate-the-linebacker-room",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-12T13:00:30+0000",
+      "summary": "Six players have rotated first-team reps at the position throughout training camp."
+    },
+    {
+      "id": "f13f56538b997f96",
+      "title": "FOX59/CBS4 previews new offerings from Indianapolis Colts' culinary team ahead of 2026 season",
+      "link": "https://fox59.com/sports/colts/fox59-cbs4-previews-new-offerings-from-indianapolis-colts-culinary-team-ahead-of-2026-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-11T23:22:01+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts' first home game of the year, a preseason matchup against the Atlanta Falcons, is just 11 days away. On Tuesday, the organization hosted a culinary showcase, highlighting the new creations Executive Chef David Dyrek and his team have crafted for the upcoming season. In total, seven new items will be [...]"
+    },
+    {
+      "id": "2f6c150f4beeb10a",
+      "title": "Anthony Richardson Sr. to start Colts’ preseason opener at Pats",
+      "link": "https://fox59.com/sports/anthony-richardson-sr-to-start-colts-preseason-opener-at-pats/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-11T20:02:04+0000",
+      "summary": "INDIANAPOLIS – Anthony Richardson Sr., you’re up. The Indianapolis Colts’ erstwhile quarterback of the future will take a step toward re-establishing himself in Thursday night’s preseason opener against the New England Patriots in Foxboro, Mass. After Tuesday’s joint practice with the Patriots, coach Shane Steichen said Richardson will start and play the first half of [...]"
+    },
+    {
+      "id": "7e3b9300a0f84974",
+      "title": "Training Camp Notebook: Daniel Jones, Tyler Warren shine as joint practice with Patriots ends on a high note",
+      "link": "https://colts.com/news/training-camp-notebook-daniel-jones-tyler-warren-shine-as-joint-practice-with-patriots-ends-on-a-high-note",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-11T18:10:43+0000",
+      "summary": "The Colts hit a major marker in their lead-up to the 2026 regular season on Tuesday in a joint practice with the New England Patriots. Here's what we saw in Foxborough on Tuesday:"
+    },
+    {
+      "id": "adad7bd5977d4e8c",
+      "title": "Anthony Richardson Sr. to start at QB for Colts in preseason opener vs. Patriots, Riley Leonard to start vs. Falcons",
+      "link": "https://colts.com/news/anthony-richardson-sr-to-start-at-qb-for-colts-in-preseason-opener-vs-patriots-riley-leonard-to-start-vs-falcons",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-11T17:37:25+0000",
+      "summary": "Daniel Jones will not play in at least the Colts' first two preseason games."
     }
   ],
   "links": [
