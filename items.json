@@ -1,33 +1,6 @@
 {
-  "updated": "2026-08-25T21:52:55+00:00",
+  "updated": "2026-08-25T22:24:24+00:00",
   "items": [
-    {
-      "id": "a009c928da1356ef",
-      "title": "Big Ten releases statement on restriction on former NFL players",
-      "link": "https://sports.yahoo.com/articles/big-ten-releases-statement-restriction-214411043.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-25T21:44:11+0000",
-      "summary": "The Big Ten has formally released a statement on their decision to restrict former NFL players from playing Big Ten Football"
-    },
-    {
-      "id": "9a06336564656e36",
-      "title": "Study finds 25% of deceased NFL players had CTE",
-      "link": "https://sports.yahoo.com/articles/study-finds-25-deceased-nfl-195713023.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-25T21:43:50+0000",
-      "summary": "The British Medical Journal found at least a quarter of all former NFL players who died between 2016 and 2021 had chronic traumatic encephalopathy at death.  CTE is a neurological disease tied to repeated head trauma.  “Let’s be more careful with our helmets,” said Dr. Neil Bhathela, Atrium Health sports neurologist."
-    },
-    {
-      "id": "f242b647aa04c9f2",
-      "title": "Vikings WR Jeshaun Jones gets a 3-game suspension for violating the NFL's substance abuse policy",
-      "link": "https://sports.yahoo.com/articles/vikings-wr-jeshaun-jones-gets-214154309.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-08-25T21:41:54+0000",
-      "summary": "Minnesota Vikings wide receiver Jeshaun Jones was issued a three-game suspension by the NFL for violating the league's substances of abuse policy.  The NFL's announcement of the punishment on Tuesday did not disclose the nature of the violation.  Jones spent each of the past two years on Minnesota's practice squad, before being promoted to the active roster and appearing in the final game of the 2025 season."
-    },
     {
       "id": "3f4524e79ff64b4a",
       "title": "Did Disney drop the ball on choice of obscure character for Colts apparel collaboration?",
@@ -540,6 +513,33 @@
       "feed": "Colts.com",
       "published": "2026-08-14T04:13:58+0000",
       "summary": "Anthony Richardson Sr. started and played the entire first half of the Colts' 13-13 tie with the New England Patriots to kick off the 2026 preseason."
+    },
+    {
+      "id": "d5599136017395f2",
+      "title": "Anthony Richardson Sr. had his moments - so did Spencer Shrader - in Colts’ 13-13 tie at Pats",
+      "link": "https://fox59.com/sports/colts/anthony-richardson-sr-had-his-moments-so-did-spencer-shrader-in-colts-13-13-tie-at-pats/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-14T03:30:06+0000",
+      "summary": "INDIANAPOLIS – Highlights, lowlights and everything in between from the Indianapolis Colts’ 13-13 tie with the New England Patriots Thursday night at Gillette Stadium. It was the Colts’ first preseason tie since a 28-all stalemate with Detroit in 1964. The NFL removed preseason tie possibilities in 2021 to lessen the risk of injuries. Richardson update [...]"
+    },
+    {
+      "id": "14280fe5d3b11618",
+      "title": "Colts and Patriots open preseason with a 13-13 tie",
+      "link": "https://fox59.com/sports/colts/colts-and-patriots-open-preseason-with-a-13-13-tie/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-14T02:43:42+0000",
+      "summary": "INDIANAPOLIS - The Indianapolis Colts and New England Patriots opened the 2026 preseason with a 13-13 tie at Gillette Stadium on Thursday night. Few starters played in the game after the two teams held a joint practice at the Patriots' practice facility on Tuesday morning. Starting quarterback Daniel Jones did not play as he works [...]"
+    },
+    {
+      "id": "2e3e51c2edc87e56",
+      "title": "Anthony Richardson Sr. finds groove, end zone in Colts' preseason opener vs. New England Patriots",
+      "link": "https://colts.com/news/anthony-richardson-riley-leonard-new-england-patriots-game-recap-preseason-week-1-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-08-14T02:42:49+0000",
+      "summary": "Richardson completed 11 of 14 passes and rushed for 53 yards with a touchdown New England Patriots."
     }
   ],
   "links": [
