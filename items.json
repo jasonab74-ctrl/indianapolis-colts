@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-02T12:33:37+00:00",
+  "updated": "2026-09-02T16:59:48+00:00",
   "items": [
     {
-      "id": "4e94880c4627af04",
-      "title": "Raiders announce NFL roster update for Dont'e Thornton Jr.",
-      "link": "https://sports.yahoo.com/articles/raiders-announce-nfl-roster-donte-120417503.html",
+      "id": "eaa5bf642671ccf0",
+      "title": "Image surfaces of Bills replacing Highmark Stadium grass ahead of 2026 NFL season",
+      "link": "https://sports.yahoo.com/articles/image-surfaces-bills-replacing-highmark-163441129.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-09-02T12:04:17+0000",
-      "summary": "Raiders announce roster update for former Vol Dont'e Thornton Jr."
+      "published": "2026-09-02T16:34:41+0000",
+      "summary": "Check out the Bills re-tooling the grass at Highmark Stadium ahead of the start of the 2026 NFL season."
     },
     {
       "id": "7f91a9de4beb93fd",
@@ -18,6 +18,15 @@
       "feed": "Colts.com",
       "published": "2026-09-01T20:54:50+0000",
       "summary": "Daniel Jones took nearly every first-team rep from Day 1 of training camp through the Colts' final preseason practice last week."
+    },
+    {
+      "id": "dff5f2318c31846b",
+      "title": "Colts’ Chris Ballard on Anthony Richardson Sr., Alec Pierce and, yes, Keenan Allen",
+      "link": "https://fox59.com/sports/colts-chris-ballard-on-anthony-richardson-sr-alec-pierce-and-yes-keenan-allen/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-09-01T20:05:57+0000",
+      "summary": "INDIANAPOLIS – During his 18-minute assessment of his latest version of his Indianapolis Colts, Chris Ballard’s attention was invariably was brought back to one player. That would be Keenan Allen, who was arrested last weekend on suspicion of operating a vehicle while intoxicated. “Good people make mistakes,’’ Ballard said Tuesday. “He’s a tremendous human being. [...]"
     },
     {
       "id": "7bab9a2582bdb3e1",
@@ -47,6 +56,15 @@
       "summary": "Keenan Allen is expected to be in the lineup for the Indianapolis Colts in Week 1 against the Baltimore Ravens. Colts general manager Chris Ballard told reporters Tuesday that Allen will play in the regular-season opener after the veteran wide receiver was arrested over the weekend for operating a vehicle while intoxicated. Ballard declined to [&#8230;]"
     },
     {
+      "id": "324391f38238a4e0",
+      "title": "'Good people make mistakes': Colts GM discusses Keenan Allen arrest",
+      "link": "https://fox59.com/sports/colts/good-people-make-mistakes-colts-gm-discusses-keenan-allen-arrest/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-09-01T15:52:32+0000",
+      "summary": "INDIANAPOLIS – Indianapolis Colts wide receiver Keenan Allen is expected to be in the lineup for Week 1 despite his weekend arrest. Colts General Manager Chris Ballard addressed the media Tuesday as the team gets ready for its Sept. 13 season opener against the Baltimore Ravens. Allen, signed last month to bolster the wide receiver [...]"
+    },
+    {
       "id": "15499c990a2f793b",
       "title": "Get the best of Stampede Blue on the new SB Nation app",
       "link": "https://stampedeblue.com/general/126827/stampede-blue-indianapolis-colts-nfl-coverage-sb-nation-app-download",
@@ -54,6 +72,15 @@
       "feed": "Stampede Blue",
       "published": "2026-09-01T12:00:00+0000",
       "summary": "It’s a big day for Stampede Blue. Today, the SB Nation app is live, and it’s the best way to follow the Colts.&#160; You can download it by searching SB Nation for iOS or Android. A year ago we made some big changes to our community, including offering fewer ads and the addition of the [&#8230;]"
+    },
+    {
+      "id": "a0d75cd73b183edb",
+      "title": "Colts reveal promotions, giveaways for new season",
+      "link": "https://fox59.com/sports/colts/colts-reveal-promotions-giveaways-for-new-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-09-01T11:52:13+0000",
+      "summary": "INDIANAPOLIS – From a Ring of Honor induction to a White Out and a Salute to Service, the Indianapolis Colts have several promotions set for the upcoming season. The team announced giveaways, promotions and halftime entertainment for its 2026-2027 home slate. Here’s a look: Week 1 vs. Baltimore Ravens (Sept. 13) Week 2 vs. Houston [...]"
     },
     {
       "id": "42f86dbb099e30d6",
@@ -83,6 +110,15 @@
       "summary": "The Indianapolis Colts announced their current 15-player practice squad, which means that they still have two more spots to potentially add to their taxi-man team: My initial reaction is that running back Ulysses Bentley IV, wide receiver (special teams return man) Anthony Gould, safety Daniel Scott, offensive guard Josh Sills, and wide receiver Nick Westbrook-Ikhine [&#8230;]"
     },
     {
+      "id": "e4fa8f7a68f5548c",
+      "title": "Colts sign 16 players to practice squad ahead of start to 2026 season",
+      "link": "https://fox59.com/sports/colts/colts-sign-15-players-to-practice-squad-ahead-of-start-to-2026-season/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-31T19:50:13+0000",
+      "summary": "INDIANAPOLIS -- After the team slashed its roster to 53 players on Sunday, the Indianapolis Colts signed several players to its practice squad. According to a news release from the team, the Colts signed the following 16 players to the practice squad on Monday: The Colts kick off the team's 2026 season with a game [...]"
+    },
+    {
       "id": "281d68bfe392f8b6",
       "title": "Colts sign 15 players to practice squad",
       "link": "https://colts.com/news/colts-sign-15-players-to-practice-squad",
@@ -99,6 +135,15 @@
       "feed": "Colts.com",
       "published": "2026-08-31T19:19:21+0000",
       "summary": "The Colts made the roster move on Monday."
+    },
+    {
+      "id": "8aa8915883645523",
+      "title": "Colts awarded CB Kapena Gushiken off waivers from Eagles",
+      "link": "https://fox59.com/sports/colts/colts-awarded-cb-kapena-gushiken-off-waivers-from-eagles/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-31T18:21:25+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts used the waiver wire Monday to add to their cornerback room. The team was awarded Kapena Gushiken, who had been waived by Philadelphia. The Eagles signed the 5-10, 189-pounder as an undrafted free agent who played at Ole Miss in 2025. The Colts were looking to bolster the position after [...]"
     },
     {
       "id": "986bbe9834836bd2",
@@ -164,6 +209,24 @@
       "summary": "Anthony Richardson’s tenure with the Colts has been nothing but mundane. A rollercoaster that produced some jaw dropping highs, but also some really embarrassing and painful lows. Year 3 was essentially a redshirt year for Anthony Richardson, a bit backwards in terms of standard development, but I do think it gave him a chance to [&#8230;]"
     },
     {
+      "id": "ba7b86d9904b0c1e",
+      "title": "Spencer Shrader earned his spot as Colts whittle roster to 53 (for now)",
+      "link": "https://fox59.com/sports/spencer-shrader-earned-his-spot-as-colts-whittle-roster-to-53-for-now/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-30T23:00:15+0000",
+      "summary": "INDIANAPOLIS – Spencer Shrader is embracing the first day of the rest of his NFL life. What it took to get to this point no longer matters. Shrader earned the Indianapolis Colts’ kicking position with perfection in three preseason games. He finished 5-for-5, which included converting 61- and 60-yard field goals. It marked the most [...]"
+    },
+    {
+      "id": "b1d72b19da7f7d41",
+      "title": "Colts slash roster to 53",
+      "link": "https://fox59.com/sports/colts-slash-roster-to-53/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-30T22:23:52+0000",
+      "summary": "INDIANAPOLIS – Here’s a look at the personnel moves made by the Indianapolis Colts Sunday while reaching the NFL’s 53-player roster limit (* denotes rookie)*. You can follow Mike Chappell on Twitter at @mchappell51."
+    },
+    {
       "id": "fec36933e7a44700",
       "title": "Colts announce initial 53-man roster for 2026 season",
       "link": "https://colts.com/news/colts-announce-initial-53-man-roster-for-2026-nfl-season",
@@ -191,6 +254,24 @@
       "summary": "The Colts on Sunday trimmed their roster from to 53 players ahead of the NFL's 6 p.m. deadline."
     },
     {
+      "id": "bb7721eda599568f",
+      "title": "After uneven preseason, Colts believe they're ready for what's next",
+      "link": "https://fox59.com/sports/after-uneven-preseason-colts-believe-theyre-ready-for-whats-next/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-30T21:10:59+0000",
+      "summary": "INDIANAPOLIS — On paper, it certainly didn’t appear to be a good preseason for the Colts. Three games, no wins, and just two touchdowns. However, Colts head coach Shane Steichen must have seen something I didn’t. In fact, he believes his team is in great shape. “I look at like everything,” he explained after his [...]"
+    },
+    {
+      "id": "7d2027c618ca7a38",
+      "title": "Colts acquire center Sedrick Van Pran-Granger in trade with Bills",
+      "link": "https://fox59.com/news/colts-acquire-center-sedrick-van-pran-granger-in-trade-with-bills/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-30T14:04:46+0000",
+      "summary": "INDIANAPOLIS — The Indianapolis Colts added to their roster before dealing with a massive subtraction. The team has acquired center Sedrick Van Pran-Granger from the Buffalo Bills, according to a source. The deal also involved swapping late-round draft picks; the Bills also sent the Colts a seventh-round pick while Indy shipped a sixth-rounder to Buffalo. [...]"
+    },
+    {
       "id": "cd6b0057e87877b8",
       "title": "Colts acquire C Sedrick Van Pran-Granger in trade with Buffalo Bills",
       "link": "https://colts.com/news/colts-acquire-c-sedrick-van-pran-granger-in-trade-with-buffalo-bills",
@@ -198,6 +279,24 @@
       "feed": "Colts.com",
       "published": "2026-08-30T13:52:09+0000",
       "summary": "The Colts sent a 2027 sixth-round draft pick to the Buffalo Bills exchange for Van Pran-Granger and a 2027 seventh-round draft pick."
+    },
+    {
+      "id": "0313df6533f6fc59",
+      "title": "Indianapolis Colts wide receiver Keenan Allen arrested on OWI charges",
+      "link": "https://fox59.com/news/colts-wr-keenan-allen-arrested-for-dui/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-30T10:16:51+0000",
+      "summary": "INDIANAPOLIS — Indianapolis Colts wide receiver Keenan Allen has been arrested on OWI charges. According to a public police report, the 34-year-old Colts wideout was arrested in downtown Indianapolis around 1 a.m. Sunday. He was preliminarily charged with operating a vehicle while intoxicated with an ACE of .08 or more and operating a vehicle while [...]"
+    },
+    {
+      "id": "7a9bee32c67fe973",
+      "title": "Colts’ Spencer Shrader’s comeback from knee injury capped by 60-yarder in loss to Lions",
+      "link": "https://fox59.com/sports/colts-spencer-shraders-comeback-from-knee-injury-capped-by-60-yarder-in-loss-to-lions/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-29T22:45:51+0000",
+      "summary": "INDIANAPOLIS – The low point wasn’t in the few days after Spencer Shrader’s right knee exploded. There were no pity parties or “Why me?’’ reflections after Las Vegas’ Tristin McCollum dove into Shrader’s knee on a PAT attempt following Jonathan Taylor’s 3-yard run Oct. 5 at Lucas Oil Stadium. In the blink of an eye, [...]"
     },
     {
       "id": "f4a7f8a35bfac68b",
@@ -218,6 +317,15 @@
       "summary": "The two have both taken snaps in the Colts' three preseason games."
     },
     {
+      "id": "afec2a60126fae98",
+      "title": "Colts lose to Lions 25-16 in the preseason finale",
+      "link": "https://fox59.com/sports/colts/colts-lose-to-lions-25-16-in-the-preseason-finale/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-29T19:55:14+0000",
+      "summary": "INDIANAPOLIS- The Indianapolis Colts fell to the Detroit Lions 25-16 on Saturday afternoon at Lucas Oil Stadium to finish the 2026 preseason winless. Most of the Colts starters played except for Daniel Jones, Jonathan Taylor, Alec Pierce, Tyler Warren and Charvarius Ward. Anthony Richardson started at quarterback and led the offense on two field goal [...]"
+    },
+    {
       "id": "4c0bed18d60cfce7",
       "title": "Rookies shine as Colts drop preseason finale to Detroit Lions",
       "link": "https://colts.com/news/rookies-shine-as-colts-drop-preseason-finale-to-detroit-lions",
@@ -227,6 +335,15 @@
       "summary": "Five Colts rookies recorded a forced turnover or takeaway in the loss."
     },
     {
+      "id": "a5b6dc499f73294d",
+      "title": "A tour around the Colts freshly redesigned pro-shop",
+      "link": "https://fox59.com/sports/colts/taking-a-tour-around-the-colts-redesigned-pro-shop/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-29T15:48:37+0000",
+      "summary": "INDIANAPOLIS— Just when you thought there was all the Colts merchandise in the world, the Horseshoes went ahead and changed the playbook. Hayden Barnack, the Colts Director of Marketing, delved into some of the newest additions. “We are always looking to level up our fan experience. We were one of the top teams last year [...]"
+    },
+    {
       "id": "8f3643986da9bad0",
       "title": "How to watch the Detroit Lions at Indianapolis Colts on August 29, 2026",
       "link": "https://colts.com/news/where-to-watch-indianapolis-colts-vs-detroit-lions-preseason-game-week-3-2026",
@@ -234,6 +351,24 @@
       "feed": "Colts.com",
       "published": "2026-08-29T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Detroit Lions at Indianapolis Colts on Saturday, August 29 at 1:00 p.m. ET (Preseason week 3)."
+    },
+    {
+      "id": "4faf3606dd4f2731",
+      "title": "Roof closed at Lucas Oil Stadium as Colts host the Lions in preseason",
+      "link": "https://fox59.com/sports/colts/roof-closed-at-lucas-oil-stadium-as-colts-host-the-lions-in-preseason/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-28T22:45:22+0000",
+      "summary": "INDIANAPOLIS -- The roof will be closed tomorrow at Lucas Oil Stadium as the Indianapolis Colts host the Detroit Lions in a preseason game. The game is slated to begin at 1 p.m. Saturday in downtown Indianapolis. This is the team’s third of three preseason games and second performance this season at Lucas Oil Stadium. [...]"
+    },
+    {
+      "id": "5922900f18e70789",
+      "title": "A look at how the Colts’ cut to 53 might wind up",
+      "link": "https://fox59.com/sports/colts/a-look-at-how-the-colts-cut-to-53-might-wind-up/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-28T20:04:07+0000",
+      "summary": "INDIANAPOLIS – Reality sets in Sunday at 6 p.m. That’s when the Indianapolis Colts and 31 other teams must slash 90-player rosters to 53. Do the math. That means in the blink of an eye, nearly 1,200 players must be released, waived or placed on the injured reserve list. A good portion of those players [...]"
     },
     {
       "id": "2635e33f10383fa5",
@@ -252,6 +387,24 @@
       "feed": "Colts.com",
       "published": "2026-08-28T15:42:01+0000",
       "summary": "Colts head coach Shane Steichen will play his starters between eight and 12 snaps in Saturday's final tune-up before the 2026 regular season kicks off on Sept. 13."
+    },
+    {
+      "id": "32b594ca7dc7b728",
+      "title": "Colts’ Alec Pierce: ‘Week 1 is the goal’",
+      "link": "https://fox59.com/sports/colts/colts-alec-pierce-week-1-is-the-goal/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-27T21:39:40+0000",
+      "summary": "INDIANAPOLIS – The next step in Alec Pierce’s rehab from ankle/heel surgery was taken Thursday afternoon, but there are others to come. After being elevated to the active roster from the physically unable to perform list (PUP), the NFL’s preeminent deep-threat receiver – league-leading 21.3 and 22.3 per-catch averages in the past two seasons – [...]"
+    },
+    {
+      "id": "734c62f7dd2d658a",
+      "title": "Colts sign P Rigoberto Sanchez to extension",
+      "link": "https://fox59.com/sports/colts/colts-sign-p-rigoberto-sanchez-to-extension/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-27T20:23:03+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts continued to prepare for the present while also keeping an eye on the future. The team announced Thursday it signed punter Rigoberto Sanchez to an extension. He was heading into the final year of the three-year, $7.5 million extension he signed in March 2024. His $2.5 million per-year average ranked [...]"
     },
     {
       "id": "c8f239dac35976e7",
@@ -281,6 +434,15 @@
       "summary": "The Colts activated Pierce from PUP Thursday."
     },
     {
+      "id": "a966f3642cf047cb",
+      "title": "Colts Blue Zone Podcast 479: Updates on Pierce and Ward, Backup QB Battle",
+      "link": "https://fox59.com/sports/colts/colts-blue-zone-podcast-479-updates-on-pierce-and-ward-backup-qb-battle/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-27T17:01:03+0000",
+      "summary": "In this edition of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams discuss injury updates from Alec Pierce and Mooney Ward. Plus: Josh Downs' role in the offense, battles for kicker and backup QB get (maybe) some clarity, Cam Bynum becomes a certified Green Dot Guy and a struggling cornerback gets [...]"
+    },
+    {
       "id": "d9b671793f5ae3d6",
       "title": "Colts remove WR Alec Pierce from Active/Physically Unable to Perform list",
       "link": "https://colts.com/news/colts-remove-wr-alec-pierce-from-active-physically-unable-to-perform-list",
@@ -288,6 +450,15 @@
       "feed": "Colts.com",
       "published": "2026-08-27T15:20:45+0000",
       "summary": "Pierce is off PUP and can begin participating in practice today."
+    },
+    {
+      "id": "567b06b0d7763e47",
+      "title": "Colts’ Charvarius Ward: Back issue ’something I’ve got to deal with, manage’",
+      "link": "https://fox59.com/sports/colts/colts-charvarius-ward-back-issue-something-ive-got-to-deal-with-manage/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-26T21:51:33+0000",
+      "summary": "INDIANAPOLIS – It’s not a stretch to consider the Indianapolis Colts possessing one of the premier secondaries in the NFL. That likely hinges on Charvarius Ward’s back. The team’s veteran cornerback returned to practice this week after missing roughly two weeks of training camp with pain and soreness in his back. So far, so good. [...]"
     },
     {
       "id": "6516a1633ed6bff4",
@@ -317,6 +488,15 @@
       "summary": "Walley sustained a torn ACL in August 2025, sidelining him for the season."
     },
     {
+      "id": "eb633f4d6d7122b5",
+      "title": "Colts’ Alec Pierce still on PUP, but that should change later this week",
+      "link": "https://fox59.com/sports/colts/colts-alec-pierce-still-on-pup-but-that-should-change-later-this-week/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-25T16:23:13+0000",
+      "summary": "INDIANAPOLIS – Alec Pierce’s availability for the Indianapolis Colts’ season opener is moving in the right direction. The team’s $114 million wide receiver remains on the physically unable to perform list (PUP) and will not practice today, but that may soon change. “He’s in a really good spot,’’ coach Shane Steichen said Tuesday. Is there [...]"
+    },
+    {
       "id": "3703de248440beb8",
       "title": "Colts hopeful Alec Pierce returns to practice this week, starters (minus Daniel Jones, Jonathan Taylor) to play 8-12 plays in preseason finale vs. Detroit Lions",
       "link": "https://colts.com/news/colts-hopeful-alec-pierce-returns-to-practice-this-week-starters-minus-daniel-jones-jonathan-taylor-to-play-8-12-plays-in-preseason-finale-vs-detroit-lions",
@@ -324,6 +504,15 @@
       "feed": "Colts.com",
       "published": "2026-08-25T15:59:25+0000",
       "summary": "Colts head coach Shane Steichen shared a handful of newsworthy items during his press conference prior to practice on Tuesday. We'll start with injury updates:"
+    },
+    {
+      "id": "2c236c963419f9d1",
+      "title": "Colts to debut 'Anvil Strike' uniforms in September",
+      "link": "https://fox59.com/sports/colts/colts-to-debut-anvil-strike-uniforms-in-september/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-25T14:28:54+0000",
+      "summary": "INDIANAPOLIS – The Indianapolis Colts will sport a new alternate uniform this season. Indy’s “Anvil Strike” Rivalries uniform will debut against AFC South divisional foe Houston on Sunday, Sept. 27, at Lucas Oil Stadium. The design is inspired by the team’s gameday tradition of striking an anvil before kickoff. The uniforms feature a steel gray [...]"
     },
     {
       "id": "89cb526b47a29805",
@@ -344,202 +533,13 @@
       "summary": "The Indianapolis Colts today unveiled the “Anvil Strike” Rivalries uniform, which the team will debut against AFC South division foe Houston on Sun., Sept. 27, at Lucas Oil Stadium."
     },
     {
-      "id": "a30b734e9f4dc760",
-      "title": "As kicking competition enters final stretch, Colts believe they 'can't go wrong' with Blake Grupe or Spencer Shrader",
-      "link": "https://colts.com/news/as-kicking-competition-enters-final-stretch-colts-believe-they-can-t-go-wrong-with-blake-grupe-or-spencer-shrader",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-24T19:55:44+0000",
-      "summary": "Colts special teams coordinator Brian Mason said both Blake Grupe and Spencer Shrader will get extra work this week, with roster cuts due by 6 p.m. on Sunday."
-    },
-    {
-      "id": "5dcdc0fc70bd9a40",
-      "title": "Colts release unofficial depth chart for preseason Week 3 game vs. Detroit Lions",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-preseason-week-3-game-vs-detroit-lions",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-24T17:50:22+0000",
-      "summary": "The Colts released their final unofficial depth chart of the 2026 preseason Monday."
-    },
-    {
-      "id": "a298feb02c39c75f",
-      "title": "5 Colts Things: Seth McGowan, Spencer Shrader, CJ Allen and other notes from preseason Week 2",
-      "link": "https://colts.com/news/5-colts-things-seth-mcgowan-spencer-shrader-cj-allen-and-other-notes-from-preseason-week-2",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-23T12:00:28+0000",
-      "summary": "The Colts' 34-6 loss to the Atlanta Falcons still featured some notable moments from a handful of players."
-    },
-    {
-      "id": "98a94b1b0ca9e41f",
-      "title": "One week from 53-man roster decisions, Anthony Richardson Sr.'s focus is to help Colts win",
-      "link": "https://colts.com/news/one-week-from-53-man-roster-decisions-anthony-richardson-sr-s-focus-is-to-help-colts-win",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-22T21:14:06+0000",
-      "summary": "The Colts have continued to send signals they would prefer to keep Richardson on their 53-man roster along with Daniel Jones and Riley Leonard."
-    },
-    {
-      "id": "23c564d55c8a5966",
-      "title": "Offense struggles as Colts drop second preseason game vs. Atlanta Falcons",
-      "link": "https://colts.com/news/offense-struggles-as-colts-drop-second-preseason-game-vs-atlanta-falcons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-22T19:59:19+0000",
-      "summary": "The Colts accounted for 171 yards of total offense in the 34-6 loss."
-    },
-    {
-      "id": "df738ce7caa0af6e",
-      "title": "How to watch the Atlanta Falcons at Indianapolis Colts on August 22, 2026",
-      "link": "https://colts.com/news/where-to-watch-indianapolis-colts-vs-atlanta-falcons-preseason-game-week-2-2026",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-22T12:00:00+0000",
-      "summary": "TV broadcast, radio and streaming information for Atlanta Falcons at Indianapolis Colts on Saturday, August 22 at 1:00 p.m. ET (Preseason week 2)."
-    },
-    {
-      "id": "a6461cfba378eba7",
-      "title": "Colts-Falcons preview: 5 players to watch at Lucas Oil Stadium on Saturday",
-      "link": "https://colts.com/news/colts-falcons-preview-5-players-to-watch-at-lucas-oil-stadium-on-saturday",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-21T15:11:55+0000",
-      "summary": "The Colts will sit the vast majority of their starters in Saturday's preseason game against the Atlanta Falcons at Lucas Oil Stadium, but there still will be plenty to watch in downtown Indianapolis during the second of three preseason contests."
-    },
-    {
-      "id": "30a906ff202db325",
-      "title": "Colts to unveil new 'Rivalries' uniforms on Aug. 25",
-      "link": "https://colts.com/news/colts-to-unveil-new-rivalries-uniforms-on-aug-25",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-21T14:00:00+0000",
-      "summary": "The Colts, along with the rest of the AFC South and NFC North, will participate in the NFL's Rivalries Uniform program in 2026."
-    },
-    {
-      "id": "ca461f3e622fd424",
-      "title": "Colts sign TE JJ Galbreath, waive CB Jai'Onte' McMillan",
-      "link": "https://colts.com/news/colts-sign-te-jj-galbreath-waive-cb-jai-onte-mcmillan",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-21T12:22:50+0000",
-      "summary": "The Colts made the roster move on Friday."
-    },
-    {
-      "id": "ccc2e72a98fed9b1",
-      "title": "The 5 biggest things we learned during Colts training camp",
-      "link": "https://colts.com/news/the-5-biggest-things-we-learned-during-colts-training-camp",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-20T23:34:52+0000",
-      "summary": "The Colts wrapped up training camp with the final of two joint practices with the Atlanta Falcons on Thursday. And while the cement isn't nearly dry on the 2026 preseason, there were plenty of significant developments we saw over the last few weeks in Westfield and Foxborough."
-    },
-    {
-      "id": "944ac4871e929cb1",
-      "title": "Training Camp Notebook: HC Shane Steichen, TE Mo Alie-Cox, DT Grover Stewart reflect on 2026 camp",
-      "link": "https://colts.com/news/training-camp-notebook-hc-shane-steichen-te-mo-alie-cox-dt-grover-stewart-reflect-on-2026-camp",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-20T22:28:43+0000",
-      "summary": "The Colts wrapped up this year's camp Thursday on a joint practice with the Atlanta Falcons."
-    },
-    {
-      "id": "6f4437372cd466ae",
-      "title": "Colts continue Indiana flood relief efforts",
-      "link": "https://colts.com/news/colts-continue-indiana-flood-relief-efforts",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-20T18:22:19+0000",
-      "summary": "The Colts encourage anyone looking to help flood-impacted communities to scan the QR code or follow the link below in the article."
-    },
-    {
-      "id": "3c93b956b8425fee",
-      "title": "What's new at Lucas Oil Stadium for the 2026 season",
-      "link": "https://colts.com/news/indianapolis-colts-lucas-oil-stadium-2026-nfl-season-schedule-gameday-tickets-parking-entry-gates-pro-shop-wifi-5050-raffle-food-beverage-uniforms-kids-nursing-giveaways-pregame-entertainment-themes",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-20T17:00:03+0000",
-      "summary": "As the Colts prepare to kick off the 2026 season, fans returning to Lucas Oil Stadium can expect upgraded amenities and fresh gameday experiences designed to make every visit better than ever."
-    },
-    {
-      "id": "690cb6c101968f18",
-      "title": "Training Camp Notebook: Why Shane Steichen sees Keenan Allen as good fit with Daniel Jones & in Colts' offense",
-      "link": "https://colts.com/news/training-camp-notebook-why-shane-steichen-sees-keenan-allen-as-good-fit-with-daniel-jones-in-colts-offense",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-19T22:19:57+0000",
-      "summary": "Steichen and Allen formed a close relationship during seven seasons together with the San Diego/Los Angeles Chargers."
-    },
-    {
-      "id": "93ea5ac51871c246",
-      "title": "WR Keenan Allen's relationship with Colts HC Shane Steichen goes way back",
-      "link": "https://colts.com/news/wr-keenan-allen-s-relationship-with-colts-hc-shane-steichen-goes-way-back",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-19T19:43:37+0000",
-      "summary": "The two spent time together with the Los Angeles Chargers from 2014-2020."
-    },
-    {
-      "id": "eb3d0abba9eca9a5",
-      "title": "Colts sign 6-time Pro Bowl WR Keenan Allen",
-      "link": "https://colts.com/news/colts-sign-6-time-pro-bowl-wr-keenan-allen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-19T18:30:09+0000",
-      "summary": "Allen brings 1,055 career receptions, 12,051 yards and 70 touchdowns to the Colts' offense."
-    },
-    {
-      "id": "b4b1d9a9ab3af5c0",
-      "title": "Colts sign T Roy Mbaeteka, TE Tyler Moore, T Trey Wedig; place TE Carson Towt on injured reserve; waive WR E.J. Horton Jr., T Bayron Matos",
-      "link": "https://colts.com/news/colts-sign-t-roy-mbaeteka-te-tyler-moore-t-trey-wedig-place-te-carson-towt-on-injured-reserve-waive-wr-e-j-horton-jr-t-bayron-matos",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-18T19:30:37+0000",
-      "summary": "The Colts announced the roster moves Tuesday."
-    },
-    {
-      "id": "27f135b5ac4ddefc",
-      "title": "Jonathan Taylor sits at No. 17 in NFL's Top 100",
-      "link": "https://colts.com/news/jonathan-taylor-sits-at-no-17-in-nfl-s-top-100",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-18T15:00:04+0000",
-      "summary": "Taylor previously made the list in 2022, ranked at No. 5."
-    },
-    {
-      "id": "26e22adde7f396ad",
-      "title": "The Week Ahead: 2026 Colts Training Camp August 19 - 20",
-      "link": "https://colts.com/news/the-week-ahead-2026-indianapolis-colts-training-camp-august-19-20-atlanta-falcons-kicking-the-stigma-primetime",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-17T18:30:00+0000",
-      "summary": "The Indianapolis Colts will conclude 2026 Colts Training Camp, presented by Koorsen Fire & Security, at Grand Park Sports Campus in Westfield, Ind., this week."
-    },
-    {
-      "id": "e93225fb3dd4f425",
-      "title": "Colts release unofficial depth chart for preseason Week 2 game vs. Atlanta Falcons",
-      "link": "https://colts.com/news/colts-release-unofficial-depth-chart-for-preseason-week-2-game-vs-atlanta-falcons",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-17T16:25:25+0000",
-      "summary": "The Colts released their latest unofficial depth chart on Monday ahead of Saturday's preseason game against the Atlanta Falcons at Lucas Oil Stadium."
-    },
-    {
-      "id": "cdbb89e62b43ad3b",
-      "title": "Training Camp Notebook: Daniel Jones and the reality of where Colts are in mid-August",
-      "link": "https://colts.com/news/training-camp-notebook-daniel-jones-and-the-reality-of-where-colts-are-in-mid-august",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-16T22:40:15+0000",
-      "summary": "The Colts practiced on Sunday at Grand Park ahead of two joint practices with the Atlanta Falcons this week to close out the training camp portion of the preseason."
-    },
-    {
-      "id": "b3d53605388b2b44",
-      "title": "Training Camp Notebook: DeForest Buckner continuing to make steady progress with eye on Colts' Week 1 opener",
-      "link": "https://colts.com/news/training-camp-notebook-deforest-buckner-continuing-to-make-steady-progress-with-eye-on-colts-week-1-opener",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-15T22:04:17+0000",
-      "summary": "Buckner's 43 sacks over the last six seasons are second-most among NFL defensive tackles since 2020."
+      "id": "ec5422173cdb797a",
+      "title": "Forget the ravaged (again) left knee, Colts’ Brian Mason has tough kicking decision looming",
+      "link": "https://fox59.com/sports/colts/forget-the-ravaged-again-left-knee-colts-brian-mason-has-tough-kicking-decision-looming/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-08-24T22:01:27+0000",
+      "summary": "INDIANAPOLIS – An important decision awaits Brian Mason and it has nothing to do with the bulky brace protecting his once-again-ravaged left knee. It’s: Spencer Shrader? Or, Blake Grupe? Rosters must be trimmed to 53 on Sunday and among the diciest decisions facing the Indianapolis Colts and their special teams coordinator is which accomplished kicker [...]"
     }
   ],
   "links": [
