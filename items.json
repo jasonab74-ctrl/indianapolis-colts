@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-05T05:16:04+00:00",
+  "updated": "2026-09-05T09:12:42+00:00",
   "items": [
+    {
+      "id": "ec3a86f54220b440",
+      "title": "Meet the two ex-NFL players joining LSU, Lane Kiffin to play in college football games",
+      "link": "https://sports.yahoo.com/articles/meet-two-ex-nfl-players-090001943.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-05T09:00:01+0000",
+      "summary": "A Louisiana judge has seemingly paved the way for Dae'Quan Wright and Zxavian Harris to return to LSU despite being on NFL rosters."
+    },
     {
       "id": "670e2cc7dc49cbef",
       "title": "HSE teacher, students being sent to Colts game after viral video",
@@ -531,15 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-08-27T17:01:03+0000",
       "summary": "In this edition of the Colts Blue Zone Podcast, Dave Griffiths, Mike Chappell and Matt Adams discuss injury updates from Alec Pierce and Mooney Ward. Plus: Josh Downs' role in the offense, battles for kicker and backup QB get (maybe) some clarity, Cam Bynum becomes a certified Green Dot Guy and a struggling cornerback gets [...]"
-    },
-    {
-      "id": "d9b671793f5ae3d6",
-      "title": "Colts remove WR Alec Pierce from Active/Physically Unable to Perform list",
-      "link": "https://colts.com/news/colts-remove-wr-alec-pierce-from-active-physically-unable-to-perform-list",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-08-27T15:20:45+0000",
-      "summary": "Pierce is off PUP and can begin participating in practice today."
     }
   ],
   "links": [
