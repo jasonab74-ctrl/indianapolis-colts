@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-16T11:55:16+00:00",
+  "updated": "2026-09-16T16:10:57+00:00",
   "items": [
+    {
+      "id": "e580ca2192ae872d",
+      "title": "NFL odds, betting, storylines: 3 underdogs to back in Week 2",
+      "link": "https://sports.yahoo.com/betting/article/nfl-odds-betting-storylines-3-underdogs-to-back-in-week-2-160734484.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-16T16:07:34+0000",
+      "summary": "Let's look at three spots where some Week 2 'dogs are in position to bark."
+    },
+    {
+      "id": "c48534ba2c7a57b2",
+      "title": "Colts wide receiver Keenan Allen formally charged in alleged drunken driving incident",
+      "link": "https://sports.yahoo.com/articles/colts-wide-receiver-keenan-allen-160212618.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-16T16:02:12+0000",
+      "summary": "Indianapolis Colts receiver Keenan Allen will face two misdemeanor charges in an alleged drunken driving incident, according to court records.  Colts coach Shane Steichen declined to address the latest twist before Wednesday's practice, at which Allen is expected to be a participant.  Allen has not addressed the incident publicly."
+    },
+    {
+      "id": "033892819a96725a",
+      "title": "Colts make change on defense; new defender to wear green dot in Week 2",
+      "link": "https://sports.yahoo.com/articles/colts-change-defense-defender-wear-160115476.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-16T16:01:15+0000",
+      "summary": "The Indianapolis Colts are making a change on defense in Week 2 and will have a new signal caller."
+    },
+    {
+      "id": "8b8d214839b9151f",
+      "title": "Colts wide receiver Keenan Allen formally charged in drunk driving case",
+      "link": "https://fox59.com/sports/colts/colts-wide-receiver-keenan-allen-formally-charged-in-drunk-driving-case/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-09-16T13:51:20+0000",
+      "summary": "INDIANAPOLIS – Indianapolis Colts wide receiver Keenan Allen faces two misdemeanor counts following his arrest last month in downtown Indianapolis. Court records show Allen is formally charged with operating a vehicle while intoxicated and operating a vehicle with an alcohol concentration of equivalent to .15 or more. According to court documents, Indianapolis Metropolitan police saw [...]"
+    },
     {
       "id": "6d55496e43d70df9",
       "title": "The Chiefs dismantling the Broncos has some Colts fans sweating",
@@ -11,60 +47,6 @@
       "summary": "The Denver Broncos had one of the best defenses in 2025. It’s what carried them to a No. 1 seed in the AFC. Sure, it might have been a bit of a down year for the conference but there was no denying their defensive prowess. Teams change and personnel is different every year, but what [&#8230;]"
     },
     {
-      "id": "b3f4ac6279f78ecb",
-      "title": "The Chiefs dismantling the Broncos has some Colts fans sweating",
-      "link": "https://sports.yahoo.com/articles/chiefs-dismantling-broncos-colts-fans-114700404.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-16T11:47:00+0000",
-      "summary": "The Colts have every right to be nervous about their game against the Chiefs."
-    },
-    {
-      "id": "809cbbac711d931a",
-      "title": "Colts WR Keenan Allen formally charged after DUI arrest",
-      "link": "https://sports.yahoo.com/articles/colts-wr-keenan-allen-formally-113407540.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-16T11:34:07+0000",
-      "summary": "Colts receiver Keenan Allen was formally charged with two misdemeanor charges stemming from his arrest on suspected DUI early the morning of Aug. 30 in downtown Indianapolis."
-    },
-    {
-      "id": "3bc28aca71cbac0c",
-      "title": "Colts WR Keenan Allen formally charged after DUI arrest",
-      "link": "https://sports.yahoo.com/articles/colts-wr-keenan-allen-formally-113407380.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-16T11:34:07+0000",
-      "summary": "Colts receiver Keenan Allen was formally charged with two misdemeanor charges stemming from his arrest on suspected DUI early the morning of Aug. 30 in downtown Indianapolis."
-    },
-    {
-      "id": "5c681c9685b44a1b",
-      "title": "2 Rams linemen among NFL's best in run block win rate for Week 1",
-      "link": "https://sports.yahoo.com/articles/2-rams-linemen-among-nfls-113141437.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-16T11:31:41+0000",
-      "summary": "Coleman Shelton and Warren McClendon Jr. were among the best run blockers in the NFL this past week, ranking 4th at their respective positions."
-    },
-    {
-      "id": "c5a1067a23b4c959",
-      "title": "Falcons fall to No. 29 in The Athletic's Week 2 power rankings",
-      "link": "https://sports.yahoo.com/articles/falcons-fall-no-29-athletics-113101030.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-16T11:31:01+0000",
-      "summary": "Falcons fall three spots in The Athletic's NFL Week 2 power rankings"
-    },
-    {
-      "id": "58d0938b6b8f51d3",
-      "title": "Fans left stunned after hearing who the Rams could now be signing for Matthew Stafford",
-      "link": "https://sports.yahoo.com/articles/fans-left-stunned-hearing-rams-113000113.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-16T11:30:00+0000",
-      "summary": "The Los Angeles Rams were the only team to fail to score double-digit points in Week One of the 2026 NFL season. For a team that entered the new season with so much hype surrounding their superstar-filled roster, it was a hugely lacklustre performance from Sean McVay’s men."
-    },
-    {
       "id": "a271df5047cb50db",
       "title": "Colts announce practice squad move at corner by immediately bringing back familiar face",
       "link": "https://stampedeblue.com/indianapolis-colts-news/127446/colts-announce-practice-squad-move-at-corner-by-immediately-bringing-back-familiar-face",
@@ -72,6 +54,15 @@
       "feed": "Stampede Blue",
       "published": "2026-09-16T03:06:16+0000",
       "summary": "On Tuesday, the Indianapolis Colts announced that the team has re-signed cornerback Johnathan Edwards to their practice squad and waived fellow corner Robert Carter Jr. in a corresponding roster move. After being waived on Monday by Indianapolis, Edwards subsequently cleared league waivers. For now, the 24-year-old cornerback will remain within the Colts organization, with a [&#8230;]"
+    },
+    {
+      "id": "d3849e2b8c46bea9",
+      "title": "How to watch the Indianapolis Colts at Kansas City Chiefs on September 20, 2026",
+      "link": "https://colts.com/news/where-to-watch-indianapolis-colts-at-kansas-city-chiefs-regular-nfl-season-week-2-2026",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-09-15T21:02:00+0000",
+      "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Kansas City Chiefs on Sunday, September 20 at 8:20 p.m. ET (Week 2)."
     },
     {
       "id": "4492f3ceb127ce00",
@@ -540,6 +531,15 @@
       "feed": "Colts.com",
       "published": "2026-09-04T16:49:05+0000",
       "summary": "Shrader was, and remains, the only kicker on the Colts' initial 53-man roster when it was released Sunday."
+    },
+    {
+      "id": "448e6ab3a814db1a",
+      "title": "Free tickets now available for Colts London game watch party at Living Room Theaters",
+      "link": "https://colts.com/news/free-tickets-now-available-for-indianapolis-colts-london-game-watch-party-at-the-living-room-theaters-downtown-indy-washington-commanders-giveaways-food-drink-specials",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-09-04T14:00:00+0000",
+      "summary": "Fans can now claim free tickets for the Indianapolis Colts official London Game Watch Party, presented by Bud Light, at Living Room Theaters in downtown Indianapolis as the Colts take on the Washington Commanders on Sunday, Oct. 4."
     }
   ],
   "links": [
