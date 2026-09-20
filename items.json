@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-20T09:57:37+00:00",
+  "updated": "2026-09-20T14:01:42+00:00",
   "items": [
+    {
+      "id": "78fbf25e61e88b37",
+      "title": "Broncos RB R.J. Harvey is unlikely to play vs. the Jaguars",
+      "link": "https://sports.yahoo.com/articles/broncos-rb-r-j-harvey-135021261.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:50:21+0000",
+      "summary": "According to ESPN’s lead NFL insider Adam Schefter, Denver Broncos running back R.J. Harvey is unlikely to play vs. the Jacksonville Jaguars later today."
+    },
+    {
+      "id": "20350a6a1b7d3f79",
+      "title": "NFL insiders reveal Falcons QB Michael Penix Jr.'s likely return date",
+      "link": "https://sports.yahoo.com/articles/nfl-insiders-reveal-falcons-qb-134957204.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:49:57+0000",
+      "summary": "Michael Penix Jr. is expected to return and start for the Falcons in Week 3, per ESPN"
+    },
+    {
+      "id": "636179a460f6a981",
+      "title": "Will Mansoor Delane play today? Status update for Chiefs DB in Week 2",
+      "link": "https://sports.yahoo.com/articles/mansoor-delane-play-today-status-134533087.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:45:33+0000",
+      "summary": "Will Chiefs DB Mansoor Delane take the field to face the Colts on 'Sunday Night Football' in Week 2? Here's the latest update on Delane's status:"
+    },
+    {
+      "id": "737fbc885cb66802",
+      "title": "Colts news: Keenan Allen facing 3-game suspension, but there's a catch",
+      "link": "https://sports.yahoo.com/articles/colts-news-keenan-allen-facing-134501284.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:45:01+0000",
+      "summary": "Keenan Allen is in his first season with the Indianapolis Colts, but he could be missing some time later this season. Allen was arrested during the preseason on a drunk-driving charge after failing a field sobriety test. With the arrest and subsequent charges, Allen is now facing a suspension from the NFL of at least three games, per Adam Schefter […] The post Colts news: Keenan Allen facing 3-game suspension, but there's a catch appeared first on ClutchPoints."
+    },
+    {
+      "id": "46705895bc220a24",
+      "title": "Texans Vaunted Defense Was Humbled by Buffalo. How Will They Bounce Back Against Joe Burrow and the Bengals?",
+      "link": "https://sports.yahoo.com/articles/texans-vaunted-defense-humbled-buffalo-133847106.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:38:47+0000",
+      "summary": "Houston entered the season with one of the NFL’s most feared defenses, but Josh Allen and the Bills exposed some […]"
+    },
+    {
+      "id": "e0b5da3e49fb47f7",
+      "title": "NFL Week 2: What game is Tom Brady calling today?",
+      "link": "https://sports.yahoo.com/articles/nfl-week-2-game-tom-133634236.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:36:34+0000",
+      "summary": "Tom Brady returns with Fox’s top NFL crew for Week 2, but which matchup will he call alongside Kevin Burkhardt?"
+    },
+    {
+      "id": "0acf65173502bb63",
+      "title": "Sam Darnold injury update gives optimistic return timeline amid faster than expected recovery",
+      "link": "https://sports.yahoo.com/articles/sam-darnold-injury-gives-optimistic-133206525.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-09-20T13:32:06+0000",
+      "summary": "NFL Network's Ian Rapoport confirmed on Sunday when Sam Darnold is expected to return to action."
+    },
     {
       "id": "d3849e2b8c46bea9",
       "title": "How to watch the Indianapolis Colts at Kansas City Chiefs on September 20, 2026",
@@ -9,51 +72,6 @@
       "feed": "Colts.com",
       "published": "2026-09-20T12:00:00+0000",
       "summary": "TV broadcast, radio and streaming information for Indianapolis Colts at Kansas City Chiefs on Sunday, September 20 at 8:20 p.m. ET (Week 2)."
-    },
-    {
-      "id": "5d4cdcac1b230235",
-      "title": "Which games are Fox, CBS broadcasting? NFL Week 2 coverage maps",
-      "link": "https://sports.yahoo.com/articles/games-fox-cbs-broadcasting-nfl-094544918.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-20T09:45:44+0000",
-      "summary": "Which NFL games will be broadcast in your region in Week 2? Here are the coverage maps for Sunday's action."
-    },
-    {
-      "id": "3d40575c6004bd34",
-      "title": "What channel is Sunday Night Football tonight? What time is Sunday Night Football?",
-      "link": "https://sports.yahoo.com/articles/channel-sunday-night-football-tonight-094526901.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-20T09:45:26+0000",
-      "summary": "Who's on Sunday Night Football tonight? Here's how to watch the Indianapolis Colts vs. Kansas City Chiefs."
-    },
-    {
-      "id": "8119bf8119cb6d13",
-      "title": "Commanders' Sonny Styles has one word to describe his first NFL game",
-      "link": "https://sports.yahoo.com/articles/commanders-sonny-styles-one-word-094033893.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-20T09:40:33+0000",
-      "summary": "Commanders linebacker Sonny Styles played well in his NFL debut. Do you think he was happy?"
-    },
-    {
-      "id": "840ebf87ba6f5d4a",
-      "title": "Minnesota Vikings vs. Chicago Bears: How to watch the NFL Week 2 game, channel, streaming info and more",
-      "link": "https://sports.yahoo.com/nfl/article/minnesota-vikings-vs-chicago-bears-how-to-watch-the-nfl-week-2-game-channel-streaming-info-and-more-093600836.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-20T09:36:00+0000",
-      "summary": "How to watch the Vikings play the Bears this Sunday."
-    },
-    {
-      "id": "c59e443a53e87eb3",
-      "title": "How to watch Chiefs vs. Colts today: Time, TV channel for 'SNF' Week 2",
-      "link": "https://sports.yahoo.com/articles/watch-chiefs-vs-colts-today-093105819.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-09-20T09:31:05+0000",
-      "summary": "Here's everything you need to know to watch the Kansas City Chiefs face the Indianapolis Colts on 'Sunday Night Football' in Week 2."
     },
     {
       "id": "a0b887b670fe8d4d",
@@ -522,24 +540,6 @@
       "feed": "Colts.com",
       "published": "2026-09-11T14:03:04+0000",
       "summary": "The Colts will open the 2026 season on Sunday at Lucas Oil Stadium against a star-studded Baltimore Ravens team, but one that has plenty of uncertainty with a new coaching staff for the first time in nearly two decades."
-    },
-    {
-      "id": "b460d5dfb50bd12f",
-      "title": "Colts’ DeForest Buckner: I feel like myself all over again",
-      "link": "https://fox59.com/sports/colts/colts-deforest-buckner-i-feel-like-myself-all-over-again/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-09-10T20:59:03+0000",
-      "summary": "INDIANAPOLIS – Motivation came in several forms in the aftermath of a New Year's Eve surgery to address a herniated disc in his neck that made it impossible for the massive man to lift his young kids. DeForest Buckner would have had to attack the subsequent rehab just to live a normal post-NFL life with [...]"
-    },
-    {
-      "id": "fba597f39337e287",
-      "title": "Practice Notebook: S AJ Haulcy a full participant in Thursday's practice",
-      "link": "https://colts.com/news/practice-notebook-s-aj-haulcy-a-full-participant-in-thursday-s-practice",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-09-10T20:01:37+0000",
-      "summary": "TE Drew Ogletree, C Sedrick Van Pran-Granger and QB Anthony Richardson Sr. were also listed as full participants."
     }
   ],
   "links": [
