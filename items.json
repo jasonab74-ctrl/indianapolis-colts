@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-16T03:13:14+00:00",
+  "updated": "2026-10-16T08:23:33+00:00",
   "items": [
-    {
-      "id": "83837cacd30f3236",
-      "title": "NFL says it will be &quot;selective&quot; about playing on Wednesdays",
-      "link": "https://sports.yahoo.com/articles/nfl-says-selective-playing-wednesdays-025237438.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-10-16T02:52:37+0000",
-      "summary": "The NFL has begun scheduling some games on Wednesdays."
-    },
-    {
-      "id": "fd1d5bc7908de4f2",
-      "title": "Man pleads not guilty to arson charge in fire at former NFL player, UW Husky’s Tacoma home",
-      "link": "https://sports.yahoo.com/articles/man-pleads-not-guilty-arson-025124687.html",
-      "source": "Yahoo Sports",
-      "feed": "Yahoo Sports",
-      "published": "2026-10-16T02:51:24+0000",
-      "summary": "A man accused of intentionally setting fire to a multimillion-dollar Tacoma home owned by former Washington Huskies and NFL player Desmond Trufant pleaded not guilty to an arson charge."
-    },
     {
       "id": "7137feab842a2325",
       "title": "Indianapolis Colts Injury Report: Week 6 Thursday",
@@ -540,6 +522,24 @@
       "feed": "Colts.com",
       "published": "2026-10-04T16:40:07+0000",
       "summary": "The Colts improved to 2-2 on the season and now have a three-game international winning streak."
+    },
+    {
+      "id": "ec1a3367f295e468",
+      "title": "Keys to the Game: Colts vs. Commanders",
+      "link": "https://fox59.com/sports/colts/keys-to-the-game-colts-vs-commanders/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-10-04T13:23:02+0000",
+      "summary": "INDIANAPOLIS — The Colts play their third international game in the last four seasons as they face the Commanders today at Tottenham Hotspur Stadium. IndyStar insider Joel A. Erickson gives FOX59/CBS4's Chris Hagan his keys to this morning's game if the Colts are going to even their record at 2-2."
+    },
+    {
+      "id": "cc87e067a481d318",
+      "title": "Sideline to Sideline: Travel Tips",
+      "link": "https://fox59.com/sports/colts/sideline-to-sideline-travel-tips/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-10-04T13:17:09+0000",
+      "summary": "INDIANAPOLIS — Every week, Blue Zone's Dave Griffiths asks the Colts one question on one topic as they walk \"sideline to sideline.\" This week, Dave asks the players what their best travel tip is as they head to London to face the Commanders in the NFL's International Series."
     }
   ],
   "links": [
