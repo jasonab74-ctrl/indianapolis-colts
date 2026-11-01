@@ -1,41 +1,86 @@
 {
-  "updated": "2026-11-01T20:11:17+00:00",
+  "updated": "2026-11-01T23:45:05+00:00",
   "items": [
     {
-      "id": "ee83663cb7a8b0de",
-      "title": "WATCH: Jaguars get pick-six to make it 28-0 at halftime vs Colts",
-      "link": "https://sports.yahoo.com/articles/watch-jaguars-pick-six-28-200406055.html",
+      "id": "afadf6038cdff7a9",
+      "title": "Baker Mayfield, Buccaneers make NFL history without completing a pass",
+      "link": "https://sports.yahoo.com/articles/baker-mayfield-buccaneers-nfl-history-233624163.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-11-01T20:04:06+0000",
-      "summary": "The Jacksonville Jaguars got a pick-six against the Indianapolis Colts to make it 28-0 at halftime."
+      "published": "2026-11-01T23:36:24+0000",
+      "summary": "Baker Mayfield finished 0-for-3 as the Buccaneers beat Atlanta 16-0, becoming the first team since 1974 to win with zero completions."
     },
     {
-      "id": "490996374ef19d49",
-      "title": "Reporter provides more insight into Panthers' firing of DC Ejiro Evero",
-      "link": "https://sports.yahoo.com/articles/reporter-provides-more-insight-panthers-200113268.html",
+      "id": "31103be0cc71c867",
+      "title": "Vikings defense holds Lions in check for 3 quarters before buckling late",
+      "link": "https://sports.yahoo.com/articles/vikings-defense-holds-lions-check-233334353.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-11-01T20:01:13+0000",
-      "summary": "NFL insider James Palmer gave a bit of additional insight into the Panthers' decision to fire DC Ejiro Evero."
+      "published": "2026-11-01T23:33:34+0000",
+      "summary": "DETROIT (AP) — For the first six games of the season, the Minnesota Vikings were able to count on their top-tier defense to bail out an inconsistent offense. As a result, the Vikings went into Detroit on Sunday at 6-0 — the last undefeated team in the NFL."
     },
     {
-      "id": "12c0c589512f9c25",
-      "title": "Giants Trade For Taylor Risks Repeating Past Mistakes",
-      "link": "https://sports.yahoo.com/articles/giants-trade-taylor-risks-repeating-195952911.html",
+      "id": "482264752059f8b7",
+      "title": "Colts' Anthony Richardson celebrates return after freak eye injury",
+      "link": "https://sports.yahoo.com/articles/colts-anthony-richardson-celebrates-return-233307002.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-11-01T19:59:52+0000",
-      "summary": "Giants fans want Jonathan Taylor, but experts warn the price is too high and the team isn't ready. Here is why the deal could backfire."
+      "published": "2026-11-01T23:33:07+0000",
+      "summary": "Anthony Richardson nearly lost vision in his eye after a freak injury during the 2025 season. He was grateful to return to the field in Week 8."
     },
     {
-      "id": "d3842cbc43da4d17",
-      "title": "Bengals do 'Sexy Dexy' after Dexter Lawrence's fumble recovery, return",
-      "link": "https://sports.yahoo.com/articles/bengals-sexy-dexy-dexter-lawrences-195936217.html",
+      "id": "93b86eb1142c354e",
+      "title": "NFL fans think Kyler Murray’s new injury is a Vikings ploy to bench him",
+      "link": "https://sports.yahoo.com/articles/nfl-fans-think-kyler-murray-233042783.html",
       "source": "Yahoo Sports",
       "feed": "Yahoo Sports",
-      "published": "2026-11-01T19:59:36+0000",
-      "summary": "Bengals defensive tackle Dexter Lawrence II recovered a Cam Ward fumble and returned it during the team's NFL Week 8 game against the Titans."
+      "published": "2026-11-01T23:30:42+0000",
+      "summary": "The Vikings wouldn't really &quot;soft bench&quot; Kyler Murray ... would they?"
+    },
+    {
+      "id": "7809c4dda2e88ae0",
+      "title": "Colts coach Shane Steichen plans to 'evaluate everything, every position' after latest loss",
+      "link": "https://sports.yahoo.com/articles/colts-coach-shane-steichen-plans-232907458.html",
+      "source": "Yahoo Sports",
+      "feed": "Yahoo Sports",
+      "published": "2026-11-01T23:29:07+0000",
+      "summary": "(AP) — Indianapolis Colts coach Shane Steichen plans to “evaluate everything, every position.Steichen’s team got steamrolled in Jacksonville, losing 42-7 to the Jaguars five days after trading perennial Pro Bowlers Quenton Nelson and DeForest Buckner and signaling a potential full-scale rebuild in Indianapolis."
+    },
+    {
+      "id": "89ec01b0a5b35f63",
+      "title": "Colts hit rock bottom in humiliating, 12th straight road loss to Jaguars",
+      "link": "https://stampedeblue.com/indianapolis-colts-scores-results/129498/colts-hit-rock-bottom-in-humiliating-12th-straight-road-loss-to-jaguars",
+      "source": "Stampede Blue",
+      "feed": "Stampede Blue",
+      "published": "2026-11-01T22:41:48+0000",
+      "summary": "If you want to witness an unmitigated disaster, buckle up and watch the Indianapolis Colts play football in Jacksonville. Seriously, don’t turn it off.&#160; The Colts gave into their annual humiliation ritual, losing 42-7 to the Jaguars at EverBank Stadium. The latest loss extended the road losing streak against their AFC South rival to 12 consecutive [&#8230;]"
+    },
+    {
+      "id": "52dc79d490765d5a",
+      "title": "Colts RB Jonathan Taylor focused on 'embarrassing' loss to Jaguars, not swirling trade rumors",
+      "link": "https://colts.com/news/colts-rb-jonathan-taylor-focused-on-embarrassing-loss-to-jaguars-not-swirling-trade-rumors",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-11-01T22:28:34+0000",
+      "summary": "Taylor rushed eight times for 23 yards in the Colts' 35-point loss to the Jaguars on Sunday."
+    },
+    {
+      "id": "f65bb6162b758ca6",
+      "title": "Colts lose fourth straight as Jaguars cruise, 42-7",
+      "link": "https://fox59.com/sports/colts/colts-lose-fourth-straight-as-jaguars-cruise-42-7/",
+      "source": "FOX59 / CBS4",
+      "feed": "CBS4Indy",
+      "published": "2026-11-01T21:07:25+0000",
+      "summary": "INDIANAPOLIS - The Indianapolis Colts' season continues to spiral as the Jacksonville Jaguars dominated their AFC South rival, 42-7 at EverBank Stadium on Sunday afternoon. The loss was the Colts' fourth straight setback and 11th straight defeat at Jacksonville. Their last win in North Florida was with Andrew Luck in 2014. The Jaguars took an [...]"
+    },
+    {
+      "id": "cb61d8da96458de3",
+      "title": "Colts dismantled by Jaguars in Week 8 loss",
+      "link": "https://colts.com/news/colts-dismantled-by-jaguars-in-week-8-loss",
+      "source": "Colts.com",
+      "feed": "Colts.com",
+      "published": "2026-11-01T21:05:58+0000",
+      "summary": "The Colts lost, 42-7, to the Jaguars on Sunday at EverBank Stadium, falling to 2-6 on the season."
     },
     {
       "id": "04b24e47c0e95087",
@@ -243,15 +288,6 @@
       "feed": "Stampede Blue",
       "published": "2026-10-30T01:26:53+0000",
       "summary": "On Thursday, Indianapolis Colts star running back Jonathan Taylor, who’s arguably the franchise’s last longstanding veteran cornerstone still remaining after the recent trades of both Quenton Nelson and DeForest Buckner, indicated that he has not requested a trade from the only organization he’s ever known. However, he did acknowledge his current uncertain future, which still [&#8230;]"
-    },
-    {
-      "id": "170376bcd5ce7fcc",
-      "title": "Colts reportedly have no intention of trading breakout young defensive tackle",
-      "link": "https://stampedeblue.com/indianapolis-colts-news/129410/colts-reportedly-have-no-intention-of-trading-breakout-defensive-tackle",
-      "source": "Stampede Blue",
-      "feed": "Stampede Blue",
-      "published": "2026-10-30T01:01:44+0000",
-      "summary": "According to NFL Network’s Mike Garafolo, despite other team’s recent inquiries, the Indianapolis Colts have no intentions of trading breakout defensive tackle Ade Adebawore ahead of the league’s trade deadline: With longtime veteran DeForest Buckner’s departure, the 25-year-old Adebawore, who was originally a 2023 4th round pick by Indianapolis, is expected to immediately start full-time [&#8230;]"
     },
     {
       "id": "d14bfbb5b4fd242c",
@@ -504,42 +540,6 @@
       "feed": "CBS4Indy",
       "published": "2026-10-24T22:04:15+0000",
       "summary": "INDIANAPOLIS – Areas of interest in the Indianapolis Colts’ Sunday meeting with the Minnesota Vikings at U.S. Bank Stadium: History lesson Part I The Colts hold an overall 18-9-1 edge in the series, but the Vikings have won the last two. Indy’s last win was a 28-11 decision in week 2 of 2020 at Lucas [...]"
-    },
-    {
-      "id": "7d920c52ea38d356",
-      "title": "Colts elevate LB Germaine Pratt, CB Kenneth Harris from practice squad to active roster; release P Thomas Morstead from practice squad",
-      "link": "https://colts.com/news/colts-elevate-lb-germaine-pratt-cb-kenneth-harris-from-practice-squad-to-active-roster-release-p-thomas-morstead-from-practice-squad",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-10-24T15:55:28+0000",
-      "summary": "The roster moves were made Saturday."
-    },
-    {
-      "id": "3ae72ddd77bc9ce8",
-      "title": "Colts’ Sauce Gardner, 2 others ruled out of test with Vikings",
-      "link": "https://fox59.com/sports/colts/colts-sauce-gardner-2-others-ruled-out-of-test-with-vikings/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-10-23T21:16:54+0000",
-      "summary": "INDIANAPOLIS – The midweek uncertainty regarding Sauce Gardner has been cleared up. The Indianapolis Colts’ veteran cornerback was ruled out of Sunday’s road test against the 5-0 Minnesota Vikings with an injury to his left calf. Gardner was forced to exit last Sunday’s 26-20 loss to Tennessee with the injury and didn’t return. It’s the [...]"
-    },
-    {
-      "id": "8cb5f9b84539e643",
-      "title": "The man behind the mic: Meet Colts PA Voice JJ Stankevitz",
-      "link": "https://fox59.com/sports/colts/the-man-behind-the-mic-meet-colts-pa-voice-jj-stankevitz/",
-      "source": "FOX59 / CBS4",
-      "feed": "CBS4Indy",
-      "published": "2026-10-23T19:01:44+0000",
-      "summary": "INDIANAPOLIS — When it comes to his full-time gig, Colts team writer JJ Stankevitz leaves no stone unturned. \"Being kind of embedded with the team as sort of an internal beat writer, it helps me the most,\" Stankevitz said. Stankevitz knows the players, their stats and their stories. But regarding his own background — even [...]"
-    },
-    {
-      "id": "7954ad64de82cdef",
-      "title": "Colts Week 7 Preview: Brian Flores' aggressive Vikings defense presents major challenge for Daniel Jones, Shane Steichen",
-      "link": "https://colts.com/news/colts-week-7-preview-brian-flores-aggressive-vikings-defense-presents-major-challenge-for-daniel-jones-shane-steichen",
-      "source": "Colts.com",
-      "feed": "Colts.com",
-      "published": "2026-10-23T18:07:08+0000",
-      "summary": "The Colts will look to rebound on Sunday against an undefeated Minnesota Vikings team coming off its bye week."
     }
   ],
   "links": [
